@@ -1,0 +1,78 @@
+{
+  "code": "PROG",
+  "name": "Programmering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:100",
+  "nameHeading": "<h2>Programmering</h2>",
+  "description": "<p>Programmering har stor betydelse för och påverkan på arbetslivet och samhället. Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning. Ämnet behandlar även hur programmerade system påverkar maskiner, utrustning och beslutsfattande.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem. Undervisningen ska också leda till att eleverna utvecklar färdigheter i programvaruutveckling och förståelse av hur programvaror och programmerbara system påverkar sin omgivning.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk. Eleverna ska även ges möjlighet att utveckla förståelse för hur programmering används utifrån olika sociala aspekter, som exempelvis genus, kultur och socioekonomisk bakgrund. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor och olika handlingsalternativ inom programmering.</p> <h5><em>Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om programmerbara system, programspråk och programmeringsparadigm.</li> <li>Förmåga att formulera och skapa lösningar för programmeringsproblem.</li> <li>Förmåga att skapa program med anpassning till syfte, användare och tillgänglighet.</li> </ul><h3>Nivåer i ämnet programmering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROG1000X</h3>",
+      "code": "PROG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>System</em></p> <ul> <li>Programmeringens möjligheter och begränsningar utifrån datorns funktionssätt.</li> <li>Samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara.</li> <li>Användning av datavetenskapliga begrepp och principer.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Strukturerad problemlösning och programmering.</li> <li>Tillämpning av någon metod för att underlätta problemlösning, till exempel pseudokod och diagramteknik.</li> </ul> <p><em>Programmering</em></p> <ul> <li>Programmering i ett eller flera programspråk, däribland minst ett textbaserat.</li> <li>Användning av relevanta verktyg för programutveckling, till exempel IDE (integrated development environment) och versionshanteringssystem.</li> <li>Det valda programspråkets grundläggande kontrollstrukturer.</li> <li>Skapande av enkla program som löser någon uppgift.</li> <li>Olika sociala aspekter av hur programmering används.</li> <li>Enklare metoder för att finna, analysera, åtgärda, förebygga och förhindra syntaxfel, programmeringslogiska fel och exekveringsfel.</li> <li>Enklare undantagshantering.</li> <li>Goda principer för namngivning, kommentarer och strukturerad kod.</li> <li>Gränssnitt för interaktion mellan program och användare.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROG2000X</h3>",
+      "code": "PROG2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>System</em></p> <ul> <li>Det objektorienterade programmeringsparadigmet.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall. Design av lämplig lösning utifrån gjord analys med lämpliga verktyg och metoder.</li> </ul> <p><em>Programmering</em></p> <ul> <li>Programmering i objektorienterat programspråk.</li> <li>Användning av relevanta verktyg för programutveckling, till exempel modelleringsverktyg.</li> <li>Skapande och användning av klasser och objekt utifrån gjord analys och design.</li> <li>Hur arv används för att förändra eller utöka beteende hos klasser som ingår i egna och andras klasshierarkier och standardbibliotek.</li> <li>Användning av generiska klasser och metoder.</li> <li>Skrivning och läsning av lagrad data i filer och databaser.</li> <li>Utveckling av program som nyttjar kommunikation över internet.</li> <li>Metoder för att förebygga, finna, analysera, åtgärda och förhindra syntaxfel, programmeringslogiska fel och exekveringsfel.</li> <li>Testning och undantagshantering.</li> <li>Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet och nyttan av kodstandard.</li> <li>Strukturering av programkod och klasshierarkier.</li> <li>Skapande av användarvänliga gränssnitt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om programmerbara system, programspråk och programmeringsparadigm.</p> <p>Eleven formulerar och löser <strong>enkla</strong> programmeringsproblem.</p> <p>Eleven skapar program med <strong>viss</strong> anpassning till syfte, användare och tillgänglighet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om programmerbara system, programspråk och programmeringsparadigm.</p> <p>Eleven formulerar och löser <strong>relativt komplexa</strong> programmeringsproblem.</p> <p>Eleven skapar program med <strong>god</strong> anpassning till syfte, användare och tillgänglighet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om programmerbara system, programspråk och programmeringsparadigm.</p> <p>Eleven formulerar och löser <strong>komplexa</strong> programmeringsproblem.</p> <p>Eleven skapar program med <strong>mycket god</strong> anpassning till syfte, användare och tillgänglighet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.064Z"
+}

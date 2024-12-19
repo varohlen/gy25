@@ -1,0 +1,143 @@
+{
+  "code": "PRR",
+  "name": "Programmering",
+  "englishName": "Programming",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:247",
+  "skolfsAndring": "2022:258",
+  "nameHeading": "<h2>Programmering</h2>",
+  "description": "<p>Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem. Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden.</p><h4>Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om programmerbara system.</li> <li>Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.</li> <li>Förståelse av och färdigheter i att använda datavetenskapliga begrepp och principer.</li> <li>Kunskaper om programspråk och programmeringsparadigm.</li> <li>Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera programkod.</li> <li>Färdigheter i att skapa program med ett givet syfte och för en avsedd användare.</li> <li>Kunskaper om gränssnitt mot filer, filsystem, databashanterare och internet.</li> <li>Kunskaper om och färdigheter i objektorienterad programmering.</li> <li>Förmåga att finna, analysera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.</li> <li>Kunskaper om samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Programmering 1, 100 poäng. </li> <li>Programmering 2, 100 poäng, som bygger på kursen programmering 1.</li> <li>Programmering 3, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PRRPRR01</h3>",
+      "code": "PRRPRR01",
+      "nameHeading": "<h2>Programmering 1, 100 poäng</h2>",
+      "name": "Programmering 1",
+      "englishName": "Programming 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen programmering 1 omfattar punkterna 1–6 och 9–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Grundläggande programmering i ett eller flera programspråk varav minst ett av språken är textbaserat.</li> <li>Programmering och dess olika användningsområden ur ett socialt perspektiv inklusive genus, kultur och socioekonomisk bakgrund.</li> <li>Programmeringens möjligheter och begränsningar utifrån datorns funktionssätt.</li> <li>Strukturerat arbetssätt för problemlösning och programmering.</li> <li>Grundläggande kontrollstrukturer, konstruktioner och datatyper.</li> <li>Arbetsmetoder för förebyggande av programmeringsfel, testning, felsökning och rättning av kod.</li> <li>Grundläggande datastrukturer och algoritmer.</li> <li>Gränssnitt för interaktion mellan program och användare.</li> <li>Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet, rena gränssnitt och nyttan av standard.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven formulerar och planerar <strong>i samråd </strong>med handledare programmeringsuppgifter med pseudokod eller diagramteknik. I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften. I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>enkelt</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat. Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren. Elevens färdiga program eller skript är utförda med <strong>tillfredsställande </strong>resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av enkel karaktär</strong>.</p><p>Eleven anpassar <strong>med viss säkerhet </strong>sin planering av programmeringsuppgiften och utför felsökning av <strong>enkla</strong> syntaxfel. Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon </strong>situation och i <strong>något </strong>sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet </strong>datavetenskapliga begrepp.</p><p>Eleven redogör <strong>översiktligt </strong>för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen. Eleven redogör <strong>översiktligt </strong>för principer för att uppnå god kvalitet vid skapandet av datorprogram.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven formulerar och planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter med pseudokod eller diagramteknik. I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften. I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat. Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren. Elevens färdiga program eller skript är utförda med <strong>tillfredsställande </strong>resultat i ett eller flera programspråk som är stabila och robusta.</p><p>Eleven anpassar <strong>med viss säkerhet </strong>sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt sätt</strong> felsökning av syntaxfel,<strong> körtidsfel och programmeringslogiska fel</strong>. Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några </strong>situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet </strong>datavetenskapliga begrepp.</p><p>Eleven redogör <strong>utförligt </strong>för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen. Eleven redogör <strong>utförligt </strong>för principer för att uppnå god kvalitet vid skapandet av datorprogram.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven formulerar och planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter med pseudokod eller diagramteknik. I planeringen väljer eleven <strong>med säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften <strong>samt motiverar utförligt sina val</strong>. I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant och utförligt</strong> kommenterad källkod med <strong>gott</strong> resultat. Dessutom väljer eleven <strong>med säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>gott</strong> sätt interagera med den avsedda användaren. Elevens färdiga program eller skript är utförda med <strong>gott </strong>resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av komplex karaktär</strong>.</p><p>Eleven anpassar <strong>med säkerhet </strong>sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>. Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen <strong>och med förslag på förbättringar</strong> programmets prestanda och ändamålsenlighet i <strong>flera </strong>situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet </strong>datavetenskapliga begrepp.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen. Eleven redogör <strong>utförligt och nyanserat </strong>för principer för att uppnå god kvalitet vid skapandet av datorprogram.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRRPRR02</h3>",
+      "code": "PRRPRR02",
+      "nameHeading": "<h2>Programmering 2, 100 poäng</h2>",
+      "name": "Programmering 2",
+      "englishName": "Programming 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen programmering 2 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Grunderna för klasserna, objekt, egenskaper och metoder.</li> <li>Arv, inkapsling och polymorfism.</li> <li>Skapande av klasser och objekt i ett objektorienterat programspråk utifrån tidigare analys och design.</li> <li>Användning av klasser och att genom arv förändra beteende hos klasser som ingår i egna och andras klasshierarkier och standardbibliotek.</li> <li>Generiska klasser och metoder.</li> <li>Variablers och metoders synlighet och livslängd.</li> <li>Stark och svag samt statisk och dynamisk typning.</li> <li>Identifierares synlighet och livslängd.</li> <li>Det valda programspråkets kontrollstrukturer.</li> <li>Undantagshantering.</li> <li>Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall.</li> <li>Design av lämplig lösning ur föregående analys med lämpligt verktyg och metoder som klassdiagram.</li> <li>Skapande av användarvänliga gränssnitt.</li> <li>Skrivning och läsning av lagrad data.</li> <li>Utveckling av program som nyttjar kommunikation över internet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven formulerar och planerar <strong>i samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>viss säkerhet</strong> lämpliga programspråk.</p><p>Eleven analyserar och modellerar <strong>enklare </strong>uppgifter <strong>i samråd</strong> med handledare. Eleven designar <strong>med viss säkerhet</strong> utifrån den analyserade uppgiften en <strong>enkel </strong>lösning och dokumenterar denna med ett <strong>enkelt</strong> klassdiagram. Eleven väljer <strong>med viss säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>tillfredsställande </strong>sätt interagera med den avsedda användaren. Eleven skapar någon <strong>enkel </strong>lösning där programmet kommunicerar över internet.</p><p>Eleven skapar <strong>med viss säkerhet</strong> enklare program med klasser där arv används i <strong>begränsad </strong>utsträckning. I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>enkelt</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat. Eleven använder <strong>med viss säkerhet</strong> <strong>någon </strong>generisk klass. Produkten är av <strong>tillfredsställande </strong>kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av <strong>enkel </strong>karaktär.</p><p>Eleven anpassar <strong>med viss säkerhet </strong>sin planering av programutvecklingsprocessen och utför felsökning av <strong>enkla </strong>syntaxfel. Innan programutvecklingen avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon </strong>situation och i <strong>något </strong>sammanhang. Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven formulerar och planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>viss säkerhet</strong> lämpliga programspråk.</p><p>Eleven analyserar och modellerar uppgifter<strong> efter samråd</strong> med handledare. Eleven designar <strong>med viss säkerhet</strong> utifrån den analyserade uppgiften en lösning och dokumenterar denna med ett klassdiagram. Eleven väljer <strong>med viss säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>tillfredsställande </strong>sätt interagera med den avsedda användaren. Eleven skapar någon lösning där programmet kommunicerar över internet.</p><p>Eleven skapar <strong>med viss säkerhet</strong> enklare program med klasser där arv används. I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>noggrant</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat. Eleven använder <strong>med viss säkerhet</strong> <strong>några </strong>generiska klasser. Produkten är av <strong>tillfredsställande </strong>kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust.</p><p>Eleven anpassar <strong>med viss säkerhet </strong>sin planering av programutvecklingsprocessen och utför <strong>på ett systematiskt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>. Innan programutvecklingen avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några </strong>situationer och sammanhang. Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven formulerar och planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>säkerhet</strong> lämpliga programspråk.</p><p>Eleven analyserar och modellerar <strong>komplexa </strong>uppgifter <strong>efter samråd</strong> med handledare. Eleven designar <strong>med säkerhet</strong> utifrån den analyserade uppgiften en <strong>komplex</strong> lösning och dokumenterar denna med ett <strong>avancerat</strong> klassdiagram. Eleven väljer <strong>med säkerhet</strong> ett uttryckssätt och ett gränssnitt som är anpassat för att på ett <strong>gott </strong>sätt interagera med den avsedda användaren. Eleven skapar någon <strong>genomarbetad </strong>lösning där programmet kommunicerar över internet.</p><p>Eleven skapar <strong>med säkerhet</strong> enklare program med klasser där arv används i <strong>omfattande </strong>utsträckning. I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och <strong>noggrant och utförligt </strong>kommenterad källkod med <strong>gott</strong> resultat. Eleven använder <strong>med säkerhet</strong> <strong>flera </strong>generiska klasser. Produkten är av <strong>god </strong>kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av <strong>komplex </strong>karaktär.</p><p>Eleven anpassar <strong>med säkerhet </strong>sin planering av programutvecklingsprocessen, <strong>anpassar polymorfi </strong>och utför <strong>på ett systematiskt och effektivt sätt </strong>felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>. Innan programutvecklingen avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen <strong>och ger förslag på förbättringar </strong>av programmets prestanda och ändamålsenlighet i <strong>flera </strong>situationer och sammanhang. Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRRPRR33</h3>",
+      "code": "PRRPRR33",
+      "nameHeading": "<h2>Programmering 3, 100 poäng</h2>",
+      "name": "Programmering 3",
+      "englishName": "Programming 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen programmering 3 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<ul> <li>Olika programmeringsparadigms historik och användningsområden.</li> <li>Olika programspråks historik och inbördes släktskap samt de vanligaste programspråkens aktuella användningsområden.</li> <li>Programmering i kompilerade och tolkade programspråk.</li> <li>Rekursion.</li> <li>Abstrakta modeller, till exempel tillståndsmaskin.</li> <li>Analys och val av datastrukturer och algoritmer utifrån tillämpning och prestanda.</li> <li>Designmönster och mjukvaruarkitektur.</li> <li>Analys, nedbrytning och modellering av programmeringstekniska problem med flera lämpliga verktyg och metoder.</li> <li>Dokumentation.</li> <li>Design av lämplig lösning ur föregående analys med flera lämpliga verktyg och metoder.</li> <li>Programmering i språk från flera paradigm.</li> <li>Användning av webbtjänster, protokoll, gränssnitt och format för datautbyte.</li> <li>Användning av databashanterare för lagring av data.</li> <li>Kvalitetssäkring och testning av källkod genom manuella och automatiserade metoder, till exempel kodgranskning och enhetstestning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>viss säkerhet</strong> lämpliga programspråk. I planeringen väljer eleven <strong>i samråd </strong>med handledare datastrukturer och algoritmer som är adekvata för uppgiften. Eleven redogör <strong>översiktligt</strong> för olika programmeringsparadigms historik och användningsområden.</p><p>Eleven implementerar <strong>någon</strong> datastruktur och <strong>i samråd </strong>med handledare också <strong>någon</strong> algoritm samt löser <strong>någon</strong> uppgift genom att utnyttja rekursion. Eleven använder <strong>med visst </strong>handlag i sin programmering gränssnitt både mot internet och databashanterare. Dessutom gör eleven en <strong>enkel</strong> analys av en eller flera algoritmers komplexitet. Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell. Elevens färdiga program är utförda med <strong>tillfredsställande </strong>kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av enkel karaktär</strong>.</p><p>Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför felsökning av logiska fel och syntaxfel. Eleven kvalitetssäkrar sitt program med <strong>visst</strong> handlag genom <strong>begränsade</strong> manuella och automatiserade tekniker eller tester. Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla </strong>omdömen programmets prestanda och ändamålsenlighet i <strong>någon </strong>situation och i <strong>något</strong> sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>viss säkerhet</strong> lämpliga programspråk. I planeringen väljer eleven <strong>efter samråd </strong>med handledare datastrukturer och algoritmer som är adekvata för uppgiften. Eleven redogör <strong>utförligt </strong>för olika programmeringsparadigms historik och användningsområden.</p><p>Eleven implementerar <strong>några</strong> datastrukturer och <strong>efter samråd </strong>med handledare också <strong>någon</strong> algoritm samt löser <strong>några</strong> uppgifter genom att utnyttja rekursion. Eleven använder med<strong> gott </strong>handlag i sin programmering gränssnitt både mot internet och databashanterare. Dessutom gör eleven en analys av en eller flera algoritmers komplexitet. Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell. Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>tillfredsställande</strong> kvalitet i flera programspråk från olika programmeringsparadigm.</p><p>Eleven anpassar <strong>med viss säkerhet </strong>sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt sätt</strong> felsökning av logiska fel och syntaxfel. Eleven kvalitetssäkrar sitt program med <strong>gott</strong> handlag genom manuella och automatiserade tekniker eller tester. Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>välgrundade </strong>omdömen programmets prestanda och ändamålsenlighet i <strong>några </strong>situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare programmeringsuppgifter och väljer <strong>med</strong> <strong>säkerhet</strong> lämpliga programspråk. I planeringen väljer eleven <strong>efter samråd </strong>med handledare datastrukturer och algoritmer som är adekvata för uppgiften. Eleven redogör <strong>utförligt och nyanserat </strong>för olika programmeringsparadigms historik och användningsområden.</p><p>Eleven implementerar <strong>flera</strong> datastrukturer och <strong>efter samråd </strong>med handledare också <strong>några</strong> algoritmer samt löser <strong>flera</strong> uppgifter genom att utnyttja rekursion. Eleven använder med <strong>mycket gott </strong>handlag gränssnitt i sin programmering både mot internet och databashanterare. Dessutom gör eleven en <strong>avancerad</strong> analys av en eller flera algoritmers komplexitet. Eleven strukturerar och dokumenterar sitt arbete <strong>med säkerhet</strong> enligt en fungerande modell. Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>god</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av komplex karaktär</strong>.</p><p>Eleven anpassar <strong>med säkerhet</strong> sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av logiska fel och syntaxfel. Eleven kvalitetssäkrar sitt program med <strong>mycket gott </strong>handlag genom <strong>omfattande</strong> manuella och automatiserade tekniker eller tester. Innan programmeringsuppgifter avslutas utvärderar eleven med <strong>välgrundade och</strong> <strong>nyanserade </strong>omdömen <strong>samt ger förslag på förbättringar</strong> av programmens prestanda och ändamålsenlighet i <strong>flera </strong>situationer och sammanhang. Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.134Z"
+}

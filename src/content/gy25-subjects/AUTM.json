@@ -1,0 +1,92 @@
+{
+  "code": "AUTM",
+  "name": "Automationsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:160",
+  "nameHeading": "<h2>Automationsteknik</h2>",
+  "description": "<p>Automatiseringen i samhället är en ständigt pågående process och många arbetsuppgifter och tillverkningsled automatiseras. Automatiseringen sker bland annat inom industri, fastighetsbransch och infrastruktur. Ämnet automationsteknik behandlar automatiserade funktioner ur ett systemperspektiv samt mötet mellan elektro-, dator-, drift- och underhållsteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet automationsteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten med automationsutrustning. I detta ingår installation och montering, programmering och konfigurering, samt felsökning och underhåll av automatiserade anläggningar. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda scheman, ritningar och manualer samt att dokumentera sitt arbete. Undervisningen ska leda till att eleverna utvecklar ett ansvarsfullt, hållbart och säkert arbetssätt vad gäller drift och miljö.</p> <p>Eleverna ska i undervisningen ges möjlighet att utveckla kunskaper om mekanisk struktur, elektronik och styr- och reglerteknik samt hur dessa kan sammanföras till ett system. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att beskriva olika samband inom automation med matematik och fysikaliska storheter.</p> <p>I undervisningen ska både praktiska och teoretiska uppgifter ingå. Därigenom ska eleverna ges möjlighet att utveckla förståelse av såväl praktiskt arbete som yrkesteori. Undervisningen ska också ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt bidra till deras intresse för teknisk utveckling och hållbarhetsarbete inom automationsbranschen.</p> <h5><em>Undervisningen i ämnet automationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att montera, installera och driftsätta automationsutrustning.</li> <li>Förmåga att underhålla, felsöka och optimera automatiserade anläggningar.</li> <li>Förmåga att tolka och använda ritningar och manualer samt att dokumentera det egna arbetet.</li> <li>Kunskaper om hur mekanisk struktur, elektronik samt styr-och reglerteknik kan sammanföras till ett system.</li> <li>Kunskaper om hur samband inom automation beskrivs med matematik och fysikaliska storheter.</li> <li>Förmåga att arbeta säkert i automatiserade system.</li> </ul><h3>Nivåer i ämnet automationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AUTM1000X</h3>",
+      "code": "AUTM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Grundläggande installation, montering och inkoppling av vanligt förekommande el- och styrutrustning.</li> <li>Laborativa inkopplingar och driftsättningar av reläer, pneumatik och mindre elmotorer samt enklare automatiserade funktioner med sensorer, styrenheter och aktuatorer.</li> <li>Grundläggande metoder för underhåll och felsökning i praktiken samt optimering som begrepp.</li> <li>Användning av enklare ritningar samt tolkning och användning av manualer för el och pneumatik.</li> <li>Upprättande av datorkommunikation med automationsenhet via ett enkelt protokoll.</li> <li>Dokumentation av eget arbete.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och miljökrav.</li> </ul> <p><em>Mät-, styr- och reglerteknik</em></p> <ul> <li>Avläsningsförmågor och användningsområden för vanligt förekommande sensorer.</li> <li>Introduktion av styrteknisk utrustning, till exempel I/O (input/output), CPU (central processing unit), reläutgång, flödesschema och HMI (human-machine interface).</li> <li>Grundläggande pneumatik.</li> <li>Logiska grundfunktioner för enkla styrtekniska lösningar samt tolkning av flödesschema och reläschema.</li> <li>Grundläggande styrningar med programmering kopplad till internationell standard.</li> <li>Orientering i industriell informationsteknik och talsystem.</li> <li>Skillnader mellan digitala och analoga signaler.</li> <li>On/off-reglering, till exempel för värmekällor med termostat.</li> </ul> <p><em>Fysikaliska storheter</em></p> <ul> <li>Grundläggande fysikaliska enheter inom automation.</li> <li>Grundläggande elektriska och mekaniska storheter, enheter och begrepp.</li> <li>Mättekniska och tekniska lösningar för omvandling av storheter för presentation av insamlade mätvärden på en display, till exempel mätvärden för tryck, ström och temperatur.</li> <li>Mätningar och beräkningar i samband med laborativa kopplingsövningar.</li> <li>Arbetsrutiner med hänsyn till strömgenomgång, ljusbåge och mekaniska krafter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AUTM2000X</h3>",
+      "code": "AUTM2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Montering, installation och märkning av styrutrustning efter ritningar och anvisningar, med matning från en central.</li> <li>Uppbyggnad av automatiserade system med förstärkande funktioner för mätning och styrning av mekanisk och elektrisk kraft.</li> <li>Metoder för underhåll, felsökning och optimering.</li> <li>Drivsystem, inkopplingar, funktioner, styrningar och användningsområden för vanligt förekommande elmotorer, både AC (alternating current) och DC (direct current).</li> <li>Laborationer med sensorer och mätgivare.</li> <li>Installation och användningsområden för vanligt förekommande sensorer och mätgivare. Inkopplingsalternativ för sink- och sourcesystem.</li> <li>Dokumentation av styrtekniska anläggningar, till exempel skapande av ritningar.</li> <li>Upprättande av datorkommunikation med automationsenhet via seriell eller IP-baserad fältbuss.</li> <li>Säkerhetsanordningar för farliga maskiner, däribland skydds- och nödstoppsfunktioner. Säkerhetskategori CAT.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och miljökrav.</li> </ul> <p><em>Mät-, styr- och reglerteknik</em></p> <ul> <li>Programmering efter upprättande av flödesschema.</li> <li>Programmering av HMI (human-machine interface).</li> <li>Val av relä eller transistorutgångar för olika mät- och styrtekniska lösningar.</li> <li>Logiska grundfunktioner kopplade till programmeringsspråk enligt aktuella standarder och till olika typer av styrsystem.</li> <li>Felsökning och optimering i styrteknisk utrustning och styrtekniska program.</li> <li>Vanligt förekommande fältbussars funktion, uppbyggnad och användningsområden.</li> <li>Märkningar och symboler för pneumatik och hydraulik.</li> <li>Vanligt förekommande ställdon och mätomvandlare i automatiserade system samt mätmetoder för temperatur, tryck och nivå.</li> <li>Olika typer av signalhantering, till exempel omvandling mellan analogt och digitalt.</li> </ul> <p><em>Fysikaliska storheter</em></p> <ul> <li>Grundläggande fysikaliska enheter inom automation.</li> <li>Grundläggande elektriska och mekaniska storheter, enheter och begrepp.</li> <li>Justering och anpassning av utrustning för olika komponenters driftspänning och krav på strömförsörjning.</li> <li>Dimensionering av pneumatiska eller hydrauliska styrningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AUTM3000X</h3>",
+      "code": "AUTM3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automationsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Montering, installation, provning och driftsättning av styrutrustning efter ritningar och anvisningar.</li> <li>Uppbyggnad av automatiserade system för styrning och reglering där systemen enskilt kan kontrolleras och övervakas lokalt eller centralt.</li> <li>Metoder för felsökning och rutiner för optimering och underhåll av system.</li> <li>Servosystem och elmotorers funktion, styrning och reglering.</li> <li>Uppbyggnad och driftsättning med hänsyn till driftsäkerhet.</li> <li>Installationsmetoder för olika typer av flödesgivare.</li> <li>Montering och installation av pneumatiska eller hydrauliska aktuatorer.</li> <li>Säkerhetsaspekter vid arbete i automatiserade system. Säkerhetsstandarder, till exempel SIL (safety integrety level) och PL (performance level).</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och miljökrav.</li> </ul> <p><em>Mät-, styr- och reglerteknik</em></p> <ul> <li>Reglertekniska begrepp.</li> <li>Programmering för reglering.</li> <li>Programmering med strukturerad text.</li> <li>Mätvärdesinsamling från verksam process.</li> <li>Datainsamling, larmhantering, molnlösningar, informationssäkerhet och redundans.</li> <li>Upprättande av dokumentation för automatiserad anläggning.</li> <li>Användning och styrning av pneumatiska eller hydrauliska aktuatorer.</li> <li>Signalhantering, skalhantering och presentation av analoga mätvärden.</li> <li>Mätmetoder för flödesmätning.</li> <li>PID-regulatorns tekniska och matematiska funktion.</li> <li>Metoder för att säkerställa driftsäkerhet och optimering av regleringar.</li> </ul> <p><em>Fysikaliska storheter</em></p> <ul> <li>Grundläggande fysikaliska enheter inom automation.</li> <li>Grundläggande elektriska och mekaniska storheter, enheter och begrepp.</li> <li>Felsökning av styrning eller komponent. Val av lämplig sensor eller givare för olika system och situationer, baserat på mätningar och beräkningar.</li> <li>Dimensionering av och energieffektivitet hos elmotorer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven monterar, installerar och driftsätter med <strong>visst</strong> handlag automationsutrustning.</p> <p>Eleven underhåller, felsöker och optimerar med <strong>viss säkerhet</strong> automatiserade anläggningar. Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> ritningar och manualer och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur mekanisk struktur och elektronik samt styr- och reglerteknik kan sammanföras till ett system.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika samband inom automation med hjälp av matematik och fysikaliska storheter.</p> <p>Eleven arbetar på ett säkert sätt i automatiserade system.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven monterar, installerar och driftsätter med <strong>gott</strong> handlag automationsutrustning.</p> <p>Eleven underhåller, felsöker och optimerar med <strong>säkerhet</strong> automatiserade anläggningar. Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> ritningar och manualer och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur mekanisk struktur och elektronik samt styr- och reglerteknik kan sammanföras till ett system.</p> <p>Eleven beskriver <strong>utförligt</strong> olika samband inom automation med hjälp av matematik och fysikaliska storheter.</p> <p>Eleven arbetar på ett säkert sätt i automatiserade system.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven monterar, installerar och driftsätter med <strong>mycket gott</strong> handlag automationsutrustning.</p> <p>Eleven underhåller, felsöker och optimerar med <strong>god säkerhet</strong> automatiserade anläggningar. Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> ritningar och manualer och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur mekanisk struktur och elektronik samt styr- och reglerteknik kan sammanföras till ett system.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika samband inom automation med hjälp av matematik och fysikaliska storheter.</p> <p>Eleven arbetar på ett säkert sätt i automatiserade system.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.963Z"
+}

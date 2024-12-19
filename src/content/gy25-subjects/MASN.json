@@ -1,0 +1,78 @@
+{
+  "code": "MASN",
+  "name": "Maskintjänst",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:324",
+  "nameHeading": "<h2>Maskintjänst</h2>",
+  "description": "<p>Människan har sedan urminnes tider använt fartyg som färdmedel på vatten och fartygstrafik är än i dag ett av våra viktigaste och mest miljövänliga transportmedel. Ämnet maskintjänst behandlar fartygs säkra framförande och drift. I ämnet behandlas teknik, utrustning och arbetsmetoder som används inom maskinavdelningen på fartyg i yrkestrafik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet maskintjänst ska syfta till att eleverna utvecklar förmåga att yrkesmässigt utföra drift- och underhållsarbete samt vakthållning inom maskinavdelningen på fartyg i yrkestrafik. Enligt nationella och internationella bestämmelser är dessa kunskaper och förmågor ett krav för tjänstgöring ombord. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om branschens ansvar för hållbar utveckling. Produkt- och teknikutvecklingen inom sjöfartsnäringen ställer krav på anpassning och flexibilitet. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera arbetsuppgifter i relation till uppsatta mål för säkerhet och kvalitet. Eleverna ska ges möjlighet att utveckla förmåga att tolka och följa instruktioner och manualer på både svenska och engelska. Undervisningen ska även leda till att eleverna utvecklar förmåga att hantera material, verktyg och utrustning med hänsyn till ergonomi, hälsa och säkerhet.</p> <p>Arbete till sjöss innebär stora risker för besättningen där felbedömningar och brister i kommunikationen kan leda till allvarliga konsekvenser för både den enskilde och för gruppen. Därtill kan skador på fartyget eller fartygets utrustning leda till att besättning och passagerare, fartyg eller miljö utsätts för fara. Miljöskyddsarbete, arbetsmiljö och säkerhet ska därför ha en central plats i undervisningen och bidra till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser inom yrkesområdet. Eleverna ska även ges möjlighet att utveckla förmåga att identifiera, förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om yrkesrollen. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ansvarstagande och förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka i olika yrkessammanhang. Eleverna ska även ges möjlighet att utveckla förmåga att föra värderande diskussioner om arbetsprocess och resultat.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Arbetsuppgifterna ska vara konstruerade med utgångspunkt i autentisk fartygsmiljö och utföras med relevanta metoder, verktyg och utrustning. På så sätt ska undervisningen förbereda eleverna för situationer som de kan komma att möta i sin yrkesutövning. Undervisningen ska bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet maskintjänst ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra drift- och underhållsarbete samt vakthållning inom maskinavdelningen på fartyg i yrkestrafik, på ett säkert och hållbart sätt.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> <li>Kunskaper om system, konstruktioner och utrustning inom maskinavdelningen på fartyg i yrkestrafik samt om lagar och andra bestämmelser som reglerar yrkesområdet.</li> </ul><h3>Nivåer i ämnet maskintjänst</h3><ul><li>Nivå 1, 250 poäng, som bygger på nivå 1 i ämnet fartygsunderhåll.</li> <li>Nivå 2, 250 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MASN1000X</h3>",
+      "code": "MASN1000X",
+      "nameHeading": "<h2>Nivå 1, 250 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "250",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet maskintjänst på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Vakthållning och driftrutiner</em></p> <ul> <li>Vakthållning i maskin.</li> <li>Utförande av vaktrutiner, däribland kontroll av tryck, temperaturer och nivåer samt pejling av tankar.</li> <li>Överlämning av vakten.</li> <li>Start och stopp av huvud- och hjälpmaskineri.</li> <li>Bunkring och transfer av bränsle och olja.</li> <li>Ballast-, länsvatten- och sludgehantering.</li> <li>Övervakning och drift av pannor.</li> <li>Öppning och stängning av vattentäta dörrar.</li> <li>Lastning och stuvning av förråd.</li> <li>Användning av intern kommunikationsutrustning.</li> </ul> <p><em>Reparations- och underhållsarbete</em></p> <ul> <li>Vanligt förekommande underhållsarbete enligt underhållssystemet.</li> <li>Enklare reparationer.</li> <li>Hantering och underhåll av material, verktyg och utrustning på ett säkert sätt.</li> <li>Arbete med hänsyn till ergonomi, arbetsmiljö, säkerhet och miljöskydd.</li> <li>Utvärdering av utfört arbete i relation till uppsatta mål för säkerhet och kvalitet.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Termer och begrepp som används vid arbete till sjöss, däribland maskinrumsterminologi.</li> <li>Ordergivning och kommunikation med vakthavande befäl vid vakthållning, däribland maskinorder på svenska och engelska.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul> <p><em>System, konstruktioner och utrustning</em></p> <ul> <li>Fartygs manöveregenskaper och manöverförmåga.</li> <li>Huvudmaskineri. Olika typer av förbränningsmotorer.</li> <li>Framdrivningssystem.</li> <li>Eldriven framdrift och lagring av el i batterier.</li> <li>Alternativa bränslen och energikällor.</li> <li>Hjälpmaskineri med elsystem, däribland generator och eltavla.</li> <li>Bränsle-, smörjolje- och kylvattensystem.</li> <li>Länsnings- och ballastsystem.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller vakthållning inom maskinavdelningen på fartyg.</li> <li>Bestämmelser och rutiner för olika typer av maskinrumslarm, däribland brandlarm.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MASN2000X</h3>",
+      "code": "MASN2000X",
+      "nameHeading": "<h2>Nivå 2, 250 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "250",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet maskintjänst på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Vakthållning och driftrutiner</em></p> <ul> <li>Vakthållning i maskin vid olika förutsättningar och förhållanden.</li> <li>Öppning och stängning av luckor, portar och vattentäta dörrar.</li> <li>Användning av intern kommunikationsutrustning.</li> </ul> <p><em>Reparations- och underhållsarbete</em></p> <ul> <li>Underhåll av huvud- och hjälpmaskineri.</li> <li>Underhåll av separatorer, kylare, filter och pumpar.</li> <li>Underhåll av övriga tekniska system ombord.</li> <li>Felsökning och reparation av fartygets tekniska utrustning.</li> <li>Användning av traverser, lyftanordningar och kranar.</li> <li>Riggning av lyftanordningar i maskinrummet.</li> <li>Val, hantering och underhåll av material, verktyg och utrustning på ett säkert sätt.</li> <li>Arbete med hänsyn till ergonomi, arbetsmiljö, säkerhet och miljöskydd.</li> <li>Utvärdering av utfört arbete i relation till uppsatta mål för säkerhet och kvalitet.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Fartygs- och maskinrumstermer på engelska.</li> <li>Samverkan och kommunikation i arbetet, däribland överlämning av arbetsuppgifter.</li> <li>Ordergivning på svenska och engelska samt signaler vid bunkring och vid användning av kranar, traverser och lyftutrustning.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul> <p><em>System, konstruktioner och utrustning</em></p> <ul> <li>Fartygs manöveregenskaper och manöverförmåga vid olika förutsättningar och förhållanden.</li> <li>Olika typer av framdrivningssystem.</li> <li>Eldriven framdrift och lagring av el i batterier.</li> <li>Alternativa bränslen och energikällor.</li> <li>Komponenter i olika typer av hjälpmaskinerier och övriga tekniska system ombord.</li> <li>Komponenter i bränsle-, smörjolje- och kylvattensystem, däribland separator, kylare och filter.</li> <li>Komponenter i länsnings- och ballastsystem, däribland pumpar, länsvattenseparator och ballastvattenrening.</li> <li>Underhållssystem för fartyg.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller vakthållning inom maskinavdelningen på olika typer av fartyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven genomför arbetsuppgifter inom maskinavdelningen med <strong>godtagbart</strong> resultat. Eleven hanterar material, verktyg och utrustning på ett <strong>godtagbart</strong> sätt. Eleven utvärderar arbetsprocess och resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om system, konstruktioner och utrustning inom maskinavdelningen ombord på fartyg i yrkestrafik. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven genomför arbetsuppgifter inom maskinavdelningen med <strong>gott</strong> resultat. Eleven hanterar material, verktyg och utrustning på ett <strong>gott</strong> sätt. Eleven utvärderar arbetsprocess och resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p> <p>Eleven visar <strong>goda</strong> kunskaper om system, konstruktioner och utrustning inom maskinavdelningen ombord på fartyg i yrkestrafik. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven genomför arbetsuppgifter inom maskinavdelningen med <strong>mycket gott</strong> resultat. Eleven hanterar material, verktyg och utrustning på ett <strong>mycket gott</strong> sätt. Eleven utvärderar arbetsprocess och resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om system, konstruktioner och utrustning inom maskinavdelningen ombord på fartyg i yrkestrafik. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.039Z"
+}

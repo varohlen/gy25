@@ -1,0 +1,64 @@
+{
+  "code": "SPAD",
+  "name": "Spårfordon – ellära och elteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:352",
+  "nameHeading": "<h2>Spårfordon – ellära och elteknik</h2>",
+  "description": "<p>Ämnet spårfordon – ellära och elteknik behandlar elektriska kretsar och deras komponenter samt hur de samverkar i spårfordon. Ämnet behandlar även rutiner och bestämmelser som tillämpas i samband med felsökning och avhjälpning av fel i elektriska kretsar i spårfordon samt teknisk information, verktyg och övrig utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet spårfordon – ellära och elteknik ska syfta till att eleverna utvecklar kunskaper om olika elektriska kretsar och deras komponenter samt hur de samverkar i spårfordon. Eleverna ska också ges möjlighet att utveckla kunskaper om olika typer av felsökning och avhjälpning av fel i olika typer av elektriska kretsar och komponenter. Undervisningen ska leda till att eleverna utvecklar kunskaper om komponent- och kretsmätningar samt förmåga att genomföra enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med rutiner, lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet. Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och andra aktörer. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som de kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjlighet att både självständigt och tillsammans med andra arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet spårfordon – ellära och elteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om el och olika typer av lik- och växelströmskretsar och deras komponenter samt hur de samverkar i spårfordon.</li> <li>Kunskaper om rutiner för felsökning och avhjälpning av fel i olika typer av lik- och växelströmskretsar och deras komponenter.</li> <li>Kunskaper om komponent- och kretsmätningar i lik- och växelströmskretsar.</li> <li>Förmåga att genomföra enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med rutiner, lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera med medarbetare och andra aktörer samt att använda tekniska begrepp och uttryck.</li> </ul><h3>Nivåer i ämnet spårfordon – ellära och elteknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet spårfordon – yrkesteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPAD1000X</h3>",
+      "code": "SPAD1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet spårfordon – ellära och elteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Funktionsprinciper för olika elektriska komponenter, däribland ledare, halvledare och isolatorer.</li> <li>Orientering om motorer, generatorer och transformatorer som förekommer i spårfordon samt om energiöverföring.</li> <li>Metoder för beräkning av elektriska serie- och parallellkopplingar i elektriska kretsar.</li> <li>Orientering om elektromagnetisk kompabilitet och övertoner.</li> <li>Orientering om olika filter för eliminering av störningar.</li> <li>Trefassystem, enfasväxelströmskretsar och likströmskretsar samt deras komponenter i spårfordon.</li> <li>Olika typer av fästelement och förband för elkablar och kontaktdon, däribland kläm- och skruvförband.</li> <li>Metoder för felsökning och avhjälpning av fel i olika typer av lik- och växelströmskretsar i spårfordon.</li> <li>Orientering om digitala informationssystem, teknisk information, verktyg och övrig utrustning samt metoder för användning av dessa, till exempel i samband med mätning och analys av mätvärden, felsökning och vid avhjälpning av fel.</li> <li>Spårfordonstillverkarens och branschens krav på dokumentation vid olika typer av arbetsåtgärder.</li> <li>Rutiner, standarder för elsäkerhet och lagar och andra bestämmelser som reglerar arbetet.</li> <li>Olika metoder för att upprätthålla säkerheten på arbetsplatsen.</li> <li>Åtgärder för att förhindra person- och egendomsskador.</li> <li>Olika metoder för komponent- och kretsmätningar samt för analys av mätvärden i lik- och växelströmskretsar.</li> <li>Enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon enligt spårfordonstillverkarens krav.</li> <li>Mätning och analys av mätvärden samt enklare felsökning i lik- och växelströmskretsar i spårfordon.</li> <li>Spårfordonstillverkares anvisningar, scheman och övrig teknisk information på svenska och engelska.</li> <li>Användning av verktyg och utrustning i samband med felsökning och avhjälpning av fel.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning i samband med komponent- och kretsmätningar enligt spårfordonstillverkarens anvisningar.</li> <li>Metodiskt arbete för struktur, ordning och effektiv arbetsmiljö på arbetsplatsen.</li> <li>Dokumentation av arbetsåtgärder enligt spårfordonstillverkarens och branschens krav.</li> <li>Utvärdering av arbetsprocess och utfört arbete.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och andra aktörer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om el och olika typer av lik- och växelströmskretsar och deras komponenter samt hur de samverkar i spårfordon.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om rutiner för felsökning och avhjälpning av fel i olika typer av lik- och växelströmskretsar och deras komponenter.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om komponent- och kretsmätningar i lik- och växelströmskretsar.</p> <p>Eleven genomför med <strong>visst</strong> handlag enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med rutiner, lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av tekniska begrepp och uttryck.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om el och olika typer av lik- och växelströmskretsar och deras komponenter samt hur de samverkar i spårfordon.</p> <p>Eleven visar <strong>goda</strong> kunskaper om rutiner för felsökning och avhjälpning av fel i olika typer av lik- och växelströmskretsar och deras komponenter.</p> <p>Eleven visar <strong>goda</strong> kunskaper om komponent- och kretsmätningar i lik- och växelströmskretsar.</p> <p>Eleven genomför med <strong>gott</strong> handlag enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med rutiner, lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av tekniska begrepp och uttryck.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om el och olika typer av lik- och växelströmskretsar och deras komponenter samt hur de samverkar i spårfordon.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om rutiner för felsökning och avhjälpning av fel i olika typer av lik- och växelströmskretsar och deras komponenter.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om komponent- och kretsmätningar i lik- och växelströmskretsar.</p> <p>Eleven genomför med <strong>mycket gott</strong> handlag enklare felsökning och avhjälpning av fel i elektriska system och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med rutiner, lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av tekniska begrepp och uttryck.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.083Z"
+}

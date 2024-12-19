@@ -1,0 +1,78 @@
+{
+  "code": "TRAG",
+  "name": "Träningslära",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:235",
+  "nameHeading": "<h2>Träningslära</h2>",
+  "description": "<p>Ämnet träningslära har sin grund i människans anatomi och i idrottsfysiologi. I ämnet behandlas hur kroppen påverkas av träning och fungerar i tränings- och motionssammanhang. Ämnet behandlar dessutom idrottsledarskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet träningslära ska syfta till att eleverna utvecklar kunskaper om kroppens byggnad och funktion samt hur den påverkas av träning. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om nutrition och kosthållningens betydelse för hälsa och prestation. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om metoder för träning och förmåga att använda dessa för att planera, genomföra och utvärdera tränings- och motionsverksamhet. I undervisningen ska eleverna även ges möjlighet att kommunicera om träning och hälsa på olika sätt samt använda ämnesspecifika begrepp och teorier.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att möta och pedagogiskt leda människor i tränings- och hälsofrämjande aktiviteter. Eleverna ska också ges möjlighet att utveckla kunskaper om hur tränings- och motionsmiljöer påverkar människors lust och motivation till träning. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om hur skador och ohälsa kan förebyggas och behandlas.</p> <p>I undervisningen ska eleverna ges möjlighet att reflektera över etiska frågor relaterade till kroppsideal, träning och hälsofrämjande arbete. Undervisningen ska dessutom ge eleverna möjlighet att diskutera egna, andras och samhällets attityder och värderingar till dessa frågor.</p> <p>Undervisningen ska motverka diskriminerande föreställningar och bidra till att människors olika förutsättningar respekteras.</p> <h5><em>Undervisningen i ämnet träningslära ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kroppens anatomi och fysiologi samt om nutrition.</li> <li>Kunskaper om olika träningsmetoder och deras effekter.</li> <li>Förmåga att använda olika träningsmetoder i målstyrda träningsprogram.</li> <li>Förmåga att leda och instruera individer och grupper i hälsofrämjande aktiviteter.</li> <li>Förmåga att arbeta hälsofrämjande samt förebygga skador.</li> </ul><h3>Nivåer i ämnet träningslära</h3><ul><li>Nivå 1, 100 poäng. Betyg i träningslära som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i tränings- och tävlingslära som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TRAG1000X</h3>",
+      "code": "TRAG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet träningslära på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Kroppen och dess funktioner</em></p> <ul> <li>Anatomi med fokus på kroppens rörelseapparat, däribland skelett, leder och muskler.</li> <li>Fysiologi med fokus på energigivande processer.</li> <li>Kosthållning kopplat till träning och hälsa.</li> <li>Ämnesspecifika begrepp i relation till träning, hälsa och välbefinnande.</li> <li>Betydelsen av vila och återhämtning för prestation, hälsa och välbefinnande.</li> <li>Vanligt förekommande skador i samband med idrotts- och träningsaktiviteter och omhändertagande vid skada.</li> </ul> <p><em>Planering för träning</em></p> <ul> <li>Olika träningsmetoder för uthållighet, styrka, rörlighet och koordination.</li> <li>Anpassning av fysisk aktivitet utifrån människors olika förutsättningar.</li> <li>Träningsmiljöers betydelse för motivation och prestation.</li> <li>Anpassade och målstyrda tränings- och motionsverksamheter för individer och grupper.</li> <li>Ledarskap i tränings- och motionsverksamheter.</li> <li>Digitala hjälpmedel för träning och hälsa, till exempel stegräknare och pulsmätare.</li> <li>Planering och utvärdering av tränings- och motionsaktiviteter.</li> <li>Regler och etiska normer vid tränings- och motionsverksamhet, däribland frågor om dopning och antidopningsarbete.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TRAG2000X</h3>",
+      "code": "TRAG2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet träningslära på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Kroppen och dess funktioner</em></p> <ul> <li>Kroppens anatomi och fysiologi ur ett träningsperspektiv, till exempel hur kroppen påverkas av uthållighetsträning och styrketräning.</li> <li>Nutritionens betydelse för hälsa och prestation.</li> <li>Prestation, hälsa och välbefinnande utifrån uppsatta mål.</li> <li>Metoder för skadeförebyggande träning, omhändertagande av skada och vanligt förekommande rehabiliteringsprogram.</li> <li>Metoder och digitala hjälpmedel för kost- och aktivitetsregistrering.</li> </ul> <p><em>Planering för träning</em></p> <ul> <li>Utveckling och variation inom träningsmetoder, till exempel för uthållighet, styrka, rörlighet och koordination.</li> <li>Planering och anpassning av träningsperioder för individer eller grupper utifrån långsiktiga målsättningar.</li> <li>Ledarskap i tränings- och motionsverksamheter.</li> <li>Tester för att mäta fysiska kvaliteter, till exempel uthållighets- och rörlighetstester.</li> <li>Utvärdering och återkoppling av test- och träningsresultat.</li> <li>Regler och etiska normer vid tränings- och motionsverksamhet, däribland frågor om dopning och antidopningsarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>översiktligt</strong> sätt kroppen och dess funktion samt ger <strong>enkla</strong> exempel på hur kroppen påverkas av kosthållning, träning och vila. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven använder med <strong>viss säkerhet</strong> olika träningsmetoder.</p> <p>Eleven använder träningsmetoder för utveckling av prestationer mot uppsatta mål på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven leder tränings- och motionsaktiviteter på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven väljer med <strong>viss säkerhet</strong> aktiviteter som främjar hälsa och förebygger skador. I samband med detta visar eleven <strong>godtagbara</strong> kunskaper om skador och deras uppkomst.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utförligt</strong> sätt kroppen och dess funktion samt ger <strong>utvecklade</strong> exempel på hur kroppen påverkas av kosthållning, träning och vila. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven använder med <strong>säkerhet</strong> olika träningsmetoder.</p> <p>Eleven använder träningsmetoder för utveckling av prestationer mot uppsatta mål på ett <strong>fungerande</strong> sätt.</p> <p>Eleven leder tränings- och motionsaktiviteter på ett <strong>fungerande</strong> sätt.</p> <p>Eleven väljer med <strong>säkerhet</strong> aktiviteter som främjar hälsa och förebygger skador. I samband med detta visar eleven <strong>goda</strong> kunskaper om skador och deras uppkomst.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>utförligt och nyanserat</strong> sätt kroppen och dess funktion samt ger <strong>välutvecklade</strong> exempel på hur kroppen påverkas av kosthållning, träning och vila. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven använder med <strong>god säkerhet</strong> olika träningsmetoder.</p> <p>Eleven använder träningsmetoder för utveckling av prestationer mot uppsatta mål på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven leder tränings- och motionsaktiviteter på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven väljer med <strong>god säkerhet</strong> aktiviteter som främjar hälsa och förebygger skador. I samband med detta visar eleven <strong>mycket goda</strong> kunskaper om skador och deras uppkomst.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.094Z"
+}

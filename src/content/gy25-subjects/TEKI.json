@@ -1,0 +1,92 @@
+{
+  "code": "TEKI",
+  "name": "Teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:219",
+  "nameHeading": "<h2>Teknik</h2>",
+  "description": "<p>Teknik handlar om att uppfylla människors behov och önskemål genom att omvandla naturens fysiska resurser eller immateriella tillgångar i produkter, processer, anläggningar och system. Ämnet teknik är till sin karaktär tvärvetenskapligt och belyser teknikens roll i samhällsutvecklingen och samspelet mellan människa och natur.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet teknik ska syfta till att eleverna utvecklar kunskaper om teknik och teknikutveckling samt förmåga att lösa tekniska problem. Den ska leda till att eleverna utvecklar förståelse av hela kedjan i teknikutvecklingsprocessen från idé och modell, produkt eller tjänst till användning och återvinning.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om teknik som bidrar till ett hållbart samhälle. Digitalisering är en stor del av den tekniska utvecklingen och därför ska eleverna ges möjlighet att utveckla kunskaper om programmering och förmåga att använda digitala verktyg. Undervisningen ska även belysa hur teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om hur könsnormer kan påverka möjligheten att utforma, utveckla och använda teknik samt hur människors olika förutsättningar kan begränsa tillgängligheten till teknik och teknikutveckling.</p> <p>Undervisningen ska förbereda eleverna för att aktivt delta i och påverka teknisk utveckling. Eleverna ska därför ges möjlighet att utveckla ett systematiskt och problemlösande arbetssätt och förmåga att arbeta i projekt. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om entreprenörskap och förmåga att omsätta idéer till handling. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om tekniska begrepp samt förmåga att kommunicera om teknik. Undervisningen ska även leda till att eleverna utvecklar förmåga att använda tekniska metoder och verktyg för analys och värdering.</p> <p>Undervisningen ska varva teoretiska och praktiska moment. I undervisningen ska eleverna ges möjlighet att arbeta med mätning, testning, beräkning, modellering samt risk- och rimlighetsbedömning. Undervisningen ska dessutom lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom teknikutveckling.</p> <h5><em>Undervisningen i ämnet teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om teknikutvecklingsprocessen och dess olika delar.</li> <li>Förmåga att lösa tekniska problem samt analysera och värdera tekniska lösningar med hänsyn tagen till ett hållbart samhälle.</li> <li>Förmåga att använda teknikvetenskapliga begrepp, teorier, modeller och metoder.</li> <li>Kunskaper om hur teknik har utvecklats och utvecklas i samspel med det omgivande samhället.</li> <li>Förmåga att dokumentera, visualisera och kommunicera teknik och tekniska lösningar.</li> </ul><h3>Nivåer i ämnet teknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TEKI1000X</h3>",
+      "code": "TEKI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Tekniska processer och system</em></p> <ul> <li>Teknikutvecklingsprocessens alla delar från idé och modell, produkt eller tjänst till användning och återvinning.</li> <li>Tekniska egenskaper och användningsområden för olika material.</li> <li>IT-systems uppbyggnad och funktion samt deras roll i teknikutveckling.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Strategier för att lösa tekniska problem.</li> <li>Arbete i projektform med praktisk tillämpning och problemlösning inom något teknikområde.</li> <li>Problemlösning med hjälp av programmering.</li> <li>Skapande och strukturering av programkod.</li> <li>Testning och utvärdering av lösningar och resultat utifrån flera olika aspekter, däribland hållbar utveckling.</li> </ul> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Begrepp, teorier och modeller, däribland för konstruktion.</li> <li>Beräkningar och rimlighetsbedömningar som gäller konstruktion.</li> <li>Metoder för modellering och simulering, till exempel användning av prototyper samt testning och verifiering.</li> </ul> <p><em>Teknik, människa och samhälle</em></p> <ul> <li>Teknikens och teknikerns roll i ett hållbart samhälle, med fokus på möjligheter och risker med framtidens teknik.</li> <li>Tekniska framsteg som har haft betydelse för samhället.</li> <li>Hur normer, genusstrukturer och etiska värderingar påverkar teknik, dess användning och tillgänglighet.</li> </ul> <p><em>Teknisk kommunikation</em></p> <ul> <li>Kommunikation, dokumentation och presentation av teknik och tekniska lösningar, både muntligt och skriftligt, med hjälp av digitala medier.</li> <li>Användning av ritningar, skiss- och ritteknik samt tekniker för att skapa modeller med hjälp av både digitala och manuella verktyg.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TEKI2000X</h3>",
+      "code": "TEKI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Tekniska processer och system</em></p> <ul> <li>Tillämpning av teknikutvecklingsprocessen inom något teknikområde.</li> <li>Entreprenörskap och entreprenörskapets villkor i en innovativ och kreativ teknikutvecklingsprocess.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Problemlösning och praktisk tillämpning inom något teknikområde, till exempel produktion, design eller informationsteknik.</li> <li>Metodik och arbetsformer i projekt.</li> <li>Tillämpning av programmering för problemlösning.</li> <li>Systematiskt kvalitetsarbete, däribland kvalitetssäkring, miljösäkring och riskanalys samt frågor om arbetsmiljö.</li> </ul> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Tillämpning av begrepp, teorier och modeller för att konstruera, dimensionera, beräkna och bedöma rimligheten i tekniska lösningar inom något teknikområde.</li> <li>Modellering och simulering inom något teknikområde med hjälp av relevanta metoder.</li> </ul> <p><em>Teknik, människa och samhälle</em></p> <ul> <li>Tekniska framsteg och teknikutveckling med fokus på framtidens teknik och en hållbar utveckling, till exempel cirkulär ekonomi och nya affärsmodeller.</li> <li>Värdering av tekniska lösningar utifrån olika aspekter, däribland genus, etik och hållbar utveckling.</li> <li>Digitaliseringens betydelse för produktion, kommunikation och människans livsmiljö.</li> </ul> <p><em>Teknisk kommunikation</em></p> <ul> <li>Kommunikation, dokumentation och presentation inom något teknikområde.</li> <li>Tolkning och framställning av digitala ritningar och modeller.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TEKI3000X</h3>",
+      "code": "TEKI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Tekniska processer och system</em></p> <ul> <li>Tillämpning av teknikutvecklingsprocessen för teknikutveckling inom något teknikområde, till exempel energilagring, artificiell intelligens (AI) och additiv tillverkning.</li> <li>Entreprenörskapets villkor och förutsättningar inom något teknikområde.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Problemlösning utifrån givna förutsättningar, däribland förutsättningar som gäller material, konstruktion och produktion.</li> <li>Tillämpning av lämpliga metoder för problemlösning, både digitala och analoga.</li> <li>Systematisk kvalitetssäkring av process, lösningar och resultat utifrån flera kvalitetsaspekter.</li> </ul> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Tillämpning av begrepp, teorier och modeller för att utforma, dimensionera, tolka och analysera tekniska lösningar.</li> <li>Rimlighetsbedömning och värdering av egna och andras lösningar.</li> <li>Tillämpning av metoder för modellering och simulering.</li> </ul> <p><em>Teknik, människa och samhälle</em></p> <ul> <li>Tekniska utmaningar för framtiden och teknikutveckling i ett hållbart samhälle, till exempel inom områdena energiförsörjning, mat, medicin, boende och kommunikation.</li> <li>Analys och förbättring av tekniska lösningar utifrån ekonomisk, social och miljömässig hållbarhet.</li> </ul> <p><em>Teknisk kommunikation</em></p> <ul> <li>Visualisering och kommunikation av tekniska förslag med hjälp av digitala ritningar och verktyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om teknikutvecklingsprocessens olika delar och hur dessa samverkar och påverkar resultatet.</p> <p>Eleven löser med <strong>viss säkerhet</strong> tekniska problem, både praktiskt och teoretiskt. Dessutom analyserar och värderar eleven tekniska lösningar utifrån hållbarhetsaspekter på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven använder med <strong>viss säkerhet</strong> teknikvetenskapliga begrepp, teorier och modeller och utför <strong>enkla</strong> beräkningar och rimlighetsbedömningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur den tekniska utvecklingen och samhället har påverkat och påverkar varandra utifrån ekonomiska, sociala och miljömässiga aspekter.</p> <p>Eleven använder och dokumenterar tekniska underlag med <strong>viss säkerhet</strong> samt visualiserar och kommunicerar tekniska lösningar med <strong>viss skicklighet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om teknikutvecklingsprocessens olika delar och hur dessa samverkar och påverkar resultatet.</p> <p>Eleven löser med <strong>säkerhet</strong> tekniska problem, både praktiskt och teoretiskt. Dessutom analyserar och värderar eleven tekniska lösningar utifrån hållbarhetsaspekter på ett <strong>fungerande</strong> sätt.</p> <p>Eleven använder med <strong>säkerhet</strong> teknikvetenskapliga begrepp, teorier och modeller och utför <strong>genomarbetade</strong> beräkningar och rimlighetsbedömningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur den tekniska utvecklingen och samhället har påverkat och påverkar varandra utifrån ekonomiska, sociala och miljömässiga aspekter.</p> <p>Eleven använder och dokumenterar tekniska underlag med <strong>säkerhet</strong> samt visualiserar och kommunicerar tekniska lösningar med <strong>god skicklighet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om teknikutvecklingsprocessens olika delar och hur dessa samverkar och påverkar resultatet.</p> <p>Eleven löser med <strong>god säkerhet</strong> tekniska problem, både praktiskt och teoretiskt. Dessutom analyserar och värderar eleven tekniska lösningar utifrån hållbarhetsaspekter på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknikvetenskapliga begrepp, teorier och modeller och utför <strong>väl genomarbetade</strong> beräkningar och rimlighetsbedömningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur den tekniska utvecklingen och samhället har påverkat och påverkar varandra utifrån ekonomiska, sociala och miljömässiga aspekter.</p> <p>Eleven använder och dokumenterar tekniska underlag med <strong>god säkerhet</strong> samt visualiserar och kommunicerar tekniska lösningar med <strong>mycket god skicklighet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.090Z"
+}

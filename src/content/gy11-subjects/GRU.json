@@ -1,0 +1,67 @@
+{
+  "code": "GRU",
+  "name": "Grundläggande vård och omsorg",
+  "englishName": "Basic health and social care",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:138",
+  "skolfsAndring": "2022:134",
+  "nameHeading": "<h2>Grundläggande vård och omsorg</h2>",
+  "description": "<p>Ämnet grundläggande vård och omsorg har sin grund i omvårdnadsvetenskap och medicin. Det behandlar människors behov av vård och omsorg i olika situationer med utgångspunkt i ett etiskt och hälsofrämjande förhållningssätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet grundläggande vård och omsorg ska syfta till att eleverna utvecklar förmåga att stödja och assistera människor i egenvård samt att ge personlig omvårdnad utifrån ett etiskt och inkluderande förhållningssätt. Eleverna ska ges möjlighet att utveckla grundläggande kunskaper om anatomi och fysiologi samt om vanligt förekommande sjukdomar, smitta och smittspridning. Dessutom ska de ges möjlighet att utveckla grundläggande kunskaper om läkemedel och läkemedelsanvändning.</p><p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av vård och omsorg. Eleverna ska också ges möjlighet att reflektera över och diskutera ämnesinnehållet, centrala begrepp samt egna och andras handlingar och attityder.</p><h4>Undervisningen i ämnet grundläggande vård och omsorg ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om människokroppens uppbyggnad och funktion.</li> <li>Kunskaper om vanligt förekommande sjukdomar och läkemedel.</li> <li>Förmåga att arbeta utifrån lagar och andra bestämmelser som styr olika verksamheter samt utifrån arbetsmiljö, säkerhet och yrkesetik.</li> <li>Förmåga att arbeta med personlig omvårdnad och ge stöd i egenvård.</li> <li>Förmåga att diskutera sin egen och andras roll i arbetet med personlig omvårdnad.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Grundläggande vård och omsorg, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: GRUGRD0</h3>",
+      "code": "GRUGRD0",
+      "nameHeading": "<h2>Grundläggande vård och omsorg, 100 poäng</h2>",
+      "name": "Grundläggande vård och omsorg",
+      "englishName": "Basic health and social care",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen grundläggande vård och omsorg omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande anatomi och fysiologi.</li> <li>Vanligt förekommande sjukdomar och åtgärder vid dem.</li> <li>Innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.</li> <li>Omvårdnadshygien, mikroorganismer, smitta och smittspridning.</li> <li>Användning och hantering av vanligt förekommande läkemedel. Läkemedlens biverkningar.</li> <li>Bestämmelser och praxis om arbetsmiljö, säkerhet och yrkesetik i samband med arbetet med grundläggande vård och omsorg.</li> <li>Funktionella kroppshållningar. Innebörden och betydelsen av att arbeta ergonomiskt. Förutsättningar för funktionella kroppshållningar.</li> <li>Hjärt-lungräddning med defibrillering samt första hjälpen vid skada och akut sjukdom.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> kroppens uppbyggnad och funktion. Eleven redogör även <strong>översiktligt</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas. Dessutom redogör eleven <strong>översiktligt </strong>för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning. Eleven redogör även för <strong>några</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven redogör <strong>översiktligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p><p>Eleven utför vanligt förekommande<strong> enkla </strong>arbetsuppgifter <strong>i samråd </strong>med handledare på ett yrkesmässigt sätt. I arbetet använder eleven redskap och metoder som <strong>finns angivna</strong> för uppgiften samt tar i arbetet hänsyn till hygien, hälsa och miljö. Eleven diskuterar <strong>översiktligt </strong>sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande. Eleven diskuterar <strong>översiktligt </strong>möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> kroppens uppbyggnad och funktion. Eleven redogör även <strong>utförligt</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas. Dessutom redogör eleven <strong>utförligt </strong>för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning. Eleven redogör även för <strong>några</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven redogör <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p><p>Eleven utför vanligt förekommande arbetsuppgifter <strong>efter samråd </strong>med handledare på ett yrkesmässigt sätt. I arbetet <strong>väljer och </strong>använder eleven redskap och metoder som <strong>passar</strong> för uppgiften samt tar i arbetet hänsyn till hygien, hälsa och miljö. Eleven diskuterar <strong>utförligt</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande. Eleven diskuterar <strong>utförligt </strong>möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens uppbyggnad och funktion. Eleven redogör även <strong>utförligt och nyanserat</strong> för innebörden av personlig omvårdnad och egenvård och hur det kan stödjas. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för vanligt förekommande sjukdomar och olika aspekter av smitta och smittspridning. Eleven redogör även för <strong>flera</strong> vanliga läkemedel och deras eventuella biverkningar samt hur de används och hanteras. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p><p>Eleven redogör <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p><p>Eleven utför vanligt förekommande<strong> även avancerade </strong>arbetsuppgifter <strong>efter samråd </strong>med handledare på ett yrkesmässigt sätt <strong>samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. I arbetet <strong>väljer och </strong>använder eleven redskap och metoder som <strong>passar</strong> för uppgiften, <strong>motiverar sina val</strong>, samt tar i arbetet hänsyn till hygien, hälsa och miljö. Eleven diskuterar <strong>utförligt och nyanserat</strong> sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande. Eleven diskuterar <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar av arbetsuppgifterna och föreslår vid behov förbättringar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.999Z"
+}

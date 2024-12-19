@@ -1,0 +1,78 @@
+{
+  "code": "FILS",
+  "name": "Filosofi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:150",
+  "nameHeading": "<h2>Filosofi</h2>",
+  "description": "<p>Filosofi är grunden till all vetenskap och ett ständigt pågående reflekterande samtal som berör alla aspekter av mänsklig kunskap och verksamhet. Ämnet filosofi behandlar grundläggande frågor om verklighetens natur samt om kunskapens och den mänskliga existensens villkor. Den filosofiska aktiviteten handlar om att identifiera, formulera och klargöra filosofiska frågor samt att tänka självständigt, kritiskt och analytiskt utifrån dessa.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet filosofi ska syfta till att eleverna utvecklar kunskaper om filosofiska frågor och teorier samt sin förmåga att delta i det filosofiska samtalet. I undervisningen ska eleverna ges möjlighet att utveckla sitt tänkande i mötet med filosofi från olika tider och traditioner, vilket kan inspirera till att se tillvaron i ett vidare perspektiv, ge impulser att tänka i nya banor och utmana invanda föreställningar. Därigenom ska undervisningen ge möjligheter till ett aktivt och meningsfullt deltagande i samhället.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att analysera och diskutera olika verklighetsuppfattningar samt olika kunskapsteoretiska och vetenskapsteoretiska ståndpunkter. Undervisningen ska också leda till att eleverna utvecklar sin förmåga att identifiera, analysera och ta ställning till existentiella, etiska och samhällsfilosofiska frågor. Vidare ska eleverna ges möjlighet att utveckla sin förmåga att analysera och tillämpa filosofiska begrepp samt sin förmåga att argumentera giltigt. Genom undervisningen ska eleverna ges möjlighet att utveckla sitt kritiska och självständiga tänkande samt sin förmåga till personliga ställningstaganden grundade på genomtänkta och välgrundade argument.</p> <p>Undervisningen ska ge eleverna möjlighet att tänka, diskutera och resonera analytiskt och kreativt om filosofiska frågor och teorier. Dessutom ska undervisningen ge eleverna möjlighet att relatera filosofiska frågor till ett globalt hållbarhetsperspektiv och människors olika levnadsvillkor.</p> <h5><em>Undervisningen i ämnet filosofi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om filosofiska frågor och teorier.</li> <li>Förmåga att hantera filosofiska frågor och teorier med hjälp av relevanta begrepp.</li> <li>Förmåga att urskilja och genomföra giltig argumentation.</li> </ul><h3>Nivåer i ämnet filosofi</h3><ul><li>Nivå 1, 50 poäng. </li> <li>Nivå 2, 50 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FILS1000X</h3>",
+      "code": "FILS1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet filosofi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Teorier om människans och verklighetens natur.</li> <li>Grunderna inom kunskaps- och vetenskapsteori utifrån begreppen kunskap och sanning samt vetandets olika former.</li> <li>Etiska teorier och frågeställningar utifrån olika fall eller dilemman.</li> <li>Samhällsfilosofi om det rättvisa, goda och hållbara samhället.</li> <li>Grunderna i argumentationsanalys.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FILS2000X</h3>",
+      "code": "FILS2000X",
+      "nameHeading": "<h2>Nivå 2, 50 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet filosofi på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning i teorier om människans och verklighetens natur, däribland medvetandefilosofi.</li> <li>Fördjupad kunskaps- och vetenskapsteori. Jämförelse mellan forskningsmetoder inom humaniora, samhällsvetenskap och naturvetenskap.</li> <li>Fördjupad etisk teori i relation till uppfattningar om människans och verklighetens natur.</li> <li>Fördjupning i samhällsfilosofi med utgångspunkt i begreppen rättvisa, frihet och makt.</li> <li>Valt filosofiskt område, till exempel estetik, logik och språkfilosofi.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om filosofiska frågor och teorier inom flera områden.</p> <p>Eleven identifierar och formulerar med <strong>viss säkerhet</strong> filosofiska frågor samt analyserar och diskuterar <strong>översiktligt</strong> filosofiska frågor och teorier med hjälp av relevanta begrepp.</p> <p>Eleven urskiljer och förklarar med <strong>viss säkerhet</strong> giltig argumentation i olika sammanhang samt underbygger filosofiska resonemang med <strong>enkla</strong> argument.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om filosofiska frågor och teorier inom flera områden.</p> <p>Eleven identifierar och formulerar med <strong>säkerhet</strong> filosofiska frågor samt analyserar och diskuterar <strong>utförligt</strong> filosofiska frågor och teorier med hjälp av relevanta begrepp.</p> <p>Eleven urskiljer och förklarar med <strong>säkerhet</strong> giltig argumentation i olika sammanhang samt underbygger filosofiska resonemang med <strong>välgrundade</strong> argument.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om filosofiska frågor och teorier inom flera områden.</p> <p>Eleven identifierar och formulerar med <strong>god säkerhet</strong> filosofiska frågor samt analyserar och diskuterar <strong>utförligt och nyanserat</strong> filosofiska frågor och teorier med hjälp av relevanta begrepp.</p> <p>Eleven urskiljer och förklarar med <strong>god säkerhet</strong> giltig argumentation i olika sammanhang samt underbygger filosofiska resonemang med <strong>välgrundade och nyanserade</strong> argument.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.994Z"
+}

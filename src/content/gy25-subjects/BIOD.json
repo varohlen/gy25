@@ -1,0 +1,64 @@
+{
+  "code": "BIOD",
+  "name": "Biodling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:178",
+  "nameHeading": "<h2>Biodling</h2>",
+  "description": "<p>Pollinering är en värdefull ekosystemtjänst som har stor betydelse för odling av kulturväxter och för den biologiska mångfalden i naturen. Ämnet biodling behandlar bins utveckling och beteende, avel av bin samt bins betydelse i ekosystemen. Det behandlar också skötsel av bin, anläggningar och utrustning samt tillvaratagande av biodlingens produkter och ekonomiska beräkningar för en biodling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet biodling ska syfta till att eleverna utvecklar kunskaper om arbete med bin och förståelse av de biologiska sammanhangen inom biodling. Den ska leda till att eleverna utvecklar kunskaper om bin och deras betydelse i ekosystemen samt om biodlingens produkter. Den ska också leda till att eleverna utvecklar förmåga att hantera och sköta bin på ett yrkesmässigt sätt med utgångspunkt i bins behov och naturliga beteende. I detta ingår kunskaper om säkerhet i samband med hantering av bin samt kunskaper om hur sjukdomar hos bin förebyggs.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att tillvarata och hantera biodlingens produkter samt att göra ekonomiska beräkningar. Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att tillverka, sköta och underhålla utrustning och anläggningar. Eleverna ska också ges möjlighet att utveckla förmåga att följa fasta rutiner och ta ansvar i arbetet med bin samt använda hållbara och säkra arbetsmetoder. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller i samband med arbete med bin.</p> <p>Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla kunskaper om bins beteenden och förtrogenhet med biodlingens arbetsmetoder.</p> <h5><em>Undervisningen i ämnet biodling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om bins biologi och utveckling samt bins betydelse i ekosystemen.</li> <li>Förmåga att sköta och hantera bin på ett etiskt, hygieniskt och säkert sätt.</li> <li>Förmåga att hantera biodlingens produkter på ett säkert sätt samt att upprätta ekonomiska kalkyler för biodling.</li> <li>Förmåga att tillverka, sköta och hantera utrustning och anläggningar.</li> <li>Förmåga att arbeta hållbart och i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet biodling</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BIOD1000X</h3>",
+      "code": "BIOD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet biodling på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk och ekonomisk grund</em></p> <ul> <li>Bins fysiologi och utveckling från ägg till fullbildade insekter.</li> <li>Avel med raser och raskombinationer av bin samt drottningodling.</li> <li>Bins ekologiska betydelse och deras roll som pollinatörer.</li> <li>Bins beteende i olika miljöer och situationer samt bisamhällets individer och uppbyggnad.</li> <li>Biodlingens produkter, till exempel honung, vax, pollen och drottninggelé.</li> <li>Bisjukdomar och parasiter.</li> <li>Bins näringsbehov och vanliga biväxter.</li> <li>Biodlingens ekonomiska förutsättningar. Ekonomiska kalkyler för biodling.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Vanligt förekommande arbetsuppgifter i en bigård, till exempel tillsyn och hantering av bin samt utfodring.</li> <li>Etiska aspekter på biodling och honungshantering.</li> <li>Bitillsyn och förebyggande åtgärder mot sjukdomar.</li> <li>Dokumentation av åtgärder i en bigård.</li> <li>Hygien och hygienrutiner, till exempel rengöring av lokaler och utrustning.</li> <li>Tillvaratagande av biodlingens produkter samt hantering av honung efter skörd.</li> <li>Beräkningar av kostnader och intäkter för en bigård.</li> <li>Tillverkning av utrustning för biodling samt skötsel och underhåll av anläggningar.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Hygienpraxis och egenkontroll.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med biodling.</li> <li>Miljöhänsyn i samband med biodling.</li> <li>Lagar och andra bestämmelser som gäller biodling och livsmedelshantering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om bisamhällets uppbyggnad. Dessutom beskriver eleven <strong>översiktligt</strong> bins ekologiska betydelse och roll som pollinatörer.</p> <p>Eleven sköter och hanterar med <strong>visst</strong> handlag bin på ett etiskt, hygieniskt och säkert sätt.</p> <p>Eleven hanterar med <strong>viss säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet. Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar inom området.</p> <p>Eleven tillverkar, sköter och hanterar med <strong>viss säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar hållbart och i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om bisamhällets uppbyggnad. Dessutom beskriver eleven <strong>utförligt</strong> bins ekologiska betydelse och roll som pollinatörer.</p> <p>Eleven sköter och hanterar med <strong>gott</strong> handlag bin på ett etiskt, hygieniskt och säkert sätt.</p> <p>Eleven hanterar med <strong>säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet. Dessutom gör eleven <strong>välgrundade</strong> ekonomiska beräkningar inom området.</p> <p>Eleven tillverkar, sköter och hanterar med <strong>säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar hållbart och i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om bisamhällets uppbyggnad. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> bins ekologiska betydelse och roll som pollinatörer.</p> <p>Eleven sköter och hanterar med <strong>mycket gott</strong> handlag bin på ett etiskt, hygieniskt och säkert sätt.</p> <p>Eleven hanterar med <strong>god säkerhet</strong> produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet. Dessutom gör eleven <strong>välgrundade och nyanserade</strong> ekonomiska beräkningar inom området.</p> <p>Eleven tillverkar, sköter och hanterar med <strong>god säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar hållbart och i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.973Z"
+}

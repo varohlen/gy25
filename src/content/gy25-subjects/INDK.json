@@ -1,0 +1,77 @@
+{
+  "code": "INDK",
+  "name": "Industriella produktionsmetoder",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:544",
+  "nameHeading": "<h2>Industriella produktionsmetoder</h2>",
+  "description": "<p>Ämnet industriella produktionsmetoder behandlar olika metoder och teknikområden för industriell produktion, från hantverksmässigt industriellt arbete avsett för prototyp- och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriella produktionsmetoder ska syfta till att eleverna utvecklar kunskaper om begrepp, metoder och material samt de tekniker och den utrustning som används inom industriell produktion. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om modern produktion samt förmåga att välja rätt produktionsmetod i förhållande till produkt, material och produktionsutrustning. Dessutom ska undervisningen bidra till att eleverna får en helhetsbild av industriella produktionsmetoder och möjlighet till fördjupning inom valt område. På så vis ska undervisningen bidra till att eleverna utvecklar ingenjörsmässiga förmågor.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att diskutera, analysera och reflektera över teknikens möjligheter och därigenom hitta lösningar på produktionstekniska problem och föreslå förbättringar. Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera med olika målgrupper inom industrin. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att använda olika digitala verktyg och visualiseringstekniker i sitt arbete.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur produktionen styrs inom olika tillverkningsmetoder. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda metoder och verktyg för processövervakning. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla förståelse av hur kommunikation mellan utrustningar styrs och övervakas inom och mellan olika industriella produktionsenheter. Eleverna ska också ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet.</p> <p>Undervisningen ska lämna utrymme för diskussion om och reflektion över samband mellan hållbar utveckling och olika produktionsmetoder samt etiska frågor och olika handlingsalternativ för industriella produktionsmetoder. Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i olika situationer i produktionsmiljö.</p> <h5><em>Undervisningen i ämnet industriella produktionsmetoder ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om begrepp och metoder inom industriell produktion.</li> <li>Förmåga att planera, genomföra och utvärdera arbete inom industriell produktion.</li> <li>Kunskaper om säkerhetsrisker i vald produktionsmetod och hur risker minimeras.</li> <li>Förmåga att lösa produktionstekniska problem.</li> </ul><h3>Nivåer i ämnet industriella produktionsmetoder</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDK100TX</h3>",
+      "code": "INDK100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriella produktionsmetoder på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Metoder och utrustning</em></p> <ul> <li>Begrepp, metoder, teknik och utrustning för bearbetning, formning, sammanfogning och additiv tillverkning.</li> <li>Hur mätning och kvalitetsuppföljning påverkar slutresultatet.</li> <li>Olika produktionsmetoders användningsområden och möjligheter.</li> <li>Olika materials förändrade egenskaper beroende på val av produktionsmetod och olika materials påverkan på produktionsutrustning.</li> <li>Hur material genom olika produktionsmetoder förädlas till en färdig produkt.</li> <li>Introduktion till samband mellan hållbar utveckling och olika produktionsmetoder.</li> <li>Planerings-, berednings- och tillverkningsunderlag för produktion.</li> <li>Tolkning av produktionsutrustningars tekniska beskrivning.</li> <li>Val av utrustning, verktyg och metoder för att uppnå rätt kvalitetsnivå på tillverkade produkter.</li> <li>Programmering av datorstyrd produktionsutrustning.</li> <li>Styrning och övervakning av produktionsprocesser.</li> <li>Mätning och bedömning av arbetets kvalitet samt dokumentation av utfört arbete.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet.</li> <li>Hur risker hanteras och minimeras i produktion.</li> </ul> <p><em>Problemlösning inom produktion</em></p> <ul> <li>Produktionsekonomi med koppling till val av produktionsmetod.</li> <li>Val av metod i förhållande till den produkt som ska tillverkas och den produktionsutrustning som står till förfogande.</li> <li>Beräkningar i samband med utvecklings- och förbättringsarbete.</li> <li>Kommunikation med olika målgrupper.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDK200TX</h3>",
+      "code": "INDK200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriella produktionsmetoder på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Metoder och utrustning</em></p> <ul> <li>Begrepp, metoder, teknik och utrustning för bearbetning, formning, sammanfogning och additiv tillverkning.</li> <li>Effektivisering och optimering av inställningar på produktionsutrustning, kringutrustning och maskiner.</li> <li>Teknisk beskrivning, funktionskontroll och mätning av produktionsutrustning och kringutrustning.</li> <li>Beräkningar och modeller för planering och optimering av produktionsprocessen, till exempel för minimering av förluster.</li> <li>Samband mellan hållbar utveckling och olika produktionsmetoder.</li> <li>Planering och beredning för produktion av produkter som kräver mer än en produktionsmetod.</li> <li>Programmering och produktionsförberedelse. Justeringar i program och maskininställningar samt produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.</li> <li>Val av utrustning, verktyg och metod för optimalt produktionsresultat och förbättrad produktionsekonomi.</li> <li>Mätning och bedömning av arbetets kvalitet samt dokumentation av utfört arbete.</li> <li>Metoder för riskanalys och tillhörande riskbedömning samt betydelsen av dessa för arbetets organisation och genomförande.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljöföreskrifter och bestämmelser om person- och maskinsäkerhet.</li> <li>Systematiskt arbetsmiljöarbete och dess betydelse för arbetets organisation och genomförande.</li> </ul> <p><em>Problemlösning inom produktion</em></p> <ul> <li>Arbetsplatsutformning i samband med införande av ny metod och utrustning.</li> <li>Dimensionering, tekniska beräkningar och materialberäkningar.</li> <li>Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.</li> <li>Kommunikation med olika målgrupper.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om begrepp och metoder inom industriell produktion.</p> <p>Eleven planerar, genomför och utvärderar sitt arbete på ett <strong>fungerande</strong> sätt.</p> <p>Eleven resonerar <strong>övergripande</strong> om säkerhetsrisker och riskhantering inom området.</p> <p>Eleven löser på ett <strong>systematiskt</strong> sätt produktionstekniska problem.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om begrepp och metoder inom industriell produktion.</p> <p>Eleven planerar, genomför och utvärderar sitt arbete på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven resonerar <strong>utförligt</strong> om säkerhetsrisker och riskhantering inom området.</p> <p>Eleven löser på ett <strong>systematiskt och genomarbetat</strong> sätt produktionstekniska problem.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om begrepp och metoder inom industriell produktion.</p> <p>Eleven planerar, genomför och utvärderar sitt arbete på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om säkerhetsrisker och riskhantering inom området.</p> <p>Eleven löser på ett <strong>systematiskt och effektivt</strong> sätt produktionstekniska problem.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

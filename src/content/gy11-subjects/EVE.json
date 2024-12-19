@@ -1,0 +1,143 @@
+{
+  "code": "EVE",
+  "name": "Eventteknik",
+  "englishName": "Events",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:157",
+  "skolfsAndring": "2022:101",
+  "nameHeading": "<h2>Eventteknik</h2>",
+  "description": "<p>Kravet på bra ljud, bild, ljus och specialeffekter vid olika typer av event har medfört att mängden avancerad teknisk utrustning har ökat. Detta gör att det krävs personal för uppbyggnad, drift, felsökning och reparation av den tekniska utrustningen. Ämnet eventteknik ger en teoretisk och praktisk grund för detta arbete.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet eventteknik ska syfta till att eleverna utvecklar kunskaper om den tekniska utrustning som används vid olika event. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att bygga upp scenanläggningar och rigga teknisk utrustning för event samt att felsöka och reparera utrustningen. Eleverna ska också ges möjlighet att utveckla kunskaper om säkerhetskrav och miljökrav för arbetet.</p><p>Undervisningen ska leda till att eleverna utvecklar förståelse av planeringens och logistikens betydelse. Den ska även leda till att eleverna utvecklar kunskaper om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.</p><h4>Undervisningen i ämnet eventteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om scenanläggningars komponenter, enheter och system samt om säkerhetskrav och arbetsmiljökrav för scenanläggningar.</li> <li>Förmåga att planera sitt arbete samt att bygga upp scenanläggningar och rigga teknisk utrustning för event på ett säkert, kvalitetsmässigt, ergonomiskt och miljömässigt sätt.</li> <li>Förmåga att utföra systematisk felsökning och reparation.</li> <li>Förmåga att dokumentera sitt arbete.</li> <li>Kunskaper om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media samt om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete.</li> <li>Kunskaper om tillståndsfrågor vid reproduktion av ljud och bild och vid offentliga framföranden.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Eventteknik, 100 poäng. </li> <li>Ljudproduktionsteknik, 100 poäng, som bygger på kursen eventteknik.</li> <li>Ljus- och bildproduktionsteknik, 100 poäng, som bygger på kursen eventteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: EVEEVN0</h3>",
+      "code": "EVEEVN0",
+      "nameHeading": "<h2>Eventteknik, 100 poäng</h2>",
+      "name": "Eventteknik",
+      "englishName": "Events",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen eventteknik omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion och arbetssätt hos tekniska ljud-, bild- och ljusanläggningar för event.</li> <li>Funktion och monteringssätt hos komponenter, enheter och system för scenuppbyggnad.</li> <li>Uppbyggnad och riggning av scenanläggningar för musikprojekt, mässor och andra event.</li> <li>Ergonomi.</li> <li>Säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och riggning av utrustning.</li> <li>Handhavande och funktionsprovning av anläggningar.</li> <li>Enklare systematisk felsökning och reparation.</li> <li>Planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media.</li> <li>Tillstånd som kan krävas vid offentliga framföranden.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>scenanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>översiktligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>i samråd </strong>med handledare teknisk utrustning för event. Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av utrustningen. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>enkla </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>enkla </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>översiktligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>scenanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>efter samråd </strong>med handledare teknisk utrustning för event. Dessutom utför eleven systematiska felsökningar och reparationer av utrustningen. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>välgrundade </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>scenanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för säkerhetskrav och arbetsmiljökrav som gäller för scenanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp scenanläggningar och riggar <strong>efter samråd </strong>med handledare teknisk utrustning för event. Dessutom utför eleven <strong>avancerade </strong>systematiska felsökningar och reparationer av utrustningen. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>gott</strong>. När arbetet är utfört gör eleven en<strong> noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>välgrundade och nyanserade </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade <strong>och nyanserade</strong> </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt och nyanserat </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p><p><br></p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: EVELJD0</h3>",
+      "code": "EVELJD0",
+      "nameHeading": "<h2>Ljudproduktionsteknik, 100 poäng</h2>",
+      "name": "Ljudproduktionsteknik",
+      "englishName": "Audio production technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen ljudproduktionsteknik omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ljudproduktionsteknik.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad och riggning av ljudanläggningar för musikprojekt, mässor, artistuppträdanden och andra event.</li> <li>Ljudmediets uttrycksmöjligheter och kreativt arbete med ljud.</li> <li>Analog och digital teknik.</li> <li>Datorutrustningar i ljudarbetet. </li> <li>Mikrofoner och mikrofonval.</li> <li>Mixerbord och mixningsteknik. </li> <li>In- och uppspelningsutrustningar.</li> <li>Redigeringsutrustningar.</li> <li>Ljudåtergivningsutrustning och högtalarteknik.</li> <li>Akustik i olika miljöer.</li> <li>Säkerhetskrav och miljökrav för arbete med ljud.</li> <li>Handhavande och funktionsprovning av ljudanläggningar.</li> <li>Systematisk felsökning och reparation av ljudanläggningar för publika framträdanden.</li> <li>Tillstånd som kan krävas vid reproduktion och offentliga framföranden.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>ljudanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>översiktligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>i samråd </strong>med handledare ljudanläggningar. Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med viss säkerhet </strong>teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven<strong> enkla </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>enkla </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>översiktligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>ljudanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd </strong>med handledare ljudanläggningar. Dessutom utför eleven systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med viss säkerhet </strong>teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>välgrundade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>ljudanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljudanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd </strong>med handledare ljudanläggningar. Dessutom utför eleven <strong>avancerade </strong>systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med säkerhet </strong>teknik och utrustning för ljudåtergivning, digital och analog ljudinspelning och redigering. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>gott</strong>. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven<strong> välgrundade och nyanserade </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade och nyanserade </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt och nyanserat </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: EVELJS0</h3>",
+      "code": "EVELJS0",
+      "nameHeading": "<h2>Ljus- och bildproduktionsteknik, 100 poäng</h2>",
+      "name": "Ljus- och bildproduktionsteknik",
+      "englishName": "Lighting and visual production",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen ljus- och bildproduktionsteknik omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ljus- och bildproduktionsteknik.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Ljus- och bildanläggningars komponenter, enheter och system samt anläggningarnas funktion och arbetssätt.</li> <li>Uppbyggnad och riggning av ljus- och bildanläggningar för musikprojekt, mässor, artistuppträdanden och andra event.</li> <li>Ljus- och bildmediernas uttrycksmöjligheter samt kreativt arbete med ljus och bild.</li> <li>Analog och digital video- och bildteknik.</li> <li>Datorutrustningar i ljus- och bildarbetet.</li> <li>In- och uppspelningsutrustningar.</li> <li>Redigeringsutrustningar.</li> <li>Bildskärmar och projektorer.</li> <li>Säkerhetskrav och miljökrav för arbete med ljus och bild.</li> <li>Handhavande och funktionsprovning av ljus- och bildanläggningar.</li> <li>Systematisk felsökning och reparation av ljus- och bildanläggningar som används vid publika framträdande.</li> <li>Tillstånd som kan krävas för bildproduktion vid offentliga framföranden.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>ljus- och bildanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>översiktligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>i samråd </strong>med handledare ljus- och bildanläggningar. Dessutom utför eleven <strong>enkla</strong> systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med viss säkerhet </strong>teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>enkla</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>enkla </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>översiktligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>ljus- och bildanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd </strong>med handledare ljus- och bildanläggningar. Dessutom utför eleven systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med viss säkerhet </strong>teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>tillfredsställande</strong>. När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>välgrundade</strong> resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>ljus- och bildanläggningars komponenter, enheter och system. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för säkerhetskrav och arbetsmiljökrav som gäller för ljus- och bildanläggningarna.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt bygger upp och riggar <strong>efter samråd </strong>med handledare ljus- och bildanläggningar. Dessutom utför eleven <strong>avancerade </strong>systematiska felsökningar och reparationer av anläggningarna. I arbetet använder eleven <strong>med säkerhet </strong>teknik och utrustning för bild- och videopresentation samt teknik och utrustning för ljussättning. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt uppfyller krav på kvalitet, ergonomi och miljö. Resultatet av arbetet är <strong>gott</strong>. När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p><p>Utifrån sitt arbete för eleven <strong>välgrundade och nyanserade </strong>resonemang om planeringens och logistikens betydelse för artister, uppdragsgivare, publik och media. Dessutom för eleven <strong>välgrundade och nyanserade </strong>resonemang om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. Eleven redogör <strong>utförligt och nyanserat </strong>för hur bestämmelser om tillstånd för reproduktion och offentliga framföranden ska tillämpas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.985Z"
+}

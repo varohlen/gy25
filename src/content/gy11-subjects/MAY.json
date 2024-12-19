@@ -1,0 +1,67 @@
+{
+  "code": "MAY",
+  "name": "Marina elektroniksystem",
+  "englishName": "Marine electronic systems",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2014:63",
+  "skolfsAndring": "2022:201",
+  "nameHeading": "<h2>Marina elektroniksystem</h2>",
+  "description": "<p>Ämnet marina elektroniksystem behandlar felsökning och reparation i olika typer av marina elektroniksystem och apparater. Elektroniksystem och apparater innehåller normalt flera olika funktioner och komponenter, vilket kräver ett systematiskt arbetssätt för att lokalisera fel och felfunktioner.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marina elektroniksystem ska syfta till att eleverna utvecklar förmåga att utföra support och service på ett systematiskt och effektivt sätt i marina elektronikapparater och elektroniksystem. Genom undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att installera, programmera och driftsätta marina elektronikapparater och elektroniksystem. Undervisningen ska även leda till att eleverna utvecklar förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om mätteknik samt färdigheter i att använda mätinstrument för olika mätuppgifter.</p><p>Genom laborationer, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för support och service på elektroniksystem.</p><h4>Undervisningen i ämnet marina elektroniksystem ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om funktion, konstruktion och uppbyggnad hos marina elektronikapparater och system.</li> <li>Kunskaper om lagar och andra bestämmelser samt om standarder och begrepp inom området.</li> <li>Färdigheter i att planera, organisera, utföra och dokumentera reparationsarbete.</li> <li>Färdigheter i att utföra support och service av marina elektronikapparater och elektroniksystem.</li> <li>Färdigheter i att installera, programmera och driftsätta marina elektronikapparater och elektroniksystem.</li> <li>Förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska.</li> <li>Färdigheter i att använda mätinstrument för olika mätuppgifter.</li> <li>Färdigheter i att instruera användare i hur de handhar apparater och system.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Marina elektroniksystem, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MAYMAR0</h3>",
+      "code": "MAYMAR0",
+      "nameHeading": "<h2>Marina elektroniksystem, 100 poäng</h2>",
+      "name": "Marina elektroniksystem",
+      "englishName": "Marine electronic systems",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen marina elektroniksystem omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion och uppbyggnad hos mindre radaranläggningar.</li> <li>Ekolod för olika ändamål.</li> <li>AIS-systemet och tillhörande apparater.</li> <li>GPS-system med inlagda sjökort.</li> <li>Navigationssystem med displayplotter och liknande.</li> <li>Radioutrustningar och mobiltelefoner.</li> <li>Elektroniska plattformar för kommunikation mellan motor, reglage, instrument och övrig utrustning, till exempel EVC (Electronic Vessel Control).</li> <li>Marina installations- och säkerhetskrav.</li> <li>Internationella standarder för kommunikation mellan enheter, till exempel NMEA 2000.</li> <li>Lagen om elektronisk kommunikation och tillstånd för VHF-radiosändare.</li> <li>Support och service på navigations-, informations- och kommunikationssystem för fartyg.</li> <li>Metoder för systematisk felsökning och reparation.</li> <li>Elektronikscheman, servicemanualer och bruksanvisningar på svenska och engelska.</li> <li>Installation, programmering och driftsättning av marina apparater och elektroniksystem.</li> <li>Montering av marina antenner.</li> <li>Mätteknik och mätinstrument.</li> <li>Metoder för dokumentation av arbetet.</li> <li>Instruktion till användare i handhavande av apparater och system.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör<strong> översiktligt</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system. Dessutom redogör eleven <strong>översiktligt </strong>för lagar och andra bestämmelser samt standarder och begrepp inom området.</p><p>Eleven planerar, organiserar och utför systematiskt och <strong>i samråd </strong>med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller kvalitetskraven. Under arbetet väljer eleven <strong>med viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>visst </strong>handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar <strong>översiktligt</strong> sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. I arbetet använder eleven <strong>med viss säkerhet</strong> apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet </strong>med andra samt använder ett <strong>enkelt</strong> fackspråk som är anpassat till situationen.</p><p>Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av utfört arbete. Eleven utvärderar sitt arbete med <strong>enkla </strong>omdömen.</p><p>Eleven ger <strong>med viss säkerhet </strong>tydliga instruktioner till användare av apparater och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system. Dessutom redogör eleven <strong>utförligt </strong>för lagar och andra bestämmelser samt standarder och begrepp inom området.</p><p>Eleven planerar, organiserar och utför systematiskt och <strong>efter samråd </strong>med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller kvalitetskraven. Under arbetet väljer eleven <strong>med viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med<strong> gott </strong>handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar <strong>utförligt</strong> sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare. I arbetet använder eleven <strong>med viss säkerhet</strong> apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven <strong>med viss säkerhet </strong>med andra samt använder ett fackspråk som är anpassat till situationen.</p><p>Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av utfört arbete. Eleven utvärderar sitt arbete med <strong>nyanserade </strong>omdömen.</p><p>Eleven ger <strong>med viss säkerhet </strong>tydliga instruktioner till användare av apparater och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för funktion, konstruktion och uppbyggnad av marina elektronikapparater och system. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser samt standarder och begrepp inom området.</p><p>Eleven planerar, organiserar och utför systematiskt och <strong>efter samråd </strong>med handledare support och service av marina elektronikapparater och system, med ett resultat som på ett <strong>gott </strong>sätt uppfyller kvalitetskraven. Under arbetet väljer eleven <strong>med säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>mycket gott </strong>handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar <strong>utförligt och nyanserat</strong> sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. I arbetet använder eleven <strong>med säkerhet</strong> apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven <strong>med säkerhet </strong>med andra samt använder ett <strong>nyanserat </strong>fackspråk som är anpassat till situationen.</p><p>Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utfört arbete. Eleven utvärderar sitt arbete med <strong>nyanserade </strong>omdömen<strong> samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven ger <strong>med säkerhet </strong>tydliga instruktioner till användare av apparater och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.082Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FLYP",
+  "name": "Flyg – plåtreparationer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:292",
+  "nameHeading": "<h2>Flyg – plåtreparationer</h2>",
+  "description": "<p>Ämnet flyg – plåtreparationer behandlar arbetsprocesser och arbetsmetoder för kontroll och reparationer av olika typer av plåtdetaljer i luftfartyg. Ämnet behandlar även olika typer av plåtmaterial och deras egenskaper samt specialverktyg och utrustning för plåtreparationer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet flyg – plåtreparationer ska syfta till att eleverna utvecklar kunskaper om olika plåtmaterial i luftfartyg samt förmåga att planera och genomföra reparationer av skrov- och strukturdetaljer av plåtmaterial med olika arbetsmetoder och tekniker. I undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om specialverktyg, utrustning och teknisk information som används vid olika typer av plåtreparationer på luftfartyg.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som de kan komma att möta i arbetslivet. Dessa arbetsuppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet flyg – plåtreparationer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av plåtmaterial och deras egenskaper samt om hur de används i olika typer av skrov och strukturer i luftfartyg.</li> <li>Kunskaper om arbetsprocesser och arbetsmetoder för kontroll och reparationer av olika typer av skrov- och strukturdetaljer i olika plåtmaterial.</li> <li>Kunskaper om specialverktyg, utrustning, sammanfognings- och förbrukningsmaterial samt teknisk information som används vid plåtreparationer.</li> <li>Förmåga att planera och genomföra reparationer av luftfartygs skrov- och strukturdetaljer i olika plåtmaterial.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda ett yrkesmässigt språk samt att anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet flyg – plåtreparationer</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet flyg – underhållsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FLYP1000X</h3>",
+      "code": "FLYP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet flyg – plåtreparationer på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Orientering om olika typer av luftfartygs skrov och strukturer i plåt samt de olika materialens egenskaper och märkningar, däribland aluminium och stålplåt.</li> <li>Produktsystem och vanligt förekommande reparationsmetoder för olika typer av plåtmaterial i luftfartyg, till exempel för bearbetning och formning, nitning, svetsning och montagelimning.</li> <li>Orientering om faktorer att beakta vid kalkylering och skadeberäkning av reparationsskador enligt typcertifikatsinnehavarens anvisningar och krav.</li> <li>Olika metoder för kontroll, oförstörande provning och skadedetektering av luftfartygsdetaljer av olika plåtmaterial samt för beredning för olika typer av skadereparationer.</li> <li>Orientering om typcertifikatsinnehavarens anvisningar och krav för olika typer av plåtreparationer.</li> <li>Olika arbetsmiljörisker i samband med olika typer av skrov- och strukturreparationer.</li> <li>Metoder för kvalitetskontroll av skrov- och strukturreparationer samt färdigställande inför lackering av reparerade skador.</li> <li>Arbetsmetoder vilka bidrar till ekonomisk och miljömässig hållbarhet.</li> <li>Specialverktyg, utrustning och förbrukningsmaterial samt metoder för att använda dessa i samband med plåtreparationer, däribland utrustning för sammanfogning.</li> <li>Varuinformationsblad och övrig teknisk information på svenska och engelska samt metoder för att använda dessa vid olika typer av plåtreparationer.</li> <li>Kemikalier och reparationsmaterial samt destruktion av restprodukter.</li> <li>Oförstörande provning och skadedetektering samt visuell kontroll av skrov- och strukturdetaljer i plåt under laborativa former.</li> <li>Planering, metodval och genomförande av mindre reparationer av skrov- och strukturdetaljer i plåt på luftfartyg med användning av olika arbetsmetoder, tekniker och produktsystem.</li> <li>Demontering och montering under laborativa former.</li> <li>Användning och vård av verktyg och övrig utrustning vid reparationer samt vid demontering och montering enligt typcertifikatsinnehavarens anvisningar och krav.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser inom området.</li> <li>Riskbedömning i samband med olika typer av reparationer och arbetsmetoder, däribland vid limning.</li> <li>Destruktion av restprodukter med hänsyn till miljö och ekonomi.</li> <li>Arbete enligt metoder för struktur, ordning och effektiv arbetsmiljö samt med hänsyn till kundens egendom.</li> <li>Utvärdering av arbetsprocess och utfört arbete.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av plåtmaterial och deras egenskaper samt om hur de används i olika typer av skrov och strukturer i luftfartyg.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om arbetsprocesser och arbetsmetoder för kontroll och reparationer av olika typer av skrov- och strukturdetaljer i olika plåtmaterial.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om specialverktyg, utrustning, material och teknisk information som används vid plåtreparationer.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> reparationer av luftfartygs skrov- och strukturdetaljer i olika plåtmaterial enligt material- och luftfartygstillverkarens anvisningar. I arbetet använder eleven med <strong>viss säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>visst</strong> handlag specialverktyg, utrustning och material.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt material- och luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av plåtmaterial och deras egenskaper samt om hur de används i olika typer av skrov och strukturer i luftfartyg.</p> <p>Eleven visar <strong>goda</strong> kunskaper om arbetsprocesser och arbetsmetoder för kontroll och reparationer av olika typer av skrov- och strukturdetaljer i olika plåtmaterial.</p> <p>Eleven visar <strong>goda</strong> kunskaper om specialverktyg, utrustning, material och teknisk information som används vid plåtreparationer.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> reparationer av luftfartygs skrov- och strukturdetaljer i olika plåtmaterial enligt material- och luftfartygstillverkarens anvisningar. I arbetet använder eleven med <strong>säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>gott</strong> handlag specialverktyg, utrustning och material.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt material- och luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av plåtmaterial och deras egenskaper samt om hur de används i olika typer av skrov och strukturer i luftfartyg.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om arbetsprocesser och arbetsmetoder för kontroll och reparationer av olika typer av skrov- och strukturdetaljer i olika plåtmaterial.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om specialverktyg, utrustning, material och teknisk information som används vid plåtreparationer.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> reparationer av luftfartygs skrov- och strukturdetaljer i olika plåtmaterial enligt material- och luftfartygstillverkarens anvisningar. I arbetet använder eleven med <strong>god säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>mycket gott</strong> handlag specialverktyg, utrustning och material.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt material- och luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.998Z"
+}

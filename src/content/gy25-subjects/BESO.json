@@ -1,0 +1,64 @@
+{
+  "code": "BESO",
+  "name": "Besöksnäringen",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:171",
+  "nameHeading": "<h2>Besöksnäringen</h2>",
+  "description": "<p>Besöksnäringen är ett samlingsnamn för turistnäringens olika verksamheter. Turism- och besöksnäringen är en viktig bransch i stora delar av världen och omfattar verksamhetsområdena bo, äta, göra, resa och sälja. Ämnet behandlar turismens och besöksnäringens utveckling genom tiderna samt den nutida besöksnäringen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet besöksnäringen ska syfta till att eleverna utvecklar kunskaper om besöksnäringen och dess historiska utveckling samt om digitaliseringens påverkan på branschen. Eleverna ska i undervisningen ges möjlighet att utveckla kunskaper om olika aktörer och yrkesroller inom branschen. Eleverna ska även ges möjlighet att utveckla kunskaper om frågor som rör ekonomiska, sociala, miljömässiga och kulturella förhållanden samt etiska förhållningssätt inom besöksnäringen. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom besöksnäringen samt om arbetsmiljö och säkerhetsaspekter i arbetet.</p> <p>Eleverna ska i undervisningen ges möjlighet att utveckla förståelse av olika målgruppers behov, kulturer och levnadssätt. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att både i skrift och talat språk presentera information om turism- och besöksnäringen. Dessutom ska eleverna ges möjlighet att söka, sortera, granska och värdera turism- och besöksnäringsinformation.</p> <p>Genom praktiska övningar i verklighetstrogen miljö ska eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter inom besöksnäringens verksamhetsområden. Dessutom ska undervisningen stimulera elevernas nyfikenhet och lust till fortsatt lärande inom besöksnäringen.</p> <h5><em>Undervisningen i ämnet besöksnäringen ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om turism- och besöksnäringens utveckling över tid.</li> <li>Kunskaper om olika målgruppers behov och skiftande krav.</li> <li>Kunskaper om turism- och besöksnäringens olika verksamheter, yrkesroller och arbetsuppgifter samt om lagar och andra bestämmelser inom besöksnäringen.</li> <li>Förmåga att inhämta, värdera och presentera information om turism- och besöksnäringen.</li> </ul><h3>Nivåer i ämnet besöksnäringen</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BESO1000X</h3>",
+      "code": "BESO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet besöksnäringen på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Turismens och besöksnäringens historia och trender, lokalt, nationellt och internationellt.</li> <li>Kända resmål i Sverige och i världen, både historiska och nutida.</li> <li>Branschens utveckling från behov av logi till dagens krav på bekvämlighet, service och upplevelse.</li> <li>Branschens utveckling från möten i enklare lokaler till konferenspaket med förväntningar på upplevelser och aktiviteter.</li> <li>Den digitala utvecklingen i branschen, till exempel hur resor bokas, optimeras och marknadsförs.</li> <li>Olika målgrupper och deras behov samt skiftande krav på resor, aktiviteter och service.</li> <li>Möten mellan olika kulturer.</li> <li>Kulturella faktorer som har betydelse för besöksnäringen, till exempel kulturarv, språk, traditioner samt seder och bruk.</li> <li>Besöksnäringens centrala organisationer.</li> <li>Besöksnäringens olika verksamhetsområden, aktörer och yrkesroller.</li> <li>Betydelsen av samverkan mellan aktörer inom olika verksamhetsområden.</li> <li>Lagar och andra bestämmelser, till exempel paketreselagen, resegarantilagen, semesterlagen och arbetsmiljölagen samt anställningsvillkor inom besöksnäringen.</li> <li>Förutsättningar för ekonomiskt, socialt och miljömässigt hållbar utveckling inom besöksnäringen.</li> <li>Vikten av turism för länders ekonomiska tillväxt.</li> <li>Omvärlds- och trendspaning inom besöksnäringen.</li> <li>Inhämtning, värdering och presentation av branschspecifik information, både skriftligt och muntligt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om turism- och besöksnäringens utveckling över tid.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika målgruppers behov och skiftande krav.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för turism- och besöksnäringens olika verksamheter, roller och arbetsuppgifter. Eleven redogör för lagar och andra bestämmelser inom området.</p> <p>Eleven inhämtar, värderar och presenterar information om turism- och besöksnäringen på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om turism- och besöksnäringens utveckling över tid.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika målgruppers behov och skiftande krav.</p> <p>Eleven redogör på ett <strong>gott</strong> sätt för turism- och besöksnäringens olika verksamheter, roller och arbetsuppgifter. Eleven redogör för lagar och andra bestämmelser inom området.</p> <p>Eleven inhämtar, värderar och presenterar information om turism- och besöksnäringen på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om turism- och besöksnäringens utveckling över tid.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika målgruppers behov och skiftande krav.</p> <p>Eleven redogör på ett <strong>mycket gott</strong> sätt för turism- och besöksnäringens olika verksamheter, roller och arbetsuppgifter. Eleven redogör för lagar och andra bestämmelser inom området.</p> <p>Eleven inhämtar, värderar och presenterar information om turism- och besöksnäringen på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.971Z"
+}

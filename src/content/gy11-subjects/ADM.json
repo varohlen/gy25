@@ -1,0 +1,219 @@
+{
+  "code": "ADM",
+  "name": "Administration",
+  "englishName": "Administration",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:56",
+  "skolfsAndring": "2022:31",
+  "nameHeading": "<h2>Administration</h2>",
+  "description": "<p>Administration har till uppgift att stödja, förvalta och sköta ett företags eller annan organisations verksamhet. Ämnet administration behandlar administrativa arbetsuppgifter som förekommer inom företag, offentlig förvaltning och andra organisationer. Det behandlar också användning av modern teknik och hur man därmed arbetar effektivt, säkert och serviceinriktat.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet administration ska syfta till att eleverna utvecklar förmåga att planera och utföra administrativt arbete. Den ska ge eleverna möjlighet att utveckla kunskaper om administrativa rutiner samt om dokumentutformning, organisation och arbetsformer i företag och i offentlig förvaltning. I undervisningen ska eleverna ges möjlighet att utveckla sina kunskaper i programhantering för att i yrkeslivet kunna utveckla rutiner och kommunikation i det administrativa arbetet samt planera och strukturera arbetet på ett effektivt och datasäkert sätt. </p><p>Undervisningen ska också behandla etik och sekretessfrågor. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om arbetsmiljöfrågor, arbetsrätt och om andra lagar och bestämmelser inom området.</p><p>Eleverna ska ges möjlighet att utveckla förmåga till samarbete, service och självständighet. Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter inom administrativ service. Via kontakter med företag och organisationer inom det administrativa området ska eleverna ges möjlighet att utveckla förståelse av företagandets villkor.</p><h4>Undervisningen i ämnet administration ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om administrativa rutiner och funktioner samt om dokumentutformning, organisation och arbetsformer i företag.</li> <li>Kunskaper om dagens arbetsmarknad.</li> <li>Kunskaper om olika programvaror.</li> <li>Förmåga att planera, organisera och utföra administrativt arbete samt förmåga att arbeta serviceinriktat.</li> <li>Förmåga att använda modern teknik, material, redskap och arbetsmetoder.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Förmåga att arbeta på ett ergonomiskt och miljömedvetet sätt.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Administration 1, 100 poäng, som bygger på kursen information och kommunikation 1, kursen reception 2 eller kursen konferens 2.</li> <li>Administration 2, 100 poäng, som bygger på kursen administration 1.</li> <li>Administration – specialisering, 100 poäng, som bygger på kursen servicekunskap eller kursen administration 1. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Personaladministration, 100 poäng, som bygger på kursen administration 2 eller kursen våningsservice 2.</li> <li>Receptions- och konferensservice, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ADMADM01</h3>",
+      "code": "ADMADM01",
+      "nameHeading": "<h2>Administration 1, 100 poäng</h2>",
+      "name": "Administration 1",
+      "englishName": "Administration 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen administration 1 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Grundläggande administrativa arbetsrutiner, till exempel diarieföring, arkivering och postrutiner samt dokument- och skrivregler, till exempel allmänna och sekretessbelagda handlingar.</li> <li>Administrativa funktioner, till exempel ekonomi, material, personal, information och kommunikation.</li> <li>Handelsdokument, till exempel order, faktura och dokument för inköp och lagerhantering. Begrepp inom området, till exempel blankett, mall och brev.</li> <li>Organisation och arbetsformer i företag, till exempel hur ansvar och uppgifter fördelas i en organisation, hur ett organisationsschema upprättas, hur olika arbetsformer, projekt- och distansarbete kan tillämpas.</li> <li>Offentlig förvaltning samt företags och organisationers uppbyggnad och verksamhet.</li> <li>Grundläggande programvaror för administration.</li> <li>Planering och organisation av det administrativa arbetet, till exempel att handlägga ett ärende eller anordna möten, konferenser och event, enskilt eller tillsammans med andra. Presentation av ett företags interna och externa information.</li> <li>Lagar och andra bestämmelser inom området, till exempel arbetsrätt och arkivlagen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>översiktligt</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer. Dessutom beskriver eleven <strong>översiktligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>i samråd</strong> med handledare <strong>enkelt </strong>administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>i samråd </strong>med handledare <strong>enkla </strong>problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer. Dessutom beskriver eleven <strong>utförligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat </strong>sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare <strong>enkelt</strong> administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare <strong>enkla</strong> problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>grundläggande administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt och nyanserat</strong> för olika företags och offentliga förvaltningars verksamhet, organisation och arbetsformer. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare grundläggande interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt. I arbetet använder eleven <strong>med säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ADMADM02</h3>",
+      "code": "ADMADM02",
+      "nameHeading": "<h2>Administration 2, 100 poäng</h2>",
+      "name": "Administration 2",
+      "englishName": "Administration 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen administration 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Handläggning av ärenden, till exempel sammanställning och uppföljning av ansökningar.</li> <li>Arbetsmarknad, till exempel att söka arbete, vägar till arbete och att arbeta utomlands.</li> <li>Användning av modern teknik och programvara i olika administrativa och kommunikativa arbetsuppgifter.</li> <li>Serviceinriktat arbete och bemötande samt den egna rollen i mötet med andra som till exempel kunder och medarbetare.</li> <li>Metoder för planering, genomförande, presentation och utvärdering av projekt.</li> <li>Register, regler, lagar och andra bestämmelser inom administration, till exempel offentlighetsprincipen och sekretessregler.</li> <li>Ergonomi, arbetsrättslagar och andra bestämmelser samt arbetsmiljöfrågor, till exempel hur en ergonomiskt riktig arbetsplats planeras och hur man arbetar med fysiska och psykosociala frågor.</li> <li>Kvalitetssäkring och internkontroll på företag.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>översiktligt</strong> för dagens arbetsmarknad. Dessutom beskriver eleven <strong>översiktligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>i samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>i samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt</strong> för dagens arbetsmarknad. Dessutom beskriver eleven <strong>utförligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt och nyanserat</strong> för dagens arbetsmarknad. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt. I arbetet använder eleven <strong>med säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ADMADM00S</h3>",
+      "code": "ADMADM00S",
+      "nameHeading": "<h2>Administration – specialisering, 100 poäng</h2>",
+      "name": "Administration – specialisering",
+      "englishName": "Administration – specialisation ",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen administration – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt verksamhetsområde.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Administrativa rutiner och dokumentutformning inom valt verksamhetsområde.</li> <li>Organisation och ansvarsfördelning inom valt verksamhetsområde.</li> <li>Företagande och entreprenörskap inom valt verksamhetsområde.</li> <li>Arbetsmarknaden samt dess utveckling och framtid inom det administrativa området.</li> <li>Digitala administrativa hjälpmedel i arbetet, till exempel ordbehandlings-, kalkyl-, register- och presentationsprogram.</li> <li>Sociala medier, intranät och internet.</li> <li>Administrativa arbetsuppgifter i olika företag och organisationer, till exempel handelsföretag, tjänsteföretag, kommunal och statlig förvaltning.</li> <li>Arbetsrätt, den enskildes rättigheter och skyldigheter.</li> <li>Diskriminerings- och säkerhetsfrågor samt frågor om resurshushållning och miljö.</li> <li>Etik och kvalitet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>översiktligt</strong> för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap. Dessutom redogör eleven <strong>översiktligt</strong> för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området. Eleven beskriver <strong>översiktligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>i samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>i samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt </strong>för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap. Dessutom redogör eleven <strong>utförligt </strong>för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området. Eleven beskriver <strong>utförligt </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt och nyanserat </strong>för olika företags organisation och ansvarsfördelning samt för företagande och entreprenörskap. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för dagens arbetsmarknad samt dess utveckling och framtid inom det administrativa området. Eleven beskriver <strong>utförligt och nyanserat </strong>olika programvarors användningsmöjligheter för kommunikation och serviceinriktat arbete.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter på ett serviceinriktat <strong>och strukturerat</strong> sätt. I arbetet använder eleven <strong>med säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledareproblem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ADMPER0</h3>",
+      "code": "ADMPER0",
+      "nameHeading": "<h2>Personaladministration, 100 poäng</h2>",
+      "name": "Personaladministration",
+      "englishName": "Personnel Administration",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen personaladministration omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Organisationer för arbetsgivare och arbetstagare.</li> <li>Rekrytering och anställningsförfarande samt introduktion för nyanställda.</li> <li>Personalavdelning och personalpolitik.</li> <li>Kompetens- och personalplanering.</li> <li>Personalekonomi, löner och personalkostnader.</li> <li>Ledarskap och förändringsarbete.</li> <li>Gruppsykologi och konflikthantering.</li> <li>Arbetsrättslagar.</li> <li>Arbetsmiljölagen och personalvård.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>översiktligt</strong> för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer. Dessutom redogör eleven <strong>översiktligt </strong>för olika tillvägagångssätt när man rekryterar och anställer personal.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>i samråd </strong>med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>i samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt </strong>för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer. Dessutom redogör eleven <strong>utförligt </strong>för olika tillvägagångssätt när man rekryterar och anställer personal.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden. <strong>Detta gör eleven </strong><strong>på ett strukturerat sätt</strong>. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>administrativa rutiner och funktioner samt dokumentutformning enligt gällande skrivregler. Eleven redogör också <strong>utförligt och nyanserat </strong>för dagens arbetsmarknad samt för fackliga organisationer och arbetsgivarorganisationer. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för olika tillvägagångssätt när man rekryterar och anställer personal.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa arbetsuppgifter som gäller personalärenden. <strong>Detta gör eleven </strong><strong>på ett strukturerat sätt</strong>. I arbetet använder eleven <strong>med säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare personalinriktat administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ADMREC0</h3>",
+      "code": "ADMREC0",
+      "nameHeading": "<h2>Receptions- och konferensservice, 100 poäng</h2>",
+      "name": "Receptions- och konferensservice",
+      "englishName": "Reception and conference services",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen receptions- och konferensservice omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Mötesindustrin, konferens- och eventanläggningar samt branschorganisationer.</li> <li>Olika system och program för reception och kundtjänst, till exempel växelsystem, boknings- och säkerhetsprogram.</li> <li>Planering och utformning av arbete i reception och kundtjänst både internt och externt.</li> <li>Service- och kundservicebegrepp, till exempel telefonbemötande och marknadsföringsåtgärder.</li> <li>Administration, planering och genomförande av möten.</li> <li>Praktiskt arbete i samband med mässor och i montrar.</li> <li>Tekniska hjälpmedel och utrustning.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Miljöfrågor och säkerhetsfrågor i receptionsarbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice. Eleven redogör också <strong>översiktligt</strong> för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området. Dessutom beskriver eleven <strong>översiktligt </strong>olika systems och programs användningsmöjligheter i reception och kundtjänst.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare interna och externa administrativa uppgifter på ett serviceinriktat sätt i receptions- och konferensarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>i samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>i samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice. Eleven redogör också <strong>utförligt </strong>för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området. Dessutom beskriver eleven <strong>utförligt </strong>olika systems och programs användningsmöjligheter i reception och kundtjänst.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa uppgifter på ett serviceinriktat <strong>och strukturerat </strong>sätt i receptions- och konferensarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>administrativa rutiner, funktioner och arbetsmetoder vid arbete i reception och med konferensservice. Eleven redogör också <strong>utförligt och nyanserat </strong>för mötesindustrin, konferens- och eventanläggningar, branschorganisationer samt yrkesroller inom området. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika systems och programs användningsmöjligheter i reception och kundtjänst.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare interna och externa administrativa uppgifter på ett serviceinriktat <strong>och strukturerat </strong>sätt i receptions- och konferensarbete. I arbetet använder eleven <strong>med säkerhet </strong>modern teknik, material, redskap och arbetsmetoder. Eleven utför <strong>efter samråd </strong>med handledare administrativt arbete utifrån lagar och andra bestämmelser. Vidare arbetar eleven ergonomiskt och miljömedvetet. Under arbetets gång löser eleven <strong>efter samråd </strong>med handledare problem som uppstår.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.931Z"
+}

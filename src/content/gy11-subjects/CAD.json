@@ -1,0 +1,181 @@
+{
+  "code": "CAD",
+  "name": "Cad",
+  "englishName": "CAD",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:244",
+  "skolfsAndring": "2022:58",
+  "nameHeading": "<h2>Cad</h2>",
+  "description": "<p>Ämnet cad (computer aided design) behandlar hur man använder olika programvaror för att konstruera och designa verkliga och virtuella objekt. I ämnet är geometri grunden för att, via skiss och ritteknik, kunna realisera en idé till styrinformation för att tillverka produkten.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cad ska syfta till att eleverna utvecklar kunskaper i skiss- och ritteknik samt i att använda något eller några cad-system. Undervisningen ska även leda till att eleverna utvecklar kunskaper i hur cad-system byggs upp. Eftersom cad bland annat handlar om att konstruera och designa nya objekt ska undervisningen ge eleverna möjlighet att utveckla handlingsförmåga, nyfikenhet, uppfinningsrikedom och problemlösningsförmåga. Undervisningen ska introducera begrepp som är relevanta för valt teknikområde. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om ergonomiska förutsättningar för en cad-arbetsplats.</p><p>Undervisningen ska utgå från ett valt teknikområde, där cad är ett verktyg, ett språk och en metod för att skapa information om produkten. Vidare ska undervisningen behandla hur cad-programmets information kan överföras till och från andra datorprogram samt till och från maskinell kringutrustning. Undervisningen ska ge eleverna möjlighet att utföra och förstå de olika delarna i produktutvecklingsprocessen.</p><h4>Undervisningen i ämnet cad ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att använda cad i förhållande till andra datorprogram och i förekommande fall maskiner.</li> <li>Förmåga att göra skisser och ritningar enligt gällande standarder och normer.</li> <li>Förmåga att modellera tredimensionella detaljer.</li> <li>Förmåga att utföra tredimensionella sammanställningar.</li> <li>Förmåga att använda applikationsprogram.</li> <li>Kunskaper om kopplingar mellan cad och produktion.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> <li>Förståelse av ergonomiska förutsättningar som skapar en bra cad-arbetsplats.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Cad 1, 50 poäng. </li> <li>Cad 2, 50 poäng, som bygger på kursen cad 1.</li> <li>Cad 3, 50 poäng, som bygger på kursen cad 2.</li> <li>Cad – specialisering, 100 poäng, som bygger på kursen cad 1. Kursen kan läsas flera gånger med olika innehåll. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: CADCAD01</h3>",
+      "code": "CADCAD01",
+      "nameHeading": "<h2>Cad 1, 50 poäng</h2>",
+      "name": "Cad 1",
+      "englishName": "CAD 1",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen cad 1 omfattar punkterna 1–3 och 6–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Cad-system och begrepp inom cad.</li> <li>Cad-systemets inställningar för modellering.</li> <li>Grundläggande skiss- och ritteknik inom valt teknikområde.</li> <li>Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.</li> <li>Solidmodellering i tre dimensioner för att avbilda verkliga och tänkta föremål, till exempel genom extrudering, rotation, svepning och återanvändning av geometri för att skapa mönster.</li> <li>Cad-systemets roll i produktutvecklings- och produktionsprocessen.</li> <li>Ergonomiska krav på cad-arbetsplatser och arbetsmiljökrav.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven gör <strong>enkla</strong> inställningar av cad-programvaror för modellering. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> tillfredsställande </strong>resultat enligt gällande standarder.</p><p>Eleven modellerar <strong>enkla </strong>detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>tillfredsställande </strong>resultat. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven värderar med<strong> enkla </strong>omdömen sin cad-arbetsplats ur ergonomisk synvinkel.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven <strong>väljer och </strong>gör inställningar av cad-programvaror för modellering <strong>samt diskuterar översiktligt alternativa inställningar</strong>. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> tillfredsställande </strong>resultat enligt gällande standarder.</p><p>Eleven modellerar detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>tillfredsställande </strong>resultat. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven värderar med<strong> nyanserade </strong>omdömen sin cad-arbetsplats ur ergonomisk synvinkel.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven <strong>väljer och</strong> gör <strong>avancerade </strong>inställningar av cad-programvaror för modellering <strong>samt diskuterar utförligt alternativa inställningar</strong>. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> gott </strong>resultat enligt gällande standarder.</p><p>Eleven modellerar <strong>komplexa </strong>detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med <strong>gott </strong>resultat. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven värderar med<strong> nyanserade </strong>omdömen sin cad-arbetsplats ur ergonomisk synvinkel <strong>samt ger förslag på hur arbetsplatsen kan förbättras</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: CADCAD02</h3>",
+      "code": "CADCAD02",
+      "nameHeading": "<h2>Cad 2, 50 poäng</h2>",
+      "name": "Cad 2",
+      "englishName": "CAD 2",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen cad 2 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Cad-systemets inställningar för sammanställningar och analys.</li> <li>Skiss- och ritteknik inom valt teknikområde.</li> <li>Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.</li> <li>Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.</li> <li>Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.</li> <li>Cad-systemets roll i produktutvecklings- och produktionsprocessen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven gör <strong>enkla</strong> inställningar av cad-programvaror för sammanställningar och applikationer. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> tillfredsställande </strong>resultat enligt gällande standarder.</p><p>Eleven utför <strong>enkla </strong>sammanställningar med<strong> tillfredsställande </strong>resultat. I arbetet använder eleven <strong>med viss säkerhet </strong>applikationer i olika <strong>enkla </strong>situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven <strong>väljer och </strong>gör inställningar av cad-programvaror för sammanställningar och applikationer<strong> samt diskuterar översiktligt alternativa inställningar</strong>. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> tillfredsställande </strong>resultat enligt gällande standarder.</p><p>Eleven utför <strong>komplexa </strong>sammanställningar med<strong> tillfredsställande </strong>resultat. I arbetet använder eleven <strong>med viss säkerhet </strong>applikationer i olika situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven <strong>väljer och </strong>gör <strong>avancerade </strong>inställningar av cad-programvaror för sammanställningar och applikationer <strong>samt diskuterar utförligt alternativa inställningar</strong>. Dessutom gör eleven skisser och ritningar för produktionsändamål med<strong> gott </strong>resultat enligt gällande standarder.</p><p>Eleven utför <strong>komplexa </strong>sammanställningar med<strong> gott </strong>resultat. I arbetet använder eleven <strong>med </strong><strong>säkerhet </strong>applikationer i olika <strong>komplexa </strong>situationer. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetat kan förbättras</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: CADCAD03</h3>",
+      "code": "CADCAD03",
+      "nameHeading": "<h2>Cad 3, 50 poäng</h2>",
+      "name": "Cad 3",
+      "englishName": "CAD 3",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen cad 3 omfattar punkterna 3–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande dokumenthantering.</li> <li>Fördjupning inom solidmodellering.</li> <li>Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.</li> <li>Fördjupning av applikationer beroende på valt teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.</li> <li>Grundläggande rörelsesimulering, till exempel studstal, friktion och last med beaktande av randvillkor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>enkel </strong>dokumenthantering med <strong>tillfredsställande </strong>resultat. Dessutom utför eleven <strong>i samråd </strong>med handledare avancerad solidmodellering med <strong>tillfredsställande </strong>resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat. I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför dokumenthantering med <strong>tillfredsställande </strong>resultat. Dessutom utför eleven <strong>efter samråd </strong>med handledare avancerad solidmodellering med <strong>tillfredsställande </strong>resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat. I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven <strong>med viss säkerhet </strong>sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>avancerad </strong>dokumenthantering med <strong>gott</strong> resultat. Dessutom utför eleven <strong>efter samråd </strong>med handledare avancerad solidmodellering med <strong>gott</strong> resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat. I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: CADCAD00S</h3>",
+      "code": "CADCAD00S",
+      "nameHeading": "<h2>Cad – specialisering, 100 poäng</h2>",
+      "name": "Cad – specialisering",
+      "englishName": "CAD – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen cad – specialisering omfattar punkterna 3–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Cad och cad-tillämpning inom valt teknikområde.</li> <li>Fördjupad och specialiserad dokumenthantering.</li> <li>Fördjupning inom solidmodellering.</li> <li>Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.</li> <li>Fördjupning, beräkning och specialisering med hjälp av applikationer beroende på valt teknikområde.</li> <li>Fördjupning inom rörelsesimulering.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>tillfredsställande</strong> resultat. Eleven utför dokumenthantering med <strong>tillfredsställande </strong>resultat. Dessutom utför eleven <strong>i samråd </strong>med handledare avancerad solidmodellering med <strong>tillfredsställande </strong>resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat. I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med<strong> tillfredsställande</strong> resultat. Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>tillfredsställande</strong> resultat. Dessutom utför eleven<strong> efter samråd </strong>med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat. I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven <strong>med säkerhet </strong>sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>gott</strong> resultat. Eleven utför <strong>avancerad </strong>dokumenthantering med <strong>gott</strong> resultat. Dessutom utför eleven <strong>efter samråd </strong>med handledare avancerad solidmodellering med <strong>gott</strong> resultat.</p><p>Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat. I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer. Dessutom analyserar eleven <strong>med säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.959Z"
+}

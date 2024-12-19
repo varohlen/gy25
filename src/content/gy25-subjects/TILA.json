@@ -1,0 +1,64 @@
+{
+  "code": "TILA",
+  "name": "Tillämpat underhåll",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:228",
+  "nameHeading": "<h2>Tillämpat underhåll</h2>",
+  "description": "<p>Det industrialiserade samhället bygger på tekniska system med hög driftsäkerhet och modernt underhåll. Ämnet tillämpat underhåll behandlar underhållets betydelse för att den tekniska utrustningen inom valt industritekniskt område ska fungera på ett resurseffektivt sätt. Ämnet behandlar också förbättringsprocessens betydelse inom underhåll.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpat underhåll ska syfta till att eleverna utvecklar förmåga att utföra underhåll inom ett valt industritekniskt område. Den ska även bidra till att eleverna utvecklar kunskaper om begrepp, teorier och metoder inom driftsäkerhet och underhållsarbete. Undervisningen ska leda till att eleverna utvecklar förståelse av underhållsarbetets betydelse för att förhindra driftavbrott och minimera resursförbrukning. Undervisningen ska även bidra till att eleverna utvecklar förmåga att planera och utföra underhållsarbete på ett säkert sätt samt kunskaper om hur underhållsarbete främjar en säker arbetsmiljö.</p> <p>Ett viktigt inslag i allt underhållsarbete är läsning och tolkning av teknisk dokumentation samt redovisning av utförda åtgärder. Därför ska undervisningen leda till att eleverna utvecklar förmåga att tolka teknisk information och att dokumentera och utvärdera utfört underhållsarbete. Undervisningen ska även bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom och mellan yrkesgrupper.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla en helhetssyn på underhåll genom tillämpning av metoder för förbättringsarbete. Undervisningen ska genom ett undersökande och problemlösande arbetssätt stimulera eleverna till fortsatt lärande och yrkesmässig utveckling inom underhållsteknik.</p> <h5><em>Undervisningen i ämnet tillämpat underhåll ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om driftsäkerhet och underhåll inom valt industritekniskt område.</li> <li>Förmåga att planera och utföra underhållsarbete med hänsyn till miljö, arbetsmiljö och säkerhet.</li> <li>Förmåga att tolka och använda tekniska dokument.</li> <li>Förmåga att dokumentera och utvärdera arbetsprocess och resultat.</li> </ul><h3>Nivåer i ämnet tillämpat underhåll</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet driftsäkerhet.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILA1000X</h3>",
+      "code": "TILA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpat underhåll på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Begrepp, teorier och metoder relevanta för valt industritekniskt område, till exempel TPM (total productive maintenance), smart maintenance, OEE (overall equipment effectiveness) och TAK (tillgänglighet, anläggningsutnyttjande och kvalitet).</li> <li>Underhållets betydelse för utrustningens funktionalitet och en säker drift inom valt industritekniskt område.</li> <li>Planering, beredning och genomförande av förebyggande och avhjälpande underhåll på ett säkert sätt med hjälp av ritningar, scheman och manualer.</li> <li>Hantering av material, verktyg och utrustning för drift- och underhållsarbete.</li> <li>Åtgärder för att minimera miljöpåverkan i samband med underhållsarbete.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för strukturerad, ordnad och effektiv arbetsmiljö.</li> <li>Tillämpning av metoder inom förbättringsarbete, till exempel systematisk felsökning, datainsamling eller byte av tillverkningsmetod inom valt industritekniskt område.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter.</li> <li>Tolkning och användning av teknisk dokumentation, till exempel instruktioner och standarder.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> <li>Dokumentation av arbetsprocess och resultat.</li> <li>Bedömning av kvalitet och resultat på utfört arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om driftsäkerhet och underhåll inom valt industritekniskt område.</p> <p>Eleven planerar och utför med <strong>viss</strong> skicklighet arbetsuppgifter inom underhållsarbete med hänsyn till miljö, arbetsmiljö och säkerhet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven tolkar och använder tekniska dokument med <strong>viss säkerhet</strong>.</p> <p>Eleven dokumenterar och utvärderar arbetsprocess och resultat med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om driftsäkerhet och underhåll inom valt industritekniskt område.</p> <p>Eleven planerar och utför med <strong>god</strong> skicklighet arbetsuppgifter inom underhållsarbete med hänsyn till miljö, arbetsmiljö och säkerhet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven tolkar och använder tekniska dokument med <strong>säkerhet</strong>.</p> <p>Eleven dokumenterar och utvärderar arbetsprocess och resultat med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om driftsäkerhet och underhåll inom valt industritekniskt område.</p> <p>Eleven planerar och utför med <strong>mycket god</strong> skicklighet arbetsuppgifter inom underhållsarbete med hänsyn till miljö, arbetsmiljö och säkerhet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven tolkar och använder tekniska dokument med <strong>god säkerhet</strong>.</p> <p>Eleven dokumenterar och utvärderar arbetsprocess och resultat med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.092Z"
+}

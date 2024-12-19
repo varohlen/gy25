@@ -1,0 +1,78 @@
+{
+  "code": "FORD",
+  "name": "Fordon och transport",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:151",
+  "nameHeading": "<h2>Fordon och transport</h2>",
+  "description": "<p>Ämnet fordon och transport behandlar fordons- och transportbranschens verksamhetsområden samt hur de organiseras och samverkar. Ämnet ger en orientering om olika arbetsområden och behandlar arbetsuppgifter inom fordons- och transportbranschens olika yrkesområden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fordon och transport ska syfta till att eleverna utvecklar förståelse av fordons- och transportbranschens roll i samhället och vad det innebär att arbeta inom branschens olika verksamhetsområden. Undervisningen ska bidra till att eleverna utvecklar kunskaper om de verksamhetsområden som finns inom branschen samt förståelse av hur de samverkar. Undervisningen ska även bidra till att eleverna utvecklar förståelse av hur teknikutveckling och nya förutsättningar kan skapa förändrade villkor inom de olika verksamhetsområdena samt stimulera elevernas intresse för fordons- och transportbranschens utveckling och digitalisering. Genom undervisningen ska eleverna även ges möjlighet att reflektera över hur normer och uppfattningar om bland annat kön och olika grupptillhörigheter kan påverka olika handlingsalternativ inom utbildning och arbetsliv. På så sätt ska undervisningen stimulera eleverna att göra aktiva studie- och yrkesval utifrån eget intresse.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om riskfaktorer och om regler i trafiken. Undervisningen ska också leda till att eleverna utvecklar kunskaper om olika typer av fordon och deras användningsområden. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om säkerhets-, miljö- och kvalitetskrav inom branschens olika verksamhetsområden. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att genomföra tillsyn och underhåll av olika typer av fordon samt andra arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden på ett säkert såväl som miljö- och kvalitetsmässigt sätt. Undervisningen ska även bidra till att eleverna utvecklar förståelse av hur olika verksamheter och arbetsformer inom området kan främja hållbar utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera med ett ordförråd som är relevant för de olika yrkesområdena. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra.</p> <h5><em>Undervisningen i ämnet fordon och transport ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om fordons- och transportbranschens olika verksamheter och yrkesområden.</li> <li>Kunskaper om regler i trafiken, riskfaktorer i trafikmiljöer och olika beteenden som påverkar trafiksäkerheten.</li> <li>Kunskaper om olika typer av fordon, deras funktion och olika användningsområden samt om tillsyn och underhåll av fordon.</li> <li>Förmåga att utföra tillsyn och enklare underhåll av olika typer av fordon samt andra enklare arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med de rutiner och bestämmelser som tillämpas på arbetsplatsen.</li> <li>Förmåga att kommunicera med medarbetare och andra aktörer samt använda enklare tekniska begrepp och uttryck.</li> </ul><h3>Nivåer i ämnet fordon och transport</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FORD1000X</h3>",
+      "code": "FORD1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fordon och transport på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Orientering om fordons- och transportbranschen, dess olika verksamhetsområden och yrken samt vanligt förekommande arbetsuppgifter inom de olika yrkesområdena fordonsteknik, fordonslackering, fordonsskadeteknik och transport.</li> <li>Orientering om tekniska begrepp och uttryck inom de olika yrkesområdena samt metoder för god kommunikation med medarbetare och kunder.</li> <li>Orientering om fordons- och transportbranschens utveckling över tid samt utvecklingens betydelse för de olika verksamhetsområdena.</li> <li>Orientering om vanligt förekommande digitala system inom fordons- och transportbranschens olika verksamheter.</li> <li>Orientering om ergonomiska och säkra arbetsmetoder.</li> <li>Metoder för åtgärder vid brand och för första hjälpen till skadade vid trafik- och arbetsolyckor samt HLR (hjärt-lungräddning).</li> <li>Faktorer som påverkar människans beteende i trafiken och hur olika beteenden kan påverka trafiksäkerheten, däribland vid påverkan av medicin, alkohol och andra droger samt vid stress, trötthet, förtäring av mat eller dryck eller användning av mediautrustning.</li> <li>Trafikregler samt riskfaktorer i olika trafikmiljöer, däribland vid begränsad sikt och varierande väglag.</li> <li>Metoder för att identifiera risker och förrädiska situationer i trafikmiljön samt trafikens olika effekter på människa, miljö och samhälle.</li> <li>Orientering om olika typer av fordon, deras funktion och användningsområden samt deras olika tillsyns- och underhållsbehov.</li> <li>Metoder för enklare tillsyn och underhåll av olika typer av fordon som används i olika driftsmiljöer.</li> <li>Hur driftsäkerhet, trafiksäkerhet och miljö påverkas av eftersatt tillsyn och underhåll av olika typer av fordon.</li> <li>Orientering om vanligt förekommande verktyg och utrustning i samband med tillsyn och enklare underhåll av olika typer av fordon.</li> <li>Genomförande av tillsyn och enklare underhåll av olika typer av fordon som har olika användningsområden och som används i olika driftsmiljöer.</li> <li>Enklare arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden, till exempel inom områdena fordonsteknik, fordonslackering, fordonsskadeteknik eller transport.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra enligt rutiner och bestämmelser som gäller inom olika verksamhetsområden.</li> <li>Brandbekämpning och första hjälpen till skadade vid olycksfall samt HLR (hjärt-lungräddning), till exempel vid trafik- och arbetsolyckor.</li> <li>Användning av vanligt förekommande tekniska begrepp och uttryck inom de olika yrkesområdena i kommunikation med medarbetare och andra aktörer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORD2000X</h3>",
+      "code": "FORD2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fordon och transport på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Möjliga karriärvägar inom de olika yrkesområdena fordonsteknik, fordonslackering, fordonsskadeteknik och transport.</li> <li>Fordons- och transportteknisk utveckling och digitalisering samt utvecklingens betydelse för olika verksamhetsområden, arbetsplatser, yrkesroller och arbetsuppgifter.</li> <li>Metoder för att använda digitala system i samband med enklare arbetsuppgifter inom olika yrkesområden.</li> <li>Metoder för att förebygga brand och olycksfall samt åtgärder vid brand och första hjälpen till skadade vid trafik- och arbetsolyckor, däribland vid olyckor med fordon med olika drivkällor.</li> <li>Hur ett ansvarsfullt, omdömesgillt och hänsynsfullt beteende i olika trafikmiljöer bidrar till ökad trafiksäkerhet.</li> <li>Metoder för att minska trafikens negativa konsekvenser för människors hälsa, miljö och samhälle.</li> <li>Metoder för att genomföra tillsyn och underhåll av olika typer av fordon enligt fordonstillverkarens anvisningar.</li> <li>Metoder för att säkerställa fordons driftsäkerhet och trafiksäkerhet, däribland säkerhetskontroll.</li> <li>Metoder för att planera och välja verktyg och utrustning i samband med tillsyn och underhåll av olika typer av fordon.</li> <li>Genomförande av tillsyn och enklare underhåll av olika typer av fordon enligt fordonstillverkarens anvisningar.</li> <li>Planering och genomförande av olika typer av arbetsuppgifter som förekommer inom flera av fordons- och transportbranschens olika yrkesområden, till exempel inom områdena fordonsteknik, fordonslackering, fordonsskadeteknik eller transport.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra enligt rutiner och bestämmelser som gäller inom olika verksamhetsområden.</li> <li>Planering av arbete i syfte att förebygga brand och olycksfall.</li> <li>Användning av tekniska begrepp och uttryck inom de olika yrkesområdena i kommunikation med medarbetare och andra aktörer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om fordons- och transportbranschens olika verksamheter, yrkesområden och vanligt förekommande arbetsuppgifter.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om regler, riskfaktorer och säkerhet i trafiken.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av fordon, deras funktion och användningsområden samt deras olika tillsyns- och underhållsbehov.</p> <p>Eleven utför med <strong>viss säkerhet</strong> tillsyn och enklare underhåll av olika typer av fordon enligt fordonstillverkarens anvisningar samt utför med <strong>viss säkerhet</strong> arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av enklare tekniska begrepp och uttryck inom de olika yrkesområdena.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om fordons- och transportbranschens olika verksamheter, yrkesområden och vanligt förekommande arbetsuppgifter.</p> <p>Eleven visar <strong>goda</strong> kunskaper om regler, riskfaktorer och säkerhet i trafiken.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika typer av fordon, deras funktion och användningsområden samt deras olika tillsyns- och underhållsbehov.</p> <p>Eleven utför med <strong>säkerhet</strong> tillsyn och enklare underhåll av olika typer av fordon enligt fordonstillverkarens anvisningar samt utför med <strong>säkerhet</strong> arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av enklare tekniska begrepp och uttryck inom de olika yrkesområdena.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om fordons- och transportbranschens olika verksamheter, yrkesområden och vanligt förekommande arbetsuppgifter.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om regler, riskfaktorer och säkerhet i trafiken.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av fordon, deras funktion och användningsområden samt deras olika tillsyns- och underhållsbehov.</p> <p>Eleven utför med <strong>god säkerhet</strong> tillsyn och enklare underhåll av olika typer av fordon enligt fordonstillverkarens anvisningar samt utför med <strong>god säkerhet</strong> arbetsuppgifter inom flera av fordons- och transportbranschens olika yrkesområden.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av enklare tekniska begrepp och uttryck inom de olika yrkesområdena.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.000Z"
+}

@@ -1,0 +1,104 @@
+{
+  "code": "ELA",
+  "name": "Ellära och digitalteknik – flyg",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:30",
+  "skolfsAndring": "2022:93",
+  "nameHeading": "<h2>Ellära och digitalteknik – flyg</h2>",
+  "description": "<p>Ämnet ellära och digitalteknik – flyg behandlar de kunskaper som behövs för att ha en förståelse för de elektriska grundprinciper och elektroniska system som förekommer i luftfartyg samt förmåga att praktiskt arbeta med elektrisk utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ellära och digitalteknik – flyg ska syfta till att eleverna utvecklar en förståelse för elektriska grundprinciper samt förmåga att utföra beräkningar, uppkopplingar, mätningar och rimlighetsuppskattningar av olika slag i elsystemet på luftfartyg. Undervisningen ska ge eleverna möjlighet att utveckla en förståelse för olika elektroniska systems uppbyggnad, cockpitutformningar och skiftande datasystem. Undervisningen ska leda till att eleverna utvecklar kunskap om arbete på ett säkert, miljömässigt och kvalitetsmedvetet sätt. Undervisningen i ämnet ska ge eleverna möjlighet att utveckla förståelse för vikten av gällande regelverk, samarbete och kommunikation som krävs inom yrkesområdet.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa uppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet ellära och digitalteknik – flyg ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att utföra beräkningar, uppkopplingar, mätningar och rimlighetsuppskattningar.</li> <li>Kunskaper om samt funktion av olika instrument och systemutformningar i cockpit och i skiftande datorsystem.</li> <li>Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk på såväl svenska som engelska.</li> <li>Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Ellära – flyg, 100 poäng. </li> <li>Digitalteknik och flyginstrument, 100 poäng, som bygger på kursen ellära – flyg.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ELAELL0</h3>",
+      "code": "ELAELL0",
+      "nameHeading": "<h2>Ellära – flyg, 100 poäng</h2>",
+      "name": "Ellära – flyg",
+      "englishName": "Electricity – aviation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen ellära – flyg omfattar punkterna 1–4 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Struktur och spridning av laddningar i atomer, molekyler, joner, föreningar.</li> <li>Molekylstruktur för ledare, halvledare och isolatorer.</li> <li>Statisk elektricitet och spridning av laddning. Elektrisk ledning i olika former av materia.</li> <li>Elektrisk terminologi som tillämpas i likströmslära.</li> <li>Olika metoder att generera elektricitet.</li> <li>Konstruktion och arbetssätt för olika typer av likströmskällor.</li> <li>Växelströmsterminologi samt principer för enfas/trefas.</li> <li>Uppkopplingar av elektriska kretsar utifrån anvisningar samt tolkning av resultat.</li> <li>Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.</li> <li>Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema. Dessutom beskriver eleven <strong>översiktligt</strong> olika teoretiska begrepp inom området.</p><p>Eleven utför <strong>i samråd </strong>med handledare och <strong>utifrån givna </strong>formler beräkningar samt redogör <strong>översiktligt </strong>för <strong>enkla</strong> samband inom området. Eleven utför också i bekanta situationer och utifrån laborationsanvisningar <strong>enkla</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten. Dessutom gör eleven utifrån en <strong>enkel</strong> strömkrets ett kopplingsschema. Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>översiktligt </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema. Dessutom beskriver eleven <strong>utförligt </strong>olika teoretiska begrepp inom området.</p><p>Eleven <strong>väljer </strong>formler och utför <strong>efter samråd </strong>med handledare beräkningar samt redogör <strong>utförligt </strong>för samband inom området. Eleven utför också i bekanta <strong>och delvis nya </strong>situationer och utifrån laborationsanvisningar uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten. Dessutom gör eleven utifrån en strömkrets ett kopplingsschema. Eleven arbetar i bekanta <strong>och delvis nya </strong>situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika teoretiska begrepp inom området.</p><p>Eleven <strong>väljer </strong>formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd </strong>med handledare beräkningar samt redogör <strong>utförligt och nyanserat </strong>för <strong>komplexa </strong>samband inom området. Eleven utför också i bekanta <strong>men även nya </strong>situationer och utifrån laborationsanvisningar <strong>avancerade </strong>uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten. Dessutom gör eleven utifrån en <strong>avancerad </strong>strömkrets ett kopplingsschema. Eleven arbetar i bekanta <strong>men även nya </strong>situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt och nyanserat </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ELADIG0</h3>",
+      "code": "ELADIG0",
+      "nameHeading": "<h2>Digitalteknik och flyginstrument, 100 poäng</h2>",
+      "name": "Digitalteknik och flyginstrument",
+      "englishName": "Digital technologies and flight instruments",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen digitalteknik och flyginstrument omfattar punkterna 1–4 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Typiska systemlösningar och cockpitutformningar av elektroniska instrumentsystem.</li> <li>Datorterminologi och datorteknik som tillämpas i luftfartygssystem.</li> <li>Medvetenhet om elektrostatiskt känsliga komponenter och antistatiska skyddsanordningar.</li> <li>Elektroniksystems olika komponenter, till exempel dioder och transistorer.</li> <li>Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.</li> <li>Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos flyginstrument och överföringssystem i en cockpit.</p><p>Eleven utför <strong>i samråd </strong>med handledare och <strong>utifrån</strong> <strong>givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området. Dessutom utför eleven <strong>i samråd </strong>med handledare i bekanta situationer <strong>enkla</strong> felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten. Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>översiktligt </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos flyginstrument och överföringssystem i en cockpit.</p><p>Eleven <strong>väljer </strong>formler och utför <strong>efter samråd </strong>med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området. Dessutom utför eleven <strong>efter samråd </strong>med handledare i bekanta <strong>och delvis nya </strong>situationer felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten. Eleven arbetar i bekanta <strong>och delvis nya </strong>situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>med stöd av informationsmaterial vanlig uppbyggnad av och funktion hos flyginstrument och överföringssystem i en cockpit.</p><p>Eleven <strong>väljer </strong>formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd </strong>med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa </strong>samband inom området. Dessutom utför eleven <strong>efter samråd </strong>med handledare i bekanta <strong>men även nya </strong>situationer <strong>avancerade </strong>felsökningar, mätningar, avläsningar och rimlighetsuppskattningar samt tolkar resultaten. Eleven arbetar i bekanta <strong>men även nya </strong>situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt och nyanserat </strong>lagar och andra bestämmelser som styr verksamheten.</p><p>När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet </strong>relevant fackspråk på svenska och engelska. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samt utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.978Z"
+}

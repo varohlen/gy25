@@ -1,0 +1,64 @@
+{
+  "code": "GLAA",
+  "name": "Glasarbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:297",
+  "nameHeading": "<h2>Glasarbete</h2>",
+  "description": "<p>Glashantverk har en lång tradition. Ämnet glasarbete behandlar grunderna i hantverksprocessen för glasarbete.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet glasarbete ska syfta till att eleverna utvecklar förmåga att genomföra grundläggande steg i hela hantverksprocessen. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att planera och genomföra idéer till färdiga produkter med hjälp av lämpliga material och tekniker. Dessutom ska eleverna ges möjlighet att utveckla förmåga att redovisa och analysera resultatet och utvärdera arbetsprocessen. Undervisningen ska dessutom stimulera elevernas initiativförmåga, självständighet, personliga ansvarstagande och skaparglädje samt ge dem möjlighet att utveckla sitt kreativa tänkande och sin känsla för estetik. Därför ska undervisningen ge kunskaper om färg och form samt färdigheter i design och formgivning.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förståelse av branschens ekonomiska villkor och marknaden för glashantverk. Den ska även leda till att eleverna utvecklar förmåga att använda fackuttryck och att samarbeta och kommunicera i arbetet. Dessutom ska eleverna ges möjligheter att diskutera och resonera om hållbarhet i branschen.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla och tillämpa kunskaper om ergonomi, arbetsmiljö och säkerhet.</p> <h5><em>Undervisningen i ämnet glasarbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och utföra enklare glasarbete.</li> <li>Kunskaper om material, verktyg och annan utrustning.</li> <li>Förmåga att arbeta säkert och hållbart.</li> <li>Förmåga att dokumentera och utvärdera arbetsprocess och resultat samt att använda facktermer inom glasarbete.</li> </ul><h3>Nivåer i ämnet glasarbete</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GLAA1000X</h3>",
+      "code": "GLAA1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet glasarbete på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och genomförande av enklare glasarbete från idé till färdig produkt med användning av olika tekniker samt presentation av färdig produkt.</li> <li>Skiss- och ritteknik.</li> <li>Färg, formgivning och design inom glashantverk.</li> <li>Verktyg och annan utrustning som används vid glasarbete.</li> <li>Olika typer av material samt deras egenskaper, användningsområden och värde.</li> <li>Hur färg skapas genom olika tillsatser.</li> <li>Smält- och kylprocesser.</li> <li>Grundläggande arbetsmiljö och säkerhet, däribland säkerhet i samarbetssituationer. Risker i samband med glasarbete.</li> <li>Nödlägesrutiner och första hjälpen vid krissituationer och olycksfall, däribland L-ABC (livsfarligt läge – andning, blödning, cirkulation) och HLR (hjärt-lungräddning).</li> <li>Ergonomiskt och säkert arbete.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom yrkesområdet.</li> <li>Miljömässig och ekonomisk hållbarhet inom glasarbete, däribland återvinning och återanvändning av material.</li> <li>Utvärdering och dokumentation av arbetsprocess och resultat samt hur utvärderingar kan användas i kvalitets- och utvecklingsarbete.</li> <li>Serviceinriktat bemötande, till exempel av kunder, besökare eller leverantörer.</li> <li>Samarbete och kommunikation. Vanliga fackuttryck.</li> <li>Glashantverkets historia och utveckling, däribland de svenska glasbrukens utveckling.</li> <li>Branschens ekonomiska villkor och hur marknaden för glashantverk ser ut.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför enklare glasarbete med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om material, verktyg och annan utrustning.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven dokumenterar och utvärderar med <strong>viss säkerhet</strong> arbetsprocess och resultat samt använder relevanta facktermer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför enklare glasarbete med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om material, verktyg och annan utrustning.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven dokumenterar och utvärderar med <strong>säkerhet</strong> arbetsprocess och resultat samt använder relevanta facktermer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför enklare glasarbete med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om material, verktyg och annan utrustning.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven dokumenterar och utvärderar med <strong>god säkerhet</strong> arbetsprocess och resultat samt använder relevanta facktermer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.006Z"
+}

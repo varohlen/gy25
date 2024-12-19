@@ -1,0 +1,68 @@
+{
+  "code": "TRC",
+  "name": "Truckteknik",
+  "englishName": "Forklift technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:18",
+  "skolfsAndring": "2022:307",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Truckteknik</h2>",
+  "description": "<p>Ämnet truckteknik behandlar funktion hos, service, underhåll, inspektion, felsökning och reparationer av truckar inom truckkategorierna A och B samt olika tilläggsutrustningar och redskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet truckteknik ska syfta till att eleverna utvecklar kunskaper om olika truckar samt deras olika användningsområden. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att genomföra service, underhåll och inspektion av olika truckar, deras olika tilläggsutrustningar och redskap. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att genomföra enklare felsökning och reparationer.</p> <p>Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda manualer och relevanta informationssystem. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett kvalitetsmässigt sätt utifrån lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kommer att möta i yrkeslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h4>Undervisningen i ämnet truckteknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om olika truckar, tilläggsutrustning och redskap samt deras olika system och komponenter och hur de samverkar.</li> <li>Förmåga att genomföra service, underhåll och inspektion av truckar, tilläggsutrustning och redskap.</li> <li>Förmåga att genomföra enklare felsökning, diagnostisering och reparationer av olika truckar, tilläggsutrustning och redskap samt deras olika system och komponenter.</li> <li>Förmåga att använda specialverktyg samt verktyg och övrig utrustning.</li> <li>Förmåga att använda manualer, scheman, digitala informationssystem i samband med service, underhåll, inspektion, felsökning och reparationer.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Truckteknik, 200 poäng, som bygger på kursen mobila maskiner – system- och diagnosteknik 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: TRCTRU0</h3>",
+      "code": "TRCTRU0",
+      "nameHeading": "<h2>Truckteknik, 200 poäng</h2>",
+      "name": "Truckteknik",
+      "englishName": "Forklift technology",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen truckteknik omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika truckar (truckkategorierna A och B), deras konstruktion, funktion, system och komponenter samt deras användningsområden, bland annat eldrivna ledstaplare, plocktruckar och motvikstruckar samt motviktstruckar med förbränningsmotorer med och utan flerbränslesystem.</li> <li>Olika tilläggsutrustningar och redskap, deras konstruktion, funktion, system och komponenter samt användningsområden, bland annat olika alternativa lyftaggregat, gafflar och bommar.</li> <li>Metoder för och genomförande av service, underhåll och inspektion av truckar, tilläggsutrustning och redskap.</li> <li>Säkerhetskontroll av truckars funktioner och tilläggsutrustning.</li> <li>Högvoltsbatterier och gasolflaskor, deras användning, funktion och konstruktion.</li> <li>Konsekvenser av eftersatt underhåll beträffande ekonomi, driftstörningar och trafiksäkerhet.</li> <li>Metoder för och genomförande av enklare felsökning och diagnostisering av truckar, tilläggsutrustningar och redskap samt deras olika system och komponenter.</li> <li>Metoder för och genomförande av demontering, montering och justering av komponenter i samband med reparationer.</li> <li>Metoder för reparationer av enklare fel i truckar, tilläggsutrustningar och redskap samt deras olika system och komponenter.</li> <li>Rutiner för servicearbeten hos kund.</li> <li>Metoder för användning av specialverktyg samt vård av dessa på ett kvalitetsmässigt sätt.</li> <li>Fordonstillverkares anvisningar och teknisk information på svenska och engelska.</li> <li>Metoder för att använda arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Brandförebyggande åtgärder och åtgärder vid risk för brand.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Yrkesmässigt språk, kommunikation och målgruppsanpassning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av olika truckar, tilläggsutrustning och redskap, deras olika system och komponenter och hur de samverkar.</p> <p>Eleven utför, <strong>i samråd</strong> med handledare, service, underhåll och inspektion av olika A- och B-truckar, deras tilläggsutrustning och redskap. Dessutom utför eleven,<strong> i samråd</strong> med handledare, i bekanta situationer enklare felsökning och reparationer av olika A- och B-truckar, deras tilläggsutrustning och redskap. Vid reparationer utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av olika truckar, tilläggsutrustning och redskap, deras olika system och komponenter och hur de samverkar.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service, underhåll och inspektion av olika A- och B-truckar, deras tilläggsutrustning och redskap. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer enklare felsökning och reparationer av olika A- och B-truckar, deras tilläggsutrustning och redskap. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av olika truckar, tilläggsutrustning och redskap, deras olika system och komponenter och hur de samverkar.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service, underhåll och inspektion av olika A- och B-truckar, deras tilläggsutrustning och redskap. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer enklare felsökning och reparationer av olika A- och B-truckar, deras tilläggsutrustning och redskap. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven <strong>med säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.185Z"
+}

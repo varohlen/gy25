@@ -1,0 +1,106 @@
+{
+  "code": "BARB",
+  "name": "Barberare – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen\n",
+  "skolfsGrund": "2023:165",
+  "nameHeading": "<h2>Barberare – fördjupning</h2>",
+  "description": "<p>Ämnet barberare – fördjupning befäster elevernas förmåga att utföra salongsbehandlingar. Ämnet behandlar service, bemötande och yrkesetik samt barberartekniker, maskiner, material och verktyg som används vid behandlingar på barberarsalong. Ämnet behandlar också resultatets kvalitet utifrån branschens krav vid yrkesprov. Dessutom omfattar ämnet olika stilepoker samt barberaryrkets historia och utvecklingsmöjligheter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet barberare – fördjupning ska syfta till att eleverna utvecklar och befäster sin förmåga att genomföra alla steg i olika barberarbehandlingar, från kundbeställning till färdigt resultat. Det innebär att identifiera kundens önskemål, planera arbetet, välja lämpliga behandlingar, tekniker och produkter samt att genomföra behandlingen och presentera resultatet för kunden. Dessutom ska eleverna ges möjlighet att utveckla förmåga att analysera arbetsprocessen och utvärdera resultatet för att på så vis utvecklas inom yrkesutövandet. Undervisningen ska stimulera elevernas initiativförmåga, idérikedom, självständighet, personliga ansvarstagande, samarbetsförmåga, drivkraft och skaparglädje. Eleverna ska dessutom ges möjlighet att utveckla kreativitet och känsla för färg, form och stil i yrkesutövandet.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att använda barberaryrkets fackspråk för att kommunicera med kunder, modeller och andra inom yrkesområdet. Den ska vidare ge eleverna möjlighet att utveckla förmåga att arbeta målinriktat och på ett sätt som leder till goda och hållbara kundrelationer. Undervisningen ska även leda till att eleverna utvecklar ett kreativt förhållningssätt till en affärsmässig och serviceinriktad barberarverksamhet. Då barberarsektorn består av små företag eller egenföretagare ska undervisningen stimulera elevernas intresse för företagande och entreprenörskap. I undervisningen ska eleverna också ges möjlighet att utveckla och tillämpa kunskaper om ergonomi, hygien, arbetsmiljö och säkerhet för ett hållbart arbetsliv.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om villkor och utvecklingsmöjligheter inom barberarbranschen, både nationellt och internationellt. Undervisningen ska också behandla barberarbranschens traditioner och historiska utveckling. Som inspirationskälla och som grund för ökad förståelse av kulturella och stilhistoriska influenser ska eleverna ges möjlighet att utveckla kunskaper om såväl dagens trendutveckling som den kultur- och stilhistoriska utvecklingen inom barberaryrket.</p> <p>Eleverna ska ges rika möjligheter att träna och förfina sina barberingstekniker genom att utföra yrkesmässiga barberarbehandlingar på kunder och modeller. I undervisningen ska eleverna ges möjlighet att använda sina teoretiska kunskaper för att vidareutveckla och befästa sina kunskaper om tekniker och verktyg. Dessutom ska eleverna ges möjlighet att använda sina kunskaper om hur ändamålsenliga produkter väljs utifrån kundens önskemål med hänsyn till tidsåtgång, kostnader och miljö. Undervisningen ska också leda till att eleverna befäster förmågan att använda olika digitala tekniker i en barberarverksamhet.</p> <h5><em>Undervisningen i ämnet barberare – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra behandlingar och övriga arbetsuppgifter på barberarsalong med fokus på kvalitet och effektivitet.</li> <li>Förmåga att planera samt beräkna material-, produkt- och tidsåtgång.</li> <li>Förmåga att använda form- och proportionslära i skapandeprocessen.</li> <li>Förmåga att utvärdera och analysera arbetsprocess och resultat med hjälp av teknisk beskrivning och fackspråk.</li> <li>Förmåga att kommunicera och utföra yrkesmässig försäljning och service på barberarsalong.</li> <li>Förmåga att arbeta hygieniskt och säkert med hänsyn till hållbarhetsaspekter inom yrkesområdet.</li> <li>Kunskaper om yrkesprov och utvecklingsmöjligheter inom barberarbranschen.</li> <li>Kunskaper om barberaryrkets historia samt om olika stilepoker och trender.</li> </ul><h3>Nivåer i ämnet barberare – fördjupning</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet barberare – teknik.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BARB1000X</h3>",
+      "code": "BARB1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet barberare – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Salongsarbete med fokus på kvalitet och effektivitet.</li> <li>Behandlingar på kunder eller modeller med olika hårtyper, siluetter och former, däribland skulptering av skägg samt kombinerade klipp- och designtekniker.</li> <li>Tekniker för hudnära rakning vid skägg eller nackhår.</li> <li>Planering av arbetsprocess och förberedelse inför hudnära rakning, däribland hur arbetet utförs på ett hygieniskt sätt.</li> <li>Planering av arbete utifrån kundens önskemål och utgångsläge, däribland val av behandling, teknik och verktyg samt av material och produkter från olika leverantörer.</li> <li>Hur hårets färg, form och proportioner kan förändra helhetsuttryck och resultatets kvalitet, till exempel vid styling av hår och skägg.</li> <li>Användning av fackspråk och strukturritning vid planering och utvärdering av arbetsprocess och resultat.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid behandling, försäljning och service, till exempel vid kundsamtal.</li> <li>Användning och hantering av digitala och analoga kundregister och betalsystem.</li> <li>Inköp och prissättning av produkter, varor och behandlingar.</li> <li>Hygieniskt och säkert arbetssätt med hänsyn till miljön, till exempel genom återvinning och källsortering.</li> <li>Hållbart arbetsliv, däribland faktorer som främjar social och organisatorisk arbetsmiljö.</li> <li>Skötsel av egen och gemensam arbetsyta.</li> <li>Barberaryrkets karriärmöjligheter nationellt, däribland aktuella yrkesprov.</li> <li>Huvuddrag i barberaryrkets historia och dess utveckling fram till i dag.</li> <li>Centrala stilepoker och trender inom skönhetsområdet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BARB2000X</h3>",
+      "code": "BARB2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet barberare – fördjupning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Salongsarbete och behandlingar på kunder och modeller med olika hårlängder, hårtyper, siluetter och former, däribland skulptering av skägg, kombinerade klipp- och designtekniker samt hudnära rakning.</li> <li>Planering utifrån kundens önskemål och utgångsläge med fokus på resultatets kvalitet samt effektivisering av arbetet.</li> <li>Användning av form- och proportionslära i skapandeprocessen för att höja kvaliteten på resultatet.</li> <li>Kommunikation med kunder och modeller vid utvärdering av arbetsprocess och resultat.</li> <li>Användning av fackspråk och strukturritning utifrån branschens krav vid yrkesprov.</li> <li>Tillämpning av säljetik, däribland kroppsspråkets betydelse och kulturella skillnader i kommunikation med kunder.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid kundbehandling, försäljning och service, däribland användning av kundregister och betalsystem.</li> <li>Planering och hantering av inköp samt prissättning av produkter, varor och behandlingar.</li> <li>Hygieniskt, säkert och hållbart arbetssätt, däribland hur eget agerande kan påverka gruppens arbetsklimat och hur god hälsa kan främjas.</li> <li>Skötsel av egen och gemensam arbetsyta.</li> <li>Konsekvenser av bristande hygien och arbetsmiljö.</li> <li>Barberaryrkets karriärmöjligheter nationellt och internationellt samt aktuella yrkesprov, däribland gesäll- och mästarbrev.</li> <li>Hur barberaryrkets historia har påverkat dagens yrkesutövande.</li> <li>Centrala stilepoker, däribland herrfrisyr- och skäggtrender som påverkat modet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BARB3000X</h3>",
+      "code": "BARB3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet barberare – fördjupning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Yrkesmässigt salongsarbete och behandlingar på kunder och modeller med olika hårlängder, hårtyper, däribland kombinerade klipp- och designtekniker, avancerad skulptering av skägg, samt hudnära rakning.</li> <li>Yrkesmässigt arbete som förberedelse för barberaryrkets yrkesprov, däribland skiss- och strukturritning för detaljerad beskrivning av arbete och resultat.</li> <li>Planering av arbete utifrån kundens önskemål och utgångsläge, med fokus på ökad lönsamhet.</li> <li>Användning av form- och proportionslära i skapandeprocessen för kreativitet och variation i arbetet med fokus på resultatets stil, färg och design.</li> <li>Kommunikation med fackspråk vid arbete och utvärdering av arbetsprocess och resultat med förslag på hur arbetet kan utvecklas.</li> <li>Skiss- och strukturritning för detaljerad beskrivning av arbete och resultat utifrån branschens krav vid yrkesprov.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid kundbehandling, försäljning och service, däribland kreativt och positivt agerande vid kundmöten och i servicesituationer.</li> <li>Tillämpning av kundvänlig säljetik och eventuella konflikter mellan säljetik och ökad lönsamhet i verksamheten.</li> <li>Planering och hantering av inköp samt prissättning av produkter, varor och behandlingar.</li> <li>Ekonomiska beräkningar för ökad lönsamhet.</li> <li>Hygieniskt, säkert och hållbart arbetssätt, däribland ansvarsfull hantering av den sociala och organisatoriska arbetsmiljön för att förebygga ohälsa och olycksfall.</li> <li>Skötsel av egen och gemensam arbetsyta.</li> <li>Konsekvenser av bristande hygien och arbetsmiljö.</li> <li>Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.</li> <li>Barberaryrkets karriärmöjligheter nationellt och internationellt samt planering av barberaryrkets yrkesprov.</li> <li>Trendtolkningar och analyser av hur dagens barberaryrke och aktuella frisyrer och skäggtrender kan kopplas till ett historiskt ursprung.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BARB4000X</h3>",
+      "code": "BARB4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet barberare – fördjupning på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Yrkesmässigt salongsarbete och behandlingar på kunder och modeller, däribland avancerade klipp- och designtekniker, skulptering av skägg samt hudnära rakning med fokus på yrkesmässig kvalitet.</li> <li>Yrkesmässigt arbete som förberedelse för barberaryrkets yrkesprov, däribland skiss- och strukturritning för detaljerad beskrivning av arbete och resultat.</li> <li>Planering av arbete utifrån kundens önskemål och utgångsläge, med fokus på tidsåtgång och effektivisering för ökad lönsamhet.</li> <li>Användning av form- och proportionslära i skapandeprocessen för kvalitetshöjning och varierat resultat med fokus på resultatets stil, färg och design.</li> <li>Kommunikation med fackspråk vid yrkesmässig utvärdering av arbetsprocess och resultat med förslag på hur arbetet kan utvecklas.</li> <li>Kreativt och positivt agerande i olika service- och försäljningssituationer samt vid kundbehandling på barberarsalong.</li> <li>Tillämpning av god säljetik för ökad lönsamhet i verksamheten.</li> <li>Planering och hantering av inköp samt prissättning av produkter, varor och kostnadsberäkning av behandlingar för ökad lönsamhet.</li> <li>Hygieniskt, säkert och hållbart arbetssätt, till exempel stresshantering.</li> <li>Barberaryrkets karriärmöjligheter och möjlig breddning inom yrkesområdet.</li> <li>Barberaryrkets historia och dess utveckling, däribland utvecklingen av tekniker, material och produkter.</li> <li>Hur rakning, rengöring och vård av hår har förändrats över tid.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför med <strong>viss</strong> skicklighet behandlingar och övriga arbetsuppgifter på ett effektivt sätt. Eleven uppnår ett <strong>godtagbart</strong> resultat med en teknisk och estetisk kvalitet.</p> <p>Eleven gör en <strong>enkel</strong> planering av arbetet utifrån det tänka resultatet. Dessutom gör eleven <strong>enkla</strong> beräkningar av material, produkter och tidsåtgång.</p> <p>Eleven använder med <strong>viss</strong> skicklighet form- och proportionslära i skapandeprocessen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen och använder teknisk beskrivning och fackspråk. Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och agerar med <strong>viss säkerhet</strong> kundorienterat i <strong>bekanta</strong> försäljnings- och servicesituationer.</p> <p>Eleven arbetar på ett hygieniskt och säkert sätt med hänsyn till hållbarhetsaspekter inom yrkesområdet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om yrkesprov och utvecklingsmöjligheter inom barberarbranschen.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om barberaryrkets historia samt om olika stilepoker och trender.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför med <strong>god</strong> skicklighet behandlingar och övriga arbetsuppgifter på ett effektivt sätt. Eleven uppnår ett <strong>gott</strong> resultat med en teknisk och estetisk kvalitet.</p> <p>Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån det tänka resultatet. Dessutom gör eleven <strong>utvecklade</strong> beräkningar av material, produkter och tidsåtgång.</p> <p>Eleven använder med <strong>god</strong> skicklighet form- och proportionslära i skapandeprocessen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen och använder teknisk beskrivning och fackspråk. Dessutom ger eleven <strong>välgrundade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och agerar med <strong>säkerhet</strong> kundorienterat i <strong>bekanta men även delvis nya</strong> försäljnings- och servicesituationer.</p> <p>Eleven arbetar på ett hygieniskt och säkert sätt med hänsyn till hållbarhetsaspekter inom yrkesområdet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om yrkesprov och utvecklingsmöjligheter inom barberarbranschen.</p> <p>Eleven visar <strong>goda</strong> kunskaper om barberaryrkets historia samt om olika stilepoker och trender.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför med <strong>mycket god</strong> skicklighet behandlingar och övriga arbetsuppgifter på ett effektivt sätt. Eleven uppnår ett <strong>mycket gott</strong> resultat med en teknisk och estetisk kvalitet.</p> <p>Eleven gör en <strong>väl genomarbetad</strong> planering av arbetet utifrån det tänka resultatet. Dessutom gör eleven <strong>välutvecklade</strong> beräkningar av material, produkter och tidsåtgång.</p> <p>Eleven använder med <strong>mycket god</strong> skicklighet form- och proportionslära i skapandeprocessen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen och använder teknisk beskrivning och fackspråk. Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och agerar med <strong>god säkerhet</strong> kundorienterat i <strong>bekanta men även nya</strong> försäljnings- och servicesituationer.</p> <p>Eleven arbetar på ett hygieniskt och säkert sätt med hänsyn till hållbarhetsaspekter inom yrkesområdet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om yrkesprov och utvecklingsmöjligheter inom barberarbranschen.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om barberaryrkets historia samt om olika stilepoker och trender.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.966Z"
+}

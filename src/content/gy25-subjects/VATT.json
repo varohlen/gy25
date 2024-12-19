@@ -1,0 +1,92 @@
+{
+  "code": "VATT",
+  "name": "Vattenkraftteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:244",
+  "nameHeading": "<h2>Vattenkraftteknik</h2>",
+  "description": "<p>Vattenkraft innebär att energi utvinns ur strömmande vatten. Som energikälla utgör vattenkraften en viktig del av en hållbar energiförsörjning. Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. I ämnet behandlas också vanligt förekommande arbete i vattenkraftstationer, med hänsyn till miljö, ekonomi, kvalitet och säkerhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet vattenkraftteknik ska syfta till att eleverna utvecklar förmåga att utföra vanligt förekommande arbetsuppgifter i vattenkraftstationer. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur vattenkraftstationer och deras huvudkomponenter är uppbyggda och fungerar. Eleverna ska även ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service. Vidare ska undervisningen leda till att eleverna utvecklar ett elsäkert och personsäkert arbetssätt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av underhållets betydelse för att en vattenkraftanläggning ska kunna drivas på ett optimalt sätt. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om vattenkraftens inverkan på miljön samt ge eleverna möjlighet att reflektera över och diskutera aktuella miljöfrågor. Undervisningen ska dessutom stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete inom vattenkraftteknik.</p> <p>I undervisningen ska experiment, laborationer och ett undersökande arbetssätt förekomma. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att samverka och använda ett fackspråk samt att dokumentera och utvärdera utfört arbete.</p> <h5><em>Undervisningen i ämnet vattenkraftteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om vattenkraftstationers uppbyggnad och funktion.</li> <li>Kunskaper om vattenkraftens inverkan på miljön.</li> <li>Förmåga att utföra vanligt förekommande arbetsuppgifter i en vattenkraftstation.</li> <li>Förmåga att arbeta elsäkert och personsäkert i enlighet med säkerhetsbestämmelser inom området.</li> <li>Förmåga att dokumentera och utvärdera arbetet.</li> </ul><h3>Nivåer i ämnet vattenkraftteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet energiteknik.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VATT1000X</h3>",
+      "code": "VATT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenkraftteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vattenkraftstationers huvudkomponenter, till exempel vattenvägar, turbiner, bromsar, generatorer, transformatorer och ställverk.</li> <li>Start- och stoppautomatikens funktion.</li> <li>Vattenkraftindustrins miljöpåverkan.</li> <li>Optimering och underhåll av vattenkraftstationers huvudkomponenter enligt gällande rutiner.</li> <li>Skötsel av arbetsmaterial och arbetsplats.</li> <li>Säkerhetsbestämmelser och säkerhetsanvisningar för arbete i och invid kraftstationers och vattenmagasins vattenvägar.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Arbete i grupp med ett fackspråk som passar situationen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VATT2000X</h3>",
+      "code": "VATT2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenkraftteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar.</li> <li>Hydraulikkomponenters funktion och användning.</li> <li>Kraftstationshydraulik och turbinreglering.</li> <li>Vattenkraftutbyggnadens miljöpåverkan.</li> <li>Enklare störningsanalyser.</li> <li>Mätning för kontroll och övervakning.</li> <li>Dammsäkerhet.</li> <li>Skötsel av arbetsmaterial och arbetsplats.</li> <li>Lokalkraft- och reservkraftsystem med tillhörande skyddsutrustning.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Arbete i grupp med ett fackspråk som passar situationen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VATT3000X</h3>",
+      "code": "VATT3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenkraftteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Kraftöverföringssystemets uppbyggnad, funktion och litterering, till exempel olika brytare, ventilavledare och frånskiljare.</li> <li>Olika turbinmodellers uppbyggnad och funktion.</li> <li>Reläskyddsfilosofi och dess praktiska tillämpning.</li> <li>PLC-programmering och HMI-programmering.</li> <li>Driftåtgärder vid normal drift och vid störningar i driften.</li> <li>Vattenkraftens inverkan på miljön samt miljöfrämjande åtgärder som kraftföretagen vidtar.</li> <li>Kontrollanläggningsscheman med tillhörande tabeller.</li> <li>Felsökning inom anläggningar och system.</li> <li>Skötsel av arbetsmaterial och arbetsplats.</li> <li>Elmotorers funktion och användning med tillhörande skyddsutrustning.</li> <li>Trefastransformatorns konstruktion, kringutrustning och verkningssätt.</li> <li>Trefassynkrongeneratorns konstruktion, kringutrustning och verkningssätt.</li> <li>Dokumentation och utvärdering av eget och andras arbete.</li> <li>Samarbete samt kommunikation med fackspråk.</li> <li>Samverkan med olika entreprenörer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur vattenkraftstationer är uppbyggda och fungerar.</p> <p>Eleven redogör <strong>översiktligt</strong> för hur vattenkraften inverkar på miljön.</p> <p>Eleven utför <strong>enkla</strong> arbeten i en vattenkraftstation.</p> <p>Eleven utför det praktiska arbetet på ett el- och personsäkert sätt.</p> <p>Eleven dokumenterar sitt arbete på ett <strong>enkelt</strong> sätt och utvärderar arbetet med <strong>enkla</strong> omdömen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur vattenkraftstationer är uppbyggda och fungerar.</p> <p>Eleven redogör <strong>utförligt</strong> för hur vattenkraften inverkar på miljön.</p> <p>Eleven utför <strong>relativt komplexa</strong> arbeten i en vattenkraftstation.</p> <p>Eleven utför det praktiska arbetet på ett el- och personsäkert sätt.</p> <p>Eleven dokumenterar sitt arbete på ett <strong>noggrant</strong> sätt och utvärderar arbetet med <strong>utvecklade</strong> omdömen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur vattenkraftstationer är uppbyggda och fungerar.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur vattenkraften inverkar på miljön.</p> <p>Eleven utför <strong>komplexa</strong> arbeten i en vattenkraftstation.</p> <p>Eleven utför det praktiska arbetet på ett el- och personsäkert sätt.</p> <p>Eleven dokumenterar sitt arbete på ett <strong>noggrant och utförligt</strong> sätt och utvärderar arbetet med <strong>välutvecklade</strong> omdömen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.099Z"
+}

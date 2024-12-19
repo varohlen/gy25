@@ -1,0 +1,78 @@
+{
+  "code": "UNDR",
+  "name": "Underhåll – automation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:238",
+  "nameHeading": "<h2>Underhåll – automation</h2>",
+  "description": "<p>Det industrialiserade samhället bygger på tekniska system med hög driftsäkerhet, något som förutsätter ett modernt underhåll. Ett fungerande underhåll förlänger systemens livslängd, minskar energianvändningen och har stor betydelse för att förhindra driftavbrott och minimera resursförbrukning. Ämnet underhåll – automation behandlar uppbyggnad, funktion och underhåll av automatiserad utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet underhåll – automation ska syfta till att eleverna utvecklar färdigheter i att utföra underhåll av automatiserad utrustning. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om underhåll av automatiserad utrustning, om utrustningens uppbyggnad och funktion samt om hur underhållsarbete bidrar till att främja en säker arbetsmiljö. Undervisningen ska leda till att eleverna utvecklar förmåga att planera, genomföra och dokumentera underhållsarbete inom automatiserade anläggningar med hänsyn till gällande krav på arbetets utförande och resultat. Den ska också leda till att eleverna utvecklar färdigheter i att identifiera, välja och hantera verktyg, instrument, utrustning och material.</p> <p>Underhållsarbete inom automatiserade anläggningar förutsätter ett systematiskt och säkert arbetssätt. Genom undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att tolka och använda teknisk dokumentation och säkerhetsanvisningar samt att arbeta i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom och mellan olika yrkesgrupper.</p> <p>Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom underhållsteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet underhåll – automation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om underhåll av automatiserad utrustning samt om utrustningens uppbyggnad och funktion.</li> <li>Förmåga att planera, genomföra och dokumentera underhållsarbeten med hänsyn till gällande krav på utförande och resultat.</li> <li>Färdigheter i att hantera material, verktyg, instrument och utrustning.</li> <li>Förmåga att tolka och använda teknisk dokumentation.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom yrkesområdet.</li> </ul><h3>Nivåer i ämnet underhåll – automation</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: UNDR1000X</h3>",
+      "code": "UNDR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – automation på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Anläggning, system och utrustning</em></p> <ul> <li>Uppbyggnad, funktion och användning av automatiserade system och utrustning.</li> <li>Olika typer av risker i automatiserade system och anläggningar gällande underhållsarbeten, till exempel säkra stopp och avställning.</li> <li>Metoder för underhållsplanering i automatiserade anläggningar.</li> </ul> <p><em>Förebyggande och avhjälpande underhåll</em></p> <ul> <li>Planering och genomförande av underhållsarbeten med hjälp av teknisk dokumentation. Dokumentation av utfört arbete.</li> <li>Samverkan mellan olika yrkesgrupper.</li> <li>Förebyggande underhåll med fokus på enklare operatörsunderhåll, däribland rengöring och inspektion av utrustning inom automatiserade anläggningar.</li> <li>Avhjälpande underhåll, däribland användning av metoder för systematisk felsökning samt utbyten av felaktiga komponenter inom automatiserad utrustning.</li> <li>Genomförande och tolkning av olika typer av tekniska mätningar.</li> <li>Olika materials egenskaper och användningsområden. Olika verktyg och utrustning, deras egenskaper och användningsområden.</li> <li>Hantering av vanligt förekommande verktyg, instrument och utrustning. Teknisk dokumentation, till exempel arbetstillstånd, instruktioner, ritningar, scheman, protokoll, standarder och manualer.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Lagar och andra bestämmelser om arbetsmiljö och säkerhet inom området, däribland om säker av- och återställning.</li> <li>Samband mellan säkerhetsanvisningar och riskhantering.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Grundläggande tekniska begrepp inom området för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: UNDR2000X</h3>",
+      "code": "UNDR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – automation på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Anläggning, system och utrustning</em></p> <ul> <li>Uppbyggnad, funktion och användning av automatiserade system och utrustning inom vald produktionsprocess.</li> <li>Underhållsplanering med hänsyn till ekonomi, arbetsmiljö och teknisk livslängd.</li> </ul> <p><em>Förebyggande och avhjälpande underhåll</em></p> <ul> <li>Planering, genomförande och dokumentation av underhållsarbeten inom någon produktionsprocess med hjälp av teknisk dokumentation.</li> <li>Förebyggande underhåll med metoder för schemalagt och tillståndsbaserat underhåll, till exempel olika mätningar samt provning av komponenter och utrustning.</li> <li>Avhjälpande underhåll, däribland användning av metoder för systematisk felsökning samt metoder för avställning och återställning av automatiserad utrustning.</li> <li>Säker av- och återställning samt metodisk felsökning.</li> <li>Genomförande och tolkning av tekniska mätningar.</li> <li>Val och hantering av verktyg, instrument, utrustning och programvara.</li> <li>Underhållsdokumentation, däribland arbetstillstånd, instruktioner, ritningar, scheman, protokoll, standarder och manualer som förekommer inom vald produktionsprocess.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Lagar och andra bestämmelser om arbetsmiljö och säkerhet inom området.</li> <li>Tolkning av säkerhetsanvisningar samt riskhantering inom vald produktionsprocess.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Tekniska begrepp inom området för yrkesmässig kommunikation om arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>enkelt</strong> sätt uppbyggnad, funktion och underhåll av automatiserad utrustning.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>viss säkerhet</strong>. Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar med <strong>viss</strong> skicklighet verktyg, instrument och utrustning.</p> <p>Eleven använder med <strong>viss säkerhet</strong> teknisk dokumentation.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt uppbyggnad, funktion och underhåll av automatiserad utrustning.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>säkerhet</strong>. Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar med <strong>god</strong> skicklighet verktyg, instrument och utrustning.</p> <p>Eleven använder med <strong>säkerhet</strong> teknisk dokumentation.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt uppbyggnad, funktion och underhåll av automatiserad utrustning.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>god säkerhet</strong>. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar med <strong>mycket god</strong> skicklighet verktyg, instrument och utrustning.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknisk dokumentation.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.097Z"
+}

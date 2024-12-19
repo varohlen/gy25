@@ -1,0 +1,78 @@
+{
+  "code": "GEOG",
+  "name": "Geografi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:159",
+  "nameHeading": "<h2>Geografi</h2>",
+  "description": "<p>Geografisk kunskap har sitt ursprung i människans behov av att upptäcka och förstå sin omvärld. Ämnet geografi är tvärvetenskapligt och integrerar naturvetenskap och samhällsvetenskap utifrån rumsliga perspektiv. Studier i geografi ger kunskaper om processer på jorden, föränderliga och varierande livsmiljöer samt människors livsvillkor på olika platser. Med kunskaper i geografi får människor redskap att förstå komplexa system på jorden. Denna förståelse är central i arbetet för en hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet geografi ska syfta till att eleverna utvecklar förmåga att analysera samband mellan natur, människa och samhälle på olika platser på jorden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om naturprocesser och människans verksamheter, hur de är integrerade och påverkar varandra samt hur natur- och kulturlandskap formas över tid. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om bakgrunden till skilda klimat och orsaker till klimatförändringarna. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om befolkningsutveckling och livsvillkor i olika samhällen lokalt, regionalt och globalt. Vidare ska undervisningen ge eleverna möjlighet att analysera risker för naturkatastrofer, samhällens sårbarhet och anpassningsmöjligheter på olika platser.</p> <p>Genom undervisningen ska eleverna ges möjlighet att analysera och reflektera över vår tids och framtidens globala utmaningar som rör nyttjande av naturresurser, intressekonflikter, geopolitik och globalisering. Vidare ska eleverna ges möjlighet att analysera frågor kopplade till hållbar utveckling och hållbar samhällsplanering där ekologiska, sociala, ekonomiska och etiska perspektiv integreras. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vetenskapliga förklaringar till klimatförändringarna och deras konsekvenser för samhället. Eleverna ska ges möjlighet att analysera samband mellan natur och människa för att kunna värdera olika lösningar och utveckla handlingsberedskap i aktuella frågor.</p> <p>Undervisningen ska ge eleverna möjlighet att använda geografiska begrepp, modeller, metoder och verktyg för att studera rumsliga förhållanden, mönster och processer. Dessutom ska eleverna ges möjlighet att formulera geografiska frågor och göra rumsliga analyser av omvärlden för att därigenom utveckla förståelse av hur geografisk kunskap produceras och hur geografisk information används i samhället.</p> <h5><em>Undervisningen i ämnet geografi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om geografiska förhållanden, mönster och processer på olika skalnivåer.</li> <li>Förmåga att analysera samband mellan natur, människa och samhälle i frågor som rör intressekonflikter, hållbar utveckling och pågående klimatförändringar.</li> <li>Förmåga att använda geografiska begrepp, modeller, metoder och verktyg för att undersöka geografiska frågor och presentera resultaten.</li> </ul><h3>Nivåer i ämnet geografi</h3><ul><li>Nivå 1, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GEOG1000X</h3>",
+      "code": "GEOG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet geografi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Jordens geologiska uppbyggnad och geosystem, däribland endogena och exogena processer och hur de formar och förändrar jordytan.</li> <li>Fördelning av naturresurser och konsekvenser av människors nyttjande av dem.</li> <li>Faktorer och processer som påverkar klimatet på global och regional nivå, samt klimatklassificering.</li> <li>Globalisering i relation till konsumtionsmönster och produktionsmönster på olika platser i världen.</li> <li>Befolkningsutveckling över tid, till exempel den demografiska transitionen, migration och urbaniseringsprocesser.</li> <li>Hur naturprocesser och mänskliga verksamheter påverkar olika samhällens sårbarhet och resiliens.</li> <li>Aktuella intressekonflikter, till exempel om geopolitik, resurstillgångar och befolkningsfrågor.</li> <li>Hur ekologiska, sociala, ekonomiska och etiska perspektiv är integrerade med varandra i frågor som rör hållbar utveckling på olika platser och utifrån olika skalnivåer. Betydelsen av jämlikhet och jämställdhet i arbetet för hållbar utveckling.</li> <li>Mänsklig påverkan på klimatet. Konsekvenser av klimatförändringarna på olika platser.</li> <li>Hållbar samhällsplanering och beredskap kopplat till framtidsfrågor, till exempel klimatanpassning, mat-, vatten- och energiförsörjning.</li> <li>Tillämpning av geografiska begrepp och modeller i resonemang och analys.</li> <li>Användning av geografiska verktyg, däribland analoga och digitala kartor, satellitbilder, statistik och geografiska informationssystem (GIS), vid undersökningar av geografiska förhållanden, mönster och processer. Källkritisk analys av geografisk information.</li> <li>Användning av geografiska metoder, till exempel fältstudier, laborationer och exkursioner, för att samla in, tolka, analysera och presentera geografisk information och besvara geografiska frågor.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GEOG2000X</h3>",
+      "code": "GEOG2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet geografi på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Hur naturprocesser påverkar livsvillkor på olika platser, till exempel tillgång till odlingsbar mark, sötvatten och energi.</li> <li>Hur människan påverkar och omvandlar natur- och kulturlandskap genom nyttjande av naturresurser och vilka konsekvenser det kan medföra.</li> <li>Globalisering, lokalisering och spridning av mänskliga verksamheter kopplat till socioekonomisk utveckling på olika platser i världen.</li> <li>Olika samhällens sårbarhet, handlingsberedskap och resiliens i förhållande till naturkatastrofer.</li> <li>Analys av aktuella intressekonflikter på olika platser med utgångspunkt i samband mellan natur, människa och samhälle.</li> <li>Arbete i olika samhällssektorer med hållbar samhällsplanering, däribland klimatanpassning och systemförändringar på global, regional och lokal nivå.</li> <li>Konsekvenser av klimatförändringarna i relation till geografiskt läge och förutsättningar att minska utsläppen av växthusgaser på olika platser i världen.</li> <li>Tillämpning av geografiska begrepp och modeller i resonemang och analys.</li> <li>Användning av geografiska verktyg, däribland analoga och digitala kartor, satellitbilder, statistik och geografiska informationssystem (GIS), vid undersökningar av geografiska förhållanden, mönster och processer. Källkritisk analys av geografisk information.</li> <li>Användning av geografiska metoder, till exempel fältstudier, laborationer och exkursioner samt användning av GIS för att samla in, tolka, analysera och presentera geografisk information och besvara geografiska frågor.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om geografiska förhållanden, mönster och processer på olika skalnivåer.</p> <p>Eleven för <strong>enkla</strong> resonemang om samband mellan natur, människa och samhälle i frågor som rör intressekonflikter, hållbar utveckling och pågående klimatförändringar.</p> <p>Eleven använder med <strong>viss säkerhet</strong> geografiska begrepp, modeller, metoder och verktyg för att undersöka geografiska frågor och presentera resultaten.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om geografiska förhållanden, mönster och processer på olika skalnivåer.</p> <p>Eleven för <strong>välgrundade</strong> resonemang om samband mellan natur, människa och samhälle i frågor som rör intressekonflikter, hållbar utveckling och pågående klimatförändringar.</p> <p>Eleven använder med <strong>säkerhet</strong> geografiska begrepp, modeller, metoder och verktyg för att undersöka geografiska frågor och presentera resultaten.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om geografiska förhållanden, mönster och processer på olika skalnivåer.</p> <p>Eleven för <strong>välgrundade och nyanserade</strong> resonemang om samband mellan natur, människa och samhälle i frågor som rör intressekonflikter, hållbar utveckling och pågående klimatförändringar.</p> <p>Eleven använder med <strong>god säkerhet</strong> geografiska begrepp, modeller, metoder och verktyg för att undersöka geografiska frågor och presentera resultaten.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.006Z"
+}

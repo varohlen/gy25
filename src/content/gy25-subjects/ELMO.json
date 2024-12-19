@@ -1,0 +1,64 @@
+{
+  "code": "ELMO",
+  "name": "Elmotordrivsystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:210",
+  "nameHeading": "<h2>Elmotordrivsystem</h2>",
+  "description": "<p>Elmotordrivsystem finns i olika typer av automatiserade maskiner inom industrin, men också i maskiner i andra miljöer, till exempel i hissar, skrivare och kaffeautomater. Ämnet elmotordrivsystem behandlar olika typer av elmotorer och deras drivsystem.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elmotordrivsystem ska syfta till att eleverna utvecklar förmåga att planera och utföra arbete på elmotordrivsystem med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förmåga att installera och underhålla elmotordrivsystem. Eleverna ska även ges möjlighet att utveckla förmåga att dokumentera utfört arbete. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning på ett säkert och hållbart sätt.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur elmotordrivsystem är uppbyggda och fungerar. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om standarder och begrepp samt om lagar och andra bestämmelser som gäller inom området. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete kopplat till elmotordrivssystem.</p> <p>Genom både praktiskt och teoretiskt arbete ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis. Undervisningen ska också ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet elmotordrivsystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om elmotordrivsystems uppbyggnad och funktion.</li> <li>Kunskaper om standarder, lagar och andra bestämmelser inom området.</li> <li>Förmåga att installera, driftsätta, felsöka och underhålla elmotordrivsystem med hjälp av teknisk dokumentation och i enlighet med säkerhetsbestämmelser.</li> <li>Förmåga att planera och dokumentera arbeten inom elmotordrivsystem.</li> </ul><h3>Nivåer i ämnet elmotordrivsystem</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELMO1000X</h3>",
+      "code": "ELMO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elmotordrivsystem på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika elmotorers uppbyggnad och egenskaper, däribland asynkronmotorn, AC-servomotorn, synkronmotorn, PM-motorn, olika stegmotorer och elektroniskt kommuterade motorer.</li> <li>Vanliga systemlösningar för elmotordrivsystem, till exempel modulära PLC (programmable logic controller) med färdiga funktionsblock.</li> <li>Dimensionering av elmotorer och mekanik utifrån nyckelfaktorer, till exempel utväxling, tröghetsmoment, varvtal, moment och ström.</li> <li>Energieffektivitet hos elmotorer med ekodesignförordningen.</li> <li>Riskanalys av elmotordrivsystem i anläggning.</li> <li>Lagar och andra bestämmelser som reglerar säkerhet och arbetsmiljö vid arbete med elmotordrivsystem.</li> <li>Standarder och begrepp inom området.</li> <li>Installation av elmotorer med tillhörande skyddsanordningar.</li> <li>Installation av elmotordrivsystem utifrån säkerhetsanvisningar.</li> <li>Val av ledningar och jordningar med hänsyn till störningar, lagerströmmar och olika miljöer.</li> <li>Driftsättning, felsökning, felavhjälpning och underhåll av olika elmotordrivsystem med tillhörande skyddsanordningar.</li> <li>Konfigurering av elmotordrivsystem för varvtalsreglering av elmotorer.</li> <li>Informationsteknik som stöd vid drift och underhåll av elmotordrivsystem.</li> <li>Metoder för att mäta och åtgärda övertoner och reaktiva effekter i elmotordrivsystem.</li> <li>Metoder för att mäta hastighet och position hos olika elmotordrivsystem, till exempel med takometer, resolver och olika pulsgivare.</li> <li>Metoder för att positionera, styra och reglera hastighet och moment för olika elmotortyper.</li> <li>Planering av arbete med elmotordrivsystem.</li> <li>Tolkning och användning av teknisk dokumentation över elmotordrivsystem samt framställning av egen dokumentation.</li> <li>Hållbarhet kopplat till elmotordrivsystem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur elmotordrivsystem är uppbyggda och fungerar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller vid arbete med elmotordrivsystem.</p> <p>Eleven installerar, driftsätter och underhåller elmotordrivsystem med <strong>visst</strong> handlag. Eleven utför det praktiska arbetet med hjälp av teknisk dokumentation och i enlighet med säkerhetsbestämmelser.</p> <p>Eleven planerar och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur elmotordrivsystem är uppbyggda och fungerar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller vid arbete med elmotordrivsystem.</p> <p>Eleven installerar, driftsätter och underhåller elmotordrivsystem med <strong>gott</strong> handlag. Eleven utför det praktiska arbetet med hjälp av teknisk dokumentation och i enlighet med säkerhetsbestämmelser.</p> <p>Eleven planerar och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur elmotordrivsystem är uppbyggda och fungerar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller vid arbete med elmotordrivsystem.</p> <p>Eleven installerar, driftsätter och underhåller elmotordrivsystem med <strong>mycket gott</strong> handlag. Eleven utför det praktiska arbetet med hjälp av teknisk dokumentation och i enlighet med säkerhetsbestämmelser.</p> <p>Eleven planerar och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.988Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "OMVR",
+  "name": "Omvårdnad",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:331",
+  "nameHeading": "<h2>Omvårdnad</h2>",
+  "description": "<p>Ämnet omvårdnad har sin grund i praktiskt vård- och omsorgsarbete men också i det vetenskapliga ämnesområdet omvårdnad. Ämnet behandlar omvårdnadsåtgärder ur ett helhetsperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet omvårdnad ska syfta till att eleverna utvecklar förmåga att utföra arbete nära patienter och brukare inom vård och omsorg. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra omvårdnad och omsorg vid olika sjukdomstillstånd och i livets slutskede samt att uppmärksamma, rapportera och dokumentera förändringar i människors hälsotillstånd. Eleverna ska också ges möjlighet att utveckla förmåga att utifrån biståndsbedömning eller vårdplanering planera, utföra, dokumentera, rapportera och utvärdera vård- och omsorgsarbete samt att ge förslag på hur arbetet kan utvecklas. Undervisningen ska även bidra till att eleverna utvecklar förmåga att använda centrala begrepp inom omvårdnad. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett hygieniskt, ergonomiskt, hälsofrämjande, rehabiliterande, habiliterande och pedagogiskt sätt. Dessutom ska eleverna ges möjlighet att utveckla förmåga att arbeta på ett säkert sätt samt i enlighet med lagar och andra bestämmelser inom vård- och omsorgsområdet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om pedagogiska, etiska och kulturella aspekter inom omvårdnad samt stimuleras till att verka för vård och omsorg där alla människors lika värde värnas.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter och brukare med ett lyhört, respektfullt, reflekterande och empatiskt förhållningssätt. De ska också ges möjlighet att utveckla förmåga att ta ansvar för patienter och brukare och för olika arbetsuppgifter med hänsyn till vårdtagarens allmänmänskliga och individuella behov i relation till livsperspektiv och förändrad hälsa. I undervisningen ska eleverna dessutom ges möjlighet att utveckla förmåga att använda medicinteknisk och annan teknisk utrustning samt informationsteknik inom olika verksamheter.</p> <p>Genom att medverka i olika vård- och omsorgsverksamheter ska eleverna ges möjlighet att få en inblick i och erfarenhet av arbetsuppgifter inom omvårdnad. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet omvårdnad ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att systematiskt uppmärksamma och dokumentera symtom och förändringar i människors hälsotillstånd samt att använda centrala begrepp inom området.</li> <li>Förmåga att planera, utföra, dokumentera och utvärdera egna arbetsinsatser utifrån omsorgs- och omvårdnadsprocessen i relation till biståndsbedömning eller vårdplanering.</li> <li>Förmåga att arbeta på ett sätt som förhindrar smitta och smittspridning.</li> <li>Förmåga att utföra arbetet på ett ergonomiskt, rehabiliterande, habiliterande och pedagogiskt sätt.</li> <li>Förmåga att kommunicera och samarbeta samt att använda informationsteknik inom området.</li> <li>Förmåga att arbeta på ett etiskt och säkert sätt samt i enlighet med lagar och andra bestämmelser inom vård- och omsorgsområdet.</li> </ul><h3>Nivåer i ämnet omvårdnad</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: OMVR1000X</h3>",
+      "code": "OMVR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet omvårdnad på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Centrala begrepp inom omvårdnad och omsorg.</li> <li>Hur förändringar i människors hälsotillstånd kan uppmärksammas och rapporteras på ett systematiskt sätt.</li> <li>Biståndsbedömning och vårdplanering samt deras syfte och innehåll.</li> <li>Personcentrerad vård och teamarbete.</li> <li>Omvårdnad och omsorg vid de vanligaste sjukdomstillstånden med hänsyn till patientsäkerhet, självbestämmande och integritet.</li> <li>Genomgång och utförande av personlig hygien, munvård och stimulerad matsituation.</li> <li>Betydelsen av kost, vätska, elimination, vila och sömn.</li> <li>Förstoppning och inkontinens samt deras orsaker, kännetecken och åtgärder.</li> <li>Olika typer av riskfaktorer och komplikationer samt åtgärder för att förhindra eller minimera risken för komplikationer, däribland åtgärder vid långvarigt sängläge.</li> <li>Omvårdnad och etiskt förhållningssätt i livets slutskede.</li> <li>System och rutiner för rapportering, dokumentation och utvärdering av genomförda åtgärder.</li> <li>Genomgång och utförande av basala hygienrutiner för att förhindra smitta och smittspridning vid vård- och omsorgsarbete.</li> <li>Rehabilitering och habilitering i vård- och omsorgsarbete.</li> <li>Pedagogiskt förhållningssätt i vård- och omsorgsarbete.</li> <li>Säkra och hållbara arbetssätt med fokus på ergonomi.</li> <li>Etiska frågeställningar och yrkesetiskt förhållningssätt i vård- och omsorgsarbete.</li> <li>Kommunikation, bemötande och samarbete utifrån ett etiskt förhållningssätt och med hänsyn till kulturella aspekter.</li> <li>It som stöd för säker informationshantering och dokumentation inom vård- och omsorgsarbete.</li> <li>Lagar och andra bestämmelser inom området, däribland hälso- och sjukvårdslagen (HSL) samt offentlighets- och sekretesslagen (OSL).</li> <li>Arbetsuppgifter som kräver delegering.</li> <li>Avvikelsehantering.</li> <li>Den fysiska, psykiska och sociala arbetsmiljöns betydelse för hälsa och säkerhet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: OMVR2000X</h3>",
+      "code": "OMVR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet omvårdnad på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Centrala begrepp inom omvårdnad och omsorg.</li> <li>Observation, värdering och prioritering utifrån fysiska och psykiska tillstånd samt dokumentation och rapportering av gjorda observationer och insatser.</li> <li>Omvårdnadsprocessen samt teorier inom omvårdnad.</li> <li>Undersökningsmetoder och behandlingar.</li> <li>Omvårdnad och omsorg samt medverkan vid behandling av sjukdomstillstånd med hänsyn till patientsäkerhet, självbestämmande och integritet.</li> <li>Normalt och onormalt ätbeteende.</li> <li>Mobilisering, dess betydelse och effekter samt åtgärder som minskar risken för komplikationer.</li> <li>Omvårdnad i livets slutskede, smärtlindring och omhändertagande efter döden.</li> <li>Rapportering, dokumentation och utvärdering av genomförda åtgärder samt förslag på hur arbetet kan utvecklas.</li> <li>Genomgång och utförande av basala hygienrutiner för att förhindra smitta och smittspridning vid vård- och omsorgsarbete.</li> <li>Rehabilitering och habilitering i vård- och omsorgsarbete.</li> <li>Pedagogiska metoder vid handledning.</li> <li>Ergonomiska verktyg samt deras funktioner och innehåll.</li> <li>Etiska frågeställningar och yrkesetiskt förhållningssätt i vård- och omsorgsarbete.</li> <li>Kommunikation, bemötande och samarbete utifrån ett etiskt förhållningssätt och med hänsyn till kulturella aspekter.</li> <li>Interprofessionella samarbeten.</li> <li>It inom informationsöverföring och dokumentation samt medicintekniska informationssystem.</li> <li>Lagar och andra bestämmelser inom området, däribland patientsäkerhetslagen och Lex Maria.</li> <li>Den fysiska, psykiska och sociala arbetsmiljöns betydelse för hälsa och säkerhet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven uppmärksammar och dokumenterar symtom och förändringar i människors hälsotillstånd på ett <strong>godtagbart</strong> sätt. Eleven använder centrala begrepp inom området med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>godtagbart</strong> sätt utifrån omsorgs- och omvårdnadsprocessen i relation till biståndsbedömning eller vårdplanering. Eleven planerar, dokumenterar och utvärderar arbetet på ett <strong>enkelt</strong> sätt samt ger <strong>enkla</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven följer hygienrutiner och arbetar smittförebyggande.</p> <p>Eleven arbetar ergonomiskt, rehabiliterande, habiliterande och pedagogiskt på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven kommunicerar, samarbetar och använder informationsteknik med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert och yrkesetiskt sätt samt i enlighet med lagar och andra bestämmelser inom vård- och omsorgsområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven uppmärksammar och dokumenterar symtom och förändringar i människors hälsotillstånd på ett <strong>gott</strong> sätt. Eleven använder centrala begrepp inom området med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>gott</strong> sätt utifrån omsorgs- och omvårdnadsprocessen i relation till biståndsbedömning eller vårdplanering. Eleven planerar, dokumenterar och utvärderar arbetet på ett <strong>utvecklat</strong> sätt samt ger <strong>välgrundade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven följer hygienrutiner och arbetar smittförebyggande.</p> <p>Eleven arbetar ergonomiskt, rehabiliterande, habiliterande och pedagogiskt på ett <strong>gott</strong> sätt.</p> <p>Eleven kommunicerar, samarbetar och använder informationsteknik med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert och yrkesetiskt sätt samt i enlighet med lagar och andra bestämmelser inom vård- och omsorgsområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven uppmärksammar och dokumenterar symtom och förändringar i människors hälsotillstånd på ett <strong>mycket gott</strong> sätt. Eleven använder centrala begrepp inom området med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>mycket gott</strong> sätt utifrån omsorgs- och omvårdnadsprocessen i relation till biståndsbedömning eller vårdplanering. Eleven planerar, dokumenterar och utvärderar arbetet på ett <strong>välutvecklat</strong> sätt samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven följer hygienrutiner och arbetar smittförebyggande.</p> <p>Eleven arbetar ergonomiskt, rehabiliterande, habiliterande och pedagogiskt på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven kommunicerar, samarbetar och använder informationsteknik med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert och yrkesetiskt sätt samt i enlighet med lagar och andra bestämmelser inom vård- och omsorgsområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.056Z"
+}

@@ -1,0 +1,77 @@
+{
+  "code": "INDB",
+  "name": "Industriell robotteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:543",
+  "nameHeading": "<h2>Industriell robotteknik</h2>",
+  "description": "<p>Ämnet industriell robotteknik behandlar hur robotar fungerar och används i industrin. I ämnet behandlas både hårdvara och mjukvara som används i robotceller. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell robotteknik ska syfta till att eleverna utvecklar kunskaper om olika typer av robotar samt om olika tillämpningar och områden där industrirobotar används. Undervisningen ska leda till att eleverna utvecklar kunskaper om hur en robotcell är uppbyggd och hur dess olika delar samverkar med varandra. Genom programmering och felsökning av robotapplikationer ska eleverna ges möjlighet att utveckla förmåga att arbeta systematiskt och problemlösande.</p> <p>Undervisningen ska bidra till att eleverna utvecklar ingenjörsmässig förmåga att planera och identifiera resurser samt förmåga att genomföra och utvärdera arbete i robotceller. Undervisningen ska leda till att eleverna utvecklar kunskaper om olika begrepp, standarder och metoder inom industriell robotteknik, samt färdigheter i att använda dessa, bland annat genom programmering och driftsättning av robotar med kringutrustning. Undervisningen ska även stimulera elevernas nyfikenhet och lust att vilja veta mer om olika robotapplikationer.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella robotiserade system samt att föreslå förbättringar. Undervisningen ska även bidra till att eleverna utvecklar förmåga att använda olika former av systemdokumentation samt att arbeta enligt gällande säkerhetsföreskrifter.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om hur användningen av robotar i industrin har utvecklats över tid. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om industriell robotisering i relation till hållbar utveckling.</p> <p>Undervisningen ska kombinera teoretiska och praktiska moment samt lämna utrymme för diskussion om och reflektion över etiska frågor i samband med robotisering i industrin.</p> <h5><em>Undervisningen i ämnet industriell robotteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om industrirobotars funktion och konstruktion samt om hur robotar samverkar med kringutrustning.</li> <li>Förmåga att programmera, dokumentera och driftsätta en robotcell i enlighet med gällande säkerhetsföreskrifter.</li> <li>Förmåga att felsöka i en robotcell samt ge förslag till förbättringar.</li> <li>Kunskaper om samband mellan robotisering och hållbar utveckling.</li> </ul><h3>Nivåer i ämnet industriell robotteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDB100TX</h3>",
+      "code": "INDB100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell robotteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Robotapplikationer</em></p> <ul> <li>Industrirobotsystems uppbyggnad, användningsområden och funktion.</li> <li>Robottekniska begrepp och definitioner samt deras användning, till exempel koordinatsystem.</li> <li>Vanligt förekommande funktionspaket till robotar, till exempel gripdon, sugkopp och svetsverktyg.</li> <li>Uppbyggnad av och funktion hos kringutrustning till industrirobotsystem samt kommunikation mellan industrirobotsystem och andra enheter.</li> <li>Samband mellan industriell robotisering och hållbar utveckling.</li> </ul> <p><em>Robotcell</em></p> <ul> <li>Programmering av industrirobotsystem med hjälp av simuleringsverktyg.</li> <li>Planering, provkörning och kontroll före idrifttagning av industrirobotsystem.</li> <li>Dokumentation av utfört arbete samt utvärdering av arbetsprocess och slutresultat.</li> <li>Arbetsmiljö och säkerhet vid arbete med robotsystem.</li> <li>Analys av befintlig robotiserad process med förslag på hur arbetet kan utvecklas.</li> <li>Underhåll och felsökning på industrirobotsystem med hjälp av program, manualer och dokumentation, till exempel elscheman.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDB200TX</h3>",
+      "code": "INDB200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell robotteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Robotapplikationer</em></p> <ul> <li>Användningsområden för olika typer av robotar samt uppbyggnad och funktion i industrirobotsystem.</li> <li>Arbetsgång vid robotisering samt framtagning av konstruktionsunderlag till en robotcell.</li> <li>Arbetsgång vid installation och kalibrering av robot.</li> <li>Framtida robotfunktioner och tillämpningar inom industrin, till exempel artificiell intelligens (AI).</li> <li>Samband mellan industriell robotisering och hållbar utveckling, både lokalt och globalt.</li> </ul> <p><em>Robotcell</em></p> <ul> <li>Programvara för att skapa simuleringsmodeller för robotceller.</li> <li>Hantering av robotverktyg, till exempel definiering av robotverktyg, olika koordinatsystem och användning av verktygsväxlare.</li> <li>Samarbete mellan robot och visionsystem.</li> <li>Avbrottsrutiner samt fel- och larmhantering.</li> <li>Arbetsmiljö och säkerhet vid olika typer av arbeten i robotceller, till exempel riskbedömning, säkerhetssystem och mekanisk lossning av robotens bromsar.</li> <li>Förebyggande underhåll samt felsökning och reparation på industrirobotsystem med hjälp av program, manualer och dokumentation.</li> <li>Analys och optimering av robotapplikationer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för funktion och konstruktion hos industriella robotapplikationer och för hur robotar samverkar med kringutrustning.</p> <p>Eleven arbetar säkert samt programmerar, dokumenterar och driftsätter en robotcell med <strong>viss</strong> skicklighet.</p> <p>Eleven felsöker och ger förslag på förbättringar i en robotcell med <strong>viss säkerhet</strong>.</p> <p>Eleven resonerar <strong>övergripande</strong> om relationen mellan robotisering och hållbar utveckling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för funktion och konstruktion hos industriella robotapplikationer och för hur robotar samverkar med kringutrustning.</p> <p>Eleven arbetar säkert samt programmerar, dokumenterar och driftsätter en robotcell med <strong>god</strong> skicklighet.</p> <p>Eleven felsöker och ger förslag på förbättringar i en robotcell med <strong>säkerhet</strong>.</p> <p>Eleven resonerar <strong>utförligt</strong> om relationen mellan robotisering och hållbar utveckling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för funktion och konstruktion hos industriella robotapplikationer och för hur robotar samverkar med kringutrustning.</p> <p>Eleven arbetar säkert samt programmerar, dokumenterar och driftsätter en robotcell med <strong>mycket god</strong> skicklighet.</p> <p>Eleven felsöker och ger förslag på förbättringar i en robotcell med <strong>god säkerhet</strong>.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om relationen mellan robotisering och hållbar utveckling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}

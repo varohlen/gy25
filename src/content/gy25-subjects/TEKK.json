@@ -1,0 +1,78 @@
+{
+  "code": "TEKK",
+  "name": "Teknik – specialisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:220",
+  "nameHeading": "<h2>Teknik – specialisering</h2>",
+  "description": "<p>Ämnet teknik – specialisering fördjupar eller breddar tekniska kunskaper inom ett valt teknikområde. Ämnet behandlar även tekniska tillämpningar och problemlösning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet teknik – specialisering ska syfta till att eleverna fördjupar eller breddar sina kunskaper inom ett valt teknikområde. Undervisningen ska leda till att eleverna utvecklar fördjupad förståelse av tekniska system och förmåga att använda tekniska begrepp, processer, metoder och verktyg inom valt teknikområde.</p> <p>För att stärka eleverna för framtidens olika utmaningar och behov ska undervisningen bidra till att eleverna utvecklar förmåga att använda den digitala teknikens möjligheter. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att inhämta, granska, analysera och använda information. De ska också ges möjlighet att utveckla förmåga att kommunicera om teknik samt dokumentera, presentera och utvärdera tekniska lösningar.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hållbar utveckling inom valt teknikområde. Eleverna ska därför ges möjlighet att utveckla förmåga att bidra till hållbara tekniska lösningar utifrån både beprövade teorier och modeller och nya tekniska framsteg.</p> <p>Genom ett problemlösande och undersökande arbetssätt ska undervisningen stimulera elevernas nyfikenhet och lust att utvecklas inom valt teknikområde. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor inom teknisk utveckling och om hur hållbar utveckling inom valt teknikområde kan främjas.</p> <h5><em>Undervisningen i ämnet teknik – specialisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda begrepp, teorier, metoder och verktyg inom valt teknikområde.</li> <li>Förmåga att utveckla tekniska lösningar inom valt teknikområde.</li> <li>Kunskaper om hållbar utveckling inom valt teknikområde.</li> <li>Förmåga att dokumentera, presentera och utvärdera tekniska lösningar.</li> </ul><h3>Nivåer i ämnet teknik – specialisering</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet teknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TEKK1000X</h3>",
+      "code": "TEKK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknik – specialisering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Begrepp och teorier relevanta för valt teknikområde.</li> <li>Relevanta metoder och verktyg för att skapa, simulera och testa lösningar inom valt teknikområde.</li> <li>Analys och praktisk tillämpning av relevanta strategier för problemlösning inom valt teknikområde.</li> <li>Källkritisk informationssökning i arbetet med att utveckla tekniska lösningar.</li> <li>Metoder för kvalitetssäkring av tekniska processer och produkter inom valt teknikområde.</li> <li>Riktlinjer, lagar och andra bestämmelser som gäller hållbar utveckling inom valt teknikområde.</li> <li>Dokumentation av tekniska lösningar samt presentationstekniker, presentation och utvärdering av tekniska lösningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TEKK2000X</h3>",
+      "code": "TEKK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknik – specialisering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tillämpning av relevanta begrepp och teorier i problemlösning.</li> <li>Tillämpning av relevanta metoder och verktyg för att skapa, simulera, testa och utvärdera tekniska lösningar inom valt teknikområde.</li> <li>Tekniska lösningar inom valt teknikområde utifrån analys och problemlösning.</li> <li>Bedömning av olika tekniska lösningar på samma problem.</li> <li>Källkritisk informationssökning samt granskning och relevansbedömning av information i arbetet med att utveckla tekniska lösningar.</li> <li>Tillämpning av metoder för kvalitetssäkring av tekniska processer och produkter samt utvärdering och dokumentation av kvalitetssäkringen inom valt teknikområde.</li> <li>Fördjupning och analys av aktuell teknikutveckling och dess relation till ekonomisk, social och miljömässig hållbarhet.</li> <li>Användning av korrekt tekniskt språk vid dokumentation inom valt teknikområde.</li> <li>Användning av olika relevanta presentationstekniker inom valt teknikområde.</li> <li>Utvärdering för att optimera och förbättra en teknisk lösning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder med <strong>viss säkerhet</strong> relevanta begrepp, teorier, metoder och verktyg.</p> <p>Eleven utvecklar tekniska lösningar på ett <strong>i huvudsak systematiskt</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hållbar utveckling inom valt teknikområde.</p> <p>Eleven dokumenterar, presenterar och utvärderar tekniska lösningar med <strong>godtagbart</strong> resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder med <strong>säkerhet</strong> relevanta begrepp, teorier, metoder och verktyg.</p> <p>Eleven utvecklar tekniska lösningar på ett <strong>systematiskt</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hållbar utveckling inom valt teknikområde.</p> <p>Eleven dokumenterar, presenterar och utvärderar tekniska lösningar med <strong>gott</strong> resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder med <strong>god säkerhet</strong> relevanta begrepp, teorier, metoder och verktyg.</p> <p>Eleven utvecklar tekniska lösningar på ett <strong>systematiskt och genomarbetat</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hållbar utveckling inom valt teknikområde.</p> <p>Eleven dokumenterar, presenterar och utvärderar tekniska lösningar med <strong>mycket gott</strong> resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.091Z"
+}

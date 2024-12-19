@@ -1,0 +1,79 @@
+{
+  "code": "UNDA",
+  "name": "Underhåll – hydraulik och pneumatik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-22",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2024:240",
+  "skolfsAndring": "2024:240",
+  "nameHeading": "<h2>Underhåll – hydraulik och pneumatik</h2>",
+  "description": "<p>Det industrialiserade samhället bygger på tekniska system med hög driftsäkerhet, något som förutsätter ett modernt underhåll. Ett fungerande underhåll förlänger systemens livslängd, minskar energianvändningen och har stor betydelse för att förhindra driftavbrott och minimera resursförbrukning. Ämnet underhåll – hydraulik och pneumatik behandlar uppbyggnad, funktion, drift och underhåll av hydrauliska och pneumatiska system.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet underhåll – hydraulik och pneumatik ska syfta till att eleverna utvecklar förmåga att utföra arbeten inom drift och underhåll av hydrauliska och pneumatiska system. Undervisningen ska även leda till att eleverna utvecklar kunskaper om uppbyggnad, funktion, drift och underhåll av hydrauliska och pneumatiska system. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt förmåga att arbeta säkert med drift- och underhållsarbete.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla färdigheter i att hantera verktyg, instrument och material för att utföra drift- och underhållsarbeten inom hydraulik och pneumatik. Undervisningen ska även leda till att eleverna utvecklar förmåga att planera och dokumentera drift- och underhållsarbete inom hydraulik och pneumatik.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att tolka och använda teknisk dokumentation samt att följa instruktioner och säkerhetsföreskrifter. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att kommunicera och samverka med andra.</p> <p>Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom underhållsteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet underhåll – hydraulik och pneumatik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad, funktion och underhåll av hydrauliska och pneumatiska system.</li> <li>Förmåga att planera och utföra drift- och underhållsarbeten inom hydraulik och pneumatik.</li> <li>Färdigheter i att hantera verktyg, instrument och material.</li> <li>Förmåga att dokumentera och utvärdera drift- och underhållsarbeten.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera och samverka med andra.</li> </ul><h3>Nivåer i ämnet underhåll – hydraulik och pneumatik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: UNDA1000X</h3>",
+      "code": "UNDA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – hydraulik och pneumatik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Industriell systemteknik</em></p> <ul> <li>Hydrauliska och pneumatiska system, systemens huvudsakliga uppbyggnad och funktion samt grundläggande fysikaliska principer och standarder.</li> <li>Vanligt förekommande komponenter, däribland verkställande organ, riktningsventiler, tryckventiler, volymströmsventiler och backventiler.</li> <li>Generering av tryck i hydrauliska och pneumatiska system.</li> <li>Grundläggande principer för hydraulisk och pneumatisk energiöverföring.</li> <li>Förbindelseelement, kopplingsmetoder samt styrningsprinciper.</li> <li>Metoder för underhållsplanering i hydrauliska och pneumatiska system.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Kontroll- och driftrutiner, till exempel avställning, felsökning, återställning, driftsättning samt funktionsprovning av system och komponenter.</li> <li>Kopplingsövningar med elektriska, hydrauliska och pneumatiska komponenter.</li> <li>Genomförande och tolkning av olika typer av tekniska mätningar.</li> <li>Planering och genomförande av praktiskt underhållsarbete inom hydrauliska och pneumatiska system, till exempel utbyte av filter, pumpar, ventiler, cylindrar eller förbindelseelement.</li> <li>Tolkning och användning av teknisk dokumentation, däribland ritningar, scheman och manualer.</li> <li>Olika materials egenskaper och användningsområden. Olika verktyg och utrustning, deras egenskaper och användningsområden.</li> <li>Hantering av vanligt förekommande verktyg, instrument, utrustning och material.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland om säker av- och återställning samt om arbetsmiljö, person- och maskinsäkerhet.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Kommunikation och samverkan inom underhållsorganisationen för planering av underhållsarbete.</li> <li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: UNDA2000X</h3>",
+      "code": "UNDA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – hydraulik och pneumatik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Industriell systemteknik</em></p> <ul> <li>Systemfunktion och systemuppbyggnad inom hydraulik och pneumatik, samt konstruktionsprinciper för styr- och reglersystem inom hydraulik och pneumatik.</li> <li>Kringutrustning, till exempel givare, vakter, ackumulatorer och säkerhetsutrustning.</li> <li>Hydrauliska och pneumatiska medier samt olika tekniker för generering av tryck.</li> <li>Energiöverföring, verkningsgrad och förluster inom olika systemlösningar.</li> <li>Olika tekniska lösningar inom området, till exempel hur vakuum-, servo-, styrnings-, bus- och proportionalteknik samt logiska grundfaktorer och PLC-teknik kan användas.</li> <li>Underhållsplanering med hänsyn till ekonomi, arbetsmiljö och teknisk livslängd.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Kontroll- och driftrutiner, däribland avställning, felsökning, återställning, driftsättning samt funktionsprovning av system, komponenter och kringutrustning.</li> <li>Kopplingsövningar med förbindelseelement, blockmontage, specialcylindrar, vriddon och gripdon.</li> <li>Genomförande och tolkning av olika typer av tekniska mätningar.</li> <li>Planering och genomförande av praktiskt underhållsarbete inom hydrauliska och pneumatiska system med fokus på renovering och montering.</li> <li>Tolkning och användning av underhållsdokumentation, däribland ritningar, scheman och manualer över sammansatta system.</li> <li>Val och hantering av verktyg, instrument, utrustning och material.</li> <li>Dokumentation och utvärdering av utfört arbete.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland om arbetsmiljö, person- och maskinsäkerhet. Hantering av höga tryck samt riskhantering.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Kommunikation och samverkan inom och mellan olika avdelningar för planering av underhållsarbete.</li> <li>Fackspråk inom yrket för att kommunicera och utvärdera arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt uppbyggnad, funktion och underhåll av hydrauliska och pneumatiska system.</p> <p>Eleven planerar samt utför med <strong>viss</strong> skicklighet drift- och underhållsarbeten inom området. I arbetet använder eleven teknisk dokumentation med <strong>viss säkerhet</strong>. Dessutom utför eleven <strong>enkla</strong> mätningar.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>viss säkerhet</strong>.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete och ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven håller ordning på sin arbetsplats och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>i huvudsak fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt uppbyggnad, funktion och underhåll av hydrauliska och pneumatiska system.</p> <p>Eleven planerar samt utför med <strong>god</strong> skicklighet drift- och underhållsarbeten inom området. I arbetet använder eleven teknisk dokumentation med <strong>säkerhet</strong>. Dessutom utför eleven <strong>relativt avancerade</strong> mätningar.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>säkerhet</strong>.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete och ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven håller ordning på sin arbetsplats och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt uppbyggnad, funktion och underhåll av hydrauliska och pneumatiska system.</p> <p>Eleven planerar samt utför med <strong>mycket god</strong> skicklighet drift- och underhållsarbeten inom området. I arbetet använder eleven teknisk dokumentation med <strong>god säkerhet</strong>. Dessutom utför eleven <strong>avancerade</strong> mätningar.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>god säkerhet</strong>.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven håller ordning på sin arbetsplats och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>väl fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.096Z"
+}

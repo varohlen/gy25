@@ -1,0 +1,63 @@
+{
+  "code": "TRAN",
+  "name": "Tränings- och tävlingslära",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:234",
+  "nameHeading": "<h2>Tränings- och tävlingslära</h2>",
+  "description": "<p>Ämnet tränings- och tävlingslära är tvärvetenskapligt och bygger på människans anatomi, idrottsfysiologi, idrottspsykologi och nutrition. Tillsammans med ämnet specialidrott utgör tränings- och tävlingslära en helhet. Ämnet får bara anordnas på idrottsutbildningar vid riksidrottsgymnasium eller nationellt godkända idrottsutbildningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tränings- och tävlingslära ska syfta till att eleverna utvecklar kunskaper om hur människan fungerar i tränings- och tävlingssammanhang utifrån idrottsfysiologi, nutrition och idrottspsykologiska teorier. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda olika metoder vid träning för en idrottslig utveckling. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att planera, genomföra och utvärdera träningen utifrån idrottens krav och den egna förmågan.</p> <p>Vidare ska eleverna ges möjlighet att utveckla kunskaper om energigivande processer samt kosthållningens och återhämtningens betydelse för träningseffekter och prestationsutveckling. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om psykologiska aspekter vid träning och tävling samt förmåga att använda metoder för idrottspsykologisk träning. Undervisningen ska dessutom ge eleverna möjlighet att använda ämnesspecifika begrepp och uttrycksformer.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vanligt förekommande skador inom idrotten samt orsaker till dessa. Den ska också bidra till att eleverna utvecklar kunskaper om relevanta faktorer i tränings- och tävlingsmiljöer för en hållbar idrottslig utveckling.</p> <p>Undervisningen ska även motverka diskriminerande föreställningar samt bidra till att eleverna utvecklar kunskaper om regler och etiska normer vid träning och tävling.</p> <h5><em>Undervisningen i ämnet tränings- och tävlingslära ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kroppens byggnad och funktion samt om kosthållning och olika faktorer som påverkar prestationen i tränings- och tävlingssammanhang.</li> <li>Förmåga att använda fysiologiska och psykologiska träningsmetoder för att utveckla prestationsförmågan.</li> <li>Kunskaper om tränings- och tävlingsmiljöers betydelse för prestationsutveckling.</li> <li>Förmåga att förebygga och behandla skador vid idrottsutövning.</li> <li>Kunskaper om regler och etiska normer vid träning och tävling.</li> </ul><h3>Nivåer i ämnet tränings- och tävlingslära</h3><ul><li>Nivå 1, 100 poäng. Betyg i tränings- och tävlingslära som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i träningslära som omfattar nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TRAN100IX</h3>",
+      "code": "TRAN100IX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tränings- och tävlingslära på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Kroppens anatomi och fysiologi.</li> <li>Nutrition och kosthållning för träning och tävling.</li> <li>Vila och sömn samt deras betydelse för återhämtningen, träningseffekten och prestationen.</li> <li>Grundläggande teorier i idrottspsykologi och exempel på idrottspsykologisk träning.</li> <li>Användning av ämnesspecifika begrepp i relation till träning och tävling.</li> <li>Träningsmetoder och teknik för uthållighet, styrka, rörlighet, snabbhet och koordination.</li> <li>Krav- och prestationsanalys.</li> <li>Tester för att mäta idrottsliga fysiologiska kvaliteter.</li> <li>Planering, genomförande och utvärdering av tränings- och tävlingsprogram.</li> <li>Vanligt förekommande skador inom idrotten, deras orsaker samt omhändertagande vid skada.</li> <li>Livsstilens och idrottsmiljöns betydelse för den idrottsliga utvecklingen.</li> <li>Regler och etiska normer vid träning och tävling, däribland frågor som berör fair play, matchfixning, dopning och antidopningsarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om kroppens byggnad och funktion samt om hur kroppen påverkas av träning, kosthållning och återhämtning.</p> <p>Eleven använder med <strong>viss säkerhet</strong> olika träningsmetoder för att utveckla prestationsförmågan. Eleven planerar och utvärderar tränings- och tävlingsprogram med ett <strong>godtagbart</strong> resultat. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om tränings- och tävlingsmiljöns betydelse för den idrottsliga utvecklingen och gör <strong>enkla</strong> analyser utifrån sin egen situation och sina utvecklingsbehov.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om vanligt förekommande skador inom idrotten och deras orsaker. Eleven agerar på ett säkert sätt vid omhändertagande av skada.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om attityder, värderingar och handlingar i relation till regler och etiska normer vid träning och tävling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om kroppens byggnad och funktion samt om hur kroppen påverkas av träning, kosthållning och återhämtning.</p> <p>Eleven använder med <strong>säkerhet</strong> olika träningsmetoder för att utveckla prestationsförmågan. Eleven planerar och utvärderar tränings- och tävlingsprogram med ett <strong>gott</strong> resultat. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven visar <strong>goda</strong> kunskaper om tränings- och tävlingsmiljöns betydelse för den idrottsliga utvecklingen och gör <strong>utvecklade</strong> analyser utifrån sin egen situation och sina utvecklingsbehov.</p> <p>Eleven visar <strong>goda</strong> kunskaper om vanligt förekommande skador inom idrotten och deras orsaker. Eleven agerar på ett säkert sätt vid omhändertagande av skada.</p> <p>Eleven visar <strong>goda</strong> kunskaper om attityder, värderingar och handlingar i relation till regler och etiska normer vid träning och tävling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om kroppens byggnad och funktion samt om hur kroppen påverkas av träning, kosthållning och återhämtning.</p> <p>Eleven använder med <strong>god säkerhet</strong> olika träningsmetoder för att utveckla prestationsförmågan. Eleven planerar och utvärderar tränings- och tävlingsprogram med ett <strong>mycket gott</strong> resultat. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om tränings- och tävlingsmiljöns betydelse för den idrottsliga utvecklingen och gör <strong>väl utvecklade</strong> analyser utifrån sin egen situation och sina utvecklingsbehov.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om vanligt förekommande skador inom idrotten och deras orsaker. Eleven agerar på ett säkert sätt vid omhändertagande av skada.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om attityder, värderingar och handlingar i relation till regler och etiska normer vid träning och tävling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.094Z"
+}

@@ -1,0 +1,142 @@
+{
+  "code": "TEY",
+  "name": "Tekniska system – el",
+  "englishName": "Technical systems electricity",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2015:17",
+  "skolfsAndring": "2022:300",
+  "nameHeading": "<h2>Tekniska system – el</h2>",
+  "description": "<p>Ämnet tekniska system – el behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet elinstallation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system – el får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisning i ämnet tekniska system – el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa.</p><p>Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper.</p><h4>Undervisningen i ämnet tekniska system – el ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet elinstallation.</li> <li>Kunskaper om hur anläggningar och tekniska system är uppbyggda med hänsyn till säkerhet, tillgänglighet och miljö.</li> <li>Kunskaper om författningar, föreskrifter, anvisningar och standarder inom teknikområdet elinstallation.</li> <li>Kunskaper om systemkomponenter och dimensionering av centrala storheter inom teknikområdet.</li> <li>Kunskaper om tekniska system som kommunicerar via dator- och medianät, eller genom telefoni och trådlös teknik.</li> <li>Kunskaper om installation, driftsättning och underhåll av anläggningar inom teknikområdet.</li> <li>Färdigheter i att framställa, tolka och använda ritningar och scheman.</li> <li>Färdigheter i att hantera datorbaserade tillämpningar inom området.</li> <li>Förmåga att kommunicera kring egna och andras förslag och lösningar i samband med projekteringsarbetet.</li> <li>Förståelse för betydelsen av samordning med närliggande yrkesgrupper.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Projektering el 1, 100 poäng. </li> <li>Projektering el 2, 100 poäng, som bygger på kursen projektering el 1.</li> <li>Komponenter och system el, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: TEYPRO31</h3>",
+      "code": "TEYPRO31",
+      "nameHeading": "<h2>Projektering el 1, 100 poäng</h2>",
+      "name": "Projektering el 1",
+      "englishName": "Project design electricity 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen projektering el 1 omfattar punkterna 1, 5 och 7–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.</li> <li>AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.</li> <li>Elområdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.</li> <li>Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.</li> <li>Teknisk kommunikation, till exempel offerter och avtal.</li> <li>Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.</li> <li>Energiprestanda med utgångspunkt i energieffektivitet.</li> <li>BIM – dess konsekvenser för projekteringsarbetet.</li> <li>Datorstödda tillämpningar för till exempel kalkylering och tidplanering.</li> <li>Ritningsläsning och mängdning, såväl manuellt som med datorstöd.</li> <li>Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>i samråd </strong>med handledare anläggningar och tekniska system inom elområdet. I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>översiktligt</strong> för hur ledningssystem och skydd dimensioneras.</p><p>Eleven utför med <strong>visst </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>i samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>enkel </strong>dokumentation av arbetsprocessen och resultatet.</p><p>Eleven samarbetar i sitt arbete med andra samt för <strong>enkla</strong> resonemang om andras lösningar i samband med projekteringsarbetet.</p><p>Eleven redogör <strong>översiktligt </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven redogör <strong>översiktligt</strong> för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>efter samråd </strong>med handledare anläggningar och tekniska system inom elområdet. I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>utförligt</strong> för hur ledningssystem och skydd dimensioneras.</p><p>Eleven utför med <strong>gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann </strong>dokumentation av arbetsprocessen och resultatet.</p><p>Eleven samarbetar i sitt arbete med andra samt för <strong>välgrundade</strong> resonemang om andras lösningar i samband med projekteringsarbetet.</p><p>Eleven redogör <strong>utförligt </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och <strong>efter samråd </strong>med handledare anläggningar och tekniska system inom elområdet. I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur ledningssystem och skydd dimensioneras.</p><p>Eleven utför med <strong>mycket gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med säkerhet </strong>datorbaserade tillämpningar. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig </strong>dokumentation av arbetsprocessen och resultatet.</p><p>Eleven samarbetar i sitt arbete med andra samt för <strong>välgrundade och nyanserade</strong> resonemang om andras lösningar i samband med projekteringsarbetet.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: TEYPRO32</h3>",
+      "code": "TEYPRO32",
+      "nameHeading": "<h2>Projektering el 2, 100 poäng</h2>",
+      "name": "Projektering el 2",
+      "englishName": "Project design electricity 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen projektering el 2 omfattar punkterna 1, 3, 4, 7 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Projektledarrollen i samband med projektering.</li> <li>Abonnentanläggningar för såväl utom- som inomhusbruk.</li> <li>Tillfälliga elanläggningar.</li> <li>Datorstödda tillämpningar anpassade för elområdet, till exempel belysning och ledningsdimensionering.</li> <li>Framställning av arbetsorder för montör.</li> <li>Framställning av ritningar och scheman.</li> <li>Dimensionering av ledningssystem och skydd.</li> <li>Regelverk och standarder för specifika miljöer, till exempel våtrum och industri och dess tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.</li> <li>Handböcker för utförande av installationer och dess koppling till regelverk och standarder.</li> <li>Besiktningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för projektledarens roll i såväl konsult- som installationsbranschen.</p><p>Eleven planerar, projekterar, konstruerar och dokumenterar tekniska system med datorstöd och <strong>i samråd</strong> med handledare. I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>översiktligt</strong> för hur ledningssystem och skydd dimensioneras och anpassas.</p><p>Eleven utför med <strong>visst </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar. Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>i samråd </strong>med handledare.</p><p>Eleven redogör <strong>översiktligt </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för projektledarens roll i såväl konsult- som installationsbranschen.</p><p>Eleven planerar, projekterar och konstruerar tekniska system med datorstöd och <strong>efter samråd </strong>med handledare. I planeringen tolkar eleven <strong>med viss säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>utförligt</strong> för hur ledningssystem och skydd dimensioneras och anpassas.</p><p>Eleven utför med <strong>gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med viss säkerhet </strong>datorbaserade tillämpningar. Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>efter samråd </strong>med handledare.</p><p>Eleven redogör <strong>utförligt </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för projektledarens roll i såväl konsult- som installationsbranschen.</p><p>Eleven planerar, projekterar och konstruerar tekniska system med datorstöd och <strong>efter samråd </strong>med handledare. I planeringen tolkar eleven <strong>med säkerhet</strong> instruktioner, ritningar och underlag.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur ledningssystem och skydd dimensioneras och anpassas.</p><p>Eleven utför med <strong>mycket gott </strong>handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är <strong>gott</strong> utifrån givna kvalitetskrav. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen. Dessutom använder eleven <strong>med säkerhet </strong>datorbaserade tillämpningar. Eventuella problem som uppkommer under arbetet åtgärdar eleven <strong>efter samråd </strong>med handledare.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för arbetsprocessen, resultatet och eventuella avvikelser från specifikationen. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: TEYKOM3</h3>",
+      "code": "TEYKOM3",
+      "nameHeading": "<h2>Komponenter och system el, 100 poäng</h2>",
+      "name": "Komponenter och system el",
+      "englishName": "Components and systems electricity",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen komponenter och system el omfattar punkterna 4–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Teleinstallationer för till exempel drift och övervakning, passagekontroll och datanät.</li> <li>Kommuniserande system, till exempel dator- och medienät, telefoni och trådlös kommunikation.</li> <li>Komponent och materialkunskap, även kopplat till olika installationsmiljöer.</li> <li>Montering av elmateriel inklusive förläggning och anslutning av ledningar.</li> <li>Kopplingsutrustningar, apparatskåp och enklare styrutrustning.</li> <li>Egenkontroller och idrifttagning.</li> <li>Arbete med värmekamera.</li> <li>Elscheman av olika typer med komponenters funktion och symbol.</li> <li>Ritningskonstruktion.</li> <li>Belysningsanläggningar, värmekabelsystem, smarta hem och solcellsanläggningar.</li> <li>Elmotorer med enklare tillhörande startutrustningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för olika komponentkategorier inom elbranschens olika verksamhetsområden. Dessutom redogör eleven <strong>översiktligt </strong>för dessa komponenters funktion i de system där de ingår. Eleven väljer <strong>i samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med</strong> <strong>viss säkerhet </strong>tillämpliga storheter.</p><p>Eleven redogör <strong>översiktligt</strong> för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar. Dessutom redogör eleven <strong>översiktligt </strong>för hur några system installeras, driftsätts och underhålls.</p><p>Eleven framställer med datorhjälp och <strong>i samråd </strong>med handledare ritningar och scheman. Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga verktyg.</p><p>Eleven tolkar och använder <strong>i samråd </strong>med handledare ritningar och scheman i både tryckt och digital form. Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga verktyg och metoder.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för olika komponentkategorier inom elbranschens olika verksamhetsområden. Dessutom redogör eleven <strong>utförligt</strong> för dessa komponenters funktion i de system där de ingår. Eleven väljer <strong>efter samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med</strong> <strong>viss säkerhet</strong> tillämpliga storheter.</p><p>Eleven redogör <strong>utförligt</strong> för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar. Dessutom redogör eleven <strong>utförligt</strong> för hur några system installeras, driftsätts och underhålls.</p><p>Eleven framställer med datorhjälp och <strong>efter samråd</strong> med handledare ritningar och scheman. Inför arbetet väljer eleven lämpliga verktyg.</p><p>Eleven tolkar och använder <strong>efter samråd</strong> med handledare ritningar och scheman i både tryckt och digital form. Inför arbetet väljer eleven <strong>med</strong> <strong>viss säkerhet </strong>lämpliga verktyg och metoder.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med</strong> <strong>viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för olika komponentkategorier inom elbranschens olika verksamhetsområden. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för dessa komponenters funktion i de system där de ingår. Eleven väljer <strong>efter samråd</strong> med handledare komponenter till några system från olika kategorier och dimensionerar <strong>med säkerhet </strong>tillämpliga storheter.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för hur system för dator- och medianät, telefoni och trådlös kommunikation är uppbyggda och fungerar. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur några system installeras, driftsätts och underhålls.</p><p>Eleven framställer med datorhjälp ritningar och scheman. Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga verktyg.</p><p>Eleven tolkar och använder <strong>efter samråd</strong> med handledare ritningar och scheman i både tryckt och digital form. Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga verktyg och metoder.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.182Z"
+}

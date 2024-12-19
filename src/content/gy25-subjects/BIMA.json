@@ -1,0 +1,63 @@
+{
+  "code": "BIMA",
+  "name": "BIM",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Fösta versionen",
+  "skolfsGrund": "2024:531",
+  "nameHeading": "<h2>BIM</h2>",
+  "description": "<p>Ämnet BIM (byggnadsinformationsmodellering) behandlar hur digital information skapas och hanteras inom byggsektorn vid planering, design, genomförande och drift av nybyggnation. Ämnet utgör en gemensam bas för olika aktörer inom projektering och produktion i hela samhällsbyggnadsområdet. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet BIM ska syfta till att eleverna utvecklar kunskaper om BIM-modeller, BIM-objekt och om cad-programmets möjligheter. Eleverna ska också ges möjlighet att utveckla kunskaper om BIM-dimensioner och hur dessa samordnas i olika skeden, från planering och design till produktion och drift.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att modellera och planera BIM-objekt och BIM-modeller samt arbeta med tillämpbara dimensioner. Vidare ska eleverna ges möjlighet att utveckla förmåga att använda cad-programmet i implementering av andra BIM-användares information genom import och export av data. Undervisningen ska även bidra till att eleverna utvecklar färdigheter i att hantera BIM-objekt i bibliotek.</p> <p>Genom praktiskt arbete i verklighetsnära projekt ska eleverna ges möjlighet att utveckla förståelse av hur olika aktörer kommunicerar och samverkar. Därigenom ska eleverna ges möjlighet att utveckla förmåga att kommunicera digital byggnadsinformation på ett systematiskt och metodiskt sätt med hjälp av gemensamma digitala modeller och objekt.</p> <h5><em>Undervisningen i ämnet BIM ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om BIM-dimensioner inom valt teknikområde.</li> <li>Kunskaper om BIM-modeller och BIM-objekt i projekterings- och utförandeskedet.</li> <li>Förmåga att modellera och planera BIM-objekt och BIM-modeller.</li> <li>Förmåga att arbeta med BIM-relaterade bibliotek.</li> <li>Kunskaper om planering och genomförande av BIM-samordning.</li> </ul><h3>Nivåer i ämnet BIM</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BIMA100TX</h3>",
+      "code": "BIMA100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet BIM på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>BIM:s olika dimensioner från 2D-vy till 8D-säkerhet och hälsa.</li> <li>BIM-modeller och BIM-objekt.</li> <li>3D-projektering, kollisionskontroll och samgranskning. Modellinformation och databaser i BIM-projektering.</li> <li>Cad-programvara och BIM-objekt.</li> <li>Cad-programvara och BIM-modeller.</li> <li>Hur import och export av BIM-modeller och BIM-objekt genomförs.</li> <li>Hur materialbibliotek skapas och struktureras med hjälp av cad-programvara.</li> <li>Projektering, produktion och förvaltning enligt BIM:s olika dimensioner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om BIM-dimensioner inom valt teknikområde.</p> <p>Eleven för <strong>övergripande</strong> resonemang om BIM-modeller och BIM-objekt i projekterings- och utförandeskedet.</p> <p>Eleven modellerar och planerar BIM-objekt med <strong>säkerhet</strong>.</p> <p>Eleven hanterar BIM-relaterade bibliotek på ett <strong>fungerande</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur BIM-samordning planeras och genomförs.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om BIM-dimensioner inom valt teknikområde.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om BIM-modeller och BIM-objekt i projekterings- och utförandeskedet.</p> <p>Eleven modellerar och planerar BIM-objekt med <strong>god säkerhet</strong>.</p> <p>Eleven hanterar BIM-relaterade bibliotek på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur BIM-samordning planeras och genomförs.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om BIM-dimensioner inom valt teknikområde.</p> <p>Eleven för <strong>välutvecklade och nyanserade</strong> resonemang om BIM-modeller och BIM-objekt i projekterings- och utförandeskedet.</p> <p>Eleven modellerar och planerar BIM-objekt med <strong>mycket god säkerhet</strong>.</p> <p>Eleven hanterar BIM-relaterade bibliotek på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur BIM-samordning planeras och genomförs.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.973Z"
+}

@@ -1,0 +1,510 @@
+{
+  "code": "MODE",
+  "name": "Modersmål",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:498",
+  "nameHeading": "<h2>Modersmål</h2>",
+  "description": "<p>Språket är människans främsta redskap för reflektion, kommunikation och kunskapsutveckling. Genom språket kan människan uttrycka sin personlighet och med hjälp av skönlitteratur, sakprosatexter och andra medier lär människan känna sin omvärld, sina medmänniskor och sig själv. Kunskaper i modersmålet underlättar språkutveckling och lärande inom olika områden. Modersmålet är även en värdefull tillgång vid internationella kontakter och i arbetslivet. Modersmålet ska bidra till att eleverna stärker sin flerspråkighet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i modersmål ska syfta till att eleverna utvecklar förmåga att tala, läsa, skriva och lyssna på modersmålet samt kunskaper om sitt modersmål. Undervisningen ska stimulera elevernas läsintresse och stärka deras tilltro till sin språkliga förmåga samt bidra till att eleverna utvecklar ett rikt språk. På så sätt ska undervisningen främja elevernas personliga utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera i tal och skrift i olika sammanhang och för olika syften. Genom undervisningen ska eleverna ges möjlighet att utveckla de färdigheter i muntlig och skriftlig kommunikation som behövs i arbetslivet, som samhällsmedborgare och för vidare studier.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att läsa, analysera, samtala om och diskutera skönlitteratur och sakprosa. Undervisningen ska lyfta fram skönlitteraturens estetiska värde och stimulera eleverna att använda skönlitteratur som en källa till förståelse av egna och andras erfarenheter och livsvillkor. Eleverna ska ges möjlighet att i skönlitteraturen se såväl det särskiljande som det allmänmänskliga i tid och rum.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om modersmålets uppbyggnad samt om släktskapsförhållanden mellan modersmålet och andra språk. Vidare ska undervisningen synliggöra elevernas flerspråkighet och ge eleverna möjlighet att reflektera över flerspråkigheten som en resurs för individen, i skolan och i samhället. Undervisningen ska även bidra till att eleverna utvecklar förståelse av den betydelse kunskaper i olika språk har för språkutveckling och lärande inom olika områden. Med utgångspunkt i sina språkliga erfarenheter, och genom att jämföra modersmålet med svenska och andra språk som eleverna kan, ska de också ges möjlighet att utveckla förståelse av språkets funktion för kommunikation, tänkande och lärande. Dessutom ska undervisningen ge eleverna möjlighet att reflektera över och diskutera kulturella företeelser och samhällsförhållanden såväl i de områden där modersmålet talas som i Sverige.</p> <h5><em>Undervisningen i modersmål ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att kommunicera muntligt på modersmålet med anpassning till syfte, mottagare och sammanhang.</li> <li>Förmåga att kommunicera skriftligt på modersmålet med anpassning till syfte, mottagare och sammanhang.</li> <li>Förmåga att läsa, analysera och kritiskt granska texter på modersmålet i olika genrer.</li> <li>Kunskaper om modersmålet och om språkanvändning.</li> <li>Kunskaper om kultur och samhällsförhållanden där modersmålet talas.</li> </ul><h3>Nivåer i ämnet</h3><ul><li>Nivå 1, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MODE1000X</h3>",
+      "code": "MODE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i modersmål på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Muntlig framställning med anpassning till syfte, mottagare och sammanhang samt strategier för att göra sig förstådd och få fram sitt budskap i olika typer av kommunikationssituationer.</li> <li>Skriftlig framställning med anpassning till syfte, mottagare och sammanhang samt strategier för att göra sig förstådd och få fram sitt budskap i olika typer av texter.</li> <li>Struktur och språkliga drag i olika typer av texter. Normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Citat- och referatteknik.</li> <li>Användning av digitala verktyg för textbearbetning.</li> <li>Strategier för att läsa och samtala om skönlitteratur.</li> <li>Läsning av, samtal om och analys av olika typer av skönlitterära texter på modersmålet.</li> <li>Strategier för att läsa och samtala om sakprosa.</li> <li>Läsning av och samtal om sakprosa vald med hänsyn till elevernas intressen och studieväg.</li> <li>Informationssökning och värdering av information från olika typer av texter. Sammanfattning och kritisk granskning av texter från olika typer av källor.</li> <li>Modersmålets ordförråd i relation till olika typer av texter och kommunikationssammanhang samt modersmålets uppbyggnad. Jämförelse mellan modersmålet och andra språk som eleven kan, däribland svenska. Grundläggande begrepp som behövs för att reflektera över och samtala om modersmålets uppbyggnad.</li> <li>Hur den egna flerspråkigheten kan främjas och utvecklas. Språkliga strategier för kommunikation i olika situationer och för olika syften. Reflektion över den egna strategianvändningen och språkinlärningen.</li> <li>Språklig variation, till exempel variation som har att göra med geografisk bakgrund.</li> <li>Modersmålets förekomst i världen.</li> <li>Kulturella företeelser och samhällsförhållanden i områden där modersmålet talas.</li> <li>Några estetiska uttryck i områden där modersmålet talas, till exempel inom konst och musik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MODE2000X</h3>",
+      "code": "MODE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i modersmål på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Muntlig framställning i och inför grupp med anpassning till syfte, mottagare och sammanhang, till exempel presentationer, intervjuer och argumentation.</li> <li>Skriftlig framställning med anpassning till syfte, mottagare och sammanhang med tonvikt på utredande och argumenterande texter.</li> <li>Struktur och språkliga drag i olika typer av texter, däribland utredande och argumenterande texter. Normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Citat- och referatteknik.</li> <li>Strategier för att läsa och samtala om skönlitteratur.</li> <li>Läsning av, samtal om och analys av skönlitterära texter i olika genrer på modersmålet.</li> <li>Strategier för att läsa och samtala om sakprosa.</li> <li>Läsning av och samtal om sakprosa, till exempel argumenterande texter. Språk och struktur i olika typer av texter.</li> <li>Informationssökning och värdering av information från olika typer av texter. Sammanfattning och kritisk granskning av texter från olika typer av källor.</li> <li>Modersmålets ordförråd i relation till olika typer av texter och kommunikationssammanhang, till exempel argumenterande och utredande texter. Modersmålets uppbyggnad, däribland hur ord, fraser och satser samspelar i språket. Jämförelse mellan modersmålet och andra språk som eleven kan, däribland svenska.</li> <li>Språkliga strategier för kommunikation i olika situationer och för olika syften. Reflektion över den egna strategianvändningen och språkinlärningen. Flerspråkighet som en resurs för individen i olika sammanhang.</li> <li>Språklig variation, till exempel hur språket kan uttrycka identitet.</li> <li>Modersmålets förekomst i världen och betydelsefulla förändringar i språket.</li> <li>Kulturella företeelser och samhällsförhållanden i områden där modersmålet talas samt jämförelse med företeelser och förhållanden i Sverige.</li> <li>Estetiska uttryck i områden där modersmålet talas, till exempel inom konst, musik och film.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MODE3000X</h3>",
+      "code": "MODE3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i modersmål på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Muntlig framställning i olika sammanhang, även formella, med anpassning till syfte och mottagare.</li> <li>Skriftlig framställning av olika typer av texter, däribland utredande texter, med användning av olika källor.</li> <li>Struktur och språkliga drag i utredande texter. Normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Citat- och referatteknik.</li> <li>Strategier för att läsa och samtala om skönlitteratur.</li> <li>Läsning av, samtal om och analys av äldre och samtida skönlitterära texter på modersmålet.</li> <li>Skönlitteraturens relation till förhållanden i samhället, historiskt och i nutid.</li> <li>Strategier för att läsa och samtala om sakprosa.</li> <li>Läsning av, samtal om och analys av olika typer av sakprosa, däribland texter av utredande karaktär. Språk, stil och struktur i olika typer av texter.</li> <li>Informationssökning och värdering av information från olika typer av texter. Sammanfattning och kritisk granskning av texter från olika typer av källor.</li> <li>Modersmålets ordförråd med särskild tonvikt på ord som hör till formella sammanhang. Analys av modersmålets uppbyggnad i olika typer av texter. Jämförelse mellan modersmålet och andra språk som eleven kan, däribland svenska.</li> <li>Språkliga strategier för olika situationer och olika syften. Reflektion över den egna strategianvändningen och språkinlärningen. Flerspråkighet som en resurs för individen, i skolan och i samhället.</li> <li>Språklig variation, till exempel hur språket kan uttrycka identitet och maktförhållanden.</li> <li>Modersmålets förekomst i världen samt språkets utveckling och släktskapsförhållanden mellan modersmålet och andra språk.</li> <li>Kulturella företeelser, aktuella samhällsfrågor och samhällsförhållanden i områden där modersmålet talas samt jämförelse med företeelser och förhållanden i Sverige.</li> <li>Estetiska uttryck i områden där modersmålet talas, till exempel inom konst, musik och arkitektur.</li> <li>Några betydelsefulla historiska skeenden i områden där modersmålet talas.</li> </ul>"
+      }
+    }
+  ],
+  "appendix2List": [
+    {
+      "name": "Modersmål – afar",
+      "code": "AAR"
+    },
+    {
+      "name": "Modersmål – akan",
+      "code": "AKA"
+    },
+    {
+      "name": "Modersmål – albanska",
+      "code": "SQI"
+    },
+    {
+      "name": "Modersmål – amhariska",
+      "code": "AMH"
+    },
+    {
+      "name": "Modersmål – arabiska ",
+      "code": "ARA"
+    },
+    {
+      "name": "Modersmål – arameiska",
+      "code": "SYR"
+    },
+    {
+      "name": "Modersmål – armeniska",
+      "code": "HYE"
+    },
+    {
+      "name": "Modersmål – azerbajdzjanska",
+      "code": "AZE"
+    },
+    {
+      "name": "Modersmål – bambara",
+      "code": "BAM"
+    },
+    {
+      "name": "Modersmål – baskiska",
+      "code": "EUS"
+    },
+    {
+      "name": "Modersmål – bengaliska",
+      "code": "BEN"
+    },
+    {
+      "name": "Modersmål – bosniska",
+      "code": "BOS"
+    },
+    {
+      "name": "Modersmål – bulgariska",
+      "code": "BUL"
+    },
+    {
+      "name": "Modersmål – burmesiska",
+      "code": "MYA"
+    },
+    {
+      "name": "Modersmål – cebuano",
+      "code": "CEB"
+    },
+    {
+      "name": "Modersmål – danska",
+      "code": "DAN"
+    },
+    {
+      "name": "Modersmål – darginska",
+      "code": "DAR"
+    },
+    {
+      "name": "Modersmål – dari, farsi",
+      "code": "PRS"
+    },
+    {
+      "name": "Modersmål – edo",
+      "code": "BIN"
+    },
+    {
+      "name": "Modersmål – engelska",
+      "code": "ENG"
+    },
+    {
+      "name": "Modersmål – estniska",
+      "code": "EST"
+    },
+    {
+      "name": "Modersmål – filipino",
+      "code": "FIL"
+    },
+    {
+      "name": "Modersmål – flamländska",
+      "code": "VLS"
+    },
+    {
+      "name": "Modersmål – franska",
+      "code": "FRA"
+    },
+    {
+      "name": "Modersmål – fulani",
+      "code": "FUL"
+    },
+    {
+      "name": "Modersmål – färöiska",
+      "code": "FAO"
+    },
+    {
+      "name": "Modersmål – georgiska",
+      "code": "KAT"
+    },
+    {
+      "name": "Modersmål – grekiska",
+      "code": "ELL"
+    },
+    {
+      "name": "Modersmål – gujarati",
+      "code": "GUJ"
+    },
+    {
+      "name": "Modersmål – hakha chin",
+      "code": "CNH"
+    },
+    {
+      "name": "Modersmål – hausa",
+      "code": "HAU"
+    },
+    {
+      "name": "Modersmål – hebreiska",
+      "code": "HEB"
+    },
+    {
+      "name": "Modersmål – hindi",
+      "code": "HIN"
+    },
+    {
+      "name": "Modersmål – igbo",
+      "code": "IBO"
+    },
+    {
+      "name": "Modersmål – indonesiska",
+      "code": "IND"
+    },
+    {
+      "name": "Modersmål – isländska",
+      "code": "ISL"
+    },
+    {
+      "name": "Modersmål – italienska",
+      "code": "ITA"
+    },
+    {
+      "name": "Modersmål – japanska",
+      "code": "JPN"
+    },
+    {
+      "name": "Modersmål – kannada",
+      "code": "KAN"
+    },
+    {
+      "name": "Modersmål – karen",
+      "code": "KAR"
+    },
+    {
+      "name": "Modersmål – katalanska",
+      "code": "CAT"
+    },
+    {
+      "name": "Modersmål – kazakiska",
+      "code": "KAZ"
+    },
+    {
+      "name": "Modersmål – kinesiska",
+      "code": "ZHO"
+    },
+    {
+      "name": "Modersmål – kinyarwanda",
+      "code": "KIN"
+    },
+    {
+      "name": "Modersmål – kirgisiska",
+      "code": "KIR"
+    },
+    {
+      "name": "Modersmål – kirundi",
+      "code": "RUN"
+    },
+    {
+      "name": "Modersmål – koreanska",
+      "code": "KOR"
+    },
+    {
+      "name": "Modersmål – kroatiska",
+      "code": "HRV"
+    },
+    {
+      "name": "Modersmål – kru",
+      "code": "KRO"
+    },
+    {
+      "name": "Modersmål – kurdiska",
+      "code": "KUR"
+    },
+    {
+      "name": "Modersmål – lettiska",
+      "code": "LAV"
+    },
+    {
+      "name": "Modersmål – lingala",
+      "code": "LIN"
+    },
+    {
+      "name": "Modersmål – litauiska",
+      "code": "LIT"
+    },
+    {
+      "name": "Modersmål – luganda",
+      "code": "LUG"
+    },
+    {
+      "name": "Modersmål – makedonska",
+      "code": "MKD"
+    },
+    {
+      "name": "Modersmål – malajiska",
+      "code": "MSA"
+    },
+    {
+      "name": "Modersmål – malayalam",
+      "code": "MAL"
+    },
+    {
+      "name": "Modersmål – maltesiska",
+      "code": "MLT"
+    },
+    {
+      "name": "Modersmål – mandari",
+      "code": "MQU"
+    },
+    {
+      "name": "Modersmål – mandinka",
+      "code": "MNK"
+    },
+    {
+      "name": "Modersmål – marathi",
+      "code": "MAR"
+    },
+    {
+      "name": "Modersmål – mongoliska",
+      "code": "MON"
+    },
+    {
+      "name": "Modersmål – montenegrinska",
+      "code": "CNR"
+    },
+    {
+      "name": "Modersmål – nederländska",
+      "code": "NLD"
+    },
+    {
+      "name": "Modersmål – nepalesiska",
+      "code": "NEP"
+    },
+    {
+      "name": "Modersmål – norska",
+      "code": "NOR"
+    },
+    {
+      "name": "Modersmål – nuer",
+      "code": "NUS"
+    },
+    {
+      "name": "Modersmål – oromo",
+      "code": "ORM"
+    },
+    {
+      "name": "Modersmål – pashto",
+      "code": "PUS"
+    },
+    {
+      "name": "Modersmål – persiska",
+      "code": "PES"
+    },
+    {
+      "name": "Modersmål – polska",
+      "code": "POL"
+    },
+    {
+      "name": "Modersmål – portugisiska",
+      "code": "POR"
+    },
+    {
+      "name": "Modersmål – punjabi",
+      "code": "PAN"
+    },
+    {
+      "name": "Modersmål – rumänska",
+      "code": "RON"
+    },
+    {
+      "name": "Modersmål – ryska",
+      "code": "RUS"
+    },
+    {
+      "name": "Modersmål – serbiska",
+      "code": "SRP"
+    },
+    {
+      "name": "Modersmål – singalesiska",
+      "code": "SIN"
+    },
+    {
+      "name": "Modersmål – slovakiska",
+      "code": "SLK"
+    },
+    {
+      "name": "Modersmål – slovenska",
+      "code": "SLV"
+    },
+    {
+      "name": "Modersmål – somaliska",
+      "code": "SOM"
+    },
+    {
+      "name": "Modersmål – soninke",
+      "code": "SNK"
+    },
+    {
+      "name": "Modersmål – spanska",
+      "code": "SPA"
+    },
+    {
+      "name": "Modersmål – swahili",
+      "code": "SWA"
+    },
+    {
+      "name": "Modersmål – tadzjikiska",
+      "code": "TGK"
+    },
+    {
+      "name": "Modersmål – tagalog",
+      "code": "TGL"
+    },
+    {
+      "name": "Modersmål – tamil",
+      "code": "TAM"
+    },
+    {
+      "name": "Modersmål – telegu",
+      "code": "TEL"
+    },
+    {
+      "name": "Modersmål – thai",
+      "code": "THA"
+    },
+    {
+      "name": "Modersmål – tibetanska",
+      "code": "BOD"
+    },
+    {
+      "name": "Modersmål – tigrinja",
+      "code": "TIR"
+    },
+    {
+      "name": "Modersmål – tigré",
+      "code": "TIG"
+    },
+    {
+      "name": "Modersmål – tjeckiska",
+      "code": "CES"
+    },
+    {
+      "name": "Modersmål – turkiska",
+      "code": "TUR"
+    },
+    {
+      "name": "Modersmål – turkmeniska",
+      "code": "TUK"
+    },
+    {
+      "name": "Modersmål – tyska",
+      "code": "DEU"
+    },
+    {
+      "name": "Modersmål – uiguriska",
+      "code": "UIG"
+    },
+    {
+      "name": "Modersmål – ukrainska",
+      "code": "UKR"
+    },
+    {
+      "name": "Modersmål – ungerska",
+      "code": "HUN"
+    },
+    {
+      "name": "Modersmål – urdu",
+      "code": "URD"
+    },
+    {
+      "name": "Modersmål – uzbekiska",
+      "code": "UZB"
+    },
+    {
+      "name": "Modersmål – vietnamesiska",
+      "code": "VIE"
+    },
+    {
+      "name": "Modersmål – wolof",
+      "code": "WOL"
+    },
+    {
+      "name": "Modersmål – xhosa",
+      "code": "XHO"
+    },
+    {
+      "name": "Modersmål – yoruba",
+      "code": "YOR"
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven kommunicerar muntligt på modersmålet med <strong>viss</strong> anpassning till syfte, mottagare och sammanhang.</p> <p>Eleven skriver olika typer av texter på modersmålet med <strong>viss</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>i huvudsak</strong> skriftspråkets normer för språkriktighet.</p> <p>Eleven läser och analyserar olika typer av texter på modersmålet samt visar <strong>godtagbar</strong> läsförståelse. Eleven för <strong>enkla</strong> resonemang om texternas relevans och tillförlitlighet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om modersmålet samt för <strong>enkla</strong> resonemang om språkanvändning.</p> <p>Eleven beskriver kulturella företeelser i områden där modersmålet talas. Dessutom visar eleven <strong>godtagbara</strong> kunskaper om samhällsförhållanden i språkområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven kommunicerar muntligt på modersmålet med <strong>god</strong> anpassning till syfte, mottagare och sammanhang.</p> <p>Eleven skriver olika typer av texter på modersmålet med <strong>god</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>väl</strong> skriftspråkets normer för språkriktighet.</p> <p>Eleven läser och analyserar olika typer av texter på modersmålet samt visar <strong>god</strong> läsförståelse. Eleven för <strong>utvecklade</strong> resonemang om texternas relevans och tillförlitlighet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om modersmålet samt för <strong>utvecklade</strong> resonemang om språkanvändning.</p> <p>Eleven beskriver kulturella företeelser i områden där modersmålet talas. Dessutom visar eleven <strong>goda</strong> kunskaper om samhällsförhållanden i språkområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven kommunicerar muntligt på modersmålet med <strong>mycket god</strong> anpassning till syfte, mottagare och sammanhang.</p> <p>Eleven skriver olika typer av texter på modersmålet med <strong>mycket god</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>mycket väl</strong> skriftspråkets normer för språkriktighet.</p> <p>Eleven läser och analyserar olika typer av texter på modersmålet samt visar <strong>mycket god</strong> läsförståelse. Eleven för <strong>välutvecklade</strong> resonemang om texternas relevans och tillförlitlighet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om modersmålet samt för <strong>välutvecklade</strong> resonemang om språkanvändning.</p> <p>Eleven beskriver kulturella företeelser i områden där modersmålet talas. Dessutom visar eleven <strong>mycket goda</strong> kunskaper om samhällsförhållanden i språkområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.051Z"
+}

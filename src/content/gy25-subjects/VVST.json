@@ -1,0 +1,78 @@
+{
+  "code": "VVST",
+  "name": "VVS-teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:254",
+  "nameHeading": "<h2>VVS-teknik</h2>",
+  "description": "<p>Ämnet VVS-teknik behandlar uppbyggnad av och funktion hos VVS-tekniska system i byggnader och är till sin karaktär både praktiskt och teoretiskt. Ämnet behandlar samhällets mest grundläggande funktioner när det gäller att tillgodose basala mänskliga behov genom tillgång till vatten och värme.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet VVS-teknik ska syfta till att eleverna utvecklar kunskaper om arbetsprocesser och metoder inom värme- och sanitetsteknik samt förmåga att utföra arbetsuppgifter inom VVS-teknik. Undervisningen i ämnet ska även ge eleverna möjlighet att utveckla kunskaper om värme- och sanitetstekniska installationer samt deras konstruktion och funktion. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbarhet samt kunskaper om VVS-branschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom yrkesområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att läsa och tolka ritningar, manualer och arbetsbeskrivningar. Undervisningen ska leda till att eleverna utvecklar förmåga att välja, använda och vårda material, verktyg och maskiner samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i områdesspecifika sammanfogningstekniker. Eleverna ska ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller inom yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att dels kommunicera och samverka i olika sammanhang, dels föra en yrkesmässigt värderande diskussion av utförda arbeten gällande såväl arbetsprocess som kvalitetskontrollerat resultat. Därtill ska undervisningen ge eleverna möjlighet att reflektera över hur arbetsprocessen har påverkat resultatet. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om entreprenörskap och förståelse av företagandets villkor.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att utveckla förmåga att omsätta teoretiska kunskaper i praktisk handling, liksom att utveckla teoretiska kunskaper utifrån praktiskt arbete. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina arbetsuppgifter såväl individuellt som i samarbete med andra. Undervisningen ska även behandla yrkesrollens villkor och vikten av ansvarstagande vid yrkesutövandet.</p> <h5><em>Undervisningen i ämnet VVS-teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om VVS-tekniska system, arbetsprocesser och metoder samt om lagar och andra bestämmelser som gäller för verksamheten.</li> <li>Förmåga att tolka och följa bygghandlingar och manualer samt utföra arbetsuppgifter inom VVS-teknik på ett säkert och hållbart sätt.</li> <li>Förmåga att välja material samt välja och hantera verktyg och maskiner.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet VVS-teknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VVST1000X</h3>",
+      "code": "VVST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet VVS-teknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Enheter och storheter som förekommer inom installations- och fastighetsbranscherna.</li> <li>Metoder för beräkningar av värmeenergibehov.</li> <li>Sambanden mellan värme och andra energiformer.</li> <li>Energibärande medier i energitekniska system, deras användningsområden, miljöpåverkan och driftegenskaper.</li> <li>Material i rör, komponenter och apparater samt hur materialet förhåller sig till inre och yttre påverkan av korrosion.</li> <li>Anläggningar, system, apparater och komponenter för värme, tappvatten och komfortkyla samt deras uppbyggnad och funktion.</li> <li>Grundprinciper för pumpteknik, pumpdata samt driftsätt för cirkulationspumpar, fläktar och ventiler.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen.</li> <li>Rättigheter och skyldigheter som arbetstagare.</li> <li>Branschregler.</li> <li>Effektiv energianvändning för byggnader samt hållbar utveckling inom verksamhetsområdet.</li> <li>Byggprocessen från produktframställning till förvaltning.</li> <li>Områdestypiska företagsformer samt deras betydelse för arbetets organisation och anställningsformer.</li> <li>Läsning och tillämpning av produktinformation, schabloner och lathundar.</li> <li>Läsning och tolkning av enkla systemritningar med symboler, skalor, vyer och beteckningar.</li> <li>Funktionskontroll av vanligt förekommande apparater och utrustning i VVS-tekniska system.</li> <li>Planering, organisering och genomförande av VVS-installationer.</li> <li>Användning av fogningstekniker med odemonterbara och demonterbara förband, till exempel löd- och svetsfogar, mekaniska kopplingar och flänsförband.</li> <li>Felsökning och dokumentation enligt instruktion och arbetsorder.</li> <li>Ergonomiska arbetssätt med användning av personlig skyddsutrustning och relevanta hjälpmedel.</li> <li>Hantering av områdesspecifika verktyg och maskiner utifrån valt material och förläggningssätt i förhållande till installationen.</li> <li>Kommunikation med facktermer i relation till arbetsuppgiften.</li> <li>Samverkan och kommunikation i arbetet.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VVST2000X</h3>",
+      "code": "VVST2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet VVS-teknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Termodynamik kopplat till värmeöverföring, temperatur, energiomvandling och tryck.</li> <li>Metoder för och tillämpning av energi- och effektberäkningar.</li> <li>Energibärande medier i VVS-tekniska system och deras användningsområden, miljöpåverkan och driftegenskaper.</li> <li>Vattentäkter för enskilda anläggningar samt apparater och komponenter för behandling av dricksvatten och avloppsvatten.</li> <li>Effekter av val av material i rör, komponenter och apparater med hänsyn till korrosion.</li> <li>Inre och yttre påverkan i material vid montering och drift av installationer.</li> <li>Anläggningar, system, apparater och komponenter för värme och komfortkyla samt deras uppbyggnad, funktion och säkerhet.</li> <li>Metoder för uppfordring, rening och uppvärmning av tappvatten.</li> <li>Lagar och andra bestämmelser, däribland föreskrifter och branschregler relevanta för yrkes- och arbetsområdet.</li> <li>Rättigheter och skyldigheter på arbetsplatsen som arbetstagare.</li> <li>Standarder och arbetsmiljöregler för att uppfylla krav på hälsa och säkerhet i uppbyggnaden av VVS-anläggningar.</li> <li>Förekommande entreprenadformer samt samordning och gränsdragning mellan entreprenader.</li> <li>Områdestypiska företagsformer och deras betydelse för arbetets organisation. Ramavtal och normprislistan.</li> <li>Ansvarstagande på arbetsplatsen kopplat till arbetets organisation.</li> <li>Användning av produktinformation och handböcker samt tillämpning av metoder för beräkningar av VVS-tekniska system.</li> <li>Tillverkning av enkla systemritningar med symboler, skalor, vyer och beteckningar.</li> <li>Läsning och tolkning av arbetsbeskrivningar och monteringsanvisningar.</li> <li>Planering, organisering och genomförande av VVS-installationer på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Måttsättning, avsättning och montering med hänsyn till isoleringsavstånd av vanligt förekommande apparater och utrustning i VVS-tekniska system.</li> <li>Användning av fogningstekniker i komplexa sammanhang med odemonterbara och demonterbara förband, däribland löd- och svetsfogar, mekaniska kopplingar och flänsförband.</li> <li>Montering av tappvatteninstallationer i sanitetsutrymmen, avloppsinstallationer och vanligt förekommande värmeteknisk utrustning.</li> <li>Genomförande av uppfordring, rening och uppvärmning av tappvatten.</li> <li>Reglering av temperaturer och flöden.</li> <li>Täthetsprovning, kontroll och utvärdering samt dokumentation enligt arbetsbeskrivning.</li> <li>Ergonomiskt riktiga arbetssätt med användning av personlig skyddsutrustning samt relevanta hjälpmedel och utrustning kopplat till installationens förläggning.</li> <li>Hantering av verktyg och maskiner utifrån valt material och förläggningssätt i förhållande till installationerna.</li> <li>Användning av utrustning för att reglera temperaturer och flöden.</li> <li>Kommunikation på fackspråk i tal och skrift.</li> <li>Användning av facktermer på svenska och engelska i relation till arbetsuppgiften.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos olika VVS-tekniska system. Eleven visar <strong>godtagbara</strong> kunskaper om arbetsprocesser och metoder samt om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven följer med <strong>viss säkerhet</strong> bygghandlingar och manualer samt utför med <strong>visst</strong> handlag arbetsuppgifter inom VVS-teknik. Eleven utvärderar arbetsprocessen och gör en <strong>enkel</strong> dokumentation av arbetets resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>viss säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos olika VVS-tekniska system. Eleven visar <strong>goda</strong> kunskaper om arbetsprocesser och metoder samt om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven följer med <strong>säkerhet</strong> bygghandlingar och manualer samt utför med <strong>gott</strong> handlag arbetsuppgifter inom VVS-teknik. Eleven utvärderar arbetsprocessen och gör en <strong>noggrann</strong> dokumentation av arbetets resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos olika VVS-tekniska system. Eleven visar <strong>mycket goda</strong> kunskaper om arbetsprocesser och metoder samt om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven följer med <strong>god säkerhet</strong> bygghandlingar och manualer samt utför med <strong>mycket gott</strong> handlag arbetsuppgifter inom VVS-teknik. Eleven utvärderar arbetsprocessen och gör en <strong>noggrann och utförlig</strong> dokumentation av arbetets resultat samt ger förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>god säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.102Z"
+}

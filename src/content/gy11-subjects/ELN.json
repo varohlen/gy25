@@ -1,0 +1,67 @@
+{
+  "code": "ELN",
+  "name": "Elektronik – spårfordon",
+  "englishName": "Electronics – rail vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:38",
+  "skolfsAndring": "2022:85",
+  "nameHeading": "<h2>Elektronik – spårfordon</h2>",
+  "description": "<p>Ämnet elektronik – spårfordon behandlar elektronikkomponenters och elektroniska systems funktion och användningsområden för styrning och visualisering i spårfordon.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elektronik – spårfordon ska leda till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna, inom såväl låg- som högspänningsområdet, samt hur dessa används i spårfordon. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, scheman, datablad och annan dokumentation som tillämpas inom området spårfordonselektronik.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra vanligt förekommande arbetsuppgifter, till exempel uppkoppling efter elektronikscheman och mätningar av komponenter och system. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att välja och använda den arbetsmetod, de verktyg och mätinstrument som uppgiften kräver. Eleverna ska genom undervisningen ges möjlighet att utveckla en förståelse för och kunskap om arbete med hänsyn till miljö och säkerhet samt dokumentation enligt gällande regelverk och branschstandarder.</p><p>Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet elektronik – spårfordon ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter i spårfordon.</li> <li>Kunskaper om hur elektronikkomponenter och elektroniksystem används som sammansatta funktionella enheter i spårfordon.</li> <li>Förmåga att utföra anslutningar, elektronikmontering och driftsättning.</li> <li>Färdigheter i att utföra komponent- och kretsmätningar samt att tolka mätdata för funktionskontroller och felsökning.</li> <li>Förmåga att kunna tolka system och funktion i en enkel men komplett elektronisk applikation.</li> <li>Kunskap om verktyg, mätinstrument samt arbets-, mät- och dokumentationsmetoder samt förmåga att välja och hantera dessa enligt instruktioner och säkerhetsföreskrifter.</li> <li>Förmåga att använda begrepp, symboler, scheman, datablad, instruktioner och annan dokumentation som tillämpas inom området.</li> <li>Kunskaper om lagar och andra bestämmelser samt standarder och begrepp inom området.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Elektronik – spårfordon, 100 poäng, som bygger på kursen ellära – spårfordon 1 och kursen ellära – spårfordon 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ELNELE0</h3>",
+      "code": "ELNELE0",
+      "nameHeading": "<h2>Elektronik – spårfordon, 100 poäng</h2>",
+      "name": "Elektronik – spårfordon",
+      "englishName": "Electronics – rail vehicles",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen elektronik – spårfordon omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Grundläggande digitalteknik.</li> <li>Elektronikkomponenters funktioner och egenskaper, till exempel kondensatorer, dioder och transistorer.</li> <li>Elektronikkomponenters användningsområden, till exempel kondensatorer och spolar som filter vid förekommande transienter.</li> <li>Elektroniska system och kretsar inom låg- och högspänning och deras användningsområden, till exempel A/D- och D/A-omvandlare.</li> <li>Elektroniksystems funktionsområden, till exempel likriktarbryggor, transistorn som switch, frihjulsdioder som frånkopplingsskydd vid kommutering.</li> <li>Spänningsstabilisering.</li> <li>Enkel komplett elektronisk applikation.</li> <li>Verktyg för anslutning och elektronikmontering.</li> <li>Mätinstrument och mätmetoder samt tolkning av mätdata.</li> <li>Lagar och andra bestämmelser som gäller för arbetsområdet.</li> <li>Begrepp, termer, arbetsunderlag och dokumentationsmetoder inom arbetsområdet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon. Eleven tolkar <strong>med</strong> <strong>viss säkerhet</strong> mätdata i samband med funktionskontroll och felsökning. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare. Eleven utför <strong>med</strong> <strong>viss säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med</strong> <strong>viss säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation. Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation samt utvärderar sin egen arbetsinsats med <strong>enkla </strong>omdömen. </p><p>Eleven redogör också <strong>översiktligt</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet. Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>i samråd</strong> med handledare, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller givna kvalitetskrav. Under arbetet väljer eleven <strong>med</strong> <strong>viss säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>visst </strong>handlag och på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med viss säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner. Dessutom redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>tillfredsställande </strong>sätt i sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med</strong> <strong>viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon. Eleven tolkar <strong>med</strong> <strong>säkerhet</strong> mätdata i samband med funktionskontroll och felsökning. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare. Eleven utför <strong>med</strong> <strong>säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med</strong> <strong>säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation. Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete samt utvärderar sin egen arbetsinsats med <strong>välgrundade </strong>omdömen.</p><p>Eleven redogör också <strong>utförligt</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet. Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>efter samråd</strong> med handledare, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller givna kvalitetskrav. Under arbetet väljer eleven <strong>med</strong> <strong>säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>gott</strong> handlag och på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med</strong> <strong>säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner. Dessutom redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>tillfredsställande </strong>sätt i sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med</strong> <strong>viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter och hur dessa används inom spårfordon. Eleven tolkar <strong>med säkerhet</strong> mätdata i samband med funktionskontroll och felsökning. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare. Eleven utför <strong>med</strong> <strong>säkerhet</strong> komponent- och kretsmätningar samt tolkar <strong>med</strong> <strong>säkerhet</strong> system och funktion i en enkel men komplett elektronisk applikation. Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete samt utvärderar sin egen arbetsinsats med <strong>välgrundade och nyanserade </strong>omdömen.</p><p>Eleven redogör också <strong>utförligt och nyanserat</strong> för mätinstrument, mätmetoder, verktyg och dokumentationsmetoder som används inom arbetsområdet. Eleven planerar, organiserar och utför mätningar, anslutningar och elektronikmontering och driftsättning <strong>efter samråd</strong> med handledare, med ett resultat som på ett <strong>gott</strong> sätt uppfyller givna kvalitetskrav. Under arbetet väljer eleven <strong>med</strong> <strong>säkerhet</strong> mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med <strong>mycket gott </strong>handlag och på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med</strong> <strong>säkerhet</strong> symboler, scheman, datablad, standarder, begrepp och instruktioner. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för lagar och andra bestämmelser och tillämpar dessa på ett <strong>gott</strong> sätt i sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.981Z"
+}

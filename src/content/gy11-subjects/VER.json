@@ -1,0 +1,67 @@
+{
+  "code": "VER",
+  "name": "El- och verkstadsteknik",
+  "englishName": "Electricity and engineering",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:136",
+  "skolfsAndring": "2022:82",
+  "nameHeading": "<h2>El- och verkstadsteknik</h2>",
+  "description": "<p>Ämnet el- och verkstadsteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt förekommande verkstadsarbete ombord på fartyg. </p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet el- och verkstadsteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete och mekaniskt arbete ombord på fartyg. Den ska bidra till att eleverna utvecklar färdigheter i att hantera material, verktyg och utrustning i en verkstad. Eleverna ska ges möjlighet att utveckla förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten ombord på fartyg samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Genom praktiska övningar och ett undersökande arbetssätt tillsammans med teoretiska förklaringar ska eleverna ges möjlighet att utveckla kunskaper i ämnet. </p><h4>Undervisningen i ämnet el- och verkstadsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att planera och utföra elarbete, verkstadsarbete och mekaniskt arbete ombord på fartyg.</li> <li>Förmåga att välja och använda olika maskiner, verktyg, instrument och material i arbetet.</li> <li>Förmåga att använda ritningar, scheman, standarder samt instruktioner och manualer i arbetet.</li> <li>Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet.</li> <li>Förmåga att använda termer och begrepp som används inom området.</li> </ol><h3>Kurser i ämnet</h3><ul><li>El- och verkstadsteknik, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: VERVER0</h3>",
+      "code": "VERVER0",
+      "nameHeading": "<h2>El- och verkstadsteknik, 100 poäng</h2>",
+      "name": "El- och verkstadsteknik",
+      "englishName": "Electricity and engineering",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen el- och verkstadsteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></i></p><ul> <li>Elarbete, till exempel losskoppling och anslutning av apparater, samt funktionsprovning.</li> <li>Verkstadsarbete, till exempel sammanfogning och skärande bearbetning.</li> <li>Pressverktyg för olika kontakttyper som används inom yrkesområdet.</li> <li>Handverktyg som används i verkstadsarbete.</li> <li>Enklare ritningar och måttsättning.</li> <li>Elsäkerhet för personer och egendom. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare enklare elarbete och verkstadsarbete. I arbetet väljer eleven samt använder med <strong>visst </strong>handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta situationer. Eleven genomför <strong>med viss säkerhet</strong> funktionsprovning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven gör inför arbetet en <strong>enkel </strong>planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.</p><p>Eleven utför <strong>i samråd </strong>med handledare arbetet på ett säkert och miljömedvetet sätt. Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför<strong> efter samråd </strong>med handledare enklare elarbete och verkstadsarbete. I arbetet väljer eleven samt använder med <strong>gott </strong>handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta<strong> och nya </strong>situationer. Eleven genomför <strong>med viss säkerhet </strong>funktionsprovning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven gör inför arbetet en <strong>enkel </strong>planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.</p><p>Eleven utför <strong>efter samråd</strong> med handledare arbetet på ett säkert och miljömedvetet sätt. Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare enklare elarbete och verkstadsarbete. I arbetet väljer eleven samt använder med <strong>mycket gott </strong>handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta <strong>och nya </strong>situationer. Eleven genomför <strong>med säkerhet</strong> funktionsprovning. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven gör inför arbetet en <strong>genomarbetad </strong>planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.</p><p>Eleven utför <strong>efter samråd </strong>med handledare arbetet på ett säkert och miljömedvetet sätt. Eleven använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.198Z"
+}

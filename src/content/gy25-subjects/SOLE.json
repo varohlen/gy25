@@ -1,0 +1,78 @@
+{
+  "code": "SOLE",
+  "name": "Solcellsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:119",
+  "nameHeading": "<h2>Solcellsteknik</h2>",
+  "description": "<p>Ämnet solcellsteknik behandlar installation, kontroll och underhåll av solcellsanläggningar. Ämnet behandlar även hur lagring och distribution av producerad solenergi kan bidra till hållbar utveckling. Dessutom behandlas elsäkerhets- och brandskyddfrågor eftersom misstag i arbetet kan orsaka skador på person och egendom.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet solcellsteknik ska syfta till att eleverna utvecklar förmåga att arbeta med solcellsanläggningar på ett säkert och hållbart sätt. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om system och komponenter i solcellsanläggningar samt deras funktion. Eleverna ska också ges möjlighet att utveckla förmåga att installera och kontrollera solcellstekniska anläggningar. Vidare ska undervisningen leda till att eleverna utvecklar förståelse för den tekniska utvecklingen inom solcellsteknik som en del av ett hållbart samhällsbygge. Undervisningen ska även stimulera elevernas nyfikenhet, problemlösningsförmåga och intresse för teknisk utveckling inom området.</p> <p>Genom praktiskt arbete i kombination med teori ska eleverna ges möjlighet att utveckla förmåga att arbeta ergonomiskt, säkert, hållbart och estetiskt i enlighet med lagar och andra bestämmelser inom området. Eleverna ska även ges möjlighet att utveckla förmåga att dokumentera sitt arbete samt att tolka och använda scheman, ritningar och manualer. Undervisningen ska bidra till att eleverna utvecklar ett fackspråk samt förmåga att kommunicera med leverantörer och kunder på ett situationsanpassat sätt.</p> <h5><em>Undervisningen i ämnet solcellsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om solcellsanläggningars uppbyggnad och funktion.</li> <li>Förmåga att installera och kontrollera solcellstekniska anläggningar.</li> <li>Kunskaper om lagar och andra bestämmelser som gäller solcellsområdet.</li> <li>Förmåga att tolka och använda ritningar och manualer samt att dokumentera arbetet.</li> <li>Förmåga att kommunicera med leverantörer och kunder.</li> <li>Kunskaper om samband mellan solcellsteknik och hållbar utveckling.</li> </ul><h3>Nivåer i ämnet solcellsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet elteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SOLE1000X</h3>",
+      "code": "SOLE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet solcellsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Växelströmssystem och likströmssystem i solcellsanläggningar.</li> <li>Optimerare och elektromagnetisk kompatibilitet.</li> <li>Planering, installation, driftsättning, underhåll och kontroll av enklare solcellsanläggningar.</li> <li>Inkoppling av växelriktare samt kabelförläggning och kontaktering.</li> <li>Inkoppling och idrifttagning av enklare solcellsanläggning för enskild byggnad.</li> <li>Lagar och andra bestämmelser om elsäkerhet, brandskydd och elektromagnetisk kompatibilitet samt säkerhet vid arbete på tak.</li> <li>Tolkning av enklare ritningar och manualer för solcellsanläggningar samt dokumentation av eget arbete.</li> <li>Kommunikation med leverantörer och kunder när det gäller hållbara tekniklösningar och teknikval.</li> <li>Sortering av avfall och återvinning av olika material.</li> <li>Samband mellan solcellsteknik och hållbar utveckling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SOLE2000X</h3>",
+      "code": "SOLE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet solcellsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Laddteknik, batterilagring och avbrottsfri batterireserv, UPS (uninterruptible power supply).</li> <li>Planering, installation, driftsättning, underhåll och kontroll av takbaserade och markbaserade solenergianläggningar av olika storlek.</li> <li>Inkoppling, idrifttagning och överlämning av solcellsanläggningar.</li> <li>Dimensionering av enklare anläggningar, utifrån tillverkares specifikationer och manualer samt utifrån myndighetskrav och standarder.</li> <li>Lagar och andra bestämmelser om elsäkerhet, brandskydd och elektromagnetisk kompatibilitet samt säkerhet vid arbete på tak.</li> <li>Läsning och tolkning av ritningar och manualer samt dokumentation av eget arbete med solcellsanläggningar.</li> <li>Kommunikation med leverantörer och rådgivning till kunder när det gäller hållbara tekniklösningar och teknikval.</li> <li>Teknikutveckling och elinstallationsarbete som en del av en större helhet för ett hållbart samhällsbygge.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur solcellsanläggningar är uppbyggda och fungerar.</p> <p>Eleven installerar och kontrollerar soltekniska anläggningar med <strong>godtagbart</strong> resultat.</p> <p>Eleven utför installationer i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder ritningar och manualer med <strong>viss säkerhet</strong> samt gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven kommunicerar med <strong>viss säkerhet</strong> med leverantörer och kunder.</p> <p>Eleven för <strong>enkla</strong> resonemang om samband mellan solcellsteknik och hållbar utveckling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur solcellsanläggningar är uppbyggda och fungerar.</p> <p>Eleven installerar och kontrollerar soltekniska anläggningar med <strong>gott</strong> resultat.</p> <p>Eleven utför installationer i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder ritningar och manualer med <strong>säkerhet</strong> samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven kommunicerar med <strong>säkerhet</strong> med leverantörer och kunder.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om samband mellan solcellsteknik och hållbar utveckling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur solcellsanläggningar är uppbyggda och fungerar.</p> <p>Eleven installerar och kontrollerar soltekniska anläggningar med <strong>mycket gott</strong> resultat.</p> <p>Eleven utför installationer i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder ritningar och manualer med <strong>god säkerhet</strong> samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven kommunicerar med <strong>god säkerhet</strong> med leverantörer och kunder.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om samband mellan solcellsteknik och hållbar utveckling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.082Z"
+}

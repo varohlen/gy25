@@ -1,0 +1,78 @@
+{
+  "code": "MILJ",
+  "name": "Miljö- och energikunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:59",
+  "nameHeading": "<h2>Miljö- och energikunskap</h2>",
+  "description": "<p>Ämnet miljö- och energikunskap belyser begreppet hållbar utveckling ur ekologisk synvinkel och behandlar samspelet mellan människan och hennes omgivning. Ämnet behandlar också teknisk utveckling för att möta miljöutmaningar, hushållning av naturresurser och ekosystemens bärkraft.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet miljö- och energikunskap ska syfta till att eleverna utvecklar kunskaper om miljö och varför miljöproblem uppstår. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika energikällor och effekter av energianvändning. Eleverna ska ges möjlighet att utveckla kunskaper om hur miljö- och energiproblem kan lösas med hjälp av teknik samt förmåga att kritiskt och kreativt analysera dessa lösningar. De ska också ges möjlighet att utveckla förmåga att använda begrepp, teorier och modeller inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förståelse av de förutsättningar, drivkrafter och värden som ligger till grund för arbete med miljömässigt hållbar utveckling. Den ska även leda till att eleverna utvecklar kunskaper om olika handlingsalternativ som finns för en hållbar utveckling och möjliggöra reflektion över sambanden mellan samhällsstrukturer, livsstilsfrågor och hållbar utveckling. På så sätt ska eleverna ges möjlighet att utveckla förståelse av vilka konsekvenser olika handlingsalternativ får samt vilja att agera ansvarsfullt och bidra till att forma en hållbar framtid. Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området och förmåga att delta i demokratiska processer gällande miljö- och energifrågor. Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att på olika sätt föreslå och presentera lösningar inom miljö- och energiområdet.</p> <p>I undervisningen ska eleverna ges möjlighet till ett undersökande och praktiskt tillämpat arbetssätt. Undervisningen ska ge eleverna möjlighet att söka och värdera information från olika källor. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom miljö- och energiområdet.</p> <h5><em>Undervisningen i ämnet miljö- och energikunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda begrepp, teorier och modeller inom området miljö och energi.</li> <li>Kunskaper om miljö, energianvändning och hållbar utveckling.</li> <li>Förmåga att analysera problem inom miljö- och energiområdet och föreslå lösningar utifrån flera aspekter.</li> <li>Förmåga att genomföra och presentera egna undersökningar och förslag.</li> </ul><h3>Nivåer i ämnet miljö- och energikunskap</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MILJ1000X</h3>",
+      "code": "MILJ1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet miljö- och energikunskap på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Begrepp och teori</em></p> <ul> <li>Centrala begrepp, teorier och modeller inom området miljö och energi.</li> <li>Ekosystemens struktur, dynamik och bärkraft samt betydelsen av biologisk mångfald.</li> <li>Förnybara och icke förnybara energikällor samt deras ursprung och användbarhet.</li> <li>Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.</li> </ul> <p><em>Analys, problemlösning och kommunikation</em></p> <ul> <li>Praktiska fallstudier.</li> <li>Miljörelaterade verktyg för styrning och bedömning.</li> <li>Hållbar energi- och resursanvändning inom olika områden, till exempel bostäder, infrastruktur och industriell produktion.</li> <li>Miljöhot och utmaningar där konsekvenser av behov och livsstil speglas.</li> <li>Intressekonflikter mellan människa, teknik och hållbar utveckling.</li> <li>Enklare miljökonsekvensundersökningar.</li> <li>Dokumentation och presentation av undersökningar och förslag.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MILJ2000X</h3>",
+      "code": "MILJ2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet miljö- och energikunskap på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Begrepp och teori</em></p> <ul> <li>Energitekniska begrepp, teorier och modeller, till exempel energiprincipen, energikvalitet och verkningsgrad.</li> <li>Energitekniska beräkningar och resonemang.</li> <li>Naturliga och av människan skapade kretslopp samt kretsloppssamhällets organisation.</li> <li>Naturliga ekologiska system som inspiration för teknikutveckling.</li> </ul> <p><em>Analys, problemlösning och kommunikation</em></p> <ul> <li>Produktion av hållbara bränslen samt energiomvandlingar, däribland distributions-, renings- och avfallslösningar.</li> <li>Energi- och resurseffektivisering, till exempel med hjälp av mätteknik, materialval och andra tekniska lösningar.</li> <li>Tillämpning av miljörelaterade verktyg, till exempel livscykelanalys, miljöcertifiering, miljömärkning och gröna certifikat.</li> <li>Hur en konsekvensanalys av olika handlingsalternativ utförs med utgångspunkt i olika aspekter, till exempel säkerhet, intressekonflikter, genus och etiska resonemang.</li> <li>Planering, genomförande och presentation av projekt inom miljö- och energi.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder med <strong>viss säkerhet</strong> relevanta begrepp, teorier och modeller.</p> <p>Eleven för <strong>enkla</strong> resonemang om miljö, energianvändning och hållbar utveckling.</p> <p>Eleven gör <strong>enkla</strong> analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter.</p> <p>Eleven genomför och presenterar med <strong>viss säkerhet</strong> undersökningar och förslag.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder med <strong>säkerhet</strong> relevanta begrepp, teorier och modeller.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om miljö, energianvändning och hållbar utveckling.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter.</p> <p>Eleven genomför och presenterar med <strong>säkerhet</strong> undersökningar och förslag.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder med <strong>god säkerhet</strong> relevanta begrepp, teorier och modeller.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om miljö, energianvändning och hållbar utveckling.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av miljö- och energiproblem och föreslår lösningar med hänsyn till flera aspekter.</p> <p>Eleven genomför och presenterar med <strong>god säkerhet</strong> undersökningar och förslag.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.043Z"
+}

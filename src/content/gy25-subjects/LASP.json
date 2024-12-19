@@ -1,0 +1,64 @@
+{
+  "code": "LASP",
+  "name": "Lastbilspåbyggnad – skåp",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:38",
+  "nameHeading": "<h2>Lastbilspåbyggnad – skåp</h2>",
+  "description": "<p>Ämnet lastbilspåbyggnad – skåp behandlar felsökning och reparationer av chassiburna påbyggnadsskåp på lastbilar med tillhörande system och utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet lastbilspåbyggnad – skåp ska syfta till att eleverna utvecklar kunskaper om lastbilars påbyggnadsskåp och tillhörande utrustning samt deras användningsområden. Eleverna ska ges möjlighet att utveckla kunskaper om olika system och komponenter i påbyggnadsskåp och tillhörande utrustning. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att genomföra funktionskontroll, felsökning och enklare reparationer av system, komponenter och tillhörande utrustning. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda teknisk information och övrig utrustning i samband med felsökning och enklare reparationer av system i lastbilars påbyggnadsskåp och tillhörande utrustning.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom reparationer av lastbilars påbyggnadsskåp som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom.</p> <p>Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet.</p> <h5><em>Undervisningen i ämnet lastbilspåbyggnad – skåp ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av påbyggnadsskåp för lastbilar samt deras tillhörande utrustningar, system och komponenter.</li> <li>Kunskaper om lastbilstillverkares och påbyggnadstillverkares anvisningar.</li> <li>Förmåga att genomföra funktionskontroll, felsökning och enklare reparationer av lastbilars påbyggnadsskåp och deras tillhörande utrustning.</li> <li>Förmåga att använda specialverktyg samt mät- och diagnosutrustning i samband med felsökning och enklare reparationer.</li> <li>Förmåga att använda teknisk information och digitala informationssystem i samband med felsökning och enklare reparationer.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet lastbilspåbyggnad – skåp</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet lastbilar – system- och diagnosteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LASP1000X</h3>",
+      "code": "LASP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet lastbilspåbyggnad – skåp på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika påbyggnadsskåp för lastbilar, deras uppbyggnad och konstruktion, system och komponenter samt tillhörande utrustningar och användningsområden, till exempel för värme- eller kyltransporter.</li> <li>Lastbilstillverkares och påbyggnadstillverkares anvisningar och scheman, till exempel för el, pneumatik och hydraulik.</li> <li>Funktionskontroll, felsökning, diagnos och enklare reparationer av system och komponenter i påbyggnadsskåp och tillhörande utrustning enligt tillverkarens anvisningar och krav.</li> <li>Användning av specialverktyg och mät- och diagnosutrustning vid felsökning och enklare reparationer av system och komponenter i påbyggnadsskåp.</li> <li>Användning av teknisk information och digitala informationssystem i samband med felsökning med mät- och diagnosinstrument samt vid enklare reparationer av system och komponenter.</li> <li>Säkerhetsmedvetet och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning i samband med felsökning, diagnos och reparationer av fordon, däribland av elektrifierade och flerbränslefordon.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av påbyggnadsskåp för lastbilar samt deras tillhörande utrustningar, system och komponenter.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om påbyggnadsanvisningar för lastbilar och påbyggnadsskåp.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> funktionskontroll, felsökning och enklare reparationer av lastbilars påbyggnadsskåp och tillhörande utrustning enligt tillverkarens anvisningar och krav.</p> <p>Eleven använder med <strong>viss säkerhet</strong> mät- och diagnosutrustning vid system- och komponentmätningar samt använder specialverktyg med <strong>visst</strong> handlag i samband med felsökning och enklare reparationer.</p> <p>Eleven använder med <strong>viss säkerhet</strong> teknisk information och digitala informationssystem i samband med felsökning och enklare reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av påbyggnadsskåp för lastbilar samt deras tillhörande utrustningar, system och komponenter.</p> <p>Eleven visar <strong>goda</strong> kunskaper om påbyggnadsanvisningar för lastbilar och påbyggnadsskåp.</p> <p>Eleven genomför med <strong>säkerhet</strong> funktionskontroll, felsökning och enklare reparationer av lastbilars påbyggnadsskåp och tillhörande utrustning enligt tillverkarens anvisningar och krav.</p> <p>Eleven använder med <strong>säkerhet</strong> mät- och diagnosutrustning vid system- och komponentmätningar samt använder specialverktyg med <strong>gott</strong> handlag i samband med felsökning och enklare reparationer.</p> <p>Eleven använder med <strong>säkerhet</strong> teknisk information och digitala informationssystem i samband med felsökning och enklare reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av påbyggnadsskåp för lastbilar samt deras tillhörande utrustningar, system och komponenter.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om påbyggnadsanvisningar för lastbilar och påbyggnadsskåp.</p> <p>Eleven genomför med <strong>god säkerhet</strong> funktionskontroll, felsökning och enklare reparationer av lastbilars påbyggnadsskåp och tillhörande utrustning enligt tillverkarens anvisningar och krav.</p> <p>Eleven använder med <strong>god säkerhet</strong> mät- och diagnosutrustning vid system- och komponentmätningar samt använder specialverktyg med <strong>mycket gott</strong> handlag i samband med felsökning och enklare reparationer.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknisk information och digitala informationssystem i samband med felsökning och enklare reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.034Z"
+}

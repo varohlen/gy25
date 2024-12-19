@@ -1,0 +1,78 @@
+{
+  "code": "NATE",
+  "name": "Nätverksadministration",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:82",
+  "nameHeading": "<h2>Nätverksadministration</h2>",
+  "description": "<p>Den stora mängden teknisk utrustning som används i det moderna samhället förutsätter välfungerande nätverkssystem och kommunikation. Ämnet nätverksadministration handlar om serverhantering och de vanligast förekommande arbetsmomenten kopplat till detta. En viktig del av ämnet är säkerhetsfrågor och skydd av användares integritet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet nätverksadministration ska syfta till att eleverna utvecklar förmåga att administrera fysiska och virtuella servermiljöer. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra mjukvaruinstallationer samt att konfigurera, optimera och analysera servermiljöer. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att skapa systemlösningar samt att felsöka och åtgärda fel i servermiljöer och konfigurationer.</p> <p>I arbetet med att administrera nätverk är säkerhetsfrågor av stor vikt. Undervisningen ska därför leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att dokumentera samt att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att utveckla deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik.</p> <p>I undervisningen ska praktiska och laborativa moment varvas med teoretiska moment. Undervisningen ska även leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Därigenom ska undervisningen bidra till att eleverna utvecklar såväl ett fackspråk som förmåga att samverka med andra på ett etiskt medvetet sätt.</p> <h5><em>Undervisningen i ämnet nätverksadministration ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och dokumentera arbetet samt att tolka och använda instruktioner, manualer och andra relevanta dokument.</li> <li>Förmåga att utföra mjukvaruinstallationer samt att konfigurera, analysera och administrera servermiljöer.</li> <li>Förmåga att bygga upp och implementera olika typer av systemlösningar.</li> <li>Förmåga att felsöka samt identifiera och åtgärda fel i servermiljöer och konfigurationer.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Förmåga att ge råd och stöd till användare angående olika administrativa system.</li> </ul><h3>Nivåer i ämnet nätverksadministration</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATE1000X</h3>",
+      "code": "NATE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverksadministration på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och dokumentation av arbetet.</li> <li>Tolkning och användning av instruktioner, manualer och andra dokument på både svenska och engelska.</li> <li>Installation av serveroperativsystem samt systemens tjänster.</li> <li>Arbete med enklare script.</li> <li>Olika filsystem och hur information lagras på olika sätt i olika operativsystem.</li> <li>Installation och konfigurering av utskriftssystem samt hantering av tillgång till en central tjänst för utskriftshantering.</li> <li>Administration av enklare katalogtjänster.</li> <li>Olika molntjänster för servermiljöer.</li> <li>Enklare virtualisering.</li> <li>Säkerhetskopiering och skydd av information vid haveri av en servers filsystem. Tillämpning av de principer som finns för säkerhetskopiering och hantering av den utrustning som krävs.</li> <li>Olika typer av licenser samt lagar om upphovsrätt.</li> <li>Inloggning samt säkerhetsregler för användare.</li> <li>Kontohantering för användare.</li> <li>Rättighets- och säkerhetssystem, servrars tillgång till en central lagringsplats för information samt möjlighet att dela data.</li> <li>Nätverksoperativsystemens uppbyggnad och funktion samt mjukvarans struktur i servrar och dess sammanställning. Principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.</li> <li>Enklare rådgivning och stöd till användare inom administrativa system.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATE2000X</h3>",
+      "code": "NATE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverksadministration på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och dokumentation av arbetet.</li> <li>Informationssökning samt tolkning och användning av instruktioner, manualer och andra relevanta dokument på både svenska och engelska.</li> <li>Applikationsprogram samt installation, administration och styrning av rättigheter för nätverksbaserad installation av olika typer av applikationer.</li> <li>Uppgradering av klienter, servrar och nätverksutrustning.</li> <li>Hantering av texteditorer.</li> <li>Script.</li> <li>Konfigurering av flerdisksystem samt uppsättning av spegling av hårddiskar eller motsvarande teknologier.</li> <li>Partitionering och replikering av katalogtjänster samt säkerställande av säkerhet mellan servrar och åtkomst mellan dessa.</li> <li>Klient- och serverhantering samt inloggning av klienter mot flera servrar genom en central kontohantering.</li> <li>Filservrar och webbservrar.</li> <li>Installation och konfigurering av katalogtjänster på virtuell server i en molntjänst.</li> <li>Analys, optimering och felsökning av en servers prestanda.</li> <li>Driftsäkerhet, övervakning och strategier för att undvika driftstopp samt underhåll av servrar.</li> <li>Policy för säkerhetskopiering.</li> <li>Licenshantering samt lagar om upphovsrätt.</li> <li>Design av och säkerhet i katalogtjänst och filsystem.</li> <li>Skydd av användardata samt säkerhetslagring av användarnas information lokalt och på en server.</li> <li>Användarmiljöer samt anpassning av serverlösningar till olika användarmiljöer och verksamhetsbehov.</li> <li>Rådgivning och stöd till användare inom administrativa system.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och gör en <strong>enkel</strong> dokumentation av sitt arbete. Eleven använder med <strong>viss säkerhet</strong> instruktioner, manualer och andra relevanta dokument.</p> <p>Eleven utför med <strong>viss säkerhet</strong> mjukvaruinstallationer. Eleven konfigurerar, analyserar och administrerar servermiljöer med <strong>viss säkerhet</strong>.</p> <p>Eleven bygger upp och implementerar <strong>enkla</strong> systemlösningar.</p> <p>Eleven felsöker och åtgärdar med <strong>viss säkerhet</strong> fel i servermiljöer och konfigurationer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>viss säkerhet</strong> råd och stöd till användare av administrativa system.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och gör en <strong>noggrann</strong> dokumentation av sitt arbete. Eleven använder med <strong>säkerhet</strong> instruktioner, manualer och andra relevanta dokument.</p> <p>Eleven utför med <strong>säkerhet</strong> mjukvaruinstallationer. Eleven konfigurerar, analyserar och administrerar servermiljöer med <strong>säkerhet</strong>.</p> <p>Eleven bygger upp och implementerar <strong>relativt komplexa</strong> systemlösningar.</p> <p>Eleven felsöker och åtgärdar med <strong>säkerhet</strong> fel i servermiljöer och konfigurationer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>säkerhet</strong> råd och stöd till användare av administrativa system.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Eleven använder med <strong>god säkerhet</strong> instruktioner, manualer och andra relevanta dokument.</p> <p>Eleven utför med <strong>god säkerhet</strong> mjukvaruinstallationer. Eleven konfigurerar, analyserar och administrerar servermiljöer med <strong>god säkerhet</strong>.</p> <p>Eleven bygger upp och implementerar <strong>komplexa</strong> systemlösningar.</p> <p>Eleven felsöker och åtgärdar med <strong>god säkerhet</strong> fel i servermiljöer och konfigurationer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>god säkerhet</strong> råd och stöd till användare av administrativa system.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.055Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "BIOE",
+  "name": "Bioteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:179",
+  "nameHeading": "<h2>Bioteknik</h2>",
+  "description": "<p>Bioteknik är ett tvärvetenskapligt ämne som har sin bas i biologi, kemi och teknik. Det är till sin karaktär både undersökande och analytiskt. Biotekniken beskriver hur celler eller celldelar kan användas i tekniska tillämpningar. Kunskaper i bioteknik kan bidra till såväl biomedicinska framsteg som gröna innovationer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bioteknik ska syfta till att eleverna utvecklar kunskaper om bioteknikens begrepp, modeller och arbetsmetoder samt om biotekniska tillämpningar. Undervisningen ska också bidra till att eleverna utvecklar ett naturvetenskapligt perspektiv på omvärlden samt förståelse av vad som kan förklaras med naturvetenskap. Eleverna ska även ges möjlighet att lära sig att skilja mellan vetenskapliga och icke-vetenskapliga påståenden. Undervisningen ska stimulera elevernas nyfikenhet, kreativitet och handlingsberedskap att påverka sitt liv och samhället.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att analysera biotekniska frågeställningar och processer. Eleverna ska ges möjlighet att granska information och reflektera över frågor som rör bioteknik samt utveckla förståelse av bioteknikens möjligheter och begränsningar. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra välgrundade val och diskutera samhälleliga och etiska frågor utifrån en naturvetenskaplig utgångspunkt. Undervisningen ska även ge eleverna möjlighet att kommunicera kunskaper, slutsatser och ställningstaganden på olika sätt med hjälp av bioteknikens begrepp och uttrycksformer.</p> <p>Undervisningen ska behandla forskning inom områden som medicin, livsmedelshantering och jordbruk och därigenom ge eleverna möjlighet att utveckla förståelse av hur kunskaper i bioteknik kan användas i vetenskapligt arbete. Eleverna ska få reflektera över bioteknikens betydelse inom olika yrkesområden, för människors levnadsvillkor och för samhället i stort.</p> <p>Genom praktiskt arbete med biotekniska och mikrobiologiska metoder ska eleverna ges möjlighet att fördjupa sin förmåga att genomföra systematiska naturvetenskapliga undersökningar utifrån olika frågeställningar. På så sätt ska eleverna ges möjlighet att utveckla sin förståelse av naturvetenskapens karaktär och av hur naturvetenskaplig kunskap växer fram. I det praktiska arbetet ska eleverna få använda naturvetenskapliga metoder och olika typer av utrustning samt utveckla sin förmåga att arbeta på ett säkert sätt.</p> <h5><em>Undervisningen i ämnet bioteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om bioteknikens begrepp, modeller och arbetsmetoder.</li> <li>Förmåga att använda kunskaper i bioteknik för att analysera och tolka processer, granska information och kommunicera med ett naturvetenskapligt språk.</li> <li>Förmåga att genomföra systematiska undersökningar med biotekniska och mikrobiologiska arbetsmetoder.</li> <li>Kunskaper om bioteknikens betydelse för utveckling inom vetenskap och samhälle.</li> </ul><h3>Nivåer i ämnet bioteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet biologi eller nivå 1 i ämnet kemi.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BIOE1000X</h3>",
+      "code": "BIOE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bioteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Mikroorganismers och cellers användning inom industri, naturbruk och medicin samt dessa områdens betydelse för bioteknikens utveckling.</li> <li>Biologiskt verksamma makromolekyler, deras funktion och interaktion.</li> <li>Bioinformatik och analys med hjälp av genetiska databaser.</li> <li>Biotekniska processer och dess tillämpningar, däribland i frågor som rör hållbar utveckling.</li> <li>Bioteknikens betydelse för vetenskap, individ och samhälle.</li> <li>Möjligheter och risker med bioteknik och genmodifierade organismer ur ett etiskt och samhälleligt perspektiv.</li> <li>Laborativt arbete med gentekniska, molekylärbiologiska och andra biotekniska arbetsmetoder. Sterilteknik och odlingsteknik. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li> <li>Granskning av information och argumentation som rör bioteknik. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om bioteknikens begrepp, modeller och arbetsmetoder.</p> <p>Eleven gör <strong>enkla</strong> analyser av biotekniska frågeställningar och processer. Dessutom kommunicerar eleven i frågor som rör bioteknik med <strong>godtagbar</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>i huvudsak systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>enkla</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>enkla</strong> resonemang om biotekniken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om bioteknikens begrepp, modeller och arbetsmetoder.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av biotekniska frågeställningar och processer. Dessutom kommunicerar eleven i frågor som rör bioteknik med <strong>god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>utvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om biotekniken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om bioteknikens begrepp, modeller och arbetsmetoder.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av biotekniska frågeställningar och processer. Dessutom kommunicerar eleven i frågor som rör bioteknik med <strong>mycket god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet, <strong>systematiskt och ändamålsenligt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>välutvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om biotekniken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.973Z"
+}

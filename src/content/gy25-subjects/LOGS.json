@@ -1,0 +1,78 @@
+{
+  "code": "LOGS",
+  "name": "Logistik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:47",
+  "nameHeading": "<h2>Logistik</h2>",
+  "description": "<p>Logistik handlar om flödet av varor och tjänster från tillverkare till slutlig användare, där alla delar av distributionskedjan och logistiska samband samordnas till en helhet. I ämnet ingår varusortiment, lagerhållning och utrustning som används i samband med varuhantering. Centralt i ämnet är arbetsmiljö, säkerhet och hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet logistik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbetsuppgifter inom logistik på ett rationellt och resurssnålt sätt. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om varu- och logistikflöden från tillverkare till slutlig användare samt logistikens roll i distributionskedjan. Vidare ska eleverna ges möjlighet att utveckla förmåga att på ett yrkesmässigt sätt välja och använda relevant material, teknik och utrustning samt arbeta på ett hållbart och säkert sätt. Eleverna ska dessutom ges möjlighet att reflektera över sina erfarenheter. Undervisningen ska även bidra till att eleverna utvecklar förmåga att ta eget ansvar och samarbeta med andra.</p> <p>Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter och använda olika arbetsmetoder inom logistik. Undervisningen ska lämna utrymme för yrkesetiska frågor samt ge eleverna möjlighet att finna handlingsalternativ till problem och situationer som kan uppstå i yrkesrollen. Därigenom ska undervisningen stärka elevernas tilltro till den egna förmågan att använda problemlösning som både mål och medel. I undervisningen ska eleverna också ges möjlighet att använda digitala verktyg för att söka information från olika källor samt att granska, tolka och värdera dessa.</p> <h5><em>Undervisningen i ämnet logistik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om varuflöden, logistiska samband samt logistikens roll inom handels- och tjänstesektorn.</li> <li>Förmåga att utföra arbetsuppgifter inom lager, logistik och varuhantering med relevant material, teknik och utrustning.</li> <li>Förmåga att arbeta på ett hållbart och säkert sätt.</li> </ul><h3>Nivåer i ämnet logistik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LOGS1000X</h3>",
+      "code": "LOGS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet logistik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Logistikens roll i företaget.</li> <li>Transportlösningar från producent till konsument.</li> <li>Hur varulager och leveranser kan organiseras och struktureras.</li> <li>Lagerfunktioner, lagerhållning samt lagrets olika avdelningar och arbetsuppgifter.</li> <li>Transportplanering och leveransbevakning.</li> <li>Varuhantering, till exempel varumottagning och avprickning mot följesedel.</li> <li>Lager- och logistikarbete, till exempel olika plockmetoder.</li> <li>Användning av digital och teknisk utrustning, till exempel pallyft, etiketter för märkning av varor och digitala informationssystem.</li> <li>Hur arbetsuppgifter kan utföras på ett hållbart och säkert sätt.</li> <li>Ergonomisk arbetsmiljö och hur utrustning och hjälpmedel kan underlätta arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: LOGS2000X</h3>",
+      "code": "LOGS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet logistik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Logistikens roll i olika typer av företag och branscher, till exempel i livsmedels- eller konfektionsbranschen.</li> <li>Hur logistik- och varuflöden samt varulager organiseras och optimeras.</li> <li>Leveransservice, lagerstyrning och uppföljning av lagerbindning.</li> <li>Planering och kontroll av försörjningskedjor, till exempel varuflöden.</li> <li>Lager- och logistikarbete, däribland organisering av lager, struktur och arbetsorganisation.</li> <li>Användning av hjälpmedel och utrustning i arbetet samt i samband med planering av varuhantering.</li> <li>Resurshantering. Optimering av ledtider och lönsamhet med utgångspunkt i frågor om hållbarhet, däribland förpackningshantering.</li> <li>Riskbedömning av aktuell arbetsuppgift, med hänsyn till arbetsmiljö, ergonomi och miljömässig hållbarhet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om varuflöden, logistiska samband samt om logistikens roll inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom lager, logistik och varuhantering på ett <strong>i huvudsak fungerande</strong> sätt. Dessutom använder eleven med <strong>viss</strong> skicklighet relevant material, teknik och utrustning.</p> <p>Eleven använder på ett <strong>godtagbart</strong> sätt arbetsmetoder som främjar hållbarhet och en säker arbetsmiljö.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om varuflöden, logistiska samband samt om logistikens roll inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom lager, logistik och varuhantering på ett <strong>fungerande</strong> sätt. Dessutom använder eleven med <strong>god</strong> skicklighet relevant material, teknik och utrustning.</p> <p>Eleven använder på ett <strong>gott</strong> sätt arbetsmetoder som främjar hållbarhet och en säker arbetsmiljö.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om varuflöden, logistiska samband samt om logistikens roll inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom lager, logistik och varuhantering på ett <strong>väl fungerande</strong> sätt. Dessutom använder eleven med <strong>mycket god</strong> skicklighet relevant material, teknik och utrustning.</p> <p>Eleven använder på ett <strong>mycket gott</strong> sätt arbetsmetoder som främjar hållbarhet och en säker arbetsmiljö.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.036Z"
+}

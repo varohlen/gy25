@@ -1,0 +1,78 @@
+{
+  "code": "SOCA",
+  "name": "Socialt arbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:116",
+  "nameHeading": "<h2>Socialt arbete</h2>",
+  "description": "<p>Ämnet socialt arbete har sin grund i socialvetenskap, sociologi och pedagogik. I ämnet behandlas samhällets organisation och hantering av sociala frågor. Det är också yrkesrelaterat och handlar om arbete som inriktas på sociala frågor samt deras konsekvenser och lösningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet socialt arbete ska syfta till att eleverna utvecklar kunskaper om sociala frågor och verksamheter samt om centrala begrepp och teorier inom sociala verksamheter. Undervisningen ska också bidra till att eleverna utvecklar förmåga att arbeta inom sociala verksamheter i enlighet med lagar och andra bestämmelser samt utifrån en demokratisk värdegrund och överenskommelser om mänskliga rättigheter. Eleverna ska ges möjlighet att utveckla förmåga att planera, genomföra och dokumentera vanligt förekommande insatser och aktiviteter inom området. Undervisningen ska även leda till att eleverna utvecklar förmåga att möta och arbeta med människor utifrån ett etiskt och inkluderande förhållningssätt med hänsyn till arbetsmiljö och säkerhet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur samhällets skyddsnät och stödinsatser har växt fram och hur det har påverkat människor i utsatta situationer. I undervisningen ska därför såväl egna som samhällets attityder till och bemötande av människor i social utsatthet behandlas. Eleverna ska också ges möjlighet att utveckla förmåga att utvärdera arbetsuppgifter samt att söka, bearbeta, värdera och använda information från olika källor.</p> <p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen och tillfällen ska ges för eleverna att medverka vid val av arbetsformer och innehåll. Eleverna ska även ges möjlighet att få inblick i och erfarenhet av sociala sammanhang och sociala verksamheter. Undervisningen ska stimulera elevernas förmåga att praktiskt tillämpa kunskaper om sociala verksamheter, arbeten och arbetsuppgifter samt lust att anta nya utmaningar. Undervisningen ska vidare bidra till elevernas personliga utveckling. Dessutom ska eleverna ges möjlighet att reflektera över och diskutera ämnesinnehållet samt egna och andras handlingar och attityder i arbetet.</p> <h5><em>Undervisningen i ämnet socialt arbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika sociala verksamheter, sociala frågor och centrala begrepp inom området.</li> <li>Kunskaper om lagar och andra bestämmelser som gäller sociala verksamheter.</li> <li>Förmåga att planera, genomföra, dokumentera och utvärdera insatser och aktiviteter inom området.</li> <li>Förmåga att kommunicera och samverka på ett yrkesetiskt sätt.</li> <li>Förmåga att använda och värdera information från olika källor.</li> </ul><h3>Nivåer i ämnet socialt arbete</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SOCA1000X</h3>",
+      "code": "SOCA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet socialt arbete på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Framväxten av samhällets socialpolitik och sociala arbete.</li> <li>Samhällets organisation av sociala frågor samt sociala myndigheter och ombudsmän och deras funktioner och roller i samhället.</li> <li>Våld i nära relationer.</li> <li>Olika stödverksamheter för personer i social utsatthet, till exempel för personer med missbruksproblematik.</li> <li>Centrala begrepp och teorier inom olika sociala verksamheter.</li> <li>Lagar och andra bestämmelser som gäller sociala verksamheter, däribland offentlighets- och sekretesslagen samt introduktion till socialtjänstlagen och FN:s allmänna förklaring om de mänskliga rättigheterna.</li> <li>Bestämmelser och praxis när det gäller arbetsmiljö och säkerhet samt yrkesetik inom sociala verksamheter.</li> <li>Vanligt förekommande arbetsuppgifter inom sociala verksamheter, däribland personnära omsorgs- och serviceuppgifter med utgångspunkt i den enskilda människans önskemål om och behov av stöd och hjälp.</li> <li>Planering, genomförande, dokumentation och utvärdering av insatser och aktiviteter inom sociala verksamheter.</li> <li>Kommunikation och samverkan i sociala sammanhang inom aktuellt yrkesområde.</li> <li>Hur attityder till människors olika livssituationer kan se ut.</li> <li>Etiska frågeställningar inom sociala verksamheter.</li> <li>Hantering, bearbetning och värdering av information från olika källor inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SOCA2000X</h3>",
+      "code": "SOCA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet socialt arbete på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Offentliga, frivilliga och privata sociala verksamheter samt deras organisationer och roller i samhället.</li> <li>Våldsutsatta i särskilt sårbara situationer.</li> <li>Samhällets hantering av utsatta gruppers levnadsvillkor och samhällets skydds- och stödinsatser samt förebyggande insatser, till exempel stödverksamheter för barn i familjer där missbruksproblematik förekommer.</li> <li>Begrepp och teorier inom olika sociala verksamheter.</li> <li>Lagar och andra bestämmelser samt riktlinjer för sociala verksamheter, däribland socialtjänstlagen samt FN:s allmänna förklaring om de mänskliga rättigheterna och FN:s konvention om barnets rättigheter.</li> <li>Anmälningsplikten och dess process.</li> <li>Bestämmelser och praxis när det gäller arbetsmiljö och säkerhet samt yrkesetik inom sociala verksamheter.</li> <li>Yrkesrollen och vanligt förekommande arbetsuppgifter inom sociala verksamheter, däribland sociala och relationsbyggande aktiviteter.</li> <li>Planering, genomförande, dokumentation och utvärdering av uppgifter, insatser och aktiviteter utifrån ett yrkesetiskt förhållningssätt inom sociala verksamheter.</li> <li>Hur interaktion och kommunikation kan främja samarbete och delaktighet samt ge stöd i möten och i olika sociala sammanhang.</li> <li>Hur attityder till och bemötande av människors olika livssituationer kan se ut.</li> <li>Etiska begrepp och riktlinjer samt förhållningssätt, normer och värdekonflikter inom sociala verksamheter.</li> <li>Hantering, bearbetning och värdering av information från olika källor inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika sociala verksamheter och hur sociala frågor hanteras i samhället. Eleven använder med <strong>viss säkerhet</strong> centrala begrepp inom området.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller sociala verksamheter.</p> <p>Eleven planerar och genomför insatser och aktiviteter inom området med <strong>godtagbart</strong> resultat. Dessutom dokumenterar och utvärderar eleven insatserna och aktiviteterna samt ger <strong>enkla</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och samverkar med <strong>viss säkerhet</strong> på ett yrkesetiskt sätt.</p> <p>Eleven hanterar information som rör sociala frågor och drar <strong>enkla</strong> slutsatser om olika källors trovärdighet och användbarhet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika sociala verksamheter och hur sociala frågor hanteras i samhället. Eleven använder med <strong>säkerhet</strong> centrala begrepp inom området.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller sociala verksamheter.</p> <p>Eleven planerar och genomför insatser och aktiviteter inom området med <strong>gott</strong> resultat. Dessutom dokumenterar och utvärderar eleven insatserna och aktiviteterna samt ger <strong>välgrundade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och samverkar med <strong>säkerhet</strong> på ett yrkesetiskt sätt.</p> <p>Eleven hanterar information som rör sociala frågor och drar <strong>utvecklade</strong> slutsatser om olika källors trovärdighet och användbarhet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika sociala verksamheter och hur sociala frågor hanteras i samhället. Eleven använder med <strong>god säkerhet</strong> centrala begrepp inom området.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller sociala verksamheter.</p> <p>Eleven planerar och genomför insatser och aktiviteter inom området med <strong>mycket gott</strong> resultat. Dessutom dokumenterar och utvärderar eleven insatserna och aktiviteterna samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan utvecklas.</p> <p>Eleven kommunicerar och samverkar med <strong>god säkerhet</strong> på ett yrkesetiskt sätt.</p> <p>Eleven hanterar information som rör sociala frågor och drar <strong>välutvecklade</strong> slutsatser om olika källors trovärdighet och användbarhet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.081Z"
+}

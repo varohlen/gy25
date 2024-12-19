@@ -1,0 +1,92 @@
+{
+  "code": "ANIM",
+  "name": "Animation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:154",
+  "nameHeading": "<h2>Animation</h2>",
+  "description": "<p>Animation är en uttrycksform för att illustrera rörelse i bild och förekommer både som egen konstform och som verktyg för visualisering eller effekter i till exempel spelfilm, reklamfilm, instruktionsfilm och musikvideor. Ämnet animation behandlar olika tekniker som tecknad animation, stopmotion-tekniker samt digitala verktyg.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet animation ska syfta till att eleverna utvecklar kunskaper om och färdigheter i planering, genomförande och publicering av animationer med aktuell teknik. Den ska ge eleverna möjlighet att utveckla färdigheter i att arbeta i team under tidspress, planera och organisera arbetsuppgifter samt lösa problem. Eleverna ska också ges möjlighet att arbeta med såväl digitala som traditionella produktionsmetoder.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i animation aktivt bidra till ett rikt kulturliv i samhället. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i flera former av berättande och gestaltning, där tyngdpunkten ska ligga på färg, form och rörelse. Undervisningen ska även leda till att eleverna utvecklar färdigheter i att arbeta med att utveckla karaktärer. Den ska också ge eleverna möjlighet att utveckla kunskaper om betydelsen av tempo, tajmning och rörelsemönster samt om betydelsen av relationen mellan karaktären och bakgrundsmiljön.</p> <p>Eleverna ska ges möjlighet att utveckla den egna kreativiteten och förmåga till analys, manusarbete och produktionsplanering. Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur val av rätt form och uttryck i relation till målgrupp och sammanhang samverkar. Undervisningen ska dessutom ge eleverna möjlighet att utveckla ett fackspråk för att kunna kommunicera i produktionsarbetet. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att bedöma animationers kvalitet, till exempel utifrån form, innehåll, rörelser och teknik. Eleverna ska också ges möjlighet att utveckla kunskaper om animationens historia och användningsområden. Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt om arbetsmiljö.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och lämna utrymme för diskussion och reflektion över etiska frågor och vad som är ett klokt handlande inom animation.</p> <h5><em>Undervisningen i ämnet animation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om produktionsprocessen från idé till publicering samt om lagar och andra bestämmelser inom animationsområdet.</li> <li>Färdigheter i traditionell och digital animationsteknik.</li> <li>Förmåga att planera, genomföra och presentera animationer.</li> <li>Förmåga att forma ett eget bildspråk och ta ansvar för det egna arbetet.</li> <li>Förmåga att analysera och bedöma animationer.</li> <li>Kunskaper om animationens historia och användningsområden.</li> </ul><h3>Nivåer i ämnet animation</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ANIM1000X</h3>",
+      "code": "ANIM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet animation på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocess och teknik</em></p> <ul> <li>Produktionsprocessens olika delar, till exempel manus, storyboard och publicering.</li> <li>Lagar och andra bestämmelser som gäller upphovsrätt och arbetsmiljö.</li> <li>Klassisk tecknad animation.</li> <li>Stopmotion-tekniker, till exempel cutout och pixilation.</li> <li>Hantering av verktyg för animation.</li> <li>Grundläggande planering, genomförande och presentation av animationsprojekt både enskilt och i grupp.</li> <li>Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning.</li> </ul> <p><em>Animation och visualisering</em></p> <ul> <li>Rörelse, rytm och tempo i animation.</li> <li>Animation utifrån givna och styrda ramar och förlagor.</li> <li>Introduktion till visuella uttrycksmedel, till exempel färg, form och perspektiv.</li> </ul> <p><em>Animationens utveckling och analys</em></p> <ul> <li>Tolkning och värdering av animerad film.</li> <li>Orientering om genrer och stilar genom animationshistorien, såväl studioproduktioner som experimentell independentfilm.</li> <li>Användning av begrepp inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ANIM2000X</h3>",
+      "code": "ANIM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet animation på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocess och teknik</em></p> <ul> <li>Produktionsprocessens olika delar, däribland idé, synopsis, manus, storyboard och publicering.</li> <li>Lagar och andra bestämmelser som gäller upphovsrätt och arbetsmiljö.</li> <li>Fördjupad och specialiserad programvara och hårdvara.</li> <li>Kombination av olika tekniska verktyg för animation, till exempel olika programvaror.</li> <li>Synkron animation till existerande ljud.</li> <li>Planering, genomförande och presentation av animationsprojekt både enskilt och i grupp.</li> <li>Filmens berättarkomponenter och dramaturgi utifrån animationens genre, stil och syfte.</li> </ul> <p><em>Animation och visualisering</em></p> <ul> <li>Animation där rörelse, rytm och tempo anpassas utifrån olika typer av animationer.</li> <li>Karaktärsdesign utifrån animationens syfte, genre och stil.</li> <li>Sceneri, bakgrundsdesign och ljussättning.</li> <li>Hur bildspråk anpassas utifrån olika syften och ramar.</li> <li>Hur visuella uttrycksmedel, däribland färg, form och perspektiv används inom olika estetiska uttryck.</li> </ul> <p><em>Animationens utveckling och analys</em></p> <ul> <li>Analys och värdering av eget och andras arbete.</li> <li>Animationens användningsområden, såväl historiskt som i dag.</li> <li>Användning av begrepp inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ANIM3000X</h3>",
+      "code": "ANIM3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet animation på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocess och teknik</em></p> <ul> <li>Produktionsprocessen inom vald animationsteknik.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Kombination av olika tekniska verktyg för animation inom valt material.</li> <li>Planering, genomförande och presentation av animationsprojekt inom vald animationsteknik både enskilt och i grupp.</li> <li>Dokumentation och värdering av pågående process och resultat.</li> </ul> <p><em>Animation och visualisering</em></p> <ul> <li>Anpassningar i filmens berättarkomponenter, rörelse, rytm och tempo för att skapa olika estetiska uttryck.</li> <li>Det egna bildspråket och hur det kan utvecklas.</li> </ul> <p><em>Animationens utveckling och analys</em></p> <ul> <li>Analys av eget skapande i syfte att anpassa arbetet utifrån olika typer av animationer.</li> <li>Förlagor från animationens historia som inspiration i utvecklingen av ett eget formspråk.</li> <li>Användning av begrepp inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om produktionsprocessens olika delar och om lagar och andra bestämmelser inom animationsområdet.</p> <p>Eleven hanterar med <strong>viss</strong> skicklighet olika animationstekniker.</p> <p>Eleven planerar, genomför och presenterar animationer av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven utvecklar med <strong>viss säkerhet</strong> ett eget bildspråk och tar ansvar genom att på ett <strong>i huvudsak fungerande</strong> sätt utveckla och förbättra sitt arbete.</p> <p>Eleven analyserar och bedömer animationer med <strong>enkla</strong> omdömen.</p> <p>Eleven beskriver <strong>översiktligt</strong> animationens historia och dess användningsområden.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om produktionsprocessens olika delar och om lagar och andra bestämmelser inom animationsområdet.</p> <p>Eleven hanterar med <strong>god</strong> skicklighet olika animationstekniker.</p> <p>Eleven planerar, genomför och presenterar animationer av <strong>god</strong> kvalitet.</p> <p>Eleven utvecklar med <strong>säkerhet</strong> ett eget bildspråk och tar ansvar genom att på ett <strong>fungerande</strong> sätt utveckla och förbättra sitt arbete.</p> <p>Eleven analyserar och bedömer animationer med <strong>utvecklade</strong> omdömen.</p> <p>Eleven beskriver <strong>utförligt</strong> animationens historia och dess användningsområden.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om produktionsprocessens olika delar och om lagar och andra bestämmelser inom animationsområdet.</p> <p>Eleven hanterar med <strong>mycket god</strong> skicklighet olika animationstekniker.</p> <p>Eleven planerar, genomför och presenterar animationer av <strong>mycket god</strong> kvalitet.</p> <p>Eleven utvecklar med <strong>god säkerhet</strong> ett eget bildspråk och tar ansvar genom att på ett <strong>väl fungerande</strong> sätt utveckla och förbättra sitt arbete.</p> <p>Eleven analyserar och bedömer animationer med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> animationens historia och dess användningsområden.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.958Z"
+}

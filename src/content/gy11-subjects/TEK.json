@@ -1,0 +1,143 @@
+{
+  "code": "TEK",
+  "name": "Teknik",
+  "englishName": "Technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-04-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:134",
+  "skolfsAndring": "2022:298",
+  "nameHeading": "<h2>Teknik</h2>",
+  "description": "<p>Ämnet teknik är till sin karaktär tvärvetenskapligt. Teknik handlar om att uppfylla människors behov och önskemål genom att omvandla naturens fysiska resurser eller immateriella tillgångar i produkter, processer, anläggningar och system. Ämnet belyser teknikens roll i samhällsutvecklingen och samspelet mellan människa och natur.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet teknik ska syfta till att eleverna utvecklar kunskaper om teknik, teknikvetenskap och tekniska utvecklingsprocesser. Den ska leda till att eleverna utvecklar förståelse av processerna och hela kedjan från idé och modell, produkt eller tjänst till användning och återvinning. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om befintlig teknik och om utveckling av ny teknik som bidrar till ett mer hållbart samhälle.</p> <p>Undervisningen ska belysa hur teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om föreställningar om manligt och kvinnligt i förhållande till teknik. Dessutom ska eleverna få möjlighet att utveckla kunskaper om människors olika förutsättningar för och tillgänglighet till teknik och teknikutveckling.</p> <p>Undervisningen ska förbereda eleverna för att aktivt delta i och påverka teknisk utveckling utifrån ett etiskt förhållningssätt. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om entreprenörskap genom att utveckla deras förmåga till handling, innovation, och problemlösning. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om tekniska begrepp samt ge kunskaper i att kommunicera om teknik.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla tekniska kunskaper genom att arbeta med mätningar, observationer, experiment, tekniska beräkningar, matematiska modelleringar samt risk- och rimlighetsbedömningar. Undervisningen ska också leda till att eleverna utvecklar förmåga till analys och värdering. Eleverna ska också ges möjlighet att arbeta i projekt.</p> <h4>Undervisningen i ämnet teknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om teknikutvecklingsprocessen och förståelse av sambanden mellan de olika delarna i den.</li> <li>Förmåga att analysera och värdera tekniska lösningar med hänsyn tagen till ett hållbart samhälle.</li> <li>Förmåga att lösa tekniska problem.</li> <li>Förmåga att använda teknikvetenskapliga metoder, begrepp och teorier.</li> <li>Förmåga att använda modeller och verktyg som redskap för analys, beräkning, rimlighetsbedömning, dokumentation, presentation och information.</li> <li>Kunskaper om hur teknik har utvecklats och utvecklas i samspel med det omgivande samhället samt kunskaper om befintlig teknik och aktuell teknikutveckling.</li> <li>Kunskaper om teknikens roll och drivkrafter ur ett etiskt perspektiv.</li> <li>Kunskaper om hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling.</li> <li>Förmåga att kommunicera inom det tekniska området samt kommunicera om teknik.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Teknik 1, 150 poäng. </li> <li>Teknik 2, 100 poäng, som bygger på kursen teknik 1.</li> <li>Teknik – specialisering, 100 poäng, som bygger på kursen teknik 1. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: TEKTEK01</h3>",
+      "code": "TEKTEK01",
+      "nameHeading": "<h2>Teknik 1, 150 poäng</h2>",
+      "name": "Teknik 1",
+      "englishName": "Technology 1",
+      "points": "150",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen teknik 1 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Teknikutvecklingsprocessens alla delar från idé och modell, produkt eller tjänst till användning och återvinning med praktisk tillämpning av teknik och teknikutveckling inom ett eller flera teknikområden.</li> <li>Entreprenörskap och entreprenörskapets villkor med utgångspunkt i innovativa och kreativa processer.</li> <li>Materials tekniska egenskaper, till exempel termiska, elektriska, mekaniska och kemiska samt materialens möjligheter och begränsningar utifrån olika användningsområden.</li> <li>Teknikens och teknikerns roll med fokus på framtidens teknik och ett hållbart samhälle, till exempel med utgångspunkt i energieffektivisering.</li> <li>Kvalitetsarbete, till exempel kvalitetssäkring, miljösäkring, arbetsmiljö och riskanalys.</li> <li>Ritningsläsning och skiss- och ritteknik med introduktion i hur man hanterar cad-program.</li> <li>Projektarbets-, kommunikations-, presentations- och modellteknik, till exempel digitala medier och programvaror, manualer och instruktioner, muntliga och skriftliga framställningar samt digitala och manuella tekniker för att skapa modeller.</li> <li>Tekniska begrepp, teorier och modeller innefattande beräkningar och rimlighetsbedömningar.</li> <li>Teknikens historia och teknikutvecklingens betydelse för samhället samt introduktion i aktuella utvecklingsområden inom teknik.</li> <li>Grundläggande teknikfilosofi: etiska värderingar och genusstrukturer samt hur de har påverkat och påverkar tekniken, dess användning och tillgänglighet. Hur teknik och teknikens attribut könsmärks.</li> <li>Kommunikations-, dator- och nätverksteknik för lärande och förmedling av teknik och information.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur teknik utvecklas och redogör <strong>översiktligt </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen.</p><p>Eleven redogör <strong>översiktligt </strong>för tekniska egenskaper hos olika material samt för hur och när de kan användas. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle.</p><p>Eleven löser <strong>enkla</strong> tekniska problem, använder <strong>i samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar <strong>med viss säkerhet </strong>både manuellt och med relevanta cad-program. Eleven använder <strong>med viss säkerhet </strong>tekniska begrepp och teorier, utför <strong>med viss säkerhet</strong> tekniska beräkningar och bedömer rimligheten i sina resultat. </p><p>Eleven redogör <strong>översiktligt </strong>för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver <strong>översiktligt </strong>hur samhälle och teknik samspelar. Dessutom värderar eleven, med<strong> enkla </strong>omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället. Vidare beskriver eleven <strong>översiktligt</strong> hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling. Eleven ger <strong>enkla </strong>förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor.</p><p>Eleven använder <strong>med viss säkerhet</strong> datorn som verktyg för kommunikation, dokumentation och information. Dessutom använder eleven <strong>med viss säkerhet</strong> olika relevanta medier och programvaror för att förmedla och presentera teknik.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur teknik utvecklas och redogör <strong>utförligt </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen.</p><p>Eleven redogör <strong>utförligt </strong>för tekniska egenskaper hos olika material samt för hur och när de kan användas. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle.</p><p>Eleven löser <strong>enkla</strong> tekniska problem, <strong>väljer och </strong>använder <strong>efter samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar<strong> med viss säkerhet</strong> både manuellt och med relevanta cad-program. Eleven använder <strong>med viss säkerhet </strong>tekniska begrepp och teorier, utför <strong>med viss säkerhet </strong>tekniska beräkningar och bedömer rimligheten i sina resultat. </p><p>Eleven redogör <strong>utförligt </strong>för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver <strong>utförligt </strong>hur samhälle och teknik samspelar. Dessutom värderar eleven, med<strong> enkla </strong>omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället. Vidare beskriver eleven <strong>utförligt</strong> hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling. Eleven ger <strong>välgrundade </strong>förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor.</p><p>Eleven använder <strong>med viss säkerhet </strong>datorn som verktyg för kommunikation, dokumentation och information. Dessutom använder eleven <strong>med viss säkerhet</strong> olika relevanta medier och programvaror för att förmedla och presentera teknik <strong>samt anpassar kommunikationen till mottagaren</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur teknik utvecklas och redogör <strong>utförligt och nyanserat </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för tekniska egenskaper hos olika material samt för hur och när de kan användas. Dessutom analyserar och värderar eleven med <strong>nyanserade </strong>omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle.</p><p>Eleven löser tekniska problem, <strong>väljer och </strong>använder <strong>efter samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar <strong>med säkerhet </strong>både manuellt och med relevanta cad-program. Eleven använder <strong>med säkerhet </strong>tekniska begrepp och teorier, utför <strong>med säkerhet </strong>tekniska beräkningar och bedömer rimligheten i sina resultat. </p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver <strong>utförligt och nyanserat </strong>hur samhälle och teknik samspelar. Dessutom värderar eleven, med<strong> nyanserade </strong>omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället. Vidare beskriver eleven <strong>utförligt och nyanserat</strong> hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling. Eleven ger <strong>välgrundade och nyanserade </strong>förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor.</p><p>Eleven använder <strong>med säkerhet </strong>datorn som verktyg för kommunikation, dokumentation och information. Dessutom använder eleven <strong>med säkerhet</strong> olika relevanta medier och programvaror för att förmedla och presentera teknik <strong>samt anpassar kommunikationen till mottagaren</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: TEKTEK02</h3>",
+      "code": "TEKTEK02",
+      "nameHeading": "<h2>Teknik 2, 100 poäng</h2>",
+      "name": "Teknik 2",
+      "englishName": "Technology 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen teknik 2 omfattar punkterna 2–5 och 9 under rubriken Ämnets syfte<i>.</i></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Principer och tekniker för mätning och registrering av prestanda i mekaniska, pneumatiska, hydrauliska och elektriska system.</li> <li>Principer och samband för omvandling av elektrisk energi till mekanisk energi och vice versa, till exempel motor och generator.</li> <li>Principer och samband för mekaniska, hydrauliska, pneumatiska och elektriska transmissionssystem för energiöverföring.</li> <li>Förutsättningar och begränsningar vid andra former av energiomvandling, till exempel fusion, fission och sol-, vind- och vattenkraft.</li> <li>Dimensionsanalys och rimlighetsbedömning.</li> <li>De matematiska och fysikaliska förutsättningarna och de teknikvetenskapliga grunderna för energiöverföring i olika system med betoning på analys, beräkningar, simuleringar och rimlighetsbedömningar.</li> <li>Matematiska modeller för givna förlopp.</li> <li>Mätteknik, till exempel principer för mätgivare och komponenter, mätning av olika storheter, användning och tolkning av resultat.</li> <li>Planering och genomförande av experimentella undersökningar samt hur mätdata inhämtas, analyseras och redovisas.</li> <li>Visualisering och analys av tekniska system och processer med hjälp av anpassad programvara.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle.</p><p>Eleven löser <strong>enkla</strong> tekniska problem, använder <strong>i samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med viss säkerhet </strong>tekniska begrepp, teorier och modeller. Eleven utför beräkningar och analyser av <strong>enkla </strong>tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat. </p><p>Eleven undersöker <strong>enkla</strong> tekniska system avseende funktionssamband och begränsningar samt redogör <strong>översiktligt </strong>för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband. Dessutom använder eleven <strong>med viss säkerhet </strong>datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle.</p><p>Eleven löser tekniska problem, <strong>väljer och </strong>använder <strong>efter samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med viss säkerhet </strong>tekniska begrepp, teorier och modeller. Eleven utför beräkningar och analyser av tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat. </p><p>Eleven undersöker tekniska system avseende funktionssamband och begränsningar samt redogör <strong>utförligt </strong>för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband. Dessutom använder eleven <strong>med viss säkerhet </strong>datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem. Dessutom analyserar och värderar eleven med <strong>nyanserade </strong>omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle.</p><p>Eleven löser <strong>avancerade </strong>tekniska problem, <strong>väljer och </strong>använder <strong>efter samråd </strong>med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med säkerhet </strong>tekniska begrepp, teorier och modeller. Eleven utför <strong>avan</strong><strong>cerade </strong>beräkningar och analyser av tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat. </p><p>Eleven undersöker <strong>avancerade </strong>tekniska system avseende funktionssamband och begränsningar samt redogör <strong>utförligt och nyanserat </strong>för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband. Dessutom använder eleven <strong>med säkerhet </strong>datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: TEKTEK00S</h3>",
+      "code": "TEKTEK00S",
+      "nameHeading": "<h2>Teknik – specialisering, 100 poäng</h2>",
+      "name": "Teknik – specialisering",
+      "englishName": "Technology – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen teknik – specialisering omfattar punkterna 1–5 och 9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt teknikområde.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Teknik och teknikutveckling inom valt teknikområde, till exempel design, produktutveckling, informations-, medie-, produktions-, el- och förbränningsteknik eller samhällsbyggande.</li> <li>Praktisk eller teoretisk tillämpning av teknikområdet.</li> <li>Entreprenörskapets villkor och förutsättningar.</li> <li>Teknik i ett hållbart samhälle, till exempel energi- och resurseffektivisering.</li> <li>Teknisk problemanalys, problemlösning, rimlighetsbedömning och värdering av egna och andras lösningar.</li> <li>Teknikvetenskapliga begrepp, teorier och modeller med koppling till det teknikområde som valts för kursen.</li> <li>Utrustning, till exempel programvara, maskiner och verktyg i vid mening. Val av dessa med hänsyn tagen till arbetsmiljö och säkerhet.</li> <li>Tekniskt språk, teknisk kommunikation och dokumentation inom det valda teknikområdet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur teknik utvecklas och redogör <strong>översiktligt </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar utifrån ett hållbart samhälle.</p><p>Eleven löser <strong>enkla</strong> tekniska problem inom valt teknikområde med ett <strong>tillfredsställande</strong> resultat. Dessutom väljer och använder eleven <strong>i samråd </strong>med handledare lämpliga produktionsmetoder och design- och konstruktionslösningar samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med viss säkerhet grundläggande </strong>matematiska och teknikvetenskapliga begrepp, teorier och modeller samt utför <strong>enkla </strong>beräkningar och använder <strong>enkla </strong>lösningsstrategier. Eleven bedömer rimligheten i sina resultat samt värderar egna och andras val av metoder och strategier med <strong>enkla </strong>omdömen.</p><p>Eleven använder <strong>med viss säkerhet </strong>utrustning med hänsyn tagen till arbetsmiljö och säkerhet.</p><p>Eleven kommunicerar <strong>med viss säkerhet </strong>sina idéer och resultat med några av kunskapsområdets relevanta begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur teknik utvecklas och redogör <strong>utförligt </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen. Dessutom analyserar och värderar eleven med <strong>enkla </strong>omdömen tekniska lösningar utifrån ett hållbart samhälle.</p><p>Eleven löser tekniska problem inom valt teknikområde med ett <strong>tillfredsställande</strong> resultat. Dessutom väljer och använder eleven <strong>efter samråd </strong>med handledare lämpliga produktionsmetoder och design- och konstruktionslösningar samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med viss säkerhet grundläggande </strong>matematiska och teknikvetenskapliga begrepp, teorier och modeller samt utför beräkningar och använder lösningsstrategier. Eleven bedömer rimligheten i sina resultat samt värderar egna och andras val av metoder och strategier med <strong>nyanserade </strong>omdömen.</p><p>Eleven använder <strong>med viss säkerhet </strong>utrustning med hänsyn tagen till arbetsmiljö och säkerhet.</p><p>Eleven kommunicerar <strong>med viss säkerhet </strong>sina idéer och resultat med några av kunskapsområdets relevanta begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur teknik utvecklas och redogör <strong>utförligt och nyanserat </strong>för sambanden mellan de olika delarna i teknikutvecklingsprocessen. Dessutom analyserar och värderar eleven med <strong>nyanserade </strong>omdömen tekniska lösningar utifrån ett hållbart samhälle.</p><p>Eleven löser <strong>avancerade </strong>tekniska problem inom valt teknikområde med ett <strong>gott</strong> resultat. Dessutom väljer och använder eleven <strong>efter samråd </strong>med handledare lämpliga produktionsmetoder och design- och konstruktionslösningar samt dokumenterar arbetet och resultatet. I sitt arbete använder eleven <strong>med säkerhet </strong>matematiska och teknikvetenskapliga begrepp, teorier och modeller samt utför <strong>avancerade </strong>beräkningar och använder <strong>avancerade</strong> lösningsstrategier. Eleven bedömer rimligheten i sina resultat samt värderar egna och andras val av metoder och strategier med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på alternativa val av metoder och strategier</strong>.</p><p>Eleven använder <strong>med säkerhet </strong>utrustning med hänsyn tagen till arbetsmiljö och säkerhet.</p><p>Eleven kommunicerar <strong>med säkerhet </strong>sina idéer och resultat med några av kunskapsområdets relevanta begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.180Z"
+}

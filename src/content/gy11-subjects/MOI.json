@@ -1,0 +1,66 @@
+{
+  "code": "MOI",
+  "name": "Mobila applikationer",
+  "englishName": "Mobile applications",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:48",
+  "skolfsAndring": "2022:215",
+  "nameHeading": "<h2>Mobila applikationer</h2>",
+  "description": "<p>Ämnet mobila applikationer behandlar olika tekniker för att utveckla programvara riktad mot mobila enheter samt processen från idé till färdigt program. Ämnet mobila applikationer får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet mobila applikationer ska syfta till att eleverna utvecklar färdigheter i att skapa applikationer anpassade för mobila enheter med hjälp av en eller flera tekniker. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika mobila enheters konstruktion och funktionalitet samt samspelet mellan olika sorters applikationslogik. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmågan att utforma produkter som följer standarder samt riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet. Undervisningen ska dessutom leda till att eleverna utvecklar kunskaper om mobila enheters möjligheter och begränsningar.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och kontrollera framställning av den kod som ligger till grund för applikationen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om projektarbete och dess olika faser, enskilt eller i grupp.</p><h4>Undervisningen i ämnet mobila applikationer ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika tekniker som kan användas för att bygga mobila applikationer.</li> <li>Förmåga att planera, genomföra, dokumentera och utvärdera utvecklingsprojekt för mobila applikationer.</li> <li>Kunskaper om gränssnitt mot användare, datalagring och mobilspecifik kringutrustning.</li> <li>Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.</li> <li>Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.</li> <li>Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Mobila applikationer, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MOIMOB3</h3>",
+      "code": "MOIMOB3",
+      "nameHeading": "<h2>Mobila applikationer, 100 poäng</h2>",
+      "name": "Mobila applikationer",
+      "englishName": "Mobile applications",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen mobila applikationer omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Utvecklingsprocessen för att utveckla en mobil applikation från målsättning, planering, specifikation av struktur och design, kodning, optimering, testning, till dokumentation och uppföljning.</li> <li>Kvalitetssäkring av applikationens funktion med speciell hänsyn tagen till mobila applikationers begränsningar, till exempel risk för bruten kontakt med server.</li> <li>Design av gränssnitt för mobila applikationer.</li> <li>Applikationer som är användarvänliga och robusta.</li> <li>Översikt över olika plattformar och dess olika operativ- och ekosystem.</li> <li>Användning av API.</li> <li>Tekniker för att undvika att användargränssnittet blockeras som asynkrona anrop eller flertrådiga applikationer.</li> <li>Mobila plattformar och dess samhällspåverkan.</li> <li>Utnyttjande av kringutrustning, till exempel kamera eller GPS.</li> <li>Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.</li> <li>Terminologi inom mobil applikationsutveckling.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> <strong>någon </strong>mobil plattform och dess operativsystem.</p><p>Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt. Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten. I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder <strong>enkla </strong>funktioner i ett lämpligt API. Eleven anpassar sin produkt med <strong>visst </strong>handlag så att användargränssnittet inte blockeras. I arbetet bearbetar eleven <strong>med viss säkerhet något</strong> gränssnitt, så att det blir anpassat för att fungera i produkten. Produkten är av <strong>tillfredsställande</strong> kvalitet. Detta kontrollerar eleven <strong>med någon automatisk test</strong>. Eleven testar produkten <strong>på någon mobil plattform</strong>. När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.</p><p>Eleven redogör <strong>översiktligt</strong> för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete. Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt.</p><p>När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk och samarbetar med andra för att nå planerade resultat.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> <strong>några </strong>mobila plattformar och dess operativsystem.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten. I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder funktioner i ett lämpligt API. Eleven anpassar sin produkt med <strong>gott </strong>handlag så att användargränssnittet inte blockeras. I arbetet bearbetar eleven <strong>med viss säkerhet några </strong>gränssnitt, så att det blir anpassat för att fungera i produkten. Produkten är av <strong>tillfredsställande</strong> kvalitet. Detta kontrollerar eleven<strong> med några automatiska och manuella tester</strong>. Eleven testar produkten på<strong> flera </strong>mobila plattformar som använder samma eller olika operativsystem. När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.</p><p>Eleven redogör <strong>utförligt</strong> för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete. Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt <strong>samt för välgrundade resonemang </strong>om andra webbrelaterade frågor om etik och integritet.</p><p>När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>relevant fackspråk och samarbetar med andra för att nå planerade resultat.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> <strong>flera </strong>mobila plattformar och dess operativsystem.</p> <p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen.</strong> Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten. I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och använder <strong>avancerade</strong> funktioner i ett lämpligt API. Eleven anpassar sin produkt med <strong>mycket gott </strong>handlag så att användargränssnittet inte blockeras. I arbetet bearbetar eleven <strong>med säkerhet flera </strong>gränssnitt, så att det blir anpassat för att fungera i produkten.</p> <p>Produkten är av <strong>god</strong> kvalitet. Detta kontrollerar eleven<strong> med flera automatiska och manuella tester</strong>. Eleven testar produkten på <strong>flera</strong> mobila plattformar som använder samma eller olika operativsystem. <strong>Eleven anpassar produkten så att den fungerar på plattformar i störande omgivningar</strong>. När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och<strong> ger förslag på hur arbetet kan förbättras</strong></strong>.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt <strong>samt för välgrundade och nyanserade resonemang</strong> om andra webbrelaterade frågor etik och integritet.</p> <p>När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet </strong>relevant fackspråk och samarbetar med andra för att nå planerade resultat.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.091Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "AFFA",
+  "name": "Affärskommunikation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:148",
+  "nameHeading": "<h2>Affärskommunikation</h2>",
+  "description": "<p>Med affärskommunikation avses i första hand extern kommunikation till företag, myndigheter och privatpersoner men även intern kommunikation inom företag, offentlig förvaltning och organisation. Ämnet affärskommunikation behandlar hur olika affärsdokument utformas samt hur presentations- och informationsmaterial i affärssammanhang framställs med hjälp av lämplig teknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet affärskommunikation ska syfta till att eleverna utvecklar förmåga att framställa affärsdokument samt presentations- och informationsmaterial. Eleverna ska även ges möjlighet att utveckla kunskaper om Sveriges och andra länders affärsseder. Genom undervisningen ska eleverna också ges möjlighet att utveckla förståelse av hur företag och organisationer fungerar och verkar i andra länder. Därigenom ska eleverna stimuleras till nyfikenhet, engagemang och deltagande i frågor som berör affärer och företagande både nationellt och internationellt.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i såväl muntlig som skriftlig kommunikation i olika affärssammanhang. Undervisningen ska också leda till att eleverna utvecklar förmåga att söka information från olika källor samt att granska och värdera dessa. Eleverna ska även ges möjlighet att utveckla förmåga att använda affärsspråk som kommunikationsmedel samt kunskaper om hur språket kan utformas och anpassas till ändamålet och mottagaren.</p> <p>Genom att använda olika tekniker och medier i undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att föra fram ändamålsenliga budskap.</p> <h5><em>Undervisningen i ämnet affärskommunikation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om affärsseder i Sverige och i andra länder.</li> <li>Förmåga att framställa affärsdokument samt informations- och presentationsmaterial med hjälp av lämpliga tekniker.</li> <li>Förmåga att söka och bearbeta information samt att föra fram budskap med ett för ändamålet och till mottagaren anpassat språk.</li> </ul><h3>Nivåer i ämnet affärskommunikation </h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AFFA1000X</h3>",
+      "code": "AFFA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet affärskommunikation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Affärsseder i Sverige och i andra länder.</li> <li>Samhälleliga förhållanden och kulturella uttryck av betydelse för affärsseder i Sverige och i andra länder.</li> <li>Framställning av affärsdokument, till exempel anbud, beställningar och fakturor.</li> <li>Framställning av informations- och presentationsmaterial.</li> <li>Tekniker för framställning av informations- och presentationsmaterial.</li> <li>Metoder för informationssökning.</li> <li>Anpassning av språket för olika ändamål och mottagare.</li> <li>Presentationer med olika syften, till exempel i försäljnings-, argumentations- och informationssyfte.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om affärsseder i Sverige och i andra länder.</p> <p>Eleven framställer affärsdokument samt informations- och presentationsmaterial med <strong>godtagbart</strong> resultat. I arbetet väljer och använder eleven med <strong>viss säkerhet</strong> lämpliga tekniker.</p> <p>Eleven förmedlar budskap med ett för ändamålet och till mottagaren anpassat språk med <strong>godtagbart</strong> resultat. I arbetet söker och bearbetar eleven med <strong>viss säkerhet</strong> relevant information.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om affärsseder i Sverige och i andra länder.</p> <p>Eleven framställer affärsdokument samt informations- och presentationsmaterial med <strong>gott</strong> resultat. I arbetet väljer och använder eleven med <strong>säkerhet</strong> lämpliga tekniker.</p> <p>Eleven förmedlar budskap med ett för ändamålet och till mottagaren anpassat språk med <strong>gott</strong> resultat. I arbetet söker och bearbetar eleven med <strong>säkerhet</strong> relevant information.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om affärsseder i Sverige och i andra länder.</p> <p>Eleven framställer affärsdokument samt informations- och presentationsmaterial med <strong>mycket gott</strong> resultat. I arbetet väljer och använder eleven med <strong>god säkerhet</strong> lämpliga tekniker.</p> <p>Eleven förmedlar budskap med ett för ändamålet och till mottagaren anpassat språk med <strong>mycket gott</strong> resultat. I arbetet söker och bearbetar eleven med <strong>god säkerhet</strong> relevant information.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.956Z"
+}

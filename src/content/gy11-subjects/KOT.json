@@ -1,0 +1,143 @@
+{
+  "code": "KOT",
+  "name": "Konstruktion",
+  "englishName": "Construction",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:246",
+  "skolfsAndring": "2022:179",
+  "nameHeading": "<h2>Konstruktion</h2>",
+  "description": "<p>Ämnet konstruktion behandlar konstruktionsprocesser från idé till färdig produkt, där syftet är att utforma och dimensionera produkter med sikte på ändamålsenlig formgivning, funktion och användning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet konstruktion ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen från idé och skiss till presentation av fungerande lösningar som tar hänsyn till ekonomiska, produktionstekniska och miljömässiga förutsättningar. Eleverna ska också ges möjlighet att utveckla kunskaper om befintlig teknik.</p><p>Undervisningen ska förbereda eleverna för att delta i framtida teknisk utveckling och bidra till att de förstår betydelsen av ett etiskt förhållningssätt och hållbar utveckling inom konstruktion. Eleverna ska ges möjlighet att utveckla ett tekniskt språk och förmåga att använda begrepp med anknytning till konstruktionsprocessen. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om svenska och internationella standarder som reglerar konstruktionsområdet.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta med konstruktionsuppgifter i projektform. I undervisningen ska cad (computer aided design) vara ett verktyg i konstruktionsarbetet. Matematiska och teknikvetenskapliga teorier, observationer, modeller och beräkningar ska användas i undervisningen och eleverna ska ges möjlighet att utveckla förmåga att använda teknisk programvara. Denna förmåga samt problemlösningsförmåga ska tränas i konkreta konstruktionsuppgifter.</p><h4>Undervisningen i ämnet konstruktion ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om befintlig teknik och teknisk utveckling samt om konstruktionsprocessen med hänsyn tagen till hållbar utveckling.</li> <li>Kunskaper om produktionsteknik, kvalitet och lönsamhet samt om sambanden mellan dessa faktorer i konstruktionsprocessen.</li> <li>Förmåga att välja och använda metoder, material, verktyg och komponenter samt kunskaper om deras egenskaper och begränsningar.</li> <li>Förmåga att utföra mätningar, simuleringar och test.</li> <li>Förmåga att lösa problem och konstruktionsuppgifter samt utföra beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller.</li> <li>Kunskaper om standarder och normer inom konstruktionsområdet.</li> <li>Förmåga att dokumentera, redovisa, presentera och utvärdera konstruktionsarbete.</li> <li>Förmåga att använda tekniska begrepp och modeller.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Konstruktion 1, 100 poäng. </li> <li>Konstruktion 2, 100 poäng, som bygger på kursen konstruktion 1.</li> <li>Konstruktion 3, 100 poäng, som bygger på kursen konstruktion 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: KOTKOS01</h3>",
+      "code": "KOTKOS01",
+      "nameHeading": "<h2>Konstruktion 1, 100 poäng</h2>",
+      "name": "Konstruktion 1",
+      "englishName": "Construction 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen konstruktion 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Introduktion i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.</li> <li>Teknikmetoder och konstruktionsmetoder inom något eller några områden, till exempel produktutveckling och byggnation.</li> <li>Teoretiska modeller, observationer och konstruktionsprojekt inom det teknikområde som används i kursen.</li> <li>Grundläggande materialegenskaper och materialets betydelse för funktion, kvalitet, lönsamhet, tillverkning och återvinning.</li> <li>Beräkningar, provningar, mätningar, simuleringar och rimlighetsbedömningar inom något eller några teknikområden med hänsyn tagen till matematiska och teknikvetenskapliga teorier och modeller.</li> <li>Datorkunskap och användning av relevanta datorprogram, till exempel kalkylprogram eller projektstyrningsprogram, inom valt teknikområde.</li> <li>Ritteknik med hantering av cad-program eller andra programvaror.</li> <li>Nationella och internationella system för teknisk standardisering med grundläggande standarder och normer inom valt teknikområde.</li> <li>Faktorer som påverkar utformningen av produkter, till exempel tillgänglighet och säkerhetsaspekter.</li> <li>Dokumentation, redovisning och presentation av konstruktionsarbete och resultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>översiktligt </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>i samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>i samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>översiktligt</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>viss säkerhet enkla </strong>tekniska begrepp, verktyg och modeller samt utför mätningar, simuleringar och test med <strong>tillfredsställande </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>tillfredsställande </strong>resultat <strong>enkla</strong> problem och konstruktionsuppgifter samt utför <strong>enkla</strong> beräkningar genom att använda <strong>grundläggande</strong> matematiska och teknikvetenskapliga teorier och modeller. Dessutom tar eleven hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med <strong>enkla</strong> tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>utförligt </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>viss säkerhet </strong>tekniska begrepp, verktyg och modeller samt utför mätningar, simuleringar och test med <strong>tillfredsställande </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>tillfredsställande </strong>resultat problem och konstruktionsuppgifter samt utför beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller. Dessutom tar eleven hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. <strong>I sin värdering gör eleven även välgrundade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt och nyanserat</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>säkerhet </strong>tekniska begrepp, verktyg och modeller utför mätningar, simuleringar och test med <strong>gott </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>gott </strong>resultat <strong>komplexa </strong>problem och konstruktionsuppgifter samt utför <strong>avancerade</strong> beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller. Dessutom tar eleven hänsyn till standarder och normer. <strong>Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter</strong>.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med</strong> <strong>säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med <strong>avancerade </strong>tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. <strong>I sin värdering gör eleven även välgrundade och nyanserade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KOTKOS02</h3>",
+      "code": "KOTKOS02",
+      "nameHeading": "<h2>Konstruktion 2, 100 poäng</h2>",
+      "name": "Konstruktion 2",
+      "englishName": "Construction 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen konstruktion 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Fördjupning i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.</li> <li>Visualisering via datorbaserade verktyg och analys genom FEM (finita elementmetoden) eller simuleringar med hjälp av dator inom valt teknikområde.</li> <li>Fördjupade teknikmetoder och konstruktionsmetoder inom något eller några områden.</li> <li>Teoretiska modeller och observationer inom valt teknikområde.</li> <li>Prototyptillverkning, om det förekommer inom valt teknikområde.</li> <li>Komponenter, material, metoder och processer inom valt teknikområdet samt deras egenskaper och begränsningar vid varierande tillämpningar och miljöer.</li> <li>Mätningar, bedömningar av mätfel och mätnoggrannhet vid planering, genomförande och utvärdering samt hur mätfelsanalyser genomförs.</li> <li>Konstruktionsberäkningar inom valt teknikområde med hänsyn tagen till matematiska och teknikvetenskapliga teorier och modeller.</li> <li>Dimensionering med och utan databaserade verktyg.</li> <li>Normer och tekniska standarder samt hur något eller några standardiserade test utförs inom valt teknikområde.</li> <li>Faktorer som påverkar utformningen av produkter, till exempel tillgänglighet och säkerhetsaspekter.</li> <li>Dokumentation, redovisning och presentation av konstruktionsarbete och resultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>översiktligt </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>i samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>i samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>översiktligt</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>viss säkerhet </strong>tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med <strong>tillfredsställande </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>tillfredsställande </strong>resultat <strong>enkla</strong> problem och konstruktionsuppgifter samt utför <strong>enkla</strong> beräkningar genom att använda <strong>grundläggande</strong> matematiska och teknikvetenskapliga teorier och modeller. Dessutom utför eleven <strong>med</strong> <strong>viss säkerhet enkla</strong> dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med </strong><strong>viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med <strong>enkla</strong> tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>utförligt </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>viss säkerhet </strong>tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med <strong>tillfredsställande </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>tillfredsställande </strong>resultat problem och konstruktionsuppgifter samt utför beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller. Dessutom utför eleven <strong>med</strong> <strong>viss säkerhet </strong>dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.<strong> I sin värdering gör eleven även välgrundade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för sambanden mellan produktionsteknik, kvalitet och lönsamhet.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt och nyanserat</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet använder eleven <strong>med</strong> <strong>säkerhet </strong>tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med <strong>gott </strong>resultat, både manuellt och med hjälp av datorer. Eleven löser också med <strong>gott </strong>resultat <strong>komplexa </strong>problem och konstruktionsuppgifter samt utför <strong>avancerade</strong> beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller. Dessutom utför eleven <strong>med</strong> <strong>säkerhet avancerade </strong>dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer. <strong>Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter</strong>.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med</strong> <strong>säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med <strong>avancerade </strong>tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.<strong> I sin värdering gör eleven även välgrundade och nyanserade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KOTKOS03</h3>",
+      "code": "KOTKOS03",
+      "nameHeading": "<h2>Konstruktion 3, 100 poäng</h2>",
+      "name": "Konstruktion 3",
+      "englishName": "Construction 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen konstruktion 3 omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Konstruktionsmaterial eller komponenter för hållbar teknikutveckling.</li> <li>Konstruktionsarbete, där teknikområden integreras.</li> <li>Komponenter, material, verktyg, metoder och processer inom valda teknikområden samt deras egenskaper och begränsningar vid olika tillämpningar och i olika miljöer.</li> <li>Fördjupning i teoretiska modeller och konstruktionsberäkningar med hänsyn tagen till matematiska och teknikvetenskapliga samband.</li> <li>Dimensionering med och utan databaserade verktyg.</li> <li>Fördjupning i standarder och normer inom valda teknikområden.</li> <li>Dokumentation, redovisning och presentation av eget konstruktionsarbete och resultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för nya trender vid val av konstruktionsmaterial eller komponenter för hållbar utveckling.</p><p>Eleven utför, med <strong>tillfredsställande </strong>resultat, konstruktionsarbete där teknikområden integreras. Dessutom väljer eleven <strong>i samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>översiktligt</strong> sina val utifrån deras egenskaper och begränsningar. I arbetet löser eleven med<strong> tillfredsställande </strong>resultat problem och konstruktionsuppgifter samt utför beräkningar genom att använda matematiska och teknikvetenskapliga samband. Dessutom utför eleven <strong>med viss säkerhet</strong> dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för nya trender vid val av konstruktionsmaterial eller komponenter för hållbar utveckling.</p><p>Eleven utför, med <strong>tillfredsställande </strong>resultat, konstruktionsarbete där teknikområden integreras. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt </strong>sina val utifrån deras egenskaper och begränsningar. I arbetet löser eleven med<strong> tillfredsställande </strong>resultat problem och konstruktionsuppgifter samt utför beräkningar genom att använda matematiska och teknikvetenskapliga samband. Dessutom utför eleven <strong>med viss säkerhet</strong> dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med viss säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för nya trender vid val av konstruktionsmaterial eller komponenter för hållbar utveckling.</p><p>Eleven utför, med <strong>gott </strong>resultat, konstruktionsarbete där teknikområden integreras. Dessutom väljer eleven <strong>efter samråd </strong>med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar <strong>utförligt och nyanserat </strong>sina val utifrån deras egenskaper och begränsningar. I arbetet löser eleven med<strong> gott </strong>resultat <strong>komplexa </strong>problem och konstruktionsuppgifter samt utför <strong>avancerade </strong>beräkningar genom att använda matematiska och teknikvetenskapliga samband. Dessutom utför eleven <strong>med säkerhet avancerade</strong> dimensioneringar med och utan databaserade verktyg. Eleven tar i sitt arbete hänsyn till standarder och normer. <strong>Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter</strong>.</p><p>Eleven dokumenterar, redovisar och presenterar <strong>med säkerhet</strong> sitt eller projektgruppens konstruktionsarbete med tekniska begrepp. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.063Z"
+}

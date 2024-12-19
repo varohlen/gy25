@@ -1,0 +1,78 @@
+{
+  "code": "MALT",
+  "name": "Måltid och bransch",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:72",
+  "nameHeading": "<h2>Måltid och bransch</h2>",
+  "description": "<p>Ämnet måltid och bransch ger en grund för fortsatt lärande inom restaurang-, bageri- och livsmedelsbranschens områden. I ämnet ingår branschens olika hantverk samt service och livsmedelshygien. Ämnet ger även kunskaper om branschens verksamheter och villkor.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet måltid och bransch ska syfta till att eleverna utvecklar förståelse av restaurang-, bageri- och livsmedelsbranschens olika verksamheter. Undervisningen ska ge eleverna möjlighet att prova på olika arbetsuppgifter. På så vis ska eleverna ges möjlighet att utveckla förståelse av hur det är att arbeta i branschens olika yrken och hur dessa samverkar. Undervisningen ska bidra till att eleverna upplever måltiden som helhet med alla dess delar som mat, dryck, bröd, bakverk, servering och service. Undervisningen ska leda till att eleverna utvecklar kunskaper om hantverksmässiga arbetsuppgifter inom bageri, konditori, kök och matsal. Undervisningen ska vidare leda till att eleverna utvecklar kunskaper om hygien, ergonomi och arbetsmiljö samt om lagar och andra bestämmelser som gäller för respektive yrkesområde.</p> <p>Eleverna ska i undervisningen ges möjlighet att utveckla kunskaper om mikroorganismers förekomst, livsbetingelser och betydelse i samband med livsmedelshantering. Eleverna ska också ges möjlighet att utveckla förmåga att genomföra egenkontroll.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att bemöta olika kunder och gäster på ett serviceinriktat sätt samt att samarbeta med andra. Dessutom ska eleverna ges rikliga möjligheter att diskutera och resonera om hållbarhet och etik i branschen.</p> <h5><em>Undervisningen i ämnet måltid och bransch ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om branschens olika verksamheter.</li> <li>Förmåga att utföra enklare arbetsuppgifter inom branschens olika yrkesområden.</li> <li>Förmåga att bemöta kunder och gäster i olika servicesituationer.</li> <li>Kunskaper om hygien i samband med livsmedelshantering.</li> </ul><h3>Nivåer i ämnet måltid och bransch</h3><ul><li>Nivå 1, 200 poäng. Betyg i måltid och bransch som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i service och bemötande som omfattar nivå 1 eller betyg i livsmedelshygien som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MALT1000X</h3>",
+      "code": "MALT1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet måltid och bransch på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Branschens olika yrken och hur dessa samverkar.</li> <li>Måltiden som helhetsupplevelse och dess olika delar, däribland mat, dryck, bröd, bakverk, servering och service.</li> <li>Alkoholens effekter och skadeverkningar.</li> <li>Arbetsmiljö och ergonomi.</li> <li>Första hjälpen med HLR (hjärt-lungräddning).</li> <li>Anställningsvillkor, kollektivavtal och arbetsrätt.</li> <li>Hållbarhetsfrågor i branschen.</li> <li>Olika hantverksmetoder med enklare tekniker inom bageri, konditori, matlagning och servering.</li> <li>Grunderna i sensorik.</li> <li>Grunderna i planering, samarbete och organisation.</li> <li>Servicegången.</li> <li>Hantering av vanliga material, maskiner och annan utrustning på ett säkert sätt.</li> <li>Bemötande av kunder och gäster på ett serviceinriktat sätt utifrån olika förutsättningar och behov.</li> <li>Hantering av olika typer av kund- och gästreaktioner på ett serviceinriktat sätt.</li> <li>Presentation och rekommendation av varor och tjänster till kund eller gäst.</li> <li>Livsvillkor för bakterier, svampar och virus.</li> <li>Hantering av livsmedel och råvaror på ett hygieniskt sätt.</li> <li>Livsmedelsburna smittor och förgiftningar.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Personlig och yrkesmässig hygien.</li> <li>Rengöring av lokaler och utrustning.</li> <li>Förvaringstemperaturer och egenkontroll.</li> <li>Kärntemperaturer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MALT2000X</h3>",
+      "code": "MALT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet måltid och bransch på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Branschens verksamheter. Drift, organisation, planering, anställningsvillkor och ekonomi.</li> <li>Planering av måltider som helhetsupplevelser.</li> <li>Alkoholens effekter och konsekvenser samt regler för ansvarsfull alkoholservering.</li> <li>Hantverksmetoder med vanliga tekniker inom bageri, konditori, matlagning och servering.</li> <li>Grundsmaker och sensorisk metod.</li> <li>Planering och organisation av simultana moment inom olika yrkesområden. Samarbete.</li> <li>Hantering av material, maskiner och annan utrustning på ett säkert sätt.</li> <li>Att samverka med andra i olika servicesituationer på ett ansvarsfullt sätt. Den egna rollen i olika servicesituationer.</li> <li>Presentation av produkter och tjänster på ett serviceinriktat sätt.</li> <li>Hantering av livsmedel och råvaror efter recept och instruktioner på ett hygieniskt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Hygienrutiner och egenkontroll, däribland HACCP (hazard analysis and critical control points).</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om branschens verksamheter, villkor och utbud.</p> <p>Eleven utför enklare arbetsuppgifter inom branschens olika yrkesområden med <strong>viss säkerhet</strong>.</p> <p>Eleven bemöter med <strong>viss säkerhet</strong> kunder och gäster.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hygien i samband med livsmedelshantering.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om branschens verksamheter, villkor och utbud.</p> <p>Eleven utför enklare arbetsuppgifter inom branschens olika yrkesområden med <strong>säkerhet</strong>.</p> <p>Eleven bemöter med <strong>säkerhet</strong> kunder och gäster.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hygien i samband med livsmedelshantering.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om branschens verksamheter, villkor och utbud.</p> <p>Eleven utför enklare arbetsuppgifter inom branschens olika yrkesområden med <strong>god säkerhet</strong>.</p> <p>Eleven bemöter med <strong>god säkerhet</strong> kunder och gäster.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hygien i samband med livsmedelshantering.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.037Z"
+}

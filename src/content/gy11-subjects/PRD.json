@@ -1,0 +1,105 @@
+{
+  "code": "PRD",
+  "name": "Produktionskunskap",
+  "englishName": "Production knowledge",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:210",
+  "skolfsAndring": "2022:254",
+  "nameHeading": "<h2>Produktionskunskap</h2>",
+  "description": "<p>Ämnet produktionskunskap behandlar hur produktionsidéer utvecklas och vad som måste beaktas i ett utvecklingsarbete. Ämnet behandlar hur produktens design och kvalitet påverkar produktionsplanering och utformning eller omarbetning av produktionsprocessen liksom olika ansvarsområden samt underhållsbehov och logistik. Ämnet behandlar även betydelsen av kommunikation, samarbete och ett kundorderstyrt tänkesätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionskunskap ska syfta till att eleverna utvecklar förståelse av helheten i produktionsprocessen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprocessen när en produktionsidé utvecklas till färdig produkt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om utvecklingsarbetets påverkan på produktens design och kvalitet samt hur det i sin tur påverkar valet av material och produktionsmetod. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om produktionsflöde, underhåll och alternativa produktionstekniker. Eleverna ska även ges möjlighet att utveckla kunskaper om olika arbetsuppgifter och ansvarsområden i industriteknisk produktion.</p><p>Eleverna ska ges möjlighet att utveckla kunskaper om varför logistik, effektiviseringar, produktionsekonomi, marknadsföring och arbete för hållbar utveckling är viktigt för industriteknisk produktion. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper för en kundorienterad tillverkning. I undervisningen ska eleverna även ges möjlighet att utveckla kommunikationsförmåga och samarbetsförmåga samt förståelse av varför detta är viktigt för produktionen.</p><h4>Undervisningen i ämnet produktionskunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om hur en produktionsidé utvecklas.</li> <li>Kunskaper om organisationsenheter, arbetsuppgifter och ansvarsområden i industriteknisk produktion.</li> <li>Kunskaper om hur utvecklingsarbetet med design och kvalitet inverkar på produktionen.</li> <li>Kunskaper om materialval, produktionsmetoder, produktionsflöden, underhåll och alternativa produktionstekniker.</li> <li>Kunskaper om samarbetets betydelse för produktionen och för företaget.</li> <li>Kunskaper om logistik, effektiviseringar, produktionsekonomi, marknadsföring och hållbar utveckling.</li> <li>Kunskaper om kundorderstyrd tillverkning.</li> <li>Förmåga att använda begrepp och uttryck som är relevanta för ämnesområdet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Produktionskunskap 1, 100 poäng. </li> <li>Produktionskunskap 2, 100 poäng, som bygger på kursen produktionskunskap 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PRDPRO01</h3>",
+      "code": "PRDPRO01",
+      "nameHeading": "<h2>Produktionskunskap 1, 100 poäng</h2>",
+      "name": "Produktionskunskap 1",
+      "englishName": "Production knowledge 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen produktionskunskap 1 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Processen för hur en produktionsidé påverkar till exempel en produkts design, funktion och kvalitet. Hur förändringar när det till exempel gäller design, funktion och kvalitet påverkar befintlig produktion.</li> <li>Olika organisationsenheter, deras samarbete och hur de bildar en helhet och skapar ett sammanhang i industriteknisk produktion.</li> <li>Arbetsuppgifter och ansvarsområden inom produktionstekniska avdelningar och vilken funktion dessa fyller i företaget.</li> <li>Val av material, metod och teknik för såväl produktion som driftsäkerhet och underhåll för ett fungerande produktionsflöde och hållbar utveckling.</li> <li>Logistik i industriteknisk produktion, till exempel orderingång, råvaruinköp, produktionsplanering, personalfrågor, försäljning, marknadsföring och lagerföring.</li> <li>Produktionsekonomi, till exempel vilka intäkter och kostnader som finns för produktionen.</li> <li>Efterfrågans påverkan på produktionen. </li> <li>Samarbetets betydelse för en fungerande och lönsam tillverkning.</li> <li>Begrepp och uttryck som är lämpliga för ämnesområdet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för hur en produktionsidé påverkar produktionen. I redogörelsen förklarar eleven <strong>översiktligt</strong> hur olika organisationsenheter i företaget hänger ihop samt deras olika arbetsuppgifter och ansvarsområden. Dessutom resonerar eleven <strong>översiktligt</strong> om sambandet mellan designarbete, produktutveckling och kvalitetsarbete. Eleven resonerar även <strong>översiktligt</strong> om sambanden mellan materialval, val av produktionsteknik och underhållsteknik samt om hur dessa val påverkar produktionsflöde och hållbar utveckling.</p><p>Eleven redogör <strong>översiktligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>översiktligt</strong> logistiken inom en produktionsenhet samt hur den påverkar produktionsekonomin.</p><p>Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för hur en produktionsidé påverkar produktionen. I redogörelsen förklarar eleven <strong>utförligt</strong> hur olika organisationsenheter i företaget hänger ihop samt deras olika arbetsuppgifter och ansvarsområden. Dessutom resonerar eleven <strong>utförligt</strong> om sambandet mellan designarbete, produktutveckling och kvalitetsarbete. Eleven resonerar även <strong>utförligt</strong> om sambanden mellan materialval, val av produktionsteknik och underhållsteknik samt om hur dessa val påverkar produktionsflöde och hållbar utveckling.</p><p>Eleven redogör <strong>utförligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>utförligt</strong> logistiken inom en produktionsenhet samt hur den påverkar produktionsekonomin.</p><p>Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur en produktionsidé påverkar produktionen. I redogörelsen förklarar eleven <strong>utförligt och nyanserat</strong> hur olika organisationsenheter i företaget hänger ihop samt deras olika arbetsuppgifter och ansvarsområden. Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> om sambandet mellan designarbete, produktutveckling och kvalitetsarbete. Eleven resonerar även <strong>utförligt och nyanserat</strong> om sambanden mellan materialval, val av produktionsteknik och underhållsteknik samt om hur dessa val påverkar produktionsflöde och hållbar utveckling.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> logistiken inom en produktionsenhet samt hur den påverkar produktionsekonomin.</p><p>Eleven använder <strong>med säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRDPRO02</h3>",
+      "code": "PRDPRO02",
+      "nameHeading": "<h2>Produktionskunskap 2, 100 poäng</h2>",
+      "name": "Produktionskunskap 2",
+      "englishName": "Production knowledge 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen produktionskunskap 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Processen för hur en produktionsidé påverkar till exempel en produkts design, funktion och kvalitet. Hur förändringar när det till exempel gäller design, funktion och kvalitet påverkar befintlig produktion.</li> <li>Olika organisationsenheter, deras samarbete och hur de bildar en helhet och skapar ett sammanhang i industriteknisk produktion.</li> <li>Arbetsuppgifter och ansvarsområden inom industriteknisk produktion och vilken funktion de fyller i företaget. Utformning av en arbetsorganisation så att den blir ett stöd i företagets utveckling och produktion.</li> <li>Innovation och utveckling av produktionen genom systematiskt design- och kvalitetsarbete.</li> <li>Betydelsen av val av material, metod och teknik för såväl produktion som driftsäkerhet och förebyggande och avhjälpande underhåll för ett fungerande produktionsflöde, god produktionsekonomi och hållbar utveckling.</li> <li>Alternativa produktionstekniker för kundanpassning.</li> <li>Effektivisering av produktionen, till exempel lean.</li> <li>Logistik inom industriteknisk produktion för en fungerande funktionalitet inom tillverkningen och företaget med hållbar utveckling.</li> <li>Hur fasta, rörliga, direkta och indirekta kostnader påverkar produktionen.</li> <li>Vikten av marknadsföring för ett företags ekonomi.</li> <li>Produktion av det kunden vill ha, genom kundorderstyrd tillverkning.</li> <li>Samarbetets betydelse för organisationen och företaget.</li> <li>Begrepp och uttryck som är lämpliga för ämnesområdet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för hur en produktionsidé påverkar befintlig produktion samt utveckling av en ny produktionslinje. I redogörelsen beskriver eleven <strong>översiktligt</strong> hur en produktionsidé tas fram samt processen för utveckling till färdig produkt och ett fungerande produktionsflöde. Dessutom förklarar eleven <strong>översiktligt </strong>hur olika organisationsenheter i företaget hänger ihop samt redogör <strong>översiktligt </strong>för deras olika arbetsuppgifter och ansvarsområden. Eleven redogör vidare <strong>översiktligt </strong>för hur arbetsorganisationen kan utformas för att bli ett stöd i företagets utveckling och produktion. Eleven resonerar även <strong>översiktligt</strong> om sambandet mellan designarbete, produktutveckling och systematiskt kvalitetsarbete. Dessutom redogör eleven <strong>översiktligt</strong> för hur produktutveckling och förebyggande underhåll påverkar produktionsflöde och hållbar utveckling. Eleven resonerar även <strong>översiktligt </strong>om alternativa produktionstekniker för effektivisering av produktionen. Dessutom utför eleven <strong>med viss säkerhet</strong> enkla produktionsekonomiska beräkningar.</p><p>Eleven redogör <strong>översiktligt</strong> för hur arbetsorganisationer kan utformas för en fungerande och lönsam tillverkning samt <strong>översiktligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>översiktligt</strong> logistiken för industriteknisk produktion samt redogör <strong>översiktligt </strong>för produktionsstyrd och kundorderstyrd tillverkning.</p><p>Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för hur en produktionsidé påverkar befintlig produktion samt utveckling av en ny produktionslinje. I redogörelsen beskriver eleven <strong>utförligt</strong> hur en produktionsidé tas fram samt processen för utveckling till färdig produkt och ett fungerande produktionsflöde. Dessutom förklarar eleven <strong>utförligt </strong>hur olika organisationsenheter i företaget hänger ihop samt redogör <strong><strong>utförligt </strong></strong>för deras olika arbetsuppgifter och ansvarsområden. Eleven redogör vidare <strong><strong>utförligt </strong></strong>för hur arbetsorganisationen kan utformas för att bli ett stöd i företagets utveckling och produktion. Eleven resonerar även <strong>utförligt</strong> om sambandet mellan designarbete, produktutveckling och systematiskt kvalitetsarbete. Dessutom redogör eleven <strong>utförligt</strong> för hur produktutveckling och förebyggande underhåll påverkar produktionsflöde och hållbar utveckling. Eleven resonerar även <strong>utförligt </strong>om alternativa produktionstekniker för effektivisering av produktionen. Dessutom utför eleven <strong>med viss säkerhet</strong> enkla produktionsekonomiska beräkningar. </p><p>Eleven redogör <strong>utförligt</strong> för hur arbetsorganisationer kan utformas för en fungerande och lönsam tillverkning samt <strong>utförligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>utförligt</strong> logistiken för industriteknisk produktion samt redogör <strong>utförligt </strong>för produktionsstyrd och kundorderstyrd tillverkning.</p><p>Eleven använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser, beskrivningar och resonemang.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur en produktionsidé påverkar befintlig produktion samt utveckling av en ny produktionslinje. I redogörelsen beskriver eleven <strong>utförligt och nyanserat</strong> hur en produktionsidé tas fram samt processen för utveckling till färdig produkt och ett fungerande produktionsflöde. Dessutom förklarar eleven <strong>utförligt </strong><strong>och nyanserat </strong>hur olika organisationsenheter i företaget hänger ihop samt redogör <strong><strong>utförligt och nyanserat </strong></strong>för deras olika arbetsuppgifter och ansvarsområden. Eleven redogör vidare <strong><strong>utförligt och nyanserat </strong></strong>för hur arbetsorganisationen kan utformas för att bli ett stöd i företagets utveckling och produktion. Eleven resonerar även <strong>utförligt</strong><strong> och nyanserat</strong> om sambandet mellan designarbete, produktutveckling och systematiskt kvalitetsarbete. Dessutom redogör eleven <strong>utförligt</strong><strong> och nyanserat</strong> för hur produktutveckling och förebyggande underhåll påverkar produktionsflöde och hållbar utveckling. Eleven resonerar även <strong>utförligt</strong><strong> och nyanserat</strong> om alternativa produktionstekniker för effektivisering av produktionen. Dessutom utför eleven <strong>med säkerhet</strong> enkla produktionsekonomiska beräkningar. </p><p>Eleven redogör <strong>utförligt</strong><strong> och nyanserat </strong>för hur arbetsorganisationer kan utformas för en fungerande och lönsam tillverkning samt <strong>utförligt</strong><strong> och nyanserat</strong>, utifrån exempel, för vikten av samarbete för en fungerande och lönsam tillverkning. Dessutom beskriver eleven <strong>utförligt </strong><strong>och nyanserat </strong>logistiken för industriteknisk produktion samt redogör <strong>utförligt</strong><strong> och nyanserat </strong>för produktionsstyrd och kundorderstyrd tillverkning.</p><p>Eleven använder <strong>med säkerhet</strong> korrekt fackspråk i sina redogörelser, beskrivningar och resonemang.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.131Z"
+}

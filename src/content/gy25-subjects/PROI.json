@@ -1,0 +1,106 @@
+{
+  "code": "PROI",
+  "name": "Produktionsutrustning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:98",
+  "nameHeading": "<h2>Produktionsutrustning</h2>",
+  "description": "<p>Ämnet produktionsutrustning behandlar industriteknisk utrustning och dess användningsområden. Det behandlar även hur utrustningen vårdas samt hur dess funktion kontrolleras.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsutrustning ska syfta till att eleverna utvecklar förmåga att använda industriteknisk produktionsutrustning och kringutrustning i enlighet med säkerhetsföreskrifter. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om utrustningens olika användningsområden samt förståelse av hur olika materials och råvarors egenskaper påverkar produktionen. Eleverna ska vidare ges möjlighet att utveckla kunskaper om produktionsutrustningens funktioner och konstruktion samt om metoder och tekniker.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att planera, organisera och utföra arbete i olika typer av manuell och automatiserad utrustning. Eleverna ska även ges möjlighet att utveckla förmåga att genomföra kontroll och felsökning samt vård och underhåll av produktionsutrustning och kringutrustning. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om kvalitetssäkring samt förmåga att dokumentera utfört arbete och använda kvalitetssystem.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom och mellan olika yrkesgrupper. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att uttrycka sig med den terminologi och de symboler och bilder som används inom området.</p> <p>Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom det produktionstekniska området. I undervisningen ska eleverna ges möjlighet att utföra både teoretiska och praktiska övningar.</p> <h5><em>Undervisningen i ämnet produktionsutrustning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om produktionsutrustning, råvaror och material som används i den industritekniska processen.</li> <li>Förmåga att planera, organisera och utföra arbete i produktionsutrustning.</li> <li>Förmåga att kontrollera, felsöka, vårda och underhålla produktionsutrustning och kringutrustning.</li> <li>Förmåga att mäta, dokumentera och bedöma kvaliteten på utfört arbete.</li> <li>Förmåga att arbeta säkert utifrån säkerhetsföreskrifter.</li> </ul><h3>Nivåer i ämnet produktionsutrustning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROI1000X</h3>",
+      "code": "PROI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutrustning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Produktionsutrustning, råvaror och material</em></p> <ul> <li>Vanligt förekommande användningsområden för manuell och automatiserad produktionsutrustning.</li> <li>Vanligt förekommande metoder och tekniker för produktionsutrustning och kringutrustning.</li> <li>Funktion och konstruktion hos enklare produktionsutrustning och kringutrustning.</li> <li>Vanligt förekommande symboler, beteckningar och märkningar.</li> <li>Orientering om vanligt förekommande material och materials beteckningssystem.</li> <li>Vanligt förekommande råvarors och materials betydelse för funktion, kvalitet och återvinning.</li> </ul> <p><em>Produktion, mätningar och kvalitet</em></p> <ul> <li>Grundläggande produktionsrelaterade arbetsmoment, däribland bänkarbeten samt läsning och tolkning av enkla ritningar.</li> <li>Planering och organisation av eget arbete.</li> <li>Användning av verktyg, instrument och utrustning, till exempel handverktyg.</li> <li>Hantering av vanligt förekommande material.</li> <li>Kontroller och felsökning i samband med användande av utrustning.</li> <li>Enklare underhåll av produktions- och kringutrustning.</li> <li>Vård av produktions- och kringutrustning.</li> <li>Mätningar i samband med användande av utrustning.</li> <li>Enklare dokumentation av utfört arbete.</li> <li>Bedömning av kvalitet på utfört arbete.</li> </ul> <p><em>Säkerhet och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser om säkerhet i arbetet, däribland bestämmelser om brandfarliga arbeten.</li> <li>Arbetsmetoder för struktur, ordning och effektiv arbetsmiljö.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROI2000X</h3>",
+      "code": "PROI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutrustning på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Produktionsutrustning, råvaror och material</em></p> <ul> <li>Användningsområden för manuell och automatiserad produktionsutrustning och kringutrustning.</li> <li>Metoder och tekniker för industriteknisk produktionsutrustning och kringutrustning.</li> <li>Funktion och konstruktion hos produktionsutrustning och kringutrustning.</li> <li>Symboler, beteckningar och märkningar.</li> <li>Material och materials beteckningssystem.</li> <li>Råvarors och materials väg till färdig produkt genom olika förädlingssystem i den industritekniska processen.</li> <li>Råvarors och materials betydelse för funktion, kvalitet och återvinning.</li> </ul> <p><em>Produktion, mätningar och kvalitet</em></p> <ul> <li>Kommunikation och samverkan mellan olika yrkesgrupper i produktionsprocessen.</li> <li>Produktionsrelaterade arbetsmoment samt läsning och tolkning av ritningar.</li> <li>Planering och organisation av eget arbete.</li> <li>Hantering av verktyg, instrument och utrustning, till exempel maskiner, produktionsmoduler och styrteknisk utrustning.</li> <li>Hantering av material inom produktionsprocessen.</li> <li>Kontroller och felsökning i samband med användande av utrustning.</li> <li>Vård och underhåll av produktions- och kringutrustning.</li> <li>Dokumentation av utfört arbete.</li> <li>Bedömning av kvalitet på utfört arbete.</li> </ul> <p><em>Säkerhet och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser om säkerhet och arbetsmiljö.</li> <li>Arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROI3000X</h3>",
+      "code": "PROI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutrustning på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Produktionsutrustning, råvaror och material</em></p> <ul> <li>Användningsområden för produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Metoder och tekniker som används för produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Funktion och konstruktion hos produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Råvaror eller materials väg till färdig produkt genom olika förädlingssystem inom valt industritekniskt område.</li> <li>Råvarors och materials betydelse för funktion och kvalitet samt tillverkning och återvinning av produkter och restprodukter.</li> <li>Symboler, beteckningar och märkningar.</li> <li>Materials beteckningssystem inom valt industritekniskt område.</li> </ul> <p><em>Produktion, mätningar och kvalitet</em></p> <ul> <li>Produktionsrelaterade arbetsmoment utifrån valt industritekniskt område.</li> <li>Planering och organisation av eget arbete.</li> <li>Hantering och inställning av relevant produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Hantering av material inom vald produktionsprocess.</li> <li>Dimensioneringar samt mätningar, till exempel av koncentrationer och toleranser i samband med användandet av utrustning för valt industritekniskt område.</li> <li>Bedömning av mätfel och felsökning av produktionsutrustning och kringutrustning.</li> <li>Kontroller och felsökningar i samband med användande av utrustning inom valt industritekniskt område.</li> <li>Vård och underhåll av produktions- och kringutrustning utifrån valt industritekniskt område.</li> <li>Dokumentation av utfört arbete inom valt industritekniskt område.</li> <li>Bedömning av kvaliteten på utfört arbete.</li> </ul> <p><em>Säkerhet och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser om säkerhet och arbetsmiljö.</li> <li>Arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROI4000X</h3>",
+      "code": "PROI4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutrustning på nivå 4 ska behandla följande centrala innehåll:</p> <p><em>Produktionsutrustning, råvaror och material</em></p> <ul> <li>Fördjupat arbete med produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Fördjupning i metoder och tekniker som används för produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Funktion och konstruktion hos komplex produktionsutrustning inom valt industritekniskt område.</li> <li>Teknisk beskrivning av produktionsutrustning och kringutrustning.</li> <li>Råvarors och materials egenskaper och hur de påverkar funktion och kvalitet.</li> <li>Återvinning av produktionsutrustning och kringutrustning.</li> </ul> <p><em>Produktion, mätningar och kvalitet</em></p> <ul> <li>Planering och organisation av självständigt arbete med produktionsrelaterade arbetsmoment inom valt industritekniskt område.</li> <li>Hantering, inställning och optimering av avancerad produktionsutrustning och kringutrustning inom valt industritekniskt område.</li> <li>Hantering och val av material inom vald produktionsprocess.</li> <li>Avancerade mätningar och bedömning av mätfel i samband med yrkesmässigt användande av relevant utrusning för valt industritekniskt område.</li> <li>Dimensionering samt tekniska och ekonomiska beräkningar.</li> <li>Komplexa kontroller och felsökningar i samband med användande av utrustning inom valt industritekniskt område.</li> <li>Vård och underhåll av produktions- och kringutrustning utifrån valt industritekniskt område.</li> <li>Yrkesmässig dokumentation av utfört arbete inom valt industritekniskt område.</li> <li>Bedömning av kvalitet på utfört arbete.</li> </ul> <p><em>Säkerhet och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser om säkerhet och arbetsmiljö.</li> <li>Arbetsmetoder för struktur, ordning och effektiv arbetsmiljö utifrån valt industritekniskt område.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om produktionsutrustning, råvaror och material som används i den industritekniska processen.</p> <p>Eleven planerar, organiserar och utför med <strong>viss säkerhet</strong> arbete i produktionsutrustning. I arbetet hanterar eleven verktyg, instrument, utrustning och material med <strong>viss säkerhet</strong>.</p> <p>Eleven kontrollerar, felsöker, vårdar och underhåller produktions- och kringutrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven mäter och bedömer kvalitet på utfört arbete med <strong>viss säkerhet</strong> samt dokumenterar arbetet.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om produktionsutrustning, råvaror och material som används i den industritekniska processen.</p> <p>Eleven planerar, organiserar och utför med <strong>säkerhet</strong> arbete i produktionsutrustning. I arbetet hanterar eleven verktyg, instrument, utrustning och material med <strong>säkerhet</strong>.</p> <p>Eleven kontrollerar, felsöker, vårdar och underhåller produktions- och kringutrustning med <strong>säkerhet</strong>.</p> <p>Eleven mäter och bedömer kvalitet på utfört arbete med <strong>säkerhet</strong> samt dokumenterar arbetet.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om produktionsutrustning, råvaror och material som används i den industritekniska processen.</p> <p>Eleven planerar, organiserar och utför med <strong>god säkerhet</strong> arbete i produktionsutrustning. I arbetet hanterar eleven verktyg, instrument, utrustning och material med <strong>god säkerhet</strong>.</p> <p>Eleven kontrollerar, felsöker, vårdar och underhåller produktions- och kringutrustning med <strong>god säkerhet</strong>.</p> <p>Eleven mäter och bedömer kvalitet på utfört arbete med <strong>god säkerhet</strong> samt dokumenterar arbetet.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.064Z"
+}

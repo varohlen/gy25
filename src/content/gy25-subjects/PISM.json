@@ -1,0 +1,78 @@
+{
+  "code": "PISM",
+  "name": "Pistmaskinsförare",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:333",
+  "nameHeading": "<h2>Pistmaskinsförare</h2>",
+  "description": "<p>Ämnet pistmaskinsförare behandlar preparering med snö i olika spårområden och skidnedfarter med hjälp av pistmaskiner och tilläggsutrustningar. Det behandlar även olika pistmaskiner och tilläggsutrustningar samt körning och manövrering av pistmaskiner i spårområden och skidnedfarter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pistmaskinsförare ska syfta till att eleverna utvecklar kunskaper om pistmaskiner och deras tilläggsutrustningar samt förmåga att genomföra funktions- och säkerhetskontroller av dessa. Undervisningen ska även leda till att eleverna utvecklar förmåga att med hjälp av pistmaskiner och olika tilläggsutrustningar preparera spårområden och skidnedfarter med snö.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med arbetskamrater och andra i yrkesrollen. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av hur arbetsresultatet påverkar säkerhet och upplevelser för människor som befinner sig i spårområden och skidnedfarter.</p> <p>I undervisningen ska eleverna ges möjlighet att både självständigt och tillsammans med andra arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet.</p> <h5><em>Undervisningen i ämnet pistmaskinsförare ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av pistmaskiner och tilläggsutrustningar samt deras olika funktioner och användningsområden.</li> <li>Förmåga att genomföra funktions- och säkerhetskontroll av pistmaskiner och deras tilläggsutrustningar.</li> <li>Förmåga att köra och manövrera pistmaskiner i spårområden och skidnedfarter under olika typer av förhållanden.</li> <li>Förmåga att preparera spårområden och skidnedfarter med olika typer av konst- och natursnö.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet pistmaskinsförare</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PISM1000X</h3>",
+      "code": "PISM1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pistmaskinsförare på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika typer av pistmaskiners uppbyggnad och funktion samt deras anpassning till olika användningsområden.</li> <li>Olika typer av tilläggsutrustningar som används för snöpreparering.</li> <li>Orientering om snömätningssystem och metoder för att tolka systemets information i olika situationer och förhållanden.</li> <li>Orientering om rutiner för samt genomförande av funktions- och säkerhetskontroll av pistmaskiner och deras tilläggsutrustningar före körning enligt tillverkarnas anvisningar.</li> <li>Riskbedömning inför pistmaskinkörning.</li> <li>Säkerhetsrutiner vid körning och manövrering av pistmaskiner.</li> <li>Säker och miljövänlig körning och manövrering av pistmaskiner vid spårområden och enklare nedfarter.</li> <li>Anpassning till körsituationens krav, däribland vid olika väder- och siktförhållanden.</li> <li>Reflektion över och värdering av det egna körbeteendet, däribland gällande risktagande och handlingsberedskap.</li> <li>Preparering av spårområden och enklare skidnedfarter med olika typer av snö samt användning av olika typer av tilläggsutrustningar.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PISM2000X</h3>",
+      "code": "PISM2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pistmaskinsförare på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika typer av pistmaskiners och deras tilläggsutrustningars uppbyggnad och funktion samt deras anpassning till olika användningsområden, däribland hur förarplatsens utformning är uppbyggd med reglage och olika manöversystem för maskin och tilläggsutrustningar.</li> <li>Metoder för att använda snömätningssystemets information för planering av miljövänlig och optimal körteknik och snöhantering.</li> <li>Genomförande av funktions- och säkerhetskontroll av pistmaskiner och deras tilläggsutrustningar före körning enligt tillverkarens anvisningar.</li> <li>Metoder för användning av vinschstöd i skidområden på ett riskmedvetet och säkert sätt.</li> <li>Riskbedömning inför pistmaskinkörning.</li> <li>Säkerhetsrutiner vid körning och manövrering av pistmaskiner.</li> <li>Säker och miljövänlig körning och manövrering av pistmaskiner i skiftande terräng, däribland i skidområden och nedfarter samt vid anläggning av snöparker.</li> <li>Anpassning till körsituationens krav, däribland vid olika väder- och siktförhållanden.</li> <li>Körning av pistmaskiner med automatiskt vinschstöd i samband med preparering av nedfarter med hänsyn till säkerhetsrisker som är förenade med vinschstöd i skidområdet.</li> <li>Reflektion över och värdering av det egna körbeteendet, däribland gällande säkerhet, risktagande och handlingsberedskap.</li> <li>Planering av arbetsprocessen för snöpreparering med hänsyn till säkerhet, miljö och ekonomi.</li> <li>Preparering av spårområden och skidnedfarter i skiftande terräng med olika typer av konst- och natursnö.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av pistmaskiner och tilläggsutrustningar samt deras olika funktioner och användningsområden.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> funktions- och säkerhetskontroller av pistmaskiner och deras tilläggsutrustningar.</p> <p>Eleven kör och manövrerar pistmaskiner på ett säkert, riskmedvetet och miljövänligt sätt i spårområden och skidnedfarter under olika typer av förhållanden.</p> <p>Eleven preparerar med <strong>viss säkerhet</strong> spårområden och skidnedfarter med olika typer av konst- och natursnö.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av pistmaskiner och tilläggsutrustningar samt deras olika funktioner och användningsområden.</p> <p>Eleven genomför med <strong>säkerhet</strong> funktions- och säkerhetskontroller av pistmaskiner och deras tilläggsutrustningar.</p> <p>Eleven kör och manövrerar pistmaskiner på ett säkert, riskmedvetet och miljövänligt sätt i spårområden och skidnedfarter under olika typer av förhållanden.</p> <p>Eleven preparerar med <strong>säkerhet</strong> spårområden och skidnedfarter med olika typer av konst- och natursnö.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av pistmaskiner och tilläggsutrustningar samt deras olika funktioner och användningsområden.</p> <p>Eleven genomför med <strong>god säkerhet</strong> funktions- och säkerhetskontroller av pistmaskiner och deras tilläggsutrustningar.</p> <p>Eleven kör och manövrerar pistmaskiner på ett säkert, riskmedvetet och miljövänligt sätt i spårområden och skidnedfarter under olika typer av förhållanden.</p> <p>Eleven preparerar med <strong>god säkerhet</strong> spårområden och skidnedfarter med olika typer av konst- och natursnö.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.061Z"
+}

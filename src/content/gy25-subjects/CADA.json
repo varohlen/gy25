@@ -1,0 +1,78 @@
+{
+  "code": "CADA",
+  "name": "Cad",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:186",
+  "nameHeading": "<h2>Cad</h2>",
+  "description": "<p>Ämnet cad (computer aided design) behandlar användning av olika programvaror för konstruktion och design av verkliga och virtuella objekt och system. I ämnet cad är digitala verktyg grunden för att via skiss, modellering och ritteknik realisera en idé till underlag för projektering och tillverkning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cad ska syfta till att eleverna utvecklar kunskaper om och färdigheter i skiss- och ritteknik samt förmåga att använda något eller några cad-system. Undervisningen ska även leda till att eleverna utvecklar kunskaper om cad-systems uppbyggnad. Cad handlar om att konstruera och designa nya objekt och därför ska undervisningen ge eleverna möjlighet att utveckla nyfikenhet, uppfinningsrikedom och problemlösningsförmåga.</p> <p>Undervisningen ska utgå från ett valt teknikområde, där cad är ett verktyg för att skapa information om produkten. Därför ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i överföring av cad-programmets information till och från andra datorprogram samt till maskinell kringutrustning. Undervisningen ska introducera begrepp som är relevanta för valt teknikområde och eleverna ska ges möjlighet att utveckla förståelse av hur cad används i design- och produktutvecklingsprocessen. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om ergonomiska förutsättningar för en cad-arbetsplats.</p> <p>Undervisningen ska introducera eleverna i cad-programmets utökade funktioner. Genom praktiskt arbete ska eleverna ges möjlighet att utveckla förmåga att effektivt skapa modeller med lämpliga verktyg, relevanta inställningar och passande funktioner. Undervisningen ska leda till att eleverna utvecklar förmåga att använda cad för analys och simulering. De ska också ges möjlighet att utvärdera sina arbetsmetoder och slutresultat. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor om kopplingen mellan cad och hållbar utveckling samt olika handlingsalternativ i arbete med cad.</p> <h5><em>Undervisningen i ämnet cad ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur cad används i konstruktion, projektering eller produktion.</li> <li>Färdigheter i att skapa cad-modeller.</li> <li>Färdigheter i att utforma ritningar i cad enligt gällande standarder och normer.</li> <li>Förmåga att använda cad för analys och simulering.</li> <li>Förmåga att utvärdera arbetsprocess och resultat.</li> <li>Kunskaper om arbetsmiljö vid en cad-arbetsplats.</li> </ul><h3>Nivåer i ämnet cad</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CADA1000X</h3>",
+      "code": "CADA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cad på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Cad-system</em></p> <ul> <li>Cad-systemets roll i projektering, produktutvecklings- och produktionsprocessen.</li> <li>Hantering av filer för olika programvaror och ändamål, däribland import och export till och från andra programmiljöer eller för produktion.</li> <li>Hur cad-system hanteras och anpassas.</li> </ul> <p><em>Ritningar och modellering</em></p> <ul> <li>Modellering med grundläggande verktyg, till exempel extrudering, rotation, svepning, spegling och återanvändning av geometriska mönster.</li> <li>Sammanställningar av enklare föremål i cad-system utifrån valt teknikområde.</li> <li>Skiss- och ritteknik för enklare modeller inom valt teknikområde.</li> <li>Tolkning och utformning av ritningar och tillverkningsunderlag utifrån valt teknikområde.</li> </ul> <p><em>Analys och simulering</em></p> <ul> <li>Användning av verktyg för enklare analys och simulering, till exempel beräkning av en modells massa eller simulering av rörelse.</li> <li>Metoder för enklare rendering och visualisering utifrån valt teknikområde, till exempel applicering av färg och material.</li> </ul> <p><em>Arbetsmetoder</em></p> <ul> <li>Hur arbetsprocess och val av metod kan påverka slutresultatets kvalitet.</li> <li>Ergonomiska krav på cad-arbetsplatser samt arbetsmiljö och säkerhet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CADA2000X</h3>",
+      "code": "CADA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cad på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Cad-system</em></p> <ul> <li>Hur cad-filer hanteras inom valt teknikområde, till exempel i produktion eller projektering.</li> <li>Introduktion till digitala miljöer för gemensam filhantering och samarbete.</li> <li>Filhantering för modeller och ritningar.</li> <li>Hantering och anpassning av cad-system samt avancerade verktygsfunktioner och möjliga inställningar.</li> </ul> <p>Ritningar och modellering</p> <ul> <li>Modellering med hjälp av applikationsverktyg, extra funktioner och inställningar samt avancerade verktyg, till exempel för ytmodellering och komplexa strukturer.</li> <li>Sammanställningar av komplexa föremål i cad-system utifrån valt teknikområde.</li> <li>Skiss- och ritteknik för avancerade modeller och tillämpningar inom valt teknikområde.</li> <li>Specifika ritningar för valt teknikområde, till exempel sammanställningsritning för produktutveckling och konstruktionsritning för byggteknik.</li> </ul> <p><em>Analys och simulering</em></p> <ul> <li>Användning av verktyg för analys av modellens funktionalitet i ett praktiskt sammanhang samt simulering, till exempel energisimulering eller FEM-analys.</li> <li>Metoder för rendering och visualisering utifrån valt teknikområde, till exempel ljussättning eller rörliga animeringar.</li> </ul> <p><em>Arbetsmetoder</em></p> <ul> <li>Val av arbetsprocess och metod för ökad effektivitet och förbättrad kvalitet på slutresultatet.</li> <li>Ergonomiska krav på cad-arbetsplatser samt arbetsmiljökrav och säkerhet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om cad-processen och dess användningsområden.</p> <p>Eleven skapar cad-modeller med <strong>viss</strong> skicklighet.</p> <p>Eleven utformar ritningar enligt gällande standarder och normer med <strong>viss</strong> skicklighet.</p> <p>Eleven använder simuleringsverktyg på ett <strong>i huvudsak fungerande</strong> sätt och gör en <strong>enkel</strong> analys av resultatet.</p> <p>Eleven utvärderar med <strong>enkla</strong> omdömen använd metod och skapat material.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ergonomi och cad-arbetsplatsens arbetsmiljö.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om cad-processen och dess användningsområden.</p> <p>Eleven skapar cad-modeller med <strong>god</strong> skicklighet.</p> <p>Eleven utformar ritningar enligt gällande standarder och normer med <strong>god</strong> skicklighet.</p> <p>Eleven använder simuleringsverktyg på ett <strong>fungerande</strong> sätt och gör en <strong>utvecklad</strong> analys av resultatet.</p> <p>Eleven utvärderar med <strong>utvecklade</strong> omdömen använd metod och skapat material.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ergonomi och cad-arbetsplatsens arbetsmiljö.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om cad-processen och dess användningsområden.</p> <p>Eleven skapar cad-modeller med <strong>mycket god</strong> skicklighet.</p> <p>Eleven utformar ritningar enligt gällande standarder och normer med <strong>mycket god</strong> skicklighet.</p> <p>Eleven använder simuleringsverktyg på ett <strong>väl fungerande</strong> sätt och gör en <strong>välutvecklad</strong> analys av resultatet.</p> <p>Eleven utvärderar med <strong>välutvecklade</strong> omdömen använd metod och skapat material.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ergonomi och cad-arbetsplatsens arbetsmiljö.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.979Z"
+}

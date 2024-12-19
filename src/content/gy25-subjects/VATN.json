@@ -1,0 +1,92 @@
+{
+  "code": "VATN",
+  "name": "Vattenbruk",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:366",
+  "nameHeading": "<h2>Vattenbruk</h2>",
+  "description": "<p>Vattenbruk är en växande näringsgren och andelen fisk, skaldjur, blötdjur och alger som produceras genom vattenbruk ökar i Sverige och globalt. Ämnet vattenbruk behandlar odling av vattenlevande organismer. Centralt i ämnet är biologiska, tekniska och ekonomiska faktorer för en hållbar produktion med hög kvalitet på de odlade produkterna.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet vattenbruk ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med odling av vattenlevande organismer. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta inom vattenbruk utifrån en förståelse av biologiska samband. Undervisningen ska bidra till att eleverna utvecklar kunskaper om vattenlevande djurarter av betydelse inom vattenbruk samt om deras utveckling, näringsbehov och naturliga miljö. Den ska också bidra till att eleverna utvecklar kunskaper om hållbara odlingssystem och produktionsprocesser samt om hur vattenbruket påverkar den omgivande miljön. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om odlingsvärda arter, produktkvalitet, och ekonomi.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera och utföra arbetsuppgifter inom vattenbruk. Undervisningen ska också leda till att eleverna utvecklar förmåga att bedöma vattenlevande organismers utveckling samt att fatta beslut om odlingsåtgärder. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att genomföra kvalitetskontroller.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att sköta anläggningar samt att använda och underhålla teknisk utrustning. Den ska också stimulera elevernas nyfikenhet och intresse för teknikutveckling inom området. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika skador och sjukdomar som kan uppstå i samband med produktionen och om hur dessa kan förebyggas. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda arbetsmetoder som främjar ett långsiktigt hållbart arbetsliv samt att vidta förebyggande säkerhetsåtgärder. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området.</p> <p>Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen. Eleverna ska ges möjlighet att följa utvecklingen i en odling och därigenom utveckla förståelse av sambanden inom vattenbruk. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att lösa problem och att arbeta med teknisk utrustning inom vattenbruk på ett ergonomiskt och säkert sätt.</p> <h5><em>Undervisningen i ämnet vattenbruk ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om vattenlevande djurarter samt om deras utveckling och odlingsmiljö.</li> <li>Kunskaper om hållbara odlingssystem och produktionsprocesser.</li> <li>Förmåga att planera och utföra arbetsuppgifter inom vattenbruk.</li> <li>Förmåga att sköta anläggningar samt att använda och underhålla teknisk utrustning.</li> <li>Kunskaper om skador och sjukdomar hos vattenlevande organismer samt om hur de kan förebyggas.</li> <li>Förmåga att arbeta på ett säkert, ergonomiskt och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet vattenbruk</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet biologi i vattenmiljöer.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VATN1000X</h3>",
+      "code": "VATN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenbruk på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Vanligt förekommande arter som används för odling både nationellt och internationellt.</li> <li>De odlade organismernas anatomi och fysiologi.</li> <li>De olika arternas krav på vattenkvalitet, närmiljö och näring.</li> <li>Olika former av vattenbruk, till exempel odling av fisk, musslor, ostron och kräftor samt produktion för utsättning.</li> <li>Vattenbrukets förutsättningar, till exempel tillgång på föda, utrymme som en odling tar i anspråk både på land och i vatten samt ekonomiska förutsättningar.</li> <li>Intensiv och extensiv produktion.</li> <li>Skador och angrepp av olika sjukdomsframkallande organismer och virus.</li> <li>Förebyggande hälsovård.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Arbetsuppgifter vid daglig skötsel av en odlingsanläggning, till exempel kontroll av djurens utveckling och hälsa samt hantering av de odlade organismerna.</li> <li>Utfodring och hantering av foder samt enkla foderberäkningar.</li> <li>Planering, uppföljning och bedömning av odlingsresultatet.</li> <li>Observationer av organismers utveckling samt bedömning av lämpliga odlingsåtgärder.</li> <li>Användning och underhåll av redskap och teknisk utrustning inom vattenbruk.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi samt arbetsmiljö- och säkerhetsfrågor i samband med vattenbruk.</li> <li>Lagar och andra bestämmelser som gäller odling i vatten, däribland fiskelagstiftning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VATN2000X</h3>",
+      "code": "VATN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenbruk på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Olika arters krav på odlingsmiljön.</li> <li>Olika arters anatomi och fysiologi samt deras livscykler och utveckling.</li> <li>Foderslag samt deras uppbyggnad, kvalitet och förvaring.</li> <li>Foder för optimal tillväxt, god hälsa och miljöhänsyn.</li> <li>Odlingsplatsens förutsättningar, däribland vattenkvalitet och påverkan på närmiljön.</li> <li>Skador och sjukdomar samt hur de kan förebyggas och behandlas.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Planering, genomförande och uppföljning av daglig skötsel av en odlingsanläggning.</li> <li>Val och hantering av foder, beräkning av fodergivor, planering och genomförande av utfodring samt olika utfodringssystem.</li> <li>Arbetsrutiner och provtagningar i samband med hälsovård och miljöövervakning.</li> <li>Observationer av organismers utveckling samt bedömning av lämpliga odlingsåtgärder.</li> <li>Hantering av levande fisk.</li> <li>Beräkningar av tillväxttakt samt de faktorer som styr tillväxttakten.</li> <li>Skötsel och genomförande av behandlingsmetoder vid sjukdomsutbrott och skador.</li> <li>Avlivning, slakt och vidareförädling av fisk.</li> <li>Arbetsrutiner vid sortering och transport av fisk.</li> <li>Skötsel, service och underhåll av redskap och teknisk utrustning.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi samt arbetsmiljö- och säkerhetsfrågor i samband med aktuella arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området, däribland miljölagstiftning, fiskelagstiftning och bestämmelser om småskalig livsmedelshantering.</li> <li>Tillståndsprövning för vattenbruk.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VATN3000X</h3>",
+      "code": "VATN3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenbruk på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Fördjupning inom ett eller flera för vattenbruket relevanta djurslags anatomi och fysiologi.</li> <li>De valda organismernas krav på odlingsmiljön, deras näringsbehov och tillgång till näring samt förutsättningar för optimal tillväxt.</li> <li>Biologiska, fysikaliska och kemiska faktorer som styr odlingsprocessen, till exempel foderval och vattenhantering.</li> <li>Hur vattenbruk kan vara en resurs för hållbar utveckling.</li> <li>Teknikutveckling och omvärldsfaktorer som påverkar branschen.</li> <li>Förebyggande hälsovård, vanliga sjukdomar och behandlingsmetoder.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Yrkesmässigt arbete med planering, genomförande och uppföljning av skötsel av en fiskodling, däribland utfodring, hantering av levande organismer och miljöövervakning.</li> <li>Fördjupning inom en eller flera odlingsanläggningar, till exempel musselodling, kräftodling och fiskodling.</li> <li>Arbetsrutiner vid förebyggande hälsovård och för att upptäcka ohälsa och att minimera skador inom aktuell produktion.</li> <li>Observationer av organismers utveckling samt bedömning av lämpliga odlingsåtgärder.</li> <li>Planering och genomförande av arbetsuppgifter i samband med slakt, sortering, vidareförädling och transport av odlade produkter.</li> <li>Bedömning av produktkvalitet.</li> <li>Ekonomiska beräkningar och kalkyler för en fiskodling.</li> <li>Skötsel, service och underhåll av redskap och teknisk utrustning.</li> <li>Arbetsrutiner vid förebyggande hälsovård och för att upptäcka ohälsa inom aktuell produktion.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med aktuella arbetsuppgifter.</li> <li>Livsmedelskontroll för att upptäcka toxiner, bakterier och virus.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Arbetsgången med ett tillståndsärende för fiskodling.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> vattenlevande djurarters biologi och utveckling samt den miljö de kan odlas i.</p> <p>Eleven redogör <strong>översiktligt</strong> för förutsättningar och krav för en fiskodling. I redogörelsen för eleven <strong>enkla</strong> resonemang om hållbar utveckling i relation till produktionsresultat och miljöhänsyn.</p> <p>Eleven planerar och utför arbetsuppgifter inom vattenbruk med <strong>godtagbart</strong> resultat. I arbetet observerar eleven organismernas utveckling och vidtar med <strong>viss säkerhet</strong> lämpliga odlingsåtgärder.</p> <p>Eleven sköter med <strong>viss säkerhet</strong> anläggningar inom vattenbruk. Eleven använder och underhåller med <strong>visst</strong> handlag teknisk utrustning.</p> <p>Eleven redogör <strong>översiktligt</strong> för skador och sjukdomar hos vattenlevande organismer och hur de kan förebyggas.</p> <p>Eleven arbetar ergonomiskt och säkert samt i enlighet med lagar och andra bestämmelser som gäller vattenbruk. Eleven väljer och använder med <strong>viss säkerhet</strong> hållbara arbetsmetoder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utvecklat</strong> vattenlevande djurarters biologi och utveckling samt den miljö de kan odlas i.</p> <p>Eleven redogör <strong>utvecklat</strong> för förutsättningar och krav för en fiskodling. I redogörelsen för eleven <strong>utvecklade</strong> resonemang om hållbar utveckling i relation till produktionsresultat och miljöhänsyn.</p> <p>Eleven planerar och utför arbetsuppgifter inom vattenbruk med <strong>gott</strong> resultat. I arbetet observerar eleven organismernas utveckling och vidtar med <strong>säkerhet</strong> lämpliga odlingsåtgärder.</p> <p>Eleven sköter med <strong>säkerhet</strong> anläggningar inom vattenbruk. Eleven använder och underhåller med <strong>gott</strong> handlag teknisk utrustning.</p> <p>Eleven redogör <strong>utförligt</strong> för skador och sjukdomar hos vattenlevande organismer och hur de kan förebyggas.</p> <p>Eleven arbetar ergonomiskt och säkert samt i enlighet med lagar och andra bestämmelser som gäller vattenbruk. Eleven väljer och använder med <strong>säkerhet</strong> hållbara arbetsmetoder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>välutvecklat</strong> vattenlevande djurarters biologi och utveckling samt den miljö de kan odlas i.</p> <p>Eleven redogör <strong>välutvecklat</strong> för förutsättningar och krav för en fiskodling. I redogörelsen för eleven <strong>välutvecklade</strong> resonemang om hållbar utveckling i relation till produktionsresultat och miljöhänsyn.</p> <p>Eleven planerar och utför arbetsuppgifter inom vattenbruk med <strong>mycket gott</strong> resultat. I arbetet observerar eleven organismernas utveckling och vidtar med <strong>god säkerhet</strong> lämpliga odlingsåtgärder.</p> <p>Eleven sköter med <strong>god säkerhet</strong> anläggningar inom vattenbruk. Eleven använder och underhåller med <strong>mycket gott</strong> handlag teknisk utrustning.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för skador och sjukdomar hos vattenlevande organismer och hur de kan förebyggas.</p> <p>Eleven arbetar ergonomiskt och säkert samt i enlighet med lagar och andra bestämmelser som gäller vattenbruk. Eleven väljer och använder med <strong>god säkerhet</strong> hållbara arbetsmetoder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.098Z"
+}

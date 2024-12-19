@@ -1,0 +1,105 @@
+{
+  "code": "BYG",
+  "name": "Bygg och anläggning",
+  "englishName": "Building and construction",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:231",
+  "skolfsAndring": "2022:55",
+  "nameHeading": "<h2>Bygg och anläggning</h2>",
+  "description": "<p>Ämnet bygg och anläggning behandlar byggandet från planeringsstadiet till färdigställande och drift. Det behandlar även bygg- och anläggningsbranschens olika yrken och arbetsvillkor.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bygg och anläggning ska syfta till att eleverna utvecklar kunskaper om yrken inom anläggning, husbyggnad, måleri och plåtslageri samt om olika specialyrken. Eleverna ska också ges möjlighet att utveckla grundläggande färdigheter i anläggning, husbyggnad, måleri och plåtslageri samt förståelse av arbetet inom bygg- och anläggningsbranschen.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom yrkesområdet samt kunskaper om hur man söker information om aktuella regelverk. Den ska även leda till att eleverna utvecklar förmåga att arbeta med hänsyn till hälsa och säkerhet. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om branschens ansvar för hållbar utveckling.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av ansvarstagande inom bygg- och anläggningsarbete samt förmåga att förhålla sig kritiskt till attityder och värderingar på arbetsplatsen. Vidare ska eleverna ges möjlighet att utveckla ett fackspråk och förmåga att kommunicera med såväl arbetskamrater som kunder. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p><p>Undervisningen ska genomföras så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och ergonomiskt anpassade. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p><h4>Undervisningen i ämnet bygg och anläggning ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att söka information samt planera, organisera och utföra vanliga arbetsuppgifter.</li> <li>Kunskaper om olika metoder, material, verktyg och maskiner.</li> <li>Kunskaper om lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att göra riskbedömningar av arbetsuppgifterna.</li> <li>Färdigheter i att följa arbetsbeskrivningar och använda ritningar.</li> <li>Förmåga att hantera och vårda material, verktyg och maskiner. </li> <li>Förmåga att arbeta säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</li> <li>Förmåga att utvärdera arbetsprocessen och resultatet samt att dokumentera sitt arbete.</li> <li>Kunskaper om vanliga yrken och arbetsprocesser inom bygg- och anläggningsbranschen samt om vad hållbar utveckling innebär i branschen.</li> <li>Förmåga att samverka och kommunicera med andra samt använda fackspråk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Bygg och anläggning 1, 200 poäng. </li> <li>Bygg och anläggning 2, 200 poäng, som bygger på kursen bygg och anläggning 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: BYGBYG01</h3>",
+      "code": "BYGBYG01",
+      "nameHeading": "<h2>Bygg och anläggning 1, 200 poäng</h2>",
+      "name": "Bygg och anläggning 1",
+      "englishName": "Building and construction 1",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen bygg och anläggning 1 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Informationssökning för arbetsuppgiften med hjälp av internet och på andra sätt.</li> <li>Praktiska arbetsuppgifter inom anläggning, husbyggnad, måleri och plåtslageri.</li> <li>Enklare planeringar och beräkningar för att lösa arbetsuppgifterna.</li> <li>Verktyg och maskiner för olika ändamål. Handhavande och skötsel.</li> <li>Olika typer av material och deras egenskaper.</li> <li>Hantering av material, till exempel förbrukning och återvinning.</li> <li>Arbetsmiljö, hälsa, ergonomi och säkerhet samt riskbedömningar för arbetsuppgifterna.</li> <li>Grundläggande ritningsläsning.</li> <li>Metoder för att dokumentera och utvärdera sitt arbete.</li> <li>Olika yrken inom bygg- och anläggningsbranschen samt studiebesök på olika arbetsplatser.</li> <li>Byggandets process från planering till färdigställande och drift samt olika aktörers funktioner och roller.</li> <li>Facktermer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar samt utför med<strong> visst</strong> handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven <strong>i samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>översiktligt </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en <strong>enkel </strong>riskbedömning av arbetsuppgiften och anpassar vid behov, och <strong>i samråd </strong>med handledare, sin planering.</p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. I arbetet följer eleven <strong>i samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med viss säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en<strong> enkel</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>enkla </strong>omdömen, arbetsprocessen och resultatet.</p><p>Eleven redogör <strong>översiktligt </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>översiktligt </strong>för arbetsprocesser och yrken inom bygg- och anläggningsbranschen.</p><p>I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar samt utför med<strong> gott </strong>handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven<strong> efter samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>utförligt </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en riskbedömning av arbetsuppgiften <strong>och situationen </strong>samt anpassar vid behov, och<strong> efter samråd </strong>med handledare, sin planering.</p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. I arbetet följer eleven <strong>efter samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med viss säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en<strong> noggrann</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>nyanserade </strong>omdömen, arbetsprocessen och resultatet.</p><p>Eleven redogör <strong>utförligt </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>utförligt </strong>för arbetsprocesser och yrken inom bygg- och anläggningsbranschen.</p><p>I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar samt utför med<strong> mycket gott </strong>handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven <strong>efter samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>utförligt och nyanserat </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en <strong>välgrundad </strong>riskbedömning av arbetsuppgiften <strong>och situationen </strong>samt anpassar vid behov, och<strong> efter samråd </strong>med handledare, sin planering.</p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. I arbetet följer eleven <strong>efter samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en<strong> noggrann och utförlig</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>nyanserade </strong>omdömen, arbetsprocessen och resultatet <strong>samt ger förslag på hur dessa kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för arbetsprocesser och yrken inom bygg- och anläggningsbranschen.</p><p> I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk<strong> med säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: BYGBYG02</h3>",
+      "code": "BYGBYG02",
+      "nameHeading": "<h2>Bygg och anläggning 2, 200 poäng</h2>",
+      "name": "Bygg och anläggning 2",
+      "englishName": "Building and construction 2",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen bygg och anläggning 2 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Informationssökning för arbetsuppgiften med hjälp av internet och på andra sätt.</li> <li>Praktiska arbetsuppgifter inom anläggning, husbyggnad, måleri och plåtslageri.</li> <li>Planeringar och beräkningar för att lösa arbetsuppgifterna.</li> <li>Verktyg och maskiner för olika ändamål. Handhavande och skötsel.</li> <li>Olika typer av material och deras egenskaper.</li> <li>Övergripande om lagar och andra bestämmelser samt utförandekrav. </li> <li>Arbetsmiljöverkets och branschorganisationernas krav på säkerhet samt behörigheter som är nödvändiga för arbete inom branschen.</li> <li>Grundläggande om brandrisker, brandskydd och brandfarliga varor samt elsäkerhet.</li> <li>Olika typer av risker förknippade med arbetsuppgifterna samt metoder för att göra riskbedömningar.</li> <li>Första hjälpen samt hjärt-lungräddning.</li> <li>Hälsa och ergonomi.</li> <li>Metoder för att dokumentera och utvärdera sitt arbete.</li> <li>Olika yrken inom bygg- och anläggningsbranschen samt studiebesök på olika arbetsplatser.</li> <li>Planering av byggprojekt samt samverkan mellan olika yrkesgrupper och med beställare och kund.</li> <li>Bygg- och anläggningsbranschens roll i samhället och för hållbar utveckling.</li> <li>Resursanvändning, kopplat till hållbar utveckling och företagets lönsamhet. Till exempel hantering av material, förvaring, minimering av spill samt sortering av byggavfall.</li> <li>Facktermer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar samt utför med <strong>visst </strong>handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven <strong>i samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>översiktligt </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en <strong>enkel </strong>riskbedömning av arbetsuppgiften och anpassar vid behov, och <strong>i samråd </strong>med handledare, sin planering. Dessutom genomför eleven <strong>med viss säkerhet </strong>nödvändiga åtgärder vid ett fingerat olycksfall. </p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. I arbetet följer eleven <strong>i samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med viss säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>enkla </strong>omdömen, arbetsprocessen och resultatet.</p><p>Eleven redogör <strong>översiktligt </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>översiktligt </strong>för planerings- och arbetsprocesser samt för yrken inom bygg- och anläggningsbranschen.</p><p>I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar samt utför med<strong> gott </strong>handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven<strong> efter samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>utförligt </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en riskbedömning av arbetsuppgiften <strong>och situationen </strong>samt anpassar vid behov, och<strong> efter samråd </strong>med handledare, sin planering. Dessutom genomför eleven <strong>med viss säkerhet </strong>nödvändiga åtgärder vid ett fingerat olycksfall. </p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. I arbetet följer eleven <strong>efter samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med viss säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en<strong> noggrann</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>nyanserade </strong>omdömen, arbetsprocessen och resultatet.</p><p>Eleven redogör <strong>utförligt </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>utförligt </strong>för planerings- och arbetsprocesser samt för yrken inom bygg- och anläggningsbranschen.</p><p>I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar samt utför med <strong>mycket gott </strong>handlag enkla arbetsuppgifter.</p><p>I planeringen väljer eleven<strong> efter samråd </strong>med handledare material, verktyg, maskiner och någon metod som passar för uppgiften. Dessutom motiverar eleven <strong>utförligt och nyanserat </strong>sina val med hänsyn till hälsa, miljö och ekonomi samt utifrån lagar och andra bestämmelser. Eleven gör en <strong>välgrundad </strong>riskbedömning av arbetsuppgiften <strong>och situationen </strong>samt anpassar vid behov, och<strong> efter samråd </strong>med handledare, sin planering efter den. Dessutom genomför eleven <strong>med säkerhet </strong>nödvändiga åtgärder vid ett fingerat olycksfall.</p><p>Under arbetets gång upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. I arbetet följer eleven <strong>efter samråd </strong>med handledare arbetsbeskrivningar och ritningar samt hanterar och vårdar <strong>med säkerhet </strong>material, verktyg och maskiner på ett riktigt sätt utifrån givna instruktioner. Eleven arbetar säkert med hänsyn till hälsa, arbetsmiljö och ergonomi.</p><p>Under arbetets gång och när arbetsuppgiften är utförd gör eleven en<strong> noggrann och utförlig</strong> dokumentation av arbetet. Dessutom utvärderar eleven, utifrån fastställda kvalitetskrav och med <strong>nyanserade </strong>omdömen, arbetsprocessen och resultatet <strong>samt ger förslag på hur dessa kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för vilken betydelse den egna arbetsprocessen och det egna resultatet har för en hållbar utveckling. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för planerings- och arbetsprocesser samt för yrken inom bygg- och anläggningsbranschen. </p><p>I arbetet samverkar och kommunicerar eleven med andra samt använder enkelt fackspråk <strong>med säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.957Z"
+}

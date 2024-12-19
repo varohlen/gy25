@@ -1,0 +1,92 @@
+{
+  "code": "FORL",
+  "name": "Fordonslackeringsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:227",
+  "nameHeading": "<h2>Fordonslackeringsteknik</h2>",
+  "description": "<p>Ämnet fordonslackeringsteknik behandlar lackering av fordon och de olika arbetsmomenten vid uppbyggnad av lackskikten samt färglära, materiallära och skadeberäkning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fordonslackeringsteknik ska syfta till att eleverna utvecklar kunskaper om olika metoder för lackering av olika underlag och fordonstyper. Eleverna ska även ges möjlighet att utveckla kunskaper om olika materials egenskaper och funktion samt förmåga att genomföra de olika momenten i uppbyggandet av lackskiktet. Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra lackering av fordon utifrån olika lackeringssystems uppbyggnad samt att genomföra kvalitetskontroll och efterbehandling av nylackerade ytor. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda verktyg, utrustning och teknisk information.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta med andra på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom fordonslackering som främjar ekonomisk och miljömässig hållbarhet. Undervisningen ska också bidra till att stimulera elevernas intresse för teknikutvecklingen inom branschen.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet. Dessa arbetsuppgifter ska ge eleverna möjlighet att, såväl självständigt som tillsammans med andra, arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet fordonslackeringsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika lacktypsindelningar och deras uppbyggnad.</li> <li>Kunskaper om olika lackeringsprocesser och olika appliceringstekniker.</li> <li>Förmåga att förbereda och preparera ytor inför lackering.</li> <li>Förmåga att utföra fordonslackering med olika appliceringstekniker.</li> <li>Förmåga att genomföra kvalitetskontroll och efterbehandling av nylackerade ytor.</li> <li>Förmåga att använda digitala informationssystem och teknisk information samt verktyg och utrustning vid lackering av fordon.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet fordonslackeringsteknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet fordonslackering.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FORL1000X</h3>",
+      "code": "FORL1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fordonslackeringsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hur lackyta byggs upp enligt 1-skiktslackering samt krav på lackytans egenskaper för korrosionsskydd och hållbart ytskikt.</li> <li>Metoder för applicering av grundlack och 1-skiktstopplack på fordons- och karossdetaljer.</li> <li>Metoder för att välja rätt kulör med erforderliga hjälpmedel, till exempel färgkort eller spektrometer, samt mixning av kulörer.</li> <li>Orientering om olika metoder och materialval för rengöring och lackering av olika underlag.</li> <li>Val av slip- och grundmaterial samt planering och genomförande av underarbeten i samband med lackering med 1-skiktssystem på olika underlag.</li> <li>Maskeringsarbeten med olika metoder och material.</li> <li>Val av rätt kulör med erforderliga hjälpmedel, till exempel färgkort eller spektrometer, samt mixning av kulörer.</li> <li>Applicering av grundlack och lackering med 1-skiktssystem på olika underlag enligt material- och fordonstillverkarens anpassningar.</li> <li>Kvalitetskontroll av lackerade mindre ytor samt kostnadsbedömning för åtgärder och efterbehandling när det krävs inför leverans.</li> <li>Användning av lackeringsutrustning, verktyg och övrig utrustning i samband med lackering av mindre fordons- och karossdetaljer enligt material- och fordonstillverkarens krav och med hänsyn till miljö och ekonomi.</li> <li>Användning av digitala informationssystem, varuinformationsblad och övrig teknisk information på svenska och engelska i samband med lackeringsarbeten enligt material- och fordonstillverkarens krav.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser, däribland vid arbete med hälsofarliga ämnen och produkter.</li> <li>Riskbedömning i samband med lackering av fordon, däribland av elektrifierade fordon och flerbränslefordon.</li> <li>Hantering av farliga ämnen på ett säkert och miljövänligt sätt samt destruktion av restprodukter med hänsyn till miljö och ekonomi.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORL2000X</h3>",
+      "code": "FORL2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fordonslackeringsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Hur lackyta byggs upp enligt 2-skiktslackering och 3-skiktslackering samt krav på lackytans egenskaper för korrosionsskydd och hållbart ytskikt.</li> <li>Metoder för 2-skiktslackering och 3-skiktslackering på större ytor, däribland ljusa och mörka kulörer, samt metoder för lackering av meryta.</li> <li>Metoder för att välja rätt kulör med erforderliga hjälpmedel samt för att mäta lackskikt med my-mätare.</li> <li>Val av slip- och grundmaterial samt planering och genomförande av underarbeten i samband med lackering med 2-skiktssystem och 3-skiktssystem på olika underlag.</li> <li>Maskeringsarbeten med olika metoder och material som är anpassade till olika objekt, däribland maskering av meryta.</li> <li>Val av rätt kulör med erforderliga hjälpmedel samt mätning av lackskikt med my-mätare.</li> <li>Applicering av vattenbaserade baslacker på större ytor enligt material- och fordonstillverkarens anpassningar, däribland ljusa och mörka kulörer, samt lackering av meryta.</li> <li>Lackering med 2-skiktssystem och 3-skiktssystem på olika underlag enligt material- och fordonstillverkarens krav.</li> <li>Kvalitetskontroll av lackerade större ytor samt kostnadsbedömning för åtgärder och efterbehandling när det krävs inför leverans.</li> <li>Användning av lackeringsutrustning, verktyg och övrig utrustning i samband med lackering av större ytor på fordon enligt material- och fordonstillverkarens krav och med hänsyn till miljö och ekonomi.</li> <li>Användning av digitala informationssystem, varuinformationsblad och övrig teknisk information på svenska och engelska i samband med lackeringsarbeten enligt material- och fordonstillverkarens krav.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser som gäller i en fordonslackeringsverkstad.</li> <li>Riskbedömning i samband med lackering av fordon, däribland av elektrifierade fordon och flerbränslefordon.</li> <li>Hantering av farliga ämnen på ett säkert och miljövänligt sätt samt destruktion av restprodukter med hänsyn till miljö och ekonomi.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORL3000X</h3>",
+      "code": "FORL3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fordonslackeringsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Färg- och materiallära samt lackeringsuppbyggnad vid speciallackering.</li> <li>Metoder för speciallackering samt för mall- och frihandsapplicering.</li> <li>Metoder för demontering och montering av dekaler i mindre format.</li> <li>Val av slip- och grundmaterial samt planering och genomförande av underarbeten i samband med speciallackering, däribland mellanslipning.</li> <li>Maskeringsarbeten i samband med speciallackering.</li> <li>Speciallackering, till exempel effektlackering, flerfärgslackering och randning enligt material- och fordonstillverkarens anvisningar.</li> <li>Demontering och montering av dekaler i mindre format.</li> <li>Kvalitetskontroll av lackerade ytor efter speciallackering samt kostnadsbedömning för åtgärder och efterbehandling när det krävs inför leverans.</li> <li>Användning av lackeringsutrustning, verktyg och övrig utrustning i samband med speciallackering enligt materialtillverkarens krav och med hänsyn till miljö och ekonomi.</li> <li>Användning av digitala informationssystem, varuinformationsblad och övrig teknisk information på svenska och engelska i samband med lackeringsarbeten enligt material- och fordonstillverkarens krav.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser som gäller i en fordonslackeringsverkstad.</li> <li>Riskbedömning i samband med lackering, däribland av elektrifierade fordon och flerbränslefordon.</li> <li>Hantering av farliga ämnen på ett säkert och miljövänligt sätt samt destruktion av restprodukter med hänsyn till miljö och ekonomi.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika lacktypsindelningar och deras uppbyggnad.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika lackeringsprocesser och olika appliceringstekniker.</p> <p>Eleven väljer material och genomför underarbeten med <strong>viss säkerhet</strong> inför lackering.</p> <p>Eleven applicerar färg och använder med <strong>viss säkerhet</strong> olika appliceringstekniker enligt material- och fordonstillverkarens anvisningar.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> kvalitetskontroll och efterbehandling av nylackerade ytor.</p> <p>Eleven använder med <strong>viss säkerhet</strong> digitala informationssystem och teknisk information samt använder med <strong>visst</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika lacktypsindelningar och deras uppbyggnad.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika lackeringsprocesser och olika appliceringstekniker.</p> <p>Eleven väljer material och genomför underarbeten med <strong>säkerhet</strong> inför lackering.</p> <p>Eleven applicerar färg och använder med <strong>säkerhet</strong> olika appliceringstekniker enligt material- och fordonstillverkarens anvisningar.</p> <p>Eleven genomför med <strong>säkerhet</strong> kvalitetskontroll och efterbehandling av nylackerade ytor.</p> <p>Eleven använder med <strong>säkerhet</strong> digitala informationssystem och teknisk information samt använder med <strong>gott</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika lacktypsindelningar och deras uppbyggnad.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika lackeringsprocesser och olika appliceringstekniker.</p> <p>Eleven väljer material och genomför underarbeten med <strong>god säkerhet</strong> inför lackering.</p> <p>Eleven applicerar färg och använder med <strong>god säkerhet</strong> olika appliceringstekniker enligt material- och fordonstillverkarens anvisningar.</p> <p>Eleven genomför med <strong>god säkerhet</strong> kvalitetskontroll och efterbehandling av nylackerade ytor.</p> <p>Eleven använder med <strong>god säkerhet</strong> digitala informationssystem och teknisk information samt använder med <strong>mycket gott</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.001Z"
+}

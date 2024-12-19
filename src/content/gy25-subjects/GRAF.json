@@ -1,0 +1,92 @@
+{
+  "code": "GRAF",
+  "name": "Grafisk illustration",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:249",
+  "nameHeading": "<h2>Grafisk illustration</h2>",
+  "description": "<p>Grafisk illustration behandlar utformningen av visuell kommunikation, vilket har en stor plats i både kultur- och samhällsliv. Ämnet grafisk illustration behandlar den kreativa gestaltningsprocess där grafiskt material utformas.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet grafisk illustration ska syfta till att eleverna utvecklar kunskaper om och färdigheter i hur grafiska illustrationer skapas och används för kommunikation. Undervisningen ska bidra till att eleverna utvecklar förmåga att på ett metodiskt och kreativt sätt arbeta med grafisk illustration med tillhörande tekniker och verktyg. Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i grafiska ämnen aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att motivera val av uttryckssätt utifrån målgrupp, kontext och syfte. Dessutom ska eleverna ges möjlighet att utveckla förmåga att analysera och utvärdera egna och andras illustrationer utifrån funktion, tongivande stil och uttryck inom grafisk illustration. Eleverna ska även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt om arbetsmiljö.</p> <p>Undervisningen ska stimulera elevernas kreativitet, nyfikenhet och lust att utveckla ett personligt uttryck. Genom att behandla den grafiska illustrationens gestaltningsprocess, från idé till slutprodukt, anpassad för tilltänkt medium, ska undervisningen bidra till att eleverna utvecklar entreprenöriell förmåga och förståelse av hur den grafiska gestaltningsprocessens delar och helhet hänger samman. Vidare ska undervisningen lämna utrymme för diskussion och reflektion över etiska frågor om hur visuell kommunikation utformas och förmedlas.</p> <h5><em>Undervisningen i ämnet grafisk illustration ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om grafisk illustration.</li> <li>Färdigheter i att skapa grafiska illustrationer.</li> <li>Förmåga att planera och genomföra grafiska illustrationsprojekt inom givna ramar.</li> <li>Förmåga att analysera och utvärdera grafiska illustrationer.</li> </ul><h3>Nivåer i ämnet grafisk illustration</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GRAF1000X</h3>",
+      "code": "GRAF1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk illustration på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Estetik och uttryck</em></p> <ul> <li>Tongivande stilar inom samtida och historisk grafisk illustration.</li> <li>Den grafiska illustrationens estetiska uttrycksmedel, till exempel komposition, färg och layout.</li> <li>Introduktion till grafiska illustrationers olika funktioner.</li> </ul> <p><em>Verksamhet och ramar</em></p> <ul> <li>Lagar och andra bestämmelser som gäller upphovsrätt, verkshöjd och illustrationens originalitet.</li> <li>Fackspråk inom illustration, typografi, färglära och digitaliseringsmetodik.</li> <li>Arbetsmiljöfrågor inom området.</li> </ul> <p><em>Illustrering, tekniker och process</em></p> <ul> <li>Grundläggande skissteknik och skissmaterial.</li> <li>Digitaliseringsmetoder och metoder för att överföra analoga skisser till digital miljö för fortsatt bearbetning.</li> <li>Hur färgrymder och färgsystem fungerar och kan användas i arbetet.</li> <li>Introduktion till olika illustrationsprogram. Skillnader mellan vektor- och pixelgrafik och olika illustrationsprograms egenskaper.</li> <li>Olika filformat och tekniska specifikationer.</li> <li>Illustrationens målgrupp, kontext och budskap.</li> <li>Metoder för att planera illustrationsprojekt.</li> <li>Metoder för att finna inspiration och för idégenerering.</li> <li>Gestaltningsprocessens olika delar.</li> </ul> <p><em>Analys</em></p> <ul> <li>Introduktion till begrepp för analys av grafisk illustration, däribland idéhöjd, kongenialitet och kontext.</li> <li>Modeller för analys och utvärdering av egna och andras idéer, till exempel utifrån bild- och kommunikationsteorier.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GRAF2000X</h3>",
+      "code": "GRAF2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk illustration på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Estetik och uttryck</em></p> <ul> <li>Samtida och historisk grafisk illustration och dess utveckling i relation till samhällsutvecklingen.</li> <li>Den grafiska illustrationens estetiska uttrycksmedel och kommunikation och hur ett budskap kan omsättas i grafisk illustration.</li> <li>Grafiska illustrationers olika funktioner utifrån kontext och syfte.</li> </ul> <p><em>Verksamhet och ramar</em></p> <ul> <li>Lagar och andra bestämmelser som gäller upphovsrätt samt regler vid licensiering och delning.</li> <li>Fackspråk för kommunikation med närliggande yrkesgrupper, till exempel förlag, tryckerier och kommunikationsbyråer.</li> <li>Arbetsmiljöfrågor för området.</li> </ul> <p><em>Illustrering, tekniker och process</em></p> <ul> <li>Tillämpning av olika skisstekniker och material samt skillnaden mellan skissarbete och illustrering.</li> <li>Illustrationsteknik i vald programvara.</li> <li>Olika färgsystems egenskaper och begränsningar samt hur färgrymder tolkas av olika enheter, till exempel skärmar och skrivare.</li> <li>Olika illustrationsprograms egenskaper och funktioner.</li> <li>Filformat för olika medier och spridningsvägar.</li> <li>Grafisk illustration riktad till en målgrupp, däribland hur kontext, budskap och önskad effekt påverkar utformningen.</li> <li>Tillämpning av metoder för att planera och strukturera ett illustrationsprojekt samt kvalitetssäkring inom projektet.</li> <li>Idégenerering och inspirerande förlagor för skapande av egna illustrationer.</li> <li>Gestaltningsprocessens olika delar, från idé till färdig produkt och utvärdering.</li> </ul> <p><em>Analys</em></p> <ul> <li>Begrepp för analys och utvärdering av grafiska illustrationer.</li> <li>Analys och utvärdering av illustrationsprocessen och det färdiga resultatet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GRAF3000X</h3>",
+      "code": "GRAF3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk illustration på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Estetik och uttryck</em></p> <ul> <li>Tematiserad fördjupning i den grafiska illustrationens funktioner, tongivande illustrationsstilar och estetiska uttrycksmedel, utifrån såväl ett historiskt som ett samtida perspektiv.</li> </ul> <p><em>Verksamhet och ramar</em></p> <ul> <li>Lagar och andra bestämmelser som gäller upphovsrätt och arbetsvillkor, till exempel vid frilansarbete och projektkontrakt.</li> <li>Fackspråk för kommunikation med aktörer och yrken relaterade till grafisk illustration, till exempel uppdragsgivare och kunder.</li> <li>Arbetsmiljöfrågor för området.</li> </ul> <p><em>Illustrering, tekniker och process</em></p> <ul> <li>Tillämpning av skissteknik, skisstil och material inom vald tematiserad fördjupning.</li> <li>Tematiserad fördjupning inom grafisk illustrering och utformning av illustrationer.</li> <li>Anpassning av illustrationer till färgrymder och färgsystem specifika för valt medium.</li> <li>Val av programvara utifrån önskat uttryck och programspecifika egenskaper.</li> <li>Produktions- och presentationsformer för arbetsprover inom vald tematiserad fördjupning.</li> <li>Tillämpning av metoder för att planera och strukturera ett illustrationsprojekt inom vald tematiserad fördjupning.</li> <li>Illustrationsuppdrag, däribland gestaltningsprocessen från uppdragsbeskrivning till leveransanpassad illustration.</li> </ul> <p><em>Analys</em></p> <ul> <li>Tillämpning av modeller för analys och utvärdering av egna grafiska illustrationer inom vald tematiserad fördjupning med hjälp av begrepp inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om grafisk illustration.</p> <p>Eleven hanterar med <strong>viss</strong> skicklighet verktyg och estetiska uttrycksmedel för att skapa grafiska illustrationer av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> grafiska illustrationsprojekt inom givna ramar.</p> <p>Eleven gör <strong>enkla</strong> analyser av grafiska illustrationer utifrån syfte och målgrupp och med <strong>viss</strong> användning av begrepp inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om grafisk illustration.</p> <p>Eleven hanterar med <strong>god</strong> skicklighet verktyg och estetiska uttrycksmedel för att skapa grafiska illustrationer av <strong>god</strong> kvalitet.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> grafiska illustrationsprojekt inom givna ramar.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av grafiska illustrationer utifrån syfte och målgrupp och med <strong>god</strong> användning av begrepp inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om grafisk illustration.</p> <p>Eleven hanterar med <strong>mycket god</strong> skicklighet verktyg och estetiska uttrycksmedel för att skapa grafiska illustrationer av <strong>mycket god</strong> kvalitet.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> grafiska illustrationsprojekt inom givna ramar.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av grafiska illustrationer utifrån syfte och målgrupp och med <strong>mycket god</strong> användning av begrepp inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.009Z"
+}

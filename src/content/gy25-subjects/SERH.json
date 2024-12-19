@@ -1,0 +1,77 @@
+{
+  "code": "SERH",
+  "name": "Serverhantering och informationstjänster",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:566",
+  "nameHeading": "<h2>Serverhantering och informationstjänster</h2>",
+  "description": "<p>Ämnet serverhantering och informationstjänster behandlar olika typer av tjänster inom nätverksteknik, hur de hanteras och vilka konsekvenser informationstjänster kan ha för individen och samhället. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet serverhantering och informationstjänster ska syfta till att eleverna utvecklar kunskaper om hur administrering och underhåll av nätverkstjänster fungerar och utförs. Undervisningen ska även bidra till att eleverna utvecklar förståelse av vilken påverkan olika informationstjänster kan ha för både individ och samhälle. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt om säkerhet i samband med informationshantering och vad som kan utgöra hot och risker.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vad central hantering av klienter innebär. Dessutom ska eleverna ges möjlighet att utveckla förmåga att installera och underhålla servrar och programvaror samt att hantera system för övervakning och incidenthantering.</p> <p>Undervisningen ska lämna utrymme för diskussion och ge tillfällen till reflektion över möjligheter och tänkbara risker med teknikens användning samt över olika handlingsalternativ inom arbete med serverhantering och informationstjänster. Undervisningen ska även bidra till att eleverna utvecklar förmåga att göra överväganden utifrån såväl juridiska och ekonomiska som etiska, miljömässiga och säkerhetsmässiga frågeställningar inom området. Undervisningen ska varva praktiska och teoretiska moment och innehålla verklighetsnära situationer.</p> <h5><em>Undervisningen i ämnet serverhantering och informationstjänster ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av servrar och nätverkstjänster.</li> <li>Förmåga att konfigurera, administrera och underhålla olika nätverkstjänster och resurser.</li> <li>Förmåga att bygga upp en servermiljö utifrån givna förutsättningar.</li> <li>Kunskaper om lagar och andra bestämmelser inom området samt om möjliga hot och risker vid informationshantering.</li> <li>Förmåga att hantera incidenter och system för övervakning.</li> </ul><h3>Nivåer i ämnet serverhantering och informationstjänster</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SERH100TX</h3>",
+      "code": "SERH100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet serverhantering och informationstjänster på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Servrar och nätverkstjänster</em></p> <ul> <li>Någon molntjänst och vilken informationssäkerhetsmässig hänsyn som bör tas vid införande av en molntjänst.</li> <li>Nätverkstjänster och ramverk samt deras roll i ett mindre informationssystem.</li> <li>Nätverksoperativsystems uppbyggnad, funktion och struktur i servrar samt systemens sammanställning. Principer för hur servrar kan kommunicera.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Administration av någon typ av katalogtjänst.</li> <li>Installation och administration av någon molntjänst eller internetbaserad tjänst.</li> <li>Kartläggning och dokumentation av ett befintligt system för datakommunikation med avseende på fysisk struktur.</li> <li>Systematisk felsökning och åtgärdande av fel i någon nätverkstjänst.</li> <li>Systemintegration för en mindre organisation.</li> <li>Redundanta lösningar för mindre system.</li> <li>Installation av något serveroperativsystem samt någon tillhörande nätverkstjänst.</li> <li>Administration och styrning av rättigheter för en vald nätverksapplikation.</li> <li>Analys, optimering och felsökning av en servers prestanda.</li> <li>Grundläggande principer för hantering av incidenter.</li> </ul> <p><em>Säkerhet och krav</em></p> <ul> <li>Internetrelaterade säkerhetshot och skydd för en mindre organisation.</li> <li>Konfigurering och användning av säkerhetsfunktioner, däribland säkerhetskopiering.</li> <li>Autentisering och något system för inloggning i vanligt förekommande nätverksoperativsystem.</li> <li>Integritetsaspekter och säkerhet vid användning av nätverk.</li> <li>Driftsäkerhet, övervakning och hur driftstopp upptäcks och undviks. Underhåll av någon server.</li> <li>Hur val av resurs eller system kan påverka ekonomisk, social och miljömässig hållbarhet.</li> <li>Lagar och andra bestämmelser inom området, däribland bestämmelser om licenshantering och om upphovsrätt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERH200TX</h3>",
+      "code": "SERH200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet serverhantering och informationstjänster på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Servrar och nätverkstjänster</em></p> <ul> <li>Några molntjänster och vilken informationssäkerhetsmässig hänsyn som bör tas vid införande av en molntjänst.</li> <li>Nätverkstjänster och ramverk samt deras roll i ett större informationssystem.</li> <li>Nätverksoperativsystems uppbyggnad, funktion och struktur i servrar samt systemens sammanställning. Principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Administration av olika typer av katalogtjänster.</li> <li>Konfiguration och installation av molntjänster och internetbaserade tjänster.</li> <li>Kartläggning och dokumentation av ett befintligt system för datakommunikation med avseende på fysisk struktur och informationssäkerhet.</li> <li>Systematisk felsökning och åtgärdande av fel i nätverkstjänster.</li> <li>Systemintegration för en större organisation.</li> <li>Redundanta lösningar för större system.</li> <li>Konfigurering av anslutningstjänster till nätverkslagringsplatser.</li> <li>Installation av några serveroperativsystem samt några tillhörande nätverkstjänster.</li> <li>Administration och styrning av rättigheter för olika typer av nätverksbaserade applikationer.</li> <li>Analys, optimering och felsökning av servrars prestanda.</li> <li>Systematisk hantering av incidenter.</li> </ul> <p><em>Säkerhet och krav</em></p> <ul> <li>Internetrelaterade säkerhetshot och skydd för en större organisation.</li> <li>Konfigurering och användning av några säkerhetsfunktioner, däribland säkerhetskopiering och kryptering.</li> <li>Autentisering och några system för inloggning i olika typer av nätverksoperativsystem.</li> <li>Integritetsaspekter och säkerhet vid användning av nätverk och nätverkstjänster.</li> <li>Driftsäkerhet, övervakning och hur driftstopp upptäcks och undviks. Underhåll av några servrar.</li> <li>Hur val av olika resurser eller system kan påverka ekonomisk, social och miljömässig hållbarhet. Etiska överväganden.</li> <li>Lagar och andra bestämmelser inom området, däribland bestämmelser om licenshantering, upphovsrätt och informationshantering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av servrar och nätverkstjänster.</p> <p>Eleven konfigurerar, administrerar och underhåller med <strong>säkerhet</strong> nätverkstjänster och nätverksresurser.</p> <p>Eleven bygger med <strong>säkerhet</strong> upp en servermiljö utifrån givna förutsättningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området samt om möjliga hot och risker vid informationshantering.</p> <p>Eleven hanterar med <strong>säkerhet</strong> incidenter och system för övervakning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av servrar och nätverkstjänster.</p> <p>Eleven konfigurerar, administrerar och underhåller med <strong>god säkerhet</strong> nätverkstjänster och nätverksresurser.</p> <p>Eleven bygger med <strong>god säkerhet</strong> upp en servermiljö utifrån givna förutsättningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området samt om möjliga hot och risker vid informationshantering.</p> <p>Eleven hanterar med <strong>god säkerhet</strong> incidenter och system för övervakning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av servrar och nätverkstjänster.</p> <p>Eleven konfigurerar, administrerar och underhåller med <strong>mycket god säkerhet</strong> nätverkstjänster och nätverksresurser.</p> <p>Eleven bygger med <strong>mycket god säkerhet</strong> upp en servermiljö utifrån givna förutsättningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området samt om möjliga hot och risker vid informationshantering.</p> <p>Eleven hanterar med <strong>mycket god säkerhet</strong> incidenter och system för övervakning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.079Z"
+}

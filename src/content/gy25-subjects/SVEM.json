@@ -1,0 +1,92 @@
+{
+  "code": "SVEM",
+  "name": "Svetsmetod MIG/MAG",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:362",
+  "nameHeading": "<h2>Svetsmetod MIG/MAG</h2>",
+  "description": "<p>Ämnet svetsmetod MIG/MAG (metal inert gas/metal active gas) behandlar olika tekniker för sammanfogning av metaller med svetsmetoden MIG/MAG. Dessutom behandlar ämnet kvalitetsbedömning av svetsresultat.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet svetsmetod MIG/MAG ska syfta till att eleverna utvecklar färdigheter i att svetsa metaller med hjälp av utrustning anpassad för materialet. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att hantera och underhålla utrustning och kringutrustning.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att tolka information från tillverkningsunderlag som används vid svetsning av material. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att minimera formavvikelser vid svetsningen samt kunskaper om hur sådana åtgärdas om de överstiger givna kravgränser. Att tillverka produkter med rätt kvalitet är viktigt inom industriteknisk produktion. Undervisningen ska därför leda till att eleverna utvecklar förmåga att kvalitetsbedöma det färdiga resultatet med hjälp av standarder. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att lösa produktionstekniska problem.</p> <p>Att arbeta med svetsning kan innebära risker. Undervisningen ska därför bidra till att eleverna utvecklar förmåga att arbeta säkert och ergonomiskt samt i enlighet med lagar och andra bestämmelser inom området. Den ska även ge eleverna möjlighet att utveckla förmåga att samverka och kommunicera i alla led i produktionen.</p> <p>Undervisningen ska ta sin utgångspunkt i verkstadsmiljö och bidra till att eleverna utvecklar ett problemlösande arbetssätt. Den ska även stimulera elevernas intresse för teknikutveckling inom området.</p> <h5><em>Undervisningen i ämnet svetsmetod MIG/MAG ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att utföra svetsning med metoden MIG/MAG.</li> <li>Förmåga att hantera och underhålla utrustning.</li> <li>Förmåga att tolka och använda tillverkningsunderlag.</li> <li>Förmåga att bedöma resultat vid MIG/MAG-svetsning samt att hantera formavvikelser.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera om arbetsprocesser och resultat.</li> </ul><h3>Nivåer i ämnet svetsmetod MIG/MAG</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet svetsteknik.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SVEM1000X</h3>",
+      "code": "SVEM1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svetsmetod MIG/MAG på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom kälsvetsning, plåt mot plåt och plåt mot rör.</li> <li>MIG/MAG-svetsning av kälsvetsar, plåt mot plåt samt plåt mot rör i olika relevanta svetslägen, däribland plåt mot rör i stående horisontal (PB), liggande under upp (PD) och stående vertikalt (PF, PG, PH), enligt acceptanskrav i gällande standard.</li> <li>Hantering av svetsströmkällor och kringutrustning som används vid kälsvets.</li> <li>Hantering av olika typer av tillsatsmaterial och gaser utifrån deras egenskaper.</li> <li>Tillsatsmaterial för andra metaller än låglegerat stål.</li> <li>Underhåll av utrustning som används vid kälsvets.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland enklare ritningar och svetsdatablad (WPS).</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av vanligt förekommande problem vid MIG/MAG-svetsning i kälsvetsar.</li> <li>Reparation av fel som uppstår under kälsvetsning.</li> <li>Bedömning av kälsvetsar utifrån kvalitetsstandarder.</li> <li>Produktionsteknisk problemlösning vid kälsvetsning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker i samband med arbetsuppgifter inom kälsvetsning, däribland risker med el, ultraviolett strålning (UV-strålning) och svetsrök samt hälsorisker.</li> <li>Användning av begrepp och uttryck inom kälsvetsning för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SVEM2000X</h3>",
+      "code": "SVEM2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svetsmetod MIG/MAG på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom stumsvetsning av plåt.</li> <li>MIG/MAG-svetsning av enkel- och dubbelsidiga stumsvetsar i olika relevanta svetslägen, däribland liggande och stående vertikalt (PC, PF, PG), liggande horisontalt (PA) samt under upp (PE), enligt acceptanskrav i gällande standard.</li> <li>Hantering av vanligt förekommande utrustning och kringutrustning som används vid stumsvets utifrån deras egenskaper och funktioner.</li> <li>Systematiskt underhåll samt service och felsökning av utrustning som används vid stumsvets.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland standarder, svetsdatablad (WPS) och svetsplaner.</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av vanligt förekommande problem vid MIG/MAG-svetsning av stumsvetsar.</li> <li>Åtgärder av eventuella felaktigheter på utförd stumsvets.</li> <li>Bedömning av stumsvetsar utifrån angivna kvalitetsstandarder.</li> <li>Produktionsteknisk problemlösning vid stumsvetsning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker samt konsekvenser av brister i arbetsmiljön i samband med arbetsuppgifter inom stumsvetsning.</li> <li>Användning av begrepp och uttryck inom stumsvetsning för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SVEM3000X</h3>",
+      "code": "SVEM3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svetsmetod MIG/MAG på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom stumsvetsning av rör och rörförgreningar.</li> <li>MIG/MAG-svetsning av stumsvetsar i rör i olika svetslägen, däribland horisontalt och vertikalt fastspända rör (PC, PH) samt lutande fastspända rör (H-L045) och rörförgreningar, enligt acceptanskrav i gällande standard.</li> <li>Hantering av utrustning och kringutrustning som används vid stumsvetsning av rör och rörförgreningar.</li> <li>Systematiskt underhåll samt service och felsökning av utrustning som används vid stumsvetsning av rör och rörförgreningar.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland isometriska ritningar, standarder, svetsdatablad (WPS) och svetsplaner.</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av problem och formavvikelser vid MIG/MAG-svetsning av rör och rörförgreningar.</li> <li>Åtgärder av eventuella felaktigheter på utförd svetsning av rör och rörförgreningar.</li> <li>Bedömning av stumsvetsar av rör och rörförgreningar utifrån kvalitetsstandarder samt tillämpning av olika kvalitetsnivåer.</li> <li>Produktionsteknisk problemlösning vid stumsvetsning av rör och rörförgreningar.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker samt analys, dokumentation och åtgärder vid bristande i arbetsmiljö.</li> <li>Användning av begrepp och uttryck inom stumsvetsning av rör och rörförgreningar för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför med <strong>visst</strong> handlag MIG/MAG-svetsning.</p> <p>Eleven hanterar och underhåller utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven använder med <strong>viss säkerhet</strong> tillverkningsunderlag.</p> <p>Eleven bedömer resultatet av svetsningen och hanterar eventuella formavvikelser eller andra felaktigheter som uppkommer med <strong>viss säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför med <strong>gott</strong> handlag MIG/MAG-svetsning.</p> <p>Eleven hanterar och underhåller utrustning med <strong>säkerhet</strong>.</p> <p>Eleven använder med <strong>säkerhet</strong> tillverkningsunderlag.</p> <p>Eleven bedömer resultatet av svetsningen och hanterar eventuella formavvikelser eller andra felaktigheter som uppkommer med <strong>säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför med <strong>mycket gott</strong> handlag MIG/MAG-svetsning.</p> <p>Eleven hanterar och underhåller utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven använder med <strong>god säkerhet</strong> tillverkningsunderlag.</p> <p>Eleven bedömer resultatet av svetsningen och hanterar eventuella formavvikelser eller andra felaktigheter som uppkommer med <strong>god säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.087Z"
+}

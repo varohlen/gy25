@@ -1,0 +1,77 @@
+{
+  "code": "HALR",
+  "name": "Hållbara energisystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:538",
+  "nameHeading": "<h2>Hållbara energisystem</h2>",
+  "description": "<p>Ämnet hållbara energisystem behandlar energitekniska anläggningar, system och komponenter i energisystem som förser samhället med bränsle, el och värme. Ämnet behandlar även energisystemens uppbyggnad, funktion, drift och underhåll utifrån hållbar utveckling. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hållbara energisystem ska syfta till att eleverna utvecklar specialiserade kunskaper om hur energitekniska anläggningar, system och komponenter är uppbyggda, fungerar och påverkar miljön. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller den operativa driften.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra specialiserade tekniska arbetsuppgifter genom att identifiera, analysera och lösa energi- och miljötekniska optimeringsproblem. Vidare ska eleverna ges möjlighet att reflektera över samband mellan energisystem, deras användning och samhället. Eleverna ska även ges möjlighet att utveckla förmåga att välja och hantera verktyg, instrument, utrustning och programvara för arbete med energianläggningar.</p> <p>Förmåga att tolka och använda teknisk dokumentation, instruktioner och säkerhetsanvisningar är centralt vid arbeten inom anläggningar för el- och värmeproduktion. Undervisningen ska därför möjliggöra att eleverna utvecklar förmåga att arbeta systematiskt och säkert genom att använda teknisk dokumentation samt att följa instruktioner och säkerhetsanvisningar.</p> <p>Undervisningen ska förbereda eleverna för tekniskt ingenjörsarbete genom att de praktiskt får planera, utföra och dokumentera tekniskt arbete med hänsyn till krav på kvalitet, arbetsmiljö och säkerhet. Genom ett problemlösande arbetssätt ska eleverna stimuleras till fortsatt lärande och utveckling inom energiområdet. Dessutom ska undervisningen lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ som främjar hållbar utveckling inom energiområdet.</p> <h5><em>Undervisningen i ämnet hållbara energisystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om anläggningar, system och komponenter inom hållbara energisystem.</li> <li>Kunskaper om vetenskapliga principer samt om lagar och andra bestämmelser som påverkar energisystem.</li> <li>Förmåga att identifiera, analysera och lösa energitekniska optimeringsproblem.</li> <li>Förmåga att planera, utföra och dokumentera tekniskt arbete med hänsyn till krav på utförande, resultat och säkerhet.</li> <li>Förmåga att välja och hantera verktyg och utrustning.</li> </ul><h3>Nivåer i ämnet hållbara energisystem</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALR100TX</h3>",
+      "code": "HALR100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbara energisystem på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Hållbara energisystem och energianläggningar</em></p> <ul> <li>Energisystems uppbyggnad med fokus på nationella förhållanden och lösningar.</li> <li>Energibärare och energiinnehåll med fokus på bränsle, luft och vatten.</li> <li>Uppbyggnad och funktion hos samt drift av energianläggningar. Vetenskapliga principer för energianläggningar.</li> <li>Energianläggningars miljöpåverkan.</li> <li>Energiteknik med fokus på system, komponenter och utrustning, till exempel hur system inom pump- och fläktteknik fungerar och är konstruerade.</li> </ul> <p><em>Tekniskt arbete, arbetsmiljö och säkerhet</em></p> <ul> <li>Lagar och andra bestämmelser inom området, till exempel hur miljö- och kvalitetskrav reglerar den operativa driften.</li> <li>Energitekniska tillämpningar, däribland beräkningar och mätningar.</li> <li>Användning av vanligt förekommande verktyg, instrument, utrustning och programvaror för arbete med energianläggningar.</li> <li>Planering, genomförande och dokumentation av tekniskt arbete inom drift och underhåll med hänsyn till arbetets krav på kvalitet, arbetsmiljö och säkerhet.</li> <li>Användning av teknisk dokumentation inom valt energiområde, till exempel instruktioner, ritningar, standarder och systembeskrivningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HALR200TX</h3>",
+      "code": "HALR200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbara energisystem på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Hållbara energisystem och energianläggningar</em></p> <ul> <li>Energisystems uppbyggnad, historik, nuläge och utmaningar ur ett globalt perspektiv.</li> <li>Energibärare och energiomvandlingar med fokus på bränsle, förbränning, luft, vatten, ånga och energibärande mediers egenskaper.</li> <li>Uppbyggnad, funktion och driftoptimering av energianläggningar samt hur modern miljöteknik utifrån vetenskapliga principer kan förbättra det nationella energisystemet.</li> <li>Kraft- och värmeteknik med fokus på system, komponenter och utrustning, till exempel hur system inom värmedistribution och ångteknik är konstruerade och fungerar.</li> </ul> <p><em>Tekniskt arbete, arbetsmiljö och säkerhet</em></p> <ul> <li>Lagar och andra bestämmelser inom området, till exempel hur politiska styrmedel används för att förbättra och utveckla energianläggningar.</li> <li>Praktiskt ingenjörsarbete, däribland beräkningar och mätningar för optimering av system.</li> <li>Användning av verktyg, instrument, utrustning och programvaror för specialiserade arbetsuppgifter vid energianläggningar.</li> <li>Planering, genomförande och dokumentation av ingenjörsarbete inom drift och underhåll med hänsyn till arbetets krav på kvalitet, arbetsmiljö och säkerhet.</li> <li>Användning av teknisk dokumentation inom valt energiområde, till exempel instruktioner, ritningar, standarder och systembeskrivningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad av och funktion hos anläggningar, system och komponenter inom hållbara energisystem.</p> <p>Eleven för <strong>enkla</strong> resonemang om vetenskapliga principer inom området samt om lagar och andra bestämmelser som reglerar den operativa driften.</p> <p>Eleven identifierar och analyserar energitekniska optimeringsproblem samt ger <strong>enkla</strong> förslag till förbättringar utifrån <strong>enkla</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför tekniskt arbete med <strong>säkerhet</strong> och med hänsyn till arbetets krav inom kvalitet, arbetsmiljö och säkerhet. Dessutom gör eleven en <strong>strukturerad</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar med <strong>säkerhet</strong> verktyg och utrustning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad av och funktion hos anläggningar, system och komponenter inom hållbara energisystem.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om vetenskapliga principer inom området samt om lagar och andra bestämmelser som reglerar den operativa driften.</p> <p>Eleven identifierar och analyserar energitekniska optimeringsproblem samt ger <strong>välgrundade</strong> förslag till förbättringar utifrån <strong>relativt avancerade</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför tekniskt arbete med <strong>god säkerhet</strong> och med hänsyn till arbetets krav inom kvalitet, arbetsmiljö och säkerhet. Dessutom gör eleven en <strong>välstrukturerad</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar med <strong>god säkerhet</strong> verktyg och utrustning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad av och funktion hos anläggningar, system och komponenter inom hållbara energisystem.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om vetenskapliga principer inom området samt om lagar och andra bestämmelser som reglerar den operativa driften.</p> <p>Eleven identifierar och analyserar energitekniska optimeringsproblem samt ger <strong>välgrundade och nyanserade</strong> förslag till förbättringar utifrån <strong>avancerade</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför tekniskt arbete med <strong>mycket god säkerhet</strong> och med hänsyn till arbetets krav inom kvalitet, arbetsmiljö och säkerhet. Dessutom gör eleven en <strong>välstrukturerad och effektiv</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar med <strong>mycket god säkerhet</strong> verktyg och utrustning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.013Z"
+}

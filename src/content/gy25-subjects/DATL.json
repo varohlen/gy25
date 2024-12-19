@@ -1,0 +1,77 @@
+{
+  "code": "DATL",
+  "name": "Datalagring",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:534",
+  "nameHeading": "<h2>Datalagring</h2>",
+  "description": "<p>Datalagring blir allt viktigare i ett digitaliserat samhälle där olika digitala lösningar ofta hanterar stora mängder data. Ämnet datalagring behandlar hur lösningar för lagring av data designas och hur det är möjligt att effektivt komma åt lagrad data från mjukvaruapplikationer. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att skapa och använda dem för att implementera datalagring.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrade data i enlighet med lagar och andra bestämmelser på ett ansvarsfullt och säkert sätt samt med hänsyn till personlig integritet. Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data. Undervisningen ska även leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom datalagring.</p> <h5><em>Undervisningen i ämnet datalagring ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika datamodeller, datalagringslösningar och databastyper.</li> <li>Förmåga att skapa datamodeller.</li> <li>Förmåga att skapa och använda system för datalagring.</li> <li>Förmåga att värdera, utföra och anpassa åtgärder i enlighet med lagar och andra bestämmelser samt krav på säkerhet.</li> </ul><h3>Nivåer i ämnet datalagring</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DATL100TX</h3>",
+      "code": "DATL100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datalagring på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teori och system</em></p> <ul> <li>Terminologi och grundläggande teori om datalagring och datamodeller.</li> <li>Vanligt förekommande databashanteringssystem och verktyg för arbete med databaser.</li> <li>Användningsområden för datalagring.</li> </ul> <p><em>Modellering</em></p> <ul> <li>Datamodellering med någon metod.</li> <li>Normalisering av datamodeller för relationsdatabas.</li> <li>Relationer och deras egenskaper, däribland kardinalitet, index och nycklar.</li> </ul> <p><em>Datalagring</em></p> <ul> <li>Frågespråk och verktyg för manipulering av lagrad data i relationsdatabas.</li> <li>Åtkomst av data för att skapa, läsa, ändra eller radera data.</li> <li>Skapande och redigering av schema.</li> <li>Användning av API (application programming interface) för åtkomst och modifiering av lagrade data.</li> <li>Verktyg för administration och utveckling.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Enklare backup och återställning.</li> <li>Enklare optimering, till exempel med index.</li> <li>Dataintegritet, feltolerans och säkerhet.</li> <li>Enklare auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.</li> <li>Lagar och andra bestämmelser inom området samt integritetsfrågor.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATL200TX</h3>",
+      "code": "DATL200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datalagring på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teori och system</em></p> <ul> <li>Teorier om valda databastyper.</li> </ul> <p><em>Modellering</em></p> <ul> <li>Datamodellering med flera olika metoder och notationer, till exempel ER (entity-relationship) och UML (unified modelling language).</li> </ul> <p><em>Datalagring</em></p> <ul> <li>Datalagring i filer av olika format, både strukturerad och semistrukturerad, till exempel XML (extensible markup language) och JSON (java script object notation).</li> <li>Datalagring i olika typer av databaser, däribland relationsdatabas.</li> <li>Användning av frågespråk för att skapa och förändra både data och scheman.</li> <li>Prestandaoptimering och skalbarhet.</li> <li>Användning av relationsdatabaser och annan databastyp, till exempel NoSQL (icke-relationell databas) och objektorienterad databas.</li> <li>Användning av vyer och lagrade procedurer.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Olika typer av backuphantering, till exempel full, differentiell och inkrementell, samt återställning av data och transaktioner.</li> <li>Dataintegritet, feltolerans och säkerhet för valda databastyper.</li> <li>Auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.</li> <li>Lagar och andra bestämmelser inom området samt integritetsfrågor.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>övergripande</strong> för olika datamodeller, datalagringslösningar och databastyper.</p> <p>Eleven skapar med <strong>viss säkerhet</strong> datamodeller.</p> <p>Eleven skapar och hanterar med <strong>viss säkerhet</strong> datalagring med hjälp av olika verktyg.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>fungerande</strong> sätt i enlighet med lagar och andra bestämmelser samt säkerhetskrav.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för olika datamodeller, datalagringslösningar och databastyper.</p> <p>Eleven skapar med <strong>säkerhet</strong> datamodeller.</p> <p>Eleven skapar och hanterar med <strong>säkerhet</strong> datalagring med hjälp av olika verktyg.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>ändamålsenligt</strong> sätt i enlighet med lagar och andra bestämmelser samt säkerhetskrav.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika datamodeller, datalagringslösningar och databastyper.</p> <p>Eleven skapar med <strong>god säkerhet</strong> datamodeller.</p> <p>Eleven skapar och hanterar med <strong>god säkerhet</strong> datalagring med hjälp av olika verktyg.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>ändamålsenligt och effektivt</strong> sätt i enlighet med lagar och andra bestämmelser samt säkerhetskrav.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

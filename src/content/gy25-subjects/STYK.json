@@ -1,0 +1,106 @@
+{
+  "code": "STYK",
+  "name": "Styckning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:214",
+  "nameHeading": "<h2>Styckning</h2>",
+  "description": "<p>Ämnet styckning behandlar hantverksmässig styckning av olika djurslag. Ämnet behandlar också djurens anatomi och hur styckningsdetaljer används inom näringen samt betydelsen av produktkvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid styckning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet styckning ska syfta till att eleverna utvecklar förmåga att yrkesmässigt grov- och finstycka olika djurslag med både moderna och traditionella hantverksmetoder. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta utifrån branschspecifika aspekter av hygien, arbetsmiljö och säkerhet i enlighet med lagar och andra bestämmelser som gäller inom yrkesområdet. I undervisningen ska eleverna dessutom ges möjlighet att utveckla förmåga att planera och organisera styckningsarbete samt att arbeta ergonomiskt.</p> <p>Undervisningen ska bidra till att eleverna utvecklar problemlösnings- och initiativförmåga. Eleverna ska ges möjlighet att utföra arbetsuppgifter både individuellt och i samarbete med andra samt ges rikliga möjligheter att diskutera och reflektera över hållbarhet och etiska frågor samt andra aspekter av yrkesmässig styckning.</p> <h5><em>Undervisningen i ämnet styckning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och organisera styckningsarbete på ett resurseffektivt sätt.</li> <li>Förmåga att utföra styckningsarbete.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet styckning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: STYK1000X</h3>",
+      "code": "STYK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet styckning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Grunderna om djurens anatomi. Köttkvalitet och styckningsdetaljernas olika användningsområden.</li> <li>Planering och organisering av arbetet, däribland att ta fram och plocka undan verktyg och arbetsmaterial enligt instruktion.</li> <li>Råvarukalkyler för ekonomiska beräkningar.</li> <li>Ekonomiska aspekter i arbetet, däribland hur svinn kan påverka lönsamheten.</li> <li>Grovstyckade detaljer av olika djurslag.</li> <li>Finstyckning av grovstyckade detaljer.</li> <li>Hantering och förvaring av vanligt förekommande råvaror.</li> <li>Vård av kniv, handsåg och personlig skyddsutrustning.</li> <li>Förpackningsmaterial, paketering och märkning.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och livsmedelslagen.</li> <li>Hållbarhetsaspekter i arbetet, däribland avfallshantering.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Grundläggande fackspråk.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: STYK2000X</h3>",
+      "code": "STYK2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet styckning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Anatomi med betoning på gris, lamm, nöt och kalv.</li> <li>Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.</li> <li>Styckningskvalitet och normer för styckningsdetaljer.</li> <li>Planering och organisering av arbetet. Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Styckningskalkyler.</li> <li>Viktiga hållbarhetsaspekter i yrket.</li> <li>Styckning, nedskärning och sortering av gris, lamm, nöt och kalv, till exempel i styckningslokal, slakteri eller gårdsbutik.</li> <li>Metoder och tekniker vid hängande och liggande styckning.</li> <li>Hantering och förvaring av råvaror.</li> <li>Val och vård av utrustning.</li> <li>Förpackningsmaterial, paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området, däribland livsmedelslagen.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: STYK3000X</h3>",
+      "code": "STYK3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet styckning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom anatomi med betoning på vanligt förekommande djurslag.</li> <li>Styckningsdetaljernas och de olika sorteringarnas användningsområden vid förädling och tillagning.</li> <li>Styckningskvalitet och normer för styckningsdetaljer.</li> <li>Planering och organisering av arbetet utifrån givna ramar, däribland krav på hållbarhet.</li> <li>Kvalitet och effektivitet i arbetet. Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Styckning, nedskärning och sortering av vanligt förekommande djurslag, till exempel i styckningslokal, slakteri eller gårdsbutik.</li> <li>Hantering och förvaring av råvaror.</li> <li>Vård av utrustning.</li> <li>Förpackningsmaterial, paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: STYK4000X</h3>",
+      "code": "STYK4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet styckning på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom anatomi med betoning på vanligt förekommande djurslag.</li> <li>Planering och organisering av arbetet utifrån krav på ekonomi, effektivitet och hållbarhet.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Styckningskalkyler.</li> <li>Yrkesmässig styckning, nedskärning och sortering av vanligt förekommande djurslag, till exempel i styckningslokal, slakteri eller gårdsbutik.</li> <li>Hantering och förvaring av råvaror.</li> <li>Vård av utrustning.</li> <li>Förpackningsmaterial, paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar styckningsarbete på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven använder med <strong>visst</strong> handlag olika metoder för att stycka. Eleven hanterar, förvarar och förpackar olika råvaror och produkter på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar styckningsarbete på ett <strong>gott</strong> sätt.</p> <p>Eleven använder med <strong>gott</strong> handlag olika metoder för att stycka. Eleven hanterar, förvarar och förpackar olika råvaror och produkter på ett <strong>gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar styckningsarbete på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven använder med <strong>mycket gott</strong> handlag olika metoder för att stycka. Eleven hanterar, förvarar och förpackar olika råvaror och produkter på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.085Z"
+}

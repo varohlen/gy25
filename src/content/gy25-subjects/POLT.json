@@ -1,0 +1,78 @@
+{
+  "code": "POLT",
+  "name": "Politik och hållbar utveckling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:334",
+  "nameHeading": "<h2>Politik och hållbar utveckling</h2>",
+  "description": "<p>Ämnet politik och hållbar utveckling är tvärvetenskapligt och belyser begreppet hållbar utveckling ur såväl ekonomisk som social och miljömässig synvinkel på lokal, regional och global nivå. I ämnet behandlas frågor om miljöutmaningar, hushållning av naturresurser, ekosystemens bärkraft och miljöpolitik. Ämnet behandlar också samspelet mellan människan och hennes omgivning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet politik och hållbar utveckling ska syfta till att eleverna utvecklar förståelse av de förutsättningar, drivkrafter och värden som ligger till grund för arbete med miljömässig, social och ekonomisk hållbarhet. Undervisningen ska också leda till att eleverna utvecklar förståelse av olika handlingsalternativ och deras konsekvenser samt ge dem möjlighet att reflektera över sambanden mellan livsstil och hållbar utveckling. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om nationella och internationella överenskommelser och bestämmelser inom området. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om olika orsaker till intressekonflikter i arbetet med hållbar utveckling. Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt till olika politiska ställningstaganden som rör hållbarhet. Undervisningen ska även stimulera elevernas intresse och nyfikenhet för frågor som behandlar politik om hållbar utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda begrepp, teorier och modeller i analys av lokala, regionala och globala hållbarhetsfrågor. Eleverna ska också ges möjlighet till ett undersökande arbetssätt samt att genomföra praktiska fallstudier.</p> <p>I undervisningen ska eleverna ges möjlighet att söka och värdera information från olika källor. Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera kunskaper och uppfattningar om politik och hållbar utveckling, både muntligt och skriftligt.</p> <h5><em>Undervisningen i ämnet politik och hållbar utveckling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika förutsättningar och möjligheter för en hållbar utveckling.</li> <li>Förmåga att värdera olika lösningar för en ekonomisk, social och miljömässig hållbar utveckling.</li> <li>Förmåga att granska och använda information från olika källor i arbete med frågor om hållbarhet och miljöpolitik.</li> <li>Förmåga att identifiera och analysera hållbarhetsproblem med hjälp av begrepp och teorier.</li> </ul><h3>Nivåer i ämnet politik och hållbar utveckling</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: POLT1000X</h3>",
+      "code": "POLT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet politik och hållbar utveckling på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Den politiska beslutsprocessen i Sverige och inom EU, med fokus på frågor som rör en hållbar miljöpolitik.</li> <li>Politiska styrmedel och mål på lokal, regional och global nivå samt hur de används i samband med hållbar användning av naturresurser.</li> <li>Svensk och europeisk miljölagstiftning samt internationella konventioner och överenskommelser med kopplingar till hållbar utveckling.</li> <li>Centrala aktörer inom hållbar utveckling, däribland stater och intresseorganisationer. Hur centrala aktörer arbetar samt påverkar den politiska agendan från lokal till global nivå.</li> <li>Aktuella miljöpolitiska intressekonflikter på lokal, regional och global nivå.</li> <li>Ekonomiska, sociala och miljömässiga konsekvenser av några politiska handlingsalternativ utifrån ett aktuellt miljöhot.</li> <li>Sambandet mellan livsstil, politik och hållbar utveckling.</li> <li>Etiska värderingar och överväganden i samband med miljöpolitiska beslut.</li> <li>Kritisk granskning samt användning av information från olika källor i arbetet med hållbarhetsutmaningar inom miljöpolitik.</li> <li>Begrepp och teorier inom området politik och hållbar utveckling.</li> <li>Analys av något hållbarhetsproblem med hjälp av centrala begrepp och teorier.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: POLT2000X</h3>",
+      "code": "POLT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet politik och hållbar utveckling på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Nationell miljölagstiftning samt internationella konventioner och andra överenskommelser kopplat till något miljöpolitiskt område.</li> <li>Hur intresseorganisationer och andra verksamheter, till exempel näringslivet, påverkar den politiska agendan och beslutsprocessen i något område inom hållbar utveckling, lokalt, regionalt eller globalt.</li> <li>Hur människors livsstil får konsekvenser för olika aspekter av ekonomisk, social och miljömässig hållbar utveckling.</li> <li>Etiska värderingar och konsekvenser av föreslagna miljöpolitiska lösningar.</li> <li>Kritisk granskning och användning av information från olika källor i arbete med hållbarhetsutmaningar inom miljöpolitik.</li> <li>Användning av begrepp och teorier inom området politik och hållbar utveckling.</li> <li>Fördjupning och analys av något miljöproblem samt värdering av olika handlingsalternativ för ekonomisk, social och miljömässig hållbarhet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika förutsättningar och möjligheter för en hållbar utveckling.</p> <p>Eleven värderar <strong>översiktligt</strong> olika lösningar utifrån ekonomisk, social och miljömässig hållbar utveckling.</p> <p>Eleven granskar och använder med <strong>viss säkerhet</strong> information om hållbarhet och miljöpolitik från olika källor.</p> <p>Eleven identifierar och analyserar med <strong>viss säkerhet</strong> hållbarhetsproblem med hjälp av begrepp och teorier.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika förutsättningar och möjligheter för en hållbar utveckling.</p> <p>Eleven värderar <strong>utförligt</strong> olika lösningar utifrån ekonomisk, social och miljömässig hållbar utveckling.</p> <p>Eleven granskar och använder med <strong>säkerhet</strong> information om hållbarhet och miljöpolitik från olika källor.</p> <p>Eleven identifierar och analyserar med <strong>säkerhet</strong> hållbarhetsproblem med hjälp av begrepp och teorier.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika förutsättningar och möjligheter för en hållbar utveckling.</p> <p>Eleven värderar <strong>utförligt och nyanserat</strong> olika lösningar utifrån ekonomisk, social och miljömässig hållbar utveckling.</p> <p>Eleven granskar och använder med <strong>god säkerhet</strong> information om hållbarhet och miljöpolitik från olika källor.</p> <p>Eleven identifierar och analyserar med <strong>god säkerhet</strong> hållbarhetsproblem med hjälp av begrepp och teorier.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.063Z"
+}

@@ -1,0 +1,106 @@
+{
+  "code": "ANO",
+  "name": "Anatomi och fysiologi",
+  "englishName": "Anatomy and physiology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-01",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:20",
+  "skolfsAndring": "2022:34",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Anatomi och fysiologi</h2>",
+  "description": "<p>Ämnet anatomi och fysiologi grundar sig huvudsakligen på de medicinska kunskapsområdena anatomi, fysiologi, mikrobiologi och farmakologi. Ämnet behandlar människokroppens uppbyggnad och funktion, vanliga mikroorganismer och deras spridningsvägar samt läkemedel.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet anatomi och fysiologi ska syfta till att eleverna utvecklar grundläggande kunskaper om människokroppens uppbyggnad och funktion. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om människans normala fysiska utveckling från befruktning till livets slut.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i medicinsk terminologi vilket bidrar till kommunikativ förmåga inom området.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla grundläggande kunskaper om läkemedel och deras användningsområden samt förmåga att utföra enklare form av läkemedelsberäkning och att göra rimlighetsbedömningar av resultaten.</p> <p>Undervisningen ska vidare ge eleverna möjlighet att utveckla kunskaper om vanliga mikroorganismer och hur de sprids samt kunskaper om hur man förhindrar smittspridning. Vidare ska undervisningen ge eleverna möjlighet att utveckla grundläggande kunskaper om hur kroppens försvarssystem fungerar.</p> <h4>Undervisningen i ämnet anatomi och fysiologi ska ge eleverna förutsättningarna att utveckla följande:</h4> <ol> <li>Kunskaper om hur människokroppen är uppbyggd och fungerar.</li> <li>Kunskaper om människans normala fysiska utveckling.</li> <li>Förmåga att använda medicinsk terminologi.</li> <li>Kunskaper om vanliga läkemedels användningsområden, administreringssätt samt förmåga att utföra enklare läkemedelsberäkning.</li> <li>Kunskaper om lagar och andra bestämmelser kopplade till läkemedel.</li> <li>Kunskaper om mikroorganismer och hur de sprids, smittförebyggande åtgärder samt kunskaper om kroppens försvarssystem.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Anatomi och fysiologi 1, 50 poäng. </li> <li>Anatomi och fysiologi 2, 50 poäng, som bygger på kursen anatomi och fysiologi 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ANOANA01</h3>",
+      "code": "ANOANA01",
+      "nameHeading": "<h2>Anatomi och fysiologi 1, 50 poäng</h2>",
+      "name": "Anatomi och fysiologi 1",
+      "englishName": "Anatomy and physiology 1",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen anatomi och fysiologi 1 omfattar punkterna 1 och 3–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande om människokroppens uppbyggnad och funktion.</li> <li>Grundläggande medicinsk terminologi.</li> <li>Grundläggande om läkemedel och läkemedelshantering, däribland olika administreringssätt, halveringstid, terapeutisk bredd och vanliga biverkningar.</li> <li>Bestämmelser kring delegering och personligt ansvar för läkemedelshantering.</li> <li>Vanliga mikroorganismer och hur de sprids.</li> <li>Åtgärder för att förebygga smitta.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>människokroppens uppbyggnad och funktion. I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel.</p> <p>Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>översiktligt</strong> hur de sprids.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>människokroppens uppbyggnad och funktion. I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>utförligt</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel.</p> <p>Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>utförligt</strong> hur de sprids.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>människokroppens uppbyggnad och funktion. I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel.</p> <p>Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>utförligt och nyanserat</strong> hur de sprids.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ANOANA02</h3>",
+      "code": "ANOANA02",
+      "nameHeading": "<h2>Anatomi och fysiologi 2, 50 poäng</h2>",
+      "name": "Anatomi och fysiologi 2",
+      "englishName": "Anatomy and physiology 2",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen anatomi och fysiologi 2 omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.</li> <li>Kroppens vätske-, elektrolyt- och näringsbalans.</li> <li>Människans utveckling från barn till äldre.</li> <li>Den fysiologiska processen kring människans fortplantning från befruktning till förlossning.</li> <li>Fördjupad medicinsk terminologi.</li> <li>Vanliga läkemedel och deras verkningssätt, användningsområden och vilka biverkningar de kan ha.</li> <li>Enklare läkemedelsberäkning samt relevansbedömning av resultatet.</li> <li>Lagar och andra bestämmelser som gäller för läkemedelsanvändning.</li> <li>Kroppens försvarssystem mot mikroorganismer och virus.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>människokroppens uppbyggnad och funktion. Vidare redogör eleven <strong>översiktligt</strong> för kroppens vätske- och elektrolytbalans. Dessutom redogör eleven <strong>översiktligt</strong> för människans normala fysiska utveckling. I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering. Vidare utför eleven enkel läkemedelsberäkning med <strong>tillfredsställande</strong> resultat och bedömer relevansen av resultatet.</p> <p>Eleven beskriver <strong>översiktligt </strong>kroppens försvarssystem.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>människokroppens uppbyggnad och funktion. Vidare redogör eleven <strong>utförligt</strong> för kroppens vätske- och elektrolytbalans. Dessutom redogör eleven <strong>utförligt </strong>för människans normala fysiska utveckling. I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>utförligt</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering. Vidare utför eleven enkel läkemedelsberäkning med <strong>tillfredsställande</strong> resultat och bedömer relevansen av resultatet.</p> <p>Eleven beskriver <strong>utförligt </strong>kroppens försvarssystem.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>människokroppens uppbyggnad och funktion. Vidare redogör eleven <strong>utförligt och nyanserat</strong> för kroppens vätske- och elektrolytbalans. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för människans normala fysiska utveckling. I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering. Vidare utför eleven enkel läkemedelsberäkning med <strong>gott</strong> resultat och bedömer relevansen av resultatet.</p> <p>Eleven beskriver <strong>utförligt och nyanserat </strong>kroppens försvarssystem.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.940Z"
+}

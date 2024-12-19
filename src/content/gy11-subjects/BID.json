@@ -1,0 +1,67 @@
+{
+  "code": "BID",
+  "name": "Bildteori",
+  "englishName": "Art theory",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:170",
+  "skolfsAndring": "2022:48",
+  "nameHeading": "<h2>Bildteori</h2>",
+  "description": "<p>Ämnet bildteori behandlar hur bilder förstås och kommuniceras och i vilka medier och sammanhang det sker. I ämnet behandlas teorier om visuell kommunikation, hur bilder konstrueras och produceras samt hur den visuella kulturen tar sig uttryck i form av ett ökande flöde av bilder i olika medier. Ämnet behandlar även teorier om bilden som språk.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bildteori ska syfta till att eleverna utvecklar kunskaper om bilder som språk och om bildkommunikation. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om konstbegreppet och konstbilden, populärkulturens bilduttryck och andra kategorier av bilder samt hur bilden i sitt sammanhang uppfattas av betraktaren.</p><p>Eleverna ska ges möjlighet att utveckla kunskaper om bildspråklig teori, färdigheter i att se och möta bilder samt möjlighet att själv uttrycka sig i bilder. Undervisningen ska ge eleverna möjlighet att använda visuella teorier och utveckla kunskaper om visuella miljöer, design och formgivning i relation till individen och gruppen.</p><p>Eleverna ska ges möjlighet att utveckla förståelse av hur synen på konst, konsthantverk och design utvecklats. Vidare ska eleverna ges möjlighet att utveckla färdigheter i att använda begrepp inom bildteoretiska områden som visuell kultur, design, konst och formgivning. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om estetiska lärprocesser.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur bilder ses utifrån skilda aspekter som genus och etik. Bilden ska ses i ett mångkulturellt och globalt sammanhang och i ett historiskt perspektiv för att eleverna ska ges möjlighet att förstå utvecklingen av och framtiden för bildteorier. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den konstvetenskapliga traditionen och delar av konsthistorien.</p><p>Undervisningen ska ge eleverna möjlighet att föra loggbok över och diskutera den konstnärliga arbetsprocessen samt designprocesser och formgivningsprocesser. </p><h4>Undervisningen i ämnet bildteori ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om kommunikationsprocesser och om teorier om bildkommunikation.</li> <li>Kunskaper om konstteori och konstvetenskap.</li> <li>Kunskaper om den visuella kulturen och om perception.</li> <li>Förmåga att analysera och tolka bilder samt att värdera egna och andras bildanalyser.</li> <li>Kunskaper om hur bilder kommunicerar ur olika aspekter och hur bilder fungerar i sitt sammanhang.</li> <li>Förmåga att se och behandla bilden som text och se hur bilder samverkar med annan text samt kunskaper om bildsemiotik.</li> <li>Förståelse av bildens roll i kultur och samhälle samt för individen.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Bildteori, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: BIDBIT0</h3>",
+      "code": "BIDBIT0",
+      "nameHeading": "<h2>Bildteori, 100 poäng</h2>",
+      "name": "Bildteori",
+      "englishName": "Art theory",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen bildteori omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3–6.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kommunikationsprocesser och teorier om bildkommunikation.</li> <li>Konstteori och konstvetenskap.</li> <li>Visuell kultur och perceptionsteori. Färglära och färgteori, till exempel färgperception och färgsystem. Formlära.</li> <li>Bildanalysmodeller och bildtolkningsmodeller samt analys av konstbilder och massbilder.</li> <li>Bilden ur olika aspekter, till exempel historiska och nutida aspekter samt genus-, etnicitets-, klass- och åldersaspekter.</li> <li>Bildproduktion och bildanvändande i olika sammanhang. </li> <li>Bilden som text, bildsemiotik och bilden i relation till annan text.</li> <li>Bildens roll i kultur och samhälle samt för individen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör<strong> översiktligt</strong> för en kommunikationsprocess och de bakomliggande teorierna. Eleven redogör också <strong>översiktligt</strong> för en konstteori. Dessutom redogör eleven <strong>översiktligt</strong> för färglära och formlära.</p><p>Eleven genomför<strong> enkla</strong> bildanalyser och bildtolkningar. I analysen och tolkningen redogör eleven <strong>översiktligt </strong>för hur bilden kommunicerar ur olika aspekter. Eleven redogör också <strong>översiktligt </strong>för hur bildens betydelser påverkas av dess sammanhang och hur betydelserna förändras beroende på vem som ser bilden, var den syns och vad som avbildas. Dessutom diskuterar eleven <strong>översiktligt </strong>bildens konstnärliga kvalitet. Eleven värderar andras bildanalyser med <strong>enkla </strong>omdömen.</p><p>Eleven redogör <strong>översiktligt </strong>för bildens betydelse i samhället och för individen.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör<strong> utförligt</strong> för en kommunikationsprocess och de bakomliggande teorierna. Eleven redogör också <strong>utförligt</strong> för en konstteori<strong> och för samband med konsthistoria</strong>. Dessutom redogör eleven <strong>utförligt</strong> för färglära och formlära <strong>samt ger exempel på hur form och komposition skapar betydelser</strong>.</p><p>Eleven genomför bildanalyser och bildtolkningar <strong>samt redogör utförligt för skillnader och likheter mellan olika analysmodeller</strong>. I analysen och tolkningen redogör eleven <strong>utförligt </strong>för <strong>bildsemiotik och för </strong>hur bilden kommunicerar ur olika aspekter. Eleven redogör också <strong>utförligt </strong>för hur bildens betydelser påverkas av dess sammanhang och hur betydelserna förändras beroende på vem som ser bilden, var den syns och vad som avbildas. Dessutom diskuterar eleven <strong>utförligt </strong>bildens konstnärliga kvalitet. Eleven värderar <strong>egnas och </strong>andras bildanalyser med <strong>nyanserade </strong>omdömen.</p><p>Eleven redogör <strong>utförligt </strong>för bildens betydelse <strong>och påverkan </strong>i samhället, <strong>i kulturpolitik</strong> och för individen.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p> Eleven redogör<strong> utförligt och nyanserat</strong> för en kommunikationsprocess och de bakomliggande teorierna. Eleven redogör också <strong>utförligt och nyanserat</strong> för en konstteori<strong> och för samband med konsthistoria</strong>. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för färglära och formlära <strong>samt ger exempel på hur form och komposition skapar betydelser och diskuterar det utförligt utifrån bildteoretiska begrepp</strong>.</p><p>Eleven genomför<strong> komplexa</strong> bildanalyser och bildtolkningar <strong>samt använder, granskar kritiskt, och redogör utförligt och nyanserat för skillnader och likheter mellan, olika analysmodeller</strong>. I analysen och tolkningen redogör eleven <strong>utförligt och nyanserat </strong>för <strong>bildsemiotik, använder det som verktyg och redogör för </strong>hur bilden kommunicerar ur olika aspekter. Eleven redogör också <strong>utförligt och nyanserat </strong>för hur bildens betydelser påverkas av dess sammanhang och hur betydelserna förändras beroende på vem som ser bilden, var den syns och vad som avbildas <strong>samt hur detta påverkar det egna sättet att se på bilden</strong>. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>bildens konstnärliga kvalitet. Eleven värderar <strong>egnas och </strong>andras bildanalyser med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på alternativa sätt att analysera bilden</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för bildens betydelse <strong>och påverkan </strong>i samhället, <strong>i kulturpolitik</strong> och för individen. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.949Z"
+}

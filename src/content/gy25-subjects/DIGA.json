@@ -1,0 +1,78 @@
+{
+  "code": "DIGA",
+  "name": "Digitalt skapande",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:196",
+  "nameHeading": "<h2>Digitalt skapande</h2>",
+  "description": "<p>Digitala verktyg har en central roll i skapandet, utvecklingen och spridningen av konst och kultur. Ämnet digitalt skapande behandlar skapande och gestaltande processer med digitala verktyg och förhållandet mellan konstnärliga uttryck i gränslandet mellan konstnärligt skapande och teknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet digitalt skapande ska syfta till att eleverna utvecklar förmåga att kreativt skapa, gestalta och kommunicera med digital teknik både enskilt och kollektivt. Undervisningen ska även bidra till att eleverna utvecklar förståelse av övergångar mellan analoga och digitala skapandeprocesser. Eleverna ska ges möjlighet att inrikta sitt digitala skapande mot olika uttryck. Undervisningen ska därför bidra till att eleverna utvecklar kunskaper om den program- och hårdvara som används för skapande inom olika estetiker samt om relevant dokumentation av skapandeprocessen. Undervisningen ska ge eleverna möjlighet att utveckla begreppsförståelse och förmåga att använda metoder för att analysera digitala uttryck både utifrån estetiska och tekniska aspekter och förhållningssätt. Eleverna ska också ges möjlighet att utveckla ett kritiskt förhållningssätt till olika metoder och verktyg i digitalt skapande.</p> <p>Undervisningen ska ge eleverna möjligheter att genom kunskaper om och färdigheter i ämnet bidra till ett aktivt kulturliv. Undervisningen ska stimulera elevernas nyfikenhet och lust att utvecklas inom digitalt skapande. Därför ska undervisningen ha experimentell och undersökande karaktär och ge eleverna möjlighet att arbeta med kombinationer av olika uttryck, till exempel bild, rörelse eller musik. Eleverna ska ges möjlighet att ta del av, diskutera och analysera digitalt skapade gestaltningar, produkter och konstverk samt att utveckla förmåga att bedöma konstnärliga och tekniska kvaliteter i digitalt skapande. Undervisningen ska dessutom lämna utrymme för diskussion och reflektion över etiska frågor om digitalt skapande utifrån hållbar utveckling och vad som är ett klokt handlande.</p> <h5><em>Undervisningen i ämnet digitalt skapande ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om digitala och analoga skapandeprocesser.</li> <li>Förmåga att planera, genomföra och dokumentera digitala projekt ensam och i grupp.</li> <li>Färdigheter i att hantera digitala verktyg i skapande och gestaltning av olika uttryck.</li> <li>Förmåga att analysera digitala uttryck utifrån estetiska och tekniska perspektiv.</li> </ul><h3>Nivåer i ämnet digitalt skapande</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DIGA1000X</h3>",
+      "code": "DIGA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digitalt skapande på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Analoga och digitala skapandeprocesser.</li> <li>Skissarbete med analoga och digitala verktyg.</li> <li>Digital samverkan vid produktioner, till exempel via programvara för delad redigering och kommunikation.</li> <li>Genomförande och dokumentation av digitala projekt.</li> <li>Presentationsvägar och spridningsvägar för digitala produktioner.</li> <li>Gränslandet mellan konst och teknik samt hur det formar skapandeprocesser.</li> <li>Introduktion till programvara, hårdvara och arbetsflöden som används för skapande i olika estetiska uttrycksformer.</li> <li>Kombinationer av olika estetiska uttryck med hjälp av digitala verktyg.</li> <li>Centrala begrepp för och analys av digitala uttryck.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DIGA2000X</h3>",
+      "code": "DIGA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digitalt skapande på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Skapande och gestaltande processer från idé till färdig produktion.</li> <li>Skapandeprocessers olika faser i relation till hur tekniska och estetiska förutsättningar påverkar elevens egna produktioner.</li> <li>Samarbetsformer inom digitala produktioner anpassat till specialiserad inriktning inom digitalt skapande.</li> <li>Anpassning av digitala slutprodukter utifrån plattformar och kanaler för spridning av digitala produktioner.</li> <li>Genomförande och dokumentation av digitala projekt.</li> <li>Specialiserad program- och hårdvara som används för skapande i en eller flera olika estetiska uttrycksformer.</li> <li>Centrala begrepp för analys av digitala uttryck.</li> <li>Analyser av digitala uttryck i relation till elevens eget skapande utifrån tekniska och estetiska kvaliteter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om skapandeprocessers olika faser.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> digitala projekt både ensam och i grupp och utför <strong>enkel</strong> dokumentation.</p> <p>Eleven hanterar digitala verktyg med <strong>viss</strong> skicklighet och gestaltar olika estetiska uttryck med <strong>godtagbar</strong> kvalitet.</p> <p>Eleven utför <strong>enkla</strong> analyser av digitalt skapande gestaltningar utifrån estetiska och tekniska perspektiv med <strong>viss</strong> användning av relevanta begrepp.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om skapandeprocessers olika faser.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> digitala projekt både ensam och i grupp och utför <strong>noggrann</strong> dokumentation.</p> <p>Eleven hanterar digitala verktyg med <strong>god</strong> skicklighet och gestaltar olika estetiska uttryck med <strong>god</strong> kvalitet.</p> <p>Eleven utför <strong>utvecklade</strong> analyser av digitalt skapande gestaltningar utifrån estetiska och tekniska perspektiv med <strong>god</strong> användning av relevanta begrepp.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om skapandeprocessers olika faser.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> digitala projekt både ensam och i grupp och utför <strong>noggrann och utförlig</strong> dokumentation.</p> <p>Eleven hanterar digitala verktyg med <strong>mycket god</strong> skicklighet och gestaltar olika estetiska uttryck med <strong>mycket god</strong> kvalitet.</p> <p>Eleven utför <strong>välutvecklade</strong> analyser av digitalt skapande gestaltningar utifrån estetiska och tekniska perspektiv med <strong>mycket god</strong> användning av relevanta begrepp.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.983Z"
+}

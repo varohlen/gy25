@@ -1,0 +1,78 @@
+{
+  "code": "MOTO",
+  "name": "Motor- och röjmotorsåg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:65",
+  "nameHeading": "<h2>Motor- och röjmotorsåg</h2>",
+  "description": "<p>Ämnet motor- och röjmotorsåg behandlar konstruktion, service och periodisk kontroll samt arbete med både motorsåg och röjmotorsåg. Motorsåg och röjmotorsåg används inom naturbruket vid arbete med skogsvård och avverkning i skogen, vid skötsel och underhåll inom naturvård och landskapsvård samt vid skötsel och underhåll av utemiljöer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet motor- och röjmotorsåg ska syfta till att eleverna utvecklar färdigheter i att arbeta med motorsåg och röjmotorsåg. Den ska leda till att eleverna utvecklar förmåga att planera och genomföra arbetsuppgifter med motorsåg och röjmotorsåg inom skogsbruk och naturvård på ett yrkesmässigt sätt. I detta ingår att göra bedömningar av situationen på platsen och välja lämpliga strategier och arbetsmetoder samt att lösa problem. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka arbetsinstruktioner samt följa upp och redovisa utfört arbete. Undervisningen ska också bidra till att eleverna utvecklar förmåga att utföra service och reparationer av motorsågar och röjmotorsågar. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om säkerhet och ergonomi i samband med arbete med motorsåg och röjmotorsåg samt förmåga att bedöma risker och förebygga olycksfall.</p> <p>Genom praktiska övningar med motorsåg och röjmotorsåg i olika arbetssituationer ska eleverna ges möjlighet att utveckla förmåga att arbeta på ett yrkesmässigt sätt samt i enlighet med de branschkrav som finns för säker hantering av motorsåg och röjmotorsåg.</p> <h5><em>Undervisningen i ämnet motor- och röjmotorsåg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och genomföra arbetsuppgifter med motorsåg och röjmotorsåg samt att bedöma arbetsresultatet.</li> <li>Förmåga att utföra service och reparationer av motorsågar och röjmotorsågar.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området samt att bedöma risker och förebygga olycksfall.</li> </ul><h3>Nivåer i ämnet motor- och röjmotorsåg</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MOTO1000X</h3>",
+      "code": "MOTO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet motor- och röjmotorsåg på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Motor- och röjmotorsågens konstruktion, funktion och säkerhetsanordningar.</li> <li>Underhåll av motor- och röjmotorsågar, däribland demontering och montering av kedja, svärd och röjsågsklinga.</li> <li>Filning och kontroll av motorsågskedja och röjsågsklinga.</li> </ul> <p><em>Arbete med motorsåg</em></p> <ul> <li>Planering och genomförande av trädfällning av träd av varierande storlek. Val av brytmån, sågning av riktskär och fällskär samt fällning.</li> <li>Användning av vanliga fällhjälpmedel, till exempel brytjärn och kilar.</li> <li>Kvistning och aptering av fällda träd med utgångspunkt från säkerhet och ergonomi.</li> <li>Arbetsmetoder och risker med fastfällda träd och stammar i spänn.</li> <li>Användning och underhåll av lyftsax, lyftkrok och måttband.</li> <li>Metoder för bedömning av arbetsresultat samt fältstudier.</li> </ul> <p><em>Arbete med röjmotorsåg</em></p> <ul> <li>Planering och genomförande av arbetsuppgifter med röjmotorsåg.</li> <li>Arbetsteknik vid arbete med röjmotorsåg, till exempel riktad fällning, nedtagning av hängande träd, buketter, lutande träd och röjningsarbete vid ledningsgator.</li> <li>Grundläggande planering av röjningstrakt och uppföljning av arbete med röjmotorsåg.</li> <li>Metoder för bedömning av arbetsresultat samt fältstudier.</li> </ul> <p><em>Arbetsmiljö och säkerhet</em></p> <ul> <li>Miljö- och säkerhetsföreskrifter vid arbete med motor- och röjmotorsåg.</li> <li>Riskmoment vid trädfällning och upparbetning med motorsåg samt förebyggande åtgärder.</li> <li>Risker vid arbete med trädbeskärning och arbete från plattform.</li> <li>Riskmoment vid arbete med röjmotorsåg samt förebyggande åtgärder.</li> <li>Första hjälpen.</li> <li>Användning av skyddsutrustning vid arbete med motor- och röjmotorsåg.</li> <li>Lagar och andra bestämmelser som gäller arbete med motor- och röjmotorsåg.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MOTO2000X</h3>",
+      "code": "MOTO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet motor- och röjmotorsåg på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Service och underhåll enligt tillverkarens instruktioner.</li> </ul> <p><em>Arbete med motorsåg</em></p> <ul> <li>Detaljplanering och tolkning av givna arbetsinstruktioner.</li> <li>Yrkesmässigt arbete med motorsåg.</li> <li>Arbetsmetoder och hjälpmedel vid svårfällda träd, till exempel vid framåtlut, bakåtlut, vind, röta och torra träd.</li> <li>Arbete i stormfälld skog.</li> <li>Arbetsmetoder och hjälpmedel vid nedtagning av fastfällt träd.</li> <li>Natur- och kulturmiljövård i samband med fällning.</li> <li>Uppföljning och rapportering av arbetsresultat.</li> </ul> <p><em>Arbete med röjmotorsåg</em></p> <ul> <li>Detaljplanering och tolkning av givna arbetsinstruktioner.</li> <li>Yrkesmässigt arbete med röjmotorsåg.</li> <li>Natur- och kulturmiljövård i samband med röjning.</li> <li>Uppföljning och rapportering av arbetsresultat.</li> </ul> <p><em>Arbetsmiljö och säkerhet</em></p> <ul> <li>Miljö- och säkerhetsföreskrifter vid svåra arbetsmoment med motorsåg och röjmotorsåg.</li> <li>Risker vid svåra arbetsmoment med motorsåg och röjmotorsåg samt förebyggande åtgärder.</li> <li>Första hjälpen.</li> <li>Ansvar och säkerhet vid arbete utmed fastigheter, vägar och ledningar.</li> <li>Lägesangivelser för arbetsplatser och kontaktmöjligheter vid ensamarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och genomför arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>enkla</strong> bedömningar av lämpliga arbetsmetoder. Eleven löser de problem som uppstår med <strong>enkla</strong> strategier. När arbetet är utfört gör eleven en <strong>enkel</strong> bedömning av arbetsresultatet.</p> <p>Eleven utför med <strong>visst</strong> handlag service och reparationer av motorsågen och röjmotorsågen.</p> <p>Eleven arbetar i enlighet med aktuella säkerhetsföreskrifter, lagar och andra bestämmelser, samt gör <strong>enkla</strong> riskbedömningar och förebygger olycksfall.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och genomför arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>välgrundade</strong> bedömningar av lämpliga arbetsmetoder. Eleven löser de problem som uppstår med <strong>utvecklade</strong> strategier. När arbetet är utfört gör eleven en <strong>välgrundad</strong> bedömning av arbetsresultatet.</p> <p>Eleven utför med <strong>gott</strong> handlag service och reparationer av motorsågen och röjmotorsågen.</p> <p>Eleven arbetar i enlighet med aktuella säkerhetsföreskrifter, lagar och andra bestämmelser, samt gör <strong>välgrundade</strong> riskbedömningar och förebygger olycksfall.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och genomför arbetsuppgifter med motorsåg och röjmotorsåg på ett säkert sätt. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>välgrundade och nyanserade</strong> bedömningar av lämpliga arbetsmetoder. Eleven löser de problem som uppstår med <strong>välutvecklade</strong> strategier. När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av arbetsresultatet.</p> <p>Eleven utför med <strong>mycket gott</strong> handlag service och reparationer av motorsågen och röjmotorsågen.</p> <p>Eleven arbetar i enlighet med aktuella säkerhetsföreskrifter, lagar och andra bestämmelser, samt gör <strong>välgrundade och nyanserade</strong> riskbedömningar och förebygger olycksfall.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.053Z"
+}

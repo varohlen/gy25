@@ -1,0 +1,106 @@
+{
+  "code": "DATO",
+  "name": "Datorstyrd produktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:193",
+  "nameHeading": "<h2>Datorstyrd produktion</h2>",
+  "description": "<p>Det industritekniska området är under ständig utveckling och har betydelse för stora delar av samhällets utveckling. Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från att tolka ett tillverkningsunderlag till att driftsätta utrustning med hög automatiseringsgrad.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet datorstyrd produktion ska syfta till att eleverna utvecklar förmåga att använda vanligt förekommande redskap för programmering och produktionsstyrning. Eleverna ska även ges möjlighet att utveckla förmåga att använda verktyg och system för processövervakning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av operatörens roll i datorstyrd industriell produktion och det ansvar som följer med arbetsuppgifterna inom ämnesområdet. Eleverna ska även ges möjlighet att utveckla förmåga att använda metoder och utrustning för att kunna kvalitetssäkra produkter med hjälp av datorstyrd utrustning. Undervisningen ska även bidra till att eleverna utvecklar förmåga att hålla den datorstyrda utrustningen driftsäker och hållbar med hänsyn tagen till miljö, arbetsmiljö och maskinsäkerhet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta systematiskt och säkert. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att arbeta strukturerat, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att samverka och kommunicera i alla led i produktionen.</p> <h5><em>Undervisningen i ämnet datorstyrd produktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att tolka tillverkningsunderlag, använda relevant programmeringsstöd samt driftsätta datorstyrd produktion.</li> <li>Förmåga att kvalitetssäkra datorstyrd produktion samt att bedöma resultat på utfört arbete.</li> <li>Förmåga att upprätthålla utrustningens driftsäkerhet.</li> <li>Förmåga att arbeta strukturerat samt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att bedöma produktionens miljöpåverkan.</li> </ul><h3>Nivåer i ämnet datorstyrd produktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DATO1000X</h3>",
+      "code": "DATO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datorstyrd produktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Driftsättning</em></p> <ul> <li>Uppbyggnad av ett tillverkningsunderlag, till exempel information om material, dimensioner och toleranser.</li> <li>Programmeringsstödets funktion och handhavande.</li> <li>Metoder och villkor för driftsättning av utrustning.</li> <li>Operatörens roll i datorstyrd industriell produktion.</li> <li>Planering, organisation och utförande av enkel programmering av utrustning.</li> </ul> <p><em>Kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Enkel kontroll, bedömning och dokumentation av resultat.</li> <li>Justering av program och inställningar.</li> <li>Enkel kontroll och bedömning av utrustningens status.</li> <li>Förebyggande underhåll, till exempel okulär besiktning av förutbestämda kontrollpunkter.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Tillämpning av arbetsmetoder för säkerhet, struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Tolkning och tillämpning av lagar och andra bestämmelser som gäller miljö, arbetsmiljö och maskinsäkerhet för datorstyrd produktion.</li> <li>Kontroll och bedömning av miljöpåverkan, arbetsmiljö och maskinsäkerhet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATO2000X</h3>",
+      "code": "DATO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datorstyrd produktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Driftsättning</em></p> <ul> <li>Symboler och beteckningar på tillverkningsunderlag, till exempel ytjämnhetskrav och form- och lägestoleranser.</li> <li>Olika typer av programmeringsstöd och tillverkningsmetoder.</li> <li>Metoder för att driftsätta utrustning.</li> <li>Planering, organisation och utförande av programmering och driftsättning av utrustning.</li> </ul> <p><em>Kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Kontroll, bedömning och dokumentation av resultat.</li> <li>Justering och komplettering av program och inställningar.</li> <li>Kontroll, bedömning och dokumentation av utrustningens status.</li> <li>Förebyggande underhåll, till exempel byte av slitdetaljer på utrustningen.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Tillämpning av arbetsmetoder för säkerhet, struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Tolkning och tillämpning av lagar och andra bestämmelser som gäller miljö, arbetsmiljö och maskinsäkerhet för datorstyrd produktion.</li> <li>Kontroll, bedömning och dokumentation av miljöpåverkan, arbetsmiljö och maskinsäkerhet.</li> <li>Riskhantering vid osäkra förhållanden gällande miljöpåverkan, arbetsmiljö och maskinsäkerhet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATO3000X</h3>",
+      "code": "DATO3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datorstyrd produktion på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Driftsättning</em></p> <ul> <li>Framtagning av tillverkningsunderlag.</li> <li>Olika typer av programmeringsstöd och tillverkningsmetoder.</li> <li>Metoder och kontrollsystem för att driftsätta utrustning.</li> <li>Planering, organisation och utförande av programmering och driftsättning av utrustning.</li> </ul> <p><em>Kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Systematisk kontroll, bedömning och analys samt dokumentation av kvalitet och resultat.</li> <li>Justeringar och komplettering av program och inställningar.</li> <li>Systematisk kontroll och bedömning samt dokumentation av utrustningens status.</li> <li>Förebyggande underhåll, till exempel kontrollmätning av utrustningens geometri.</li> <li>Felsökning och avhjälpande underhåll. Yrkesmässig användning av begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Tillämpning av arbetsmetoder för säkerhet, struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Tolkning och tillämpning av lagar och andra bestämmelser som gäller miljö, arbetsmiljö och maskinsäkerhet för datorstyrd produktion.</li> <li>Systematisk kontroll, bedömning och analys av miljöpåverkan, arbetsmiljö och maskinsäkerhet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATO4000X</h3>",
+      "code": "DATO4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet datorstyrd produktion på nivå 4 ska behandla följande centrala innehåll:</p> <p><em>Driftsättning</em></p> <ul> <li>Framtagning av tillverkningsunderlag.</li> <li>Optimering av programmeringsstöd, tillverkningsmetoder och driftsättning av utrustning.</li> <li>Metoder och kontrollsystem för att driftsätta komplex utrustning.</li> <li>Planering, organisation och utförande av programmering och driftsättning av utrustning.</li> </ul> <p><em>Kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Framtagning av metoder för systematisk kontroll samt dokumentation och bedömning av resultat.</li> <li>Systematisk kontroll, bedömning, analys och dokumentation av kvalitet och resultat.</li> <li>Optimering av program och inställningar.</li> <li>Rotorsaksanalys vid kvalitetsproblem.</li> <li>Framtagning av metoder för bedömning, dokumentation och analys av utrustningens status.</li> <li>Systematisk kontroll och bedömning samt dokumentation av utrustningens status.</li> <li>Förebyggande och prediktivt underhåll, till exempel implementering av nya metoder och tekniker.</li> <li>Rotorsaksanalys vid driftsäkerhetsproblem.</li> <li>Yrkesmässig användning av begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Tillämpning av arbetsmetoder för säkerhet, struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Tolkning och tillämpning av lagar och andra bestämmelser som gäller miljö, arbetsmiljö och maskinsäkerhet för datorstyrd produktion.</li> <li>Framtagning av metoder för bedömning, dokumentation och analys av miljöpåverkan.</li> <li>Rotorsaksanalys vid miljöpåverkan samt arbetsmiljö- och maskinsäkerhetsproblem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder tillverkningsunderlag med <strong>viss säkerhet</strong>. Eleven planerar och organiserar programmering och driftsättning av datorstyrd produktion med <strong>viss säkerhet</strong>.</p> <p>Eleven mäter, bedömer och dokumenterar resultatet med <strong>viss säkerhet</strong>. Dessutom utför eleven <strong>enkla</strong> justeringar av programmets inställningar.</p> <p>Eleven upprätthåller utrustningens driftsäkerhet med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bedömer produktionens miljöpåverkan med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder tillverkningsunderlag med <strong>säkerhet</strong>. Eleven planerar och organiserar programmering och driftsättning av datorstyrd produktion med <strong>säkerhet</strong>.</p> <p>Eleven mäter, bedömer och dokumenterar resultatet med <strong>säkerhet</strong>. Dessutom utför eleven <strong>relativt komplexa</strong> justeringar av programmets inställningar.</p> <p>Eleven upprätthåller utrustningens driftsäkerhet med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bedömer produktionens miljöpåverkan med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder tillverkningsunderlag med <strong>god säkerhet</strong>. Eleven planerar och organiserar programmering och driftsättning av datorstyrd produktion med <strong>god säkerhet</strong>.</p> <p>Eleven mäter, bedömer och dokumenterar resultatet med <strong>god säkerhet</strong>. Dessutom utför eleven <strong>komplexa</strong> justeringar av programmets inställningar.</p> <p>Eleven upprätthåller utrustningens driftsäkerhet med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bedömer produktionens miljöpåverkan med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

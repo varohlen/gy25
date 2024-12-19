@@ -1,0 +1,219 @@
+{
+  "code": "SKM",
+  "name": "Skogsmaskiner",
+  "englishName": "Forest machinery",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2014:69",
+  "skolfsAndring": "2022:278",
+  "nameHeading": "<h2>Skogsmaskiner</h2>",
+  "description": "<p>Ämnet skogsmaskiner behandlar den tekniska utrustning som används inom skogsbrukets olika verksamhetsområden. Teknisk utrustning som används i samspel med biologiska förutsättningar och biologiska metoder bidrar till en hög kvalitet på skogsbrukets produkter och tjänster samt till en hållbar utveckling. Med hjälp av teknisk utrustning kan arbetsuppgifter utföras rationellt och med en ökad precision. Ämnet behandlar hur teknik och teknisk utveckling kan bidra till att den biologiska potentialen utnyttjas bättre. I ämnet ingår körning av fordon samt trafikkunskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet skogsmaskiner ska syfta till att eleverna utvecklar förmåga att använda teknisk utrustning på rätt sätt och i rätt sammanhang. Den ska bidra till att eleverna får redskap för att söka kunskap om och utnyttja nya tekniska lösningar. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den tekniska utrustningens konstruktion, funktion och inställningsmöjligheter samt förmåga att utföra service och underhåll av teknisk utrustning.</p> <p>Praktiska övningar, fältstudier, undersökande arbetssätt och laborationer i fält ska ingå i undervisningen.</p> <h4>Undervisningen i ämnet skogsmaskiner ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om konstruktion och funktion av samt användningsområden för teknisk utrustning.</li> <li>Förmåga att manövrera och köra fordon, fordonskombinationer och maskiner för att utföra olika arbetsuppgifter.</li> <li>Förmåga att manövrera och köra fordon och fordonskombinationer i trafik och i terräng på ett säkert, ansvarsfullt och miljöanpassat sätt samt kunskaper om gällande trafikregler.</li> <li>Förmåga att använda teknisk utrustning.</li> <li>Förmåga att utföra service, underhåll och enklare reparationer av teknisk utrustning.</li> <li>Förmåga att ställa in teknisk utrustning för olika arbetsuppgifter samt att utföra funktionskontroller.</li> <li>Förmåga att arbeta ekonomiskt, säkert och ergonomiskt samt med hänsyn till miljön.</li> <li>Kunskaper om lagar och andra bestämmelser.</li> <li>Förmåga att bedöma och rapportera arbetsresultatet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Småskalig skogsteknik, 100 poäng, som bygger på kursen motor- och röjmotorsåg 1.</li> <li>Terrängtransporter, 100 poäng, som bygger på kursen naturbruk eller kursen renen och rennäringen. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fordon och redskap.</li> <li>Virkestransport med skotare, 100 poäng, som bygger på kursen terrängtransporter eller kursen fordon och redskap.</li> <li>Avverkningsmaskiner, 100 poäng, som bygger på kursen virkestransport med skotare, kursen virkeslära och kursen skogsskötsel 1.</li> <li>Skogsmaskiner – specialisering, 200 poäng, som bygger på kursen virkestransport med skotare. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SKMSMA0</h3>",
+      "code": "SKMSMA0",
+      "nameHeading": "<h2>Småskalig skogsteknik, 100 poäng</h2>",
+      "name": "Småskalig skogsteknik",
+      "englishName": "Small-scale forest management",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen småskalig skogsteknik omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 6.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Teknisk grund</strong> </p><ul> <li>Konstruktions- och funktionsbeskrivningar samt användningsområden för maskiner och teknisk utrustning.</li> <li>Inställningar av teknisk utrustning.</li> <li>Tillsyn, underhåll och service enligt instruktionsböcker.</li> </ul><p> <strong>Arbete med småskalig skogsteknik</strong> </p><ul> <li>Arbete med småskalig skogsteknik, till exempel griplastarvagnar, miniprocessorer, minilunnare och småskalig sågning.</li> <li>Användning av tilläggsutrustning.</li> <li>Bedömning av kvalitet på utfört arbete och ekonomiskt resultat.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomiskt lämplig arbetsteknik.</li> <li>Risker i arbetet vid arbete med småskalig skogsteknik.</li> <li>Användning av skyddsutrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Miljö- och säkerhetsföreskrifter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd </strong>med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik. Eleven gör också en <strong>enkel </strong>ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.</p><p>Eleven använder med <strong>visst </strong>handlag teknisk utrustning samt utför <strong>i samråd </strong>med handledare service och underhåll av maskinerna och den tekniska utrustningen. Dessutom ställer eleven <strong>i samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>i samråd </strong>med handledare funktionskontroller. I arbetet använder eleven <strong>i samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>enkel </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik. Eleven gör också en ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt </strong>kalkylens olika delar.</p><p>Eleven använder med<strong> gott </strong>handlag teknisk utrustning samt utför <strong>efter samråd </strong>med handledare service och underhåll av maskinerna och den tekniska utrustningen. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd </strong>med handledare funktionskontroller. I arbetet använder eleven <strong>efter samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik. Eleven gör också en <strong>avancerad </strong>ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>kalkylens olika delar.</p><p>Eleven använder med<strong> mycket gott </strong>handlag teknisk utrustning samt utför <strong>efter samråd </strong>med handledare service och underhåll av maskinerna och den tekniska utrustningen. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd </strong>med handledare funktionskontroller. I arbetet använder eleven <strong>efter samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>gott</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SKMTER0</h3>",
+      "code": "SKMTER0",
+      "nameHeading": "<h2>Terrängtransporter, 100 poäng</h2>",
+      "name": "Terrängtransporter",
+      "englishName": "Off-road transporters",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen terrängtransporter omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 5.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Teknisk grund</strong></p> <ul> <li>Konstruktions- och funktionsbeskrivningar samt användningsområden för olika fordon och för teknisk utrustning.</li> <li>Motorbränslen och smörjmedel.</li> <li>Daglig tillsyn, periodisk kontroll och service.</li> </ul> <p><strong>Körning</strong></p> <ul> <li>Körning av terrängfordon och fordonskombinationer på väg och i terräng för att genomföra förekommande arbetsuppgifter.</li> <li>Tillämpning av trafikföreskrifter och annan aktuell lagstiftning.</li> <li>Användning av fordonets reglage samt tolkning av instrument.</li> <li>Hantering av tilläggsutrustning.</li> <li>Inställning av förarplatsens utrustning för ergonomisk, effektiv och säker körning.</li> <li>Användning av instruktions- och handböcker vid körning och tillsyn.</li> <li>Ekonomisk och situationsanpassad körteknik i terräng och på väg inklusive minimering av körskador och markslitage vid körning i terräng.</li> </ul> <p><strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong></p> <ul> <li>Ergonomi och arbetsmiljö i samband med körning av fordon.</li> <li>Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning. Beskrivningen innehåller <strong>enkla</strong> samband mellan service, funktion och ekonomi. Eleven redogör också <strong>översiktligt </strong>för fordonets olika reglage och instrument och hur de används. Dessutom redogör eleven <strong>översiktligt </strong>för hur olika funktioner styrs och kontrolleras.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd </strong>med handledare terrängfordon och fordonskombinationer. Eleven kör och manövrerar också <strong>i samråd </strong>med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna. Eleven använder med<strong> visst </strong>handlag teknisk utrustning samt utför <strong>i samråd </strong>med handledare service, underhåll och enklare reparationer av fordonen och utrustningen. Dessutom ställer eleven <strong>i samråd </strong>med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>i samråd </strong>med handledare kontroller av sina inställningar. I arbetet använder eleven <strong>i samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning. Beskrivningen innehåller <strong>välgrundade</strong> samband mellan service, funktion och ekonomi. Eleven redogör också <strong>utförligt </strong>för fordonets olika reglage och instrument och hur de används. Dessutom redogör eleven <strong>utförligt </strong>för hur olika funktioner styrs och kontrolleras.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare terrängfordon och fordonskombinationer. Eleven kör och manövrerar också <strong>efter samråd </strong>med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna. Eleven använder med<strong> gott </strong>handlag teknisk utrustning samt utför <strong>efter samråd </strong>med handledare service, underhåll och enklare reparationer av fordonen och utrustningen. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>efter samråd </strong>med handledare kontroller av sina inställningar. I arbetet använder eleven <strong>efter samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion av samt användningsområden för olika fordon och för teknisk utrustning. Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> samband mellan service, funktion och ekonomi. Eleven redogör också <strong>utförligt och nyanserat </strong>för fordonets olika reglage och instrument och hur de används. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur olika funktioner styrs och kontrolleras.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare terrängfordon och fordonskombinationer. Eleven kör och manövrerar också <strong>efter samråd </strong>med handledare terrängfordon och fordonskombinationer på väg och följer då trafikföreskrifterna. Eleven använder med<strong> mycket gott </strong>handlag teknisk utrustning samt utför <strong>efter samråd </strong>med handledare service, underhåll och enklare reparationer av fordonen och utrustningen. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in förarplatsen för en ergonomisk, effektiv och säker körning samt utför <strong>efter samråd </strong>med handledare kontroller av sina inställningar. I arbetet använder eleven <strong>efter samråd </strong>med handledare instruktions- och handböcker. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>gott</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med fordonen och utrustningen samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SKMVIE0</h3>",
+      "code": "SKMVIE0",
+      "nameHeading": "<h2>Virkestransport med skotare, 100 poäng</h2>",
+      "name": "Virkestransport med skotare",
+      "englishName": "Timber transportation with forwarder",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen virkestransport med skotare omfattar punkterna 1–5 och 7–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Teknisk grund </strong> </p><ul> <li>Konstruktions- och funktionsbeskrivningar samt användningsområden för skotare och tilläggsutrustning.</li> <li>Motorbränslen och smörjmedel.</li> <li>Daglig tillsyn, periodisk kontroll och service.</li> </ul><p> <strong>Arbete med skotare</strong> </p><ul> <li>Arbete med skotare samt hantering av kran, instrument och reglage.</li> <li>Virkestransport med skotare i ett avverkningsområde.</li> <li>Hantering av tilläggsutrustning, till exempel band och kedjor.</li> <li>Körteknik som minimerar risken för skador på mark, bestånd och miljö samt minskar bränsleförbrukningen.</li> <li>Olika virkessortiment och krav på virkesavlägg.</li> <li>Körning på vägar samt trafikkunskap.</li> <li>Ekonomisk körteknik.</li> <li>Arbete enligt traktdirektiv, arbetsplanering, rapportering och uppföljning.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.</li> <li>Säker hantering av farligt gods och farligt avfall.</li> <li>Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.</li> <li>Säkerhet på väg.</li> <li>Brandförebyggande åtgärder.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd </strong>med handledare skotare för att utföra arbete med virkestransporter. Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet ordnar eleven med<strong> visst </strong>handlag virkesavlägg för vidaretransport. Eleven gör också en <strong>enkel </strong>ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.</p><p>Eleven kör och manövrerar <strong>i samråd </strong>med handledare skotare och följer då trafikföreskrifterna.</p><p>Eleven använder med <strong>visst </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>i samråd </strong>med handledare daglig service av skotaren enligt instruktioner. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>enkel </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare skotare för att utföra arbete med virkestransporter. Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet ordnar eleven med<strong> gott </strong>handlag virkesavlägg för vidaretransport. Eleven gör också en ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt </strong>kalkylens olika delar.</p><p>Eleven kör och manövrerar <strong>efter samråd </strong>med handledare skotare och följer då trafikföreskrifterna.</p><p>Eleven använder med<strong> gott </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd </strong>med handledare daglig service av skotaren enligt instruktioner. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion av samt användningsområden för skotare och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare skotare för att utföra arbete med virkestransporter. Under körningen hanterar eleven tilläggsutrustning på ett metodiskt sätt och med ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet ordnar eleven med<strong> mycket gott </strong>handlag virkesavlägg för vidaretransport. Eleven gör också en <strong>avancerad </strong>ekonomisk kalkyl på en virkestransport från ett avverkningsområde och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>kalkylens olika delar.</p><p>Eleven kör och manövrerar <strong>efter samråd </strong>med handledare skotare och följer då trafikföreskrifterna.</p><p>Eleven använder med<strong> mycket gott </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd </strong>med handledare daglig service av skotaren enligt instruktioner. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>gott</strong>.</p><p>Eleven arbetar säkert och ergonomiskt samt kör miljömässigt och ekonomiskt. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SKMAVV0</h3>",
+      "code": "SKMAVV0",
+      "nameHeading": "<h2>Avverkningsmaskiner, 100 poäng</h2>",
+      "name": "Avverkningsmaskiner",
+      "englishName": "Felling machinery",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen avverkningsmaskiner omfattar punkterna 1–2 och 4–5 och 7–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Teknisk grund</strong> </p><ul> <li>Konstruktions- och funktionsbeskrivningar samt användningsområden för avverkningsmaskiner och teknisk utrustning.</li> <li>Avverkningsmaskiners datautrustning.</li> <li>Motorbränslen och smörjmedel.</li> <li>Daglig tillsyn, periodisk kontroll och service.</li> </ul><p> <strong>Arbete med avverkningsmaskiner</strong> </p><ul> <li>Arbete med avverkningsmaskiner på ett avverkningsområde.</li> <li>Hantering av kran, instrument och reglage.</li> <li>Markskador och miljöpåverkan.</li> <li>Datorstyrd skördaraptering.</li> <li>Arbete enligt traktdirektiv, arbetsplanering av avverkning, rapportering och uppföljning.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.</li> <li>Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd </strong>med handledare avverkningsmaskiner för att utföra arbetsuppgifter. Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet särskiljer eleven <strong>med viss säkerhet </strong>virkessortimenten för vidaretransport med skotare. Eleven gör också en <strong>enkel </strong>ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>översiktligt</strong> kalkylens olika delar.</p><p>Eleven använder med<strong> visst </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>i samråd </strong>med handledare daglig service av avverkningsmaskinerna enligt instruktioner. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>enkel </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare avverkningsmaskiner för att utföra arbetsuppgifter. Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet särskiljer eleven <strong>med viss säkerhet </strong>virkessortimenten för vidaretransport med skotare. Eleven gör också en ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt</strong> kalkylens olika delar.</p><p>Eleven använder med<strong> gott </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd </strong>med handledare daglig service av avverkningsmaskinerna enligt instruktioner. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion av samt användningsområden för avverkningsmaskiner och teknisk utrustning.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare avverkningsmaskiner för att utföra arbetsuppgifter. Under körningen orsakar eleven ett minimum av skador på virke, kvarvarande bestånd, mark, miljö, natur och kulturvärden. I arbetet särskiljer eleven <strong>med säkerhet </strong>virkessortimenten för vidaretransport med skotare. Eleven gör också en <strong>avancerad </strong>ekonomisk kalkyl på ett avverkningsuppdrag och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> kalkylens olika delar.</p><p>Eleven använder med<strong> mycket gott </strong>handlag teknisk utrustning och lämpliga verktyg samt utför <strong>efter samråd </strong>med handledare daglig service av avverkningsmaskinerna enligt instruktioner. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>gott</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med avverkningsmaskinerna. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SKMSKO00S</h3>",
+      "code": "SKMSKO00S",
+      "nameHeading": "<h2>Skogsmaskiner – specialisering, 200 poäng</h2>",
+      "name": "Skogsmaskiner – specialisering",
+      "englishName": "Forest machinery – specialisation",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen skogsmaskiner – specialisering omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 6 och 7. I kursen behandlas fördjupade kunskaper inom vald skogsmaskinstyp.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><p><strong>Teknisk grund</strong> </p><ul> <li>Användningsområden för vald maskin, tilläggsutrustning och teknisk utrustning.</li> <li>Tekniska system för styrning, kontroll och datainsamling.</li> <li>Maskin- och avverkningsekonomi samt investeringskalkyler.</li> <li>Aktuell teknisk utveckling – försök och forskning.</li> </ul><p> <strong>Arbete med skogsmaskiner</strong> </p><ul> <li>Arbetsmetodik och användning av digitala system, datorprogram och GIS vid körning med aktuell skogsmaskin.</li> <li>Planering av körmetoder för att minimera markskador och miljöpåverkan.</li> <li>Inställning och körning av maskiner för optimalt utnyttjande i samband med olika arbetsmoment.</li> <li>Funktionskontroll och felsökning på maskiner och teknisk utrustning samt kvalitetsuppföljning.</li> <li>Arbete enligt traktdirektiv.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.</li> <li>Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data. Beskrivningen innehåller <strong>enkla</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet. Eleven redogör också <strong>översiktligt </strong>för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter. Dessutom redogör eleven <strong>översiktligt </strong>för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>i samråd </strong>med handledare skogsmaskiner för att utföra arbetsuppgifter. I arbetet gör eleven <strong>i samråd </strong>med handledare <strong>enkla </strong>bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn. Eleven använder med<strong> visst </strong>handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>i samråd </strong>med handledare daglig service av skogsmaskinerna enligt instruktioner. Dessutom ställer eleven <strong>i samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>i samråd </strong>med handledare funktionskontroller. Eleven löser <strong>i samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med skogsmaskinerna. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>enkel </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data. Beskrivningen innehåller <strong>välgrundade</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet. Eleven redogör också <strong>utförligt </strong>för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter. Dessutom redogör eleven <strong>utförligt </strong>för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare skogsmaskiner för att utföra arbetsuppgifter. I arbetet gör eleven <strong>efter samråd </strong>med handledare <strong>välgrundade </strong>bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn. Eleven använder med<strong> gott </strong>handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>efter samråd </strong>med handledare daglig service av skogsmaskinerna enligt instruktioner. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd </strong>med handledare funktionskontroller. Eleven löser <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med skogsmaskinerna. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion av samt användningsområden för skogsmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data. Beskrivningen innehåller <strong>välgrundade och nyanserade</strong> samband mellan hur maskinerna och den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet. Eleven redogör också <strong>utförligt och nyanserat </strong>för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter.</p><p>Eleven följer arbetsinstruktioner samt kör och manövrerar <strong>efter samråd </strong>med handledare skogsmaskiner för att utföra arbetsuppgifter. I arbetet gör eleven <strong>efter samråd </strong>med handledare <strong>välgrundade och nyanserade </strong>bedömningar av hur arbetsuppgifterna ska genomföras med tanke på önskat arbetsresultat och miljöhänsyn. Eleven använder med<strong> mycket gott </strong>handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför <strong>efter samråd </strong>med handledare daglig service av skogsmaskinerna enligt instruktioner. Dessutom ställer eleven <strong>efter samråd </strong>med handledare in maskinerna och den tekniska utrustningen samt utför <strong>efter samråd </strong>med handledare funktionskontroller. Eleven löser <strong>efter samråd </strong>med handledare de problem som uppstår. Resultatet av arbetet är <strong>gott</strong>.</p><p>Eleven arbetar säkert och ergonomiskt med skogsmaskinerna. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av arbetsresultatet och rapporterar det.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.159Z"
+}

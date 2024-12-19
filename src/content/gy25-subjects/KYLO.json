@@ -1,0 +1,106 @@
+{
+  "code": "KYLO",
+  "name": "Kyl- och värmepumpsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:26",
+  "nameHeading": "<h2>Kyl- och värmepumpsteknik</h2>",
+  "description": "<p>Ämnet kyl- och värmepumpsteknik behandlar systemförståelse av och processkännedom om kyl- och värmepumpssystem. Kyl- och värmepumpsanläggningars korrekta installation och optimala funktion är avgörande för effektiv energihushållning och för hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik ska syfta till att eleverna utvecklar kunskaper om arbetsprocesser och arbetsmetoder inom installation, drift, underhåll och service av kyl- och värmepumpsanläggningar samt förmåga att utföra de arbetsuppgifter som förekommer inom yrkesområdet. I undervisningen ska eleverna ges möjlighet att utveckla systemförståelse och processkännedom. Eleverna ska även ges möjlighet att utveckla kunskaper om yrkesmässig hantering av köldmedier i kyl- och värmepumpssystem. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om ekonomiskt och miljömässigt hållbara arbetssätt samt om kyl- och värmepumpsbranschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom teknikområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Undervisningen ska leda till att eleverna utvecklar förmåga att tolka och följa ritningar, manualer och handlingar. Dessutom ska eleverna ges möjlighet att utveckla förmåga att välja och hantera utrustning och material på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att utveckla förmåga att omsätta teoretiska kunskaper i praktisk handling, liksom att utveckla teoretiska kunskaper utifrån praktiskt arbete. Genom laborationer och egenbyggda kyl- och värmepumpsanläggningar ska eleverna ges möjlighet att utveckla systemförståelse samt förmåga till problemlösning vid installation och service av kyl- och värmepumpssystem. Arbetsuppgifter ska genomföras med metoder, verktyg och utrustning som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kreativitet och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet kyl- och värmepumpsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kyl- och värmepumpstekniska system, arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att installera, driftsätta och underhålla kyl- och värmepumpsanläggningar, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att välja material samt välja och hantera verktyg och utrustning.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet kyl- och värmepumpsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KYLO1000X</h3>",
+      "code": "KYLO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Kylsystems uppbyggnad och funktioner samt hållbarhet, korrosionsskydd, mekanisk påverkan och energieffektivitet.</li> <li>Direkta, delvis indirekta och fullständigt indirekta system.</li> <li>Lagar och andra bestämmelser som gäller miljö och arbetsmiljö för arbete med kylanläggningar.</li> <li>Köldbärare och köldmedier, deras miljöpåverkan samt direkta och långsiktiga konsekvenser för människa och miljö, till exempel giftighet och brandfara.</li> <li>Historiska orsaker till regeländringar inom verksamhetsområdet, till exempel vad gäller skyddsföreskrifter och branschbehörigheter.</li> <li>Tolkning av ritningar, manualer och handlingar för planering av arbetet.</li> <li>Konstruktion av schematiska ritningar för kylprocesser med ritningssymboler.</li> <li>Installation av rörsystem utifrån ritningar samt utförande av täthetsprovning.</li> <li>Tömning och fyllning av köldmedium.</li> <li>Driftövervakning med mätning och övervakning av tryck och temperatur samt läcksökning.</li> <li>Mätning av överhettning och underkylning i enskilda kylprocesser.</li> <li>Arbete med hänsyn till miljö- och arbetsmiljöaspekter utifrån personligt ansvar vid yrkesmässig hantering av köldmedier, köldbärare och oljor.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Utvärdering och dokumentation av utförd arbetsuppgift.</li> <li>Val av material och komponenter för arbetsuppgiften utifrån egenskaper och funktion samt ekonomisk och miljömässig hållbarhet.</li> <li>Val och säker hantering av verktyg och utrustning för arbetsuppgiften.</li> <li>Kontroll av mät- och styrutrustning i relation till arbetsuppgiften.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med facktermer på svenska i relation till arbetsuppgiften.</li> <li>Användning av fackspråk.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KYLO2000X</h3>",
+      "code": "KYLO2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Energieffektivitet i kyl- och värmepumpssystem, däribland regulatorers funktion.</li> <li>Material och komponenter, deras egenskaper och funktion.</li> <li>Lagar och andra bestämmelser som gäller miljö och arbetsmiljö för kylanläggningar, köldbärare och köldmedier. Ekonomisk och miljömässig hållbarhet inom området.</li> <li>Planering av installation av kyl- och värmepumpsanläggningar enligt montageanvisningar, ritningar och andra handlingar samt utifrån hantverksmässiga och estetiska krav.</li> <li>Konstruktion av elscheman för kylprocesser med schemasymboler.</li> <li>Installation av rörsystem och elsystem.</li> <li>Utförande av installationskontroll med täthetsprovning och genomgång av tryckprovning.</li> <li>Tömning och fyllning av köldmedium i vätske- och gasform.</li> <li>Injustering av överhettning och underkylning i enskilda kylprocesser utifrån energieffektivitet.</li> <li>Arbete med hänsyn till arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Säkra arbetssätt för sig själv och för kollegor.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Utvärdering och dokumentation av utförd arbetsuppgift.</li> <li>Egenkontroll av kyl- och värmepumpsaggregat.</li> <li>Val av material och komponenter för arbetsuppgiften utifrån egenskaper och funktion samt ekonomisk och miljömässig hållbarhet.</li> <li>Val och säker hantering av verktyg och utrustning för arbetsuppgiften.</li> <li>Kontroll av mät- och styrutrustning i relation till arbetsuppgiften.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften och i olika yrkessammanhang.</li> <li>Översättning av facktermer till svenska i relation till arbetsuppgiften.</li> <li>Användning av fackspråk.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KYLO3000X</h3>",
+      "code": "KYLO3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Äldre och nyare typer av kyl- och värmepumpsanläggningars uppbyggnad och funktion samt hur funktionen förhåller sig till energieffektivitet, energibesparing och energiackumulering.</li> <li>Köldmedier, köldbärare och värmebärare och deras egenskaper samt miljöpåverkan.</li> <li>Lagar och andra bestämmelser som gäller arbeten med kylanläggningar.</li> <li>Miljö-, hälso- och säkerhetsaspekter avseende kylanläggningar.</li> <li>Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.</li> <li>Planering av servicearbete enligt ritningar och manualer samt utifrån hantverksmässiga och estetiska krav.</li> <li>Genomförande av provdrift, uppmätning av driftdata och driftoptimering avseende köldmedietyp samt fyllnadsmängd.</li> <li>Genomförande av installationer och utbyte av komponenter vid service och läcksökning, förebyggande underhåll samt dokumentation av befintliga systems energieffektivitet.</li> <li>Kontroll och injustering av överhettning och underkylning i kylprocesser utifrån energieffektivitet och energibesparing.</li> <li>Arbete med hänsyn till arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Säkra arbetssätt i förhållande till andra människor, till exempel kunder och tredje person.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Utvärdering och dokumentation av utfört arbete.</li> <li>Egenkontroll av kyl- och värmepumpsaggregat.</li> <li>Val av material och komponenter för arbetet utifrån egenskaper och funktion samt ekonomisk och miljömässig hållbarhet.</li> <li>Val och säker hantering av verktyg och utrustning för arbetet.</li> <li>Kontroll av mät- och styrutrustning i relation till arbetet.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften och i olika yrkessammanhang.</li> <li>Kommunikation på fackspråk i tal och skrift i arbetet.</li> <li>Situationsanpassat bemötande av kollegor och kunder.</li> <li>Situationsanpassat agerande utifrån faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KYLO4000X</h3>",
+      "code": "KYLO4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Subkritiska och transkritiska kyl- och värmepumpssystem, deras uppbyggnad och funktion samt köldmediers, köldbärares och värmebärares egenskaper och miljöpåverkan.</li> <li>Köldmedium i transkritiska system.</li> <li>Energieffektivisering och energibesparing av kyl- och värmepumpssystem som samverkar med ventilations-, värme- och återvinningssystem.</li> <li>Lagar och andra bestämmelser som gäller arbeten med kylanläggningar.</li> <li>Kapacitets- och varvtalsreglering av kompressorer, pumpar och fläktar.</li> <li>Energiackumulering i köld- och värmebärarsystem.</li> <li>Branschbehörigheter samt krav på säkerhets- och skyddsutbildningar för tillträde till arbetsplatsen.</li> <li>Miljö-, hälso- och säkerhetsaspekter avseende kylanläggningar kopplat till individens ansvar på arbetsplatsen samt gentemot kollegor och tredje person.</li> <li>Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.</li> <li>Projektering av installation enligt ritningar och manualer samt utifrån hantverksmässiga och estetiska krav.</li> <li>Installation av kyl- och värmepumpssystem utifrån projektering.</li> <li>Mätning, kontroll och injustering av överhettning och underkylning i kylprocesser utifrån energieffektivitet och energibesparing, däribland utvärdering av driftdata.</li> <li>Genomförande av energibesparings- och effektiviseringsåtgärder i befintliga kyl- och värmepumpssystem.</li> <li>Arbete med hänsyn till arbetsmiljö, hälsa och säkerhet samt miljöpåverkan.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Utvärdering av energi- och miljöaspekter.</li> <li>Utvärdering och dokumentation av utfört arbete.</li> <li>Egenkontroll av kyl- och värmepumpsaggregat.</li> <li>Val av material och komponenter för arbetet utifrån egenskaper och funktion samt ekonomisk och miljömässig hållbarhet.</li> <li>Val och säker hantering av verktyg och utrustning för arbetet.</li> <li>Kontroll av mät- och styrutrustning i relation till arbetet.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften och i olika yrkessammanhang.</li> <li>Kommunikation med fackspråk i tal och skrift i arbetet.</li> <li>Situationsanpassat bemötande av kunder och andra yrkesgrupper.</li> <li>Situationsanpassat agerande och faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos olika kyl- och värmepumpstekniska system. Eleven visar <strong>godtagbara</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven installerar, driftsätter och underhåller kyl- och värmepumpsanläggningar med <strong>godtagbart</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>viss säkerhet</strong> utifrån arbetsuppgiften och i enlighet med gällande regelverk. Eleven hanterar med <strong>visst</strong> handlag verktyg och utrustning.</p> <p>Eleven använder med <strong>viss säkerhet</strong> fackspråk. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos olika kyl- och värmepumpstekniska system. Eleven visar <strong>goda</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven installerar, driftsätter och underhåller kyl- och värmepumpsanläggningar med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>säkerhet</strong> utifrån arbetsuppgiften och i enlighet med gällande regelverk. Eleven hanterar med <strong>gott</strong> handlag verktyg och utrustning.</p> <p>Eleven använder med <strong>säkerhet</strong> fackspråk. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos olika kyl- och värmepumpstekniska system. Eleven visar <strong>mycket goda</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven installerar, driftsätter och underhåller kyl- och värmepumpsanläggningar med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>god säkerhet</strong> utifrån arbetsuppgiften och i enlighet med gällande regelverk. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg och utrustning.</p> <p>Eleven använder med <strong>god säkerhet</strong> fackspråk. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.032Z"
+}

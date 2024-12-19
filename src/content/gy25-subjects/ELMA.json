@@ -1,0 +1,64 @@
+{
+  "code": "ELMA",
+  "name": "Elmätteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:211",
+  "nameHeading": "<h2>Elmätteknik</h2>",
+  "description": "<p>Samhället är beroende av en fungerande elförsörjning för att upprätthålla funktionen i ett stort antal verksamheter. Ämnet elmätteknik behandlar hur olika instrument för att mäta elektriska storheter används. Ämnet behandlar även mätning av icke-elektriska storheter som har omvandlats med mätomvandlare till elektriska storheter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elmätteknik ska syfta till att eleverna utvecklar kunskaper om mätning av elektriska storheter. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att välja och använda vanligt förekommande mätgivare och metoder för att samla in mätvärden. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att analysera och dokumentera mätresultat samt att använda begrepp inom mätteknik.</p> <p>Genom experiment, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla såväl ett fackspråk som kunskaper i praktisk problemlösning vilket krävs vid arbete med mätgivare och mätinstrument. Undervisningen ska stimulera elevernas nyfikenhet och initiativförmåga samt bidra till att eleverna utvecklar ett intresse för teknisk utveckling inom elektronikbranschen.</p> <h5><em>Undervisningen i ämnet elmätteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om begrepp inom mätteknik.</li> <li>Färdigheter i att använda oscilloskop och multimeter.</li> <li>Förmåga att välja och använda mätgivare.</li> <li>Förmåga att analysera mätresultat.</li> <li>Förmåga att dokumentera mätresultat.</li> </ul><h3>Nivåer i ämnet elmätteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELMA1000X</h3>",
+      "code": "ELMA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elmätteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande mättekniska begrepp, till exempel måttenheter.</li> <li>Oscilloskop och multimeter samt deras funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning samt resistans med fokus på storlek och fasläge.</li> <li>Val och hantering av olika typer av mätgivare samt deras grundläggande egenskaper och användningsområden.</li> <li>Metoder för analys av mätresultat samt mätresultats osäkerhet.</li> <li>Grundläggande standarder och metoder för dokumentation av mätresultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om begrepp inom området mätteknik.</p> <p>Eleven använder med <strong>viss säkerhet</strong> oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning och resistans.</p> <p>Eleven väljer mätgivare och använder den med <strong>viss säkerhet</strong>. Eleven motiverar sitt val av mätgivare på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven gör en <strong>enkel</strong> analys av sina mätresultat.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation av sina mätresultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om begrepp inom området mätteknik.</p> <p>Eleven använder med <strong>säkerhet</strong> oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning och resistans.</p> <p>Eleven väljer mätgivare och använder den med <strong>säkerhet</strong>. Eleven motiverar sitt val av mätgivare på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven gör en <strong>relativt komplex</strong> analys av sina mätresultat.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation av sina mätresultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om begrepp inom området mätteknik.</p> <p>Eleven använder med <strong>god säkerhet</strong> oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning och resistans.</p> <p>Eleven väljer mätgivare och använder den med <strong>god säkerhet</strong>. Eleven motiverar sitt val av mätgivare på ett <strong>välutvecklat</strong> sätt.</p> <p>Eleven gör en <strong>komplex</strong> analys av sina mätresultat.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sina mätresultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.987Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "TEKN",
+  "name": "Teknisk isolering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:221",
+  "nameHeading": "<h2>Teknisk isolering</h2>",
+  "description": "<p>Ämnet teknisk isolering behandlar isolering av tekniska installationer. Samhällets ökade krav på minskad energiförbrukning och väl fungerande inomhusmiljöer tillsammans med branschens tekniska utveckling lyfter fram behovet av korrekt isolerade och optimalt fungerande tekniska installationer. Ämnet behandlar även branschens ansvar för främjandet av hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet teknisk isolering ska syfta till att eleverna utvecklar förmåga att utföra isolering av varma och kalla installationer samt av luftbehandlingssystem. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material för isolering och ytbeklädnad samt om arbetsmetoder vid isolering av tekniska installationer. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbarhet samt branschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom branschen ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera utrustning och material på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Därtill ska undervisningen ge eleverna möjlighet att utveckla förmåga att läsa och tolka bygghandlingar och annan dokumentation. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön. I undervisningen ska eleverna ges möjlighet att utveckla en känsla för installationernas estetiska utformning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang under arbetsutövning. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Undervisningen ska bedrivas med metoder och utrustning som är tidsenliga. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet teknisk isolering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om isoleringsmaterials konstruktion, funktion och användningsområden samt om lagar och andra bestämmelser inom verksamhetsområdet.</li> <li>Förmåga att utföra arbetsuppgifter inom teknisk isolering, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt att använda fackspråk.</li> </ul><h3>Nivåer i ämnet teknisk isolering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TEKN1000X</h3>",
+      "code": "TEKN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknisk isolering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika typer av isoleringsmaterial samt deras konstruktion, funktion och användningsområden.</li> <li>Äldre isoleringsmaterial och arbetsmetoder.</li> <li>Isoleringsteori med produkt- och materiallära.</li> <li>Isoleringsklasser och isoleringsnivåer.</li> <li>Isoleringsteknik för teknisk isolering.</li> <li>Metoder för vanligt förekommande ytbeklädnadsdelar vid isolering av installationer.</li> <li>Lagar och andra bestämmelser inom området, däribland bygglagstiftning samt bestämmelser om arbetsmiljö, hälsa och säkerhet.</li> <li>Branschens ansvar för hållbar utveckling.</li> <li>Riskbedömning och säkra arbetssätt.</li> <li>Tolkning av ritningar och beskrivningar.</li> <li>Planering och organisering av arbetsuppgifter vid isolering och utbredning av ytbeklädnad på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Måttsättning och mängdberäkning av material utifrån placering och driftstemperatur.</li> <li>Val och säker hantering av verktyg, maskiner och andra hjälpmedel för teknisk isolering.</li> <li>Montering av rörskålar med spirallindning och bandning.</li> <li>Isolering med nätmatta och lamellmatta med hopfästning genom fästmetoder som syförfarande och kramling.</li> <li>Utbredning av plastplåt och tunn mönsterpräglad aluminiumplåt.</li> <li>Kontroll, utvärdering och dokumentation av utförda åtgärder.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med facktermer i relation till arbetsuppgiften.</li> <li>Situationsanpassat bemötande och agerande utifrån olika faktorer, till exempel social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TEKN2000X</h3>",
+      "code": "TEKN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet teknisk isolering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Isoleringsmaterial för teknisk isolering samt deras konstruktion, funktion och egenskaper.</li> <li>Äldre ytbeklädnadsmaterial och arbetsmetoder samt risker förknippade med dem.</li> <li>Isoleringsteori med produkt- och materiallära.</li> <li>Isoleringens ändamål kopplat till minimering av energiförluster och risk för skador, till exempel kondensbildning, mikrobiell tillväxt eller oavsiktlig kylning eller uppvärmning.</li> <li>Isoleringsteknik med metoder och utrustning för teknisk isolering.</li> <li>Metoder för värmeisolering.</li> <li>Problem som kan uppstå med kondens samt med värme- och fuktflöden vid kalla installationer.</li> <li>Lagar och andra bestämmelser som gäller teknisk isolering, däribland bygglagstiftning och branschstandarder samt branschens ansvar för hållbar utveckling.</li> <li>Lagar och andra bestämmelser om arbetsmiljö vid användning av limprodukter vid försegling av cellgummiisolering.</li> <li>Riskbedömning och säkra arbetssätt för såväl montör som för användare av installationen.</li> <li>Tolkning av ritningar, beskrivningar och montageanvisningar.</li> <li>Planering och organisering av arbetsplatser och arbetsuppgifter vid kondensisolering på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Måttsättning och mängdberäkning av material utifrån placering, driftstemperaturer, styrning och driftstid samt med hänsyn till energiförluster.</li> <li>Val och säker hantering av verktyg, maskiner och annan utrustning för kondensisolering.</li> <li>Montering av termisk isolering på kalla och varma installationer.</li> <li>Montering av ångbromsar.</li> <li>Montering av cellgummiisolering på rörinstallationer.</li> <li>Montering av kondensisolering med folierörskål.</li> <li>Montering av cellgummiisolering på apparater och komponenter.</li> <li>Isolering med polyuretanskumning av rörledningar vid högt ställda krav på funktionen i temperaturhållningen.</li> <li>Montering av ytbeklädnader på rörledningar, rörsvep och böjsegment.</li> <li>Kontroll, utvärdering och dokumentation av utförda åtgärder.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med fackspråk i tal och skrift i arbetet.</li> <li>Situationsanpassat bemötande av kollegor, andra yrkesgrupper och uppdragsgivare på arbetsplatsen.</li> <li>Agerande utifrån faktorer som social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för isoleringsmaterials konstruktion, funktion och användningsområden samt lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför med <strong>visst</strong> handlag arbetsuppgifter inom teknisk isolering. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för isoleringsmaterials konstruktion, funktion och användningsområden samt lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför med <strong>gott</strong> handlag arbetsuppgifter inom teknisk isolering. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för isoleringsmaterials konstruktion, funktion och användningsområden samt lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför med <strong>mycket gott</strong> handlag arbetsuppgifter inom teknisk isolering. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.091Z"
+}

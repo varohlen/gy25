@@ -1,0 +1,78 @@
+{
+  "code": "AKTI",
+  "name": "Aktiviteter och upplevelser",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:150",
+  "nameHeading": "<h2>Aktiviteter och upplevelser</h2>",
+  "description": "<p>Ämnet aktiviteter och upplevelser omfattar aktiviteter, upplevelser och service inom turism- och besöksnäringen. Ämnet behandlar även hur aktivitetsledaren på ett inspirerande och ansvarsfullt sätt kan leda olika aktiviteter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet aktiviteter och upplevelser ska syfta till att eleverna utvecklar förmåga att möta gästens, kundens eller besökarens efterfrågan och förväntningar på olika upplevelser, aktiviteter och service. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att i arbetet göra ekonomiskt, socialt och miljömässigt hållbara val inom området.</p> <p>Både privatpersoners och företags behov av tjänster inom aktiviteter växer och blir mer varierade, vilket medför att förväntningar på nya upplevelser ökar och att kraven på service förändras. I undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att planera, organisera och genomföra olika typer av aktiviteter och upplevelser utifrån olika målgruppers och individers behov, förutsättningar och levnadssätt. Undervisningen ska dessutom leda till att eleverna utvecklar förmåga att kommunicera och bemöta gäster, kunder och besökare på ett yrkesmässigt sätt med hög grad av service.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området. Den ska även behandla hur en god och säker arbetsmiljö främjas. Vidare ska undervisningen stimulera elevernas kreativitet och lust att omsätta idéer i praktisk handling och leda till att eleverna utvecklar förmåga att genomföra och leda aktiviteter. I undervisningen ska eleverna ges möjlighet att utforska aktuella digitala upplevelser och möjligheter. Då näringsidkare inom området aktiviteter och upplevelser ofta består av små företag ska undervisningen även bidra till att stimulera elevernas intresse för entreprenörskap.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att utföra arbetsuppgifter inom området. Därigenom ska eleverna ges möjlighet att utveckla en yrkesmässig attityd i mötet med kunder och gäster inom områden där värdskap och kommunikation är centralt.</p> <h5><em>Undervisningen i ämnet aktiviteter och upplevelser ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och leda aktiviteter utifrån olika målgruppers behov.</li> <li>Förmåga att arbeta serviceinriktat och ansvarsfullt samt att anpassa sitt agerande efter situation.</li> <li>Förmåga att i arbetet göra hållbara val.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> </ul><h3>Nivåer i ämnet aktiviteter och upplevelser</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AKTI1000X</h3>",
+      "code": "AKTI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet aktiviteter och upplevelser på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Innebörden av ett gott värdskap.</li> <li>Planering, anpassning, och genomförande av aktiviteter med olika målgrupper, till exempel matvandring, naturäventyr, digitala upplevelser och teambuilding.</li> <li>Tydligt och gott ledarskap, enskilt eller tillsammans med andra.</li> <li>Aktivitetsledarens roll och betydelse för gruppens samspel.</li> <li>Aktiviteten som mervärde för att förhöja deltagarens upplevelse av arrangemang eller vistelse.</li> <li>Kreativitetens betydelse för att vidareutveckla aktiviteter och upplevelser med nya idéer.</li> <li>Tillgänglighet, service och värdskap för olika målgrupper i samband med aktivitet.</li> <li>Kroppsspråkets betydelse för kommunikation och samverkan med andra.</li> <li>Riskanalys och förebyggande säkerhet i samband med planering.</li> <li>Första hjälpen med HLR (hjärt-lungräddning).</li> <li>Aktiviteter för olika målgrupper med hänsyn till kostnader, till exempel för material och utrustning.</li> <li>Olika aktiviteter beroende på situationen samt platsens miljö och förutsättningar.</li> <li>Lokala och regionala förutsättningar för olika aktiviteter och upplevelser med hänsyn till ekonomisk, social och miljömässig hållbarhet.</li> <li>Lagar och andra bestämmelser inom området, däribland allemansrätten.</li> <li>Överenskommelser att ta hänsyn till vid genomförandet av aktiviteter, till exempel överenskommelser med privata och kommunala markägare.</li> <li>Arbetsmiljö och säkerhet.</li> <li>Utvärdering av arbete och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AKTI2000X</h3>",
+      "code": "AKTI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet aktiviteter och upplevelser på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering, anpassning och genomförande av aktiviteter.</li> <li>Verksamhet, affärsidé och målgrupp.</li> <li>Samverkan med lokala aktörer, till exempel med privata markägare. Begrepp, teorier och modeller som handlar om hur individer och grupper fungerar i organisatoriska sammanhang.</li> <li>Personlig ledarutveckling samt tillvaratagande av egna och andras resurser.</li> <li>Kommunikation och samspel.</li> <li>Betydelse av problemlösning och initiativtagande för utveckling av aktivitetsledarrollen.</li> <li>Grupprocesser, grupputveckling och konflikthantering i teori och praktik.</li> <li>Presentationsteknik i olika miljöer och situationer samt anpassning till olika målgrupper.</li> <li>Berättande information, till exempel storytelling.</li> <li>Hantering av positiva och negativa kundreaktioner, både fysiskt och digitalt, samt dokumentation och uppföljning.</li> <li>Kvalitetssäkring, riskanalys och förebyggande säkerhet i samband med planering av olika aktiviteter.</li> <li>Ingripande och agerande vid akuta nödsituationer samt första hjälpen med HLR (hjärt-lungräddning).</li> <li>Val, användning, vård och underhåll av redskap och utrustning för olika aktiviteter.</li> <li>Aktiviteter anpassade till olika målgrupper med hänsyn till kostnader och intäkter, till exempel för material och utrustning.</li> <li>Lokala och regionala förutsättningar för olika aktiviteter och upplevelser med hänsyn till ekonomisk, social och miljömässig hållbarhet.</li> <li>Lagar och andra bestämmelser inom området samt överenskommelser att ta hänsyn till vid utförandet av aktiviteter.</li> <li>Utvärdering av arbete och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och leder aktiviteter utifrån olika målgruppers behov med <strong>godtagbart</strong> resultat.</p> <p>Eleven arbetar med <strong>viss säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt. Dessutom anpassar eleven sitt agerande efter situationen på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven gör i arbetet hållbara val anpassat till aktiviteten med <strong>godtagbart</strong> resultat.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete och resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och leder aktiviteter utifrån olika målgruppers behov med <strong>gott</strong> resultat.</p> <p>Eleven arbetar med <strong>säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt. Dessutom anpassar eleven sitt agerande efter situationen på ett <strong>gott</strong> sätt.</p> <p>Eleven gör i arbetet hållbara val anpassat till aktiviteten med <strong>gott</strong> resultat.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete och resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och leder aktiviteter utifrån olika målgruppers behov med <strong>mycket gott</strong> resultat.</p> <p>Eleven arbetar med <strong>god säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt. Dessutom anpassar eleven sitt agerande efter situationen på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven gör i arbetet hållbara val anpassat till aktiviteten med <strong>mycket gott</strong> resultat.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete och resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.957Z"
+}

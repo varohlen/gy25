@@ -1,0 +1,93 @@
+{
+  "code": "SVED",
+  "name": "Svenska för döva",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-22",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2024:215",
+  "skolfsAndring": "2024:215",
+  "nameHeading": "<h2>Svenska för döva</h2>",
+  "description": "<p>Kärnan i ämnet svenska för döva är tvåspråkighet, svenska språket och litteratur. Språket är människans främsta redskap för reflektion, kommunikation och kunskapsutveckling. Genom språket kan människan uttrycka sin personlighet, och med hjälp av skönlitteratur, sakprosatexter och andra typer av medier lär människan känna sin omvärld, sina medmänniskor och sig själv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet svenska för döva ska syfta till att eleverna utvecklar sin förmåga att läsa och kommunicera i skrift. Undervisningen ska också syfta till att eleverna utvecklar kunskaper om det svenska språket och om skönlitteratur. Undervisningen ska bidra till elevernas bildning. Den ska stimulera elevernas läsintresse, stärka deras tilltro till sin egen språkliga förmåga samt främja deras personliga utveckling och vilja att söka ny kunskap. Undervisningen ska även bidra till att eleverna förbereds för ett aktivt deltagande i samhället. Därför ska eleverna ges möjlighet att utveckla sin förmåga att påverka demokratiska beslutsprocesser samt att göra underbyggda ställningstaganden och bemöta andras åsikter.</p> <p>Eleverna ska ges rikligt med tillfällen att resonera om och skriva olika typer av texter. Undervisningen ska också främja elevernas utveckling till tvåspråkiga individer med svenskt teckenspråk som primärt språk och skriven svenska som ett andra språk. Genom undervisningen ska eleverna utveckla de färdigheter i skriftlig kommunikation som de behöver som samhällsmedborgare samt för arbetsliv och studier.</p> <p>Eleverna ska genom undervisningen stimuleras att läsa ofta och i riklig omfattning. Genom undervisningen ska eleverna utveckla sin förmåga att läsa, analysera och resonera om skönlitteratur och sakprosa. Undervisningen ska bidra till att eleverna utvecklar kunskaper om skönlitteratur samt förmåga att sätta litterära verk och författarskap i ett sammanhang. Undervisningen ska lyfta fram skönlitteraturens estetiska värde och stimulera eleverna att använda skönlitteratur, teater, film och andra medier som källa till förståelse av egna och andras erfarenheter och livsvillkor. Eleverna ska ges möjlighet att i skönlitteraturen se såväl det särskiljande som det allmänmänskliga i tid och rum. På så sätt ska undervisningen utmana eleverna till nya tankesätt och öppna för nya perspektiv.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om det svenska språkets utveckling och uppbyggnad samt om släktskapsförhållanden mellan språk och om olika typer av språklig variation. Vidare ska eleverna ges möjlighet att utveckla förståelse av språkets funktion för kommunikation, tänkande och lärande. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om dövas och hörselskadades språkinlärning samt stödja den inlärningsprocess som ett visuellt tillägnande av skriftspråket innebär.</p> <p>Samhällets informationsflöde gör det angeläget att förhålla sig kritiskt reflekterande till hur och i vilka syften det svenska språket används samt att kunna söka, sovra och kritiskt granska information. Undervisningen ska därför ge eleverna möjlighet att utveckla förmåga att sammanställa och kritiskt granska innehåll i olika texter samt att värdera deras relevans och tillförlitlighet. Vidare ska undervisningen ge eleverna möjlighet att utveckla sin förmåga att orientera sig, läsa, och kommunicera i en digital textvärld. I detta ingår att använda digitala verktyg och medier för lärande, kommunikation och samarbete.</p> <h5><em>Undervisningen i ämnet svenska för döva ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att kommunicera skriftligt med anpassning till syfte, mottagare och sammanhang samt till normer för språkriktighet.</li> <li>Förmåga att läsa och kritiskt granska sakprosa samt producera egna texter med utgångspunkt i det lästa.</li> <li>Kunskaper om skönlitteratur.</li> <li>Förmåga att läsa och analysera skönlitteratur.</li> <li>Kunskaper om det svenska språket och om språkanvändning.</li> </ul><h3>Nivåer i ämnet svenska för döva</h3><ul><li>Nivå 1, 100 poäng, som bygger på de kunskaper specialskolan ger eller motsvarande.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SVED1000X</h3>",
+      "code": "SVED1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svenska för döva på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Skriftlig framställning av olika typer av texter för kommunikation, lärande och reflektion med fokus på anpassning till syfte, mottagare och sammanhang, däribland argumenterande texter och kreativt skrivande.</li> <li>Struktur och språkliga drag i olika typer av texter. Skriftspråkets normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Användning av digitala verktyg för textbearbetning samt för respons på texter. Grunderna i den retoriska arbetsprocessen. Citat- och referatteknik.</li> <li>Läsning av och resonemang om sakprosa. Produktion av texter som anknyter till läst sakprosa.</li> <li>Informationssökning och värdering av information från olika typer av texter. Sammanfattning och kritisk läsning av texter från olika typer av källor.</li> <li>Läsning av, resonemang om och analys av skönlitterära texter ur genrerna epik, lyrik och dramatik, författade av såväl kvinnor som män med betoning på samtida litteratur.</li> <li>En översikt över de litterära epokerna.</li> <li>Centrala motiv, berättarteknik och stildrag i fiktivt berättande.</li> <li>Grundläggande språkvetenskapliga begrepp som behövs för att på ett strukturerat sätt kommunicera om språkets uppbyggnad och funktion samt resonera om språkriktighetsfrågor.</li> <li>Språk och språkanvändning med särskild betoning på språklig variation i skriftlig direktkommunikation och skrivet språk. Hur språklig variation hänger samman med geografisk och social bakgrund, ålder och kön samt hur makt, normer och identitet kan komma till uttryck i språkanvändning.</li> <li>Jämförelser av språkliga särdrag i svenskt teckenspråk och svenska som belyser skillnader och likheter avseende form, struktur och framställning.</li> <li>Dövas och hörselskadades språkinlärning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SVED2000X</h3>",
+      "code": "SVED2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svenska för döva på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Skriftlig framställning i olika sammanhang, för olika syften och för olika mottagare, däribland argumenterande och utredande texter samt kreativt skrivande.</li> <li>Struktur och språkliga drag i argumenterande och utredande texter. Skriftspråkets normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Användning av digitala verktyg för textbearbetning samt för respons på texter. Retoriska verkningsmedel. Citat- och referatteknik.</li> <li>Läsning av och resonemang om sakprosa. Produktion av texter som anknyter till läst sakprosa.</li> <li>Informationssökning och värdering av information från olika typer av texter.</li> <li>Sammanfattning och kritisk läsning av texter från olika typer av källor.</li> <li>Läsning av, resonemang om och analys av samtida och äldre skönlitterära texter ur genrerna epik, lyrik och dramatik från Sverige och olika delar av världen, författade av såväl kvinnor som män. Dansk och norsk skönlitteratur, delvis på originalspråk.</li> <li>Fördjupning i några litterära epoker samt skönlitteraturens relation till förhållanden och idéströmningar i samhället, historiskt och i nutid. Några tongivande författare från olika tider och från olika delar av världen.</li> <li>Skönlitterära verkningsmedel. Centrala litteraturvetenskapliga begrepp och deras användning.</li> <li>Det svenska språkets grammatik, däribland hur ord, fraser och satser samspelar i språket. Analys av det svenska språkets uppbyggnad i olika typer av texter.</li> <li>Språk och språkanvändning med särskild betoning på språkförhållanden i Sverige och övriga Norden. Svensk språklagstiftning, däribland hur svenskan, den språkliga mångfalden i Sverige och den enskildes tillgång till språk kan värnas samt de nationella minoritetsspråkens och teckenspråkets ställning. Flerspråkighet och dess betydelse för individ och samhälle.</li> <li>Utvecklade jämförelser av språkliga särdrag i svenskt teckenspråk och svenska som belyser skillnader och likheter avseende form, struktur och framställning.</li> <li>Dövas och hörselskadades språkinlärning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SVED3000X</h3>",
+      "code": "SVED3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svenska för döva på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Kritisk granskning av och reflektion över retoriken i skriftliga framställningar i olika sammanhang, till exempel politiska tal och debatter.</li> <li>Skriftlig framställning av texter av vetenskaplig karaktär som behandlar någon aspekt av svenskämnet.</li> <li>Struktur och språkliga drag i texter av vetenskaplig karaktär. Citat- och referatteknik.</li> <li>Skriftspråkets normer för språkriktighet och vilka språkliga egenskaper som gör att en text fungerar väl i sitt sammanhang. Tillämpning av den retoriska arbetsprocessen.</li> <li>Läsning av, resonemang om och analys av texter av vetenskaplig karaktär.</li> <li>Informationssökning och värdering av information från olika typer av texter. Sammanfattning och kritisk läsning av texter från olika typer av källor.</li> <li>Läsning av, resonemang om och analys av samtida och äldre skönlitterära texter ur genrerna epik, lyrik och dramatik från Sverige, övriga Norden och olika delar av världen, författade av såväl kvinnor som män. Jämförande analys av litterära verk från olika tider och deras relation till de historiska och kulturella sammanhang de tillkommit i.</li> <li>Litteraturvetenskapligt grundad analys av skönlitterära texter med användning av litteraturvetenskapliga begrepp.</li> <li>Språk och språkanvändning med särskild betoning på det svenska språkets historiska utveckling. Jämförelser av originaltexter från olika tider, släktskapsförhållanden mellan det svenska språket och andra språk samt språkförändringar.</li> <li>Fördjupade jämförelser av texter på svenskt teckenspråk och svenska som belyser skillnader och likheter avseende form, struktur och framställning.</li> <li>Dövas och hörselskadades språkinlärning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven skriver olika typer av texter med <strong>viss</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>i huvudsak</strong> skriftspråkets normer för språkriktighet och språket är varierat och <strong>delvis välformulerat</strong>.</p> <p>Eleven läser sakprosa och för <strong>enkla</strong> resonemang om texternas innehåll, uppbyggnad, relevans och tillförlitlighet. Vid läsning av sakprosa visar eleven <strong>godtagbar</strong> läsförståelse. Eleven använder lästa texter på ett <strong>i huvudsak fungerande</strong> sätt i egna texter och tillämpar regler för citat- och referatteknik.</p> <p>Eleven redogör <strong>översiktligt</strong> för huvuddragen i litterära epoker och för <strong>enkla</strong> resonemang om samband mellan litterära verk och de sammanhang de tillkommit i.</p> <p>Eleven läser skönlitteratur och visar <strong>godtagbar</strong> läsförståelse. Eleven gör <strong>enkla</strong> analyser av olika typer av skönlitteratur.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om det svenska språket och för <strong>enkla</strong> resonemang om språkanvändning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven skriver olika typer av texter med <strong>god</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>väl</strong> skriftspråkets normer för språkriktighet och språket är varierat och <strong>välformulerat</strong>.</p> <p>Eleven läser sakprosa och för <strong>utvecklade</strong> resonemang om texternas innehåll, uppbyggnad, relevans och tillförlitlighet. Vid läsning av sakprosa visar eleven <strong>god</strong> läsförståelse. Eleven använder lästa texter på ett <strong>fungerande</strong> sätt i egna texter och tillämpar regler för citat- och referatteknik.</p> <p>Eleven redogör <strong>utförligt</strong> för huvuddragen i litterära epoker och för <strong>utvecklade</strong> resonemang om samband mellan litterära verk och de sammanhang de tillkommit i.</p> <p>Eleven läser skönlitteratur och visar <strong>god</strong> läsförståelse. Eleven gör <strong>utvecklade</strong> analyser av olika typer av skönlitteratur.</p> <p>Eleven visar <strong>goda</strong> kunskaper om det svenska språket och för <strong>utvecklade</strong> resonemang om språkanvändning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven skriver olika typer av texter med <strong>mycket god</strong> anpassning till syfte, mottagare och sammanhang. Eleven följer <strong>mycket väl</strong> skriftspråkets normer för språkriktighet och språket är varierat och <strong>mycket välformulerat</strong>.</p> <p>Eleven läser sakprosa och för <strong>välutvecklade</strong> resonemang om texternas innehåll, uppbyggnad, relevans och tillförlitlighet. Vid läsning av sakprosa visar eleven <strong>mycket god</strong> läsförståelse. Eleven använder lästa texter på ett <strong>väl fungerande</strong> sätt i egna texter och tillämpar regler för citat- och referatteknik.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för huvuddragen i litterära epoker och för <strong>välutvecklade</strong> resonemang om samband mellan litterära verk och de sammanhang de tillkommit i.</p> <p>Eleven läser skönlitteratur och visar <strong>mycket god</strong> läsförståelse. Eleven gör <strong>utvecklade och nyanserade </strong>analyser av olika typer av skönlitteratur.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om det svenska språket och för <strong>välutvecklade</strong> resonemang om språkanvändning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.086Z"
+}

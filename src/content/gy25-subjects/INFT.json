@@ -1,0 +1,63 @@
+{
+  "code": "INFT",
+  "name": "Informationsteknisk arkitektur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:545",
+  "nameHeading": "<h2>Informationsteknisk arkitektur</h2>",
+  "description": "<p>Ämnet informationsteknisk arkitektur behandlar den grundläggande strukturen och de grundläggande processerna, komponenterna och gränssnitten i ett sammanhängande informationstekniskt system. Det behandlar även hur människors behov av informationsutbyte kan uppfyllas och underlättas med hjälp av olika informationstekniska system. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet informationsteknisk arkitektur ska syfta till att eleverna utvecklar kunskaper om olika nätverks- och informationstjänster samt om hur dessa kan integreras och kombineras i olika typer av informationstekniska system. Undervisningen ska även bidra till att eleverna utvecklar förståelse av och kunskaper om informationstekniska system och deras livscykler samt olika sätt att styra informationstekniska system. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om olika principer inom informationssäkerhet.</p> <p>Genom undervisningen och arbete med informationstekniska system ska eleverna ges möjlighet att utveckla förmåga att använda manualer och instruktioner. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att analysera och dokumentera både befintliga och egentillverkade informationstekniska system. I undervisningen ska eleverna enskilt och tillsammans med andra ges möjlighet att skapa och utveckla informationstekniska system. Därigenom ska eleverna ges möjlighet att omsätta sina kunskaper till praktiska handlingar och på så vis utveckla förmåga att utforma informationstekniska system.</p> <p>Undervisningen ska lämna utrymme för diskussion om och reflektion över säkerhetsmässiga och etiska frågor samt olika handlingsalternativ inom informationsteknisk arkitektur. Undervisningen ska varva praktiska och teoretiska moment och innehålla verklighetsnära situationer.</p> <h5><em>Undervisningen i ämnet informationsteknisk arkitektur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om informationstekniska system och principer för informationssäkerhet.</li> <li>Kunskaper om hur nätverks- och informationstjänster används och integreras i informationstekniska system.</li> <li>Kunskaper om livscykeln hos informationstekniska system och om olika sätt att styra systemen.</li> <li>Förmåga att använda manualer och instruktioner i arbetet med informationstekniska system.</li> <li>Förmåga att analysera, utforma och dokumentera informationstekniska system.</li> </ul><h3>Nivåer i ämnet informationsteknisk arkitektur</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INFT100TX</h3>",
+      "code": "INFT100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet informationsteknisk arkitektur på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hur kommunikationsarkitekturer och beståndsdelar för datakommunikation formar en it-arkitektur.</li> <li>Hur god tillgänglighet och säkerhet för informationstekniska system kan skapas, till exempel genom skalbarhet, redundans och övervakning. Principer för hur detta kan skapas och vilka konsekvenser det kan medföra.</li> <li>Regelverk för it-användning med informationssäkerhet som övergripande syfte.</li> <li>Uppbyggnad av system med hjälp av tjänsteorienterad arkitektur.</li> <li>Informationstekniska systems livscykler, från behovsanalys till driftsättning och förvaltning.</li> <li>Olika principer för att skapa en it-miljö centraliserat, distribuerat och molnbaserat.</li> <li>Hur nätverk och servrar samverkar i en it-miljö.</li> <li>It-strategier vid val av mjuk- och hårdvara inom informationstekniska system.</li> <li>Användning av manualer och instruktioner på svenska och engelska.</li> <li>Nedbrytning av ett befintligt system i mindre delar och processer med hjälp av någon systemutvecklingsmetod, till exempel vattenfallsmetoden eller scrum.</li> <li>System för styrning av informationstekniska system, till exempel ITIL (information technology infrastructure library).</li> <li>Dokumentation av ett befintligt system och representation av detta system i något språk.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt informationstekniska system och principer för informationssäkerhet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur nätverks- och informationstjänster används och integreras i informationstekniska system.</p> <p>Eleven redogör <strong>övergripande</strong> för livscykeln i olika informationstekniska system och för <strong>enkla</strong> resonemang om olika sätt att styra systemen.</p> <p>Eleven använder med <strong>viss säkerhet</strong> manualer och instruktioner i arbetet med informationstekniska system.</p> <p>Eleven analyserar och utformar med <strong>viss säkerhet</strong> informationstekniska system och gör en <strong>enkel</strong> dokumentation av systemet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt informationstekniska system och principer för informationssäkerhet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur nätverks- och informationstjänster används och integreras i informationstekniska system.</p> <p>Eleven redogör <strong>utförligt</strong> för livscykeln i olika informationstekniska system och för <strong>utvecklade</strong> resonemang om olika sätt att styra systemen.</p> <p>Eleven använder med <strong>säkerhet</strong> manualer och instruktioner i arbetet med informationstekniska system.</p> <p>Eleven analyserar och utformar med <strong>säkerhet</strong> informationstekniska system och gör en <strong>noggrann</strong> dokumentation av systemet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt informationstekniska system och principer för informationssäkerhet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur nätverks- och informationstjänster används och integreras i informationstekniska system.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för livscykeln i olika informationstekniska system och för <strong>välutvecklade</strong> resonemang om olika sätt att styra systemen.</p> <p>Eleven använder med <strong>god säkerhet</strong> manualer och instruktioner i arbetet med informationstekniska system.</p> <p>Eleven analyserar och utformar med <strong>god säkerhet</strong> informationstekniska system och gör en <strong>noggrann och utförlig</strong> dokumentation av systemet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.023Z"
+}

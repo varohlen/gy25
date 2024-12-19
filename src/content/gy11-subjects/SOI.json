@@ -1,0 +1,143 @@
+{
+  "code": "SOI",
+  "name": "Sociologi",
+  "englishName": "Sociology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:143",
+  "skolfsAndring": "2022:284",
+  "nameHeading": "<h2>Sociologi</h2>",
+  "description": "<p>Ämnet sociologi behandlar sociala sammanhang och relationen mellan människan och samhället på individ-, grupp- och samhällsnivå.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sociologi ska syfta till att eleverna utvecklar kunskaper om olika samhällsförhållanden och om hur människor formas av och skapar samhällen, kulturer och identiteter. Eleverna ska också ges möjlighet att utveckla kunskaper om olika teorier som finns om detta. Undervisningen ska även leda till att eleverna utvecklar kunskaper om människors handlingar, sociala relationer och sociala processer med utgångspunkt i såväl samhällsförändringar som människors möten i vardagen.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt, vilket omfattar förmåga att söka, strukturera, värdera och använda information från olika källor och dra slutsatser utifrån det. Det innebär också att reflektera över och diskutera ämnesinnehållet samt egna och andras handlingar och attityder.</p><p>I undervisningen ska eleverna ges möjlighet att använda metoder för insamling av information, till exempel intervjuer, enkäter och observationer. De ska också få använda metoder för bearbetning av information, till exempel statistik och textanalyser. Genom fältstudier ska eleverna ges möjlighet att få inblick i sociala sammanhang och i människors olika levnadsmiljöer.</p><h4>Undervisningen i ämnet sociologi ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om hur människor och samhället formar varandra, utifrån olika teorier och teoretiska perspektiv.</li> <li>Förmåga att använda sociologiska begrepp, teorier och modeller.</li> <li>Färdigheter i att kritiskt samla in, bearbeta och använda information från olika källor och förmåga att använda olika metoder för att samla in och bearbeta information.</li> <li>Förmåga att diskutera samhällets, egna och andras attityder samt diskutera handlingar och värdera olika ståndpunkter.</li> <li>Förmåga att problematisera kulturmöten och sociala processer på individ-, grupp- och samhällsnivå.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Etnicitet och kulturmöten, 100 poäng. </li> <li>Sociologi, 100 poäng. </li> <li>Ungdomskulturer, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SOIETN0</h3>",
+      "code": "SOIETN0",
+      "nameHeading": "<h2>Etnicitet och kulturmöten, 100 poäng</h2>",
+      "name": "Etnicitet och kulturmöten",
+      "englishName": "Ethnicity and cultural encounters",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen etnicitet och kulturmöten omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Svenska kulturer och kulturmöten i ett globaliserat och mångkulturellt samhälle.</li> <li>Innebörden i begreppen kultur, etnicitet, nationalitet och religion.</li> <li>Migration, dess bakgrund och konsekvenser för människors levnadsförhållanden och delaktighet i samhället.</li> <li>Politiska beslut och ställningstaganden i samband med migration.</li> <li>Kritisk bearbetning av information från olika källor. </li> <li>Aktuella företeelser i dagens mångkulturella samhälle och svensk samhällsdebatt om integrations- och segregationsfrågor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle. Dessutom redogör eleven <strong>översiktligt </strong>för faktorer som påverkar människors villkor. Eleven redogör även <strong>översiktligt </strong>för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med<strong> enkla </strong>omdömen.</p><p>Eleven diskuterar<strong> översiktligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>enkla </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle. Dessutom redogör eleven <strong>utförligt </strong>för faktorer som påverkar människors villkor. Eleven redogör även <strong>utförligt </strong>för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika kulturer och kulturmöten i ett mångkulturellt samhälle. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för faktorer som påverkar människors villkor. Eleven redogör även <strong>utförligt och nyanserat </strong>för migrationen, dess bakgrund och konsekvenser samt för politiska beslut och ställningstaganden i samband med migration. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.<strong> Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet </strong>information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade och nyanserade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SOISOO0</h3>",
+      "code": "SOISOO0",
+      "nameHeading": "<h2>Sociologi, 100 poäng</h2>",
+      "name": "Sociologi",
+      "englishName": "Sociology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen sociologi omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Skapandet av samhällen, kulturer, identiteter, sociala processer och socialisation.</li> <li>Sociala strukturer utifrån klass, genus, etnicitet, kultur och religion.</li> <li>Sociala normer och kategoriseringar av människor.</li> <li>Innebörden av integritet, social kontroll, segregering och marginalisering.</li> <li>Diskriminering, jämställdhet och likabehandling.</li> <li>Metoder för att kritiskt bearbeta information, till exempel källkritik.</li> <li>Aktuella sociala frågor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor. Dessutom redogör eleven <strong>översiktligt </strong>för hur dessa påverkar människors villkor och hur människor påverkar samhället. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp, teorier och modeller samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med<strong> enkla </strong>omdömen.</p><p>Eleven diskuterar<strong> översiktligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>enkla </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor. Dessutom redogör eleven <strong>utförligt </strong>för hur dessa påverkar människors villkor och hur människor påverkar samhället. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp, teorier och modeller samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet </strong>information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika samhällsförhållanden, sociala strukturer och normer samt kategoriseringar av människor. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur dessa påverkar människors villkor och hur människor påverkar samhället. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp, teorier och modeller samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade</strong> slutsatser.<strong> Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet </strong>information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade och nyanserade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SOIUNG0</h3>",
+      "code": "SOIUNG0",
+      "nameHeading": "<h2>Ungdomskulturer, 100 poäng</h2>",
+      "name": "Ungdomskulturer",
+      "englishName": "Youth cultures",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen ungdomskulturer omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Ungdomars levnadsförhållanden samt deras roll i samhället, och hur detta har förändrats.</li> <li>Ungdomskulturers uppkomst, utveckling, kännetecken och uttryck ur ett historiskt och internationellt perspektiv.</li> <li>Skapandet av subkulturer och identiteter med utgångspunkt i genus, etnicitet och klass.</li> <li>Aktuella ungdomspolitiska mål, samhällets insatser och verksamheter med ungdomar.</li> <li>Kritisk bearbetning av information från olika källor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet. Dessutom redogör eleven <strong>översiktligt</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället. Eleven redogör även <strong>översiktligt </strong>för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med<strong> enkla </strong>omdömen.</p><p>Eleven diskuterar<strong> översiktligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>enkla </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet. Dessutom redogör eleven <strong>utförligt</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället. Eleven redogör även <strong>utförligt </strong>för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika ungdomskulturer, deras uppkomst, utveckling och kännetecken, samt deras roll i identitetsskapandet. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur ungdomskulturer påverkar ungdomars levnadsförhållanden och deras roll i samhället. Eleven redogör även <strong>utförligt och nyanserat </strong>för aktuella ungdomspolitiska mål och samhällets insatser och verksamheter med ungdomar. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.<strong> Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p><p>Eleven diskuterar<strong> utförligt och nyanserat</strong> egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter. Dessutom gör eleven <strong>välgrundade och nyanserade </strong>reflektioner över kulturmöten och sociala processer.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.165Z"
+}

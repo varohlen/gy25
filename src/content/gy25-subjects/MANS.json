@@ -1,0 +1,78 @@
+{
+  "code": "MANS",
+  "name": "Människan i industrin",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:73",
+  "nameHeading": "<h2>Människan i industrin</h2>",
+  "description": "<p>Det industritekniska området är under ständig utveckling och har betydelse för stora delar av samhällets utveckling. Ämnet människan i industrin behandlar industrins villkor och individens roll, ansvar och betydelse i arbetsgruppen och för företagets produktion. Det ger också en introduktion till lagar, förordningar och andra bestämmelser som berör industriarbete.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet människan i industrin ska syfta till att eleverna utvecklar kunskaper om individens betydelse och ansvar för den dagliga produktionen och för företagets utveckling. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vad arbetsgruppen samt den enskildes roll i gruppen betyder för produktion och kreativt arbetsklimat. I undervisningen ska eleverna även ges möjlighet att reflektera över gruppdynamiska fenomen och ledarskapets funktion. Undervisningen ska bidra till att eleverna utvecklar kunskaper om industrin i ett historiskt perspektiv samt om de förutsättningar och villkor som företag och människor i dag arbetar under. I undervisningen ska eleverna också ges möjlighet att reflektera över hur förändringar i framtiden kan påverka industrins förutsättningar och produktionsstrukturer samt industrins roll i samhället och på arbetsmarknaden. Undervisningen ska även stimulera elevernas intresse för industrins utveckling och digitalisering.</p> <p>För att eleverna ska växa i tilltro till den egna innovativa förmågan ska undervisningen ge eleverna möjlighet att utveckla kunskaper om hur både samhällsfaktorer och enskilda arbetstagares idéer genom tiderna har påverkat produktion, produkter och arbetsvillkor.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som reglerar produktion och företag. Undervisningen ska bidra till att eleverna utvecklar kunskaper om krav på säkerhet inom branschens olika verksamhetsområden. Undervisningen ska även bidra till att eleverna utvecklar förståelse av hur produktion och produkter påverkar miljön och tillgången till de resurser som används.</p> <p>I undervisningen ska eleverna ges möjlighet att reflektera över hur normer och uppfattningar kan påverka olika handlingsalternativ inom utbildning och arbetsliv.</p> <h5><em>Undervisningen i ämnet människan i industrin ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om samarbetets betydelse för en fungerande produktion.</li> <li>Kunskaper om idéer och samhällsfaktorers påverkan på industrins utveckling.</li> <li>Kunskaper om hur lagar och andra bestämmelser reglerar produktion och företag.</li> <li>Förmåga att arbeta på ett säkert sätt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen.</li> <li>Kunskaper om produktionens påverkan på samhället och företagandets villkor.</li> </ul><h3>Nivåer i ämnet människan i industrin</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MANS1000X</h3>",
+      "code": "MANS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet människan i industrin på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Samverkan, individen och yrkesrollen</em></p> <ul> <li>Samarbetets betydelse för en fungerande, effektiv och hållbar produktion.</li> <li>Faktorer som påverkar arbetssätt och resultat, däribland ledarskap, samarbete och individens ansvar.</li> <li>Idéer och faktorer i historien som har förändrat produktionen och människors arbetsvillkor.</li> <li>Orientering om faktorer som kan påverka yrkesrollen och industrins utveckling, till exempel råvarutillgångar och teknikutveckling.</li> <li>Normer och uppfattningar, däribland om kön och grupptillhörighet, som kan påverka olika handlingsalternativ inom utbildning och arbetsliv.</li> </ul> <p><em>Bestämmelser och säkerhet</em></p> <ul> <li>Introduktion till lagar och andra bestämmelser som reglerar produktion och företag, till exempel bestämmelser om arbetsmiljö och arbetsrätt.</li> <li>Säkert och ergonomiskt arbete enligt rutiner och bestämmelser på arbetsplatsen, däribland användning av skyddsutrustning.</li> <li>Första hjälpen, däribland HLR (hjärt-lungräddning).</li> </ul> <p><em>Företagande och produktion</em></p> <ul> <li>Orientering om olika företagsformer inom industrin och företagandets villkor.</li> <li>Produktionen och samhället i samverkan, däribland miljöpåverkan och råvarutillgångar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MANS2000X</h3>",
+      "code": "MANS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet människan i industrin på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Samverkan, individen och yrkesrollen</em></p> <ul> <li>Psykologiska och mänskliga faktorer som påverkar individers förmåga att samarbeta i arbetsgrupp och organisation.</li> <li>Strategier för att främja samarbete och en fungerande, effektiv och hållbar produktion.</li> <li>Översiktligt om industrins utveckling samt fördjupning i idéer och faktorer i historien som har förändrat produktionen och människors arbetsvillkor.</li> <li>Faktorer som kan påverka yrkesrollen och industrins utveckling, däribland digitalisering och framtidens teknik.</li> </ul> <p>Bestämmelser och säkerhet</p> <ul> <li>Lagar och andra bestämmelser som reglerar produktion och företag, däribland miljöbestämmelser som påverkar industrin.</li> <li>Systematiskt säkerhets- och arbetsmiljöarbete enligt rutiner och bestämmelser på arbetsplatsen, till exempel för att undvika olycksfall.</li> </ul> <p><em>Företagande och produktion</em></p> <ul> <li>Företagsformer inom industrin samt företagandets villkor.</li> <li>Produktionen och samhället i samverkan, däribland miljöpåverkan och råvarutillgångar i ett globalt perspektiv.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> samarbetets betydelse för en fungerande och hållbar produktion.</p> <p>Eleven beskriver <strong>översiktligt</strong> hur idéer och samhällsfaktorer påverkat och kan komma att påverka industrins utveckling.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur lagar och andra bestämmelser reglerar produktionen.</p> <p>Eleven arbetar på ett säkert sätt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om produktionens påverkan på samhället och företagandets villkor.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> samarbetets betydelse för en fungerande och hållbar produktion.</p> <p>Eleven beskriver <strong>utförligt</strong> hur idéer och samhällsfaktorer påverkat och kan komma att påverka industrins utveckling.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur lagar och andra bestämmelser reglerar produktionen.</p> <p>Eleven arbetar på ett säkert sätt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen.</p> <p>Eleven visar <strong>goda</strong> kunskaper om produktionens påverkan på samhället och företagandets villkor.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> samarbetets betydelse för en fungerande och hållbar produktion.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur idéer och samhällsfaktorer påverkat och kan komma att påverka industrins utveckling.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur lagar och andra bestämmelser reglerar produktionen.</p> <p>Eleven arbetar på ett säkert sätt utifrån de rutiner och bestämmelser som tillämpas på arbetsplatsen.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om produktionens påverkan på samhället och företagandets villkor.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.037Z"
+}

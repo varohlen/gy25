@@ -1,0 +1,78 @@
+{
+  "code": "SOCI",
+  "name": "Sociologi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:117",
+  "nameHeading": "<h2>Sociologi</h2>",
+  "description": "<p>Ämnet sociologi är ett samhällsvetenskapligt ämne som ger mångsidiga perspektiv på samspelet mellan olika sociala aktörer och strukturer och hur de påverkar varandra i det moderna samhället.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sociologi ska syfta till att eleverna utvecklar teoretiska och empiriska kunskaper om olika samhällsförhållanden och hur olika aktörer och strukturer påverkar varandra. Undervisningen ska bidra till att eleverna utvecklar kunskaper om framväxten av det moderna samhället och om hur det moderna samhället ger upphov till skilda identitets- och socialiseringsprocesser.</p> <p>Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om människors handlingar, sociala relationer och sociala processer med utgångspunkt såväl i samhällsförändringar som i människors möten i vardagen.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt och förmåga att använda sociologiska begrepp och teorier för att förstå empiri från olika källor och dra slutsatser utifrån dessa.</p> <p>Undervisningen ska vidare ge eleverna en inblick i metoder för insamling och bearbetning av kvalitativa och kvantitativa data.</p> <h5><em>Undervisningen i ämnet sociologi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om det moderna samhällets framväxt och det moderna samhällets inverkan på individ-, grupp- och samhällsnivå.</li> <li>Kunskaper om hur olika aktörer och samhällsstrukturer formas i samspel med varandra.</li> <li>Förmåga att analysera sociala företeelser med hjälp av sociologiska begrepp, teorier och metoder.</li> </ul><h3>Nivåer i ämnet sociologi</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SOCI1000X</h3>",
+      "code": "SOCI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sociologi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Framväxten av det moderna samhället med betoning på dess inverkan på olika aktörer utifrån sociala processer, däribland individualisering, urbanisering och globalisering.</li> <li>Samhällsstrukturers och aktörers inverkan på individers gemenskap och utanförskap i relation till sociala kategorier, till exempel etnicitet, nationalitet, kultur, religion, klass, genus och sexuell identitet.</li> <li>Socialiseringsprocesser i olika former av kollektivistiska och individualistiska samhällen samt deras inverkan på individers och gruppers attityder och beteendemönster, med särskild betoning på familjens och mediesamhällets roll i socialiseringsprocessen.</li> <li>Användning av sociologiska begrepp och teorier för att belysa de sociala företeelser som behandlas.</li> <li>Metoder för insamling av kvalitativa och kvantitativa data, till exempel observationer, intervjuer och enkäter, samt enklare bearbetning av data, till exempel kodning och statistik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SOCI2000X</h3>",
+      "code": "SOCI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sociologi på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Det moderna och globala samhällets möjligheter och utmaningar inom olika områden, till exempel migration, sociala skyddsnät, kärlekens roll i det moderna samhället och arbetslivets påverkan på individen.</li> <li>Sociala stratifieringens inverkan på olika aktörer och samhällsstrukturer, till exempel tilliten till den offentliga sektorn och mellan olika grupper i samhället.</li> <li>Socialiseringsprocesser med betoning på det moderna samhällets inverkan på olika individers och gruppers attityder och beteendemönster, till exempel avseende frågor om jämställdhet, jämlikhet, sexualitet och psykisk hälsa.</li> <li>Användning av sociologiska begrepp och teorier för att belysa de sociala företeelser som behandlas.</li> <li>Metoder för insamling och bearbetning av kvalitativa och kvantitativa data, till exempel intervjuer med enklare kodning, observationer med tolkning av fältanteckningar och enkäter med grundläggande statistisk analys.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om det moderna samhällets framväxt och för <strong>enkla</strong> resonemang om det moderna samhällets inverkan på individ-, grupp- och samhällsnivå.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur olika aktörer och samhällsstrukturer formas i samspel med varandra och för <strong>enkla</strong> resonemang om detta samspel.</p> <p>Eleven gör <strong>enkla</strong> analyser av sociala företeelser med hjälp av sociologiska begrepp, teorier och metoder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om det moderna samhällets framväxt och för <strong>utvecklade</strong> resonemang om det moderna samhällets inverkan på individ-, grupp- och samhällsnivå.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur olika aktörer och samhällsstrukturer formas i samspel med varandra och för <strong>utvecklade</strong> resonemang om detta samspel.</p> <p>Eleven gör <strong>välgrundade</strong> analyser av sociala företeelser med hjälp av sociologiska begrepp, teorier och metoder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om det moderna samhällets framväxt och för <strong>välutvecklade</strong> resonemang om det moderna samhällets inverkan på individ-, grupp- och samhällsnivå.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur olika aktörer och samhällsstrukturer formas i samspel med varandra och för <strong>välutvecklade</strong> resonemang om detta samspel.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> analyser av sociala företeelser med hjälp av sociologiska begrepp, teorier och metoder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.082Z"
+}

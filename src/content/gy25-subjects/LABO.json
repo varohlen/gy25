@@ -1,0 +1,78 @@
+{
+  "code": "LABO",
+  "name": "Laboratorieteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:28",
+  "nameHeading": "<h2>Laboratorieteknik</h2>",
+  "description": "<p>Ämnet laboratorieteknik behandlar arbete i laboratorium inom industritekniska processer. Det behandlar även säkerhet och kvalitetssäkring inom laboratorieteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet laboratorieteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbetsuppgifter i laboratorium inom industritekniska processer. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att bedöma, hantera och dokumentera provresultat. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om tillvägagångssätt vid provtagningar samt om kvalitetsarbetets innebörd för industritekniska processer.</p> <p>Arbete i laboratorium förutsätter ett systematiskt och säkert arbetssätt utifrån fastställda instruktioner och arbetsmetoder. Undervisningen ska därför leda till att eleverna utvecklar förmåga att följa instruktioner och säkerhetsanvisningar samt att arbeta säkert i enlighet med lagar och andra bestämmelser. Inom det industritekniska området ställs höga krav på kommunikation och samverkan. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom alla led i den industritekniska processen.</p> <p>Undervisningen ska genom ett undersökande och problemlösande arbetssätt stimulera eleverna till fortsatt lärande och yrkesmässig utveckling inom laboratorieteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet laboratorieteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om provtagningar och kvalitet i produktionsprocesser.</li> <li>Förmåga att planera och utföra arbetsuppgifter i ett laboratorium samt att värdera sitt eget arbete.</li> <li>Förmåga att arbeta på ett säkert och miljömässigt hållbart sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att kommunicera och samverka med andra samt att använda fackspråk.</li> </ul><h3>Nivåer i ämnet laboratorieteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LABO1000X</h3>",
+      "code": "LABO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet laboratorieteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Allmän laboratorieteknik</em></p> <ul> <li>Orientering om kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat.</li> <li>Tillvägagångssätt vid provtagningar.</li> <li>Orientering om kemiska begrepp och formler inom teknikområdet.</li> <li>Planering och utförande av vanligt förekommande arbetsuppgifter i ett laboratorium inom industritekniska processer, till exempel mottagande av prover och rapportering.</li> <li>Utförande av enkla analyser.</li> <li>Bedömning, hantering och enkel dokumentation av provresultat.</li> <li>Utvärdering av arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Märkning och farosymboler.</li> <li>Hantering av hälsorisker med kemikalier och material.</li> <li>Kommunikation och samverkan inom organisationen för planering och utförande av arbetsuppgifter inom laboratorieteknik.</li> <li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: LABO2000X</h3>",
+      "code": "LABO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet laboratorieteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Allmän laboratorieteknik</em></p> <ul> <li>Systematiskt kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat.</li> <li>Faktorer som påverkar val av mätmetoder och analysmetoder för kvalitetskontroll och produktutveckling.</li> <li>Förädlingsvärden i den industritekniska processen.</li> <li>Tillvägagångssätt vid provtagningar.</li> <li>Kemiska begrepp och formler inom teknikområdet.</li> <li>Planering av arbetsuppgifter i ett laboratorium inom industritekniska processer.</li> <li>Utförande av analyser.</li> <li>Yrkesmässig bedömning, hantering och dokumentation av provresultat enligt bestämmelser för toleransvärden.</li> <li>Utvärdering av arbetsprocess och resultat.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Riskbedömning i samband med hantering av kemikalier och material i enlighet med säkerhetsföreskrifter.</li> <li>Kommunikation och samverkan inom och mellan olika avdelningar för planering och utförande av arbetsuppgifter inom laboratorieteknik.</li> <li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat med olika målgrupper.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om kvalitet i produktionsprocessen. Dessutom beskriver eleven på ett <strong>godtagbart</strong> sätt tillvägagångssätt vid provtagningar.</p> <p>Eleven planerar och utför med <strong>viss säkerhet</strong> arbetsuppgifter i laboratorieteknik. Dessutom utvärderar eleven arbetsprocess och resultat och ger <strong>enkla</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven arbetar säkert och miljömässigt hållbart i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i arbetsprocessen samt använder fackspråk med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om kvalitet i produktionsprocessen. Dessutom beskriver eleven på ett <strong>utvecklat</strong> sätt tillvägagångssätt vid provtagningar.</p> <p>Eleven planerar och utför med <strong>säkerhet</strong> arbetsuppgifter i laboratorieteknik. Dessutom utvärderar eleven arbetsprocess och resultat och ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven arbetar säkert och miljömässigt hållbart i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i arbetsprocessen samt använder fackspråk med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om kvalitet i produktionsprocessen. Dessutom beskriver eleven på ett <strong>välutvecklat</strong> sätt tillvägagångssätt vid provtagningar.</p> <p>Eleven planerar och utför med <strong>god säkerhet</strong> arbetsuppgifter i laboratorieteknik. Dessutom utvärderar eleven arbetsprocess och resultat och ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven arbetar säkert och miljömässigt hållbart i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i arbetsprocessen samt använder fackspråk med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.032Z"
+}

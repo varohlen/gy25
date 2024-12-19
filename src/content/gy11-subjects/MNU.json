@@ -1,0 +1,105 @@
+{
+  "code": "MNU",
+  "name": "Manuell mönsterkonstruktion",
+  "englishName": "Pattern making",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2014:65",
+  "skolfsAndring": "2022:199",
+  "nameHeading": "<h2>Manuell mönsterkonstruktion</h2>",
+  "description": "<p>Ämnet manuell mönsterkonstruktion behandlar konstruktion av mönster, vilket är en förutsättning för tillverkning av kläder. Vid konstruktion av mönster krävs ett helhetstänkande där nyttoaspekter förenas med känsla för material, form och funktion. Ämnet har även ett kreativt inslag och behandlar hur man omsätter kreativa idéer i färdiga mönster.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet manuell mönsterkonstruktion ska syfta till att eleverna utvecklar kunskaper om och färdigheter i mönsterhantering och att konstruera mönster. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att uppfatta människors olika kroppsformer och sätt att röra sig samt förmåga att se sambandet mellan mönsterframställning och kroppens form. Eleverna ska ges möjlighet att utveckla färdigheter i att skapa mönster till plagg som uppfyller krav på passform och funktion. Praktiska övningar och användning av manualer ska ingå i undervisningen för att eleverna ska ges möjlighet att utveckla sin förmåga att konstruera och förändra mönster.</p><h4>Undervisningen i ämnet manuell mönsterkonstruktion ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om och färdigheter i att konstruera och förändra mönster.</li> <li>Förståelse av och färdigheter i att använda fackspråk.</li> <li>Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Mönsterkonstruktion 1, 100 poäng. </li> <li>Mönsterkonstruktion 2, 100 poäng, som bygger på kursen mönsterkonstruktion 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MNUMON01</h3>",
+      "code": "MNUMON01",
+      "nameHeading": "<h2>Mönsterkonstruktion 1, 100 poäng</h2>",
+      "name": "Mönsterkonstruktion 1",
+      "englishName": "Pattern making 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen mönsterkonstruktion 1 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Måttagning och storlekssystem.</li> <li>Grundkonstruktioner.</li> <li>Mönsterförändringar utifrån grundmallar.</li> <li>Mönsterförändringar utifrån olika kroppsformer.</li> <li>Framställning av mönster utifrån den färdiga produktens användningsområde.</li> <li>Fackspråk för att förstå och använda instruktioner och tekniska beskrivningar, till exempel manualer.</li> <li>Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven tolkar <strong>i samråd </strong>med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>. <strong>I samråd </strong>med handledare väljer eleven material och konstruktionsmetoder utifrån den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger förslag på alternativa lösningar och gör <strong>i samråd </strong>med handledare konstruktioner och <strong>enkla </strong>mönsterförändringar.</p><p>Eleven använder <strong>i samråd </strong>med handledare <strong>och med viss säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>med en </strong>teknisk och estetisk kvalitet<strong> som går att använda i det avsedda sammanhanget</strong>. Under arbetet upptäcker och löser eleven <strong>i samråd </strong>med handledare eventuella problem som uppkommer. Eleven beskriver <strong>översiktligt </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>enkla </strong>omdömen. Beskrivningen innehåller <strong>enkla </strong>förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven <strong>med viss säkerhet </strong>relevanta <strong>facktermer</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven tolkar <strong>efter samråd </strong>med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>. <strong>Efter samråd </strong>med handledare väljer eleven konstruktionsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av skisser och ritningar, ger förslag på alternativa lösningar och gör <strong>efter samråd </strong>med handledare konstruktioner och mönsterförändringar.</p><p>Eleven använder <strong>med viss säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>med en </strong>teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>. Under arbetet upptäcker och löser eleven <strong>efter samråd </strong>med handledare eventuella problem som uppkommer. Eleven beskriver <strong>utförligt </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>enkla </strong>omdömen. Beskrivningen innehåller <strong>välgrundade </strong>förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven <strong>med viss säkerhet </strong>relevant <strong>fackspråk</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt. <strong>Eleven</strong> <strong>utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven tolkar <strong>efter samråd </strong>med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>. <strong>Efter samråd </strong>med handledare väljer eleven konstruktionsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>utförliga och noggranna</strong> skisser och ritningar, ger <strong>välgrundade </strong>förslag på alternativa lösningar och gör <strong>efter samråd </strong>med handledare konstruktioner och <strong>komplexa </strong>mönsterförändringar.</p><p>Eleven använder <strong>med säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>som uppfyller höga krav på </strong>teknisk och estetisk kvalitet. Under arbetet upptäcker och löser eleven <strong>efter samråd </strong>med handledare eventuella problem som uppkommer, <strong>efter att ha övervägt alternativa lösningar</strong>. Eleven beskriver <strong>utförligt och nyanserat </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>nyanserade </strong>omdömen. Beskrivningen innehåller <strong>välgrundade och nyanserade </strong>förslag på förbättringar av, <strong>och alternativa tillvägagångssätt i</strong>, arbetsprocessen. I beskrivningen använder eleven <strong>med säkerhet </strong>relevant <strong>fackspråk</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt. <strong>Eleven</strong> <strong>utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MNUMON02</h3>",
+      "code": "MNUMON02",
+      "nameHeading": "<h2>Mönsterkonstruktion 2, 100 poäng</h2>",
+      "name": "Mönsterkonstruktion 2",
+      "englishName": "Pattern making 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen mönsterkonstruktion 2 omfattar punkterna 1–3 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Gradering. I samband med det behandlas internationella mönster- och storlekssystem.</li> <li>Mönsterförändringar utifrån figuravvikelser.</li> <li>Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.</li> <li>Mönsterkonstruktion utifrån den färdiga produktens användningsområde samt estetiska och tekniska produktkrav.</li> <li>Fackspråk för att kommunicera inom branschen och med kunder.</li> <li>Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven tolkar <strong>i samråd </strong>med handledare arbetsuppgifter samt gör en <strong>enkel</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>.<strong> I samråd </strong>med handledare väljer eleven material och konstruktionsmetoder utifrån den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>enkla</strong> skisser och ritningar, ger förslag på alternativa lösningar och gör <strong>i samråd </strong>med handledare <strong>enkla</strong> konstruktioner och mönsterförändringar.</p><p>Eleven använder <strong>i samråd </strong>med handledare <strong>och med viss säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>med en </strong>teknisk och estetisk kvalitet <strong>som går att använda i det avsedda sammanhanget</strong>. Under arbetet upptäcker och löser eleven <strong>i samråd </strong>med handledare eventuella problem som uppkommer. Eleven beskriver <strong>översiktligt </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>enkla </strong>omdömen. Beskrivningen innehåller <strong>enkla </strong>förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven <strong>med viss säkerhet </strong>relevanta <strong>facktermer</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven tolkar <strong>efter samråd </strong>med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med viss säkerhet</strong>. <strong>Efter samråd </strong>med handledare väljer eleven konstruktionsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av skisser och ritningar, ger förslag på alternativa lösningar och gör <strong>efter samråd </strong>med handledare konstruktioner och mönsterförändringar.</p><p>Eleven använder <strong>med viss säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>med en </strong>teknisk och estetisk kvalitet <strong>som fungerar väl i det avsedda sammanhanget</strong>. Under arbetet upptäcker och löser eleven <strong>efter samråd </strong>med handledare eventuella problem som uppkommer. Eleven beskriver <strong>utförligt </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>enkla </strong>omdömen. Beskrivningen innehåller <strong>välgrundade </strong>förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven <strong>med viss säkerhet </strong>relevant <strong>fackspråk</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt. <strong>Eleven</strong> <strong>utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven tolkar <strong>efter samråd </strong>med handledare arbetsuppgifter samt gör en <strong>genomarbetad</strong> planering av sitt arbete. Eleven organiserar och genomför sitt arbete <strong>med säkerhet</strong>. <strong>Efter samråd </strong>med handledare väljer eleven konstruktionsmetoder utifrån <strong>materialens egenskaper och</strong> den tänkta slutprodukten.</p><p>I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av <strong>utförliga och noggranna</strong> skisser och ritningar, ger <strong>välgrundade </strong>förslag på alternativa lösningar och gör <strong>efter samråd </strong>med handledare <strong>komplexa </strong>konstruktioner och mönsterförändringar.</p><p>Eleven använder <strong>med säkerhet</strong> konstruktionsmetoder och uppnår resultat <strong>som uppfyller höga krav på </strong>teknisk och estetisk kvalitet. Under arbetet upptäcker och löser eleven <strong>efter samråd </strong>med handledare eventuella problem som uppkommer, <strong>efter att ha övervägt alternativa lösningar</strong>. Eleven beskriver <strong>utförligt och nyanserat </strong>sin arbetsprocess och sitt resultat samt värderar dessa med <strong>nyanserade </strong>omdömen. Beskrivningen innehåller <strong>välgrundade och nyanserade </strong>förslag på förbättringar av, <strong>och alternativa tillvägagångssätt i</strong>, arbetsprocessen. I beskrivningen använder eleven <strong>med säkerhet </strong>relevant <strong>fackspråk</strong>.</p><p>Eleven arbetar på ett ergonomiskt riktigt sätt. <strong>Eleven</strong> <strong>utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.084Z"
+}

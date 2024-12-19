@@ -1,0 +1,79 @@
+{
+  "code": "DIST",
+  "name": "Distribuerade styrsystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2023:197",
+  "skolfsAndring": "2023:197",
+  "nameHeading": "<h2>Distribuerade styrsystem</h2>",
+  "description": "<p>Distribuerade styrsystem används i tillverknings- och processindustrin för att styra maskiner och processer. Ämnet distribuerade styrsystem handlar om hur industridatorer samverkar med andra enheter i en automatiserad anläggning. Det behandlar även konfigurering och programmering av distribuerade styrenheter för styrning av automatiserade anläggningar samt samverkan mellan styrsystem och kringutrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet distribuerade styrsystem ska syfta till att eleverna utvecklar förmåga att programmera och driftsätta datorstyrda maskiner. Den ska också bidra till att eleverna utvecklar kunskaper om hur distribuerade styrsystem är konstruerade och hur de används i industrin. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om olika metoder och begrepp inom industriell automation samt om hur komponenter i industrin kommunicerar och samverkar med varandra.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella automatiserade system. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta på ett säkert sätt inom industriautomation.</p> <p>I undervisningen ska både teoretiska och praktiska moment ingå. Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling. Undervisningen ska dessutom stimulera elevernas nyfikenhet och lust att lära samt lämna utrymme för diskussion och reflektion om etiska frågor i samband med automatisering i industrin.</p> <h5><em>Undervisningen i ämnet distribuerade styrsystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om konstruktion, funktion och delkomponenter i anläggningar med distribuerade styrsystem.</li> <li>Förmåga att programmera och driftsätta distribuerade styrsystem.</li> <li>Förmåga att felsöka och åtgärda fel i anläggningar med distribuerade styrsystem samt ge förslag på förbättringar.</li> <li>Förmåga att arbeta på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet distribuerade styrsystem</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DIST1000X</h3>",
+      "code": "DIST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet distribuerade styrsystem på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Konstruktion och uppbyggnad hos automatiserade anläggningar</em></p> <ul> <li>Grundläggande standarder och begrepp som används för anläggningar med distribuerade styrsystem.</li> <li>Uppbyggnad, funktion och delkomponenter hos olika programmerbara styrsystem, till exempel kompakta och modulära PLC-system med distribuerade in- och utgångsenheter.</li> <li>Introduktion till fältbussar.</li> <li>Etiska frågeställningar i samband med automatisering i industrin.</li> </ul> <p><em>Arbete med distribuerade styrsystem</em></p> <ul> <li>Programmering, konfigurering och driftsättning av PLC-system med distribuerade digitala in- och utgångar.</li> <li>Introduktion till användning av HMI (human-machine interface) i industriautomation.</li> <li>Felsökning och åtgärdande av fel i anläggningar med distribuerade styrsystem med hjälp av scheman, manualer och övrig dokumentation.</li> <li>Analys av befintlig automatiserad process samt förslag på förbättringar.</li> <li>Dokumentation av utfört arbete samt utvärdering av arbetsprocess och slutresultat.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DIST2000X</h3>",
+      "code": "DIST2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet distribuerade styrsystem på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Konstruktion och uppbyggnad hos automatiserade anläggningar</em></p> <ul> <li>Standarder och begrepp som används för anläggningar med distribuerade styrsystem.</li> <li>Uppbyggnad och hierarki hos industriella automationssystem utifrån automationspyramiden.</li> <li>SCADA-systems funktion, uppbyggnad och delkomponenter.</li> <li>Maskinsäkerhet med riskbedömning, riskanalys och riskreducering.</li> <li>Likheter och skillnader mellan olika fältbussar, till exempel profinet, profibus, KNX och modbus.</li> </ul> <p><em>Arbete med distribuerade styrsystem</em></p> <ul> <li>Installation av givare, styrenhet och aktuatorer till distribuerade styrsystem.</li> <li>Programmering, simulering och driftsättning av PLC-system med analoga och digitala signaler i flera olika programspråk.</li> <li>Programmering av HMI (human-machine interface) för att styra och övervaka ett automatiserat system.</li> <li>Reglertekniska tillämpningar i PLC med inställning av olika parametrar i en PID-regulator.</li> <li>Systematisk felsökning och åtgärdande av fel med hjälp av scheman, manualer och annan dokumentation i anläggningar med distribuerade styrsystem.</li> <li>Analys av befintlig automatiserad process med förslag på förbättring och optimering.</li> <li>Framställning av scheman, ritningar och annan dokumentation till distribuerade styrsystem samt utvärdering av arbetsprocess och slutresultat.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver med <strong>viss säkerhet</strong> konstruktion, funktion och delkomponenter i anläggningar med distribuerade styrsystem.</p> <p>Eleven programmerar och driftsätter med <strong>viss</strong> skicklighet en anläggning med distribuerat styrsystem.</p> <p>Eleven felsöker och åtgärdar fel i anläggningar med distribuerade styrsystem med <strong>viss säkerhet</strong> och ger <strong>enkla</strong> förslag till förbättringar.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver med <strong>säkerhet</strong> konstruktion, funktion och delkomponenter i anläggningar med distribuerade styrsystem.</p> <p>Eleven programmerar och driftsätter med <strong>god</strong> skicklighet en anläggning med distribuerat styrsystem.</p> <p>Eleven felsöker och åtgärdar fel i anläggningar med distribuerade styrsystem med <strong>säkerhet</strong> och ger <strong>utvecklade</strong> förslag till förbättringar.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver med <strong>god säkerhet</strong> konstruktion, funktion och delkomponenter i anläggningar med distribuerade styrsystem.</p> <p>Eleven programmerar och driftsätter med <strong>mycket god</strong> skicklighet en anläggning med distribuerat styrsystem.</p> <p>Eleven felsöker och åtgärdar fel i anläggningar med distribuerade styrsystem med <strong>god säkerhet</strong> och ger <strong>välutvecklade</strong> förslag till förbättringar.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.983Z"
+}

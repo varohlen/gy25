@@ -1,0 +1,104 @@
+{
+  "code": "PRC",
+  "name": "Processteknik – energi",
+  "englishName": "Process Engineering – Energy",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2018:18",
+  "skolfsAndring": "2022:251",
+  "nameHeading": "<h2>Processteknik – energi</h2>",
+  "description": "<p>Ämnet processteknik – energi behandlar de tekniker som används inom processindustri och energiproduktion. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet processteknik – energi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper i styrning av vanligt förekommande arbetsuppgifter inom energiproduktion och förmåga att utvärdera resultatet. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i styrning av vanligt förekommande arbetsuppgifter inom energiproduktion och förmåga att utvärdera resultatet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt ta hänsyn till ställda kvalitetskrav. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med energioptimering och med olika dimensioner av hållbarhet.</p> <h4>Undervisningen i ämnet processteknik – energi ska ge eleverna förutsättningar att utveckla följande:</h4> <p>1. Kunskaper om processtekniska system i energiproducerande anläggningar och om deras delar, komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser.</p> <p>2. Kunskaper om hur digital teknik kan användas i arbetet.</p> <p>3. Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.</p> <p>4. Kunskaper om kvalitetsarbete i energiproduktion samt om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.</p> <p>5. Förståelse av hur energiproduktionen påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.</p> <p>6. Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.</p> <p>7. Förmåga att reglera och optimera processer inom energiproduktion.</p> <p>8. Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter på energiproducerande anläggningar.</p> <p>9. Förmåga att tolka och upprätta processteknisk dokumentation.</p><h3>Kurser i ämnet</h3><ul><li>Processteknik – energi 1, 100 poäng. </li> <li>Processteknik – energi 2, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PRCPRO31</h3>",
+      "code": "PRCPRO31",
+      "nameHeading": "<h2>Processteknik – energi 1, 100 poäng</h2>",
+      "name": "Processteknik – energi 1",
+      "englishName": "Process Engineering – Energy 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen processteknik – energi 1 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder och utrustning för att testa och kalibrera mätning av till exempel temperatur, tryck, nivå, flöde och joniserande strålning.</li> <li>Metoder för mätning av varvtal och krafter.</li> <li>Reglerteknik, specifikt reglerprocesser inom energiproduktion.</li> <li>Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.</li> <li>Arbetsmiljöfrågor och säkerhetsföreskrifter.</li> <li>Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.</li> <li>Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.</li> <li>Energiproduktion och distribution nationellt och internationellt.</li> <li>Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.</li> <li>Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.</li> <li>Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.</li> <li>Systematiserade dokumentationsmetoder och kvalitetsteknik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>övergripande</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar <strong>med säkerhet</strong> resultatet. Dessutom utför eleven<strong> efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>utförligt </strong>för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet. Dessutom utför eleven <strong>självständigt efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med mycket god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med mycket god säkerhet </strong>provtagningar och tolkar <strong>med mycket god säkerhet</strong> resultatet. Dessutom utför eleven <strong>självständigt</strong> konfigureringar och optimeringar samt genomför <strong>med mycket god säkerhet </strong>styrning och avläsning av processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med mycket god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med mycket god säkerhet </strong>anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRCPRO32</h3>",
+      "code": "PRCPRO32",
+      "nameHeading": "<h2>Processteknik – energi 2, 100 poäng</h2>",
+      "name": "Processteknik – energi 2",
+      "englishName": "Process Engineering – Energy 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen Processteknik – energi 2 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Huvudprocessen i tryckvattenreaktorer (PWR), kokarreaktorer (BWR) och värmekraftverk.</li> <li>Reaktorfysik eller förbränningsteknik.</li> <li>Processreglering med tillämpning av kretsprocesser på kraft- och värmealstrande maskiner.</li> <li>Manuella och automatiska åtgärder vid normal och störd drift inom vald process.</li> <li>Drift och underhåll av kraft- och värmeverk, till exempel rondering, kontrollrums- och revisionsarbete.</li> <li>Standarder och föreskrifter inom området kärnkraft eller värmekraft.</li> <li>Processens påverkan på miljön. Bränslets cykel från råvara till avfall.</li> <li>Åtgärder för att minimera miljöpåverkan.</li> <li>Laborativa övningar med huvudprocessen och reglerteknik.</li> <li>Termodynamik, hydrodynamik och kretsprocesser.</li> <li>Beräkning av verkningsgrad.</li> <li>Användning av Mollier-, pV- och T-s-diagram inom vald kraftprocess samt jämförelse med carnotprocessen.</li> <li>Bas- och reglerkraftens roll i elnätet under normala driftförhållanden och störningar.</li> <li>Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.</li> <li>Systematiserade dokumentationsmetoder och kvalitetsteknik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande </strong>för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer. Eleven resonerar <strong>övergripande</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder samt för olika processers inverkan på miljön.</p> <p>Eleven planerar<strong> efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter. Eleven genomför <strong>med säkerhet </strong>vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade </strong>förslag för att optimera driften samt genomför <strong>efter samråd </strong>med handledare laborationer och simulatorövningar. I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar resultatet. Dessutom utför eleven<strong> efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer. Eleven resonerar <strong>utförligt</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön.</p> <p>Eleven planerar<strong> självständigt efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter. Eleven genomför <strong>med god säkerhet </strong>vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade och nyanserade </strong>förslag för att optimera driften samt genomför <strong>självständigt</strong> <strong>efter samråd </strong>med handledare laborationer och simulatorövningar. I arbetet samverkar och kommunicerar eleven <strong>med god säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar resultatet. Dessutom utför eleven<strong> självständigt efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer. Eleven resonerar <strong>utförligt och nyanserat</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön.</p> <p>Eleven planerar<strong> självständigt </strong>vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter. Eleven genomför <strong>med mycket god säkerhet </strong>vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade och nyanserade </strong>förslag för att optimera driften samt genomför <strong>självständigt</strong> laborationer och simulatorövningar. I arbetet samverkar och kommunicerar eleven <strong>med mycket god säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven genomför <strong>med mycket god säkerhet</strong> provtagningar och tolkar resultatet. Dessutom utför eleven<strong> självständigt</strong> vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med mycket god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med mycket god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med mycket god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.129Z"
+}

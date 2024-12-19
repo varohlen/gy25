@@ -1,0 +1,78 @@
+{
+  "code": "SCES",
+  "name": "Sceniskt karaktärsarbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:209",
+  "nameHeading": "<h2>Sceniskt karaktärsarbete</h2>",
+  "description": "<p>Sceniskt karaktärsarbete handlar om processer inför mötet mellan aktörer och publik. Ämnet sceniskt karaktärsarbete behandlar olika sätt att skapa en scenisk karaktär. Med hjälp av begrepp, teorier och metoder från olika skådespelartraditioner skapas förståelse av karaktärsarbetets funktion i en konstnärlig process.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sceniskt karaktärsarbete ska syfta till att eleverna utvecklar kunskaper om och färdigheter i att skapa sceniska karaktärer. Centralt i all teater är gestaltning och kommunikation. Genom undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att kommunicera med teaterns olika uttrycksmedel och gestalta sceniska karaktärer med kropp och röst. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur teaterns tre hörnpelare berättelsen, berättaren och rummet samverkar.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i teaterämnen aktivt bidra till ett rikt kulturliv i samhället. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av teatern som kollektiv konstart. Genom undervisningen ska eleverna därför ges möjlighet att utveckla ansvarskänsla, initiativförmåga och lyhördhet. Undervisningen ska också betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <p>Teatern som konstform undersöker, ställer frågor och berättar om vad det är att vara människa i olika kontexter. Därför ska undervisningen stimulera elevernas nyfikenhet på människans beteenden, drivkrafter och livsvillkor. Undervisningen ska utgå från elevernas kreativitet och stimulera konstnärligt skapande och berättande. I undervisningen ska eleverna ges möjlighet att med användning av områdets begrepp diskutera teaterns roll i samhället, såsom dess möjlighet att beröra och påverka människor. Genom det gestaltande arbetet ska eleverna enskilt och tillsammans med andra ges möjlighet att reflektera över det egna skapandet.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och ge eleverna möjlighet att uppleva, analysera och tolka sceniska gestaltningar, med fokus på sceniskt karaktärsarbete.</p> <h5><em>Undervisningen i ämnet sceniskt karaktärsarbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att använda sin kropp och röst i sceniskt karaktärsarbete.</li> <li>Förmåga att samarbeta i grupp och samspela i gestaltning.</li> <li>Förmåga att kommunicera med en publik med hjälp av sceniska karaktärer.</li> <li>Kunskaper om den sceniska berättelsens uppbyggnad.</li> <li>Förmåga att analysera och tolka sceniska gestaltningar med fokus på karaktärer och med användning av olika begrepp från området.</li> <li>Förmåga att reflektera över det egna skapandet.</li> </ul><h3>Nivåer i ämnet sceniskt karaktärsarbete</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SCES1000X</h3>",
+      "code": "SCES1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sceniskt karaktärsarbete på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Metoder och teorier för att gestalta sceniska karaktärer med kropp och röst, till exempel utifrån improvisation eller dramatisk text.</li> <li>Samarbete i grupp.</li> <li>Den sceniska karaktären i samspel med andra sceniska karaktärer.</li> <li>Sceniska karaktärer i kommunikation med en publik, till exempel genom karaktärens handlingar, mask och kostym.</li> <li>Sceniska berättelser som bygger på improvisation eller dramatisk text.</li> <li>Analys och tolkning av sceniska karaktärer.</li> <li>Begrepp för analys av sceniska karaktärer, till exempel status, vilja och hinder.</li> <li>Reflektion över det egna skapandet av sceniska karaktärer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SCES2000X</h3>",
+      "code": "SCES2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sceniskt karaktärsarbete på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupat arbete med metoder och teorier för att gestalta sceniska karaktärer med utgångspunkt i dramatisk text.</li> <li>Samarbete i grupp med fokus på teatern som kollektiv konstart.</li> <li>Samspel i sceniska gestaltningar med fokus på karaktär, dynamik och berättande.</li> <li>Sceniska karaktärer i kommunikation med en publik, anpassat till spelstil.</li> <li>Den dramatiska textens form och innehåll samt hur den fungerar som inspiration och stimulans i det sceniska karaktärsarbetet.</li> <li>Analys och tolkning av sceniska gestaltningar med fokus på karaktärsarbete.</li> <li>Begrepp för analys av sceniska karaktärer, till exempel undertext, impuls och angelägenhetsgrad.</li> <li>Reflektion över det egna skapandet av sceniska karaktärer kopplat till metoder för karaktärsarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven gestaltar med <strong>godtagbart</strong> resultat <strong>enkla</strong> sceniska karaktärer med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>viss säkerhet</strong>.</p> <p>Eleven kommunicerar med <strong>viss säkerhet</strong> med publik genom gestaltning av sceniska karaktärer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur olika sceniska karaktärer bygger upp sceniska berättelser.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>översiktligt</strong> det egna skapandet av sceniska karaktärer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven gestaltar med <strong>gott</strong> resultat <strong>genomarbetade</strong> sceniska karaktärer med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>säkerhet</strong>.</p> <p>Eleven kommunicerar med <strong>säkerhet</strong> med publik genom gestaltning av sceniska karaktärer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur olika sceniska karaktärer bygger upp sceniska berättelser.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt</strong> det egna skapandet av sceniska karaktärer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven gestaltar med <strong>mycket gott</strong> resultat <strong>väl genomarbetade</strong> sceniska karaktärer med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>god säkerhet</strong>.</p> <p>Eleven kommunicerar med <strong>god säkerhet</strong> med publik genom gestaltning av sceniska karaktärer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur olika sceniska karaktärer bygger upp sceniska berättelser.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt och nyanserat</strong> det egna skapandet av sceniska karaktärer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.078Z"
+}

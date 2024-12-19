@@ -1,0 +1,77 @@
+{
+  "code": "NATO",
+  "name": "Nätverks- och kommunikationstjänster",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:553",
+  "nameHeading": "<h2>Nätverks- och kommunikationstjänster</h2>",
+  "description": "<p>Ämnet nätverks- och kommunikationstjänster behandlar teknik och komponenter inom nätverksuppbyggnad. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet nätverks- och kommunikationstjänster ska syfta till att eleverna utvecklar kunskaper om och färdigheter i hur olika typer av nätverk byggs, konfigureras och underhålls med hänsyn tagen till såväl säkerhet som ekonomisk, social och miljömässig hållbarhet. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om nätverks funktionssätt och primära beståndsdelar. Eleverna ska även ges möjlighet att utveckla kunskaper om nätverksarkitekturer och datakommunikation.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att hantera och konfigurera nätverkskomponenter utifrån givna krav eller fastslagna rutiner. Den ska också bidra till att eleverna utvecklar förmåga att förebygga, upptäcka, analysera och åtgärda problem, i mindre eller större organisationer.</p> <p>I undervisningen ska tänkbara möjligheter och risker med teknikens användning behandlas. Eleverna ska därför ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser samt vilka ekonomiska, miljö- och säkerhetsmässiga överväganden som kan uppstå i arbetet med nätverks- och kommunikationstjänster. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom nätverksteknik.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och innehålla verklighetsnära situationer.</p> <h5><em>Undervisningen i ämnet nätverks- och kommunikationstjänster ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika nätverksarkitekturer, protokoll och standarder inom datakommunikation.</li> <li>Kunskaper om hur krav på stabilitet och säkerhet kan tillgodoses i uppbyggnaden av nätverk.</li> <li>Förmåga att installera, konfigurera och underhålla olika typer av nätverk utifrån givna förutsättningar.</li> <li>Förmåga att förebygga, upptäcka och hantera problem i nätverk.</li> </ul><h3>Nivåer i ämnet nätverks- och kommunikationstjänster</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATO100TX</h3>",
+      "code": "NATO100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverks- och kommunikationstjänster på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Komponenter och system</em></p> <ul> <li>Användning och konfigurering av nättopologier och referensmodeller för kommunikation.</li> <li>Protokoll och adressering för dataöverföring i ett mindre nätverk.</li> <li>Några vanligt förekommande medier och deras egenskaper för överföring av data.</li> <li>Lokala nätverk samt uppbyggnads- och arbetssätt.</li> <li>Nätverksoperativsystem och plattformar med utgångspunkt i hur dessa kan integreras i mindre informationstekniska system.</li> <li>Någon molnbaserad lösning i egen driftmiljö.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Hantering av och användningsområden för någon hårdvara inom nätverksteknik.</li> <li>Felsökning i lokala nätverk och utrustningar samt förslag till lösning.</li> <li>Installation och konfigurering av någon komponent inom nätverksteknik utifrån enklare problem och säkerhetskrav.</li> </ul> <p><em>Krav</em></p> <ul> <li>Krav på informationstekniska system, däribland informationssäkerhet, skalbarhet, stabilitet och tillgänglighet. Hur dessa krav kan tillgodoses i mindre informationstekniska system.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATO200TX</h3>",
+      "code": "NATO200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverks- och kommunikationstjänster på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Komponenter och system</em></p> <ul> <li>Kommunikationsarkitekturer, nättopologier och referensmodeller för uppbyggnad av system för datakommunikation.</li> <li>Protokoll och adressering för dataöverföring i och mellan större nätverk.</li> <li>Medier och deras egenskaper för överföring av data i ett befintligt nätverk.</li> <li>Lokala och globala nätverk samt uppbyggnads- och arbetssätt.</li> <li>Nätverksoperativsystem och plattformar med hänsyn till hur dessa kan integreras i större informationstekniska system.</li> <li>Molnbaserade lösningar i egen driftmiljö samt hos externa leverantörer.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Hantering av och användningsområden för hårdvara inom nätverksteknik.</li> <li>Felsökning i lokala och globala nätverk och utrustningar samt förslag till lösning.</li> <li>Installation och konfigurering av olika komponenter inom nätverksteknik utifrån möjliga problem och säkerhetskrav.</li> </ul> <p><em>Krav</em></p> <ul> <li>Krav på informationstekniska system, däribland informationssäkerhet, prestanda, skalbarhet, stabilitet och tillgänglighet. Hur dessa krav kan tillgodoses i större informationstekniska system.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om nätverksarkitekturer, protokoll och standarder inom datakommunikation.</p> <p>Eleven resonerar <strong>övergripande</strong> om hur krav på stabilitet och säkerhet kan tillgodoses i uppbyggnaden av olika nätverk.</p> <p>Eleven installerar, konfigurerar och underhåller med <strong>säkerhet</strong> olika typer av nätverk utifrån givna förutsättningar.</p> <p>Eleven förebygger, upptäcker, analyserar och hanterar med <strong>säkerhet</strong> problem i nätverk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om nätverksarkitekturer, protokoll och standarder inom datakommunikation.</p> <p>Eleven resonerar <strong>utförligt</strong> om hur krav på stabilitet och säkerhet kan tillgodoses i uppbyggnaden av olika nätverk.</p> <p>Eleven installerar, konfigurerar och underhåller med <strong>god säkerhet</strong> olika typer av nätverk utifrån givna förutsättningar.</p> <p>Eleven förebygger, upptäcker, analyserar och hanterar med <strong>god säkerhet</strong> problem i nätverk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om nätverksarkitekturer, protokoll och standarder inom datakommunikation.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om hur krav på stabilitet och säkerhet kan tillgodoses i uppbyggnaden av olika nätverk.</p> <p>Eleven installerar, konfigurerar och underhåller med <strong>mycket god säkerhet</strong> olika typer av nätverk utifrån givna förutsättningar.</p> <p>Eleven förebygger, upptäcker, analyserar och hanterar med <strong>mycket god säkerhet</strong> problem i nätverk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.055Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "BILV",
+  "name": "Bild och visualisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:176",
+  "nameHeading": "<h2>Bild och visualisering</h2>",
+  "description": "<p>Genom bilder och visualiseringar skapas förutsättningar att omvandla idéer och visioner till framtidens produkter och tjänster. Därför är bilder och visualiseringar centrala inom produktutveckling och skapandeprocesser. Ämnet bild och visualisering behandlar visuella uttryck och samspelet mellan kreativitet, estetik och produktutveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bild och visualisering ska syfta till att eleverna utvecklar förmåga att utrycka idéer och visioner i olika projekt och inför framtida arbetsliv. Eleverna ska ges möjlighet att utveckla färdigheter i att visualisera sina idéer med hjälp av olika skiss- och visualiseringstekniker för två- och tredimensionella uttryck. På så vis ska eleverna ges möjlighet att utveckla förmåga att skapa ändamålsenliga skisser, modeller och material för projekt med olika syften.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur färg och form kommunicerar med betraktaren och om betydelsen av estetiska värden kopplat till formgivning och produktutveckling. Undervisningen ska belysa hur sociala maktstrukturer påverkar gestaltningen av bilder och hur bilder kan reproducera normer och strukturer.</p> <p>Det talade och skrivna språket är centralt i processen att kommunicera gestaltningsförslag. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att använda begrepp och ett ämnesspecifikt språk.</p> <p>Undervisningens betoning på visuellt skapande ska stimulera elevernas nyfikenhet och lust att utvecklas inom kreativa uttryckssätt och visualisering. Vidare ska undervisningen lämna utrymme för diskussion om och reflektion över bilders, färgers och formers kommunikativa egenskaper samt hur de kan tolkas av betraktaren. Undervisningen ska även innehålla etiska frågeställningar om vad som är ett klokt handlande inom bildproduktion. Eleverna ska ges möjlighet att arbeta praktiskt och i projekt, med och utan digitala verktyg.</p> <h5><em>Undervisningen i ämnet bild och visualisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om verktyg och tekniker för två- och tredimensionell gestaltning.</li> <li>Färdigheter i att gestalta och kommunicera idéer genom olika skiss- och visualiseringstekniker.</li> <li>Kunskaper om bilders, färgers och formers kommunikativa egenskaper.</li> <li>Förmåga att använda begrepp och ett ämnesspecifikt språk.</li> </ul><h3>Nivåer i ämnet bild och visualisering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BILV1000X</h3>",
+      "code": "BILV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bild och visualisering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Digitala verktyg för produktion av enkla digitala 3D-modeller.</li> <li>Manuella illustrationstekniker för fortsatt bearbetning med digitala verktyg.</li> <li>Olika färgsystem och användningsområden.</li> <li>Skisser som metod för visualisering i en designprocess, till exempel idé- och presentationsskiss.</li> <li>Visualiseringar med olika syften, till exempel inom produktutveckling, design eller arkitektur.</li> <li>Gestaltande bildarbete för två- och tredimensionell visualisering med digitala och traditionella metoder.</li> <li>Perspektivlära, proportioner och skuggteknik i syfte att gestalta och visualisera idéer.</li> <li>Bildens uttrycksmedel, till exempel linje, form, färg, ljus och skugga, och hur de hänger samman med det färdiga bilduttrycket.</li> <li>Bilders, färgers och formers kommunikativa egenskaper.</li> <li>Bildspråk kopplat till makt, normer och strukturer.</li> <li>Diskussion om och värdering av eget och andras arbete med bilder och visualiseringar.</li> <li>Användning av begrepp och ett ämnesspecifikt språk, både muntligt och skriftligt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BILV2000X</h3>",
+      "code": "BILV2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bild och visualisering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupad och specialiserad programvara som används för 3D-modellering inom ett valt område.</li> <li>Hårdvara för 3D-modellering, till exempel 3D-skrivare eller 3D-scanner.</li> <li>Färgsystem inom valt område.</li> <li>Skisser och modeller utifrån olika syften, däribland för planering, produktutveckling och marknadsföring.</li> <li>Gestaltande bildarbete för två- och tredimensionell visualisering, däribland för planering, produktutveckling och marknadsföring.</li> <li>Hur bilders, färgers och formers kommunikativa egenskaper används för att anpassa visualiseringar till olika syften och sammanhang.</li> <li>Kommunikation med hjälp av begrepp och ett ämnesspecifikt språk, både skriftligt och muntligt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om relevanta verktyg och tekniker för två- och tredimensionell gestaltning.</p> <p>Eleven gestaltar och kommunicerar idéer med <strong>godtagbart</strong> resultat och använder då med <strong>viss skicklighet</strong> skiss- och visualiseringstekniker.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om bilders, färgers och formers kommunikativa egenskaper.</p> <p>Eleven beskriver bilder och visualiseringar med <strong>viss</strong> användning av relevanta begrepp och ett ämnesspecifikt språk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om relevanta verktyg och tekniker för två- och tredimensionell gestaltning.</p> <p>Eleven gestaltar och kommunicerar idéer med <strong>gott</strong> resultat och använder då med <strong>skicklighet</strong> skiss- och visualiseringstekniker.</p> <p>Eleven visar <strong>goda</strong> kunskaper om bilders, färgers och formers kommunikativa egenskaper.</p> <p>Eleven beskriver bilder och visualiseringar med <strong>god</strong> användning av relevanta begrepp och ett ämnesspecifikt språk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om relevanta verktyg och tekniker för två- och tredimensionell gestaltning.</p> <p>Eleven gestaltar och kommunicerar idéer med <strong>mycket gott</strong> resultat och använder då med <strong>god skicklighet</strong> skiss- och visualiseringstekniker.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om bilders, färgers och formers kommunikativa egenskaper.</p> <p>Eleven beskriver bilder och visualiseringar med <strong>mycket god</strong> användning av relevanta begrepp och ett ämnesspecifikt språk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.973Z"
+}

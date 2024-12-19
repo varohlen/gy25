@@ -1,0 +1,64 @@
+{
+  "code": "VAXT",
+  "name": "Växthusteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:259",
+  "nameHeading": "<h2>Växthusteknik</h2>",
+  "description": "<p>Moderna växthus som används för yrkesmässig odling och plantskoleverksamhet är utrustade med avancerad teknik för styrning av klimat och övriga tillväxtfaktorer. Ämnet växthusteknik behandlar kontroll och styrning av växthus med hjälp av digital teknik och reglerutrustning. Dessutom behandlas kretsloppstänkande och övriga miljöaspekter i samband med odling och annan användning av växthus.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet växthusteknik ska syfta till att eleverna utvecklar kunskaper i växthusodling. Den ska leda till att eleverna utvecklar kunskaper om odlingsförutsättningar och produktionsprocesser samt förmåga att odla växter med utgångspunkt från tillväxtfaktorer och växternas miljökrav. Den ska också leda till att eleverna utvecklar kunskaper om olika växthuskonstruktioner och hur växthusets yta kan disponeras och användas för god kvalitet och lönsamhet. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att bedöma växternas utveckling och att styra växthusmiljön och tillväxtfaktorerna med hjälp av reglerteknik samt tekniska och digitala system. I undervisningen ska eleverna ges möjlighet att utveckla förståelse av hur biologi och teknik samverkar samt kunskaper om hur växthusodling kan bidra till att främja hållbar utveckling. Undervisningen ska också stimulera elevernas intresse för innovation och nya tekniska lösningar inom området. Eleverna ska vidare ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet inom området.</p> <p>Genom praktiskt arbete, fältstudier och ett undersökande arbetssätt ska eleverna ges möjlighet att studera växters utveckling samt utveckla förmåga att använda, sköta och underhålla växthusbyggnader och teknisk utrustning på ett säkert och ergonomiskt sätt.</p> <h5><em>Undervisningen i ämnet växthusteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om odlingsförutsättningar och produktionsprocesser samt hur olika växters miljökrav kan tillgodoses.</li> <li>Kunskaper om växthuskonstruktioner och hur växthusets yta kan disponeras och användas.</li> <li>Förmåga att bedöma växters utveckling samt att styra tillväxtfaktorer i växthus med hjälp av styr- och reglerteknik.</li> <li>Kunskaper om miljö- och kretsloppstänkande i samband med växthusodling.</li> <li>Förmåga att sköta och underhålla växthusbyggnader och teknisk utrustning på ett ergonomiskt och säkert sätt.</li> </ul><h3>Nivåer i ämnet växthusteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet trädgårdsodling.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VAXT1000X</h3>",
+      "code": "VAXT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet växthusteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Produktionsprocesser för växthusodlade produkter. Odlingssystem, tillväxtfaser och tillväxtreglering.</li> <li>Uppvärmning och värmesystem. Energikällor, verkningsgrad samt ekonomiska och miljömässiga aspekter.</li> <li>Vattenkällor och vattenbehandling samt olika bevattningssystem.</li> <li>Ventilation, avfuktning och koldioxidtillförsel.</li> <li>Assimilationsbelysning och ljuskällor.</li> <li>Olika växthuskonstruktioner och material samt växthusets placering och disponering av ytor.</li> <li>Transporter och logistik, till exempel arbetsflöden, arbetsvagnar och rullbanor.</li> <li>Bedömning av växters utveckling och beslut om odlingsåtgärder.</li> <li>Användning av digital teknik och reglerutrustning för klimatreglering, belysning, koldioxidtillförsel, bevattning, växtnäringstillförsel och recirkulation.</li> <li>Vattenkvalitet, kretslopp och miljöaspekter i samband med odling i växthus.</li> <li>Skötsel och underhåll av växthus och teknisk utrusning.</li> <li>Främjande av god arbetsmiljö, däribland avseende buller, temperatur, hårda golv och tunga lyft. Säkerhetsföreskrifter inom området.</li> <li>Riskbedömningar samt förebyggande säkerhetsåtgärder och ergonomi.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för produktionsprocesser och odlingssystem inom växthusodling samt beskriver på ett <strong>godtagbart</strong> sätt hur växtmiljön kan regleras.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för olika växthuskonstruktioner och hur växthusets yta kan disponeras och användas.</p> <p>Eleven gör <strong>enkla</strong> bedömningar av växters utveckling och tillväxt och använder med <strong>viss säkerhet</strong> styr- och reglerteknik för att reglera klimatet och tillväxtfaktorerna.</p> <p>Eleven gör <strong>enkla</strong> reflektioner över resursanvändning i samband med växthusodling och föreslår med <strong>viss säkerhet</strong> åtgärder som främjar en miljömässigt hållbar utveckling.</p> <p>Eleven sköter och underhåller med <strong>viss säkerhet</strong> växthus och teknisk utrustning på ett ergonomiskt sätt. I arbetet gör eleven <strong>enkla</strong> riskbedömningar och vidtar lämpliga säkerhetsåtgärder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för produktionsprocesser och odlingssystem inom växthusodling samt beskriver på ett <strong>utvecklat</strong> sätt hur växtmiljön kan regleras.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för olika växthuskonstruktioner och hur växthusets yta kan disponeras och användas.</p> <p>Eleven gör <strong>välgrundade</strong> bedömningar av växters utveckling och tillväxt och använder med <strong>säkerhet</strong> styr- och reglerteknik för att reglera klimatet och tillväxtfaktorerna.</p> <p>Eleven gör <strong>välgrundade</strong> reflektioner över resursanvändning i samband med växthusodling och föreslår med <strong>säkerhet</strong> åtgärder som främjar en miljömässigt hållbar utveckling.</p> <p>Eleven sköter och underhåller med <strong>säkerhet</strong> växthus och teknisk utrustning på ett ergonomiskt sätt. I arbetet gör eleven <strong>välgrundade</strong> riskbedömningar och vidtar lämpliga säkerhetsåtgärder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för produktionsprocesser och odlingssystem inom växthusodling samt beskriver på ett <strong>välutvecklat</strong> sätt hur växtmiljön kan regleras.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för olika växthuskonstruktioner och hur växthusets yta kan disponeras och användas.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av växters utveckling och tillväxt och använder med <strong>god säkerhet</strong> styr- och reglerteknik för att reglera klimatet och tillväxtfaktorerna.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> reflektioner över resursanvändning i samband med växthusodling och föreslår med <strong>god säkerhet</strong> åtgärder som främjar en miljömässigt hållbar utveckling.</p> <p>Eleven sköter och underhåller med <strong>god säkerhet</strong> växthus och teknisk utrustning på ett ergonomiskt sätt. I arbetet gör eleven <strong>välgrundade och nyanserade</strong> riskbedömningar och vidtar lämpliga säkerhetsåtgärder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.100Z"
+}

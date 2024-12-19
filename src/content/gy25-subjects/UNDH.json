@@ -1,0 +1,92 @@
+{
+  "code": "UNDH",
+  "name": "Underhåll – elteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:239",
+  "nameHeading": "<h2>Underhåll – elteknik</h2>",
+  "description": "<p>Det industrialiserade samhället bygger på tekniska system med hög driftsäkerhet, något som förutsätter ett modernt underhåll. Ett fungerande underhåll förlänger systemens livslängd, minskar energianvändningen och har stor betydelse för att förhindra driftavbrott och minimera resursförbrukning. Ämnet underhåll – elteknik behandlar uppbyggnad, funktion, installation och underhåll av elanläggningar och elektrisk utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet underhåll – elteknik ska syfta till att eleverna utvecklar förmåga att utföra installationer och underhåll inom området elteknik. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om uppbyggnad, funktion och underhåll av elanläggningar och elektrisk utrustning. Elsäkerhet är en central del i ämnet, både vid planering av tekniska lösningar och val av arbetsmetoder. Därför ska undervisningen ge eleverna möjlighet att utveckla en helhetssyn på hur elsäkerhet omsätts i praktiken. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur underhållsarbete främjar en säkrare arbetsmiljö.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att identifiera, välja och hantera verktyg, instrument, utrustning och material. Undervisningen ska även leda till att eleverna utvecklar förmåga att planera, genomföra och dokumentera underhållsarbete inom elteknik med hänsyn till krav på arbetets utförande och resultat. Underhållsarbete inom elsystem och elanläggningar förutsätter ett systematiskt och säkert arbetssätt utifrån fastställda instruktioner och arbetsmetoder. Genom undervisningen ska eleverna därför även ges möjlighet att utveckla förmåga att tolka och använda teknisk dokumentation och säkerhetsföreskrifter samt att arbeta i enlighet med lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom och mellan olika yrkesgrupper. Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom underhållsteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet underhåll – elteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad och funktion av elanläggningar och elektrisk utrustning.</li> <li>Förmåga att hantera verktyg, instrument, utrustning och material.</li> <li>Förmåga att planera och utföra installationer, skötsel och underhåll inom elteknik.</li> <li>Förmåga att tolka och använda teknisk dokumentation.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att kommunicera och samverka med andra.</li> </ul><h3>Nivåer i ämnet underhåll – elteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: UNDH1000X</h3>",
+      "code": "UNDH1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – elteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>El- och automationsteknik</em></p> <ul> <li>Ellära och elteknik, däribland olika kretsar för likström, enfas och trefas växelström.</li> <li>Metoder för elektriska beräkningar och mätningar. Samband för både lik- och växelström.</li> <li>Olika elsystem, elmaskiner och utrustning, till exempel elmotorer, generatorer, transformatorer, strömriktare, elkopplare, anslutningsdon, brytare och skydd.</li> <li>Elmotorer och tillhörande kopplingar, startutrustning och skydd, till exempel installation av överlastskydd, spänningsskydd samt skydd från obehörig igångsättning.</li> <li>Underhållets betydelse för att minimera miljöpåverkan.</li> </ul> <p><em>Installation och underhåll</em></p> <ul> <li>Elarbete med vanligt förekommande verktyg, instrument, utrustning och material, till exempel anslutning och losskoppling av laster, mätutrustning, skyddsapparater, reläer och kontaktorer.</li> <li>Installation, skötsel och underhåll inom elteknik, däribland elsäkerhet vid arbete, felsökning, felavhjälpning och funktionsprovning med hjälp av mätningar och teknisk dokumentation.</li> <li>Planering och dokumentation av eget arbete.</li> <li>Tolkning och användning av teknisk dokumentation inom elteknik, till exempel instruktioner, ritningar, scheman, tabeller, standarder samt system-, komponent- och funktionsbeskrivningar.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete utifrån elsäkerhet och system för säkerhet i maskinutrustningar med säkerhetsrelä, nödstopp, ridåer, lås samt krav på CE-märkning, kapslings-, isolations- och ex-klass.</li> <li>Arbete i enlighet med lagar och andra bestämmelser som gäller för drift, skötsel och underhåll av olika typer av elanläggningar samt elektrisk utrustning, däribland elsäkerhetsanvisningar för arbete med, nära och utan spänning.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Kommunikation och samverkan inom underhållsorganisationen för planering av underhållsarbeten.</li> <li>Användning av fackspråk inom yrket för att kommunicera om arbetsprocesser och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: UNDH2000X</h3>",
+      "code": "UNDH2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – elteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>El- och automationsteknik</em></p> <ul> <li>Elektriska och mekaniska beräkningar, mätningar och samband, till exempel gällande kontinuitet, isolation, fasföljd, reaktiv effekt, impedans, varvtal och position.</li> <li>Uppbyggnad och funktion av mekatroniska system, till exempel för tillämpningar inom belysning, värme, kyla, ventilation, transport eller övervakning.</li> <li>Logiska grundfunktioner för användning inom el- och automationsteknik.</li> </ul> <p><em>Installation och underhåll</em></p> <ul> <li>Elektriskt och mekaniskt arbete med verktyg, instrument, utrustning och material, däribland installation och underhåll med givare, styrenheter, ställdon och pådragsdon.</li> <li>Grundläggande styrning med servon samt frekvens och spänning för motorer. Styrning med servosystem och stegmotor. Programmering och driftsättning av styrsystem med mjukstartare och frekvensomriktare för motordrift.</li> <li>Installation, skötsel, underhåll och funktionsprovning, däribland av något mekatroniskt system. Felsökning och reparation av elektriska och mekaniska fel med hjälp av mätningar och teknisk dokumentation.</li> <li>Planering och dokumentation av eget arbete.</li> <li>Tolkning och användning av teknisk dokumentation samt informationsteknik som stöd vid installation och underhåll av mekatronisk utrustning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med lagar och andra bestämmelser om person-, el- och maskinsäkerhet samt om arbetsmiljö. Tolkning av föreskrifter, till exempel standarder för elsäkerhetsanvisningar samt säker av- och återställning.</li> <li>Arbete i enlighet med lagar och andra bestämmelser som gäller installation, drift, skötsel och underhåll av elanläggningar och elektrisk utrustning, till exempel gällande starkströmsanläggningar, elinstallationsregler och metodisk felsökning.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Kommunikation och samverkan inom och mellan olika yrkesgrupper för planering av underhållsarbete.</li> <li>Fackspråk inom yrket för att kommunicera, utvärdera och analysera arbetsprocesser och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: UNDH3000X</h3>",
+      "code": "UNDH3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – elteknik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>El- och automationsteknik</em></p> <ul> <li>Elektriska och mekaniska beräkningar, mätningar, samband och simuleringar, till exempel gällande faskompensering, övertoner, vinkelfrekvens och moment.</li> <li>Uppbyggnad och funktion av komplexa mekatroniska system, till exempel för tillämpningar inom industriella servosystem eller robotteknik.</li> <li>Ritningar och scheman med fokus på el-, krets- och logikscheman.</li> <li>PLC-teknik.</li> </ul> <p><em>Installation och underhåll</em></p> <ul> <li>Uppbyggnad och programhantering samt installation, intrimning och driftsättning av utrustning med användning av fältbussar.</li> <li>Förebyggande och avhjälpande underhåll i system med sammansatta mekatroniska utrustningar, däribland avställning, återställning och provning av system.</li> <li>Installation, skötsel, felsökning, underhåll och funktionsprovning, däribland av något mekatroniskt system med återkoppling av signaler från olika typer av enheter i rörelse, till exempel inom robotceller eller elmaskiner och drivsystem.</li> <li>Planering och dokumentation av eget arbete.</li> <li>Tolkning och användning av teknisk dokumentation samt informationsteknik som stöd vid installation och underhåll av sammansatta mekatroniska system.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med lagar och andra bestämmelser inom området, däribland anläggningsspecifika föreskrifter och standarder inom person-, el- och maskinsäkerhet samt arbetsmiljö.</li> <li>Arbete i enlighet med lagar och andra bestämmelser som gäller installation, drift, skötsel och underhåll av olika typer av anläggningar samt elektrisk utrustning med fokus på elsäkerhetsarbete och ansvar i komplexa system.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Kommunikation och samverkan inom och mellan olika yrkesgrupper för planering av underhållsarbete.</li> <li>Fackspråk inom yrket för att utvärdera och analysera arbetsprocesser och resultat samt för att resonera om förbättringar i arbetsprocessen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt uppbyggnad och funktion av elanläggningar och elektrisk utrustning.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>viss säkerhet</strong>. Dessutom utför eleven <strong>enkla</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför med <strong>viss</strong> skicklighet elarbeten inom installation, skötsel och underhåll.</p> <p>Eleven använder teknisk dokumentation med <strong>viss säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>i huvudsak fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt uppbyggnad och funktion av elanläggningar och elektrisk utrustning.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>säkerhet</strong>. Dessutom utför eleven <strong>relativt avancerade</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför med <strong>god</strong> skicklighet elarbeten inom installation, skötsel och underhåll.</p> <p>Eleven använder teknisk dokumentation med <strong>säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt uppbyggnad och funktion av elanläggningar och elektrisk utrustning.</p> <p>Eleven hanterar verktyg, instrument, utrustning och material med <strong>god säkerhet</strong>. Dessutom utför eleven <strong>avancerade</strong> beräkningar och mätningar.</p> <p>Eleven planerar och utför med <strong>mycket god</strong> skicklighet elarbeten inom installation, skötsel och underhåll.</p> <p>Eleven använder teknisk dokumentation med <strong>god säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar på ett <strong>väl fungerande</strong> sätt om arbetsprocessen och samverkar med andra.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.096Z"
+}

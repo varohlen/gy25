@@ -1,0 +1,78 @@
+{
+  "code": "INDS",
+  "name": "Industrirörteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:7",
+  "nameHeading": "<h2>Industrirörteknik</h2>",
+  "description": "<p>Ämnet industrirörteknik behandlar uppbyggnad och funktion av processrörsystem. Området industrirörmontage hanterar en bredd av verksamheter med system och anläggningar där olika medier, tryck och material ska hanteras. Korrekt installation av processrörsystem samt deras optimala funktion är väsentligt för säkerhet, effektiv energihushållning och hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industrirörteknik ska syfta till att eleverna utvecklar kunskaper om processrörsystem inom industrin samt förmåga att installera dessa system i enlighet med fastställda krav på hållfasthet och funktion. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om installationer med högt ställda säkerhetskrav samt kunskaper om olika typer av material och hur dessa förändras, till exempel vid värmepåverkan. Genom undervisningen ska eleverna ges möjlighet att utveckla arbetssätt som främjar hållbar utveckling. Produkt-, teknik- och processutveckling inom verksamhetsområdena ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda ritningar med tillhörande handlingar samt utveckla kunskaper om gällande föreskrifter och standarder. Undervisningen ska även leda till att eleverna utvecklar förmåga att välja och hantera material, verktyg och maskiner samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom yrkesområdet, samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i yrkessammanhang. Undervisningen ska även leda till att eleverna utvecklar förmåga att utvärdera, dokumentera och kvalitetssäkra utförda arbeten samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Undervisningen ska bedrivas med metoder och utrustning som är tidsenliga. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet industrirörteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om processrörsystems uppbyggnad och funktion samt om lagar och andra bestämmelser som reglerar verksamhetsområdet.</li> <li>Förmåga att utföra industrirörmontage, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material samt välja och hantera verktyg, maskiner och annan utrustning.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet industrirörteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDS1000X</h3>",
+      "code": "INDS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industrirörteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad, funktion och miljökrav samt hållfasthet för såväl tryck som temperatur.</li> <li>Medier i rörsystem och deras påverkan på konstruktionen.</li> <li>Materiallära för stål med olika legeringar och tillsatsmaterial för svetsförband.</li> <li>Metoder för sammanfogning enligt standarder och myndighetskrav.</li> <li>Lagar och andra bestämmelser inom området, däribland om arbetsmiljö och säkerhet.</li> <li>Tolkning av isometriska ritningar.</li> <li>Rita och konstruera isometriska ritningar inför prefabricering.</li> <li>Planering och organisering av arbetsplatsen och arbetsuppgiften i enlighet med perspektiv på ekonomisk och miljömässig hållbarhet.</li> <li>Måttsättning och beräkning av bygglängder.</li> <li>Genomförande av rörarbete, däribland tillkapning, skärning, sågning och fogberedning, till exempel av stutsförband till rör och behållare.</li> <li>Tillverkning och montage av konstruktioner för sekundärsmide för upphängningsanordningar vid rörmontage i apparatutrymmen och rörgator.</li> <li>Prefabricering och montering av enklare rörsystem.</li> <li>Kontroll och täthetsprovning samt dokumentation av utfört arbete.</li> <li>Bedömning, utvärdering och dokumentation av utförda åtgärder utifrån säkerhet, hållfasthet, fastställda kvalitetskrav och estetik.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Arbete i enlighet med föreskrifter för arbetsmiljö, hälsa och säkerhet. Säkra arbetssätt i förhållande till andra människor, till exempel kunder och tredje person.</li> <li>Val, användning och underhåll av verktyg, maskiner och utrustning utifrån material och montagesituation.</li> <li>Användning av skärutrustning.</li> <li>Hantering av komponenter och apparater.</li> <li>Materialhantering vid leverans och förvaring vid arbetsplatser.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med facktermer i relation till arbetsuppgiften.</li> <li>Situationsanpassat bemötande och agerande utifrån faktorer som social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDS2000X</h3>",
+      "code": "INDS2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industrirörteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad, funktion och miljökrav samt hållfasthet för såväl tryck som temperatur.</li> <li>Materiallära för stål och dess legeringar samt egenskaper för inre och yttre påverkan av hållfasthet i material för rör, rörstöd och i konstruktioner för upphängningar.</li> <li>Säkerhet vid demontering av rörledningar med olika rörmedier utifrån säkerhetsaspekter, till exempel explosionsrisk, brandrisk och personsäkerhet.</li> <li>Lagar och andra bestämmelser inom området, däribland om arbetsmiljö och säkerhet.</li> <li>Tolkning av plan- och sektionsritningar för rörmontage.</li> <li>Montageplanering i enlighet med montageordning på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Måttsättning och beräkning av bygglängder samt tillverkning av passbitar och rörförgreningar.</li> <li>Montering av ventiler, pumpar och övriga apparater med förekommande anslutningsdetaljer, till exempel gängförband, flänsförband och svetsförband.</li> <li>Montering av rörstyrningar, stödfixeringar och glidstöd.</li> <li>Prefabricering och montering av rörsystem med flänsar, påstick, stutsförband och böjar samt inpassning till apparater.</li> <li>Demontering av rörledningar.</li> <li>Svetsning i svåråtkomliga lägen.</li> <li>Kontroll och täthetsprovning samt dokumentation av utfört arbete.</li> <li>Reparationer på system och installationer.</li> <li>Bedömning av utförandet utifrån säkerhet, hållfasthet och estetik.</li> <li>Utvärdering och dokumentation av utförda åtgärder utifrån fastställda kvalitetskrav och estetik.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Arbete i enlighet med föreskrifter för arbetsmiljö, hälsa och säkerhet. Säkra arbetssätt i förhållande till andra människor, till exempel kunder och tredje person.</li> <li>Val, användning och underhåll av verktyg, maskiner och utrustning utifrån olika material och montagesituationer.</li> <li>Hantering av lyftanordningar utifrån de krav som ställs vid lyft.</li> <li>Hantering av medier i rörsystem under demontering.</li> <li>Kvalitetssäkring vid hantering av material vid leverans och förvaring vid arbetsplatser.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation på fackspråk i relation till arbetet.</li> <li>Situationsanpassat bemötande av kollegor, beställare och andra yrkesgrupper.</li> <li>Agerande utifrån faktorer som social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos olika processrörsystem. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven utför industrirörmontage med <strong>godtagbart</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material med <strong>viss säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag verktyg, maskiner och annan utrustning.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos olika processrörsystem. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven utför industrirörmontage med <strong>gott</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material med <strong>säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag verktyg, maskiner och annan utrustning.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos olika processrörsystem. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven utför industrirörmontage med <strong>mycket gott</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material med <strong>god säkerhet</strong> utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg, maskiner och annan utrustning.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

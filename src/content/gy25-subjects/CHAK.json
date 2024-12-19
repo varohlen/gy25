@@ -1,0 +1,106 @@
+{
+  "code": "CHAK",
+  "name": "Charkuteri",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:188",
+  "nameHeading": "<h2>Charkuteri</h2>",
+  "description": "<p>Ämnet charkuteri behandlar olika hantverksmässiga metoder för att framställa charkuterivaror. Ämnet behandlar också olika råvaror och hur de används inom yrkesområdet samt betydelsen av produktkvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid framställning av charkuterivaror.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet charkuteri ska syfta till att eleverna utvecklar förmåga att yrkesmässigt tillverka charkuteriprodukter med både moderna och traditionella hantverksmetoder. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att följa och utveckla recept samt att hantera råvaror och slutprodukter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att planera och organisera charkuteriarbete samt att arbeta ergonomiskt.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta utifrån branschspecifika aspekter av hygien, arbetsmiljö och säkerhet i enlighet med lagar och andra bestämmelser som gäller för yrkesområdet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar problemlösnings- och initiativförmåga. I undervisningen ska eleverna ges möjlighet att utföra arbetsuppgifter både individuellt och i samarbete med andra. De ska också ges rikliga möjligheter att diskutera och reflektera över hållbarhet och etiska frågor samt andra aspekter av yrkesmässigt charkuteriarbete.</p> <h5><em>Undervisningen i ämnet charkuteri ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och organisera charkuteriarbete på ett resurseffektivt sätt.</li> <li>Förmåga att utföra charkuteriarbete.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet charkuteri</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CHAK1000X</h3>",
+      "code": "CHAK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet charkuteri på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanliga råvaror och tillsatser inom charkuteribranschen samt deras kvalitet och egenskaper.</li> <li>Köttsortering.</li> <li>Planering och organisering av arbetet, däribland att ta fram och plocka undan verktyg och arbetsmaterial enligt instruktion.</li> <li>Råvarukalkyler för ekonomiska beräkningar.</li> <li>Ekonomiska aspekter i arbetet, däribland hur svinn kan påverka lönsamheten.</li> <li>Receptberäkningar och beräkningar av näringsinnehåll.</li> <li>Förvaring och hantering av vanligt förekommande råvaror och produkter.</li> <li>Tillverkning av oblandade och blandade charkuterivaror. Uppvägning, beredning, formning, värmebehandling och kylning.</li> <li>Vård av utrustning och maskiner.</li> <li>Förpackningsmaterial samt paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och livsmedelslagen.</li> <li>Hållbarhets- och miljömärkningar.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Grundläggande fackspråk.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CHAK2000X</h3>",
+      "code": "CHAK2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet charkuteri på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika råvaror och tillsatser inom charkuteribranschen samt deras kvalitet och egenskaper.</li> <li>Köttsortering. Alternativa råvaror.</li> <li>Planering och organisering av arbetet. Val av råvaror och tillsatser. Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Ekonomiska kalkyler.</li> <li>Omvandling och skapande av recept. Receptberäkningar.</li> <li>Förvaring och hantering av råvaror och produkter.</li> <li>Tillverkning av hela, tumlade och pressade oblandade och blandade charkuterivaror.</li> <li>Tillverkning av emulsionsprodukter.</li> <li>Olika saltningsmetoder inom charkuteribranschen.</li> <li>Formning i formar samt i konst- och naturtarm.</li> <li>Rök- och värmebehandlingsmetoder och hur de påverkar produktens hållbarhet, smak, färg och konsistens.</li> <li>Vård av utrustning och maskiner.</li> <li>Förpackningsmaterial samt paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området, däribland livsmedelslagen.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CHAK3000X</h3>",
+      "code": "CHAK3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet charkuteri på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisering av arbetet. Val av arbetssätt, råvaror och tillsatser.</li> <li>Kvalitet och effektivitet samt etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Omvandling och skapande av recept utifrån olika krav, till exempel smak, allergianpassning och hållbarhet. Receptberäkningar.</li> <li>Förvaring och hantering av råvaror och produkter.</li> <li>Tillverkning av blandade och oblandade charkuterivaror utifrån krav på effektivitet och ekonomi. Olika specialiteter, till exempel lokala eller internationella.</li> <li>Olika saltningsmetoder inom charkuteribranschen.</li> <li>Formning i formar samt i konst- och naturtarm.</li> <li>Rök- och värmebehandlingsmetoder och hur de påverkar produktens hållbarhet, smak, färg och konsistens.</li> <li>Vård av utrustning och maskiner.</li> <li>Förpackningsmaterial samt paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CHAK4000X</h3>",
+      "code": "CHAK4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet charkuteri på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisering av arbetet. Yrkesmässiga val av arbetssätt, råvaror och tillsatser utifrån krav på ekonomi, effektivitet och hållbarhet.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Ekonomiska kalkyler.</li> <li>Optimering av recept utifrån ekonomiska krav. Receptberäkningar.</li> <li>Förvaring och hantering av råvaror och produkter.</li> <li>Yrkesmässig tillverkning av blandade och oblandade charkuterivaror. Olika specialiteter, till exempel lokala eller internationella.</li> <li>Yrkesmässiga behandlingsmetoder.</li> <li>Vård av utrustning och maskiner.</li> <li>Förpackningsmaterial samt paketering och märkning av produkter.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Ergonomiska och säkra arbetssätt.</li> <li>Hygienrutiner och egenkontroll.</li> <li>Samarbete och kommunikation i arbetet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar charkuteriarbete på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven tillverkar med <strong>visst</strong> handlag olika charkuterivaror. Eleven hanterar, förvarar och förpackar olika charkuterivaror på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar charkuteriarbete på ett <strong>gott</strong> sätt.</p> <p>Eleven tillverkar med <strong>gott</strong> handlag olika charkuterivaror. Eleven hanterar, förvarar och förpackar olika charkuterivaror på ett <strong>gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar charkuteriarbete på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven tillverkar med <strong>mycket gott</strong> handlag olika charkuterivaror. Eleven hanterar, förvarar och förpackar olika charkuterivaror på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.980Z"
+}

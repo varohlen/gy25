@@ -1,0 +1,67 @@
+{
+  "code": "HYG",
+  "name": "Hygienkunskap",
+  "englishName": "Hygiene",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:66",
+  "skolfsAndring": "2022:151",
+  "nameHeading": "<h2>Hygienkunskap</h2>",
+  "description": "<p>Ämnet hygienkunskap behandlar livsmedelslagstiftning och andra hygienbestämmelser. Det tar även upp hur livsmedelshygien påverkar livsmedlens hållbarhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hygienkunskap ska syfta till att eleverna utvecklar förmåga att säkert hantera råvaror och färdiga produkter. Eleverna ska ges möjlighet att utveckla kunskaper om de hygienbestämmelser som gäller för arbete i hela livsmedelskedjan där hanteringen och produktionsmetoderna påverkar livsmedlens hygieniska kvalitet. Undervisningen ska bidra till att eleverna utvecklar kunskaper om mikroorganismers förekomst, livsbetingelser och betydelse i samband med livsmedelshantering. Eleverna ska ges möjlighet att utveckla förmåga att genomföra provtagning på råvaror och färdiga produkter samt genomföra egenkontroll.</p><p>Undervisningen ska bidra till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen påverkar resultatet.</p><p>Genom undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om hygien.</p><h4>Undervisningen i ämnet hygienkunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om mikroorganismers betydelse i samband med livsmedelshantering.</li> <li>Kunskaper om livsmedelsburna smittor och förgiftningar.</li> <li>Kunskaper om den personliga hygienens betydelse och färdigheter i att hantera livsmedel på ett hygieniskt sätt.</li> <li>Förmåga att genomföra provtagningar på råvaror och färdiga livsmedelsprodukter.</li> <li>Förmåga att rengöra utrustning och lokaler så att livsmedelshanteringen blir säker.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Färdigheter i att följa system för kontroll av livsmedelshygien samt att utföra egenkontroll.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Hygien, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: HYGHYG0</h3>",
+      "code": "HYGHYG0",
+      "nameHeading": "<h2>Hygien, 100 poäng</h2>",
+      "name": "Hygien",
+      "englishName": "Hygiene",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen hygien omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Mikroorganismers förekomst, egenskaper, livsbetingelser och betydelse.</li> <li>Smittvägar, livsmedelsburna infektioner och matförgiftningar.</li> <li>God hygienpraxis i samband med livsmedelshantering.</li> <li>Metoder för hantering av råvaror samt för tillagning, varmhållning, nedkylning, uppvärmning och förvaring av livsmedel.</li> <li>Provtagning och andra kontroller.</li> <li>Rengöring av utrustning och lokaler.</li> <li>Lagar och andra bestämmelser inom livsmedelsområdet.</li> <li>Kontrollprogram för livsmedelshygien.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar <strong>med viss säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>översiktligt</strong> deras betydelse i samband med livsmedelshantering. Dessutom beskriver eleven <strong>översiktligt</strong> livsmedelsburna smittor och förgiftningar.</p><p>I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>översiktligt</strong> för risker i hanteringen och arbetet. Dessutom utför eleven <strong>i samråd </strong>med handledare provtagningar på råvaror och färdiga livsmedelsprodukter. Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering.</p><p>Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>i samråd </strong>med handledare egenkontroll. Eleven motiverar <strong>översiktligt</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar <strong>med viss säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>utförligt</strong> deras betydelse i samband med livsmedelshantering. Dessutom beskriver eleven <strong>utförligt</strong> livsmedelsburna smittor och förgiftningar. I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>utförligt</strong> för risker i hanteringen och arbetet. Dessutom utför eleven <strong>efter samråd </strong>med handledare provtagningar på råvaror och färdiga livsmedelsprodukter. Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering. Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>efter samråd </strong>med handledare egenkontroll. Eleven motiverar <strong>utförligt</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar <strong>med säkerhet</strong> förekomster av mikroorganismer samt beskriver <strong>utförligt och nyanserat</strong> deras betydelse i samband med livsmedelshantering. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> livsmedelsburna smittor och förgiftningar. I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör <strong>utförligt och nyanserat</strong> för risker i hanteringen och arbetet. Dessutom utför eleven <strong>efter samråd </strong>med handledare provtagningar på råvaror och färdiga livsmedelsprodukter. Efter genomfört arbete rengör eleven noggrant<strong> och metodiskt </strong>utrustning och lokaler enligt krav för säker livsmedelshantering. Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför <strong>efter samråd </strong>med handledare egenkontoll. Eleven motiverar <strong>utförligt och nyanserat</strong> sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.035Z"
+}

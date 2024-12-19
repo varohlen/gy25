@@ -1,0 +1,67 @@
+{
+  "code": "MÅT",
+  "name": "Måltids- och branschkunskap",
+  "englishName": "Catering and industry knowledge",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:71",
+  "skolfsAndring": "2022:226",
+  "nameHeading": "<h2>Måltids- och branschkunskap</h2>",
+  "description": "<p>Ämnet måltids- och branschkunskap ger en orientering om branschens verksamheter och hantverken inom dem. Det ger även möjlighet att prova på de olika hantverken. I ämnet behandlas grundläggande kunskaper i hygien och arbetsmiljö.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet måltids- och branschkunskap ska syfta till att eleverna utvecklar förståelse av förutsättningar för branschens olika verksamheter och de villkor som verksamheterna i branschen lever under. Den ska också ge eleverna möjlighet att utveckla förståelse av hur det är att arbeta i branschens olika yrken och hur dessa samverkar. Undervisningen ska bidra till att eleverna utvecklar kunskaper om måltiden som helhetsupplevelse och alla dess delar som mat, dryck, bröd, servering och service. Den ska också bidra till att eleverna utvecklar kunskaper om ansvarsfull alkoholservering och ge dem möjlighet att reflektera kring alkoholen och dess effekter.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hantverksmässiga arbetsuppgifter inom bageri, konditori, kök och matsal samt inom färskvaror och delikatesser i butik. Genom undervisningen ska eleverna också ges möjlighet att prova på att utföra vanligt förekommande arbetsuppgifter inom dessa områden.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hygien, ergonomi, arbetsmiljö- och säkerhetsfrågor samt om lagar och andra bestämmelser som gäller för respektive yrkesområde. Eleverna ska också ges möjlighet att reflektera över hur arbetsprocessen påverkar resultatet.</p><h4>Undervisningen i ämnet måltids- och branschkunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om de villkor som styr verksamheterna i branscherna.</li> <li>Färdigheter i att utföra hantverksmässiga arbetsuppgifter inom branschernas olika yrkesområden. </li> <li>Förmåga att arbeta på ett hygieniskt, ergonomiskt och säkert sätt.</li> <li>Kunskaper om lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Branschkunskap inom restaurang och livsmedel, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MÅTBRC0</h3>",
+      "code": "MÅTBRC0",
+      "nameHeading": "<h2>Branschkunskap inom restaurang och livsmedel, 100 poäng</h2>",
+      "name": "Branschkunskap inom restaurang och livsmedel",
+      "englishName": "Industry knowledge in restaurant and food",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen branschkunskap inom restaurang och livsmedel omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Orientering om de branscher som finns inom yrkesområdet samt villkoren för deras verksamheter, till exempel restauranger, bagerier, konditorier, charkuterier och butiker.</li> <li>Grundläggande arbetsuppgifter inom yrkesområdet, till exempel bakning, styckning, matlagning, servering, planering och inköp, med möjlig fördjupning inom något eller några områden.</li> <li>Metoder, material, maskiner och annan utrustning som används inom respektive yrkesområde.</li> <li>Måltiden som helhet, till exempel mat, dryck, bröd, charkuteriprodukter, servering och service.</li> <li>Orientering om alkoholens effekter och konsekvenser. Utskänkningstillstånd och servering av alkohol.</li> <li>Säkerhet samt fysisk och psykisk arbetsmiljö. Hur människor påverkas av sociala kontakter, inflytande och stress. Ergonomi, säkerhetsutrustning och riskfaktorer i arbetet. Rengöring av lokaler och utrustning samt personlig hygien.</li> <li>Lagar och andra bestämmelser som är tillämpliga inom respektive yrkesområde.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> de villkor som styr verksamheterna i branschen utifrån drift, organisation, planering och ekonomi.</p><p>Eleven utför <strong>med visst handlag</strong> enkel hantverksmässig matlagning, bakning, servering och uppläggning samt skapar <strong>i samråd </strong>med handledare enkla måltider och produkter. Dessutom kombinerar eleven <strong>i samråd </strong>med handledare mat och dryck samt redogör översiktligt för alkoholens effekter och konsekvenser och regler för alkoholservering. I arbetet använder eleven <strong>i samråd </strong>med handledare material, maskiner och annan utrustning som är lämplig för arbetsuppgiften. Dessutom arbetar eleven på ett hygieniskt, ergonomiskt och säkert sätt utifrån lagar och andra bestämmelser. När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> de villkor som styr verksamheterna i branschen utifrån drift, organisation, planering och ekonomi.</p><p>Eleven utför <strong>med gott handlag</strong> enkel hantverksmässig matlagning, bakning, servering och uppläggning samt skapar <strong>efter samråd </strong>med handledare enkla måltider och produkter. Dessutom kombinerar eleven <strong>efter</strong> <strong>samråd </strong>med handledare mat och dryck samt redogör översiktligt för alkoholens effekter och konsekvenser och regler för alkoholservering. I arbetet använder eleven <strong>efter samråd </strong>med handledare material, maskiner och annan utrustning som är lämplig för arbetsuppgiften. Dessutom arbetar eleven på ett hygieniskt, ergonomiskt och säkert sätt utifrån lagar och andra bestämmelser. När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> de villkor som styr verksamheterna i branschen utifrån drift, organisation, planering och ekonomi.</p><p>Eleven utför <strong>med mycket gott handlag</strong> enkel hantverksmässig matlagning, bakning, servering och uppläggning samt skapar <strong>efter samråd </strong>med handledare enkla måltider och produkter. Dessutom kombinerar eleven <strong>efter samråd </strong>med handledare mat och dryck samt redogör översiktligt för alkoholens effekter och konsekvenser och regler för alkoholservering. I arbetet använder eleven <strong>efter samråd med handledare</strong> material, maskiner och annan utrustning som är lämplig för arbetsuppgiften. Dessutom arbetar eleven på ett hygieniskt, ergonomiskt och säkert sätt utifrån lagar och andra bestämmelser. När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.099Z"
+}

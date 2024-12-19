@@ -1,0 +1,92 @@
+{
+  "code": "HAND",
+  "name": "Handel",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:256",
+  "nameHeading": "<h2>Handel</h2>",
+  "description": "<p>Handel finns i många olika branscher och former och är en länk mellan tillverkare och konsument. Handel bedrivs lokalt och globalt samt fysiskt och digitalt. Ämnet handel omfattar handels- och tjänstesektorns roll och funktioner samt försäljning, varudistribution, affärsutveckling, ledarskap och marknadsföring.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet handel ska syfta till att eleverna utvecklar kunskaper om handels- och tjänstesektorn samt om dess funktion och nytta i näringslivet och samhället. Eleverna ska ges möjlighet att utveckla kunskaper om handels- och tjänstesektorns historia och utveckling samt om olika yrkesroller. I undervisningen ska eleverna dessutom ges möjlighet att utveckla kunskaper om olika organisationsformer, affärsutveckling, ledarskap och entreprenörskap. Vidare ska undervisningen leda till att eleverna utvecklar förståelse av sambandet mellan utbud och efterfrågan samt av faktorer som påverkar affärsmöjligheter och lönsamhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att utföra beräkningar och göra riskbedömningar samt att arbeta på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska lägga en grund för elevernas förmåga att yrkesmässigt och lösningsfokuserat utföra arbetsuppgifter inom handels- och tjänstesektorn. På så sätt ska undervisningen stimulera elevernas kreativitet, innovationstänkande och lust att omsätta idéer i praktisk handling. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om frågor som rör handels- och tjänstesektorns roll och ansvar för hållbar utveckling.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att utföra arbetsuppgifter inom handels- och tjänstesektorn samt att utveckla en yrkesmässig attityd och en bransch- och målgruppsanpassad språkanvändning i mötet med kunder. Via kontakter med företag och organisationer ska eleverna ges möjlighet att utveckla förståelse av företagandets villkor. Eleverna ska även ges möjlighet att söka, värdera och använda informations- och kommunikationsteknik för affärsmässig verksamhet.</p> <h5><em>Undervisningen i ämnet handel ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om handels- och tjänstesektorn och dess utveckling samt om olika yrkesroller inom branschen.</li> <li>Kunskaper om affärsutveckling, organisationsformer, ledarskap och entreprenörskap.</li> <li>Förmåga att utföra arbetsuppgifter inom handels- och tjänstesektorn på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utföra ekonomiska beräkningar och göra riskbedömningar inom området.</li> </ul><h3>Nivåer i ämnet handel</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HAND1000X</h3>",
+      "code": "HAND1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet handel på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Handels- och tjänstesektorns utveckling, både historiskt och i nutid, samt hur konsumtionstrender har förändrats över tid.</li> <li>Centrala yrken och arbetsuppgifter inom handel och kundservice, däribland butikssäljare och företagssäljare.</li> <li>Begrepp inom handels- och tjänstesektorn samt inom produkt- och konsumentkunskap.</li> <li>Hållbarhetsfrågor inom handels- och tjänstesektorn, däribland produktmärkningar inom området.</li> <li>Varans väg från producent till konsument.</li> <li>Orientering om butiksetablering, affärsutveckling, omvärldsanalys och positionering samt metoder för att välja försäljningskanaler, segment och målgrupper.</li> <li>Handels- och tjänstesektorns funktion och nytta i samhället och näringslivet.</li> <li>Översikt över organisationsformer samt arbetsledning inom handels- och tjänstesektorn.</li> <li>Grundläggande teorier och begrepp om ledarskap, till exempel grupputveckling och konflikthantering.</li> <li>Olika arbetsuppgifter inom handel och kundservice, däribland butiksarbete.</li> <li>Arbetsmiljö och säkerhet inom handels- och tjänstesektorn.</li> <li>Första hjälpen med HLR (hjärt-lungräddning).</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Översiktligt om budget, ekonomiska beräkningar och riskbedömningar som är relevanta för affärsutveckling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HAND2000X</h3>",
+      "code": "HAND2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet handel på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Handels- och tjänstesektorns strukturomvandling och utveckling, däribland branschens digitala transformation.</li> <li>Olika yrken och arbetsuppgifter inom handels- och tjänstesektorn.</li> <li>Produkt- och branschkunskap inom handels- och tjänstesektorn.</li> <li>Hållbarhetsfrågor inom handels- och tjänstesektorn, däribland produktmärkningar inom området.</li> <li>Logistikens roll i varuflödet och i distributionskedjan, däribland producent, grossist, detaljist och konsument.</li> <li>Affärsutveckling och butiksetablering samt hur handel skapas digitalt och fysiskt samt entreprenörskapets betydelse.</li> <li>Organisationsformer och olika ledarroller inom handels- och tjänstesektorn.</li> <li>Ledarskap och grupputveckling, till exempel situationsanpassat ledarskap.</li> <li>Olika arbetsuppgifter inom digital och fysisk handel, till exempel butiksarbete, kundsupport, marknadsföring, varumottagning och varuhantering.</li> <li>Kännetecken för en god inre och yttre säkerhet inom handel, till exempel skyddsåtgärder och riskanalyser.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Metoder för arbete med butiksekonomi och kalkylering med fokus på omsättningshastighet, beställningspunkt, omräkningstal och riskbedömningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HAND3000X</h3>",
+      "code": "HAND3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet handel på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Hur konsumtionstrender påverkas av ekonomiska, kulturella, psykologiska och sociala faktorer både ur ett nutida och framtida perspektiv med särskilt fokus på handels- och tjänstesektorns digitala transformation.</li> <li>Fördjupning i produkt- och konsumentkunskap samt miljöfrågor och relevanta produktmärkningar inom handels- och tjänstesektorn.</li> <li>Distributionssystem, produkt- och konsumentkunskap samt logistikens roll i ett handelsföretag.</li> <li>Värdeskapande i distributionskedjan.</li> <li>Metoder för att utforma affärsidéer, affärsmål och affärsstrategier utifrån analys av marknad, målgrupp och kundbehov. Ett företags förutsättningar med hänsyn till hållbart företagande.</li> <li>Metoder för strukturerad kartläggning och analys av den omvärld ett företag verkar i samt hur ett företag kan påverkas av förändrade förutsättningar.</li> <li>Olika organisationsformer, till exempel funktions-, divisions-, matris-, nätverks- och projektorganisation samt hur dessa kan bidra till att nå uppsatta mål.</li> <li>Metoder för att utveckla självledarskap genom att formulera mål, planera och prioritera samt att hantera stress. Strategier för att skapa motivation och drivkraft hos sig själv och andra.</li> <li>Fördjupning om lagar och andra bestämmelser inom området, till exempel arbetsrätt och arbetsmiljö i olika delar av världen.</li> <li>Praktisk butiksdrift, däribland schemaläggning, varumottagning samt organisering av det dagliga arbetet i butik med stöd av tekniska hjälpmedel.</li> <li>Säkerhet och risker i handels- och tjänstesektorn. Förebyggande arbete för att skapa en god och säker arbetsmiljö. Ledares och anställdas roll i säkerhetsarbetet.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Metoder för affärsmässiga riskbedömningar utifrån ekonomiska, miljömässiga och etiska aspekter.</li> <li>Centrala nyckeltal för ett handelsföretag, däribland bruttomarginal, lageromsättningshastighet och likviditet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om handels- och tjänstesektorn samt dess utveckling och yrkesroller.</p> <p>Eleven redogör på ett <strong>översiktligt</strong> sätt för affärsutveckling, organisationsfrågor, ledarskap och entreprenörskap inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom handels- och tjänstesektorn med <strong>godtagbart</strong> resultat. Dessutom arbetar eleven på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>enkla</strong> ekonomiska beräkningar och gör riskbedömningar inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om handels- och tjänstesektorn samt dess utveckling och yrkesroller.</p> <p>Eleven redogör på ett <strong>utförligt</strong> sätt för affärsutveckling, organisationsfrågor, ledarskap och entreprenörskap inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom handels- och tjänstesektorn med <strong>gott</strong> resultat. Dessutom arbetar eleven på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>relativt komplexa</strong> ekonomiska beräkningar och gör riskbedömningar inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om handels- och tjänstesektorn samt dess utveckling och yrkesroller.</p> <p>Eleven redogör på ett <strong>utförligt och nyanserat</strong> sätt för affärsutveckling, organisationsfrågor, ledarskap och entreprenörskap inom handels- och tjänstesektorn.</p> <p>Eleven planerar, organiserar och utför arbetsuppgifter inom handels- och tjänstesektorn med <strong>mycket gott</strong> resultat. Dessutom arbetar eleven på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>komplexa</strong> ekonomiska beräkningar och gör riskbedömningar inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.013Z"
+}

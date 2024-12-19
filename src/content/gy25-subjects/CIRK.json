@@ -1,0 +1,92 @@
+{
+  "code": "CIRK",
+  "name": "Cirkus",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:190",
+  "nameHeading": "<h2>Cirkus</h2>",
+  "description": "<p>Cirkuskonsten innefattar olika discipliner som kommunicerar med varandra och som genom olika fysiska uttryck utforskar vad som kan åstadkommas med kroppen. Ämnet cirkus behandlar cirkusens olika discipliner samt cirkusartistens personliga utövande, arbetsmiljö och skadeförebyggande träning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cirkus ska syfta till att eleverna utvecklar kunskaper om cirkusen som konstart och dess olika genrer. Eleverna ska också ges möjlighet att utveckla förmåga att uttrycka sig inom en eller flera av cirkusens discipliner. Undervisningen ska leda till att eleverna utvecklar vana att arbeta i en scenisk produktion och möta publik. Dessutom ska eleverna ges möjlighet att utveckla förståelse av hur cirkusens uttryck och formspråk kan nyanseras och varieras utifrån olika konstnärliga idéer.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i cirkuskonsten aktivt bidra till ett rikt kulturliv i samhället. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta, interagera med andra och vara lyhörda inför olika sätt att förhålla sig till konstnärliga processer. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet. Eleverna ska också ges möjlighet att utveckla kunskaper om anatomi, träningsgrunder och förebyggande träning. I undervisningen ska eleverna dessutom ges möjlighet att bygga upp den fysiska beredskap som krävs för att undvika skador samt utveckla insikt i arbetsmiljöns betydelse inom området.</p> <p>Improvisation, utforskande och reflekterande arbetsmetoder är väsentliga i ämnet. Eleverna ska därför ges möjlighet att delta i arbete med, utforma och skapa egna cirkusnummer. Eleverna ska också ges möjlighet att delta i, driva, leda och utveckla konstnärliga projekt och olika former av sceniska presentationer. Undervisningen ska dessutom lämna utrymme för diskussion och reflektion över etiska frågor inom cirkus.</p> <h5><em>Undervisningen i ämnet cirkus ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att skapa eget material med ett personligt uttryck.</li> <li>Förmåga att samarbeta tillitsfullt och förtroendeskapande i träning och nummerarbete.</li> <li>Förmåga att improvisera och utforska olika uttryck inom flera cirkusområden.</li> <li>Kunskaper om cirkuskonstens sceniska uttrycksmedel genom historien.</li> <li>Färdigheter i att utföra övningar inom olika cirkusdiscipliner. Förmåga att bedöma och hantera risker med olika övningar.</li> <li>Kunskaper om anatomi och träningslära. Förmåga att tillämpa kunskaper om anatomi och träningslära i cirkusträning.</li> </ul><h3>Nivåer i ämnet cirkus</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CIRK1000X</h3>",
+      "code": "CIRK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cirkus på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Introduktion till nummerarbete och framförande av enkla cirkusakter.</li> <li>Hur samarbete och kommunikation i träning och utförande av cirkusmoment skapar tillit i det kollektiva arbetet.</li> <li>Arbete med improvisation, solo, som duo eller i grupp, utifrån givna ramar.</li> <li>Introduktion till scenisk gestaltning i cirkusakter med hjälp av karaktärsarbete och olika uttrycksmedel, till exempel musik, ljus, rekvisita, mask och kostym.</li> <li>Hur sceniska uttrycksmedel har använts historiskt.</li> <li>Säker och hållbar träning i olika cirkusdiscipliner. Tillhörande materialomsorg och begrepp.</li> <li>Introduktion till anatomi och träningslära.</li> <li>Vikten av återhämtning och kosthållning.</li> <li>Förebyggande och hållbar träning, däribland uppvärmning, styrketräning med kroppsvikt och rörelseövningar för hela kroppen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CIRK2000X</h3>",
+      "code": "CIRK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cirkus på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Arbete med nummerarbete och komposition.</li> <li>Planering och uppbyggnad av cirkusakter.</li> <li>Kollektivt arbete med cirkusakter och tillitsfull samverkan mellan olika cirkusdiscipliner, i träning och inför publik.</li> <li>Improvisation som metod för att fritt skapa material, solo, som duo eller i grupp.</li> <li>Möten med publik, professionella aktörer och olika typer av scenkonstverk.</li> <li>Cirkusens uttryck och formspråk i olika tider.</li> <li>Disciplinspecifik träning för och i cirkusdiscipliner.</li> <li>Begreppsanvändning inom specifika discipliner.</li> <li>Systematiskt arbete för att bedöma risker och förhindra olyckor.</li> <li>Anatomi och träningslära. Cirkusspecifik träning av kroppen, däribland aktiv rörlighet, skadeförebyggande övningar och tekniskt krävande styrkemoment.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CIRK3000X</h3>",
+      "code": "CIRK3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cirkus på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Kombination av cirkustekniska färdigheter och personlig komposition för att skapa ett självständigt material.</li> <li>Tillitsfullt samarbete i disciplinspecifik träning.</li> <li>Förtroendeskapande sceniskt utförande av cirkusakter inför publik.</li> <li>Improvisation som metod för att skapa eget material inom en specifik cirkusdisciplin.</li> <li>Skapande av material med hjälp av yttre stöd och utifrån inspiration från såväl historisk som nutida cirkuskonst.</li> <li>Planering och genomförande av ett disciplinspecifikt och säkert framförande bestående av en kombination av flera cirkustekniska moment.</li> <li>Anatomi och träningslära. Skapa och genomföra ett skadeförebyggande och disciplinspecifikt program anpassat efter den egna kroppens förutsättningar och behov.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven skapar ett <strong>enkelt</strong> material med ett personligt uttryck.</p> <p>Eleven samarbetar med andra på ett <strong>i huvudsak fungerande</strong> sätt i såväl träning som nummerarbete.</p> <p>Eleven improviserar och utforskar olika uttryck inom cirkus på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om sceniska uttrycksmedel genom historien.</p> <p>Eleven utför övningar på ett säkert sätt och med <strong>viss</strong> skicklighet samt bedömer och hanterar risker med övningar med <strong>viss säkerhet</strong>.</p> <p>Eleven tillämpar kunskaper om anatomi och träningslära i sin träning på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven skapar ett <strong>genomarbetat</strong> material med ett personligt uttryck.</p> <p>Eleven samarbetar med andra på ett <strong>fungerande</strong> sätt i såväl träning som nummerarbete.</p> <p>Eleven improviserar och utforskar olika uttryck inom cirkus på ett <strong>gott</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om sceniska uttrycksmedel genom historien.</p> <p>Eleven utför övningar på ett säkert sätt och med <strong>god</strong> skicklighet samt bedömer och hanterar risker med övningar med <strong>säkerhet</strong>.</p> <p>Eleven tillämpar kunskaper om anatomi och träningslära i sin träning på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven skapar ett <strong>väl genomarbetat</strong> material med ett personligt uttryck.</p> <p>Eleven samarbetar med andra på ett <strong>väl fungerande</strong> sätt i såväl träning som nummerarbete.</p> <p>Eleven improviserar och utforskar olika uttryck inom cirkus på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om sceniska uttrycksmedel genom historien.</p> <p>Eleven utför övningar på ett säkert sätt och med <strong>mycket god</strong> skicklighet samt bedömer och hanterar risker med övningar med <strong>god säkerhet</strong>.</p> <p>Eleven tillämpar kunskaper om anatomi och träningslära i sin träning på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.980Z"
+}

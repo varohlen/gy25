@@ -1,0 +1,106 @@
+{
+  "code": "OMV",
+  "name": "Omvårdnad",
+  "englishName": "Nursing",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:24",
+  "skolfsAndring": "2022:241",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Omvårdnad</h2>",
+  "description": "<p>Ämnet omvårdnad har sin grund i praktiskt vård- och omsorgsarbete men också i det vetenskapliga ämnesområdet omvårdnad. Ämnet behandlar omvårdnadsåtgärder ur ett helhetsperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet omvårdnad ska syfta till att eleverna utvecklar kunskaper för arbete nära patienter och brukare inom hälso- och sjukvården samt inom socialtjänsten. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om orsaker, symtom, diagnoser, behandlingar samt vård och omsorg vid olika sjukdomstillstånd och i livets slutskede. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att planera, utföra, dokumentera, rapportera och utvärdera vård- och omsorgsuppgifter utifrån kunskaper om orsaker, symtom, diagnoser och behandlingar vid olika sjukdomar. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett yrkesmässigt sätt, det vill säga på ett hygieniskt, ergonomiskt, hälsofrämjande, rehabiliterande, habiliterande och pedagogiskt sätt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om pedagogiska, etiska och kulturella aspekter inom omvårdnad.</p> <p>Undervisningen ska även bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter och brukare med ett lyhört, respektfullt, reflekterande och empatiskt förhållningssätt samt tar ansvar för patienter och brukare och för olika arbetsuppgifter med hänsyn till vårdtagarens allmänmänskliga och individuella behov i relation till livsperspektiv och förändrad hälsa. I undervisningen ska eleverna få möjlighet att utveckla förmåga att använda medicinteknisk och annan teknisk utrustning samt informationsteknik inom olika verksamheter.</p> <p>Genom att medverka i olika verksamheter ska eleverna ges möjlighet att få en inblick i och erfarenhet av arbetsuppgifter kopplade till omvårdnad.</p> <p>Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.</p> <h4>Undervisningen i ämnet omvårdnad ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om sjukdomar, deras uppkomst och behandlingar samt teorier och centrala begrepp inom omvårdnad.</li> <li>Förmåga att bedöma, planera och utföra, dokumentera och rapportera omvårdnadsuppgifter samt utvärdera den egna och teamets arbetsinsats utifrån resultat för vårdtagaren.</li> <li>Förmåga att arbeta på ett etiskt och patientsäkert sätt.</li> <li>Förmåga att arbeta på ett sådant sätt att smitta och smittspridning förhindras.</li> <li>Kunskaper om omvårdnad i livets slutskede och omhändertagande efter döden.</li> <li>Förmåga att använda teknisk utrustning och tekniska hjälpmedel samt använda informationsteknik för information, kommunikation och dokumentation.</li> <li>Förmåga att kommunicera och samarbeta med andra samt arbeta på ett sätt som utgår från den enskilda människans önskemål och krav på stöd och hjälp i relation till biståndsbedömning eller vårdplanering.</li> <li>Kunskaper om hälso- och sjukvårdens historia, utveckling, organisation och ansvarsområden.</li> <li>Kunskaper om arbetsmiljö samt om lagar och andra bestämmelser inom vård- och omsorgsområdet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Omvårdnad 1, 100 poäng, som bygger på kursen anatomi och fysiologi 1.</li> <li>Omvårdnad 2, 100 poäng, som bygger på kursen omvårdnad 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: OMVOMV01</h3>",
+      "code": "OMVOMV01",
+      "nameHeading": "<h2>Omvårdnad 1, 100 poäng</h2>",
+      "name": "Omvårdnad 1",
+      "englishName": "Nursing 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen omvårdnad 1 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisning i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Vanliga sjukdomstillstånd, däribland diabetes, hjärt- och kärlsjukdomar, cancer, stroke och epilepsi.</li> <li>Centrala begrepp inom omvårdnad.</li> <li>Omvårdnad vid de vanligaste sjukdomstillstånden med hänsyn tagen till patientsäkerhet, självbestämmande och integritet.</li> <li>Personlig vård, däribland personlig hygien, munvård, kost och vätska, måltidssituation, vila och sömn, elimination, inkontinens och klädsel samt komplikationer vid långvarigt sängläge.</li> <li>Nutritionslära och stimulerad matsituation.</li> <li>Observation, värdering och prioritering utifrån fysiska och psykiska tillstånd samt dokumentation och rapportering av gjorda observationer och insatser.</li> <li>Etiska frågeställningar och etiskt förhållningssätt i vård- och omsorgsarbetet.</li> <li>Basala hygienrutiner vid vård- och omsorgsarbete.</li> <li>Omvårdnad vid livets slutskede, smärtlindring och omhändertagande efter döden.</li> <li>Medicintekniska och andra hjälpmedel.</li> <li>Datoranvändning och säker informationshantering kopplade till specifika it-tillämpningar i vård- och omsorgsarbete.</li> <li>Kommunikation, bemötande, förhållningssätt och sinnesstimulering.</li> <li>Personcentrerad vård, teamarbete och interprofessionella samarbeten.</li> <li>Arbete utifrån biståndsbedömning eller vårdplanering med hänsyn till den enskildes behov och förutsättningar.</li> <li>Den historiska utvecklingen inom verksamhetsområdet.</li> <li>Den fysiska och psykiska arbetsmiljöns betydelse för hälsa och egen säkerhet utifrån lagar och andra bestämmelser.</li> <li>Arbetsställningar och förflyttningar.</li> <li>Ergonomiska verktyg, deras funktion och underhåll.</li> <li>Hälso- och sjukvårdslagen, patientsäkerhetslagen och Lex Maria samt andra relevanta lagar inom området.</li> <li>Arbetsuppgifter som kräver delegering.</li> <li>Sekretess i vård- och omsorgsarbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för vanliga sjukdomar och deras fysiska och psykiska symtom samt redogör för innebörden av centrala begrepp inom omvårdnad.</p> <p>Eleven utför, <strong>i samråd</strong> med handledare, omvårdnad vid vanliga sjukdomar. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd </strong>med handledare, symtom och förändringar i människors tillstånd. Arbetet utförs på ett etiskt, hygieniskt och ergonomiskt sätt med ett <strong>tillfredsställande</strong> resultat. Eleven visar förmåga att vidta åtgärder för att förhindra smittspridning med <strong>tillfredsställande</strong> resultat.</p> <p>Eleven beskriver <strong>översiktligt</strong> vård och omsorg i livets slutskede samt ett värdigt omhändertagande efter döden.</p> <p>I arbetet hanterar eleven <strong>med viss säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder informationsteknik för information, kommunikation och dokumentation utifrån ett etiskt förhållningssätt.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> tillfredsställande </strong>sätt.</p> <p>Eleven redogör <strong>översiktligt </strong>för den historiska utvecklingen inom vård- och omsorgsområdet. Eleven redogör även för relevanta lagar och andra bestämmelser inom vård- och omsorgsområdet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för vanliga sjukdomar och deras fysiska och psykiska symtom samt redogör för innebörden av centrala begrepp inom omvårdnad.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, omvårdnad vid vanliga sjukdomar. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd </strong>med handledare, symtom och förändringar i människors tillstånd. Arbetet utförs på ett etiskt, hygieniskt och ergonomiskt sätt med ett <strong>tillfredsställande</strong> resultat. Eleven visar förmåga att vidta åtgärder för att förhindra smittspridning med <strong>tillfredsställande</strong> resultat.</p> <p>Eleven beskriver <strong>utförligt</strong> vård och omsorg i livets slutskede samt ett värdigt omhändertagande efter döden.</p> <p>I arbetet hanterar eleven <strong>med viss säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder informationsteknik för information, kommunikation och dokumentation utifrån ett etiskt förhållningssätt.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> tillfredsställande </strong>sätt.</p> <p>Eleven redogör <strong>utförligt </strong>för den historiska utvecklingen inom vård- och omsorgsområdet. Eleven redogör även för relevanta lagar och andra bestämmelser inom vård- och omsorgsområdet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för vanliga sjukdomar och deras fysiska och psykiska symtom samt redogör för innebörden av centrala begrepp inom omvårdnad.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, omvårdnad vid vanliga sjukdomar. I arbetet uppmärksammar, rapporterar och dokumenterar eleven <strong>efter samråd </strong>med handledare symtom och förändringar i människors tillstånd. Arbetet utförs på ett etiskt, hygieniskt och ergonomiskt sätt med ett <strong>gott</strong> resultat. Eleven visar förmåga att vidta åtgärder för att förhindra smittspridning med <strong>gott</strong> resultat.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> vård och omsorg i livets slutskede samt ett värdigt omhändertagande efter döden.</p> <p>I arbetet hanterar eleven <strong>med säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder informationsteknik för information, kommunikation och dokumentation utifrån ett etiskt förhållningssätt.</p> <p>Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> gott </strong>sätt.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för den historiska utvecklingen inom vård- och omsorgsområdet. Eleven redogör även för relevanta lagar och andra bestämmelser inom vård- och omsorgsområdet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: OMVOMV02</h3>",
+      "code": "OMVOMV02",
+      "nameHeading": "<h2>Omvårdnad 2, 100 poäng</h2>",
+      "name": "Omvårdnad 2",
+      "englishName": "Nursing 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen omvårdnad 2 omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte med särskild betoning på punkt 2.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisning i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Sjukdomstillstånd, däribland infektionssjukdomar, andningsorganens sjukdomar, mag-tarmkanalens sjukdomar, skallskador, frakturer och nervsystemets sjukdomar.</li> <li>Uppkomst av sjukdomstillstånd, olika förklaringsmodeller och riskfaktorer.</li> <li>Undersökningsmetoder och behandlingar.</li> <li>Omvårdnadsprocessen samt teorier inom omvårdnad.</li> <li>Omvårdnad och medverkan vid behandling av sjukdomstillstånd med hänsyn tagen till patientsäkerhet, självbestämmande och integritet.</li> <li>Avvikelsehantering.</li> <li>Rehabilitering och habilitering samt pedagogiskt förhållningssätt.</li> <li>Medicintekniska uppgifter, däribland blodtrycks- och pulskontroller, temperaturmätning, urinprov och enklare såromläggning.</li> <li>Hälso- och sjukvårdsuppgifter som sondmatning och sugning av övre luftvägar, insulingivning och katetrisering samt hur dessa uppgifter delegeras.</li> <li>Observationer, värderingar, prioriteringar utifrån fysiska och psykiska tillstånd samt dokumentation och rapportering av gjorda observationer och insatser.</li> <li>Normalt och onormalt ätbeteende.</li> <li>Samspelet mellan it och människan.</li> <li>It inom informationsöverföring och dokumentation samt medicintekniska informationsdatasystem.</li> <li>Kommunikation, bemötande, förhållningssätt och samarbete.</li> <li>Arbete utifrån biståndsbedömning eller vårdplanering med hänsyn till den enskildes behov och förutsättningar.</li> <li>Hälso- och sjukvårdens organisation.</li> <li>Tekniker för ergonomiskt och säkert utfört arbete i olika situationer samt riskanalys och konsekvenser då rätt respektive felaktig teknik används.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt omvårdnad vid dessa sjukdomar. Eleven beskriver <strong>översiktligt </strong>olika teorier inom omvårdnad.</p> <p>Eleven planerar och utför, <strong>i samråd </strong>med handledare, omvårdnad på ett etiskt, hygieniskt och ergonomiskt sätt. Dessutom utför eleven, <strong>i samråd</strong> med handledare, medicintekniska uppgifter. Arbetet utförs med <strong>tillfredsställande</strong> resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd.</p> <p>I arbetet hanterar eleven <strong>med viss säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder, på ett patientsäkert sätt, informationsteknik för information, kommunikation och dokumentation.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> tillfredsställande </strong>sätt.</p> <p>Eleven redogör för hälso- och sjukvårdens organisation och ansvarsområden.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt omvårdnad vid dessa sjukdomar. Eleven beskriver <strong>utförligt </strong>olika teorier inom omvårdnad.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, omvårdnad på ett etiskt, hygieniskt och ergonomiskt sätt. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, medicintekniska uppgifter. Arbetet utförs med <strong>tillfredsställande</strong> resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd.</p> <p>I arbetet hanterar eleven <strong>med viss säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder, på ett patientsäkert sätt, informationsteknik för information, kommunikation och dokumentation.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> tillfredsställande </strong>sätt.</p> <p>Eleven redogör för hälso- och sjukvårdens organisation och ansvarsområden.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt omvårdnad vid dessa sjukdomar. Eleven beskriver <strong>utförligt och nyanserat </strong>olika teorier inom omvårdnad.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, omvårdnad på ett etiskt, hygieniskt och ergonomiskt sätt. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, medicintekniska uppgifter. Arbetet utförs med <strong>gott</strong> resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd.</p> <p>I arbetet hanterar eleven <strong>med säkerhet</strong> medicinsk utrustning och andra tekniska hjälpmedel samt använder, på ett patientsäkert sätt, informationsteknik för information, kommunikation och dokumentation.</p> <p>Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra. Dessutom uppmärksammar eleven den enskilda människans behov och förutsättningar på ett<strong> gott </strong>sätt.</p> <p>Eleven redogör för hälso- och sjukvårdens organisation och ansvarsområden.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.109Z"
+}

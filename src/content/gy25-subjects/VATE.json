@@ -1,0 +1,78 @@
+{
+  "code": "VATE",
+  "name": "Vattenreningsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:245",
+  "nameHeading": "<h2>Vattenreningsteknik</h2>",
+  "description": "<p>Vatten är människans viktigaste livsmedel. Därför är produktion och rening av vatten centrala frågor på både lokal och global nivå. Ämnet vattenreningsteknik behandlar drift, underhåll och service av vattentekniska anläggningar och system. I ämnet behandlas även naturvetenskapliga principer och hållbarhetsperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet vattenreningsteknik ska syfta till att eleverna utvecklar förmåga att utföra drift, underhåll och service i vattentekniska anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur vatten- och avloppsreningsverk är uppbyggda och fungerar. Eleverna ska även ges möjlighet att utveckla kunskaper om mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra provtagningar av vatten samt beräkningar för att optimera driften av en anläggning avseende kvalitet, miljö och ekonomi. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om olika miljö- och kvalitetssystem och standarder inom vatten- och avloppsteknik samt om hur arbetet kan utföras på ett säkert, hållbart och kvalitetsmedvetet sätt. Undervisningen ska stimulera elevernas nyfikenhet på utvecklingen inom vattenreningsteknik och bidra till att eleverna utvecklar förmåga att lösa problem i arbetsrelaterade situationer.</p> <p>Genom experiment och laborationer ska eleverna ges möjlighet att utveckla förmåga att tolka teknisk dokumentation samt arbeta enligt yrkespraxis på ett sätt som omfattar ansvar för både drift och miljö. Undervisningen ska ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk samt hantera verktyg och utrustning på ett säkert och hållbart sätt. Dessutom ska undervisningen lämna utrymme för diskussioner om det arbete som görs för att finna lösningar på internationella problem inom vattenreningsteknik.</p> <h5><em>Undervisningen i ämnet vattenreningsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</li> <li>Kunskaper om mikrobiologiska processer som har betydelse för vattenrening och miljö.</li> <li>Förmåga att hantera och vårda verktyg och utrustning.</li> <li>Förmåga att utföra vanligt förekommande arbetsuppgifter i vattenreningsanläggningar i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utföra provtagningar inom vattenreningssystem samt beräkningar för att optimera driften.</li> </ul><h3>Nivåer i ämnet vattenreningsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet vatten- och miljöteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VATE1000X</h3>",
+      "code": "VATE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenreningsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Vattenreningsteknik</em></p> <ul> <li>Vattentäkter ur ett lokalt, regionalt och globalt perspektiv samt exempel på skydd av vattentäkter.</li> <li>Vattnets kemi och mikrobiologi samt mikroorganismer och kemiska föroreningar.</li> <li>Olika typer av grundvatten och ytvatten avseende sammansättning och lämplighet som råvatten.</li> <li>Intagningsanordningar vid ytvattenrening.</li> <li>Reningsmetoder för ytvatten, grundvatten och dricksvatten.</li> <li>Faktorer och processförändringar som påverkar reningsresultat och kostnader.</li> <li>Korrosionslära avseende vattenreningsanläggningar.</li> <li>Tillsatskemikaliers effekt för olika typer av vatten, dosering och inblandning samt ekonomi vid vattenrening.</li> <li>Mikrobiologiska processer inom dricksvattenteknik samt deras betydelse för produktion av dricksvatten, distribution genom ledningsnät och lagring i reservoarer.</li> <li>Virus, bakteriers och svampars uppbyggnad och livscykler samt provtagningsmetoder.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Handhavande av verktyg och utrustning inom dricksvattenteknik.</li> <li>Operativ drift, till exempel datoriserad driftövervakning av vattenverk.</li> <li>Driftproblem och underhållsarbeten i vattenverk.</li> <li>Kommunikation och samarbete vid drift och underhåll.</li> <li>Metoder för optimering av drift och vattenkvalitet, till exempel beräkningar, användning av grundläggande kemi för dosering av kemikalier och utvärdering av resultat.</li> <li>Provtagningar och analyser av råvatten och dricksvatten enligt instruktioner.</li> <li>Inblandning, dosering och olika kemikalier för behandling av dricksvatten samt regler för dessa kemikaliers hantering.</li> <li>Höjning av hårdhet, alkalinitet och desinfektion av dricksvatten samt alkalisering av vatten i samband med beredningsprocesser och distribution.</li> <li>Vattenprovtagningar och analyser av olika typer av vatten samt mikrobiologisk provning, mikroskopi och analys vid olika stadier i dricksvattenreningsprocessen.</li> </ul> <p><em>Dokumentation och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom området, till exempel instruktioner, flödesscheman, ritningar, systembeskrivningar och manualer inom dricksvattenteknik.</li> <li>Lagar och andra bestämmelser inom området, till exempel föreskrifter om dricksvatten och skydd av vattentäkter samt miljökvalitetssystem som gäller dricksvatten.</li> <li>Miljö- och kvalitetssystem samt tillämpliga standarder inom dricksvattenteknik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VATE2000X</h3>",
+      "code": "VATE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet vattenreningsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Vattenreningsteknik</em></p> <ul> <li>Konventionella och alternativa reningsanläggningars uppbyggnad och funktion.</li> <li>Metoder för mekanisk, biologisk och kemisk rening av förorenat vatten.</li> <li>Faktorer och processförändringar som påverkar reningsresultat och kostnader.</li> <li>Olika typer av förorenat vatten samt deras sammansättning.</li> <li>Olika slamtyper och metoder för behandling.</li> <li>Mikrobiologiska processer för nedbrytning av organiskt material i förorenat vatten.</li> <li>Rening av kväve och fosfor i förorenat vatten och i samband med stabilisering av slam.</li> <li>Det förorenade vattnets inverkan på sjöar och vattendrag.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Handhavande av verktyg och utrustning inom avloppsteknik.</li> <li>Operativ drift, till exempel datoriserad driftövervakning av reningsverk.</li> <li>Driftproblem och underhållsarbeten i reningsverk.</li> <li>Kommunikation och samarbete vid drift och underhåll.</li> <li>Flödesmätning i öppna och slutna system.</li> <li>Experiment för val av flockningskemikalier.</li> <li>Metoder för optimering av drift, till exempel beräkningar och användning av grundläggande kemi.</li> <li>Provtagning inom vatten- och miljöområdet enligt instruktioner.</li> </ul> <p><em>Dokumentation och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom området, till exempel instruktioner, flödesscheman, ritningar, systembeskrivningar och manualer inom avloppsteknik.</li> <li>Lagar och andra bestämmelser inom området, till exempel bestämmelser om hygien.</li> <li>Miljö- och kvalitetssystem samt tillämpliga standarder inom avloppsteknik.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Eleven hanterar och vårdar verktyg och utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven utför med <strong>viss säkerhet</strong> vanligt förekommande arbetsuppgifter i processtekniska anläggningar och använder med <strong>viss säkerhet</strong> teknisk dokumentation. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>enkla</strong> beräkningar samt provtagningar utifrån anvisningar med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Eleven hanterar och vårdar verktyg och utrustning med <strong>säkerhet</strong>.</p> <p>Eleven utför med <strong>säkerhet</strong> vanligt förekommande arbetsuppgifter i processtekniska anläggningar och använder med <strong>säkerhet</strong> teknisk dokumentation. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>relativt komplexa</strong> beräkningar samt provtagningar utifrån anvisningar med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Eleven hanterar och vårdar verktyg och utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven utför med <strong>god säkerhet</strong> vanligt förekommande arbetsuppgifter i processtekniska anläggningar och använder med <strong>god säkerhet</strong> teknisk dokumentation. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför <strong>komplexa</strong> beräkningar samt provtagningar utifrån anvisningar med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.098Z"
+}

@@ -1,0 +1,634 @@
+{
+  "code": "MUS",
+  "name": "Musik",
+  "englishName": "Music",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-04-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:180",
+  "skolfsAndring": "2022:222",
+  "nameHeading": "<h2>Musik</h2>",
+  "description": "<p>Musik finns i alla kulturer och den berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform som används i en mängd sammanhang, som har olika funktioner och som betyder olika saker för var och en av oss. Ämnet musik har sin grund i konstnärligt uttryck, musikaliskt hantverk och musikvetenskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet musik ska syfta till att eleverna utvecklar kunskaper i musik och förmåga att gestalta musik, både solistiskt och i ensemble. Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera med medmusicerande och publik. Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera och tolka musikupplevelser. Genom undervisningen ska eleverna ges möjlighet att reflektera över och värdera sin egen och andras musikaliska gestaltning, i syfte att öka det konstnärliga skapandet. Undervisningen ska bidra till att eleverna utvecklar kreativitet och förståelse av samband mellan detalj och helhet.</p><p>Undervisningen ska också ge eleverna möjlighet att genom sitt musikutövande aktivt bidra till ett rikt kulturliv i samhället. Genom undervisningen ska eleverna ges möjlighet att pröva olika metoder för musikinstudering. Genom att arbeta med musiken från både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med en hög konstnärlig kvalitet. Undervisningen ska ta fasta på att stärka elevernas motivation och självförtroende i musikutövandet.</p><p>Samarbetsförmåga och ansvarstagande för arbete i grupp är viktigt i musiken. Därför ska eleverna ges möjlighet att musicera tillsammans med andra.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om musikinstrumentens konstruktion och egenskaper samt röstens fysiologi. Undervisningen ska också bidra till att eleverna utvecklar kunskaper i arbetsmiljöns betydelse för individ och samhälle. Genom att studera och utöva musik från olika tider, kulturer och stilarter ska eleverna ges möjlighet till genrebreddning.</p><h4>Undervisningen i ämnet musik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Färdigheter i att musicera instrumentalt eller vokalt, såväl efter noter som på gehör, samt färdigheter i att använda ett konstnärligt och musikaliskt uttryck.</li> <li>Kunskaper om musik, begrepp och stildrag från olika tider och kulturer.</li> <li>Förmåga att improvisera. </li> <li>Kunskaper om musikinstudering, enskilt och i grupp, samt förmåga att ta ansvar för sin musikaliska färdighetsutveckling. </li> <li>Kunskaper om instrumentets konstruktion och egenskaper, röstfysiologi och röstvård.</li> <li>Förmåga att skapa musik och arrangera för en eller flera valda ensembletyper.</li> <li>Förmåga att värdera, samarbeta och ta ansvar i musikalisk gestaltning och musicerande inför och i kommunikation med publik.</li> <li>Färdigheter i att använda musikteknisk utrustning samt kunskaper om hur musik kan framställas och hanteras digitalt. </li> <li>Kunskaper om arbetsmiljöfrågor.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Bruksspel och ackompanjemang, 100 poäng. </li> <li>Ensemble med körsång, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen ensemble 1, kursen körsång 1 eller kursen musik.</li> <li>Ensemble 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen ensemble med körsång.</li> <li>Ensemble 2, 100 poäng, som bygger på kursen ensemble med körsång eller kursen ensemble 1. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Ensembleledning och dirigering, 100 poäng. </li> <li>Instrument eller sång 1, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Instrument eller sång 2, 100 poäng, som bygger på kursen instrument eller sång 1. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Instrument eller sång 3, 100 poäng, som bygger på kursen instrument eller sång 2. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Körsång 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen ensemble med körsång.</li> <li>Körsång 2, 100 poäng, som bygger på kursen ensemble med körsång eller kursen körsång 1. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Musik, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen ensemble med körsång.</li> <li>Musik för yrkesdansare, 50 poäng. Kursen får bara anordnas på yrkesdansarutbildningen.</li> <li>Musikimprovisation, 100 poäng. </li> <li>Musikproduktion 1, 100 poäng. </li> <li>Musikproduktion 2, 100 poäng, som bygger på kursen musikproduktion 1.</li> <li>Rytmik, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MUSBRU0</h3>",
+      "code": "MUSBRU0",
+      "nameHeading": "<h2>Bruksspel och ackompanjemang, 100 poäng</h2>",
+      "name": "Bruksspel och ackompanjemang",
+      "englishName": "Applied music skills and accompaniment",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen bruksspel och ackompanjemang omfattar punkterna 1–5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 7. I kursen behandlas grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Spel på ett eller flera ackordinstrument i gehörsbaserad och noterad musik på en grundläggande nivå.</li> <li>Ackordläggningar och ackordfärgningar.</li> <li>Ackompanjemangsmodeller.</li> <li>Transponering till näraliggande och vanliga tonarter.</li> <li>Musikstilar från olika tider och genrer samt typiska stildrag.</li> <li>Improvisation – ackompanjemang på gehör.</li> <li>Instrument, deras egenskaper och musikaliska användningsområden.</li> <li>Samarbete i musikalisk gestaltning och strategier för instudering.</li> <li>Framförande av musik inför publik, i mindre, slutna sammanhang såväl som i större och öppna, offentliga sammanhang i eller utanför skolan.</li> <li>Arbetsmiljö med avseende på ergonomi och hörselvård vid musikutövning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>enkelt</strong> spel i <strong>någon </strong>vanlig kompositionsstil och efter <strong>enkel</strong> ackordanalys med <strong>mestadels treklanger i grundläge</strong>. Eleven har <strong>viss</strong> följsamhet i sitt spel. Eleven reducerar och transponerar med ett <strong>tillfredsställande</strong> resultat en enkel notbild <strong>eller</strong> ackordföljd, i tonarter <strong>utan eller med få fasta förtecken</strong>.</p><p>Eleven utför ett <strong>enkelt </strong>ackompanjemang på ett tillfredsställande sätt på gehör, till egen <strong>eller</strong> andras sång eller spel i <strong>någon </strong>vanlig genre. Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>några</strong> vanliga musikstilar och improviserar <strong>enkelt och kort</strong> intro, mellanspel och avslutning i <strong>några</strong> valda genrer.</p><p>Eleven prövar strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>tillfredsställande</strong> musikaliskt resultat.</p><p>Eleven redogör <strong>översiktligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.</p><p>Eleven samarbetar <strong>med viss säkerhet</strong> i musikframförande och kommunikation med publik. Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare.</p><p>Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>varierat</strong> spel i <strong>några</strong> vanliga kompositionsstilar och efter ackordanalys med <strong>vanliga färgningar, med både tre- och fyrklanger och med variation i ackordläggningar</strong>. Eleven har <strong>tillfredsställande</strong> följsamhet i sitt spel. Eleven reducerar och transponerar med<strong> gott </strong>resultat en enkel notbild <strong>och</strong> ackordföljd, i <strong>de vanligaste tonarterna</strong>.</p><p>Eleven utför ett <strong>nyanserat </strong>ackompanjemang på ett tillfredsställande sätt på gehör, till egen <strong>eller</strong> andras sång eller spel i <strong>några</strong> vanliga genrer. Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>flera</strong> vanliga musikstilar och improviserar intro, <strong>vers</strong>, mellanspel och avslutning i <strong>flera</strong> valda genrer.</p><p>Eleven <strong>föreslår och</strong> prövar <strong>alternativa</strong> strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>tillfredsställande</strong> musikaliskt resultat.</p><p>Eleven redogör <strong>utförligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.</p><p>Eleven samarbetar <strong>med viss säkerhet</strong> i musikframförande och kommunikation med publik. Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare <strong>och andra elever</strong>.</p><p>Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ackompanjerar på ett tillfredsställande sätt efter noter och på gehör med ett <strong>varierat</strong> spel i <strong>flera </strong>vanliga kompositionsstilar och efter ackordanalys med <strong>utvecklad harmonik och väljer mellan olika alternativa ackordläggningar</strong>. Eleven har <strong>god</strong> följsamhet i sitt spel. Eleven reducerar och transponerar med<strong> gott </strong>resultat en notbild <strong>och</strong> ackordföljd med <strong>komplexa ackord</strong>, i <strong>de vanligaste tonarterna</strong>.</p><p>Eleven utför ett <strong>nyanserat </strong>ackompanjemang på ett tillfredsställande sätt på gehör, till <strong>såväl</strong> egen <strong>som</strong> andras sång eller spel i <strong>flera</strong> vanliga genrer. Eleven använder på ett tillfredsställande sätt grundläggande drag i <strong>flera</strong> vanliga musikstilar och improviserar intro, <strong>vers</strong>, mellanspel och avslutning i <strong>flera</strong> valda genrer och <strong>någon given genre</strong>.</p><p>Eleven <strong>föreslår och</strong> prövar <strong>alternativa</strong> strategier för egen instudering, eller för instudering tillsammans med andra, vilket leder till <strong>ett gott</strong> musikaliskt resultat.</p><p>Eleven redogör <strong>utförligt</strong> för framträdande egenskaper hos instrumentet och dess musikaliska användningsområden.</p><p>Eleven samarbetar <strong>med säkerhet</strong> i musikframförande och kommunikation med publik. Eleven medverkar på ett tillfredsställande sätt vid framförande av hela musikstycken i slutna sammanhang inför lärare <strong>och andra elever samt i öppna, offentliga sammanhang</strong>.</p><p>Eleven musicerar på ett sätt som inte riskerar att orsaka belastnings- eller hörselskada.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSENS0</h3>",
+      "code": "MUSENS0",
+      "nameHeading": "<h2>Ensemble med körsång, 200 poäng</h2>",
+      "name": "Ensemble med körsång",
+      "englishName": "Ensemble with choir",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen ensemble med körsång omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4 och 6–9.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Spel eller sång i ensemble på en grundläggande nivå.</li> <li>Körsång på en grundläggande nivå.</li> <li>Musicerande i noterad och gehörsbaserad musik.</li> <li>Konstnärlighet och genrer i olika tider och kulturer. Stildrag och kännetecken.</li> <li>Instudering i grupp, till exempel stämövning, intonationsövning och repetitionsmetodik.</li> <li>Grundläggande röstvård och metoder för det.</li> <li>Grundläggande musikalisk bearbetning, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.</li> <li>Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.</li> <li>Grundläggande hantering av musikteknisk utrustning med grundläggande begrepp inom ljudteknik och rumsakustik. Ljudanläggning för repetition och konsert. Mikrofonteknik och kabelhantering. Analogt och digitalt ljud samt midi. Digital bearbetning av musikaliskt material med olika inspelningstekniker.</li> <li>Arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi, hörselvård och belysning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> i ensemble och kör, efter <strong>enkla</strong> <strong>och</strong> <strong>kända</strong> notbilder och i <strong>enkel</strong> <strong>och</strong> styrd gehörsbaserad musik. I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav. Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>tillfredsställande</strong>.</p><p>Eleven deltar i och redogör <strong>översiktligt</strong> för <strong>någon </strong>metod för röstvård.</p><p>Eleven gör en <strong>enkel </strong>bearbetning av <strong>enkelt</strong> musikaliskt material för den egna gruppen. Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>enkla</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p><p>Eleven använder <strong>med viss säkerhet </strong>enkel musikteknisk utrustning för det egna musicerandet.</p><p>Eleven redogör <strong>översiktligt </strong>för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar <strong>nyanserat och</strong> <strong>med viss säkerhet</strong> i ensemble och kör, efter notbilder och i styrd gehörsbaserad musik. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav. Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>tillfredsställande</strong>. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven deltar i och redogör <strong>utförligt</strong> för <strong>någon </strong>metod för röstvård.</p><p>Eleven gör en bearbetning av musikaliskt material för den egna gruppen. Eleven samarbetar <strong>med viss säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p><p>Eleven använder <strong>med viss säkerhet </strong>enkel musikteknisk utrustning för det egna musicerandet <strong>samt ger välgrundade förslag på hur gruppen bättre kan utnyttja musikteknisk utrustning</strong>.</p><p>Eleven redogör <strong>utförligt </strong>för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar <strong>nyanserat och</strong> <strong>med säkerhet</strong> i ensemble och kör, efter <strong>komplexa </strong>notbilder och i styrd<strong> och fri</strong> gehörsbaserad musik. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet </strong>genrespecifika krav. Eleven tar ansvar för instuderingen, och det musikaliska resultatet är <strong>gott</strong>. <strong>Dessutom ger eleven välgrundade och nyanserade förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven deltar i och redogör <strong>utförligt och nyanserat</strong> för <strong>några </strong>metoder för röstvård. <strong>Dessutom tar eleven initiativ till röstvård som utvecklar rösten</strong>.</p><p>Eleven gör en <strong>avancerad </strong>bearbetning av <strong>komplext </strong>musikaliskt material för den egna gruppen. Eleven samarbetar <strong>med säkerhet</strong> samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>.</p><p>Eleven använder <strong>med säkerhet </strong>enkel musikteknisk utrustning för det egna musicerandet <strong>samt ger välgrundade och nyanserade förslag på hur gruppen bättre kan utnyttja musikteknisk utrustning även i olika konsertsituationer</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för några arbetsmiljöfrågor som rör ensemblemusicerande och körsång <strong>samt ger välgrundade och nyanserade förslag på hur arbetsmiljön kan förbättras</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSENS01</h3>",
+      "code": "MUSENS01",
+      "nameHeading": "<h2>Ensemble 1, 100 poäng</h2>",
+      "name": "Ensemble 1",
+      "englishName": "Ensemble 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen ensemble 1 omfattar punkterna 1–2, 4–5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 7. Kursen behandlar grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande ensemblemusicerande och repertoarkännedom.</li> <li>Musicerande i gehörsbaserad och noterad musik.</li> <li>Konstnärlighet och genrer i olika tider och kulturer. Stildrag och kännetecken.</li> <li>Samarbetsförmåga och metoder för instudering, enskilt och i grupp, repetitionsmetodik.</li> <li>Instrument och deras karaktär och grundläggande egenskaper.</li> <li>Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.</li> <li>Grundläggande arbetsmiljöaspekter på musicerande – hörselvård, ergonomi och elsäkerhet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> efter enkla notbilder och på gehör. I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav. Eleven redogör <strong>översiktligt</strong> för <strong>något </strong>exempel på repertoar i olika stilar för ensemblen.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.</p><p>Eleven redogör för <strong>någon </strong>grundläggande egenskap hos <strong>sitt </strong><strong>instrument</strong>.</p><p>Eleven samarbetar <strong>med viss säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>enkla </strong>omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p><p>Eleven redogör <strong>översiktligt </strong>för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> efter enkla notbilder och på gehör. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav. Eleven redogör <strong>utförligt</strong> för <strong>några </strong>exempel på repertoar i olika stilar för ensemblen.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven redogör för <strong>några </strong>grundläggande egenskap hos <strong>sin </strong><strong>instrumentgrupp</strong>.</p><p>Eleven samarbetar <strong>med viss säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p><p>Eleven redogör <strong>utförligt</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar <strong>med säkerhet</strong> efter enkla notbilder och på gehör. I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt uttryck och följer <strong>med säkerhet </strong>genrespecifika krav. Eleven redogör <strong>utförligt och nyanserat</strong> för <strong>flera </strong>exempel på repertoar i olika stilar för ensemblen.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.<strong> Dessutom ger eleven välgrundade och nyanserade förslag på hur arbetet kan förbättras och upptäcker</strong>, <strong>analyserar</strong> <strong>och föreslår lösningar på olika instuderingsproblem</strong>.</p><p>Eleven redogör för <strong>karaktär och flera </strong>grundläggande egenskaper hos <strong>instrumentgruppen och övriga instrument i ensemblen</strong>.</p><p>Eleven samarbetar <strong>med säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt</strong> <strong>och nyanserat</strong> för förutsättningar för god arbetsmiljö avseende hörselvård, ergonomi och elsäkerhet, och tar hänsyn till detta i musicerandet.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSENS02S</h3>",
+      "code": "MUSENS02S",
+      "nameHeading": "<h2>Ensemble 2, 100 poäng</h2>",
+      "name": "Ensemble 2",
+      "englishName": "Ensemble 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen ensemble 2 omfattar samtliga mål under rubriken Ämnets syfte, med särskild betoning på punkterna 1–4 och 7. I kursen behandlas fördjupade kunskaper inom vald eller valda ensembleformer och genrer.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Instrumentalt eller vokalt ensemblemusicerande i gehörsbaserad eller noterad musik i en eller flera valda genrer. </li> <li>Rytm, melodi, harmonik och form.</li> <li>Personligt, konstnärligt och musikaliskt uttryck.</li> <li>Fördjupad kunskap om stildrag och repertoar inom valda ensembleformer och genrer.</li> <li>Grundläggande improvisation inom valda ensembleformer och genrer.</li> <li>Fördjupad instudering, enskilt och i grupp, och repetitionsarbete samt metoder för detta. Grundläggande ensembleledning. </li> <li>Fördjupad musikalisk värdering, tolkning och gestaltning samt musikalisk kommunikation vid framträdande inför publik och i samarbete med andra.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik. I sitt musicerande uppvisar eleven ett<strong> visst</strong> personligt, konstnärligt och musikaliskt uttryck och följer <strong>med viss säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form. Eleven redogör <strong>översiktligt </strong>för grundläggande repertoar och stildrag inom valda genrer. Eleven gör <strong>styrda</strong>, <strong>korta</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.</p><p>Eleven diskuterar <strong>översiktligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven förbereder och leder instudering av en <strong>enkel</strong> repertoar i styrda situationer. Eleven redogör <strong>översiktligt</strong> för gruppens övriga stämmaterial.</p><p>Eleven värderar det musikaliska resultatet med <strong>enkla</strong> omdömen och diskuterar <strong>översiktligt</strong> åtgärder för att utveckla repetitionsarbetet. Eleven diskuterar <strong>översiktligt</strong> och föreslår <strong>något</strong> tolkningsalternativ. Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar <strong>med viss teknisk skicklighet</strong> på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik. I sitt musicerande uppvisar eleven ett personligt, konstnärligt och musikaliskt uttryck och följer <strong>med säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form. Eleven redogör <strong>utförligt </strong>för grundläggande repertoar och stildrag inom valda genrer. Eleven gör <strong>styrda</strong>, <strong>längre</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.</p><p>Eleven diskuterar <strong>utförligt och föreslår</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven förbereder och leder instudering av <strong>komplex</strong> repertoar i styrda situationer. Eleven redogör <strong>utförligt</strong> för gruppens övriga stämmaterial.</p><p>Eleven värderar det musikaliska resultatet med <strong>nyanserade</strong> omdömen och diskuterar <strong>utförligt </strong>åtgärder för att utveckla repetitionsarbetet <strong>och kommer med förslag på åtgärder för att utveckla repetitionsarbetet</strong>. Eleven diskuterar <strong>utförligt</strong> och föreslår <strong>några </strong>tolkningsalternativ. Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken. <strong>Eleven uppvisar ledighet i sin kommunikation med publiken</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar <strong>med teknisk skicklighet</strong> på ett nyanserat sätt i ensemble, efter komplexa och varierade former av notbilder eller i fri gehörsbaserad musik. I sitt musicerande uppvisar eleven ett<strong> gott </strong>personligt, konstnärligt och musikaliskt uttryck och följer <strong>med säkerhet</strong> den valda genrens, alternativt valda genrers, krav på rytm, melodi, harmonik och form. Eleven redogör <strong>utförligt och nyanserat </strong>för grundläggande repertoar och stildrag inom valda genrer. Eleven gör <strong>fria</strong>, <strong>längre</strong> improvisationer i den valda genrens stil, alternativt de valda genrernas stilar.</p><p>Eleven diskuterar <strong>utförligt och nyanserat och föreslår</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven förbereder och leder instudering av <strong>komplex</strong> repertoar i styrda situationer. Eleven redogör <strong>utförligt och nyanserat</strong> för gruppens övriga stämmaterial.</p><p>Eleven värderar det musikaliska resultatet med <strong>nyanserade</strong> omdömen och <strong>ger förslag på hur arbetet kan förbättras</strong> samt diskuterar <strong>utförligt och nyanserat </strong>åtgärder för att utveckla repetitionsarbetet <strong>och kommer med välgrundade och motiverade förslag på åtgärder för att utveckla repetitionsarbetet</strong>. Eleven diskuterar <strong>utförligt</strong> <strong>och nyanserat</strong> samt föreslår <strong>flera </strong>tolkningsalternativ. Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken. <strong>Eleven uppvisar ledighet och personligt uttryck i sin kommunikation med publiken</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSENE0</h3>",
+      "code": "MUSENE0",
+      "nameHeading": "<h2>Ensembleledning och dirigering, 100 poäng</h2>",
+      "name": "Ensembleledning och dirigering",
+      "englishName": "Ensemble conducting",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen ensembleledning och dirigering omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på färdigheter i att använda ett konstnärligt och musikaliskt uttryck samt punkterna 4 och 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Musikaliskt ledarskap samt konstnärligt och personligt uttryck, i två eller flera genrer.</li> <li>Repertoar och stildrag i olika genrer.</li> <li>Repetitionsmetodik för olika ensembletyper. Studium av partitur från olika stilar och tider.</li> <li>Slagteknik och taktartsfigurer.</li> <li>Förmedling och gestaltning av konstnärliga intentioner, muntligt och med gester.</li> <li>Olika ensembletyper och deras konventioner för ledning.</li> <li>Rösten, akustiska och elektriska instrument och deras egenskaper och musikaliska användningsområden. Röstvård och metoder för det, till exempel uppsjungningsövningar.</li> <li>Musikalisk kommunikation och samarbetsförmåga.</li> <li>Kommunikation med publik. Presentation av program.</li> <li>Kvalitetsbedömning av musikframföranden, vilket innebär musikalisk värdering, analys och tolkning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven leder <strong>med viss säkerhet</strong> körens eller ensemblens musicerande <strong>i styrda situationer</strong> <strong>i samråd </strong>med handledare. I sitt musicerande uppvisar eleven ett<strong> visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav. Eleven är <strong>bunden</strong> till partituret.</p><p>Eleven redogör <strong>översiktligt</strong> för grundläggande repertoar och stildrag inom valda genrer. Eleven redogör <strong>översiktligt</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.</p><p>Eleven tar ansvar för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>tillfredsställande</strong>.</p><p>Eleven uppvisar en <strong>statisk</strong> <strong>gestik</strong> och <strong>begränsad</strong> slagteknik i <strong>några</strong> taktartsfigurer. Elevens förmedlar <strong>med viss säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>någon</strong> repetitionsmetod <strong>i samråd </strong>med handledare.</p><p>Eleven beskriver <strong>översiktligt</strong> egenskaper hos <strong>några</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>någon</strong> relevant metod för uppsjungning av kör och uppvärmning av ensemble.</p><p>Eleven samarbetar <strong>med viss säkerhet</strong> i musikalisk gestaltning och leder <strong>med viss säkerhet</strong> ett musikframförande. Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken och uppvisar <strong>viss</strong> ledighet i sin kommunikation med gruppen och publiken. Eleven presenterar program <strong>med viss säkerhet</strong>.</p><p>Eleven utvärderar med<strong> enkla </strong>omdömen repetitionsarbete och konsert samt värderar med<strong> enkla </strong>omdömen det konstnärliga resultatet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven leder <strong>med viss säkerhet</strong> körens eller ensemblens musicerande <strong>i styrda situationer</strong> <strong>efter samråd </strong>med handledare. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav. Eleven är <strong>delvis obunden</strong> till partituret <strong>och uppvisar ett visst personligt uttryck i framförandet</strong>.</p><p>Eleven redogör <strong>utförligt</strong> för grundläggande repertoar och stildrag inom valda genrer. Eleven redogör <strong>utförligt</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.</p><p>Eleven tar ansvar <strong>och diskuterar relevanta metoder</strong> för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>tillfredsställande</strong>.</p><p>Eleven uppvisar en <strong>dynamisk</strong> <strong>gestik</strong> och <strong>tillfredsställande </strong>slagteknik i <strong>några</strong> taktartsfigurer. Elevens förmedlar <strong>med viss säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>några</strong> repetitionsmetoder <strong>efter samråd </strong>med handledare.</p><p>Eleven beskriver <strong>utförligt</strong> egenskaper hos <strong>några</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>flera</strong> relevanta metoder för uppsjungning av kör och uppvärmning av ensemble.</p><p>Eleven samarbetar <strong>med viss säkerhet</strong> i musikalisk gestaltning och leder <strong>med viss säkerhet</strong> musikframförande. Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till publiken och uppvisar <strong>viss</strong> ledighet i sin kommunikation med gruppen och publiken. Eleven presenterar program <strong>med viss säkerhet</strong>.</p><p>Eleven utvärderar med<strong> nyanserade </strong>omdömen repetitionsarbete och konsert samt värderar med <strong>nyanserade </strong>omdömen det konstnärliga resultatet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven leder <strong>med säkerhet</strong> körens eller ensemblens musicerande <strong>efter samråd </strong>med handledare. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav. Eleven är <strong>obunden</strong> till partituret <strong>och uppvisar ett personligt uttryck och en spontanitet i framförandet</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande repertoar och stildrag inom valda genrer. Eleven redogör <strong>utförligt</strong> <strong>och nyanserat</strong> för olika ensembletyper och deras instrument samt för konventioner för musikalisk ledning.</p><p>Eleven tar ansvar <strong>och diskuterar relevanta metoder</strong> för eget förberedelsearbete, och resultatet av instudering och tolkning av partitur är <strong>gott</strong>.</p><p>Eleven uppvisar en <strong>dynamisk</strong> och <strong>plastisk</strong> <strong>gestik</strong> samt <strong>god</strong> slagteknik i <strong>flera</strong> taktartsfigurer. Elevens förmedlar <strong>med säkerhet</strong> musikalisk intention i förebildning, gestik och instruktion samt använder <strong>flera</strong> repetitionsmetoder <strong>efter samråd </strong>med handledare.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> egenskaper hos <strong>flera elektriska och akustiska</strong> instrument och deras användningsområden, redogör översiktligt för grundläggande röstfysiologi och använder <strong>flera</strong> relevanta metoder för uppsjungning av kör och uppvärmning av ensemble.</p><p>Eleven samarbetar <strong>med säkerhet</strong> i musikalisk gestaltning och leder <strong>med säkerhet</strong> musikframförande. Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till publiken och uppvisar ledighet i sin kommunikation med gruppen och publiken. Eleven presenterar program <strong>med säkerhet</strong>.</p><p>Eleven utvärderar med<strong> nyanserade </strong>omdömen repetitionsarbete och konsert samt värderar med <strong>nyanserade </strong>omdömen det konstnärliga resultatet<strong> samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSINS01S</h3>",
+      "code": "MUSINS01S",
+      "nameHeading": "<h2>Instrument eller sång 1, 100 poäng</h2>",
+      "name": "Instrument eller sång 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen instrument eller sång 1 omfattar punkterna 1–2, 4–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4–5 samt musicerande inför publik. I kursen behandlas grundläggande färdigheter inom valt instrument eller i sång.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande instrumental spelteknik, alternativt sångteknik.</li> <li>Spel eller sång efter noter och på gehör.</li> <li>Grundläggande musikalisk tolkning, stil och form.</li> <li>Grundläggande repertoar för det egna instrumentet.</li> <li>Musikaliska instuderingsmetoder och övningsmetoder.</li> <li>Instruments konstruktion, grundläggande egenskaper och instrumentvård, alternativt grundläggande röstfysiologi och röstvård och metoder för detta.</li> <li>Grundläggande principer för att möta publik, till exempel presentation av program och medverkande, scennärvaro.</li> <li>Arbetsmiljö vid musikutövning, till exempel ergonomi, hörselvård och elsäkerhet vid instrumentalspel eller sång.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven spelar eller sjunger, avkodar och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med viss säkerhet</strong>. Eleven uppfattar <strong>med viss säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med<strong> tillfredsställande </strong>resultat. Eleven diskuterar och redogör <strong>översiktligt</strong> för <strong>grundläggande</strong> stildrag i <strong>någon</strong> musikstil, med<strong> enkla </strong>resonemang.</p><p>Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett<strong> visst </strong>personligt uttryck.</p><p>Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>någon</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande. Eleven redogör <strong>översiktligt</strong> för <strong>grundläggande</strong> delar av instrumentets konstruktion, funktion och vård, alternativt för <strong>grundläggande</strong> röstfysiologi och röstvård.</p><p>Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i<strong> slutna </strong>sammanhang <strong>inför undervisande lärare</strong>.</p><p>Eleven redogör <strong>översiktligt</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel. Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven spelar eller sjunger, avkodar och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med viss säkerhet</strong>. Eleven uppfattar <strong>med viss säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med<strong> tillfredsställande </strong>resultat. Eleven diskuterar och redogör <strong>utförligt</strong> för <strong>grundläggande</strong> stildrag i <strong>några</strong> musikstilar <strong>och hur de kan påverka interpretationen</strong>, med<strong> välgrundade </strong>resonemang.</p><p>Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett<strong> visst </strong>personligt uttryck.</p><p>Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker speltekniska områden i sitt eget övande som behöver särskild uppmärksamhet</strong> och arbetar efter lärarens instruktioner i sitt eget övande. Eleven redogör <strong>utförligt</strong> för delar av instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.</p><p>Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i<strong> slutna </strong>sammanhang <strong>inför undervisande lärare och andra elever</strong>.</p><p>Eleven redogör <strong>utförligt</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel. Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven spelar eller sjunger, avkodar <strong>a prima vista</strong> och realiserar en enkel notbild på sitt instrument eller med rösten <strong>med säkerhet</strong>. Eleven uppfattar <strong>med säkerhet</strong> en enkel musikalisk figur via gehöret och återger den på sitt instrument eller med rösten med<strong> gott </strong>resultat. Eleven diskuterar och redogör <strong>utförligt</strong> för <strong>varierade</strong> stildrag i <strong>flera</strong> musikstilar <strong>och hur de kan påverka interpretationen</strong>, med<strong> välgrundade och nyanserade </strong>resonemang.</p><p>Eleven spelar eller sjunger <strong>några</strong> enkla musikstycken med ett personligt uttryck.</p><p>Eleven tar, med <strong>tillfredsställande</strong> musikaliskt resultat, ansvar för instudering av musik, prövar <strong>flera</strong> strategier för musikalisk instudering, <strong>utarbetar egna strategier,</strong> <strong>upptäcker och analyserar speltekniska områden i sitt eget övande som behöver särskild uppmärksamhet</strong> och arbetar <strong>såväl</strong> efter lärarens instruktioner i sitt eget övande <strong>som</strong> <strong>med egna övningar</strong>. Eleven redogör <strong>utförligt och nyanserat</strong> för delar av instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.</p><p>Eleven medverkar med tillfredsställande resultat vid framförande av hela musikstycken i<strong> öppna, offentliga </strong>sammanhang.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för förutsättningar för god arbetsmiljö avseende rörelseapparat och hörsel. Eleven förebygger belastningsskador genom övningar och musicerar på ett sätt som motverkar belastningsskador.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSINS02S</h3>",
+      "code": "MUSINS02S",
+      "nameHeading": "<h2>Instrument eller sång 2, 100 poäng</h2>",
+      "name": "Instrument eller sång 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 7,
+      "description": "<p>Kursen instrument eller sång 2 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2, 4 och 7. I kursen behandlas fördjupade färdigheter inom valt instrument eller i sång.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Fördjupad instrumental spelteknik, alternativt sångteknik.</li> <li>Spel eller sång efter noter och på gehör.</li> <li>Musikalitet, konstnärlighet och personligt uttryck.</li> <li>Repertoar för det egna instrumentet.</li> <li>Musikalisk tolkning, stil och form.</li> <li>Musikalisk instudering.</li> <li>Konserter och andra former av publikframträdanden, scennärvaro.</li> <li>Musikalisk kommunikation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven tar ansvar för att studera in och framföra musikverk av <strong>mindre </strong>omfattning med tillfredsställande resultat. I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang. Dessutom gör eleven <strong>enkla</strong> musikaliska tolkningar utifrån genre och praxis. Eleven uppvisar en <strong>något</strong> <strong>utvecklad </strong>spel- eller sångteknik och anpassar den<strong> delvis</strong> till olika musikaliska uttryck.</p><p>Eleven spelar eller sjunger en <strong>begränsad </strong>grundläggande repertoar med tillfredsställande musikaliskt resultat. Eleven tar ansvar för instudering av musik, prövar <strong>någon</strong> strategi för musikalisk instudering och arbetar efter lärarens instruktioner i sitt eget övande.</p><p>Eleven redogör <strong>översiktligt</strong> för instrumentets konstruktion och funktion, alternativt för röstfysiologi och röstvård.</p><p>Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med <strong>viss </strong>lyhördhet.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven tar ansvar för att studera in och framföra musikverk av <strong>en viss </strong>omfattning med tillfredsställande resultat. I sitt musicerande, efter noter och på gehör, uppvisar eleven ett konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang. Dessutom gör eleven <strong>välgrundade</strong> musikaliska tolkningar utifrån genre och praxis. Eleven uppvisar en <strong>utvecklad </strong>spel- eller sångteknik och anpassar den till olika musikaliska uttryck.</p><p>Eleven spelar eller sjunger en grundläggande repertoar med tillfredsställande musikaliskt resultat. Eleven tar ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker</strong> <strong>spel- eller sångtekniska områden som behöver särskild uppmärksamhet</strong> och arbetar efter lärarens instruktioner i sitt eget övande.</p><p>Eleven redogör <strong>utförligt</strong> för instrumentets konstruktion, funktion och vård, alternativt för röstfysiologi och röstvård.</p><p>Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med <strong>viss </strong>lyhördhet.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven tar ansvar för att studera in och framföra musikverk av <strong>större </strong>omfattning med tillfredsställande resultat. I sitt musicerande, efter noter och på gehör, uppvisar eleven ett <strong>gott</strong> konstnärligt <strong>och personligt</strong> uttryck och följer <strong>med säkerhet</strong> genrespecifika krav utifrån musikens historiska och kulturella sammanhang. Dessutom gör eleven <strong>välgrundade och nyanserade</strong> musikaliska tolkningar utifrån genre och praxis. Eleven uppvisar en väl <strong>utvecklad </strong>spel- eller sångteknik och anpassar den<strong> väl </strong>till olika musikaliska uttryck.</p><p>Eleven spelar eller sjunger en <strong>omfattande</strong> grundläggande repertoar med tillfredsställande musikaliskt resultat. Eleven tar ansvar för instudering av musik, prövar <strong>några</strong> strategier för musikalisk instudering, <strong>upptäcker och analyserar</strong> <strong>spel- eller sångtekniska områden som behöver särskild uppmärksamhet</strong> samt arbetar efter lärarens instruktioner <strong>och</strong> <strong>egna väl fungerande övningar</strong> i sitt eget övande.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för instrumentets konstruktion, funktion och vård, alternativt för röstfysiologi och röstvård.</p><p>Eleven kommunicerar med och anpassar sitt musikaliska uttryck med tillfredsställande resultat till publik vid konsertframförande och anpassar sitt musikaliska uttryck till publik och medmusiker med lyhördhet.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSINS03S</h3>",
+      "code": "MUSINS03S",
+      "nameHeading": "<h2>Instrument eller sång 3, 100 poäng</h2>",
+      "name": "Instrument eller sång 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 8,
+      "description": "<p>Kursen instrument eller sång 3 omfattar punkterna 1–2, 4, och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 samt musicerande inför och kommunikation med publik. I kursen behandlas avancerade färdigheter inom valt instrument eller i sång.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Avancerad instrumental spelteknik, alternativt avancerad sångteknik.</li> <li>Musikalisk tolkning, uppförandepraxis och form.</li> <li>Genrer, stilar och epoker.</li> <li>Konstnärligt uttryck och tolkning vid musikframförande.</li> <li>Repertoar för det egna instrumentet.</li> <li>Musikaliska instuderingsmetoder.</li> <li>Musikalisk kommunikation med publik och medmusiker, scennärvaro.</li> <li>Solistiskt framträdande.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med<strong> tillfredsställande </strong>resultat och visar i sitt musicerande ett <strong>visst</strong> personligt uttryck. Eleven prövar olika musikaliska uttryck, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem. I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med viss säkerhet</strong>.</p><p>Eleven redogör <strong>översiktligt</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>översiktligt</strong> om interpretation. Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.</p><p>Med <strong>tillfredsställande</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden och arbetar efter lärarens instruktioner i sitt eget övande.</p><p>Eleven planerar och genomför <strong>något</strong> konsertframträdande med tillfredsställande resultat och anpassar sitt uttryck efter situation och publik.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med<strong> tillfredsställande </strong>resultat och visar i sitt musicerande ett personligt uttryck. Eleven prövar olika musikaliska uttryck <strong>med tillfredsställande resultat</strong>, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem. I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med säkerhet</strong>.</p><p>Eleven redogör <strong>utförligt</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>utförligt och gör välgrundade ställningstaganden</strong> om interpretation. Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.</p><p>Med <strong>gott</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden och arbetar efter lärarens instruktioner i sitt eget övande.</p><p>Eleven planerar och genomför något konsertframträdande med tillfredsställande resultat <strong>och anpassar sitt uttryck efter medmusiker</strong>, situation och publik.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven tar ansvar för att studera in och framföra omfattande musikverk i valda stilar med<strong> gott </strong>resultat och visar i sitt musicerande ett personligt, <strong>konstnärligt</strong> uttryck. Eleven prövar olika musikaliska uttryck <strong>med gott resultat</strong>, och i sitt musicerande anpassar eleven sin spel- eller sångteknik till dem <strong>och till olikartade musikaliska situationer</strong>. I sina framföranden följer eleven konventioner för aktuell genre, stil och epok <strong>med säkerhet</strong>.</p><p>Eleven redogör <strong>utförligt</strong> <strong>och nyanserat</strong> för uppförandepraxis och musikalisk form samt resonerar <strong>utförligt och nyanserat och gör välgrundade ställningstaganden</strong> om interpretation. Eleven uppvisar i sitt musicerande <strong>med viss säkerhet</strong> en varierad <strong>och omfattande</strong> repertoar avseende stil samt spelteknisk, alternativt sångteknisk, nivå.</p><p>Med <strong>mycket</strong> <strong>gott</strong> musikaliskt resultat tar eleven ansvar för instudering, prioriterar speltekniska områden,<strong> utarbetar egna strategier </strong>och arbetar efter lärarens instruktioner i sitt eget övande.</p><p>Eleven planerar och genomför <strong>några</strong> konsertframträdanden med tillfredsställande resultat och anpassar sitt uttryck efter<strong> medmusiker</strong>, situation och publik.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSKÖS01</h3>",
+      "code": "MUSKÖS01",
+      "nameHeading": "<h2>Körsång 1, 100 poäng</h2>",
+      "name": "Körsång 1",
+      "englishName": "Choir 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 9,
+      "description": "<p>Kursen körsång 1 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 7. I kursen behandlas grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Körmusicerande i flerstämmig körmusik på en grundläggande nivå från olika repertoarområden.</li> <li>Musicerande i gehörsbaserad och noterad musik.</li> <li>Genrer i olika tider och kulturer. Stildrag och kännetecken.</li> <li>Samarbetsförmåga och metoder för instudering, enskilt och i grupp.</li> <li>Grundläggande röstvård och metoder för det.</li> <li>Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> i kör, efter <strong>enkla</strong> och <strong>kända</strong> notbilder samt i <strong>enkel</strong> och styrd gehörsbaserad musik. I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande.</p><p>Eleven redogör <strong>översiktligt</strong> för något grundläggande inslag i röstvård.</p><p>Eleven samarbetar <strong>med viss säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>enkla</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar <strong>med säkerhet</strong> i kör, efter notbilder samt i styrd gehörsbaserad musik. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet </strong>genrespecifika krav.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt </strong>för några grundläggande metoder för röstvård.</p><p>Eleven samarbetar <strong>med säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar <strong>med säkerhet</strong> i kör, efter <strong>komplexa </strong>notbilder samt i styrd <strong>och fri</strong> gehörsbaserad musik. I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt uttryck och följer <strong>med säkerhet </strong>genrespecifika krav.</p><p>Eleven tar ansvar för instudering av stämmaterial inför repetition, och det musikaliska resultatet är tillfredsställande. <strong>Dessutom ger eleven välgrundade förslag på hur arbetet kan förbättras och upptäcker</strong>, <strong>analyserar</strong> <strong>och föreslår lösningar på olika instuderingsproblem</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för några metoder för röstvård.</p><p>Eleven samarbetar <strong>med säkerhet </strong>samt tar ansvar vid gruppens musikframförande och i kommunikation med publik<strong> samt ger förslag på hur detta kan förbättras</strong>. Eleven värderar med <strong>nyanserade</strong> omdömen innehållet i och dispositionen av musikframförandet och kommunikationen med publiken <strong>samt ger förslag på hur detta kan förbättras</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSKÖS02S</h3>",
+      "code": "MUSKÖS02S",
+      "nameHeading": "<h2>Körsång 2, 100 poäng</h2>",
+      "name": "Körsång 2",
+      "englishName": "Choir 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 10,
+      "description": "<p>Kursen körsång 2 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 4–5 och 7. I kursen behandlas fördjupade kunskaper inom vald körtyp.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Körmusicerande i olika körtyper från olika repertoarområden och tidsepoker, med ett konstnärligt musikaliskt och sceniskt uttryck. </li> <li>Rytm, melodi, harmonik och form.</li> <li>Körmusicerande i gehörsbaserad och noterad musik.</li> <li>Klangideal, stildrag och uppförandepraxis i repertoar från olika tider.</li> <li>Samarbetsförmåga och fördjupade metoder för instudering, enskilt och i grupp, med textanalys och grundläggande körledning. Initiativtagande i instudering.</li> <li>Grundläggande röstfysiologi och fördjupad röstvård samt metoder för det.</li> <li>Fördjupad musikalisk gestaltning och kommunikation i samarbete med andra vid framträdanden inför publik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med viss säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och <strong>till viss del</strong> utantill. Eleven håller sin stämma i <strong>bekanta</strong> musikaliska situationer. I sitt musicerande bidrar eleven med <strong>tillfredsställande </strong>resultat till körens musikaliska och sceniska gestaltning. I sitt musicerande följer eleven <strong>med</strong> <strong>viss</strong> <strong>säkerhet </strong>klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>översiktligt</strong> för dem.</p><p>Eleven diskuterar <strong>översiktligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven redogör <strong>översiktligt</strong> för körens övriga stämmaterial. Eleven gör <strong>enkla</strong> analyser av repetitionsarbetet och presenterar <strong>enkla</strong> förslag på hur det kan förbättras. Eleven gör en <strong>enkel</strong> textanalys av ett givet körstycke och diskuterar <strong>översiktligt</strong> hur det kan påverka styckets interpretation. Eleven förbereder och leder <strong>i samråd </strong>med handledare instudering av enkel repertoar i sin egen körstämma.</p><p>Eleven redogör <strong>översiktligt</strong> för grundläggande röstfysiologi. Eleven redogör <strong>översiktligt</strong> för röstvård för sin egen röst och använder med<strong> tillfredsställande</strong> resultat <strong>någon</strong> relevant metod för uppsjungning av sin körstämma.</p><p>Eleven kommunicerar med och anpassar sin kommunikation <strong>med viss säkerhet</strong> till medsångare och publik i musikalisk gestaltning. Eleven presenterar program <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med viss säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och utantill. Eleven håller sin stämma i <strong>obekanta</strong> musikaliska situationer. I sitt musicerande bidrar eleven med<strong> tillfredsställande</strong> resultat till körens musikaliska och sceniska gestaltning. I sitt musicerande följer eleven <strong>med</strong> <strong>viss</strong> <strong>säkerhet </strong>klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>utförligt </strong>för dem.</p><p>Eleven diskuterar <strong>utförligt</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven redogör <strong>utförligt</strong> för körens övriga stämmaterial. Eleven gör <strong>välgrundade</strong> analyser av repetitionsarbetet och presenterar <strong>välgrundade</strong> förslag på hur det kan förbättras. Eleven gör en <strong>välgrundad</strong> textanalys av ett givet körstycke och diskuterar <strong>utförligt </strong>hur det kan påverka styckets interpretation. Eleven förbereder och leder <strong>efter samråd </strong>med handledare instudering av enkel repertoar i sin egen körstämma.</p><p>Eleven redogör <strong>utförligt</strong> för grundläggande röstfysiologi. Eleven redogör <strong>utförligt</strong> för röstvård för sin egen röst och använder <strong>med tillfredsställande</strong> resultat <strong>några</strong> relevanta metoder för uppsjungning av sin körstämma.</p><p>Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till medsångare och publik i musikalisk gestaltning. Eleven presenterar program <strong>med viss säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar på ett nyanserat sätt i kör och följer <strong>med säkerhet</strong> genrers krav på rytm, melodi, harmonik och form, innantill efter komplexa och varierade former av notbilder och utantill. Eleven håller sin stämma i <strong>obekanta och komplexa</strong> musikaliska situationer. I sitt musicerande bidrar eleven med<strong> gott </strong>resultat till körens musikaliska och sceniska gestaltning. I sitt musicerande följer eleven <strong>med säkerhet </strong>klangideal, stildrag och uppförandepraxis i aktuell repertoar och redogör <strong>utförligt och nyanserat</strong> för dem.</p><p>Eleven diskuterar <strong>utförligt</strong> <strong>och nyanserat</strong> relevanta metoder för instudering av aktuellt musikaliskt material. Eleven redogör <strong>utförligt och nyanserat</strong> för körens övriga stämmaterial. Eleven gör <strong>välgrundade</strong> <strong>och nyanserade</strong> analyser av repetitionsarbetet och presenterar <strong>välgrundade</strong> förslag på hur det kan förbättras. Eleven gör en <strong>välgrundad och nyanserad</strong> textanalys av ett givet körstycke och diskuterar <strong>utförligt och nyanserat </strong>hur det kan påverka styckets interpretation. Eleven förbereder och leder <strong>efter samråd </strong>med handledare instudering av enkel repertoar i sin egen körstämma.</p><p>Eleven redogör <strong>utförligt</strong> <strong>och nyanserat</strong> för grundläggande röstfysiologi. Eleven redogör <strong>utförligt och nyanserat</strong> för röstvård för sin egen röst och använder med<strong> gott </strong>resultat <strong>flera</strong> relevanta metoder för uppsjungning av sin körstämma<strong> och kören</strong>.</p><p>Eleven kommunicerar med och anpassar sin kommunikation <strong>med säkerhet</strong> till medsångare och publik i musikalisk gestaltning. Eleven presenterar program <strong>med säkerhet</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSMUS0</h3>",
+      "code": "MUSMUS0",
+      "nameHeading": "<h2>Musik, 100 poäng</h2>",
+      "name": "Musik",
+      "englishName": "Music",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 11,
+      "description": "<p>Kursen musik omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på 1–2 och röstvård. Kursen behandlar grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Musicerande i gehörsbaserad och noterad musik med röst eller instrument.</li> <li>Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.</li> <li>Sånger, alternativt låtar och danser, från olika tider eller kulturer.</li> <li>Instudering i grupp.</li> <li>Instrument och deras grundläggande egenskaper, kvaliteter och inbördes relationer. Grundläggande röstvård och metoder för det.</li> <li>Grundläggande musikskapande och bearbetning av musikaliskt material, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.</li> <li>Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.</li> <li>Programvaror för musikbearbetning och grundläggande hantering av musikteknisk utrustning och digital bearbetning av musikaliskt material.</li> <li>Grundläggande arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi och hörselvård.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar efter enkel ackordanalys och på gehör. I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett <strong>visst</strong> konstnärligt uttryck. Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>. Eleven redogör<strong> översiktligt </strong>för grundläggande instrumental och vokal repertoar i olika stilar.</p><p>Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, i grupp och kan framföra dem inom gruppen. Dessutom ger eleven<strong> enkla </strong>förslag på hur arbetet kan förbättras. Eleven redogör <strong>översiktligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.</p><p>Eleven redogör <strong>översiktligt</strong> för programvara för musikbearbetning och kan<strong> i samråd </strong>med handledare koppla upp en ljudanläggning. Eleven redogör <strong>översiktligt</strong> för några arbetsmiljöfrågor som rör musicerande.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar efter enkel ackordanalys och på gehör. I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett konstnärligt uttryck. Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>. Eleven redogör<strong> utförligt </strong>för grundläggande instrumental och vokal repertoar i olika stilar.</p><p>Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och</strong> <strong>självständigt</strong> och kan framföra dem inom gruppen. Dessutom ger eleven<strong> välgrundade </strong>förslag på hur arbetet kan förbättras. Eleven redogör <strong>utförligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.</p><p>Eleven redogör <strong>utförligt</strong> för programvara för musikbearbetning och kan<strong> efter samråd </strong>med handledare koppla upp en ljudanläggning. Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar efter enkel ackordanalys och på gehör. I sitt musicerande följer eleven <strong>med säkerhet</strong> genrespecifika krav och uppvisar ett <strong>gott</strong> konstnärligt uttryck. Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>gott</strong>. Eleven redogör<strong> utförligt och nyanserat </strong>för grundläggande instrumental och vokal repertoar i olika stilar.</p><p>Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och</strong> <strong>självständigt</strong> och kan framföra dem inom gruppen. Dessutom ger eleven<strong> välgrundade och nyanserade </strong>förslag på hur arbetet kan förbättras. Eleven redogör <strong>utförligt</strong> <strong>och nyanserat</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för programvara för musikbearbetning och kan<strong> efter samråd </strong>med handledare koppla upp en ljudanläggning. Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSMUK0</h3>",
+      "code": "MUSMUK0",
+      "nameHeading": "<h2>Musik för yrkesdansare, 50 poäng</h2>",
+      "name": "Musik för yrkesdansare",
+      "englishName": "Music for professional dancers",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 12,
+      "description": "<p>Kursen musik för yrkesdansare omfattar punkterna 1–3 och 5 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3 samt kunskaper om röstvård. I kursen behandlas grundläggande färdigheter i ämnet. Kursen musik för yrkesdansare får bara anordnas på yrkesdansarutbildningen enligt förordningen (2011:7) om dansarutbildning.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Musikalisk kommunikation med rörelse och röst från olika tider eller kulturer.</li> <li>Musicerande i gehörsbaserad och noterad musik med röst eller instrument.</li> <li>Sånger, alternativt låtar, från olika tider eller kulturer.</li> <li>Instudering i grupp. </li> <li>Grundläggande improvisation. Musikalisk frasering och rörelsefrasering.</li> <li>Grundläggande musikkunskap, till exempel kompositörer, instrument, orkester och dirigentens roll.</li> <li>Dansens relation till musik. Hur man visualiserar, interagerar, kontrasterar, kompletterar eller arbetar parallellt med det musikaliska uttrycket.</li> <li>Grundläggande musiklära, till exempel musikens beståndsdelar, elementära formbegrepp.</li> <li>Repertoarkännedom i relation till scenkonstnärlig dans. Musikhistoria, epoker, genrer, musik- och dansstilar med betoning på konstnärliga gestaltningsidéer och det musikaliska uttrycket.</li> <li>Analys av levande och inspelad musik.</li> <li>Sång eller röstträning. Grundläggande röstvård och metoder för det. Grundläggande formbegrepp och musikens beståndsdelar, till exempel, puls, rytm, taktarter, frasering och polyrytmik.</li> <li>Grundläggande arbetsmiljö vid musikutövning, till exempel hörselvård.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör. I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav. Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen. Dessutom ger eleven<strong> enkla </strong>förslag på hur arbetet kan förbättras.</p><p>Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några</strong> <strong>enkla</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning. Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>tillfredsställande </strong>resultat<strong>. </strong> I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>.</p><p>Eleven redogör <strong>översiktligt </strong>för musiklära. Dessutom identifierar eleven <strong>med viss säkerhet </strong>och redogör <strong>översiktligt </strong>för några enkla musikaliska former. I redogörelserna använder eleven <strong>med viss säkerhet </strong>vanliga musikteoretiska begrepp.</p><p>Eleven redogör <strong>översiktligt </strong>för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker samt <strong>översiktligt </strong>för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket. I redogörelsen identifierar eleven <strong>med viss säkerhet </strong>olika sätt som dans förhåller sig till musik på. Dessutom redogör eleven <strong>översiktligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar <strong>med viss säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör. I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav. Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen. Dessutom ger eleven<strong> välgrundade </strong>förslag på hur arbetet kan förbättras.</p><p>Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>. Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>tillfredsställande </strong>resultat<strong>. </strong> I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande. Dessutom ger eleven impulser som påverkar det musikaliska förloppet</strong>.</p><p>Eleven redogör <strong>utförligt </strong>för musiklära. Dessutom identifierar eleven <strong>med viss säkerhet </strong>och redogör <strong>utförligt </strong>för några enkla musikaliska former. I redogörelserna använder eleven <strong>med viss säkerhet </strong>vanliga musikteoretiska begrepp.</p><p>Eleven redogör<strong> utförligt </strong>för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker och <strong>välgrundat</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket. I redogörelsen identifierar eleven <strong>med viss säkerhet </strong>olika sätt som dans förhåller sig till musik på. Dessutom redogör eleven <strong>utförligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar <strong>med säkerhet</strong> med kroppen och med rösten eller instrument, efter både enklare noter och på gehör. I sitt musicerande följer eleven <strong>med säkerhet</strong> genrespecifika krav. Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar i grupp och kan framföra dem inom gruppen. Dessutom ger eleven <strong>välgrundade och nyanserade </strong>förslag på hur arbetet kan förbättras.</p><p>Med <strong>gott</strong> resultat prövar eleven <strong>flera</strong> rytmer och danser från olika kulturer eller tider samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>. Eleven återger på gehör melodiska, harmoniska eller rytmiska element med <strong>gott </strong>resultat<strong>.</strong> I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>gott. Dessutom ger eleven impulser som påverkar det musikaliska förloppet, styr och leder det musikaliska förloppet</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för musiklära. Dessutom identifierar eleven <strong>med säkerhet </strong>och redogör <strong>utförligt och nyanserat </strong>för några enkla musikaliska former. I redogörelserna använder eleven <strong>med säkerhet </strong>vanliga musikteoretiska begrepp.</p><p>Eleven redogör<strong> utförligt och nyanserat </strong>för grundläggande instrumental och vokal repertoar i olika stilar, genrer och epoker samt <strong>välgrundat</strong> <strong>och nyanserat</strong> för hur de konstnärliga idéerna relaterar till det musikaliska uttrycket. I redogörelsen identifierar eleven <strong>med säkerhet </strong>olika sätt som dans förhåller sig till musik på. Dessutom redogör eleven <strong>utförligt</strong> <strong>och</strong> <strong>nyanserat </strong>för de vanligaste musikinstrumenten och för grundläggande röstvård.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSMUI0</h3>",
+      "code": "MUSMUI0",
+      "nameHeading": "<h2>Musikimprovisation, 100 poäng</h2>",
+      "name": "Musikimprovisation",
+      "englishName": "Music improvisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 13,
+      "description": "<p>Kursen musikimprovisation omfattar punkterna 1–3 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 3.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Musikskapande på det egna instrumentet, alternativt med den egna rösten.</li> <li>Spel, alternativt sång, i gehörsbaserad musik.</li> <li>Musikaliska stilar och musikaliska strukturer, melodiska, harmoniska och rytmiska element. Musikteoretiska begrepp till grund för improvisation.</li> <li>Fria improvisationer, musikalisk lek och spontanitet.</li> <li>Experimenterande med musikaliskt material.</li> <li>Byggstenar för improvisation, till exempel modus, skalor och musikaliska former.</li> <li>Fri improvisation.</li> <li>Interaktion, samspel och kommunikation med medmusiker.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven återger på gehör <strong>enkla</strong> melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>tillfredsställande</strong>. Eleven gestaltar <strong>med viss säkerhet</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik och rytmik inom <strong>någon</strong> på förhand given harmonisk och rytmisk struktur med <strong>tillfredsställande</strong> resultat.</p><p>Eleven tar ansvar för sin del av musicerandet i grupp med <strong>tillfredsställande </strong>resultat. I sitt musicerande uppvisar eleven ett <strong>visst</strong> konstnärligt uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>någon</strong> på förhand given musikalisk situation. Eleven redogör <strong>översiktligt</strong> för <strong>några</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>med viss säkerhet</strong> stilar inom improvisation.</p><p>I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven återger på gehör melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>tillfredsställande</strong>. Eleven gestaltar <strong>med viss säkerhet</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik och rytmik inom <strong>några</strong> på förhand givna harmoniska och rytmiska strukturer med<strong> tillfredsställande</strong> resultat. <strong>Dessutom improviserar eleven fritt </strong><strong>med</strong><strong> tillfredsställande </strong><strong>resultat</strong>.</p><p>Eleven tar ansvar för sin del av musicerandet i grupp med <strong>gott </strong>resultat. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>flera </strong>på förhand givna musikaliska situationer. Eleven redogör <strong>utförligt</strong> för <strong>några</strong> musikteoretiska begrepp, och följer i sitt musicerande <strong>med viss säkerhet</strong> stilar inom improvisation.</p><p>I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>tillfredsställande</strong>.<strong> Dessutom ger eleven impulser som påverkar det musikaliska förloppet</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven återger på gehör <strong>komplexa</strong> melodiska, harmoniska eller rytmiska element, och det musikaliska resultatet är <strong>gott</strong>. Eleven gestaltar <strong>med säkerhet</strong> <strong>och utvecklar</strong> ett musikaliskt material, frångår det på förhand givna samt varierar melodik, rytmik <strong>och harmoni</strong> inom <strong>flera</strong> på förhand givna <strong>och spontana</strong> harmoniska och rytmiska strukturer med<strong> gott</strong> resultat. <strong>Dessutom improviserar eleven fritt med gott resultat</strong>.</p><p>Eleven tar ansvar för sin del av musicerandet i grupp med <strong>gott </strong>resultat. I sitt musicerande uppvisar eleven ett <strong>gott</strong> konstnärligt <strong>och nyanserat</strong> uttryck och anpassar <strong>med viss säkerhet</strong> sitt musicerande till <strong>flera </strong>på förhand givna <strong>och fria</strong> musikaliska situationer. Eleven redogör <strong>utförligt och nyanserat</strong> för <strong>flera </strong>musikteoretiska begrepp, och följer i sitt musicerande <strong>med säkerhet</strong> stilar inom improvisation.</p><p>I sitt musicerande lyssnar eleven till de övriga i gruppen och anpassar sina insatser till impulser från dem, och det musikaliska resultatet är <strong>gott</strong>.<strong> Dessutom ger eleven impulser som påverkar det musikaliska förloppet, styr och leder det musikaliska förloppet</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSMUS01</h3>",
+      "code": "MUSMUS01",
+      "nameHeading": "<h2>Musikproduktion 1, 100 poäng</h2>",
+      "name": "Musikproduktion 1",
+      "englishName": "Music production 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 14,
+      "description": "<p>Kursen musikproduktion 1 omfattar punkterna 8–9 under rubriken Ämnets syfte, med särskild betoning på punkt 9. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande bearbetning av ljud med analog och digital teknik.</li> <li>Medier för spridning av musikaliska produktioner.</li> <li>Koppling och styrning av ljudutrustning vid inspelningar och scenframföranden.</li> <li>Grundläggande ljuddesign och teknik vid livemusik.</li> <li>Rumsakustik och ljudlära.</li> <li>Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra, till exempel vid inspelning av sång eller av akustiska eller elektriska instrument.</li> <li>Lagar och regler som gäller konstnärliga produktioner, till exempel upphovsrätt.</li> <li>Arbetsmiljöfrågor med fokus på elsäkerhet, ergonomi, hörselvård, belysning, arbetstidsregler och arbetsmiljöregler.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat. Eleven beskriver grundläggande egenskaper hos <strong>något</strong> medium som vanligen används för att sprida musik. Eleven kopplar ihop och styr en <strong>given</strong> <strong>enkel</strong> ljudteknik för scenbruk och utför en ljuddesign <strong>i samråd </strong>med handledare. Eleven beskriver <strong>översiktligt någon</strong> inspelningsteknik, hanterar inspelningsutrustning i <strong>styrda situationer</strong> och drar <strong>enkla</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet.</p><p>Eleven redogör <strong>översiktligt</strong> för och använder <strong>något</strong> grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>översiktligt</strong> för rumsakustiska förutsättningar i <strong>någon</strong> känd musikmiljö.</p><p>Eleven planerar och genomför en musikproduktion i samarbete med andra, och resultatet är tillfredsställande. Eleven uppvisar ett <strong>visst</strong> konstnärligt uttryck. Eleven redogör <strong>översiktligt</strong> för upphovsrätt för konstnärliga verk och beskriver <strong>översiktligt</strong> <strong>någon</strong> viktig förutsättning för en säker arbetsmiljö vid musikproduktion.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat. Eleven beskriver grundläggande egenskaper hos <strong>några </strong>medier som vanligen används för att sprida musik. Eleven <strong>väljer</strong>, kopplar ihop och styr en <strong>sammansatt </strong>ljudteknik för scenbruk och utför en ljuddesign <strong>efter samråd </strong>med handledare. Eleven beskriver <strong>utförligt </strong>några inspelningstekniker, hanterar inspelningsutrustning i <strong>styrda situationer</strong> och drar <strong>välgrundade</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet.</p> <p>Eleven redogör <strong>utförligt </strong>för och använder <strong>några </strong>grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>utförligt</strong> för rumsakustiska förutsättningar i <strong>några</strong> kända musikmiljöer.</p> <p>Eleven planerar och genomför en musikproduktion i samarbete med andra, och resultatet är tillfredsställande. <strong>Dessutom tar eleven något initiativ som utvecklar resultatet</strong>. Eleven uppvisar ett konstnärligt uttryck. Eleven redogör <strong>utförligt</strong> för upphovsrätt för konstnärliga verk och <strong>identifierar och </strong> beskriver <strong>utförligt</strong> <strong>några</strong> viktiga förutsättningar för en säker arbetsmiljö vid musikproduktion.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven bearbetar såväl analoga som digitala signaler och hanterar teknik för det med tillfredsställande resultat. Eleven beskriver grundläggande egenskaper hos <strong>flera </strong>medium som vanligen används för att sprida musik. Eleven <strong>väljer</strong>, kopplar ihop och styr en <strong>sammansatt </strong>ljudteknik för scenbruk och utför en ljuddesign <strong>efter samråd </strong>med handledare. Eleven beskriver <strong>utförligt och nyanserat flera</strong> inspelningstekniker, <strong>väljer</strong> och hanterar inspelningsutrustning i <strong>fria situationer</strong> och drar <strong>välgrundade och nyanserade</strong> slutsatser om faktorer som påverkar det ljudtekniska resultatet. <strong>Dessutom förutser eleven svårigheter och anpassar sig för att utveckla resultatet</strong>.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för och använder <strong>flera </strong>grundläggande begrepp för rumsakustik och ljudlära samt redogör <strong>utförligt</strong> och nyanserat för rumsakustiska förutsättningar i <strong>flera</strong> kända musikmiljöer.</p> <p>Eleven planerar och genomför en musikproduktion i samarbete med andra och resultatet är tillfredsställande. <strong>Dessutom tar eleven några initiativ som utvecklar resultatet</strong>. Eleven uppvisar ett <strong>gott</strong> konstnärligt uttryck. Eleven redogör <strong>utförligt och nyanserat</strong> för upphovsrätt för konstnärliga verk och <strong>identifierar och </strong>beskriver <strong>utförligt och nyanserat</strong> <strong>några</strong> viktiga förutsättningar för en säker arbetsmiljö vid musikproduktion samt <strong>ger förslag på åtgärder för att förbättra arbetsmiljön vid musikproduktion</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSMUS02</h3>",
+      "code": "MUSMUS02",
+      "nameHeading": "<h2>Musikproduktion 2, 100 poäng</h2>",
+      "name": "Musikproduktion 2",
+      "englishName": "Music production 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 15,
+      "description": "<p>Kursen musikproduktion 2 omfattar punkterna 5 och 8–9 under rubriken Ämnets syfte, med särskild betoning på punkt 8. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Akustiska och elektriska instrument och deras konstruktion, funktion och egenskaper samt röstens fysiologi.</li> <li>Fördjupad bearbetning av ljud med analog och digital teknik. Teknik och metoder för musiksampling samt bearbetning av midisignaler.</li> <li>Fördjupad ljuddesign för publik och scen, till exempel enklare beräkningar av ljudtryck och spridningsområde, planering och val av utrustning.</li> <li>Koppling, synkronisering och styrning av ljudutrustning vid inspelningar och scenframföranden, både avseende publikljud och scenljud med monitormixning. Ljudnivåmätning.</li> <li>Fördjupad liveteknik, till exempel digital signaldistribution, förinställning och intrimning av ljudutrustning.</li> <li>Interaktion mellan musikproduktion och andra medier, till exempel film och tv.</li> <li>Ellära som är relevant för musikproduktion.</li> <li>Felsökning, underhåll och enkel reparation av musikteknisk utrustning.</li> <li>Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra och med ett konstnärligt kvalitativt resultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> konstruktion och egenskaper hos några vanliga instrument och ger <strong>något </strong>exempel på hur rösten fungerar.</p><p>Eleven hanterar och bearbetar med <strong>tillfredsställande </strong>resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta. Eleven gör <strong>enkla</strong> bearbetningar av midisignaler.</p><p>Eleven designar ljud för publik och scen i bekanta situationer med <strong>tillfredsställande</strong> resultat. <strong>I samråd </strong>med handledare och med<strong> visst </strong>handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen. Resultatet är <strong>tillfredsställande</strong>. Dessutom redogör eleven <strong>översiktligt</strong> för den teknik som använts.</p><p>Eleven diskuterar <strong>översiktligt </strong>utifrån <strong>några </strong>exempel hur inspelad musik kan användas tillsammans med andra medier.</p><p>Eleven redogör <strong>översiktligt</strong> för grundläggande ellära relaterad till musikproduktion. Dessutom utför eleven <strong>enkelt </strong>underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar <strong>uppenbara</strong> fel och ger <strong>något</strong> adekvat förslag på hur felen kan avhjälpas eller repareras.</p><p>Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är <strong>tillfredsställande</strong>. Eleven uppvisar ett <strong>visst </strong>konstnärligt uttryck.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion, <strong>funktion</strong> och egenskaper hos några vanliga <strong>akustiska och elektriska</strong> instrument och ger <strong>några </strong>exempel på hur rösten fungerar <strong>och</strong> <strong>hanteras i musikproduktion</strong>.</p><p>Eleven hanterar och bearbetar med <strong>gott </strong>resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta. Eleven gör bearbetningar av midisignaler.</p><p>Eleven designar ljud för publik och scen i bekanta<strong> och nya </strong>situationer med<strong> tillfredsställande </strong>resultat. <strong>Efter samråd </strong>med handledare och med <strong>gott</strong> handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen. Resultatet är <strong>gott</strong>. Dessutom redogör eleven <strong>utförligt </strong>för den teknik som använts.</p><p>Eleven diskuterar <strong>utförligt </strong>utifrån <strong>några </strong>exempel hur inspelad musik kan användas tillsammans med andra medier.</p><p>Eleven redogör <strong>utförligt</strong> för grundläggande ellära relaterad till musikproduktion. Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger <strong>några</strong> adekvata förslag på hur felen kan avhjälpas eller repareras.</p><p>Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är <strong>tillfredsställande</strong>. Eleven uppvisar ett <strong>visst </strong>konstnärligt uttryck. <strong>Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet</strong><strong>.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt</strong> konstruktion, <strong>funktion </strong>och egenskaper hos några vanliga <strong>akustiska och elektriska </strong>instrument och ger <strong>flera </strong>exempel på hur rösten fungerar <strong>och</strong> <strong>hur olika rösttyper skiljer sig åt och hanteras i musikproduktion</strong>.</p><p>Eleven hanterar och bearbetar med <strong>gott </strong>resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar <strong>kvalificerad</strong> teknik för detta. Eleven gör <strong>avancerade</strong> bearbetningar av midisignaler.</p><p>Eleven designar ljud för publik och scen i bekanta<strong> och nya </strong>situationer med<strong> gott </strong>resultat.<strong> Eleven </strong><strong>väljer</strong><strong> efter samråd </strong><strong>med handledare </strong><strong>lämplig teknik. Efter samråd </strong>med handledare och med <strong>mycket gott </strong>handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande – både avseende publikljud och monitormixning för scenen. Resultatet är <strong>gott. </strong>Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för den teknik som använts. <strong>Eleven ger även förslag på hur arbetet kan förbättras.</strong></p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>utifrån <strong>flera </strong>exempel hur inspelad musik kan användas tillsammans med andra medier.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande ellära relaterad till musikproduktion. Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger <strong>flera </strong>adekvata förslag på hur felen kan avhjälpas eller repareras.</p><p>Eleven planerar och genomför en större musikproduktion i samarbete med andra och resultatet är <strong>gott</strong>. Eleven uppvisar ett <strong>gott </strong>konstnärligt uttryck. <strong>Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet.</strong></p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MUSRYT0</h3>",
+      "code": "MUSRYT0",
+      "nameHeading": "<h2>Rytmik, 100 poäng</h2>",
+      "name": "Rytmik",
+      "englishName": "Rhythm",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 16,
+      "description": "<p>Kursen rytmik omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Musikalisk kommunikation med rörelse och röst. Puls, taktarter, frasering och polyrytmik.</li> <li>Rytmer och danser från olika kulturer.</li> <li>Improvisation.</li> <li>Kroppens fysiologi och kroppen i rörelse som instrument för att uttrycka musikaliska intentioner.</li> <li>Rörelsekompositioner.</li> <li>Omsättande av musikaliska grundelement till rörelse.</li> <li>Kreativitet, fantasi och samarbetsförmåga.</li> <li>Musikalisk kommunikation med medspelare och publik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven musicerar och gestaltar musik <strong>med viss säkerhet</strong> med kroppen och rösten efter både noter och på gehör. I sitt musicerande uppvisar eleven ett<strong> visst </strong>konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.</p><p>Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några</strong> <strong>enkla</strong> rytmer och danser från olika kulturer samt improviserad gestaltning. Dessutom memorerar eleven musik och rörelse med tillfredsställande resultat.</p><p>Eleven utför rörelseövningar med <strong>tillfredsställande</strong> koordination och kroppskontroll. Eleven skapar musik och rörelse för rytmikgruppen i <strong>enkla och </strong>styrda situationer. Eleven samarbetar i gruppen med <strong>viss</strong> uppmärksamhet på de övriga medlemmarna.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven musicerar och gestaltar musik <strong>med viss säkerhet</strong> med kroppen och rösten efter både noter och på gehör. I sitt musicerande uppvisar eleven ett konstnärligt uttryck och följer <strong>med viss säkerhet</strong> genrespecifika krav.</p><p>Med <strong>tillfredsställande</strong> resultat prövar eleven <strong>några </strong>rytmer och danser från olika kulturer samt improviserad gestaltning <strong>med några olika karaktärsdrag</strong>. Dessutom memorerar eleven musik och rörelse med tillfredsställande resultat.</p><p>Eleven utför rörelseövningar med <strong>god</strong> koordination och kroppskontroll <strong>och</strong> <strong>viss tajmning</strong>. Eleven skapar musik och rörelse för rytmikgruppen i styrda situationer. Eleven samarbetar i gruppen med <strong>god </strong>uppmärksamhet på de övriga medlemmarna.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven musicerar och gestaltar musik <strong>med säkerhet</strong> med kroppen och rösten efter både noter och på gehör. I sitt musicerande uppvisar eleven ett<strong> gott </strong>konstnärligt uttryck och följer <strong>med säkerhet</strong> genrespecifika krav.</p><p>Med <strong>gott</strong> resultat prövar eleven <strong>flera</strong> rytmer och danser från olika kulturer samt improviserad gestaltning <strong>med flera olika karaktärsdrag</strong>. Dessutom memorerar <strong>och varierar</strong> eleven musik och rörelse med tillfredsställande resultat.</p><p>Eleven utför rörelseövningar med <strong>god</strong> koordination, kroppskontroll <strong>och tajmning</strong>. Eleven skapar musik och rörelse för rytmikgruppen i styrda situationer. Eleven samarbetar i gruppen med <strong>god </strong>uppmärksamhet på de övriga medlemmarna.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.093Z"
+}

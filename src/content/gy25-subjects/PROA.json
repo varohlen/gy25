@@ -1,0 +1,77 @@
+{
+  "code": "PROA",
+  "name": "Programmering, datastrukturer och algoritmer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:559",
+  "nameHeading": "<h2>Programmering, datastrukturer och algoritmer</h2>",
+  "description": "<p>Ämnet programmering, datastrukturer och algoritmer behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning. Ämnet behandlar även hur algoritmer påverkar maskiner, utrustning och beslutsfattande. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet programmering, datastrukturer och algoritmer ska syfta till att eleverna utvecklar specialiserade kunskaper om och färdigheter i programmering. Eleverna ska ges möjlighet att utveckla förmåga att anpassa programmering efter avsedd användare av det färdiga programmet. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tillämpa, skapa och välja designmönster, algoritmer och datastrukturer med hänsyn till såväl önskad funktionalitet som prestanda och säkerhet. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att skapa feltoleranta program och att lösa programmeringstekniska problem.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om vanligt förekommande programspråk och programmeringsparadigm. Eleverna ska även ges möjlighet att utveckla förmåga att använda datakällor för datautbyte.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta i verklighetsnära projekt. Eleverna ska enskilt eller i grupp ges möjlighet att utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden. Undervisningen ska lämna utrymme för diskussion om och reflektion över säkerhetsmässiga och etiska frågor samt olika handlingsalternativ inom programmering.</p> <h5><em>Undervisningen i ämnet programmering, datastrukturer och algoritmer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om programmeringsparadigm och programspråk.</li> <li>Förmåga att välja och använda designmönster, algoritmer och datastrukturer.</li> <li>Förmåga att skapa program med ett givet syfte och för en avsedd användare eller uppdragsgivare.</li> <li>Förmåga att använda datakällor för datautbyte samt identifiera, åtgärda och förhindra fel vid programmering och exekvering.</li> </ul><h3>Nivåer i ämnet programmering, datastrukturer och algoritmer</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROA100TX</h3>",
+      "code": "PROA100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering, datastrukturer och algoritmer på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Programmering i objektorienterat språk samt språkets egenskaper och användningsområden i förhållande till andra språk.</li> <li>Vanligt förekommande designmönster av enklare karaktär för skapande, struktur och beteende.</li> <li>Datastrukturer, däribland för hantering av mängder.</li> <li>Vanligt förekommande algoritmer för aktuellt problemområde.</li> <li>Värdering av algoritmer och datastrukturers lämplighet i olika situationer.</li> <li>Skapande av program som använder klasser, objekt, interface, templates, inkapsling och polymorfism.</li> <li>Omstrukturering av kod för att utveckla eller anpassa befintliga program.</li> <li>Synlighet och livslängd hos identifierare och variabler.</li> <li>Stark och svag samt statisk och dynamisk typning.</li> <li>Datautbyte med datakällor och tjänster.</li> <li>Permanent lagring av data.</li> <li>Metoder för att förebygga och förhindra uppkomst av fel under exekvering.</li> <li>Hantering av uppkomna fel under exekvering.</li> <li>Avläsning av program för att hitta fel och brister med hjälp av verktyg i aktuell utvecklingsmiljö.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROA200TX</h3>",
+      "code": "PROA200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering, datastrukturer och algoritmer på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika programmeringsparadigms historik, egenskaper och användningsområden.</li> <li>Val av språk efter problemområde.</li> <li>Designmönster och mjukvaruarkitektur.</li> <li>Analys och val av datastrukturer och algoritmer utifrån problemområde och prestanda.</li> <li>Programmering i språk från flera paradigm.</li> <li>Användning av databashanterare för lagring och manipulering av data.</li> <li>Användning av webbtjänster, protokoll, gränssnitt och format för datautbyte.</li> <li>Kvalitetssäkring och testning av källkod genom manuella och automatiserade metoder, till exempel kodgranskning och enhetstestning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>övergripande</strong> resonemang om egenskaper hos olika programmeringsparadigm och programspråk samt om deras för- och nackdelar.</p> <p>Eleven väljer och använder med <strong>säkerhet</strong> designmönster, algoritmer och datastrukturer.</p> <p>Eleven skapar <strong>fungerande</strong> program med ett givet syfte och för en avsedd användare eller uppdragsgivare.</p> <p>Eleven använder med <strong>säkerhet</strong> datakällor för datautbyte samt identifierar, åtgärdar och förhindrar fel vid programmering och exekvering på ett <strong>fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utvecklade</strong> resonemang om egenskaper hos olika programmeringsparadigm och programspråk samt om deras för- och nackdelar.</p> <p>Eleven väljer och använder med <strong>god säkerhet</strong> designmönster, algoritmer och datastrukturer.</p> <p>Eleven skapar <strong>ändamålsenliga</strong> program med ett givet syfte och för en avsedd användare eller uppdragsgivare.</p> <p>Eleven använder med <strong>god säkerhet</strong> datakällor för datautbyte samt identifierar, åtgärdar och förhindrar fel vid programmering och exekvering på ett <strong>väl fungerande</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>välutvecklade och nyanserade</strong> resonemang om egenskaper hos olika programmeringsparadigm och programspråk samt om deras för- och nackdelar.</p> <p>Eleven väljer och använder med <strong>mycket god säkerhet</strong> designmönster, algoritmer och datastrukturer.</p> <p>Eleven skapar <strong>ändamålsenliga och effektiva</strong> program med ett givet syfte och för en avsedd användare eller uppdragsgivare.</p> <p>Eleven använder med <strong>mycket god säkerhet</strong> datakällor för datautbyte samt identifierar, åtgärdar och förhindrar fel vid programmering och exekvering på ett <strong>mycket väl fungerande</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.063Z"
+}

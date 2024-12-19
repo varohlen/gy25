@@ -1,0 +1,78 @@
+{
+  "code": "INDT",
+  "name": "Industriell mätteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:3",
+  "nameHeading": "<h2>Industriell mätteknik</h2>",
+  "description": "<p>Mätteknik är ett sätt att effektivisera tillverkningsprocesser inom industrin. Ämnet industriell mätteknik behandlar industriteknisk mätutrustning och dess användningsområden samt säkerhetsföreskrifter. Det behandlar också hur utrustningen vårdas samt hur dess funktion kontrolleras och effektiviseras.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell mätteknik ska syfta till att eleverna utvecklar förmåga att använda och underhålla utrustning som används inom industriell mätning. Undervisningen ska leda till att eleverna utvecklar kunskaper om mätteknikens betydelse för produktionen samt vilka konsekvenser mättekniska problem får för tillverkningsprocessen. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur mätteknik kan bidra till en hållbar utveckling.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja lämpliga mätinstrument samt att hantera och kalibrera mätutrustning i enlighet med säkerhetsföreskrifter inom området. Undervisningen ska också leda till att eleverna utvecklar förmåga att genomföra kontroller och felsökningar samt effektivisering och vård av mätutrustning. Inom det industritekniska området är det viktigt att kunna säkerställa kvaliteten på det utförda arbetet. Därför ska eleverna ges möjlighet att utveckla förmåga att mäta och tolka olika mätresultat för lämpliga korrigerande åtgärder. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att kommunicera och samverka i alla led inom den industritekniska processen.</p> <p>Undervisningen ska genom ett undersökande och problemlösande arbetssätt stimulera eleverna till fortsatt lärande och en yrkesmässig utveckling inom industriell mätteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet industriell mätteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om mätutrustningars konstruktion och funktion.</li> <li>Förmåga att hantera mätutrustning i enlighet med säkerhetsföreskrifter.</li> <li>Förmåga att utföra funktionskontroll och vårda mätutrustning.</li> <li>Förmåga att utföra mätningar och bedöma kvaliteten på utfört arbete.</li> </ul><h3>Nivåer i ämnet industriell mätteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDT1000X</h3>",
+      "code": "INDT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell mätteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Mätutrustning, tekniker och mätningens betydelse</em></p> <ul> <li>Konstruktion, funktion och grundprinciper hos olika utrustningar och komponenter som används vid industriell mätning, till exempel givare, mätmaskiner och multimeter.</li> <li>Mätningens betydelse för ekonomi, kvalitet och miljö.</li> <li>Grundläggande symboler, beteckningar och märkningar.</li> <li>Tekniker, enheter och terminologi vid industriell mätning av för verksamheten relevanta storheter, till exempel längd, tryck, flöde, temperatur, elasticitet, böjning, vinkel och nivå.</li> </ul> <p><em>Hantering av utrustning och säkerhet</em></p> <ul> <li>Hantering av för verksamheten relevant mätutrustning.</li> <li>Egenkontroll av mätinstrument, kalibrering, toleranser, spridning och andra relevanta statistiska mått.</li> <li>Standarder och säkerhetsföreskrifter som gäller människor, mätutrustning och mätobjekt.</li> <li>Funktionskontroll och anpassning av mätutrustning samt vård av den mätutrustning som används inom verksamheten.</li> <li>Optimeringar med hjälp av teknisk dokumentation.</li> </ul> <p><em>Kvalitetsbedömning och begrepp</em></p> <ul> <li>Mätning och tolkning av mätresultat med hänsyn till faktorer som påverkar mätresultatet, till exempel teknik, material och verktyg.</li> <li>Tolkning och användning av olika mätresultat inom aktuell verksamhet för lämpliga korrigerande åtgärder.</li> <li>Bedömning av kvaliteten och resultatet på utförda mätningar.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocesser och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDT2000X</h3>",
+      "code": "INDT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell mätteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Mätutrustning, tekniker och mätningens betydelse</em></p> <ul> <li>Konstruktion och funktion hos utrustning för mätning av olika parametrar i gas- och vätskeströmmar samt av fasta ämnen inom industrin.</li> <li>Mätprinciper och karakteristiska egenskaper för vanliga mätartyper, till exempel för deplacement-, rotor-, virvelspridnings- och ultraljudsmätare, induktiva mätare samt för massflödesmätare.</li> <li>Mätningens betydelse för ekonomi, kvalitet och miljö inom valt industritekniskt område.</li> <li>Enheter och mättekniska begrepp för elektriska och mekaniska storheter inom olika tillämpningar.</li> </ul> <p><em>Hantering av utrustning och säkerhet</em></p> <ul> <li>Installation, kalibrering och intrimning av olika typer av mätutrustning samt genomförande av mätningar.</li> <li>Standarder och säkerhetsföreskrifter som gäller människor, mätutrustning och mätobjekt.</li> <li>Riskbedömningar samt konsekvenser vid bristande säkerhet i samband med hantering av mätutrustning och mätobjekt.</li> <li>Mätningar utifrån relevanta egenskaper hos mätobjektet som i kombination med använda mätinstrument påverkar resultatet av mätningen.</li> <li>Funktionskontroll, regelbunden service och vård av den mätutrustning som används inom verksamheten.</li> <li>Anpassning av givare till mätsystem samt skydd av givare mot olika typer av överlast och yttre störningar.</li> <li>Signalöverföring och anpassning av givare till mät- och styrsystem.</li> <li>Optimeringar med hjälp av teknisk dokumentation.</li> </ul> <p><em>Kvalitetsbedömning och begrepp</em></p> <ul> <li>Avancerad mätning och tolkning av mätresultat med hänsyn till faktorer som påverkar mätresultatet.</li> <li>Lokalisering av felkällor samt tolkning och användning av mätresultat för lämpliga korrigerande åtgärder.</li> <li>Bedömning av kvaliteten och resultatet på utförda mätningar.</li> <li>Samarbete mellan olika roller och målgrupper för att kommunicera om arbetsprocesser och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om mätutrustningars konstruktion och funktion.</p> <p>Eleven hanterar mätutrustning med <strong>viss säkerhet</strong> utifrån arbetets krav på utförande och resultat och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför funktionskontroller och vårdar mätutrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven utför olika mätningar i enlighet med kvalitetskrav. Dessutom bedömer eleven utfört arbete med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om mätutrustningars konstruktion och funktion.</p> <p>Eleven hanterar mätutrustning med <strong>säkerhet</strong> utifrån arbetets krav på utförande och resultat och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför funktionskontroller och vårdar mätutrustning med <strong>säkerhet</strong>.</p> <p>Eleven utför olika mätningar i enlighet med kvalitetskrav. Dessutom bedömer eleven utfört arbete med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om mätutrustningars konstruktion och funktion.</p> <p>Eleven hanterar mätutrustning med <strong>god säkerhet</strong> utifrån arbetets krav på utförande och resultat och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför funktionskontroller och vårdar mätutrustning med <strong>god säkerhet</strong>.</p> <p>Eleven utför olika mätningar i enlighet med kvalitetskrav. Dessutom bedömer eleven utfört arbete med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.023Z"
+}

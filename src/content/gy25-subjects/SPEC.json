@@ -1,0 +1,91 @@
+{
+  "code": "SPEC",
+  "name": "Specialidrott",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:212",
+  "nameHeading": "<h2>Specialidrott</h2>",
+  "description": "<p>Ämnet specialidrott möjliggör en hållbar idrottskarriär och prestationsutveckling inom en specifik idrott, med sikte mot elitnivå som senior. Det behandlar metoder och teorier för träning samt praktiskt utövande av en specifik idrott. Tillsammans med ämnet tränings- och tävlingslära utgör ämnet specialidrott en helhet. Ämnet får bara anordnas på idrottsutbildningar vid riksidrottsgymnasium eller nationellt godkända idrottsutbildningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet specialidrott ska syfta till att eleverna utvecklar den idrottsliga förmågan och kunskaper om teorier och metoder för träning. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera tränings- och tävlingsverksamhet i en specifik idrott. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om hur skador och ohälsa kan förebyggas och behandlas samt om betydelsen av nutrition, kosthållning och återhämtning. Undervisningen ska också synliggöra psykologiska utmaningar vid skada och ohälsa.</p> <p>Undervisningen ska även bidra till att eleverna utvecklar kunskaper om tränings- och tävlingsmiljöns betydelse för den idrottsliga utvecklingen samt synliggöra utmaningarna med dubbla karriärer.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människans beteende som individ, grupp- och lagmedlem, samt hur samverkan och kommunikation i tränings- och tävlingssammanhang kan bidra till den idrottsliga utvecklingen.</p> <p>Undervisningen ska synliggöra och lämna utrymme för diskussion och reflektion om kroppsideal och andra uppfattningar baserade på normer och kulturer som förkommer i tränings- och tävlingsmiljöer. På så sätt ska undervisningen motverka diskriminerande föreställningar och bidra till att människors olika förutsättningar respekteras.</p> <p>Undervisningen ska även ge eleverna möjlighet att få kännedom om idrottsrörelsens betydelse i samhället, hur den är organiserad samt dess mål och värdegrund.</p> <h5><em>Undervisningen i ämnet specialidrott ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att tekniskt och taktiskt utöva en specifik idrott.</li> <li>Förmåga att planera, genomföra och utvärdera fysiologiska och psykologiska träningsmetoder för att utveckla prestationsförmågan i en specifik idrott.</li> <li>Kunskaper om hur nutrition och kosthållning kan anpassas till träning och tävling.</li> <li>Förmåga att förebygga skador och ohälsa i en specifik idrott.</li> <li>Kunskaper om karriärförutsättningar och karriärvägar inom elitidrotten samt om tränings- och tävlingsmiljöns betydelse för individens utveckling i en specifik idrott.</li> <li>Förmåga att samarbeta och kommunicera i tränings- och tävlingssammanhang.</li> </ul><h3>Nivåer i ämnet specialidrott</h3><ul><li>Nivå 1, 200 poäng. Betyg i specialidrott som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i tävlingsidrott som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i specialidrott som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i tävlingsidrott som omfattar nivå 2.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPEC100IX</h3>",
+      "code": "SPEC100IX",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet specialidrott på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Regler, taktik och teknik inom den specifika idrotten.</li> <li>Krav- och prestationsanalys i den specifika idrotten.</li> <li>Tester för att mäta idrottsliga och fysiologiska kvaliteter för den specifika idrotten.</li> <li>Träningsmetoder och teknik för uthållighet, styrka, rörlighet, snabbhet och koordination i den specifika idrotten.</li> <li>Utformning, genomförande och utvärdering av individuella träningsprogram i relation till krav- och prestationsanalys inom den specifika idrotten.</li> <li>Digitala hjälpmedel vid träning och tävling samt för dokumentation och analys i den specifika idrotten.</li> <li>Idrottens psykologi samt tillämpning av idrottspsykologisk träning i den specifika idrotten, till exempel motivation, koncentration och spänningsreglering.</li> <li>Nutrition och kosthållning för träning och tävling i den specifika idrotten.</li> <li>Vanligt förekommande skador och ohälsa inom den specifika idrotten.</li> <li>Utformning samt genomförande av skadeförebyggande träningsprogram inom den specifika idrotten.</li> <li>Idrottskarriärens olika faser och övergångar ur ett utvecklingsperspektiv, däribland kombinationen elitidrott och studier.</li> <li>Idrottsmiljöns betydelse för individens utveckling ur ett holistiskt perspektiv.</li> <li>Kommunikation och samarbete som syftar till utveckling av idrottsprestationen.</li> <li>Idrottens värdegrund utifrån de grundläggande principer som beslutats av Riksidrottsförbundet samt samhällets förväntningar på elitidrottaren som förebild.</li> <li>Föreningsidrottens organisering, styrning och ekonomiska förutsättningar.</li> <li>Normer och kulturer som påverkar idrottsutövande, till exempel föreställningar om kön och kroppsideal.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SPEC200IX</h3>",
+      "code": "SPEC200IX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet specialidrott på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tekniska färdigheter i relation till situationens krav, till exempel hastighet, precision och balans, även i pressade situationer.</li> <li>Taktiska val för individen, laget eller gruppen för att finna lösningar i tävlingssituationer, till exempel tekniska och taktiska förändringar för att uppnå bättre resultat.</li> <li>Planering, genomförande och utvärdering av individuellt utformade träningsprogram utifrån prestationsanalyser.</li> <li>Idrottspsykologi och tillämpad idrottspsykologi för tävlingsprestationer, till exempel prestationsberedskap och prestationstillstånd.</li> <li>Hur kosthållning kan anpassas utifrån träningsmängd och belastning.</li> <li>Utformning av träningsplanering för att förebygga överträning och skador.</li> <li>Skador och psykisk ohälsa i den specifika idrotten, deras uppkomst och hur de kan förebyggas.</li> <li>Fördjupning i karriärövergångsprocessen och analys av centrala utvecklingsfaser inom individens idrottskarriär, till exempel övergången från junior- till senioridrott.</li> <li>Aspekter på den yrkesmässiga idrottskarriären, till exempel idrottaren som varumärke samt kontrakt, agenter och sponsorer.</li> <li>Medier, till exempel hantering av sociala medier i tränings- och tävlingssammanhang.</li> <li>Den specifika idrottens utveckling nationellt och internationellt.</li> <li>Tränings- och tävlingsvillkor ur ett jämlikhets- och jämställdhetsperspektiv.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SPEC300IX</h3>",
+      "code": "SPEC300IX",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet specialidrott på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Specifika tekniska färdigheter utifrån tävling, situation och position.</li> <li>Strategiska planer med hänsyn till regler och tävlingsmiljö samt till egna eller kollektivets styrkor och svagheter i förhållande till motståndare.</li> <li>Kravanalys för en internationell satsning inom den specifika idrotten.</li> <li>Utveckling och variation av träningsmetoder i uthållighet, styrka, rörlighet, snabbhet och koordination för den specifika idrotten.</li> <li>Kosthållning vid tävling i den specifika idrotten.</li> <li>Grundläggande rehabiliteringsprogram för några vanliga skador inom den specifika idrotten samt kopplingen till psykologiska faktorer under rehabilitering.</li> <li>Planering och förberedelse för individens nästa steg i idrottskarriären, till exempel inför övergången till fortsatta studier, kombinationen elitidrott och arbete samt avslutet på idrottskarriären.</li> <li>Förhållningssätt till media samt medieträning.</li> <li>Riksidrottsförbundets arbete och organisering samt finansiering av idrotten.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven genomför den specifika idrotten tekniskt och taktiskt med <strong>godtagbar</strong> kvalitet. I tränings- och tävlingssituationer väljer eleven med <strong>viss säkerhet</strong> insatsnivå i oförutsedda eller nya situationer.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>viss säkerhet</strong>. I samband med detta använder eleven centrala begrepp och teorier på ett <strong>godtagbart</strong> sätt. I sin träning prövar och omprövar eleven på ett <strong>i huvudsak fungerande</strong> sätt andra metoder som kan vara av betydelse för att förbättra resultatet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur kosthållning kan anpassas i förhållande till träningsmängd och belastning.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om skador och deras rehabilitering samt tar vid träning och tävling med <strong>viss säkerhet</strong> ansvar för att förebygga skador och ohälsa.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om idrottskarriärens olika faser och beskriver på ett <strong>enkelt</strong> sätt idrottsmiljöns betydelse för idrottslig utveckling.</p> <p>Eleven tillämpar med viss säkerhet samarbete och kommunikation i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven genomför den specifika idrotten tekniskt och taktiskt med <strong>god</strong> kvalitet. I tränings- och tävlingssituationer väljer eleven med <strong>säkerhet</strong> insatsnivå i oförutsedda eller nya situationer.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>säkerhet</strong>. I samband med detta använder eleven centrala begrepp och teorier på ett <strong>gott</strong> sätt. I sin träning prövar och omprövar eleven på ett <strong>fungerande</strong> sätt andra metoder som kan vara av betydelse för att förbättra resultatet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur kosthållning kan anpassas i förhållande till träningsmängd och belastning.</p> <p>Eleven visar <strong>goda</strong> kunskaper om skador och deras rehabilitering samt tar vid träning och tävling med <strong>säkerhet</strong> ansvar för att förebygga skador och ohälsa.</p> <p>Eleven visar <strong>goda</strong> kunskaper om idrottskarriärens olika faser och beskriver på ett <strong>utvecklat</strong> sätt idrottsmiljöns betydelse för idrottslig utveckling.</p> <p>Eleven tillämpar med viss säkerhet samarbete och kommunikation i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven genomför den specifika idrotten tekniskt och taktiskt med <strong>mycket god</strong> kvalitet. I tränings- och tävlingssituationer väljer eleven med <strong>god säkerhet</strong> insatsnivå i oförutsedda eller nya situationer.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>god säkerhet</strong>. I samband med detta använder eleven centrala begrepp och teorier på ett <strong>mycket gott</strong> sätt. I sin träning prövar och omprövar eleven på ett <strong>väl fungerande</strong> sätt andra metoder som kan vara av betydelse för att förbättra resultatet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur kosthållning kan anpassas i förhållande till träningsmängd och belastning.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om skador och deras rehabilitering samt tar vid träning och tävling med <strong>god säkerhet</strong> ansvar för att förebygga skador och ohälsa.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om idrottskarriärens olika faser och beskriver på ett <strong>välutvecklat</strong> sätt idrottsmiljöns betydelse för idrottslig utveckling.</p> <p>Eleven tillämpar med viss säkerhet samarbete och kommunikation i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.084Z"
+}

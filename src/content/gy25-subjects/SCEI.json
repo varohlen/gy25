@@ -1,0 +1,92 @@
+{
+  "code": "SCEI",
+  "name": "Scenisk gestaltning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:208",
+  "nameHeading": "<h2>Scenisk gestaltning</h2>",
+  "description": "<p>Scenisk gestaltning handlar om mötet mellan aktörer och publik, här och nu. Ämnet scenisk gestaltning behandlar de konstnärliga uttrycksformer som kan samverka i en teaterföreställning, till exempel skådespeleri, kostym och scenografi. Med hjälp av begrepp, teorier och metoder från dessa konstnärliga uttrycksformer skapas förståelse av teatern som konstart.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet scenisk gestaltning ska syfta till att eleverna utvecklar kunskaper om och färdigheter i gestaltning med olika sceniska uttrycksmedel, främst kropp och röst. Eleverna ska även ges möjlighet att utveckla kunskaper om den sceniska berättelsens uppbyggnad. Centralt i all teater är gestaltning och kommunikation. Undervisningen ska därför också ge eleverna möjlighet att utveckla kunskaper om och färdigheter i hur andra sceniska uttrycksmedel, förutom kropp och röst, kan användas i gestaltning. Eleverna ska på så vis ges möjlighet att utveckla förmåga att kommunicera medvetet med en publik för olika syften och i olika sammanhang. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur teaterns tre hörnpelare berättelsen, berättaren och rummet samverkar.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i teaterämnen aktivt bidra till ett rikt kulturliv i samhället. Undervisningen ska ge eleverna möjlighet att utveckla förståelse av teatern som arbetsplats, en teaterproduktions olika yrkesroller och teatern som kollektiv konstart. Genom undervisningen ska eleverna därför ges möjlighet att utveckla ansvarskänsla, initiativförmåga och lyhördhet. Undervisningen ska också betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <p>Teater som konstform undersöker, ställer frågor och berättar om vad det är att vara människa i olika kontexter. Därför ska undervisningen stimulera elevernas nyfikenhet på människans beteenden, drivkrafter och livsvillkor. Undervisningen ska utgå från elevernas kreativitet och stimulera konstnärligt skapande och berättande. I undervisningen ska eleverna ges möjlighet att med användning av områdets begrepp diskutera teaterns roll i samhället, dess möjlighet att beröra och påverka människor, gestalta frågor om makt och identitet samt fungera som arena för tanke- och yttrandefrihet. Genom det gestaltande arbetet ska eleverna ges möjlighet att enskilt och tillsammans med andra reflektera över sitt eget och gruppens skapande.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och ge eleverna möjlighet att uppleva, tolka och analysera olika teaterformer.</p> <h5><em>Undervisningen i ämnet scenisk gestaltning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att använda kroppen och rösten som sceniska uttrycksmedel.</li> <li>Förmåga att samarbeta i grupp och samspela i gestaltning.</li> <li>Färdigheter i att använda sceniska uttrycksmedel i kommunikationen med en publik.</li> <li>Kunskaper om den sceniska berättelsens uppbyggnad.</li> <li>Förmåga att analysera och tolka olika sceniska gestaltningar med användning av områdets begrepp.</li> <li>Förmåga att reflektera över det egna skapandet.</li> </ul><h3>Nivåer i ämnet scenisk gestaltning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SCEI1000X</h3>",
+      "code": "SCEI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet scenisk gestaltning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Introduktion till att använda kropp och röst som sceniska uttrycksmedel, till exempel för att improvisera och gestalta sceniska karaktärer.</li> <li>Hur kropp och röst som sceniska uttrycksmedel används för att kommunicera med publik.</li> <li>Samarbete i grupp, samspel i gestaltning och gruppdynamik.</li> <li>Arbete efter givna ramar.</li> <li>Givande, tagande och lyhördhet i scenisk gestaltning.</li> <li>Introduktion till hur sceniska uttrycksmedel, till exempel scenografi, kostym, mask, ljus, ljud och projektion, kan användas i möte med en publik.</li> <li>Samtal om och metoder för mental förberedelse inför sceniska framföranden.</li> <li>Introduktion till den sceniska berättelsens uppbyggnad.</li> <li>Introduktion till analys och tolkning av sceniska gestaltningar.</li> <li>Begrepp för analys av form och innehåll i scenisk gestaltning.</li> <li>Reflektion över det egna skapandet, både individuellt och i grupp.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SCEI2000X</h3>",
+      "code": "SCEI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet scenisk gestaltning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Metoder för gestaltning av sceniska karaktärer och uttryck med kropp och röst.</li> <li>Hur kropp och röst som sceniska uttrycksmedel används för att kommunicera med publik.</li> <li>Samarbete i grupp, samspel i gestaltning och teatern som kollektiv konstart.</li> <li>Kollektivets roll i förhållande till individen i en konstnärlig process.</li> <li>Arbete efter givna ramar.</li> <li>Hur sceniska uttrycksmedel, till exempel scenografi, mask, kostym, ljud, ljus och projektion, kan gestaltas i möte med en publik.</li> <li>Samtal om och metoder för mental förberedelse inför sceniska framföranden.</li> <li>Den sceniska berättelsens uppbyggnad och metoder för att skapa en scenisk berättelse.</li> <li>Analys och tolkning av sceniska gestaltningar.</li> <li>Reflektion över det egna skapandet, både individuellt och i grupp.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SCEI3000X</h3>",
+      "code": "SCEI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet scenisk gestaltning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupat arbete med kropp och röst som sceniska uttrycksmedel.</li> <li>Hur kropp och röst som sceniska uttrycksmedel används för att kommunicera med publik.</li> <li>Samarbete och samspel för att skapa en scenisk produktion.</li> <li>Teatern som kollektiv konstart.</li> <li>Arbete efter givna ramar.</li> <li>Repetitionsarbetets olika stadier.</li> <li>Hur sceniska uttrycksmedel, däribland scenografi, mask, kostym, ljud, ljus och projektion, samverkar i en produktion och i kommunikation med en publik.</li> <li>Metoder för och samtal om sceniska framföranden, däribland förberedelse, genomförande och utvärdering.</li> <li>Regiarbetets betydelse för sambandet mellan berättelse, berättare och rum.</li> <li>Analys och tolkning av sceniska gestaltningar.</li> <li>Reflektion över det egna skapandet, både individuellt och i grupp.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven gestaltar med <strong>godtagbara</strong> resultat <strong>enkla</strong> uttryck med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>viss säkerhet</strong>.</p> <p>Eleven använder med <strong>viss säkerhet</strong> sceniska uttrycksmedel för att kommunicera med publik.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om den sceniska berättelsens uppbyggnad.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>översiktligt</strong> det egna skapandet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven gestaltar med <strong>goda</strong> resultat <strong>genomarbetade</strong> uttryck med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>säkerhet</strong>.</p> <p>Eleven använder med <strong>säkerhet</strong> sceniska uttrycksmedel för att kommunicera med publik.</p> <p>Eleven visar <strong>goda</strong> kunskaper om den sceniska berättelsens uppbyggnad.</p> <p>Eleven gör <strong>välgrundade</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt</strong> det egna skapandet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven gestaltar med <strong>mycket goda</strong> resultat <strong>väl genomarbetade</strong> uttryck med sin kropp och röst.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>god säkerhet</strong>.</p> <p>Eleven använder med <strong>god säkerhet</strong> sceniska uttrycksmedel för att kommunicera med publik.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om den sceniska berättelsens uppbyggnad.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> analyser och tolkningar av sceniska gestaltningar, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt och nyanserat</strong> det egna skapandet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.077Z"
+}

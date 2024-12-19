@@ -1,0 +1,79 @@
+{
+  "code": "PROC",
+  "name": "Processautomation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-28",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat skrivfel.",
+  "skolfsGrund": "2024:96",
+  "skolfsAndring": "2024:604",
+  "nameHeading": "<h2>Processautomation</h2>",
+  "description": "<p>Automatiseringen i samhället har pågått under en längre tid och allt fler arbetsuppgifter och tillverkningsled automatiseras. Automatiseringen sker bland annat inom industri, fastighetsbransch och infrastruktur. Ämnet processautomation behandlar processindustrins automatiserade funktioner ur ett systemperspektiv i brytningen mellan elektroteknik, datorteknik samt drift- och underhållsteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet processautomation ska syfta till att eleverna utvecklar förmåga att utföra vanligt förekommande arbetsuppgifter inom processautomation. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera arbetsuppgifter och arbeta praktiskt med att installera och montera processautomationsutrustning. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att utföra mät- och reglertekniska arbeten som en del av en automatiserad process.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera utfört arbete samt tolka och använda scheman, ritningar, manualer och föreskrifter på både svenska och engelska. Eleverna ska även ges möjlighet att utveckla förmåga att felsöka och avhjälpa fel i processautomationsutrustning. Undervisningen ska leda till att eleverna utvecklar ett säkert och hållbart arbetssätt med hänsyn till både drift och miljö. Eleverna ska även ges möjlighet att utveckla kunskaper om hur övergripande processdatorsystem används för datainsamling och övervakning samt om hur informationsteknik kan användas i olika nivåer av automatiserade processanläggningar. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att beskriva teoretiska samband inom processautomation.</p> <p>I undervisningen ska såväl praktiska som teoretiska moment ingå. Därigenom ska eleverna ges möjlighet att utveckla förståelse av sambandet mellan teori och praktiskt arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att utveckla deras intresse för teknisk utveckling och hållbarhetsarbete inom processindustrin.</p> <h5><em>Undervisningen i ämnet processautomation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera automationsarbeten samt montera och installera processautomationsutrustning.</li> <li>Förmåga att utföra mät- och reglertekniska arbeten.</li> <li>Förmåga att använda ritningar och manualer och att dokumentera olika arbeten inom processautomation.</li> <li>Förmåga att underhålla, felsöka, åtgärda och optimera automatiserade processer.</li> <li>Förmåga att arbeta person- och processäkert i automatiserade processer, utifrån riskanalyser och i enlighet med säkerhetsföreskrifter.</li> <li>Förmåga att beskriva olika teoretiska samband inom processautomation.</li> </ul><h3>Nivåer i ämnet processautomation</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet automationsteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROC1000X</h3>",
+      "code": "PROC1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet processautomation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Laborativa installationer av vanligt förekommande mätgivare och omvandlare.</li> <li>Olika förekommande enheter i en automatiserad process, till exempel olika mätgivare och regulatorer med monteringsanvisningar.</li> <li>Metoder för mätning av temperatur och tryck samt olika nivåer och flöden.</li> <li>Metoder och utrustning för att testa och verifiera mätgivare.</li> <li>Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.</li> <li>Reglering av flerkapacitiva processer.</li> <li>Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.</li> <li>Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, kretsscheman, tabeller, datablad, manualer och certifikat.</li> <li>Dokumentation av eget arbete inom området.</li> <li>Programmering av styrsystem för processautomation, till exempel distribuerade styrsystem (DCS).</li> <li>Konfigurering av nätverksenheter för IP-baserad kommunikation, till exempel industriell ethernet, profinet och modbus TCP (transmission control protocol).</li> <li>Metoder för felsökning, optimering och konfigurering med hänsyn till funktion och miljökrav.</li> <li>Personsäkert arbete i automatiserade processer samt säkerhetsföreskrifter inom området.</li> <li>Riskanalyser i samband med förändringar, tilläggsarbeten och underhåll i automatiserade processer.</li> <li>Beskrivning av teoretiska samband inom processautomation med stöd av matematiska begrepp, fysikaliska storheter och kemiska egenskaper.</li> <li>Matematiska samband vid mätning av olika storheter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROC2000X</h3>",
+      "code": "PROC2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet processautomation på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Laborativa installationer av vanligt förekommande reglersystem.</li> <li>Olika förekommande enheter i en automatiserad process, till exempel olika pumpar, ventiler och filter med monteringsanvisningar.</li> <li>Metoder för mätning av viskositet, koncentration, pH-värde, syre och konduktivitet.</li> <li>Metoder för gasanalys och mätning av partikelhalter. Reglering med oskarp logik (fuzzy logic).</li> <li>Olika multivariabla regleringar.</li> <li>Störningar i reglerprocessen, däribland störtendenskompensering.</li> <li>Parameterstyrning och adaptiv parameteruppdatering.</li> <li>Systematisk dokumentation, till exempel av regulatorinställningar och nätverkskonfiguration.</li> <li>Programmering av olika styrsystem för processautomation, till exempel distribuerade styrsystem (DCS).</li> <li>Konfigurering av nätverksenheter för seriell kommunikation, till exempel foundation fieldbus, modbus, profibus PA (process automation) eller HART (highway addressable remote transducer).</li> <li>Konfigurering och optimering av processer med avseende på funktion och miljökrav.</li> <li>Felsökning och underhåll av olika enheter i en automatiserad process, till exempel olika mätgivare, pumpar, ventiler och filter.</li> <li>Personsäkert arbete i automatiserade processer samt säkerhetsföreskrifter inom området.</li> <li>Säkerhetsstandarder, däribland SIL SS-EN 62061 och ATEX-direktiven.</li> <li>Beskrivning av teoretiska samband inom processautomation med stöd av matematiska begrepp, fysikaliska storheter och kemiska egenskaper.</li> <li>Reglertekniska matematiska samband och standardalgoritmer vid olika reglerfall.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar arbetet samt monterar och installerar processautomationsutrustning med <strong>visst</strong> handlag.</p> <p>Eleven utför med <strong>viss</strong> skicklighet mät- och reglertekniska arbeten.</p> <p>Eleven använder med <strong>viss säkerhet</strong> ritningar och manualer i arbetet inom processautomation och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven felsöker, optimerar, underhåller och åtgärdar med <strong>viss säkerhet</strong> olika automatiserade processer.</p> <p>Eleven utför person- och processäkert arbete i enlighet med de säkerhetsföreskrifter som gäller vid arbetet med <strong>enkla</strong> automatiserade processer.</p> <p>Eleven beskriver <strong>översiktligt</strong> teoretiska samband inom processautomation med stöd av relevanta matematiska begrepp, fysikaliska storheter och kemiska egenskaper.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar arbetet samt monterar och installerar processautomationsutrustning med <strong>gott</strong> handlag.</p> <p>Eleven utför med <strong>god</strong> skicklighet mät- och reglertekniska arbeten.</p> <p>Eleven använder med <strong>säkerhet</strong> ritningar och manualer i arbetet inom processautomation och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven felsöker, optimerar, underhåller och åtgärdar med <strong>säkerhet</strong> olika automatiserade processer.</p> <p>Eleven utför person- och processäkert arbete i enlighet med de säkerhetsföreskrifter som gäller vid arbetet med <strong>relativt komplexa</strong> automatiserade processer.</p> <p>Eleven beskriver <strong>utförligt</strong> teoretiska samband inom processautomation med stöd av relevanta matematiska begrepp, fysikaliska storheter och kemiska egenskaper.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar arbetet samt monterar och installerar processautomationsutrustning med <strong>mycket gott</strong> handlag.</p> <p>Eleven utför med <strong>mycket god</strong> skicklighet mät- och reglertekniska arbeten.</p> <p>Eleven använder med <strong>god säkerhet</strong> ritningar och manualer i arbetet inom processautomation och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven felsöker, optimerar, underhåller och åtgärdar med <strong>god säkerhet</strong> olika automatiserade processer.</p> <p>Eleven utför person- och processäkert arbete i enlighet med de säkerhetsföreskrifter som gäller vid arbetet med <strong>komplexa</strong> automatiserade processer.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> teoretiska samband inom processautomation med stöd av relevanta matematiska begrepp, fysikaliska storheter och kemiska egenskaper.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.064Z"
+}

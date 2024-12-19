@@ -1,0 +1,63 @@
+{
+  "code": "INUS",
+  "name": "Industriell it",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:542",
+  "nameHeading": "<h2>Industriell it</h2>",
+  "description": "<p>Ämnet industriell it behandlar hur olika delar i ett automatiserat system kommunicerar med varandra. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell it ska syfta till att eleverna utvecklar förståelse av hur informationsteknik används i automatiserade system samt hur informationsteknik kan användas vid arbeten i industriella anläggningar. I industrin används olika sorters datorer och mikrodatorer inbyggda i olika maskiner. Undervisningen ska därför bidra till att eleverna utvecklar kunskaper om hur datorer som används i industrin är uppbyggda, hur de fungerar och kommunicerar med varandra samt hur datorkommunikationen har utvecklats över tid.</p> <p>Eleverna ska ges möjlighet att utveckla ingenjörsmässig förmåga att planera, genomföra och utvärdera arbete i industriella automatiserade system. Eleverna ska även ges möjlighet att utveckla färdigheter i att använda informationsteknik i arbetet. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika begrepp, standarder och metoder inom industriell it, samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom industriell it. Eleverna ska också ges möjlighet att utveckla förmåga att använda olika former av systemdokumentation. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om säkerhet och risker med industriell informationsteknik samt om hur dessa kan reduceras genom hårdvaru- och mjukvaruskydd.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och lust att lära mer om it och datorkommunikation. Undervisningen ska även ge eleverna möjlighet att kombinera teoretiska och praktiska moment inom ämnesområdet och lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom industriell it.</p> <h5><em>Undervisningen i ämnet industriell it ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om begrepp och standarder som används i industriella it-system.</li> <li>Kunskaper om it-säkerhet och metoder för dataöverföring.</li> <li>Förmåga att konstruera, bygga och konfigurera industriella it-system.</li> <li>Förmåga att underhålla, felsöka och åtgärda fel i industriella it-system.</li> <li>Förmåga att dokumentera och utvärdera arbete i industriella it-system.</li> </ul><h3>Nivåer i ämnet industriell it</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INUS100TX</h3>",
+      "code": "INUS100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell it på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Anläggningar, system och komponenter</em></p> <ul> <li>Begrepp, standarder och protokoll för tillämpning inom industriell it.</li> <li>Funktion och principer hos samt uppbyggnad av olika typer av industriella it-system.</li> <li>Fältbussar och trådlös informationsteknik.</li> <li>Hur datorkommunikation i industrin har utvecklats över tid samt vanliga konsekvenser vid införandet av it-lösningar i produktionsprocesser.</li> <li>Säkerhet och spårbarhet inom industriell it.</li> <li>Metoder för att samla in och hantera data, till exempel med hjälp av loggdata eller databashantering.</li> </ul> <p><em>Industriella it-system</em></p> <ul> <li>Planering, byggnation, konfigurering och driftsättning av industriell informationsteknisk hårdvara.</li> <li>Installation och konfigurering av industriell programvara för utbyte av data mellan olika enheter, till exempel OPC-server och OPC-klient.</li> <li>Programvaror för kontroll, övervakning och datainsamling.</li> <li>Underhåll och felsökning i industriella it-system. Program och manualer som används i arbetet.</li> <li>Dokumentation av utfört arbete samt utvärdering av arbetsprocessen och slutresultatet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>övergripande</strong> resonemang om standarder som används i industriella it-system och använder med <strong>säkerhet</strong> begrepp inom området.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om it-säkerhet och metoder för dataöverföring.</p> <p>Eleven konstruerar, bygger och konfigurerar industriella it-system med <strong>viss</strong> skicklighet.</p> <p>Eleven underhåller, felsöker och åtgärdar fel i industriella it-system med <strong>viss</strong> skicklighet.</p> <p>Eleven dokumenterar och utvärderar med <strong>säkerhet</strong> sitt arbete i industriella it-system.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utförliga</strong> resonemang om standarder som används i industriella it-system och använder med <strong>god säkerhet</strong> begrepp inom området.</p> <p>Eleven visar <strong>goda</strong> kunskaper om it-säkerhet och metoder för dataöverföring.</p> <p>Eleven konstruerar, bygger och konfigurerar industriella it-system med <strong>god</strong> skicklighet.</p> <p>Eleven underhåller, felsöker och åtgärdar fel i industriella it-system med <strong>god</strong> skicklighet.</p> <p>Eleven dokumenterar och utvärderar med <strong>god säkerhet</strong> sitt arbete i industriella it-system.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>utförliga och nyanserade</strong> resonemang om standarder som används i industriella it-system och använder med <strong>mycket god säkerhet</strong> begrepp inom området.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om it-säkerhet och metoder för dataöverföring.</p> <p>Eleven konstruerar, bygger och konfigurerar industriella it-system med <strong>mycket god</strong> skicklighet.</p> <p>Eleven underhåller, felsöker och åtgärdar fel i industriella it-system med <strong>mycket god</strong> skicklighet.</p> <p>Eleven dokumenterar och utvärderar med <strong>mycket god säkerhet</strong> sitt arbete i industriella it-system.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.025Z"
+}

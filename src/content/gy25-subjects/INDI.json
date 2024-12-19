@@ -1,0 +1,64 @@
+{
+  "code": "INDI",
+  "name": "Industriteknisk fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:8",
+  "nameHeading": "<h2>Industriteknisk fördjupning</h2>",
+  "description": "<p>Det industritekniska området är under ständig utveckling och har betydelse för stora delar av samhället. Ämnet industriteknisk fördjupning behandlar yrkesmässig hantering av material och utrustning inom ett industritekniskt område.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriteknisk fördjupning ska syfta till att eleverna fördjupar sina kunskaper inom ett industritekniskt område och utvecklar sitt handlag med verktyg och utrustning i samband med att de löser en väldefinierad arbetsuppgift. Undervisningen ska leda till att eleverna utvecklar förmåga att planera, organisera och utföra arbetsuppgifter på ett yrkesmässigt sätt inom ett industritekniskt område. Den ska ge eleverna möjlighet att utveckla kreativitet samt problemlösnings- och initiativförmåga. För en fungerande och resurseffektiv industri är det viktigt att arbeta kontinuerligt med kontroller och underhåll. Eleverna ska därför ges möjlighet att utveckla förmåga att genomföra funktionskontroll samt underhåll av utrustning.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att söka och använda information i lagar och andra bestämmelser som gäller hälsa och miljö samt i andra kravspecificerande regelverk som påverkar arbetsprocessen och den slutliga produkten. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kvalitetssäkra sitt arbete i enlighet med de standarder som tillämpas inom aktuell bransch. Eleverna ska också ges möjlighet att utveckla förmåga att bedöma risker och vidta förebyggande säkerhetsåtgärder.</p> <p>Inom det industritekniska området ställs höga krav på kommunikation och samverkan. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom alla led i den industritekniska processen. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att dokumentera och presentera såväl arbetsprocess som färdig produkt. Eleverna ska dessutom ges möjlighet att utveckla förmåga att bedöma hur arbetsprocessen påverkat resultatet samt reflektera över den egna insatsen.</p> <h5><em>Undervisningen i ämnet industriteknisk fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera, organisera och utföra arbetsuppgifter inom ett industritekniskt område.</li> <li>Förmåga att utföra funktionskontroll och underhåll på utrustning inom ett industritekniskt område.</li> <li>Förmåga att söka relevant information för olika arbetsuppgifter.</li> <li>Förmåga att göra riskbedömningar inför arbetets genomförande och vidta förebyggande åtgärder.</li> <li>Förmåga att dokumentera, utvärdera och presentera arbetsprocess och resultat utifrån fastställda riktlinjer.</li> </ul><h3>Nivåer i ämnet industriteknisk fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet industritekniska processer eller nivå 4 i ämnet produktionsutrustning.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDI1000X</h3>",
+      "code": "INDI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriteknisk fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Utrustning, funktionskontroll och underhåll</em></p> <ul> <li>Planering, organisation och genomförande av arbetsuppgifter inom ett industritekniskt område.</li> <li>Val och användning av utrustning samt vid behov kompletterande utrustning.</li> <li>Funktionskontroll, mätning och bedömning av mätfel samt felsökning.</li> <li>Effektivisering och optimering av inställningar på produktionsutrustning, kringutrustning och maskiner.</li> <li>Kontinuerligt underhåll av produktionsutrustning, kringutrustning och maskiner.</li> </ul> <p><em>Informationssökning och riskbedömning</em></p> <ul> <li>Informationssökning i relevanta källor, till exempel beträffande standarder, normer och kvalitetskrav inför sammanställning av tillverkningsunderlag.</li> <li>Informationssökning i relevanta källor beträffande hälso- och miljökrav för såväl arbete som slutprodukt.</li> <li>Kalkyler för ekonomi, tid, materialåtgång, verktygsslitage och andra aspekter som påverkar arbetsprocessen.</li> <li>Riskbedömning i samband med arbetsuppgifter med hänsyn till arbetsmiljö, ergonomi och hälsa.</li> <li>Förebyggande riskåtgärder i samband med arbetsuppgifter inom industritekniska processer.</li> </ul> <p><em>Kommunikation och resultat</em></p> <ul> <li>Dokumentation, utvärdering och presentation av utfört arbete riktat mot beställare, kund och handledare.</li> <li>Samarbete i olika led i den industritekniska processen för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar med <strong>viss säkerhet</strong> arbetsuppgifter inom ett industritekniskt område. Dessutom hanterar eleven med <strong>visst</strong> handlag utrustning och material som är lämpliga för uppgiften.</p> <p>Eleven utför funktionskontroll och underhåll på utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven söker med <strong>viss säkerhet</strong> information i relevanta källor.</p> <p>Eleven gör riskbedömningar inför arbetets genomförande och vidtar förebyggande åtgärder.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation och utvärdering av arbetsprocess och resultat. Dessutom presenterar eleven utfört arbete på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar med <strong>säkerhet</strong> arbetsuppgifter inom ett industritekniskt område. Dessutom hanterar eleven med <strong>gott</strong> handlag utrustning och material som är lämpliga för uppgiften.</p> <p>Eleven utför funktionskontroll och underhåll på utrustning med <strong>säkerhet</strong>.</p> <p>Eleven söker med <strong>säkerhet</strong> information i relevanta källor.</p> <p>Eleven gör riskbedömningar inför arbetets genomförande och vidtar förebyggande åtgärder.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation och utvärdering av arbetsprocess och resultat. Dessutom presenterar eleven utfört arbete på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar med <strong>god säkerhet</strong> arbetsuppgifter inom ett industritekniskt område. Dessutom hanterar eleven med <strong>mycket gott</strong> handlag utrustning och material som är lämpliga för uppgiften.</p> <p>Eleven utför funktionskontroll och underhåll på utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven söker med <strong>god säkerhet</strong> information i relevanta källor.</p> <p>Eleven gör riskbedömningar inför arbetets genomförande och vidtar förebyggande åtgärder.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation och utvärdering av arbetsprocess och resultat. Dessutom presenterar eleven utfört arbete på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}

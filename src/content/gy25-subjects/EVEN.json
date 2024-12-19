@@ -1,0 +1,92 @@
+{
+  "code": "EVEN",
+  "name": "Eventteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:217",
+  "nameHeading": "<h2>Eventteknik</h2>",
+  "description": "<p>Kravet på bra ljud, bild, ljus och specialeffekter vid olika typer av event ställer höga krav på avancerad teknisk utrustning. Ämnet eventteknik behandlar ljud-, ljus- och bildteknik samt arbete med scenanläggningar och teknisk utrustning vid olika event.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet eventteknik ska syfta till att eleverna utvecklar kunskaper om den tekniska utrustning som används vid olika event. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att bygga upp scenanläggningar och rigga teknisk utrustning på ett säkert och hållbart sätt samt felsöka och reparera utrustningen. Undervisningen ska leda till att eleverna utvecklar förståelse för vikten av att planera och att arbeta på ett sätt som tar hänsyn till såväl säkerhet som miljö och estetik. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller arbete inom eventteknik.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och uppfinningsrikedom i kreativt arbete med ljud, ljus och bild samt leda till att eleverna utvecklar kunskaper om den tekniska utrustningens möjligheter och begränsningar vid kreativt arbete. I undervisningen ska både praktiska och teoretiska moment ingå.</p> <h5><em>Undervisningen i ämnet eventteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om ljud-, ljus- och bildteknik.</li> <li>Förmåga att planera sitt arbete samt att bygga upp scenanläggningar och rigga teknisk utrustning för event på ett säkert sätt.</li> <li>Förmåga att arbeta kreativt med ljud, ljus och bild.</li> <li>Förmåga att felsöka och reparera teknisk utrustning.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet eventteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: EVEN1000X</h3>",
+      "code": "EVEN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eventteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Ljud-, ljus- och bildutrustningars komponenter, enheter och system, däribland utrustning för scen och konferens.</li> <li>Akustikens inverkan vid ljudåtergivning.</li> <li>Mikrofonval och hantering av mikrofoner.</li> <li>Mjuk- och hårdvara för streaming och onlineinspelning.</li> <li>Tillgänglighetsanpassning av event.</li> <li>Olika aktörer och deras ansvarsområden inom ljud-, ljus- och bildteknik.</li> <li>Planeringsverktyg inför scenuppbyggnad.</li> <li>Uppbyggnad och riggning av scenanläggningar för event.</li> <li>Introduktion till kreativt arbete med ljud, ljus och bild, till exempel inom musik, film, radio och tv.</li> <li>Funktionsprovning och reparation av ljud-, ljus- och bildanläggningar.</li> <li>Ergonomi och förebyggande säkerhetsarbete.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och hantering av utrustning.</li> <li>Tillstånd som kan krävas vid olika eventområden, till exempel onlineproduktion.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: EVEN2000X</h3>",
+      "code": "EVEN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eventteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Akustik i olika miljöer.</li> <li>Handhavande av mixerbord för ljud, ljus och bild.</li> <li>Handhavande av mjuk- och hårdvara för streaming och inspelning online.</li> <li>Handhavande och hantering av mikrofoner, däribland inom live- och studioproduktioner.</li> <li>Olika aktörer och deras ansvarsområden inom ljud-, ljus- och bildteknik.</li> <li>Planeringsverktyg inför scenuppbyggnad.</li> <li>Uppbyggnad och riggning av event, möten och produktion online, till exempel scenmiljö, ljus- och bildsystem, livekamera, dubbla system och medhörningssystem.</li> <li>Ljud-, ljus- och bildmediets uttrycksmöjligheter samt kreativt arbete med ljud, ljus och bild.</li> <li>Enklare felsökning och reparation av ljud-, ljus- och bildanläggningar.</li> <li>Ergonomi och förebyggande säkerhetsarbete.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och hantering av utrustning.</li> <li>Tillstånd som kan krävas inom olika eventområden, till exempel onlineproduktion, radio och film.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: EVEN3000X</h3>",
+      "code": "EVEN3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eventteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Hur akustik kan anpassas efter olika eventsituationer, däribland liveproduktioner.</li> <li>Användning av analog och digital mixningsteknik.</li> <li>Mjuk- och hårdvara för olika typer av event, däribland onlineproduktion, samt redigering.</li> <li>Mikrofonval för olika typer av instrument och inspelningssituationer, däribland liveproduktioner.</li> <li>Bildskärmar och projektorer.</li> <li>Orientering om musikproduktion för film och radio, till exempel jinglar, podcasts och filmmusik.</li> <li>Olika aktörer och deras ansvarsområden inom ljud-, ljus- och bildteknik.</li> <li>Planeringsverktyg inför scenuppbyggnad.</li> <li>Uppbyggnad och riggning av ljud-, ljus- och bildanläggningar för musikprojekt, mässor, artistuppträdanden och webbsändningar.</li> <li>Kreativt arbete med ljud, ljus och bild, däribland inom liveproduktion.</li> <li>Reparation samt systematisk felsökning av ljud-, ljus- och bildanläggningar.</li> <li>Ergonomi och förebyggande säkerhetsarbete.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetskrav och miljökrav vid arbete med scenuppbyggnad och hantering av utrustning.</li> <li>Tillstånd som kan krävas vid offentliga framföranden, onlineproduktion, radio och film, samt vid reproduktion av dessa.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> scenanläggningars komponenter, enheter och system vad gäller ljud, ljus och bild.</p> <p>Eleven planerar sitt arbete och bygger med <strong>visst</strong> handlag upp scenanläggningar samt riggar teknisk utrustning med säkerhet.</p> <p>Eleven arbetar kreativt med ljud, ljus och bild med <strong>godtagbart</strong> resultat.</p> <p>Eleven felsöker och reparerar med <strong>viss säkerhet</strong> teknisk utrustning för event.</p> <p>Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> scenanläggningars komponenter, enheter och system vad gäller ljud, ljus och bild.</p> <p>Eleven planerar sitt arbete och bygger med <strong>gott</strong> handlag upp scenanläggningar samt riggar teknisk utrustning med säkerhet.</p> <p>Eleven arbetar kreativt med ljud, ljus och bild med <strong>gott</strong> resultat.</p> <p>Eleven felsöker och reparerar med <strong>säkerhet</strong> teknisk utrustning för event.</p> <p>Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> scenanläggningars komponenter, enheter och system vad gäller ljud, ljus och bild.</p> <p>Eleven planerar sitt arbete och bygger med <strong>mycket gott</strong> handlag upp scenanläggningar samt riggar teknisk utrustning med säkerhet.</p> <p>Eleven arbetar kreativt med ljud, ljus och bild med <strong>mycket gott</strong> resultat.</p> <p>Eleven felsöker och reparerar med <strong>god säkerhet</strong> teknisk utrustning för event.</p> <p>Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.991Z"
+}

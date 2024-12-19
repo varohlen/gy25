@@ -1,0 +1,78 @@
+{
+  "code": "AUTA",
+  "name": "Automatiserade system",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:162",
+  "nameHeading": "<h2>Automatiserade system</h2>",
+  "description": "<p>Det industritekniska området genomgår ständiga förändringar där automatisering är en förutsättning för att modernisera och optimera produktionsprocessen. Ämnet automatiserade system behandlar automatiserade systems uppbyggnad och underhåll av dessa.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet automatiserade system ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten inom automatiserade system med hjälp av systemdokumentation. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om automatiserade system och deras uppbyggnad, funktion och användning. Undervisningen ska även leda till att eleverna utvecklar kunskaper om systemkomponenter, processer och utrustning samt förmåga att hantera verktyg, instrument och utrustning inom valt område.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att installera, underhålla och driftsätta automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system. Undervisningen ska bidra till att eleverna utvecklar förmåga att planera och utföra arbeten i enlighet med standarder, lagar och andra bestämmelser som rör arbetsmiljö och säkerhet. Eleverna ska även ges möjlighet att utveckla förmåga att använda och utfärda teknisk dokumentation, dokumentera sitt arbete samt följa säkerhetsanvisningar.</p> <p>Genom både praktiskt och teoretiskt arbete ska eleverna förberedas för tekniskt arbete inom industrin. Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i situationer i verkstadsmiljö.</p> <h5><em>Undervisningen i ämnet automatiserade system ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om automatiserade systems uppbyggnad, funktion och användningsområden.</li> <li>Förmåga att hantera verktyg och utrustning.</li> <li>Förmåga att installera, driftsätta och underhålla automatiserade system.</li> <li>Förmåga att planera och utföra arbeten i automatiserade system i enlighet med standarder, lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att använda och framställa teknisk dokumentation samt att dokumentera sitt arbete.</li> </ul><h3>Nivåer i ämnet automatiserade system</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AUTA1000X</h3>",
+      "code": "AUTA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automatiserade system på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Anläggningar, system och utrustning</em></p> <ul> <li>Automatiserade system, komponenter och utrustning inom någon industriell process.</li> <li>Systemens användningsområden, uppbyggnad och funktion.</li> <li>Mätteknik med olika typer av givare, till exempel för mätning av flöde, tryck, temperatur, nivå, position och varvtal.</li> <li>Hur informationsteknik används och förbättrar automatiseringen inom valt teknikområde, till exempel gällande systemens installation, drift och underhåll.</li> <li>Introduktion till begrepp inom valt teknikområde.</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Hantering av vanligt förekommande verktyg, instrument och utrustning inom valt teknikområde.</li> <li>Installation, programmering och driftsättning av automatiserade system, till exempel med positions- eller tryckstyrning.</li> <li>Enklare förebyggande och avhjälpande underhåll samt introduktion till felsökningsmetoder.</li> <li>Planering och genomförande av arbeten i automatiserade system utifrån standarder och övriga bestämmelser.</li> </ul> <p><em>Dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Instruktioner, standarder och säkerhetsanvisningar.</li> <li>Säkert arbete i enlighet med lagar och andra bestämmelser som gäller arbetsmiljö.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Tillämpning av olika typer av scheman, ritningar och annan dokumentation över automatiserade system.</li> <li>Tolkning, användning och enklare framställning av teknisk dokumentation.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AUTA2000X</h3>",
+      "code": "AUTA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automatiserade system på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Anläggningar, system och utrustning</em></p> <ul> <li>Automatiserade system, komponenter och utrustning inom vald industriell process.</li> <li>Systemens användningsområden, uppbyggnad och funktion.</li> <li>Övervakning och styrning med hjälp av datorstyrd drift.</li> <li>Mätteknik med kalibrering av olika typer av givare samt introduktion till olinjära processer.</li> <li>Hur reglerteknik används och förbättrar automatiseringen inom valt teknikområde, till exempel genom filtrering, kaskadreglering, framkoppling, dödtid, kvot och buffert.</li> <li>Relevanta begrepp inom teknikområdet.</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Hantering av verktyg, instrument, utrustning och programvara.</li> <li>Installation, programmering och driftsättning av automatiserade system, däribland funktionskontroll och optimering av olika reglertekniska komponenter.</li> <li>Förebyggande och avhjälpande underhåll samt systematiska felsökningsmetoder.</li> <li>Planering och genomförande av arbeten i automatiserade system, till exempel testning av vanligt förekommande inställningsmetoder för PID-regulatorer.</li> </ul> <p><em>Dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Instruktioner och standarder.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö, däribland säkerhetsanvisningar.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Tolkning, användning och framställning av teknisk dokumentation, till exempel instruktioner, ritningar, scheman, symboler, standarder och funktionsbeskrivningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt hur automatiserade system är uppbyggda och fungerar samt deras användningsområden.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven utför med <strong>viss</strong> skicklighet arbeten inom installation, driftsättning och underhåll av automatiserade system.</p> <p>Eleven planerar och utför arbeten i automatiserade system i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder och framställer teknisk dokumentation med <strong>viss säkerhet</strong> och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt hur automatiserade system är uppbyggda och fungerar samt deras användningsområden.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>säkerhet</strong>.</p> <p>Eleven utför med <strong>god</strong> skicklighet arbeten inom installation, driftsättning och underhåll av automatiserade system.</p> <p>Eleven planerar och utför arbeten i automatiserade system i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder och framställer teknisk dokumentation med <strong>säkerhet</strong> och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt hur automatiserade system är uppbyggda och fungerar samt deras användningsområden.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven utför med <strong>mycket god</strong> skicklighet arbeten inom installation, driftsättning och underhåll av automatiserade system.</p> <p>Eleven planerar och utför arbeten i automatiserade system i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder och framställer teknisk dokumentation med <strong>god säkerhet</strong> och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.962Z"
+}

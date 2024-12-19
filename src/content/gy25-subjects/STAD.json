@@ -1,0 +1,64 @@
+{
+  "code": "STAD",
+  "name": "Städservice",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:124",
+  "nameHeading": "<h2>Städservice</h2>",
+  "description": "<p>Ämnet städservice behandlar hur säkert och systematiskt arbete med rengöring med för ändamålet avsedda metoder, medel, redskap och maskiner kan genomföras. Det behandlar också rengöringens betydelse för hälsan, städverksamheters funktionalitet samt vikten av ett serviceinriktat förhållningssätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet städservice ska syfta till att eleverna utvecklar förmåga att välja och tillämpa ändamålsenliga metoder inom rengöring. Eleverna ska också ges möjlighet att utveckla förmåga att välja, hantera, sköta och förvara kemisk-tekniska produkter samt verktyg, maskiner och säkerhetsutrustning i enlighet med rekommendationer och säkerhetsföreskrifter. Undervisningen ska även behandla hur val av såväl metod som utrustning påverkar ekonomi, slutresultat och miljö.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Eleverna ska även ges möjlighet att utveckla kunskaper om faktorer som påverkar behov av rengöring och hur rengöringsobjekt, människor och omkringliggande miljöer påverkas av rengöringen. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om rengöringsobjekt och hur funktion, material, risk- och säkerhetsaspekter påverkar val av utrustning och den egna arbetsinsatsen. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om förebyggande arbetsmiljöarbete och ergonomi. Undervisningen ska även leda till att eleverna utvecklar kunskaper om miljöarbete, bland annat avfallshantering.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att samarbeta och kommunicera om lämpliga arbetsinsatser och resultat. Eleverna ska också ges möjlighet att utveckla förmåga att avgöra kvaliteten av utförda arbetsinsatser utifrån både egen bedömning och fastställda kriterier. Dessutom ska undervisningen stimulera elevernas nyfikenhet och lust till fortsatt lärande inom området. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om branschen och dess villkor samt hur attityder, yrkesetik och hälsa påverkar yrkesutövningen.</p> <p>I undervisningen ska eleverna ges möjlighet att i kontakter med företag och organisationer utföra både teoretiska och praktiska övningar.</p> <h5><em>Undervisningen i ämnet städservice ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utifrån kravspecifikation och typ av rengöringsobjekt utföra arbete genom att välja lämplig metod och utrustning.</li> <li>Förmåga att hantera, vårda och förvara utrustning i enlighet med lagar och andra bestämmelser samt rekommendationer.</li> <li>Kunskaper om ergonomi och säkerhet i arbetet.</li> <li>Förmåga att samarbeta och kommunicera på ett serviceinriktat sätt.</li> <li>Förmåga att dokumentera och utvärdera utfört arbete utifrån fastställda kriterier.</li> </ul><h3>Nivåer i ämnet städservice</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: STAD1000X</h3>",
+      "code": "STAD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet städservice på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Val av lämplig metod och utrustning med hänsyn till ekonomi, resultat och miljöpåverkan.</li> <li>Miljöaspekter, till exempel val och dosering av kemisk-tekniska produkter samt avfallshantering, källsortering och återvinning.</li> <li>Olika typer av rengöringsobjekt och relationen mellan material, utrustning och metod.</li> <li>Olika metoder och verktyg inom städservice, till exempel för skötsel och underhåll av golv.</li> <li>Hjälpmedel och instruktioner för planering av städservice.</li> <li>Användningsområden för redskap, maskiner och kemisk-tekniska produkter.</li> <li>Hantering, skötsel och förvaring av vanligt förekommande redskap, maskiner, skyddsutrustning och kemisk-tekniska produkter.</li> <li>Lagar och andra bestämmelser samt märkningar och symboler inom området.</li> <li>Rutiner för effektiv städning.</li> <li>Tolkning av kravspecifikationer.</li> <li>Förebyggande arbetsmiljöarbete.</li> <li>Hälsoaspekter för olika städobjekt, till exempel mikroorganismers förekomst, egenskaper och smittorisker.</li> <li>Faktorer som påverkar den fysiska och psykosociala arbetsmiljön, till exempel skyddsutrustning, ergonomi och stresshantering.</li> <li>Fackspråk.</li> <li>Attityder, bemötande samt skrift-, tal- och kroppsspråkets betydelse i kommunikationen.</li> <li>Kommunikation och samverkan, till exempel med fokus på service, arbetsinsatser och resultat.</li> <li>Faktorer som påverkar yrkesrollen, till exempel service- och kvalitetsmedvetenhet, yrkesetik och värderingar, hållbarhetsfrågor samt kundens integritet och säkerhet.</li> <li>Dokumentation, egen bedömning, standardiserad utvärdering, riskbedömning och kvalitetssäkring av utförd arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför arbetet på ett <strong>godtagbart</strong> sätt utifrån de krav som situationen ställer.</p> <p>Eleven hanterar och vårdar utrustning på ett <strong>godtagbart</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området samt följer rutiner och märkningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ergonomiska arbetssätt och säkerhet.</p> <p>Eleven kommunicerar och samarbetar på ett yrkesmässigt och serviceinriktat sätt i arbetet.</p> <p>Eleven dokumenterar och utvärderar sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför arbetet på ett <strong>gott</strong> sätt utifrån de krav som situationen ställer.</p> <p>Eleven hanterar och vårdar utrustning på ett <strong>utvecklat</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området samt följer rutiner och märkningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ergonomiska arbetssätt och säkerhet.</p> <p>Eleven kommunicerar och samarbetar på ett yrkesmässigt och serviceinriktat sätt i arbetet.</p> <p>Eleven dokumenterar och utvärderar sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför arbetet på ett <strong>mycket gott</strong> sätt utifrån de krav som situationen ställer.</p> <p>Eleven hanterar och vårdar utrustning på ett <strong>välutvecklat</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området samt följer rutiner och märkningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ergonomiska arbetssätt och säkerhet.</p> <p>Eleven kommunicerar och samarbetar på ett yrkesmässigt och serviceinriktat sätt i arbetet.</p> <p>Eleven dokumenterar och utvärderar sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.085Z"
+}

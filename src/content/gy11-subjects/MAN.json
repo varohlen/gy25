@@ -1,0 +1,181 @@
+{
+  "code": "MAN",
+  "name": "Marinmotorteknik",
+  "englishName": "Marine engines",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:132",
+  "skolfsAndring": "2022:202",
+  "nameHeading": "<h2>Marinmotorteknik</h2>",
+  "description": "<p>Ämnet marinmotorteknik behandlar marina motorers uppbyggnad och funktion samt bakomliggande principer för deras mekanik. Det behandlar också materiallära, arbetsmetoder, verktyg och andra hjälpmedel relaterat till marinmotorteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marinmotorteknik ska syfta till att eleverna utvecklar tekniskt kunnande och intresse för teknik. Eleverna ska ges möjlighet att utveckla förmåga att genomföra underhåll, diagnostisering och reparationer av marina motorer och deras framdriftssystem. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att hantera verktyg och utrustning. Undervisningen ska leda till att eleverna utvecklar kunskaper om marina motorers huvudkomponenter, kunskaper i monterings- och demonteringsarbete samt förmåga att hantera de informationssystem som används för att lösa arbetsuppgifterna.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt.</p><h4>Undervisningen i ämnet marinmotorteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om marina motorers och deras drivlinors huvudkomponenter, uppbyggnad och användningsområden. Kunskaper om huvudkomponenternas funktion och hur de samverkar.</li> <li>Förmåga att utföra arbete på marina motorer och drivlinor.</li> <li>Förmåga att välja arbetsmetod, verktyg och utrustning.</li> <li>Förmåga att använda svenska och engelska manualer och informationssystem.</li> <li>Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att kommunicera samt att använda begrepp och uttryck som är relevanta för ämnesområdet.</li> <li>Kunskaper om branschens villkor, roll i samhället och yrkets förutsättningar.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Diagnos och reparation, 100 poäng. </li> <li>Intervallservice, 100 poäng. </li> <li>Marinmotor – introduktion, 100 poäng. </li> <li>Nyinstallation, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MANDIA0</h3>",
+      "code": "MANDIA0",
+      "nameHeading": "<h2>Diagnos och reparation, 100 poäng</h2>",
+      "name": "Diagnos och reparation",
+      "englishName": "Diagnosis and repairs",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen diagnos och reparation omfattar punkterna 2–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Felsökning, underhåll och reparation av marina motorer.</li> <li>Felsökning, underhåll och reparation av marina motorers drivlina.</li> <li>Demontering, montering och justering av komponenter i samband med reparationsarbete.</li> <li>Metoder för diagnos samt för funktions- och säkerhetskontroll.</li> <li>Användning av branschrelaterad diagnosutrustning i samband med arbete på marina motorer och i anknytning till arbetsmomentets övriga krav.</li> <li>Dokumentation av utförd service.</li> <li>Arbetsinstruktioner och servicelitteratur på svenska och engelska, inklusive information i datormiljö.</li> <li>Administrativa verkstadsfunktioner, till exempel offerter, order och fakturor. </li> <li>Reservdelshantering.</li> <li>Lagar och andra bestämmelser som reglerar området, till exempel gällande miljö och säkerhet.</li> <li>Kundrelationer, inklusive vägledning av kunden utifrån en lagmässig, teknisk och ekonomisk värdering.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare diagnos och reparation av marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>i samråd </strong>med handledare funktions- och säkerhetskontroll. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med <strong>visst </strong>handlag de verktyg, den diagnosutrustning och övrig digital teknik samt de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven gör en <strong>enkel </strong>dokumentation av utfört arbete samt utför <strong>med viss säkerhet</strong> olika administrativa verkstadsfunktioner och beställer reservdelar.</p><p>Eleven arbetar <strong>i samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar samt kommunicerar <strong>med viss säkerhet</strong> med både kollegor och kunder på ett för situationen anpassat sätt. Eleven resonerar <strong>översiktligt</strong> om olika överväganden i samband med att en kund ska vägledas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare diagnos och reparation av marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>efter samråd </strong>med handledare funktions- och säkerhetskontroll. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta<strong> och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med<strong> gott </strong>handlag de verktyg, den diagnosutrustning och övrig digital teknik samt de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven gör en <strong>noggrann </strong>dokumentation av utfört arbete samt utför <strong>med viss säkerhet</strong> olika administrativa verkstadsfunktioner och beställer reservdelar.</p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar samt kommunicerar <strong>med viss säkerhet</strong> med både kollegor och kunder på ett för situationen anpassat sätt. Eleven resonerar <strong>utförligt</strong> om olika överväganden i samband med att en kund ska vägledas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare diagnos och reparation av marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>efter samråd </strong>med handledare funktions- och säkerhetskontroll. Eleven gör en <strong>genomarbetad </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta<strong> och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med<strong> mycket gott </strong>handlag de verktyg, den diagnosutrustning och övrig digital teknik samt de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven gör en <strong>noggrann och utförlig </strong>dokumentation av utfört arbete samt utför <strong>med säkerhet</strong> olika administrativa verkstadsfunktioner och beställer reservdelar.</p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar samt kommunicerar <strong>med säkerhet</strong> med både kollegor och kunder på ett för situationen anpassat sätt. Eleven resonerar <strong>utförligt och nyanserat</strong> om olika överväganden i samband med att en kund ska vägledas.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MANINT0</h3>",
+      "code": "MANINT0",
+      "nameHeading": "<h2>Intervallservice, 100 poäng</h2>",
+      "name": "Intervallservice",
+      "englishName": "Interval servicing",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen intervallservice omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Konsekvenser för ekonomi och driftsäkerhet på grund av eftersatt underhåll.</li> <li>Intervallservice på motor och drivlina enligt motortillverkarens instruktioner.</li> <li>Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll av marina motorer.</li> <li>Demontering, montering och justering av komponenter i samband med servicearbete.</li> <li>Arbeten inför långtids- eller vinterförvaring.</li> <li>Arbetsplanering. Val av metoder och verktyg.</li> <li>Arbetsinstruktioner och servicelitteratur på svenska och engelska, inklusive information i datormiljö.</li> <li>Kostnader för drift och underhåll.</li> <li>Kostnadseffektivt arbetssätt och kundvänlig behandling.</li> <li>Reservdelshantering och serviceprotokoll.</li> <li> Lagar och andra bestämmelser som reglerar området, till exempel gällande miljö och säkerhet.</li> <li>Motorunderhåll och service samt faktorer som påverkar miljö.</li> <li>Yrkets fackspråk, termer och begrepp.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för vikten av intervallservice.</p><p>Eleven utför <strong>i samråd </strong>med handledare intervallservice på marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>i samråd </strong>med handledare diagnos samt funktions- och säkerhetskontroll. Dessutom utför eleven <strong>i</strong> <strong>samråd </strong>med handledare justering av, samt monterings- och demonteringsarbete av komponenter på, marina motorer. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med<strong> visst </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning. </p><p>Eleven gör en <strong>enkel</strong> dokumentation av utfört arbete. Dessutom gör eleven <strong>enkla</strong> beräkningar av kostnader för utförda arbeten och för förbrukat material. </p><p>Eleven arbetar <strong>i samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som reglerar arbetet. Eleven redogör även <strong>översiktligt</strong> för hur underhåll och service av motorer påverkar miljön.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för vikten av intervallservice.</p><p>Eleven utför <strong>efter samråd </strong>med handledare intervallservice på marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>efter samråd </strong>med handledare diagnos samt funktions- och säkerhetskontroll. Dessutom utför eleven <strong>efter</strong> <strong>samråd </strong>med handledare justering av, samt monterings- och demonteringsarbete av komponenter på, marina motorer. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta<strong> och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med<strong> gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning. </p><p>Eleven gör en <strong>noggrann</strong> dokumentation av utfört arbete. Dessutom utför eleven beräkningar av kostnader för utförda arbeten och för förbrukat material. </p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet. Eleven redogör även <strong>utförligt</strong> för hur underhåll och service av motorer påverkar miljön.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för vikten av intervallservice.</p><p>Eleven utför <strong>efter samråd </strong>med handledare intervallservice på marina motorer och drivlinor. Som ett led i arbetet utför eleven <strong>efter samråd </strong>med handledare diagnos samt funktions- och säkerhetskontroll. Dessutom utför eleven <strong>efter</strong> <strong>samråd </strong>med handledare justering av, samt monterings- och demonteringsarbete av komponenter på, marina motorer. Eleven gör en <strong>genomarbetad </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta<strong> och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med<strong> mycket gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning. </p><p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete. Dessutom gör eleven <strong>komplexa</strong> beräkningar av kostnader för utförda arbeten och för förbrukat material. </p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som reglerar arbetet. Eleven redogör även <strong>utförligt och nyanserat</strong> för hur underhåll och service av motorer påverkar miljön.</p><p>Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MANMAR0</h3>",
+      "code": "MANMAR0",
+      "nameHeading": "<h2>Marinmotor – introduktion, 100 poäng</h2>",
+      "name": "Marinmotor – introduktion",
+      "englishName": "Marine engines – introduction",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen marinmotor – introduktion omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Motorns olika system såsom kyl-, el-, tänd-, bränsle- och smörjsystem.</li> <li>Funktioner och egenskaper för olika motorkonstruktioner och användningsområden.</li> <li>Drivlinor.</li> <li>Komponentkännedom genom enklare demonterings- och monteringsmoment.</li> <li>Hantering, användning och vård av hand- och specialverktyg samt verkstads- och skyddsutrustning.</li> <li>Arbetsplanering. Val av metoder och verktyg.</li> <li>Olika typer av service- och verkstadslitteratur.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador samt bestämmelser som gäller för arbetet.</li> <li>Miljökrav på arbetet.</li> <li>Yrkets fackspråk, termer och begrepp.</li> <li>Kundbemötande och kommunikation.</li> <li>Branschens villkor och yrkets förutsättningar.</li> <li>Lagar och andra bestämmelser som reglerar området.</li> <li>Arbetsmiljö, ergonomi och sambandet mellan människa och maskin.</li> <li>Yrkesetik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> marina motorers och drivlinors huvudkomponenter, uppbyggnad och användningsområden samt huvudkomponenternas funktion och hur de samverkar.</p><p>Eleven utför <strong>i samråd </strong>med handledare enklare servicearbeten på marina motorer, drivlinor och deras olika system. Dessutom utför eleven <strong>i</strong> <strong>samråd </strong>med handledare enklare monterings- och demonteringsarbete på marina motorer. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet </strong>arbetsinstruktioner och servicemanualer. Eleven använder med<strong> visst </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för lokaler och verkstadsutrustning. </p><p>Eleven arbetar <strong>i samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>översiktligt</strong> lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven beskriver <strong>översiktligt</strong> branschföretagens uppbyggnad och funktion. Vidare redogör eleven <strong>översiktligt </strong>för yrkets villkor och etiska regler. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> marina motorers och drivlinors huvudkomponenter, uppbyggnad och användningsområden samt huvudkomponenternas funktion och hur de samverkar.</p><p>Eleven utför <strong>efter samråd </strong>med handledare enklare servicearbeten på marina motorer, drivlinor och deras olika system. Dessutom utför eleven <strong>efter</strong> <strong>samråd </strong>med handledare enklare monterings- och demonteringsarbete på marina motorer. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta <strong>och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet </strong>arbetsinstruktioner och servicemanualer. Eleven använder med<strong> gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för lokaler och verkstadsutrustning. </p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt</strong> lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven beskriver <strong>utförligt</strong> branschföretagens uppbyggnad och funktion. Vidare redogör eleven <strong>utförligt </strong>för yrkets villkor och etiska regler. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> marina motorers och drivlinors huvudkomponenter, uppbyggnad och användningsområden samt huvudkomponenternas funktion och hur de samverkar.</p><p>Eleven utför <strong>efter samråd </strong>med handledare enklare servicearbeten på marina motorer, drivlinor och deras olika system. Dessutom utför eleven <strong>efter</strong> <strong>samråd </strong>med handledare enklare monterings- och demonteringsarbete på marina motorer. Eleven gör en <strong>genomarbetad </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta <strong>och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med säkerhet </strong>arbetsinstruktioner och servicemanualer. Eleven använder med<strong> mycket gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för lokaler och verkstadsutrustning. </p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> branschföretagens uppbyggnad och funktion. Vidare redogör eleven <strong>utförligt och nyanserat </strong>för yrkets villkor och etiska regler. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MANNYI0</h3>",
+      "code": "MANNYI0",
+      "nameHeading": "<h2>Nyinstallation, 100 poäng</h2>",
+      "name": "Nyinstallation",
+      "englishName": "New installations",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen nyinstallation omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Drivlinors funktion samt dimensionering av propellrar.</li> <li>Elektroniska plattformar för kommunikation mellan motor, reglage, instrument och övrig utrustning, till exempel EVC.</li> <li>Nyinstallation av inombordsmotor med drivlina.</li> <li>Nyinstallation av utombordsmotorer.</li> <li>Hydraulstyrning, kabelstyrning samt reglageinstallationer.</li> <li>Motorinstrumentinstallationer.</li> <li>Dimensionering av motorbädd inför installation.</li> <li>Arbetsplanering. Val av metoder och verktyg.</li> <li>Arbets- och installationsmanualer på svenska och engelska.</li> <li>Funktionskontroll och dokumentation.</li> <li>Arbetsmiljö och ergonomi.</li> <li>Yrkets fackspråk, termer och begrepp.</li> <li>Konsumentjuridik relevant för branschen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> drivlinors huvudkomponenter och funktion. Dessutom redogör eleven <strong>översiktligt </strong>för olika system för kommunikation mellan motor, reglage, instrument och övrig utrustning.</p><p>Eleven utför <strong>i samråd </strong>med handledare nyinstallation av marina motorer, drivlinor och tillhörande utrustningar utifrån tillverkarens anvisningar. Dessutom utför eleven <strong>i samråd </strong>med handledare dimensionering av motorbädd och drivlina. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med <strong>visst </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven utför <strong>med viss säkerhet </strong>funktionskontroll samt gör en <strong>enkel</strong> dokumentation av utfört arbete.</p><p>Eleven arbetar <strong>i samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven redogör <strong>översiktligt</strong> för bestämmelser som reglerar näringsidkares handel mot konsument.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> drivlinors huvudkomponenter och funktion. Dessutom redogör eleven <strong>utförligt </strong>för olika system för kommunikation mellan motor, reglage, instrument och övrig utrustning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare nyinstallation av marina motorer, drivlinor och tillhörande utrustningar utifrån tillverkarens anvisningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare dimensionering av motorbädd och drivlina. Eleven gör en <strong>enkel </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta <strong>och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med <strong>gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven utför <strong>med viss säkerhet </strong>funktionskontroll samt gör en <strong>noggrann</strong> dokumentation av utfört arbete.</p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven redogör <strong>utförligt</strong> för bestämmelser som reglerar näringsidkares handel mot konsument.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> drivlinors huvudkomponenter och funktion. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för olika system för kommunikation mellan motor, reglage, instrument och övrig utrustning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare nyinstallation av marina motorer, drivlinor och tillhörande utrustningar utifrån tillverkarens anvisningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare dimensionering av motorbädd och drivlina. Eleven gör en <strong>genomarbetad </strong>planering inför sin arbetsuppgift. Dessutom väljer eleven för uppgiften lämpliga arbetsmetoder, verktyg och lämplig utrustning i bekanta <strong>och nya </strong>situationer. I arbetet läser och tolkar eleven <strong>med säkerhet</strong> arbetsinstruktioner och servicemanualer. Eleven använder med <strong>mycket gott </strong>handlag de verktyg, den digitala teknik och de informationssystem som uppgiften kräver. I arbetet tar eleven ansvar för kundens egendom samt för lokaler och verkstadsutrustning.</p><p>Eleven utför <strong>med säkerhet </strong>funktionskontroll samt gör en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete.</p><p>Eleven arbetar <strong>efter samråd </strong>med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.</p><p>Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra på ett för yrket relevant språk.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för bestämmelser som reglerar näringsidkares handel mot konsument.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.079Z"
+}

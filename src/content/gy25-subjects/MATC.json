@@ -1,0 +1,64 @@
+{
+  "code": "MATC",
+  "name": "Mät- och reglerteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:76",
+  "nameHeading": "<h2>Mät- och reglerteknik</h2>",
+  "description": "<p>Ämnet mät- och reglerteknik behandlar metoder och arbetssätt för att automatiskt styra processer mot ett bestämt mål. Reglerteknik används både i industrin och i fastigheter. I ämnet mät- och reglerteknik läggs stor vikt vid att korrekta mätvärden erhålls. I ämnet behandlas olika typer av mätdon och regulatorer samt inställning och optimering av dessa.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet mät- och reglerteknik ska syfta till att eleverna utvecklar förmåga att installera och använda reglerteknisk utrustning samt färdigheter i att konfigurera och optimera reglersystem. Genom undervisningen ska eleverna ges möjlighet att utveckla kännedom om hur reglersystem är uppbyggda och hur olika delar samverkar med varandra. Eleverna ska även ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i reglerteknisk utrustning.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt förmåga att använda manualer och säkerhetsrutiner. På så vis ska undervisningen bidra till att eleverna utvecklar ett säkert och miljömässigt hållbart arbetssätt. Dessutom ska eleverna ges möjlighet att utveckla förmåga att dokumentera och utvärdera sitt arbete.</p> <p>I undervisningen ska både praktiskt arbete med reglerteknisk utrustning och teoretiska uppgifter ingå så att eleverna ges möjlighet att förstå sambandet mellan praktiskt arbete och yrkesteori. Undervisningen ska även stimulera elevernas nyfikenhet och lust att lära samt lämna utrymme för diskussion och reflektion om etiska frågor.</p> <h5><em>Undervisningen i ämnet mät- och reglerteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om funktioner och samband inom mät- och reglerteknik.</li> <li>Förmåga att installera och använda mät- och reglertekniska komponenter och system.</li> <li>Färdigheter i att konfigurera och optimera reglersystem.</li> <li>Förmåga att felsöka och åtgärda fel i mät- och reglertekniska komponenter och system.</li> <li>Förmåga att dokumentera och utvärdera sitt arbete.</li> <li>Förmåga att arbeta på ett säkert sätt utifrån rutiner som tillämpas på arbetsplatsen och i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet mät- och reglerteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATC1000X</h3>",
+      "code": "MATC1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet mät- och reglerteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Konstruktion och uppbyggnad hos mät- och reglersystem</em></p> <ul> <li>Grundläggande industriell mätteknik med vanligt förekommande metoder för att mäta temperatur, tryck, flöde, nivå och varvtal samt omvandling av mät- och reglertekniska storheter.</li> <li>Mät- och reglertekniska begrepp, till exempel kalibrering, linjäritet, hysteres, stegsvar, dödtid, tidskonstant och proportionellt band.</li> <li>Pådragsdon och ställdonsfunktioner, beteckningar, märkningar och symboler.</li> </ul> <p><em>Arbete med mät- och reglersystem</em></p> <ul> <li>Inkoppling, kontroll och injustering av vanligt förekommande mät- och reglertekniska komponenter.</li> <li>Enklare mättekniska laborationer med mätning av temperatur, nivå och varvtal.</li> <li>Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen, integreringstiden samt den deriverande verkan i regulatorn.</li> <li>Enkel optimering av regulatorer.</li> <li>Grundläggande mätosäkerhet.</li> <li>Kalibrering och justering av givare, till exempel för temperatur, tryck, flöde och nivå.</li> <li>Signalföljning och funktionsanalys av en enkel mät- och reglerteknisk anläggning med hjälp av mätinstrument, ritningar, scheman, datablad och manualer.</li> <li>Metoder för att identifiera, förebygga och avhjälpa fel i mät- och reglertekniska anläggningar.</li> <li>Felsökning och åtgärder av fel.</li> <li>Metoder för dokumentation och utvärdering av mät- och reglertekniska arbeten.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsrutiner.</li> <li>Miljömässigt och hållbart arbetssätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> funktioner och samband i mät- och reglersystem.</p> <p>Eleven installerar mät- och reglertekniska komponenter och system med <strong>viss</strong> skicklighet. I arbetet följer eleven tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>viss</strong> skicklighet.</p> <p>Eleven gör inställningar och optimering av mät- och reglerparametrar med <strong>viss säkerhet</strong>.</p> <p>Eleven felsöker och åtgärdar fel i mät- och reglersystem med <strong>viss säkerhet</strong>.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation och utvärderar sitt arbete med <strong>enkla</strong> omdömen.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med säkerhetsrutiner, lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> funktioner och samband i mät- och reglersystem.</p> <p>Eleven installerar mät- och reglertekniska komponenter och system med <strong>god</strong> skicklighet. I arbetet följer eleven tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>god</strong> skicklighet.</p> <p>Eleven gör inställningar och optimering av mät- och reglerparametrar med <strong>säkerhet</strong>.</p> <p>Eleven felsöker och åtgärdar fel i mät- och reglersystem med <strong>säkerhet</strong>.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation och utvärderar sitt arbete med <strong>utvecklade</strong> omdömen.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med säkerhetsrutiner, lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktioner och samband i mät- och reglersystem.</p> <p>Eleven installerar mät- och reglertekniska komponenter och system med <strong>mycket god</strong> skicklighet. I arbetet följer eleven tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>mycket god</strong> skicklighet.</p> <p>Eleven gör inställningar och optimering av mät- och reglerparametrar med <strong>god säkerhet</strong>.</p> <p>Eleven felsöker och åtgärdar fel i mät- och reglersystem med <strong>god säkerhet</strong>.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation och utvärderar sitt arbete med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med säkerhetsrutiner, lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.040Z"
+}

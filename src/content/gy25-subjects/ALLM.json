@@ -1,0 +1,64 @@
+{
+  "code": "ALLM",
+  "name": "Allmän järnvägsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen\n",
+  "skolfsGrund": "2023:153",
+  "nameHeading": "<h2>Allmän järnvägsteknik</h2>",
+  "description": "<p>Ett fungerande järnvägssystem är väsentligt för att upprätthålla transporter av både människor och gods. Ämnet allmän järnvägsteknik behandlar olika teknik- och anläggningssystem inom järnvägsbranschen samt de risker som är förenade med att vistas och arbeta i järnvägsmiljö. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet allmän järnvägsteknik ska syfta till att eleverna utvecklar kunskaper om olika teknik- och anläggningssystem inom järnvägsbranschen samt de risker som är förenade med arbete på och bredvid järnväg. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet, standarder, lagar och andra bestämmelser inom området. Undervisningen ska dessutom stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete inom järnvägsbranschen.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö. Därigenom ska eleverna ges möjlighet att utveckla förmåga att använda verktyg, material och instrument på ett säkert och hållbart sätt. Undervisningen ska också leda till att eleverna utvecklar förmåga att tolka och använda dokumentation, till exempel ritningar och arbetsbeskrivningar, samt att dokumentera sitt arbete. Vidare ska undervisningen ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet allmän järnvägsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika teknik- och anläggningssystem inom järnvägsbranschen.</li> <li>Kunskaper om begrepp samt lagar och andra bestämmelser inom området.</li> <li>Förmåga att tolka och använda ritningar och andra relevanta dokument inom området.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området samt att förebygga skador på personer och egendom.</li> <li>Förmåga att dokumentera sitt arbete.</li> </ul><h3>Nivåer i ämnet allmän järnvägsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet ellära.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ALLM1000X</h3>",
+      "code": "ALLM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet allmän järnvägsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Teknik- och anläggningssystem inom järnvägsbranschen samt deras uppbyggnad och funktion.</li> <li>Olika järnvägar i statlig respektive kommunal ägo.</li> <li>Villkor för olika entreprenadformer.</li> <li>Grundläggande begrepp inom järnvägen.</li> <li>Lagar och andra bestämmelser inom området, däribland föreskrifter om brandfarliga arbeten, säkerhet på väg och avstängning av vägar.</li> <li>Vistelse i spårmiljö och arbete med spänning i enlighet med lagar och andra bestämmelser inom området.</li> <li>Hållbarhetsarbete inom järnväg.</li> <li>Tolkning och användning av järnvägsritningar och arbetsbeskrivningar.</li> <li>Risker i järnvägsmiljö, till exempel vad gäller återledare och jordningssystem.</li> <li>Säkerhetsklassning.</li> <li>Rutiner för olyckshantering inom järnvägsbranschen.</li> <li>Första hjälpen, däribland HLR (hjärt-lungräddning).</li> <li>Dokumentation av eget arbete utifrån givna riktlinjer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur olika teknik- och anläggningssystem inom järnvägsbranschen är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för begrepp, lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra i enlighet med lagar och andra bestämmelser inom området samt förebygger skador på personer och egendom.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur olika teknik- och anläggningssystem inom järnvägsbranschen är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för begrepp, lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra i enlighet med lagar och andra bestämmelser inom området samt förebygger skador på personer och egendom.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur olika teknik- och anläggningssystem inom järnvägsbranschen är uppbyggda och fungerar.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för begrepp, lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra i enlighet med lagar och andra bestämmelser inom området samt förebygger skador på personer och egendom.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.958Z"
+}

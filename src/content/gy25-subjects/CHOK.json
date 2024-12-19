@@ -1,0 +1,65 @@
+{
+  "code": "CHOK",
+  "name": "Choklad och konfektyr",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-22",
+  "version": "gy25",
+  "versionInfo": "Första versionen (justering av skrivfel i CI)",
+  "skolfsGrund": "2023:189",
+  "skolfsAndring": "2024:582",
+  "nameHeading": "<h2>Choklad och konfektyr</h2>",
+  "description": "<p>Ämnet choklad och konfektyr behandlar hantverksmässiga metoder för att framställa olika typer av choklad- och konfektyrprodukter. I ämnet ingår hur råvaror och olika processer påverkar produktens egenskaper och kvalitet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet choklad och konfektyr ska syfta till att eleverna utvecklar förmåga att tillverka choklad- och konfektyrprodukter. Eleverna ska ges möjlighet att utveckla kunskaper om hur kemiska förändringar och temperaturskillnader vid tillverkningen påverkar produkterna. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur kvaliteten på olika råvaror påverkar resultatet. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om historia och traditioner inom området.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att yrkesmässigt tillverka choklad- och konfektyrprodukter med moderna och traditionella hantverksmetoder. Eleverna ska också ges möjlighet att utveckla förmåga att beräkna recept och göra ekonomiska kalkyler samt att välja och hantera råvaror.</p> <p>Undervisningen ska ge eleverna möjlighet att tillsammans reflektera över arbetsprocess och samarbete. Undervisningen ska dessutom stimulera elevernas kreativitet, initiativförmåga och lust att skapa estetiskt och sensoriskt tilltalande produkter.</p> <h5><em>Undervisningen i ämnet choklad och konfektyr ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om choklad- och konfektyrprodukter.</li> <li>Förmåga att tillverka choklad- och konfektyrprodukter.</li> </ul><h3>Nivåer i ämnet choklad och konfektyr</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CHOK1000X</h3>",
+      "code": "CHOK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet choklad och konfektyr på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Choklad- och konfektyrprodukter genom historien.</li> <li>Hur olika smak, konsistens och kvalitet kan uppnås genom olika processer, däribland vid kemiska förändringar.</li> <li>Råvaror och andra ingredienser.</li> <li>Val av råvaror för allergier, specialkost och kostval inom choklad- och konfektyrområdet.</li> <li>Arbetsprocesser vid tillverkning av choklad- och konfektyrprodukter.</li> <li>Tillverkning av choklad- och konfektyrprodukter med hantverksmässiga metoder utifrån trend och tradition med hänsyn till utseende och smak.</li> <li>Paketering och märkning.</li> <li>Hantering av redskap, maskiner och annan utrustning.</li> <li>Receptberäkningar.</li> <li>Ekonomiska kalkyler.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om choklad- och konfektyrprodukter.</p> <p>Eleven tillverkar med <strong>viss säkerhet</strong> choklad- och konfektyrprodukter.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om choklad- och konfektyrprodukter.</p> <p>Eleven tillverkar med <strong>säkerhet</strong> choklad- och konfektyrprodukter.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om choklad- och konfektyrprodukter.</p> <p>Eleven tillverkar med <strong>god säkerhet</strong> choklad- och konfektyrprodukter.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.980Z"
+}

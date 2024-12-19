@@ -1,0 +1,64 @@
+{
+  "code": "FISE",
+  "name": "Fiske",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:284",
+  "nameHeading": "<h2>Fiske</h2>",
+  "description": "<p>Ämnet fiske behandlar yrkesmässigt arbete med fiske. I ämnet behandlas fiskets biologiska och tekniska förutsättningar samt hantering, förvaring, beredning och transport av fisk. Centralt i ämnet är hållbart nyttjande av fiskbestånd på naturens villkor samt åtgärder som bevarar den biologiska mångfalden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fiske ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom fiske. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av de biologiska sammanhangen och förutsättningarna för fiske i olika vattenmiljöer. Eleverna ska också ges möjlighet att utveckla kunskaper om den biologiska mångfaldens betydelse för hållbara ekosystem och fungerande ekosystemtjänster samt hur fiskenäringen kan utvecklas på ett etiskt samt ekonomiskt och miljömässigt hållbart sätt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika fiskarter och deras värde som livsmedel. Den ska också bidra till att eleverna utvecklar kunskaper om skador och sjukdomar på fisk och deras orsaker.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta teknisk utrustning och fiskeredskap på ett ändamålsenligt sätt. Eleverna ska också ges möjlighet att utveckla förmåga att planera och genomföra arbetsuppgifter inom yrkesmässigt fiske på ett etiskt och hållbart sätt med hänsyn till miljön. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att använda arbetsmetoder som främjar ett långsiktigt hållbart arbetsliv samt att göra riskbedömningar och vidta förebyggande säkerhetsåtgärder i samband med användning av redskap och teknisk utrustning. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller yrkesmässigt fiske.</p> <p>Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen. Genom observationer och fältstudier ska eleverna ges möjlighet att utveckla förståelse av ekologiska samband vid kust och i sjöar och vattendrag.</p> <h5><em>Undervisningen i ämnet fiske ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika fiskarter och deras konsumtionsvärde samt om olika skador och sjukdomar på fisk och deras orsaker.</li> <li>Kunskaper om ekologiska samband och om hållbar förvaltning av fiskevatten.</li> <li>Förmåga att planera och utföra arbetsuppgifter inom fiske på ett etiskt och hållbart sätt.</li> <li>Förmåga att använda redskap, teknisk utrustning och material i samband med fiske.</li> <li>Förmåga att arbeta säkert och ergonomiskt.</li> <li>Kunskaper om lagar och andra bestämmelser som gäller yrkesmässigt fiske.</li> </ul><h3>Nivåer i ämnet fiske</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FISE1000X</h3>",
+      "code": "FISE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fiske på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Fiskarter som används för konsumtion och deras konsumtionsvärde.</li> <li>Vanliga skador och sjukdomar på fisk, till exempel parasitangrepp.</li> <li>Förekomst av fisk i olika vattenmiljöer samt hur fisket påverkar miljön och de ekologiska sambanden i marin miljö.</li> <li>Vattenmiljöer och klimatets inverkan på artsammansättning och tillgång på fisk.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Arbete med fiske på ett etiskt sätt samt fångstmetoder och metoder för att hitta fångstplatser.</li> <li>Hantering, förvaring och transport av färsk fisk i samband med fiske.</li> <li>Loggbok för att redovisa fångst.</li> <li>Användning av fiskeredskap och teknisk utrustning för arbetsuppgifter inom fiske.</li> <li>Skötsel och underhåll av redskap och teknisk utrustning, till exempel för att laga nät, splitsa och knopa.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med fiske.</li> <li>Olycksrisker och åtgärder vid olycksfall och tillbud.</li> <li>Lagar och andra bestämmelser som gäller yrkesmässigt fiske, däribland miljölagstiftning och bestämmelser som reglerar säkerhet, rätt till fiske, tidpunkt för fångst, minimimått och redskapens utformning och antal.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om fiskarter som kan användas för konsumtion. Eleven identifierar med <strong>viss säkerhet</strong> skador och sjukdomar på fisk samt redogör <strong>översiktligt</strong> för möjliga orsaker till skadorna och sjukdomarna.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ekologiska samband i olika vattenmiljöer. Dessutom beskriver eleven <strong>översiktligt</strong> hur fisket påverkar den ekologiska balansen.</p> <p>Eleven planerar och utför arbetsuppgifter inom fiske på ett etiskt och hållbart sätt. Resultatet av arbetet är <strong>godtagbart</strong>.</p> <p>Eleven använder med <strong>visst</strong> handlag redskap, teknisk utrustning och material för de olika arbetsuppgifterna.</p> <p>Eleven gör <strong>enkla</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder samt arbetar säkert och ergonomiskt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller yrkesmässigt fiske.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om fiskarter som kan användas för konsumtion. Eleven identifierar med <strong>säkerhet</strong> skador och sjukdomar på fisk samt redogör <strong>utförligt</strong> för möjliga orsaker till skadorna och sjukdomarna.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ekologiska samband i olika vattenmiljöer. Dessutom beskriver eleven <strong>utförligt</strong> hur fisket påverkar den ekologiska balansen.</p> <p>Eleven planerar och utför arbetsuppgifter inom fiske på ett etiskt och hållbart sätt. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven använder med <strong>gott</strong> handlag redskap, teknisk utrustning och material för de olika arbetsuppgifterna.</p> <p>Eleven gör <strong>välgrundade</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder samt arbetar säkert och ergonomiskt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller yrkesmässigt fiske.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om fiskarter som kan användas för konsumtion. Eleven identifierar med <strong>god säkerhet</strong> skador och sjukdomar på fisk samt redogör <strong>utförligt och nyanserat</strong> för möjliga orsaker till skadorna och sjukdomarna.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ekologiska samband i olika vattenmiljöer. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur fisket påverkar den ekologiska balansen.</p> <p>Eleven planerar och utför arbetsuppgifter inom fiske på ett etiskt och hållbart sätt. Resultatet av arbetet är <strong>mycket gott</strong>.</p> <p>Eleven använder med <strong>mycket gott</strong> handlag redskap, teknisk utrustning och material för de olika arbetsuppgifterna.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder samt arbetar säkert och ergonomiskt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller yrkesmässigt fiske.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.996Z"
+}

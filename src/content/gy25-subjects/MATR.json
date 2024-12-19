@@ -1,0 +1,78 @@
+{
+  "code": "MATR",
+  "name": "Materialteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:54",
+  "nameHeading": "<h2>Materialteknik</h2>",
+  "description": "<p>Ämnet materialteknik behandlar det produktionsmaterial som huvudsakligen används inom valt industriområde. Ämnet behandlar råvaror, förädlingsprocesser och var och hur materialet används samt materialets inre och yttre egenskaper. Ämnet behandlar också metoder och tekniker för att forma, bearbeta, dela, sammanfoga och montera materialet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet materialteknik ska syfta till att eleverna utvecklar förmåga att, enligt etablerade metoder, bearbeta det material som används inom valt industriområde. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om materialets användningsområden och om materialets allmänna egenskaper och tillfälliga status. Den ska därmed bidra till att eleverna utvecklar förmåga att hantera materialet ur både funktionella och kvalitetsmässiga aspekter i enlighet med materialets inre och yttre egenskaper.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att göra nödvändiga beräkningar och att lösa problem i samband med hantering av produktionsmaterial. Att bearbeta material kan innebära risker och därför ska undervisningen bidra till att eleverna utvecklar förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom yrkesområdet. Inom det industritekniska området ställs höga krav på kommunikation och samverkan inom organisationen. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att med relevanta begrepp kommunicera om frågor som rör materialet.</p> <p>Undervisningen ska ge eleverna möjlighet att diskutera frågor om materialanvändning kopplat till miljö och hur materialet påverkar verktyg och annan utrustning. Undervisningen ska ge eleverna möjlighet att utveckla färdigheter i att hantera materialet med såväl hand- som maskinverktyg, och därför ska praktiska övningar ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet materialteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om materialets användningsområden och egenskaper.</li> <li>Förmåga att bearbeta material i förberedande bearbetning och i produktionsmoment.</li> <li>Förmåga att utföra relevanta beräkningar samt tolka berednings- och tillverkningsunderlag.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet materialteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATR1000X</h3>",
+      "code": "MATR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet materialteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Användningsområden och egenskaper</em></p> <ul> <li>Råvaruproduktion, förädling till olika materialvariationer och metoder för produkttillverkning, ytbehandling och annan efterbearbetning samt destruktion eller återvinning.</li> <li>Materialets historia, nuvarande användningsområden och utvecklingspotential.</li> <li>Materialets egenskaper och hur det interagerar med omgivande material och miljö.</li> <li>Materialets förändrade egenskaper vid bearbetning.</li> <li>Materialets påverkan på verktyg och annan utrustning.</li> <li>Relevanta begrepp för kommunikation om frågor som rör materialet.</li> </ul> <p><em>Bearbetning av material</em></p> <ul> <li>Arbetsmetoder som används vid materialbearbetning.</li> <li>Hantering av enklare mät- och handverktyg.</li> <li>Kvalitetskontroll av material utifrån beteckningar och standarder.</li> <li>Bearbetning, formning, sammanfogning och delning av material med hand- och maskindriven utrustning.</li> <li>Korrigering av fel vid bearbetningen samt hantering av andra typer av problem som kan uppstå.</li> <li>Bearbetning av material fram till produktframställning.</li> <li>Materialberäkningar samt planering av optimerande användning.</li> <li>Tolkning av berednings- och tillverkningsunderlag.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Hantering av material i enlighet med lagar och andra bestämmelser inom området.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATR2000X</h3>",
+      "code": "MATR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet materialteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Användningsområden och egenskaper</em></p> <ul> <li>Aktuell forskning och utveckling inom materialområdet.</li> <li>Materialets tekniska, fysiska och kemiska yttre och inre egenskaper samt användningsområden.</li> <li>Materialbearbetning i modern tekniskt avancerad produktionsutrustning.</li> <li>Metoder för att lösa avancerade materialrelaterade problem.</li> <li>Eventuella alternativa material i produktionen.</li> <li>Relevanta begrepp för kommunikation om frågor som rör materialet.</li> </ul> <p>Bearbetning av material</p> <ul> <li>Arbetsmetoder som används vid materialbearbetning.</li> <li>Hantering av handverktyg och utrustning som används vid materialbearbetning.</li> <li>Avancerad hand- och maskindriven utrustning vid materialbearbetning.</li> <li>Laborativa materialförsök.</li> <li>Idéutveckling.</li> <li>Korrigering av fel vid bearbetningen samt hantering av andra typer av problem som kan uppstå, till exempel genom laborativa inslag.</li> <li>Materialberäkningar och planering av optimerande användning samt etablerade, alternativa metoder för materialoptimering.</li> <li>Tolkning av berednings- och ritningsunderlag.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Arbete i enlighet med lagar och andra bestämmelser som gäller inom området.</li> <li>Riskbedömning samt konsekvenser vid bristande arbetsmiljö i samband med hantering av materialet.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt materialets användningsområden och egenskaper.</p> <p>Eleven bearbetar material med <strong>viss</strong> skicklighet och korrigerar med <strong>viss säkerhet</strong> fel vid bearbetningen.</p> <p>Eleven tolkar berednings- och tillverkningsunderlag med <strong>viss säkerhet</strong>. Dessutom utför eleven beräkningar med <strong>viss säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>gott</strong> sätt materialets användningsområden och egenskaper.</p> <p>Eleven bearbetar material med <strong>god</strong> skicklighet och korrigerar med <strong>säkerhet</strong> fel vid bearbetningen.</p> <p>Eleven tolkar berednings- och tillverkningsunderlag med <strong>säkerhet</strong>. Dessutom utför eleven beräkningar med <strong>säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>mycket gott</strong> sätt materialets användningsområden och egenskaper.</p> <p>Eleven bearbetar material med <strong>mycket god</strong> skicklighet och korrigerar med <strong>god säkerhet</strong> fel vid bearbetningen.</p> <p>Eleven tolkar berednings- och tillverkningsunderlag med <strong>god säkerhet</strong>. Dessutom utför eleven beräkningar med <strong>god säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.041Z"
+}

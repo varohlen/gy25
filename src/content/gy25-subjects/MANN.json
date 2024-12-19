@@ -1,0 +1,78 @@
+{
+  "code": "MANN",
+  "name": "Människans språk",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:74",
+  "nameHeading": "<h2>Människans språk</h2>",
+  "description": "<p>Språk är människans främsta redskap för att tänka, kommunicera och lära. Genom språket uttrycker människor sin identitet, sina tankar och sin kultur. Kunskaper om hur språk fungerar och används ökar möjligheten att förstå språklig kommunikation i olika situationer och kulturer. Ämnet människans språk behandlar såväl språkvetenskapliga som samhällsvetenskapliga aspekter av språk i världen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet människans språk ska syfta till att eleverna utvecklar kunskaper om språk som system, kulturbärare och socialt fenomen. Den ska ge eleverna möjlighet att utveckla kunskaper om olika språk i världen och vad som förenar respektive skiljer språken åt. Undervisningen ska även behandla den mänskliga språkförmågan. I det ingår frågor om vad språk är och vad det innebär att kunna ett språk såväl som språkinlärning och språkutveckling. Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur språk används i språksociologisk bemärkelse och om hur de utvecklas. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om språkets roll i interkulturell kommunikation samt förståelse av de möjligheter och utmaningar som språklig mångfald och flerspråkighet innebär för individ och samhälle. Därigenom ska undervisningen bidra till ökad språklig medvetenhet samt stimulera elevernas intresse att studera språk och kultur.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att på ett metodiskt sätt analysera och diskutera hur språk är uppbyggda och hur människor använder språk i olika sammanhang och för olika syften. På så sätt ska undervisningen främja elevernas analytiska och kritiska tänkande.</p> <p>Undervisningen ska präglas av ett undersökande arbetssätt och genom praktiska moment ge eleverna möjlighet att utveckla förståelse av olika aspekter av det mänskliga språket. Undervisningen ska dessutom sätta kunskaper om språkanvändning och språklig mångfald i ett sammanhang genom att ge eleverna möjlighet att studera språk såväl i närsamhället som globalt och genom att dra nytta av elevernas egna språkliga erfarenheter.</p> <h5><em>Undervisningen i ämnet människans språk ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur språk är uppbyggda och besläktade.</li> <li>Kunskaper om den mänskliga språkförmågan.</li> <li>Kunskaper om hur språk används och utvecklas.</li> <li>Förmåga att analysera och diskutera språk och språkliga företeelser.</li> </ul><h3>Nivåer i ämnet människans språk</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MANN1000X</h3>",
+      "code": "MANN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet människans språk på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Språkets byggstenar samt några språks uppbyggnad vad gäller satsmönster, ordbildning, ordföljd och språkljud.</li> <li>Språkliga släktskap och större språkfamiljer i världen.</li> <li>Vad det innebär att kunna ett språk. Språkinlärning och språkutveckling i förstaspråk, andraspråk och främmande språk.</li> <li>Vad språk är. Naturliga språk i relation till annan kommunikation, till exempel kroppsspråk, djurs kommunikation och konstgjorda språk.</li> <li>Språkets olika uttrycksformer, däribland tal, skrift och tecken.</li> <li>Språklig evolution – hur språk kan uppstå, utvecklas, förändras och upphöra att användas samt språkets ursprung.</li> <li>Språklig mångfald och flerspråkighet i olika delar av världen ur ett samhälls- och individperspektiv. Majoritets- och minoritetsspråk.</li> <li>Hur interkulturell kommunikation påverkas av talarnas kulturella referensramar.</li> <li>Olika språks och språkbruks betydelse kulturellt, politiskt och socialt.</li> <li>Användning av olika metoder inom språkvetenskap, till exempel morfemanalys, transkription och enkät.</li> <li>Begrepp som behövs för att analysera och diskutera språk och språkliga företeelser.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MANN2000X</h3>",
+      "code": "MANN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet människans språk på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning i några språks uppbyggnad med koppling till vanliga och ovanliga företeelser i världens språk samt likheter och skillnader mellan språk.</li> <li>Språklig betydelse, däribland förhållandet mellan betydelse och form, betydelserelationer mellan ord samt betydelseförändringar.</li> <li>Språkets biologiska förutsättningar med fokus på talapparaten.</li> <li>Språkproduktion och språkförståelse i relation till tanke och hjärna. Vad som händer i hjärnan vid språkanvändning och vid hinder i kommunikationen, till exempel felsägningar och språkstörningar.</li> <li>Språklig evolution – hur några språk har uppstått, utvecklats, förändrats och upphört att användas samt olika teorier om språkets ursprung.</li> <li>Fördjupning i världens språkliga mångfald, till exempel med koppling till språkpolitik i världen eller inom ett geografiskt område.</li> <li>Språkanvändning i olika kulturella, politiska och sociala sammanhang, till exempel språk som maktmedel.</li> <li>Språkets roll i interkulturella möten och relationer. Hur kontext och kulturell bakgrund påverkar både formulering och tolkning av ett språkligt budskap.</li> <li>Analyser av språk och språkliga företeelser med hjälp av olika metoder och teorier, till exempel korpusanalys och akustiska diagram.</li> <li>Begrepp som behövs för att analysera och diskutera språk och språkliga företeelser.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om språkets byggstenar och släktskap.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om den mänskliga språkförmågan.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om språkanvändning i språksociologiskt hänseende samt om språklig evolution.</p> <p>Eleven för <strong>enkla</strong> resonemang om olika språk och gör <strong>enkla</strong> analyser av deras uppbyggnad och andra företeelser i språken. Eleven använder då med <strong>viss säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om språkets byggstenar och släktskap.</p> <p>Eleven visar <strong>goda</strong> kunskaper om den mänskliga språkförmågan.</p> <p>Eleven visar <strong>goda</strong> kunskaper om språkanvändning i språksociologiskt hänseende samt om språklig evolution.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om olika språk och gör <strong>utvecklade</strong> analyser av deras uppbyggnad och andra företeelser i språken. Eleven använder då med <strong>säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om språkets byggstenar och släktskap.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om den mänskliga språkförmågan.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om språkanvändning i språksociologiskt hänseende samt om språklig evolution.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om olika språk och gör <strong>välutvecklade</strong> analyser av deras uppbyggnad och andra företeelser i språken. Eleven använder då med <strong>god säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.037Z"
+}

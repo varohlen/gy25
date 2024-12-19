@@ -1,0 +1,91 @@
+{
+  "code": "SAMD",
+  "name": "Samtida dans",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:577",
+  "nameHeading": "<h2>Samtida dans</h2>",
+  "description": "<p>Ämnet samtida dans är till sin karaktär scenkonstnärligt och speglar samhällets förändringar och utveckling. Med kontinuerlig kroppslig träning i samtida dans och genom att möta konstnärliga utmaningar skapas den hållbara dansare som dansaryrket kräver. Ämnet får bara anordnas på yrkesdansarutbildningen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet samtida dans ska syfta till att eleverna utvecklar danstekniska färdigheter i samtida dans. I undervisningen ska eleverna ges möjlighet att utveckla kroppslig medvetenhet och dansteknisk förmåga till en konstnärlig helhet. Genom improvisation ska eleverna ges möjlighet till ett undersökande förhållningssätt samt att samarbeta och interagera med varandra. Undervisningen ska även bidra till att eleverna, individuellt och i grupp, utvecklar spatial och musikalisk lyhördhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att tolka och memorera samtida dans. Undervisningen ska även bidra till att eleverna utvecklar tillit till sina danstekniska färdigheter samt förmåga att reflektera över det egna lärandet och att använda reflektionerna för den egna danstekniska utvecklingen.</p> <p>Undervisningen ska stimulera elevernas lust att lära och personliga utveckling. Dessutom ska undervisningen ge eleverna möjlighet att utveckla ett kreativt och problemlösande arbetssätt som tar sin utgångspunkt i dansaryrket och den samtida dansen.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla ett yrkesmässigt förhållningssätt till kontinuerlig träning samt förberedas för dansaryrkets olika krav. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda dansens begrepp och vokabulär inom yrkesområdet. Dessutom ska undervisningen betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <h4><em>Undervisningen i ämnet samtida dans ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ul> <li>Färdigheter i att tillämpa samtida dansteknik samt i improvisation.</li> <li>Förmåga att tolka, memorera och utföra samtida dans utifrån olika konstnärliga förhållningssätt.</li> <li>Förmåga att anpassa sin dansteknik inom samtida dans till musikaliska aspekter, olika rum och sammanhang.</li> <li>Förmåga att tillämpa den danstekniska träningsprocessens olika delar.</li> <li>Förmåga att reflektera över sin kunskapsutveckling och att använda reflektionerna för den egna dansutvecklingen.</li> <li>Förmåga att använda dansens begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</li> </ul><h3>Nivåer i ämnet samtida dans</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SAMD100DX</h3>",
+      "code": "SAMD100DX",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><em>Undervisningen i ämnet samtida dans på nivå 1 ska behandla följande centrala innehåll:</em></h4> <p><em>Praktik</em></p> <ul> <li>Grundläggande dansteknik inom samtida dans.</li> <li>Improvisation.</li> <li>Övningar inom rörelsevokabulär med betoning på funktion och form samt förhållandet till tid och rum. Rörelsekvaliteter som innehåller dynamiska variationer, relaterade till tyngd, flöde och energi.</li> <li>Anatomiskt funktionell placering samt gång- och springteknik.</li> <li>Arbete med torso genom utforskande av kroppens rörelsemöjligheter med betoning på relationen mellan över- och underkropp.</li> <li>Dansens relation till musik, både levande och inspelad, samt till ljud och tystnad.</li> <li>Dansens förhållningssätt till musikens puls, taktarter, fraser, rytm och dynamik.</li> <li>Träning av spatial förmåga i relation till kroppen, andra medverkande och rummet.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar, däribland förberedelse, uppvärmning, memorering av rörelser och återkoppling.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Metoder för reflektion samt för undersökande och problemlösande arbetssätt.</li> <li>Reflektion över den danstekniska utvecklingen i samband med den dagliga träningen.</li> <li>Grundläggande begrepp och vokabulär som används inom samtida dans.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAMD200DX</h3>",
+      "code": "SAMD200DX",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><em>Undervisningen i ämnet samtida dans på nivå 2 ska behandla följande centrala innehåll:</em></h4> <p><em>Praktik</em></p> <ul> <li>Avancerad dansteknik inom samtida dans.</li> <li>Improvisation.</li> <li>Övningar inom fördjupad rörelsevokabulär med betoning på funktion och form samt förhållandet till tid, rum och sammanhang. Rörelsekvaliteter som innehåller dynamiska variationer och konstnärligt uttryck relaterat till tyngd, flöde och energi.</li> <li>Fördjupat arbete med anatomiskt funktionell placering samt gång- och springteknik.</li> <li>Fördjupat arbete med torso genom utforskande av kroppens rörelsemöjligheter med betoning på relationen mellan över- och underkropp.</li> <li>Dansens relation till musik, både levande och inspelad, samt till ljud och tystnad.</li> <li>Rörelseuttryckets dynamik i relation till musikens puls, taktarter, fraser, rytm och periodicitet.</li> <li>Träning av spatial förmåga i relation till kroppen och andra medverkande samt rummet och sammanhanget.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Reflektion över den dagliga träningsprocessen och den danstekniska utvecklingen.</li> <li>Reflektion över det yrkesmässiga förhållningssätt som används vid den danstekniska träningen.</li> <li>Begrepp och vokabulär inom samtida dans i kommunikation med andra inom yrkesområdet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAMD300DX</h3>",
+      "code": "SAMD300DX",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><em>Undervisningen i ämnet samtida dans på nivå 3 ska behandla följande centrala innehåll:</em></h4> <p><em>Praktik</em></p> <ul> <li>Avancerad dansteknik inom samtida dans.</li> <li>Improvisation.</li> <li>Övningar av komplex rörelsevokabulär med betoning på funktion och form samt förhållandet till tiden, rummet och sammanhanget.</li> <li>Nyanserade rörelsekvaliteter som innehåller dynamiska variationer och konstnärligt uttryck i förhållande till en dansteknisk helhet.</li> <li>Fördjupat arbete med anatomiskt funktionell placering samt gång- och springteknik.</li> <li>Fördjupat arbete med torso i förhållande till kroppens rörelsemöjligheter och olika sammanhang.</li> <li>Dansens relation till och samspel med musik, både levande och inspelad, samt dansens relation till ljud och tystnad i komplexa situationer.</li> <li>Rörelseuttryckets dynamik i relation till en musikalisk helhet.</li> <li>Fördjupad träning av spatial förmåga i relation till kroppen samt till andra medverkande, rummet och sammanhanget.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Reflektion över den dagliga träningsprocessen och den danstekniska utvecklingen.</li> <li>Reflektion över det yrkesmässiga förhållningssätt som används vid den danstekniska träningen.</li> <li>Begrepp och vokabulär inom samtida dans i kommunikation med andra inom yrkesområdet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar med <strong>viss säkerhet</strong> funktionalitet i dansteknik inom den samtida dansens formspråk samt improviserar med <strong>godtagbart</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>viss säkerhet</strong> samtida dans utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>viss säkerhet</strong> dansens frasering och uttryck utifrån musikaliska aspekter. Dessutom förhåller sig eleven med <strong>godtagbart</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>godtagbart</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>godtagbart</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>viss säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>viss säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar med <strong>säkerhet</strong> funktionalitet i dansteknik inom den samtida dansens formspråk samt improviserar med <strong>gott</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>säkerhet</strong> samtida dans utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>säkerhet</strong> dansens frasering och uttryck utifrån musikaliska aspekter. Dessutom förhåller sig eleven med <strong>gott</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>gott</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>gott</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar med <strong>god säkerhet</strong> funktionalitet i dansteknik inom den samtida dansens formspråk samt improviserar med <strong>mycket gott</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>god säkerhet</strong> samtida dans utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>god säkerhet</strong> dansens frasering och uttryck utifrån musikaliska aspekter. Dessutom förhåller sig eleven med <strong>mycket gott</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>mycket gott</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>mycket gott</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>god säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>god säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.075Z"
+}

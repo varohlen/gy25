@@ -1,0 +1,78 @@
+{
+  "code": "KONR",
+  "name": "Konstruktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:23",
+  "nameHeading": "<h2>Konstruktion</h2>",
+  "description": "<p>Ämnet konstruktion behandlar konstruktionsprocessen från idé till färdig produkt, där syftet är att utforma och dimensionera produkter med sikte på ändamålsenlig formgivning, funktion och användning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet konstruktion ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen från idé och skiss till presentation av fungerande lösningar, med hänsyn till ekonomiska, produktionstekniska och miljömässiga förutsättningar.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om materials egenskaper och deras betydelse för funktion, kvalitet och lönsamhet. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om komponenter, metoder och processer samt deras egenskaper och begränsningar vid varierande tillämpningar och miljöer.</p> <p>Undervisningen ska bidra till att eleverna utvecklar ett tekniskt språk och förmåga att använda begrepp med anknytning till konstruktionsprocessen. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om standarder som reglerar konstruktionsområdet. Eleverna ska också ges möjligheter att utveckla kunskaper om faktorer som påverkar utformning av produkter, till exempel miljö, digitalisering och säkerhetsaspekter.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om matematiska och teknikvetenskapliga teorier, metoder och modeller. Eleverna ska även ges möjlighet att praktiskt arbeta med konkreta konstruktionsuppgifter. Därigenom ska eleverna ges möjlighet att utveckla förmåga att utföra beräkningar och lösa problem. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att dokumentera och presentera konstruktionsarbete.</p> <p>Undervisningen ska utgå från ett valt teknikområde och ge eleverna möjlighet att arbeta med konstruktionsuppgifter i projektform. I undervisningen ska cad (computer aided design) vara ett verktyg i konstruktionsarbetet. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor om relationen mellan konstruktion och hållbar utveckling samt olika handlingsalternativ i konstruktionsarbetet.</p> <h5><em>Undervisningen i ämnet konstruktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om konstruktionsprocessens olika delar och hur de samverkar.</li> <li>Kunskaper om olika material och hur de används inom olika typer av konstruktioner.</li> <li>Förmåga att använda relevanta verktyg, standarder och normer.</li> <li>Förmåga att utföra beräkningar med hjälp av matematiska och teknikvetenskapliga teorier och modeller.</li> <li>Förmåga att dokumentera och redovisa konstruktionsarbete med relevanta hjälpmedel.</li> </ul><h3>Nivåer i ämnet konstruktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KONR1000X</h3>",
+      "code": "KONR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konstruktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Konstruktionsprocessen</em></p> <ul> <li>Konstruktionsprocessen från idé till färdig modell eller produkt.</li> <li>Relevanta begrepp för konstruktionsprocessen.</li> <li>Metoder för konstruktion inom något eller några områden.</li> <li>Praktisk tillämpning och analys av tekniska konstruktioner.</li> <li>Dokumentation, redovisning och presentation av konstruktionsarbete och resultat.</li> </ul> <p><em>Konstruktionsmetoder</em></p> <ul> <li>Grundläggande materialegenskaper och materialets betydelse för funktion, kvalitet, lönsamhet och tillverkning.</li> <li>Val av konstruktionsmaterial utifrån givna förutsättningar och med hänsyn till hållbar utveckling.</li> <li>Ritteknik samt hantering av cad för att skapa konstruktionsritningar.</li> <li>Val av komponenter till olika konstruktionslösningar.</li> <li>Nationella och internationella system för teknisk standardisering med grundläggande standarder och normer inom valt teknikområde.</li> <li>Dimensionering med och utan digitala verktyg.</li> <li>Beräkningar, mätningar och rimlighetsbedömningar inom något eller några teknikområden utifrån matematiska och teknikvetenskapliga teorier och modeller.</li> </ul> <p><em>Produktframtagning</em></p> <ul> <li>Faktorer som påverkar utformningen av produkter, till exempel miljö, digitalisering och säkerhetsaspekter.</li> <li>Prototyptillverkning med enkla verktyg inom valt teknikområde.</li> <li>Provning via mätning, simulering och test.</li> <li>Teoretiska modeller, observationer och konstruktionsprojekt inom valt teknikområde.</li> <li>Hur produktionstekniska förutsättningar, kvalitet och lönsamhet är kopplat till olika typer av konstruktioner.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KONR2000X</h3>",
+      "code": "KONR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konstruktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Konstruktionsprocessen</em></p> <ul> <li>Konstruktionsprocessen och samspelet mellan produktions- och kvalitetsprocess.</li> <li>Relevanta begrepp för konstruktionsprocessen.</li> <li>Fördjupade metoder för konstruktion inom något eller några områden.</li> <li>Praktisk tillämpning och analys av avancerade tekniska konstruktioner.</li> <li>Dokumentation, redovisning och presentation av konstruktionsarbete och resultat.</li> <li>Utvärdering av arbetsprocess och slutresultat.</li> </ul> <p><em>Konstruktionsmetoder</em></p> <ul> <li>Komponenter, material, metoder och processer inom valt teknikområde samt deras egenskaper och begränsningar vid varierande tillämpningar och miljöer.</li> <li>Analys och val av konstruktionsmaterial.</li> <li>Användning av cad som verktyg i konstruktionsarbetet.</li> <li>Analys av konstruktionsförutsättningar och val av komponenter.</li> <li>Visualisering med hjälp av digitala verktyg och analys genom FEM (finita elementmetoden) eller simuleringar med hjälp av dator inom valt teknikområde.</li> <li>Normer och tekniska standarder samt hur standardiserade test utförs inom valt teknikområde.</li> <li>Konstruktionsberäkningar inom valt teknikområde utifrån matematiska och teknikvetenskapliga teorier och modeller.</li> </ul> <p><em>Produktframtagning</em></p> <ul> <li>Optimering utifrån faktorer som påverkar utformningen av produkter, till exempel miljö, digitalisering och säkerhetsaspekter.</li> <li>Fördjupning i produktionstekniska förutsättningar. Kvalitet och lönsamhet kopplat till olika typer av konstruktioner.</li> <li>Tillverkning av prototyper eller modeller inom valt teknikområde.</li> <li>Provning och simulering av sammansatta konstruktioner.</li> <li>Dimensionering av sammansatta konstruktioner med och utan digitala verktyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om konstruktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven beskriver på ett <strong>översiktligt</strong> sätt olika material och hur de används inom olika typer av konstruktioner.</p> <p>Eleven följer standarder och normer samt använder med <strong>viss</strong> skicklighet relevanta verktyg i konstruktionsarbetet.</p> <p>Eleven utför <strong>i huvudsak fungerande</strong> beräkningar utifrån matematiska och teknikvetenskapliga teorier och modeller.</p> <p>Eleven dokumenterar och redovisar med <strong>viss säkerhet</strong> sitt arbete med hjälp av relevanta verktyg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om konstruktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven beskriver på ett <strong>utförligt</strong> sätt olika material och hur de används inom olika typer av konstruktioner.</p> <p>Eleven följer standarder och normer samt använder med <strong>god</strong> skicklighet relevanta verktyg i konstruktionsarbetet.</p> <p>Eleven utför <strong>till stor del tydliga och korrekta</strong> beräkningar utifrån matematiska och teknikvetenskapliga teorier och modeller.</p> <p>Eleven dokumenterar och redovisar med <strong>säkerhet</strong> sitt arbete med hjälp av relevanta verktyg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om konstruktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven beskriver på ett <strong>utförligt och nyanserat</strong> sätt olika material och hur de används inom olika typer av konstruktioner.</p> <p>Eleven följer standarder och normer samt använder med <strong>mycket god</strong> skicklighet relevanta verktyg i konstruktionsarbetet.</p> <p>Eleven utför <strong>tydliga och korrekta</strong> beräkningar utifrån matematiska och teknikvetenskapliga teorier och modeller.</p> <p>Eleven dokumenterar och redovisar med <strong>god säkerhet</strong> sitt arbete med hjälp av relevanta verktyg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.030Z"
+}

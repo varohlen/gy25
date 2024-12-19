@@ -1,0 +1,64 @@
+{
+  "code": "MANI",
+  "name": "Människans säkerhet",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:75",
+  "nameHeading": "<h2>Människans säkerhet</h2>",
+  "description": "<p>I samhället finns flera myndigheter och organisationer som ansvarar för skadeförebyggande arbete. Ämnet människans säkerhet behandlar det arbete som pågår i samhället för att förebygga skador och olycksfall.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet människans säkerhet ska syfta till att eleverna utvecklar kunskaper för att kunna uppmärksamma och påtala skaderisker samt om samhällets skadeförebyggande arbete och de myndigheter och organisationer som ansvarar för detta. Därigenom ska eleverna stimuleras till nyfikenhet, engagemang och deltagande i meningsutbyten om samhällets arbete med att förebygga skador. Eleverna ska också ges möjlighet att utveckla kunskaper om faktorer i samhället som kan orsaka skador på människor och omgivande miljöer. Äldre och barn är särskilt utsatta grupper och undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om hur säkerheten för dessa kan förbättras. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller för de olika verksamheterna.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att möta, kommunicera och samverka med människor i svåra situationer på ett etiskt, pedagogiskt och respektfullt sätt. I undervisningen ska eleverna också ges möjlighet att reflektera över och diskutera frågor inom området samt egna och andras handlingar och attityder.</p> <h5><em>Undervisningen i ämnet människans säkerhet ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om samhällets säkerhets- och skadeförebyggande arbete.</li> <li>Kunskaper om missbruk, våld, hot och skador samt deras påverkan på människor och samhälle.</li> <li>Kunskaper om systematiskt olycksfalls- och skadeförebyggande arbete.</li> <li>Förmåga att kommunicera och samverka på ett yrkesetiskt och pedagogiskt sätt.</li> </ul><h3>Nivåer i ämnet människans säkerhet </h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MANI1000X</h3>",
+      "code": "MANI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet människans säkerhet på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Samhällets säkerhetsarbete och organisation på central, regional och kommunal nivå samt olika aktörers, däribland den enskildes, ansvar och roller.</li> <li>Kommunens regler och ansvar för att förebygga olyckor.</li> <li>Lagar och andra bestämmelser som gäller för yrken inom verksamhetsområdet.</li> <li>Grunderna för kommunens systematiska säkerhetsarbete.</li> <li>Effekter av missbruk, till exempel drog-, läkemedels- och spelmissbruk samt förebyggande åtgärder.</li> <li>Risker och riskbeteenden som finns hos särskilt utsatta grupper, till exempel barn, äldre och människor med funktionsnedsättning.</li> <li>Hur olycks- och skadebilden i samhället ser ut och kan förebyggas, däribland olyckor som inträffar i hem och fritidsmiljö, förgiftningar samt hot och våld.</li> <li>Förövare och brottsoffer samt straffpåföljder.</li> <li>Kommunikation och samverkan på ett yrkesetiskt och pedagogiskt sätt, anpassat till situation och målgrupp.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om myndigheters, organisationers, kommuners och den enskildes ansvar för säkerhets- och skadeförebyggande arbete i samhället.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur missbruk, våld, hot och skador påverkar människor och samhälle.</p> <p>Eleven redogör <strong>översiktligt</strong> för hur systematiskt olycksfalls- och skadeförebyggande arbete kan bedrivas.</p> <p>Eleven kommunicerar och samverkar med <strong>viss säkerhet</strong> med olika målgrupper och i olika situationer på ett yrkesetiskt och pedagogiskt sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om myndigheters, organisationers, kommuners och den enskildes ansvar för säkerhets- och skadeförebyggande arbete i samhället.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur missbruk, våld, hot och skador påverkar människor och samhälle.</p> <p>Eleven redogör <strong>utförligt</strong> för hur systematiskt olycksfalls- och skadeförebyggande arbete kan bedrivas.</p> <p>Eleven kommunicerar och samverkar med <strong>säkerhet</strong> med olika målgrupper och i olika situationer på ett yrkesetiskt och pedagogiskt sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om myndigheters, organisationers, kommuners och den enskildes ansvar för säkerhets- och skadeförebyggande arbete i samhället.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur missbruk, våld, hot och skador påverkar människor och samhälle.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur systematiskt olycksfalls- och skadeförebyggande arbete kan bedrivas.</p> <p>Eleven kommunicerar och samverkar med <strong>god säkerhet</strong> med olika målgrupper och i olika situationer på ett yrkesetiskt och pedagogiskt sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.037Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "KONS",
+  "name": "Konst och kultur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:20",
+  "nameHeading": "<h2>Konst och kultur</h2>",
+  "description": "<p>Konst och kultur är ett humanistiskt ämne som behandlar konstarternas utveckling inom olika områden, till exempel bildkonst, dans, musik, teater och arkitektur. Med kunskaper i konst och kultur får människan möjlighet att förstå olika tiders tänkande och skapande samt konstarternas betydelse i samhället. Ämnet spänner över såväl nutida som historiska samt nationella och internationella kulturströmningar med betoning på den västerländska utvecklingen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet konst och kultur ska syfta till att eleverna utvecklar kunskaper om olika tiders konst och kulturuttryck och hur de samspelar med strömningar i samhället. Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att reflektera över egna kulturupplevelser samt analysera och tolka konst och kulturuttryck på olika sätt. Den ska även ge eleverna möjlighet att utveckla kunskaper om vad som kan menas med begreppen konst och kultur.</p> <p>Undervisningen ska ge eleverna möjlighet att bekanta sig med olika konstarter och kulturuttryck, huvudsakligen från västvärlden men också från icke västerländska kultursfärer. Därigenom ska undervisningen stimulera elevernas intresse av att ta del av och förstå konst och kulturuttryck i sin omvärld.</p> <p>Undervisningen ska ge eleverna möjlighet att uppleva olika slags konst och kulturuttryck fysiskt och digitalt och att analysera dem utifrån olika perspektiv. På så sätt ska undervisningen främja ett reflekterande och analytiskt förhållningssätt till konstarterna och till hur konst och kulturuttryck påverkar och påverkas av händelser, aktörer och förändringar i samhället.</p> <h5><em>Undervisningen i ämnet konst och kultur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om konstarter och kulturuttryck under olika epoker.</li> <li>Förmåga att resonera om hur konst och andra kulturuttryck och samhälle påverkar varandra.</li> <li>Kunskaper om begreppen konst och kultur.</li> <li>Förmåga att reflektera över kulturupplevelser samt att analysera och tolka konst och kulturuttryck.</li> </ul><h3>Nivåer i ämnet konst och kultur</h3><ul><li>Nivå 1, 100 poäng. Betyg i konst och kultur som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i konstarterna och samhället som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i konst och kultur som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i konstarterna och samhället som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KONS1000X</h3>",
+      "code": "KONS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konst och kultur på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Västerländska konstarter och kulturuttryck från olika epoker fram till sekelskiftet 1900, med centrala teman, stildrag och begrepp. Exempel på inflytande från icke västerländska kultursfärer.</li> <li>Konstarter och kulturuttryck under olika tider i relation till samhällsförhållanden och samhällsförändringar.</li> <li>Konstnärens roll i samhället och villkoren för konstnärlig verksamhet. Hur de skiftat över tid för olika grupper och i olika miljöer.</li> <li>Hur olika aktörer, till exempel makthavare och konstbeställare, har använt konst och kulturuttryck för olika syften under olika tider.</li> <li>Olika innebörder av begreppen konst och kultur genom historien samt förhållandet mellan dessa.</li> <li>Analys och tolkning av konst och andra kulturuttryck utifrån olika perspektiv, till exempel stildrag, teman, komposition och kontext.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KONS2000X</h3>",
+      "code": "KONS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konst och kultur på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Västerländska konstarter och kulturuttryck från 1900 och framåt, med centrala teman, stildrag och begrepp, mot bakgrund av tidigare epoker och stilar. Exempel på inflytande från icke västerländska kultursfärer.</li> <li>Konstarter och kulturuttryck från 1900 och framåt i relation till samhällsförhållanden och samhällsförändringar.</li> <li>Konstnärens roll i samhället och villkoren för konstnärlig verksamhet. Hur de skiftat över tid för olika grupper och i olika miljöer.</li> <li>Hur olika aktörer, till exempel makthavare och konstbeställare, har använt och använder konst och kulturuttryck för olika syften.</li> <li>Kontroversiell konst från 1900 och framåt.</li> <li>Hur konstbegreppet har förändrats från 1900 och framåt. Konstnärens, marknadens och publikens inflytande över ett konstverks innebörd, kvalitet och värde.</li> <li>Förhållandet mellan etablerad kultur, subkultur och populärkultur inom konstarterna.</li> <li>Analys och tolkning av konst och andra kulturuttryck, även i jämförelse med tidigare epoker och stilar, utifrån olika perspektiv, till exempel stildrag, teman, komposition och kontext.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om västerländska konstarter och kulturuttryck under olika epoker.</p> <p>Eleven för <strong>enkla</strong> resonemang om hur konst, kulturuttryck och samhälle påverkar varandra.</p> <p>Eleven för <strong>enkla</strong> resonemang om innebörden av och förhållandet mellan begreppen konst och kultur under olika tider.</p> <p>Eleven formulerar <strong>enkla</strong> reflektioner över kulturupplevelser. Eleven gör <strong>enkla</strong> analyser och tolkningar av konst och kulturuttryck och använder då med <strong>viss säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om västerländska konstarter och kulturuttryck under olika epoker.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om hur konst, kulturuttryck och samhälle påverkar varandra.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om innebörden av och förhållandet mellan begreppen konst och kultur under olika tider.</p> <p>Eleven formulerar <strong>utvecklade</strong> reflektioner över kulturupplevelser. Eleven gör <strong>utvecklade</strong> analyser och tolkningar av konst och kulturuttryck och använder då med <strong>säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om västerländska konstarter och kulturuttryck under olika epoker.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om hur konst, kulturuttryck och samhälle påverkar varandra.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om innebörden av och förhållandet mellan begreppen konst och kultur under olika tider.</p> <p>Eleven formulerar <strong>utvecklade och nyanserade</strong> reflektioner över kulturupplevelser. Eleven gör <strong>utvecklade och nyanserade</strong> analyser och tolkningar av konst och kulturuttryck och använder då med <strong>god säkerhet</strong> relevanta begrepp.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.030Z"
+}

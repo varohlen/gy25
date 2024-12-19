@@ -1,0 +1,64 @@
+{
+  "code": "GRUN",
+  "name": "Grundläggande vård och omsorg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:252",
+  "nameHeading": "<h2>Grundläggande vård och omsorg</h2>",
+  "description": "<p>Ämnet grundläggande vård och omsorg har sin grund i omvårdnadsvetenskap och medicin. Det behandlar människors behov av vård och omsorg i olika situationer med utgångspunkt i ett etiskt och hälsofrämjande förhållningssätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet grundläggande vård och omsorg ska syfta till att eleverna utvecklar grundläggande kunskaper om anatomi och fysiologi samt om vanligt förekommande sjukdomar, smitta och smittspridning. Dessutom ska eleverna ges möjlighet att utveckla grundläggande kunskaper om läkemedel och läkemedelsanvändning. Eleverna ska ges möjlighet att utveckla förmåga att stödja och assistera människor i egenvård samt att ge personlig omvårdnad utifrån ett demokratiskt, etiskt, inkluderande och jämställt förhållningssätt. Undervisningen ska ta sin utgångspunkt i en samhällssyn som präglas av öppenhet i fråga om människors olikheter samt ge eleverna möjlighet att utveckla en beredskap för att ge personlig omvårdnad i ett samhälle präglat av mångfald.</p> <p>Initiativförmåga, självständighet, problemlösning och handlingsberedskap ska stimuleras i undervisningen. Undervisningen ska bedrivas så att eleverna ges möjlighet att utveckla ett ansvarsfullt förhållningssätt till frågor om arbetsmiljö, ergonomi och säkerhet. Genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av vård och omsorg. På så sätt ska eleverna ges möjlighet att utveckla nyfikenhet och lust till fortsatt lärande inom området. Genom undervisningen ska eleverna också ges möjlighet att reflektera över, diskutera och värdera ämnesinnehållet samt egna och andras handlingar och attityder.</p> <h5><em>Undervisningen i ämnet grundläggande vård och omsorg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om människokroppen, sjukdomar och läkemedel samt hur smittspridning kan undvikas.</li> <li>Förmåga att arbeta med personlig omvårdnad och ge stöd i egenvård.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området samt utifrån den yrkesetik som styr olika verksamheter.</li> </ul><h3>Nivåer i ämnet grundläggande vård och omsorg</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GRUN1000X</h3>",
+      "code": "GRUN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grundläggande vård och omsorg på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande anatomi och fysiologi.</li> <li>Vanligt förekommande sjukdomar.</li> <li>Användning och hantering av vanligt förekommande läkemedel.</li> <li>Biverkningar av olika läkemedel.</li> <li>Basala hygienrutiner samt smitta och smittspridning.</li> <li>Personlig omvårdnad, däribland personlig hygien, munvård, kost och vätska, måltidssituation, inkontinens och klädsel.</li> <li>Rehabilitering och habilitering som kan utföras i hemmet.</li> <li>Egenvård och hur det kan stödjas.</li> <li>Första hjälpen vid skada och akut sjukdom, däribland HLR (hjärt-lungräddning).</li> <li>Hur ergonomiska hjälpmedel kan användas vid personlig omvårdnad.</li> <li>Yrkesetik i samband med arbetet med grundläggande vård och omsorg.</li> <li>Lagar och andra bestämmelser inom området, däribland socialtjänstlagen och lagen om stöd och service till vissa funktionshindrade.</li> <li>Sekretess i vård- och omsorgsarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om kroppens uppbyggnad och funktion, vanliga sjukdomar, hantering av läkemedel samt om olika aspekter av smitta och smittspridning.</p> <p>Eleven utför personlig omvårdnad, rehabilitering och habilitering på ett <strong>godtagbart</strong> sätt samt redogör <strong>översiktligt</strong> för hur egenvård kan stödjas.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom arbetar eleven utifrån den yrkesetik som styr olika vård- och omsorgsverksamheter på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om kroppens uppbyggnad och funktion, vanliga sjukdomar, hantering av läkemedel samt om olika aspekter av smitta och smittspridning.</p> <p>Eleven utför personlig omvårdnad, rehabilitering och habilitering på ett <strong>gott</strong> sätt samt redogör <strong>utförligt</strong> för hur egenvård kan stödjas.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom arbetar eleven utifrån den yrkesetik som styr olika vård- och omsorgsverksamheter på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om kroppens uppbyggnad och funktion, vanliga sjukdomar, hantering av läkemedel samt om olika aspekter av smitta och smittspridning.</p> <p>Eleven utför personlig omvårdnad, rehabilitering och habilitering på ett <strong>mycket gott</strong> sätt samt redogör <strong>utförligt och nyanserat</strong> för hur egenvård kan stödjas.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom arbetar eleven utifrån den yrkesetik som styr olika vård- och omsorgsverksamheter på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.010Z"
+}

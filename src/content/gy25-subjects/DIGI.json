@@ -1,0 +1,78 @@
+{
+  "code": "DIGI",
+  "name": "Digital mönsterhantering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:195",
+  "nameHeading": "<h2>Digital mönsterhantering</h2>",
+  "description": "<p>Mönsterkonstruktion och hantering av mönster är en förutsättning för tillverkning av kläder. Centralt i ämnet digital mönsterhantering är konstruktion och förändring av mönster i relevant programvara för tillverkning av kläder i olika material för konfektionssömnad.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet digital mönsterhantering ska syfta till att eleverna utvecklar kunskaper om mönsterkonstruktion och grundmallar samt förmåga att konstruera och förändra mönster i relevant programvara. Vid konstruktion av mönster krävs att nyttoaspekter förenas med känsla för material, form och funktion. Därför ska eleverna ges möjlighet att utveckla förmåga att konstruera mönster till plagg som uppfyller krav på passform och funktion utifrån materials olika egenskaper. Eleverna ska också ges möjlighet att utveckla förmåga att planera sitt arbete och beräkna materialåtgång. Undervisningen ska även leda till att eleverna utvecklar förmåga att utvärdera arbetsprocess och resultat.</p> <p>Praktiska övningar och användning av manualer ska ingå i undervisningen. Eleverna ska ges möjlighet att planera sitt arbete och beräkna materialåtgång samt konstruera och förändra mönster i relevant programvara. Undervisningen ska dessutom leda till att eleverna utvecklar förmåga att arbeta ergonomiskt och miljömedvetet vid hantering av mönster digitalt.</p> <h5><em>Undervisningen i ämnet digital mönsterhantering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om grundmallar och relevant programvara för digital mönsterhantering.</li> <li>Förmåga att planera arbetet samt att konstruera och förändra mönster i relevant programvara.</li> <li>Förmåga att utvärdera arbetsprocess och resultat samt att arbeta ergonomiskt och med hänsyn till miljön.</li> </ul><h3>Nivåer i ämnet digital mönsterhantering</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet manuell mönsterkonstruktion.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DIGI1000X</h3>",
+      "code": "DIGI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digital mönsterhantering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Gradering samt koordinatsystemets uppbyggnad.</li> <li>Användning av grundkonstruktioner.</li> <li>Mönsterförändringar i relevant programvara utifrån grundmallar.</li> <li>Modellsammanställningar och läggbilder i relevant programvara.</li> <li>Hur mönster kan konstrueras i relevant programvara utifrån estetiska och funktionella aspekter.</li> <li>Planering av arbetet och framställning av mönster i relevant programvara utifrån de färdiga plaggens användningsområden.</li> <li>Fackspråk för att förstå och använda manualer, instruktioner och tekniska beskrivningar.</li> <li>Utvärdering av arbetsprocess och resultat med fokus på arbetsprocessen.</li> <li>Hur digital mönsterhantering kan utföras på ett ergonomiskt sätt.</li> <li>Hållbara arbetssätt inom yrkesområdet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DIGI2000X</h3>",
+      "code": "DIGI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digital mönsterhantering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Gradering samt internationella mönster- och storlekssystem.</li> <li>Användning av grundkonstruktioner.</li> <li>Mönsterförändringar i relevant programvara utifrån figuravvikelser.</li> <li>Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.</li> <li>Läggbilder och materialplanering i relevant programvara.</li> <li>Mönsterkonstruktion i relevant programvara utifrån den färdiga produktens användningsområde samt estetiska, funktionella och tekniska produktkrav.</li> <li>Planering av arbetet och beräkning av materialåtgång i relevant programvara.</li> <li>Fackspråk för att kommunicera inom branschen.</li> <li>Utvärdering av arbetsprocess och resultat samt diskussion om hur arbetsprocessen kan förbättras.</li> <li>Ergonomiskt arbetssätt vid digital mönsterhantering.</li> <li>Hållbara arbetssätt, däribland hur resultatet av läggbilder påverkar miljön.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om grundmallar och relevant programvara för digital mönsterhantering.</p> <p>Eleven planerar arbetet och använder med <strong>viss säkerhet</strong> relevant programvara vid konstruktion och förändring av mönster och når ett <strong>godtagbart</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om grundmallar och relevant programvara för digital mönsterhantering.</p> <p>Eleven planerar arbetet och använder med <strong>säkerhet</strong> relevant programvara vid konstruktion och förändring av mönster och når ett <strong>gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om grundmallar och relevant programvara för digital mönsterhantering.</p> <p>Eleven planerar arbetet och använder med <strong>god säkerhet</strong> relevant programvara vid konstruktion och förändring av mönster och når ett <strong>mycket gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.983Z"
+}

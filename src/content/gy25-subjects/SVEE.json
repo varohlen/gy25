@@ -1,0 +1,78 @@
+{
+  "code": "SVEE",
+  "name": "Svetsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:127",
+  "nameHeading": "<h2>Svetsteknik</h2>",
+  "description": "<p>Ämnet svetsteknik behandlar olika metoder och tekniker för sammanfogning av material. Dessutom behandlar ämnet kvalitetsbedömning av resultat.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet svetsteknik ska syfta till att eleverna utvecklar förmåga att sammanfoga olika material med hjälp av utrustning anpassad för materialet. Undervisningen ska leda till att eleverna utvecklar kunskaper om olika metoder för sammanfogning samt förmåga att bedöma vilken metod som är lämpligast att välja för den aktuella uppgiften. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om utrustningens funktion och användningsområden.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att använda tillverkningsunderlag vid sammanfogning av material. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att undvika formavvikelser och felaktigheter vid sammanfogningen samt kunskaper om hur sådana kan åtgärdas. Att tillverka produkter med rätt kvalitet är viktigt inom industriteknisk produktion. Därför ska undervisningen leda till att eleverna utvecklar förmåga att utföra kvalitetsbedömning av det färdiga resultatet med hjälp av standarder.</p> <p>Att arbeta med sammanfogning kan innebära risker. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom yrkesområdet. Den ska även ge eleverna möjlighet att utveckla förmåga att använda termer och begrepp inom svetsteknikområdet samt att kommunicera om arbetsprocesser och resultat.</p> <p>Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i verkstadsmiljö.</p> <h5><em>Undervisningen i ämnet svetsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om metoder, utrustning och material för svetsning.</li> <li>Förmåga att svetsa med utrustning som är lämplig för materialet.</li> <li>Förmåga att bedöma kvalitet på utfört arbete.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera om arbetsprocesser och resultat.</li> </ul><h3>Nivåer i ämnet svetsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SVEE1000X</h3>",
+      "code": "SVEE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svetsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Tekniker och utrustning</em></p> <ul> <li>Svetsutrustningens funktion och användningsområden.</li> <li>Metoder för svetsning i käl- och stumsvetsar i enkla svetslägen.</li> <li>Metoder för plåtbearbetning inför svetsning.</li> <li>Metoder för reparation av enkla fel som uppstått vid svetsning.</li> <li>Tillsatsmaterial för svetsning.</li> </ul> <p><em>Svetsning och kvalitetsbedömning</em></p> <ul> <li>Läsning av enklare ritningar och tillverkningsunderlag för lödning och svetsning.</li> <li>Tillämpning av svetsmetoder och fogberedning.</li> <li>Svetsning och lödning med oxygen och acetylen.</li> <li>Termisk skärning av metalliska material.</li> <li>Kvalitetsbedömning av svetsar, till exempel tätningskontroll och visuell bedömning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Användning av relevant skyddsutrustning och säkerhetsanordningar.</li> <li>Lagar och andra bestämmelser som gäller svetsteknik, däribland säkerhetsanvisningar.</li> <li>Arbetsmetoder för struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Användning av grundläggande tekniska begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SVEE2000X</h3>",
+      "code": "SVEE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet svetsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Tekniker och utrustning</em></p> <ul> <li>Svetsutrustningens funktion och användningsområden inom olika sammanfogningstekniker.</li> <li>Svetsmetoder för svetsning i käl- och stumsvetsar.</li> <li>Tillsatsmaterials egenskaper och användningsområden.</li> </ul> <p><em>Svetsning och kvalitetsbedömning</em></p> <ul> <li>Tolkning av ritningar och tillverkningsunderlag för lödning och svetsning, däribland svetsdatablad (WPS).</li> <li>Tillämpning av svetsmetoder och fogberedning för käl- och stumsvetsar i brukliga svetslägen.</li> <li>Termisk skärning av metalliska material, till exempel för fogberedning.</li> <li>Tillämpning av metoder för plåtbearbetning inför svetsning.</li> <li>Tillämpning av metoder för reparation av fel och avvikelser som uppstått vid svetsning.</li> <li>Kvalitetsbedömning av svetsning utifrån standarder.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Systematiskt kvalitetsarbete.</li> <li>Riskbedömning i samband med vanligt förekommande arbetsuppgifter inom svetsning.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsanvisningar.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö i olika arbetsprocesser på arbetsplatsen.</li> <li>Användning av tekniska begrepp och uttryck inom området samt yrkesmässig kommunikation om arbetsprocesser och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om metoder, utrustning och material för svetsning.</p> <p>Eleven utför med <strong>viss</strong> skicklighet svetsning med utrustning lämplig för materialet.</p> <p>Eleven gör kvalitetsbedömningar med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om metoder, utrustning och material för svetsning.</p> <p>Eleven utför med <strong>god</strong> skicklighet svetsning med utrustning lämplig för materialet.</p> <p>Eleven gör kvalitetsbedömningar med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om metoder, utrustning och material för svetsning.</p> <p>Eleven utför med <strong>mycket god</strong> skicklighet svetsning med utrustning lämplig för materialet.</p> <p>Eleven gör kvalitetsbedömningar med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> begrepp och uttryck som är relevanta för området i kommunikation om arbetsprocesser och resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.086Z"
+}

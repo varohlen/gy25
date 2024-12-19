@@ -1,0 +1,78 @@
+{
+  "code": "HARV",
+  "name": "Hårvård och salongskunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:272",
+  "nameHeading": "<h2>Hårvård och salongskunskap</h2>",
+  "description": "<p>Ämnet hårvård och salongskunskap har sin grund i praktiskt arbete med behandlingar, från rengöring och vård av hår till styling av en frisyr. Ämnet behandlar även utförande av behandlingar eller arbetsuppgifter närliggande yrkesområdet. Ämnets innehåll kan anpassas till valt yrkesområde.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hårvård och salongskunskap ska syfta till att eleverna utvecklar förmåga att genomföra arbetsmoment och grundläggande behandlingar såsom hårvård och styling. Det innebär att undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera, genomföra och redovisa arbetet samt att utvärdera arbetsprocess och resultat. Därigenom ska eleverna ges möjlighet att utveckla en känsla för yrkesmässigt utövande. Undervisningen ska även stimulera elevernas personliga ansvarstagande, samarbetsförmåga, serviceförmåga och skaparglädje.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om val av ändamålsenliga material, produkter, verktyg och maskiner utifrån olika hårtyper. Eleverna ska ges möjlighet att använda sina teoretiska kunskaper om produkter, huden och hårets olika egenskaper i det praktiska arbetet. Undervisningen ska också leda till att eleverna utvecklar förmåga att använda digitala tekniker som förekommer i arbetet, till exempel vid dokumentation och marknadsföring.</p> <p>I yrkesutövandet är service, kommunikation och bemötande avgörande. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att arbeta kundrelaterat vid försäljning och service. Undervisningen ska dessutom ge eleverna möjlighet att utveckla förmåga att använda yrkesområdets terminologi för att kommunicera inom yrkesområdet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla och tillämpa kunskaper om underhåll och vård av material, verktyg och maskiner. Undervisningen ska dessutom ge eleverna möjlighet att utveckla och tillämpa kunskaper om ergonomi och säkra arbetssätt på en salong eller annan arbetsplats, med hänsyn till hållbart arbetsliv.</p> <h5><em>Undervisningen i ämnet hårvård och salongskunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och utföra behandlingar eller arbetsmoment.</li> <li>Förmåga att utvärdera arbetsprocess och resultat samt att använda yrkesområdets terminologi.</li> <li>Kunskaper om huden och håret samt om maskiner, material, produkter och verktyg inom yrkesområdet.</li> <li>Kunskaper om service, bemötande och marknadsföring inom yrkesområdet.</li> <li>Förmåga att använda och sköta maskiner, material och verktyg.</li> <li>Kunskaper om säkerhet och hållbart arbetsliv.</li> </ul><h3>Nivåer i ämnet hårvård och salongskunskap</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HARV1000X</h3>",
+      "code": "HARV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hårvård och salongskunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Schamponering och vårdande behandling med efterföljande styling.</li> <li>Appliceringstekniker för rengörande och vårdande produkter.</li> <li>Tekniker för arbete med olika värmeverktyg.</li> <li>Planering av arbete, däribland val av produkter, tekniker och verktyg samt uppskattning av tids- och produktåtgång.</li> <li>Utvärdering och dokumentation av arbetsprocess och resultat.</li> <li>Terminologi för att förstå och följa instruktioner och kommunicera om arbetsprocessen.</li> <li>Hudens egenskaper och anatomi som är relevant för yrkesområdet.</li> <li>Hårets egenskaper och anatomi, däribland olika texturer.</li> <li>Produkter inom yrkesområdet samt deras användningsområden, hantering, funktion och hållbarhet.</li> <li>Material och verktyg inom yrkesområdet samt deras användningsområden och funktion.</li> <li>Bemötande, däribland hur attityder, värderingar och kroppsspråk påverkar kundens upplevelse.</li> <li>Marknadsföring av varor och tjänster, däribland exponeringstekniker.</li> <li>Ansvarsfullt uppträdande och samarbete i yrkesutövandet.</li> <li>Hantering och rengöring av maskiner, material och verktyg samt skötsel av egen och gemensam arbetsyta.</li> <li>Användning av produkter och material med hänsyn till miljön och människors hälsa.</li> <li>Källsortering och materialåtervinning samt resurseffektivitet.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt samt användning av skyddsutrustning.</li> <li>Första hjälpen med HLR (hjärt-lungräddning).</li> <li>Hur en säker och hållbar arbetsplats kan utformas, däribland gällande hygien, ergonomi och skyddsutrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HARV2000X</h3>",
+      "code": "HARV2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hårvård och salongskunskap på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och genomförande av yrkesmässig behandling, från önskemål till färdigt resultat, med ansvarsfull kundkommunikation och tillhörande försäljningsrekommendationer.</li> <li>Planering och genomförande av behandlingar eller arbetsmoment närliggande yrkesområdet, till exempel enklare nagelvård, manikyr eller personlig styling.</li> <li>Planering av arbete, däribland val av produkter, tekniker och verktyg samt planering av tids- och produktåtgång.</li> <li>Utvärdering och dokumentation av arbetsprocess och resultat.</li> <li>Terminologi för att förstå och följa instruktioner men också för att beskriva idéer och kommunicera om arbetsprocessen.</li> <li>Hur huden och hårets egenskaper påverkas vid olika behandlingar, däribland texturförändring.</li> <li>Produktkunskap, däribland dess innehåll och effekter på hud och hår.</li> <li>Olika kundtyper och segmentering av marknaden.</li> <li>Hur olika attityder, värderingar och förhållningssätt påverkar ett företags resultat.</li> <li>Varierad marknadsföring med fokus på estetisk och yrkesmässig kvalitet, däribland exponering av varor och tjänster både på arbetsplats och digitalt.</li> <li>Ansvarsfullt uppträdande, samarbete och resurseffektivisering i yrkesutövandet.</li> <li>Hantering, rengöring och vård av maskiner, material, produkter och verktyg samt skötsel av egen och gemensam arbetsyta.</li> <li>Produkter och material för ett säkert och miljömässigt hållbart arbete.</li> <li>Resurseffektivitet samt källsortering och återvinning i samband med aktuella behandlingar.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt.</li> <li>Hur en säker och hållbar arbetsplats kan utformas, däribland gällande hygien, ergonomi och skyddsutrustning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför med <strong>viss</strong> skicklighet behandlingar eller arbetsmoment inom avsatt tid och uppnår ett resultat med <strong>godtagbar</strong> kvalitet och design.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven terminologi på ett <strong>godtagbart</strong> sätt i sin kommunikation.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om huden och håret samt om maskiner, material, produkter och verktyg inom yrkesområdet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om service, bemötande och marknadsföring inom yrkesområdet.</p> <p>Eleven använder och sköter med <strong>visst</strong> handlag maskiner, material och verktyg.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om säkerhet på arbetsplatsen samt om ett hållbart arbetsliv inom yrkesområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför med <strong>god</strong> skicklighet behandlingar eller arbetsmoment inom avsatt tid och uppnår ett resultat med <strong>god</strong> kvalitet och design.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven terminologi på ett <strong>gott</strong> sätt i sin kommunikation.</p> <p>Eleven visar <strong>goda</strong> kunskaper om huden och håret samt om maskiner, material, produkter och verktyg inom yrkesområdet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om service, bemötande och marknadsföring inom yrkesområdet.</p> <p>Eleven använder och sköter med <strong>gott</strong> handlag maskiner, material och verktyg.</p> <p>Eleven visar <strong>goda</strong> kunskaper om säkerhet på arbetsplatsen samt om ett hållbart arbetsliv inom yrkesområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför med <strong>mycket god</strong> skicklighet behandlingar eller arbetsmoment inom avsatt tid och uppnår ett resultat med <strong>mycket god</strong> kvalitet och design.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven terminologi på ett <strong>mycket gott</strong> sätt i sin kommunikation.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om huden och håret samt om maskiner, material, produkter och verktyg inom yrkesområdet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om service, bemötande och marknadsföring inom yrkesområdet.</p> <p>Eleven använder och sköter med <strong>mycket gott</strong> handlag maskiner, material och verktyg.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om säkerhet på arbetsplatsen samt om ett hållbart arbetsliv inom yrkesområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.015Z"
+}

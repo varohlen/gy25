@@ -1,0 +1,78 @@
+{
+  "code": "VAXK",
+  "name": "Växtkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:260",
+  "nameHeading": "<h2>Växtkunskap</h2>",
+  "description": "<p>Ämnet växtkunskap behandlar växter som används i park- och trädgårdsmiljöer. För att kunna arbeta med växter i olika miljöer krävs goda art- och sortkunskaper samt kunskaper om växternas behov och funktion i olika sammanhang. Ämnet behandlar också biologiska och ekologiska samband mellan växter, mark, klimat och andra organismer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet växtkunskap ska syfta till att eleverna utvecklar kunskaper om växter för yrkesmässigt arbete med växter och växtmiljöer. Undervisningen ska leda till att eleverna utvecklar kunskaper om växters byggnad, egenskaper och utvecklingsfaser samt de faktorer som styr och påverkar utvecklingen. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att identifiera, beskriva och namnge växter med vetenskapliga och yrkesmässiga termer. Undervisningen ska därigenom bidra till att eleverna utvecklar förtrogenhet med det sortiment av buskar, träd och växter som förekommer inom trädgårdsnäringen och hur de kan användas.</p> <p>Undervisningen ska vidare bidra till att eleverna utvecklar förståelse av olika utemiljöers funktioner och betydelse för rekreation samt deras estetiska och ekologiska värden. Den ska också bidra till att eleverna utvecklar förmåga att kombinera och välja växter för olika miljöer, funktioner och klimat samt att beräkna kostnader för olika växtkompositioner. Eleverna ska dessutom ges möjlighet att utveckla förmåga att sköta och hantera växter på ett yrkesmässigt sätt och att använda arbetsmetoder som främjar hållbar utveckling. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om växters kvalitet samt om de kvalitetskrav som gäller för handel med växter.</p> <p>Praktiska övningar, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet växtkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om växters egenskaper, byggnad och utvecklingsfaser.</li> <li>Förmåga att identifiera och namnge växter med vetenskapliga och yrkesmässiga termer.</li> <li>Förmåga att välja och kombinera växter för olika platser, miljöer och funktioner med hänsyn till växtplatsens förutsättningar, skötselbehov samt ekonomi.</li> <li>Förmåga att hantera, plantera och sköta växter med hänsyn till miljömässig hållbarhet.</li> <li>Kunskaper om växters kvalitet och kvalitetskrav för växter.</li> </ul><h3>Nivåer i ämnet växtkunskap</h3><ul><li>Nivå 1, 100 poäng. Betyg i växtkunskap som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i yttre miljö som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i växtkunskap som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i yttre miljö som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VAXK1000X</h3>",
+      "code": "VAXK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet växtkunskap på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Växternas byggnad, däribland växtcellen, växtvävnader och växtens olika organ.</li> <li>Olika växtarter i olika utvecklingsstadier.</li> <li>Fotosyntes, andning och energiomsättning hos växter.</li> </ul> <p><em>Växters egenskaper och kvalitet</em></p> <ul> <li>Identifiering, beskrivning och namngivning av vanliga park- och trädgårdsväxter med vetenskapliga och yrkesmässiga termer.</li> <li>Växternas funktion i olika miljöer, till exempel som rumsbildare, vindskydd och estetiskt uttryck med färg och form.</li> <li>Växtmiljöer samt växters härdighet, ståndort och proveniens.</li> <li>Sortiment, växtkvalitet samt system för kvalitetssäkring av växter.</li> </ul> <p><em>Arbete med växter</em></p> <ul> <li>Växtval och växtkomposition samt enklare kostnadsberäkningar.</li> <li>Arbete med olika moment i planteringen av växter, till exempel jordförbättring, efterarbete, skötsel och uppföljning, med miljömässigt hållbara arbetsmetoder.</li> <li>Förnyelse av sortiment.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VAXK2000X</h3>",
+      "code": "VAXK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet växtkunskap på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Växternas byggnad och livsprocesser samt naturliga habitat för olika växtarter.</li> <li>Växters utveckling samt de yttre och inre faktorer som styr och påverkar utvecklingen.</li> </ul> <p><em>Växters egenskaper och kvalitet</em></p> <ul> <li>Växtvalets betydelse för olika platser, miljöer och funktioner och hur det påverkar skötselekonomin.</li> <li>Identifiering, beskrivning och namngivning av ett brett sortiment av träd, buskar, barrväxter, perenner och annueller med vetenskapliga och yrkesmässiga termer.</li> <li>Grässorter och deras egenskaper för användning till olika typer av gräsytor.</li> <li>Kvalitetskriterier för växter samt regelverk för handel med växter.</li> </ul> <p><em>Arbete med växter</em></p> <ul> <li>Växtval och växtkomposition med hänsyn till miljö, funktion, växtplatsens biologiska förutsättningar och växternas egenskaper.</li> <li>Ekonomiska beräkningar för olika växtkompositioner, däribland etablerings- och underhållskostnader.</li> <li>Val av växtbäddsmaterial och näringsnivåer för olika växter.</li> <li>Inventering av växter i park- och trädgårdsmiljöer, däribland växtplatsens naturliga arter.</li> <li>Yrkesmässigt arbete med växtbäddar, plantering och skötsel av växter i park- och trädgårdsmiljöer.</li> <li>Frågor om miljömässig hållbarhet, biologisk mångfald och åtgärder för bevarande av växt- och djurarter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för växters biologi och utveckling.</p> <p>Eleven identifierar och namnger med <strong>viss säkerhet</strong> växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer.</p> <p>Eleven utarbetar med <strong>viss</strong> skicklighet växtkompositioner och gör med <strong>viss säkerhet</strong> en enkel ekonomisk beräkning för sina förslag.</p> <p>Eleven bedömer växternas utseende och anpassar med <strong>viss säkerhet</strong> skötseln efter växternas kondition och kvalitetskrav i arbetet med växter och växtbäddar. Dessutom väljer eleven med <strong>viss säkerhet</strong> arbetssätt som främjar hållbar utveckling.</p> <p>Eleven redogör <strong>översiktligt</strong> för växters kvalitet och för kvalitetskrav som gäller för handel med växter.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för växters biologi och utveckling.</p> <p>Eleven identifierar och namnger med <strong>säkerhet</strong> växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer.</p> <p>Eleven utarbetar med <strong>god</strong> skicklighet växtkompositioner och gör med <strong>säkerhet</strong> en enkel ekonomisk beräkning för sina förslag.</p> <p>Eleven bedömer växternas utseende och anpassar med <strong>säkerhet</strong> skötseln efter växternas kondition och kvalitetskrav i arbetet med växter och växtbäddar. Dessutom väljer eleven med <strong>säkerhet</strong> arbetssätt som främjar hållbar utveckling.</p> <p>Eleven redogör <strong>utförligt</strong> för växters kvalitet och för kvalitetskrav som gäller för handel med växter.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för växters biologi och utveckling.</p> <p>Eleven identifierar och namnger med <strong>god säkerhet</strong> växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer.</p> <p>Eleven utarbetar med <strong>mycket god</strong> skicklighet växtkompositioner och gör med <strong>god säkerhet</strong> en enkel ekonomisk beräkning för sina förslag.</p> <p>Eleven bedömer växternas utseende och anpassar med <strong>god säkerhet</strong> skötseln efter växternas kondition och kvalitetskrav i arbetet med växter och växtbäddar. Dessutom väljer eleven med <strong>god säkerhet</strong> arbetssätt som främjar hållbar utveckling.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för växters kvalitet och för kvalitetskrav som gäller för handel med växter.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.099Z"
+}

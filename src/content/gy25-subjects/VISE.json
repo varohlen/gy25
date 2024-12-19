@@ -1,0 +1,77 @@
+{
+  "code": "VISE",
+  "name": "Visuell produktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:570",
+  "nameHeading": "<h2>Visuell produktion</h2>",
+  "description": "<p>Ämnet visuell produktion handlar om skapande av visuell design och visuellt innehåll till olika medier. Ämnet behandlar produktionsprocessen och hur visuell design produceras och anpassas till olika format, kanaler och målgrupper. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet visuell produktion ska syfta till att eleverna utvecklar kunskaper om olika designprinciper och förmåga att använda dem i visuella produktioner. Undervisningen ska därför bidra till att eleverna utvecklar färdigheter i att använda utrustning och programvaror för att framställa visuella produkter. Undervisningen ska även stimulera elevernas nyfikenhet, kreativitet och vilja att framställa visuella produkter som är anpassade till syfte, målgrupp och kanal. För att kunna omsätta egna och andras idéer till färdiga produktioner ska eleverna också ges möjlighet att utveckla fördjupade kunskaper om och färdigheter i att arbeta med text, bild, animation, 3D-visualisering och ljud.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att analysera och utvärdera visuella produktioner. Undervisningen ska även bidra till att eleverna utvecklar förmåga att samarbeta och hålla uppsatta tidsramar. Därför ska undervisningen ge eleverna möjlighet att arbeta i projektliknande former och utgå från verklighetsnära situationer.</p> <p>Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor om hur visuell design utformas och förmedlas. Dessutom ska den visuella utformningens olika syften, exempelvis att göra reklam för en viss produkt eller sprida åsikter, värderingar och information problematiseras.</p> <h5><em>Undervisningen i ämnet visuell produktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om visuell design och designprinciper.</li> <li>Förmåga att skapa visuellt innehåll anpassat till olika format och kanaler.</li> <li>Förmåga att samarbeta och arbeta inom givna tidsramar.</li> <li>Förmåga att analysera och utvärdera visuella produktioner.</li> </ul><h3>Nivåer i ämnet visuell produktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VISE100TX</h3>",
+      "code": "VISE100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet visuell produktion på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Teorier, begrepp och modeller som behandlar produktionsprocessen.</li> <li>Designprinciper, till exempel hur komposition skapas utifrån principerna linjering, kontrast och repetition.</li> <li>Historiska och samtida estetiska stilar och deras tekniska lösningar inom visuella produktioner.</li> <li>Produktion av visuellt material, till exempel fotografering, animering, illustrationsarbete, 3D-modellering, filmning, redigering och ljudupptagning.</li> <li>Olika uttryck och medier i kombination, till exempel text, bild och animation.</li> <li>Programvaror och utrustning för visuella produktioner.</li> <li>Olika format, kanaler och medier samt deras tekniska specifikationer och hur produktionen kan anpassas till dessa.</li> <li>Hur samarbete och planering utifrån uppsatta tidsramar påverkar arbetsprocess och slutresultat.</li> <li>Utvärdering av det visuella uttrycket i produktionen, utifrån syfte och målgrupp.</li> <li>Analys och utvärdering av visuella produktioner utifrån olika designprinciper.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VISE200TX</h3>",
+      "code": "VISE200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet visuell produktion på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tillämpning av designteorier och designprinciper i utformning av visuella produktioner.</li> <li>Användning av historiska och samtida estetiska stilar och tekniska lösningar som inspiration i arbetet med egna visuella produktioner.</li> <li>Produktion av visuellt material samt val av verktyg och utrustning.</li> <li>Programvaror och utrustning för visuella produktioner och hur dessa påverkar utformningen.</li> <li>Anpassning till olika format.</li> <li>Samarbete och gemensam planering av arbetsprocessen utifrån uppsatta tidsramar och mål. Utvärdering av planeringen.</li> <li>Utvärdering av resultat i relation till ramar, verktyg, programvara och samarbete.</li> <li>Analys av de tekniska kvaliteterna i produktionen och hur dessa påverkar det visuella uttrycket.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>övergripande</strong> resonemang om visuell design och olika designprinciper.</p> <p>Eleven skapar med <strong>säkerhet</strong> visuellt innehåll anpassat till olika format och kanaler.</p> <p>Eleven samarbetar samt arbetar på ett <strong>fungerande</strong> sätt inom givna tidsramar.</p> <p>Eleven analyserar och utvärderar visuella produktioner på ett <strong>övergripande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utförliga</strong> resonemang om visuell design och olika designprinciper.</p> <p>Eleven skapar med <strong>god säkerhet</strong> visuellt innehåll anpassat till olika format och kanaler.</p> <p>Eleven samarbetar samt arbetar på ett <strong>ändamålsenligt</strong> sätt inom givna tidsramar.</p> <p>Eleven analyserar och utvärderar visuella produktioner på ett <strong>utvecklat</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>utförliga och nyanserade</strong> resonemang om visuell design och olika designprinciper.</p> <p>Eleven skapar med <strong>mycket god säkerhet</strong> visuellt innehåll anpassat till olika format och kanaler.</p> <p>Eleven samarbetar samt arbetar på ett <strong>ändamålsenligt och effektivt</strong> sätt inom givna tidsramar.</p> <p>Eleven analyserar och utvärderar visuella produktioner på ett <strong>välutvecklat och nyanserat</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.101Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FYSF",
+  "name": "Fysik – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:156",
+  "nameHeading": "<h2>Fysik – fördjupning</h2>",
+  "description": "<p>Fysik är ett naturvetenskapligt ämne som har sitt ursprung i människans nyfikenhet och behov av att förstå sin omvärld. Det är till sin karaktär både undersökande och analytiskt. Fysiken ger en bild av världen med hjälp av modeller som beskriver allt ifrån materiens minsta beståndsdelar till universums expansion. Ämnet fysik – fördjupning ger fördjupning inom några av fysikens områden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fysik – fördjupning ska syfta till att eleverna utvecklar fördjupade kunskaper om fysikens lagar, begrepp, modeller, teorier och arbetsmetoder samt om fysikaliska samband och tillämpningar. Undervisningen ska stimulera elevernas nyfikenhet, kreativitet och handlingsberedskap att påverka sitt liv och samhället.</p> <p>Undervisningen ska leda till att eleverna utvecklar fördjupad förmåga att analysera och lösa fysikaliska problem med matematiken som verktyg. Eleverna ska ges möjlighet att granska information samt analysera och pröva antaganden med koppling till fysikens kunskapsfält, vetenskapliga arbetsmetoder och hållbar utveckling. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra välgrundade val och diskutera samhälleliga och etiska frågor utifrån en naturvetenskaplig utgångspunkt. Undervisningen ska även ge eleverna möjlighet att kommunicera kunskaper, slutsatser och ställningstaganden på olika sätt med hjälp av fysikens begrepp och uttrycksformer.</p> <p>Undervisningen ska behandla aktuell forskning och historisk utveckling inom fysiken och eleverna ska få reflektera över fysikens betydelse inom olika yrkesområden, för människors levnadsvillkor och för samhället i stort.</p> <p>Genom praktiskt arbete med experiment och laborationer ska eleverna ges möjlighet att utveckla förmåga att genomföra systematiska naturvetenskapliga undersökningar utifrån olika frågeställningar. På så sätt ska eleverna ges möjlighet att utveckla sin förståelse av naturvetenskapens karaktär och av hur naturvetenskaplig kunskap växer fram. I det praktiska arbetet ska eleverna få använda naturvetenskapliga metoder och olika typer av utrustning samt utveckla sin förmåga att arbeta på ett säkert sätt.</p> <h5><em>Undervisningen i ämnet fysik – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om fysikens lagar, begrepp, modeller, teorier och samband.</li> <li>Förmåga att använda kunskaper i fysik för att analysera och lösa ämnesrelaterade problem, granska information och kommunicera med ett naturvetenskapligt språk.</li> <li>Förmåga att genomföra systematiska undersökningar med naturvetenskapliga arbetsmetoder.</li> <li>Kunskaper om fysikens betydelse för utveckling inom vetenskap och samhälle.</li> </ul><h3>Nivåer i ämnet fysik – fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet fysik.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FYSF1000X</h3>",
+      "code": "FYSF1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fysik – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Krafter, rörelse, energi och elektromagnetism</em></p> <ul> <li>Krafter, rörelse, energi och elektromagnetism, till exempel rörelse med luft- och vätskemotstånd, stötar i två dimensioner, rotationsrörelse, dämpad svängningsrörelse, växelströmskretsar, akustik, elektromagnetiska vågor och speciella relativitetsteorin.</li> </ul> <p><em>Materia och material</em></p> <ul> <li>Mikroskopiska modeller för beskrivning av materia, till exempel materians våg–partikeldualism, partikel-i-låda, Heisenbergs obestämdhetsrelation, atomorbitaler, Pauliprincipen och partikelmodell för ideala gaser.</li> <li>Tillämpningar av kvantfysik och fasta tillståndets fysik, till exempel laser, halvledarelektronik och modern materialteknik.</li> </ul> <p><em>Modellering och simulering</em></p> <ul> <li>Undersökande arbete med datorbaserad numerisk simulering. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering.</li> </ul> <p><em>Fysikens arbetsmetoder</em></p> <ul> <li>Laborationer och experiment. Insamling av data från observationer, mätningar och simuleringar. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data, beräkningar, matematisk modellering och redovisning med olika uttrycksformer. Värdering av metod och resultat, analys av felkällor och beräkning av mätfel.</li> <li>Granskning av information och argumentation som rör fysik. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om fysikens lagar, begrepp, modeller och teorier och ger <strong>enkla</strong> förklaringar av fysikaliska samband.</p> <p>Eleven analyserar och löser <strong>enkla</strong> fysikaliska problem. Dessutom kommunicerar eleven i frågor som rör fysik med <strong>godtagbar</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>i huvudsak systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>enkla</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>enkla</strong> resonemang om fysiken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om fysikens lagar, begrepp, modeller och teorier och ger <strong>utvecklade</strong> förklaringar av fysikaliska samband.</p> <p>Eleven analyserar och löser <strong>relativt komplexa</strong> fysikaliska problem. Dessutom kommunicerar eleven i frågor som rör fysik med <strong>god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>utvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om fysiken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om fysikens lagar, begrepp, modeller och teorier och ger <strong>välutvecklade</strong> förklaringar av fysikaliska samband.</p> <p>Eleven analyserar och löser <strong>komplexa</strong> fysikaliska problem. Dessutom kommunicerar eleven i frågor som rör fysik med <strong>mycket god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet, <strong>systematiskt och ändamålsenligt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>välutvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om fysiken som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.005Z"
+}

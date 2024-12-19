@@ -1,0 +1,106 @@
+{
+  "code": "BAGI",
+  "name": "Bageri",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:163",
+  "nameHeading": "<h2>Bageri</h2>",
+  "description": "<p>Ämnet bageri behandlar hantverksmässiga metoder för att framställa olika typer av bröd och bakverk. I ämnet ingår hur råvaror och olika processer påverkar slutproduktens egenskaper och kvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid tillverkning av bröd och bakverk.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bageri ska syfta till att eleverna utvecklar förmåga att yrkesmässigt tillverka bröd och bakverk med moderna och traditionella hantverksmetoder. Eftersom området präglas av både en stark tradition och en ständig utveckling ska undervisningen stimulera såväl elevernas intresse för traditioner som lust att utvecklas inom området. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att följa recept, välja och hantera råvaror samt kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten. Undervisningen ska också leda till att eleverna utvecklar förmåga att skapa estetiskt och sensoriskt tilltalande slutprodukter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att ge service, bemöta kunder och sälja.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera och organisera bageriarbete samt att arbeta ergonomiskt. Undervisningen ska även leda till att eleverna utvecklar förmåga att använda och vårda redskap och maskiner samt att förpacka och märka bagerivaror. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att arbeta säkert och hygieniskt i enlighet med lagar och andra bestämmelser som gäller för yrkesområdet.</p> <p>I undervisningen ska eleverna ges rikliga möjligheter att reflektera över och diskutera arbetet samt etiska frågor och frågor om hållbarhet. Undervisningen ska också ge eleverna möjlighet att utveckla kreativitet samt problemlösnings- och initiativförmåga. Eleverna ska ges möjlighet att utföra uppgifter inom området både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet bageri ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och organisera tillverkning av bröd och bakverk efter situationens krav.</li> <li>Förmåga att tillverka bröd och bakverk.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att bemöta samt samarbeta och kommunicera med andra i samband med tillverkning av bröd och bakverk.</li> </ul><h3>Nivåer i ämnet bageri</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BAGI1000X</h3>",
+      "code": "BAGI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><em>Undervisningen i ämnet bageri på nivå 1 ska behandla följande centrala innehåll:</em></p> <ul> <li>Bröds och bakverks historia.</li> <li>Enklare planering och organisering vid tillverkning av bröd och bakverk.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Enklare ekonomiska kalkyler.</li> <li>Hur recept läses och används.</li> <li>Grundläggande receptberäkningar.</li> <li>Råvaror och andra ingredienser som är lämpliga för ändamålet.</li> <li>Jäs- och avbakningsmoment.</li> <li>Grundläggande tillverkning av jästa degar samt enklare bröd och bakverk, däribland vetedegar och remonser.</li> <li>Tillverkning av bröd och bakverk utifrån kombinationer av smaker.</li> <li>Hantering av redskap, maskiner och annan utrustning.</li> <li>Allergi- och specialkost samt kostval som är vanligt förekommande inom bageri.</li> <li>Paketering och märkning av bagerivaror.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och livsmedelslagstiftning med tonvikt på hygien och hygienrutiner.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Hur samarbete, kommunikation och bemötande vid bageriarbete går till.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BAGI2000X</h3>",
+      "code": "BAGI2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bageri på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Arbetsprocessen vid bearbetning av degar. Viltid, jäsning och avbakning.</li> <li>Planering och organisering vid vanligt förekommande bageriarbete.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Prisbestämning och vanligt förekommande ekonomiska kalkyler.</li> <li>Vanligt förekommande receptberäkningar.</li> <li>Tillverkning av matbröd med surdegar, blötläggningar och skållningar.</li> <li>Tillverkning av kaffebrödsdegar och laminerade degar.</li> <li>Tillverkning av bröd och bakverk med hänsyn till smak och utseende samt med utgångspunkt i trend och tradition.</li> <li>Simultant arbete med flera moment och metoder.</li> <li>Hantering av redskap, maskiner och annan utrustning.</li> <li>Lagar och andra bestämmelser inom området, däribland livsmedelslagstiftning med tonvikt på hygien och hygienrutiner.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Samarbete och kommunikation vid bageriarbete.</li> <li>Bemötande i olika situationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BAGI3000X</h3>",
+      "code": "BAGI3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bageri på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Hur konsistens, smak, utseende och nyttighet påverkas av olika val av råvaror och metoder vid tillverkningen.</li> <li>Planering och organisering vid tillverkning av bröd och bakverk med hänsyn till smak, utseende, pris och kvalitet.</li> <li>Etiska och miljömässiga val i arbetet.</li> <li>Tillverkning av bröd och bakverk med hänsyn till krav på ekonomi och tempo.</li> <li>Tillverkning av bröd och bakverk efter valt tema, utifrån beställning eller i befintlig verksamhet.</li> <li>Tillverkning av mat- och kaffebröd samt andra bakverk av olika degar och blandningar.</li> <li>Simultant arbete med flera moment och metoder.</li> <li>Hantering av redskap, maskiner och annan utrustning.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Service, kommunikation och bemötande vid bageriarbete och i olika servicesituationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BAGI4000X</h3>",
+      "code": "BAGI4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bageri på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Trender och utveckling inom bageriområdet.</li> <li>Hur olika råvaror och processer vid brödtillverkning påverkar brödets nyttighet. Hur surdeg och fullkorn samverkar.</li> <li>Planering och organisering utifrån yrkesmässiga krav och ekonomiska kalkyler.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Yrkesmässig tillverkning av bröd och bakverk utifrån krav på drift, planering, rutiner, tempo, organisation och ekonomi.</li> <li>Tillverkning av avancerade bröd och bakverk.</li> <li>Tillverkning av internationella bakverk.</li> <li>Yrkesmässig tillverkning av bröd och bakverk efter valt tema, utifrån beställning eller i befintlig verksamhet.</li> <li>Hantering av redskap, maskiner och annan utrustning.</li> <li>Lagar och andra bestämmelser för yrkesmässigt arbete inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Service, kommunikation och bemötande i samarbete med andra på ett yrkesmässigt sätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar tillverkning av bröd och bakverk på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven tillverkar med <strong>visst</strong> handlag bröd och bakverk.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar tillverkning av bröd och bakverk på ett <strong>gott</strong> sätt.</p> <p>Eleven tillverkar med <strong>gott</strong> handlag bröd och bakverk.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar tillverkning av bröd och bakverk på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven tillverkar med <strong>mycket gott</strong> handlag bröd och bakverk.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.965Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "FARU",
+  "name": "Fartygsunderhåll",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:281",
+  "nameHeading": "<h2>Fartygsunderhåll</h2>",
+  "description": "<p>Ämnet fartygsunderhåll behandlar underhålls- och reparationsarbete ombord på fartyg. Skador på fartyget eller fartygets utrustning kan leda till att besättning, passagerare, fartyg eller miljö utsätts för fara. Korrekt utfört underhålls- och reparationsarbete är därför avgörande för både säkerhet och hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fartygsunderhåll ska syfta till att eleverna utvecklar förmåga att utföra underhålls- och reparationsarbete ombord på fartyg. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera arbetsuppgifter i relation till uppsatta kvalitetsmål. Eleverna ska dessutom ges möjlighet att utveckla förmåga att tolka och följa ritningar samt hantera material, verktyg och utrustning utifrån ekonomisk och miljömässig hållbarhet.</p> <p>Arbetsmiljö och personlig säkerhet ska ha en central plats i undervisningen. Eleverna ska ges möjlighet att utveckla förmåga att arbeta med hänsyn till ergonomi, hälsa och säkerhet samt att identifiera, förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse för vikten av ansvarstagande och förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka i olika yrkessammanhang. Eleverna ska även ges möjlighet att utveckla förmåga att föra värderande diskussioner om arbetsprocess och resultat.</p> <p>I undervisningen ska arbetsuppgifterna vara konstruerade med utgångspunkt i situationer som eleverna kan komma att möta i sin yrkesutövning. På så sätt ska eleverna ges möjlighet att utveckla förståelse av arbetets komplexitet samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra. Undervisningen ska stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <h5><em>Undervisningen i ämnet fartygsunderhåll ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra underhålls- och reparationsarbete på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material, verktyg och utrustning på ett säkert och hållbart sätt.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> </ul><h3>Nivåer i ämnet fartygsunderhåll</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FARU1000X</h3>",
+      "code": "FARU1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fartygsunderhåll på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Enklare skärande bearbetning, till exempel borrning, gängning, kapning, filning och slipning.</li> <li>Enklare sammanfogning, till exempel skruvförband, nitning och limning.</li> <li>Enklare ytbearbetning och ytbehandling, däribland målning och korrosionsskydd.</li> <li>Tolkning av enklare ritningar samt måttsättning.</li> <li>Arbete med hänsyn till ergonomi, arbetsmiljö, säkerhet och miljöskydd.</li> <li>Utvärdering och dokumentation av utförd arbetsuppgift utifrån uppsatta mål för kvalitet och säkerhet.</li> <li>Hantering av material för arbetsuppgiften på ett säkert och hållbart sätt.</li> <li>Avfallsförebyggande åtgärder, till exempel minimering av spill, sortering och återvinning av avfall.</li> <li>Riskbedömning inför arbetet.</li> <li>Användning av vanligt förekommande handverktyg, däribland el- och luftdrivna verktyg, samt av verkstadsutrustning.</li> <li>Användning av vanligt förekommande verktyg och utrustning för skärande bearbetning och sammanfogning.</li> <li>Användning av vanligt förekommande verktyg och utrustning för ytbearbetning och ytbehandling.</li> <li>Skötsel av verktyg och utrustning.</li> <li>Användning av personlig skyddsutrustning och ergonomiska hjälpmedel, till exempel för att förhindra fall, minska påverkan av buller, damm och vibrationer samt för att undvika felaktiga arbetsställningar.</li> <li>Vanligt förekommande termer och begrepp vid underhålls- och reparationsarbete.</li> <li>Måttenheter och gängtabeller samt dimensioner på material och verktyg.</li> <li>Samverkan och kommunikation i arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FARU2000X</h3>",
+      "code": "FARU2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fartygsunderhåll på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Skärande bearbetning, till exempel svarvning, fräsning och gasskärning.</li> <li>Sammanfogning, till exempel lödning och svetsning.</li> <li>Ytbearbetning och ytbehandling, däribland målning och korrosionsskydd.</li> <li>Bockning av plåtar och rör.</li> <li>Demontering, till exempel med avdragare, pressning och värmning.</li> <li>Tolkning av ritningar samt måttsättning.</li> <li>Konstruktion av enklare ritningar.</li> <li>Arbete med hänsyn till ergonomi, arbetsmiljö, säkerhet och miljöskydd.</li> <li>Utvärdering och dokumentation av utfört arbete utifrån kvalitet, säkerhet och ekonomi.</li> <li>Val och hantering av material för arbetet på ett säkert och hållbart sätt.</li> <li>Avfallsförebyggande åtgärder, till exempel materialberäkning, materialförvaring och återanvändning av material.</li> <li>Riskbedömning inför arbetet.</li> <li>Val och användning av handverktyg, däribland el- och luftdrivna verktyg, samt av verkstadsutrustning för reparations- och underhållsarbete.</li> <li>Val och användning av verktyg och utrustning för olika metoder för skärande bearbetning och sammanfogning.</li> <li>Val och användning av verktyg och utrustning för olika metoder av ytbearbetning och ytbehandling.</li> <li>Underhåll av verktyg och utrustning.</li> <li>Användning av personlig skyddsutrustning i arbetet.</li> <li>Termer och begrepp vid underhålls- och reparationsarbete.</li> <li>Måttenheter, gängtabeller och ritningssymboler samt dimensioner på material och verktyg.</li> <li>Samverkan och kommunikation i arbetet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför underhålls- och reparationsarbete med <strong>godtagbart</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar material, verktyg och utrustning på ett <strong>godtagbart</strong> sätt. Eleven arbetar säkert och använder arbetssätt som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför underhålls- och reparationsarbete med <strong>gott</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar material, verktyg och utrustning på ett <strong>gott</strong> sätt. Eleven arbetar säkert och använder arbetssätt som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför underhålls- och reparationsarbete med <strong>mycket gott</strong> resultat. Eleven utvärderar arbetsprocessen och resultatet samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven hanterar material, verktyg och utrustning på ett <strong>mycket gott</strong> sätt. Eleven arbetar säkert och använder arbetssätt som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

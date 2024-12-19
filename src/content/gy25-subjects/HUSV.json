@@ -1,0 +1,92 @@
+{
+  "code": "HUSV",
+  "name": "Husvagns- och husbilsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:264",
+  "nameHeading": "<h2>Husvagns- och husbilsteknik</h2>",
+  "description": "<p>Ämnet husvagns- och husbilsteknik behandlar olika typer av husvagnar och husbilar, deras tilläggsutrustningar och användningsområden. Ämnet behandlar även service, underhåll och reparationer samt de verktyg och den utrustning som används i arbetet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet husvagns- och husbilsteknik ska syfta till att eleverna utvecklar kunskaper om olika typer av husvagnar och husbilar samt deras olika system och komponenter. Den ska även ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande tilläggsutrustningar. Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra service, underhåll och reparationer av olika husvagnar och husbilar samt deras olika tilläggsutrustningar. Undervisningen ska även bidra till att eleverna utvecklar förmåga att anpassa och montera olika typer av tilläggsutrustningar till husvagnar och husbilar. Vidare ska eleverna ges möjlighet att utveckla kunskaper om verktyg och utrustning samt förmåga att använda dessa i samband med reparationer av karosseri- och inredningsdetaljer.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom service, underhåll och reparationer av husvagnar och husbilar som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska bidra till att stimulera elevernas intresse för husvagnar och husbilar samt för hur de kan tillgodose människors behov inom både fritids- och arbetsliv. Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Undervisningen ska även leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjligheter att, såväl självständigt som tillsammans med andra, arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet husvagns- och husbilsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av husvagnar och husbilar, deras system och komponenter samt tilläggsutrustningar.</li> <li>Kunskaper om verktyg och utrustning som används i samband med olika typer av reparationer och sammanfogningar av karosseri- och inredningsdetaljer.</li> <li>Förmåga att sammanfoga olika karosseri- och inredningsdetaljer.</li> <li>Förmåga att genomföra service, underhåll och reparationer av husvagnar och husbilar samt av deras olika tilläggsutrustningar.</li> <li>Förmåga att anpassa och montera olika typer av tilläggsutrustningar till husvagnar och husbilar.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet husvagns- och husbilsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet personbilar – system- och diagnosteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HUSV1000X</h3>",
+      "code": "HUSV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet husvagns- och husbilsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Orientering om olika typer av husvagnar och husbilar och deras huvudsakliga konstruktion i förhållande till respektive användningsområde samt deras huvudkomponenter och system.</li> <li>Vanligt förekommande tilläggsutrustningar, till exempel cykelställ och markiser.</li> <li>Orientering om elscheman i husvagnar och husbilar, deras uppbyggnad och symboler.</li> <li>Orientering om gasolsystems uppbyggnad i husvagnar och husbilar samt metoder för funktions- och läckagekontroll.</li> <li>Orientering om olika typer av ATS-system, deras funktion och komponenter.</li> <li>Metoder för användning av tillverkarnas serviceprotokoll, scheman och övrig teknisk information.</li> <li>Metoder för kontroll av gasolsystem samt för fuktkontroll enligt tillverkarens anvisningar.</li> <li>Verktyg, maskiner och övrig utrustning samt metoder för att använda dessa i samband med enklare reparationer och sammanfogningar av karosseri- och inredningsdetaljer.</li> <li>Enklare skadereparationer av husvagnars och husbilars karosseri- och inredningsdetaljer under laborativa former.</li> <li>Enklare service- och underhållsåtgärder enligt fordonstillverkarens serviceprotokoll.</li> <li>Funktionskontroll av gasolsystem i husvagnar och husbilar.</li> <li>Enklare reparationer av system och chassikomponenter.</li> <li>Enklare anpassning och montering av olika typer av tilläggsutrustningar enligt monteringsanvisningar för husvagnar och husbilar, till exempel av cykelställ och markiser.</li> <li>Användning av mätutrustning för fuktkontroll enligt tillverkarens protokoll under laborativa former.</li> <li>Användning av specialverktyg, verktyg, maskiner och övrig utrustning.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning i samband med service, underhåll och reparationer av fordon, däribland av elektrifierade fordon.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HUSV2000X</h3>",
+      "code": "HUSV2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet husvagns- och husbilsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Orientering om olika typer av chassi- och bostadsdelars uppbyggnad i husvagnar och husbilar, deras olika huvudkomponenter och system samt vanligt förekommande tilläggsutrustningar, till exempel solceller och mediautrustning.</li> <li>Orientering om vanligt förekommande elektriska komponenter i husvagnar och husbilar, till exempel batteri, kablage, kontaktdon, givare, sensorer och styrenheter.</li> <li>Olika gasolsystem och deras komponenter samt metoder för service och underhåll av systemen, till exempel system för värme, kyla och kök.</li> <li>Metoder för funktionskontroll av olika typer av ATS-system och deras komponenter.</li> <li>Verktyg, maskiner och övrig utrustning samt metoder för att använda dessa i samband med enklare reparationer och sammanfogningar av karosseri- och inredningsdetaljer av olika material.</li> <li>Enklare skadereparationer av husvagnars och husbilars karosseri- och inredningsdetaljer av olika material.</li> <li>Service- och underhållsåtgärder enligt fordonstillverkarens serviceprotokoll och scheman samt tilläggsutrustningens anvisningar.</li> <li>Service och underhåll av gasolsystem och deras komponenter.</li> <li>Reparationer av system och chassikomponenter, till exempel hjulupphängning och stödbenssystem.</li> <li>Anpassning och montering av olika typer av tilläggsutrustningar enligt monteringsanvisningar för husvagnar och husbilar, till exempel solceller och mediautrustning.</li> <li>Användning av mätutrustning för fuktkontroll enligt tillverkarens anvisningar.</li> <li>Användning av specialverktyg, verktyg, maskiner och övrig utrustning.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning i samband med service, underhåll och reparationer av fordon, däribland av elektrifierade fordon.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HUSV3000X</h3>",
+      "code": "HUSV3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet husvagns- och husbilsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad av olika typer av chassi- och bostadsdelar samt deras olika huvudkomponenter och system i husvagnar och husbilar.</li> <li>Tilläggsutrustning, till exempel komfort- och säkerhetsutrustning.</li> <li>Uppbyggnad av 230 volts lågspänningssystem i husvagnar, husbilar och deras förbrukare, till exempel kylskåp, induktionshäll och värmesystem.</li> <li>Olika gasolsystem och deras komponenter samt metoder för felsökning, reparation och kontroll med mät- och diagnosutrustning enligt anvisningar.</li> <li>Metoder för felsökning och reparationer av olika typer av ATS-system och deras komponenter.</li> <li>Verktyg, maskiner och övrig utrustning samt metoder för att använda dessa i samband med reparationer och sammanfogningar av karosseri- och inredningsdetaljer av olika material.</li> <li>Planering och genomförande av olika typer av skadereparationer av karosseri- och inredningsdetaljer i husvagnar och husbilar.</li> <li>Olika typer av service- och underhållsåtgärder enligt fordonstillverkarens serviceprotokoll och scheman samt tilläggsutrustningens anvisningar.</li> <li>Felsökning och reparationer av gasolsystem och deras komponenter.</li> <li>Reparationer av system och komponenter, till exempel el-, värme- och kylsystem.</li> <li>Planering och genomförande av gasol- och fuktkontroll samt av felsökning och reparationer av chassi- och bostadsdel i husvagnar och husbilar.</li> <li>Planering och genomförande av anpassning och montering av tilläggsutrustning enligt monteringsanvisningar för husvagnar och husbilar, till exempel komfort- och säkerhetsutrustning.</li> <li>Användning av specialverktyg, verktyg, maskiner och övrig utrustning.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning i samband med service, underhåll och reparationer av fordon, däribland av elektrifierade fordon.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av husvagnar och husbilar, deras system och komponenter samt tilläggsutrustningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om verktyg och utrustning som används i samband med olika typer av reparationer och sammanfogningar av karosseri- och inredningsdetaljer.</p> <p>Eleven utför med <strong>viss säkerhet</strong> sammanfogningar av karosseri- och inredningsdetaljer i enlighet med tillverkarnas anvisningar.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> service, underhåll och reparationer av husvagnar och husbilar samt deras olika tilläggsutrustningar i <strong>bekanta</strong> situationer i enlighet med tillverkarens anvisningar.</p> <p>Eleven anpassar och monterar med <strong>viss säkerhet</strong> olika typer av tilläggsutrustningar till husvagnar och husbilar utifrån fordonens konstruktion och i enlighet med tillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av husvagnar och husbilar, deras system och komponenter samt tilläggsutrustningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om verktyg och utrustning som används i samband med olika typer av reparationer och sammanfogningar av karosseri- och inredningsdetaljer.</p> <p>Eleven utför med <strong>säkerhet</strong> sammanfogningar av karosseri- och inredningsdetaljer i enlighet med tillverkarnas anvisningar.</p> <p>Eleven genomför med <strong>säkerhet</strong> service, underhåll och reparationer av husvagnar och husbilar samt deras olika tilläggsutrustningar i <strong>bekanta men även delvis nya</strong> situationer i enlighet med tillverkarens anvisningar.</p> <p>Eleven anpassar och monterar med <strong>säkerhet</strong> olika typer av tilläggsutrustningar till husvagnar och husbilar utifrån fordonens konstruktion och i enlighet med tillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av husvagnar och husbilar, deras system och komponenter samt tilläggsutrustningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om verktyg och utrustning som används i samband med olika typer av reparationer och sammanfogningar av karosseri- och inredningsdetaljer.</p> <p>Eleven utför med <strong>god säkerhet</strong> sammanfogningar av karosseri- och inredningsdetaljer i enlighet med tillverkarnas anvisningar.</p> <p>Eleven genomför med <strong>god säkerhet</strong> service, underhåll och reparationer av husvagnar och husbilar samt deras olika tilläggsutrustningar i <strong>bekanta men även nya</strong> situationer i enlighet med tillverkarens anvisningar.</p> <p>Eleven anpassar och monterar med <strong>god säkerhet</strong> olika typer av tilläggsutrustningar till husvagnar och husbilar utifrån fordonens konstruktion och i enlighet med tillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.020Z"
+}

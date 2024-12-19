@@ -1,0 +1,64 @@
+{
+  "code": "KATT",
+  "name": "Kattkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:19",
+  "nameHeading": "<h2>Kattkunskap</h2>",
+  "description": "<p>Ämnet kattkunskap behandlar hantering och skötsel av katter och deras vistelsemiljöer. Dessutom behandlas katters beteende och biologi samt djuretik, lagar och andra bestämmelser som reglerar yrkesmässigt arbete med katter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kattkunskap ska syfta till att eleverna utvecklar förmåga att utföra yrkesmässigt arbete med katter. Undervisningen ska leda till att eleverna utvecklar förståelse av katten som biologisk varelse. I detta ingår kunskaper om katters beteenden och behov, deras exteriör samt om näringsfysiologi. Undervisningen ska också leda till att eleverna utvecklar kunskaper om kattens ursprung och domesticering samt om olika kattraser och om avel av katter. Eleverna ska ges möjlighet att utveckla förmåga att ta ansvar och följa fasta rutiner i arbete med katter. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta katter med utgångspunkt i djurets välfärd samt att sköta och underhålla utrustning och anläggningar.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ansvarskänsla och förmåga att ta ställning i etiska frågor som gäller djurens hälsa och välfärd. Eleverna ska också ges möjlighet att utveckla förmåga att främja god hälsa samt att förebygga skador och sjukdomar hos katter. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med yrkesmässigt arbete med katter samt förmåga att använda hållbara och säkra arbetsmetoder.</p> <p>Praktisk hantering av katter i olika livsstadier och i olika miljöer ska ingå i undervisningen. Genom observationer ska eleverna ges möjlighet att utveckla förmåga att iaktta och tolka katters beteende samt att förebygga och hantera beteendeproblem hos katter.</p> <h5><em>Undervisningen i ämnet kattkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om katters biologi, behov, beteenden och reproduktion samt om avel av katter.</li> <li>Förmåga att planera arbetsuppgifter samt att sköta och hantera katter med utgångspunkt i djurets välfärd.</li> <li>Förmåga att arbeta säkert och miljömässigt hållbart i enlighet med lagar och andra bestämmelser som rör yrkesmässigt arbete med katter.</li> </ul><h3>Nivåer i ämnet kattkunskap</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KATT1000X</h3>",
+      "code": "KATT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kattkunskap på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Katters anatomi och fysiologi däribland exteriör och näringsfysiologi.</li> <li>Kattraser, deras egenskaper och ursprung.</li> <li>Katters naturliga beteende och mentala egenskaper samt olika beteendeproblem.</li> <li>Kattens historia och domesticering.</li> <li>Katters näringsbehov.</li> <li>Foderlära, fodrets näringsinnehåll och kvalitet samt specifika foderbehov.</li> <li>Val av foder och utfodring av katter.</li> <li>Avel samt etiska aspekter kopplat till detta.</li> <li>Kattens livscykel och vanliga hälsoproblem, skador och sjukdomar samt förebyggande åtgärder.</li> <li>Zoonoser.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Daglig skötsel av katter däribland tillsyn, utfodring, rengöring och pälsvård.</li> <li>Aktivering av katter samt miljöberikning för att stimulera naturliga beteenden.</li> <li>Frivillig hantering i samband med vård och omsorgsuppgifter.</li> <li>Etisk och säker hantering och träning av förvildade katter, till exempel socialiseringsträning.</li> <li>Socialisering av kattungar.</li> <li>Rutiner för att upptäcka förändringar i katters beteende.</li> <li>Skötsel av anläggningar och utrustning inom olika verksamheter.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Säker och stressfri hantering av katter.</li> <li>Ergonomi i samband med aktuella arbetsuppgifter.</li> <li>Hygien- och smittskyddsrutiner.</li> <li>Olika kattorganisationer och deras verksamheter.</li> <li>Djurskyddslagstiftning och andra bestämmelser som rör katthållning och hantering av katter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om katters biologi, behov och beteenden. Eleven redogör <strong>översiktligt</strong> för avel och uppfödning av katter. Eleven observerar katter och identifierar med <strong>viss säkerhet</strong> tecken på normalt och avvikande beteende. Eleven redogör <strong>översiktligt</strong> för faktorer som bidrar till en god miljö för katter.</p> <p>Eleven följer arbetsinstruktioner och sköter samt hanterar med <strong>visst</strong> handlag katter på ett ansvarsfullt, etiskt och säkert sätt. Eleven sköter och hanterar med <strong>viss säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om katters biologi, behov och beteenden. Eleven redogör <strong>utförligt</strong> för avel och uppfödning av katter. Eleven observerar katter och identifierar med <strong>säkerhet</strong> tecken på normalt och avvikande beteende. Eleven redogör <strong>utförligt</strong> för faktorer som bidrar till en god miljö för katter.</p> <p>Eleven följer arbetsinstruktioner och sköter samt hanterar med <strong>gott</strong> handlag katter på ett ansvarsfullt, etiskt och säkert sätt. Eleven sköter och hanterar med <strong>säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om katters biologi, behov och beteenden. Eleven redogör <strong>utförligt och nyanserat</strong> för avel och uppfödning av katter. Eleven observerar katter och identifierar med <strong>god säkerhet</strong> tecken på normalt och avvikande beteende. Eleven redogör <strong>utförligt och nyanserat</strong> för faktorer som bidrar till en god miljö för katter.</p> <p>Eleven följer arbetsinstruktioner och sköter samt hanterar med <strong>mycket gott</strong> handlag katter på ett ansvarsfullt, etiskt och säkert sätt. Eleven sköter och hanterar med <strong>god säkerhet</strong> anläggningar och utrustning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.026Z"
+}

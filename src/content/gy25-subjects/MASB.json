@@ -1,0 +1,64 @@
+{
+  "code": "MASB",
+  "name": "Matematik – specialisering B",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:188",
+  "nameHeading": "<h2>Matematik – specialisering B</h2>",
+  "description": "<p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband. I matematik – specialisering B behandlas ett eller flera valda områden där matematik används.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet matematik – specialisering B ska syfta till att eleverna utvecklar och fördjupar sin förmåga att använda matematik inom ett eller flera valda områden. Det innefattar att utveckla förståelse av specialiserade begrepp och metoder samt olika strategier för att kunna lösa problem och använda matematik i komplexa eller omfattande frågeställningar. I undervisningen ska eleverna ges möjlighet att fördjupa och bredda sina kunskaper i matematik samt utveckla sin nyfikenhet och kreativitet. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att föra och följa matematiska resonemang och att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digitala verktyg för att lösa problem samt fördjupa sitt matematikkunnande och utvidga de områden där matematikkunnandet kan användas.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del. När så är lämpligt ska undervisningen ske i relevant praxisnära miljö och med verktyg som används inom karaktärsämnena.</p> <h5><em>Undervisningen i ämnet matematik – specialisering B ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och utföra rutinuppgifter utan och med verktyg.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att tillämpa, formulera och utvärdera matematiska modeller.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ul><h3>Nivåer i ämnet matematik – specialisering B</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1b eller nivå 1c i ämnet matematik – fortsättning.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MASB1000X</h3>",
+      "code": "MASB1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matematik – specialisering B på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Behandling av ett eller flera användningsområden för matematik inom utbildningens karaktär, till exempel statistiska metoder, avancerad sannolikhetslära, spelteori, avancerade optimeringsproblem, komplexa indexmått, matematik som grund för artificiell intelligens, avancerade riskkalkyler, finans eller beräkningsmatematik.</li> <li>Breddning eller fördjupning av matematiska begrepp, modeller, teorier, samband och metoder som är relevanta för ämnesområdet.</li> <li>Problemlösning som omfattar begrepp och metoder relevanta för ämnesområdet, utan och med verktyg.</li> <li>Omfångsrika problemsituationer som är relevanta för ämnesområdet.</li> <li>Tillämpning och formulering av matematiska modeller som är relevanta för ämnesområdet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>godtagbar</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>godtagbar</strong> bredd och säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis</strong> underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med viss säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl</strong> underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>mycket god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>mycket god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl</strong> underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.039Z"
+}

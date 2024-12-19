@@ -1,0 +1,143 @@
+{
+  "code": "JÄN",
+  "name": "Järnvägsteknik",
+  "englishName": "Railway technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:158",
+  "skolfsAndring": "2022:171",
+  "nameHeading": "<h2>Järnvägsteknik</h2>",
+  "description": "<p>Ämnet järnvägsteknik behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars el- och signalsystem. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet järnvägsteknik ska syfta till att eleverna utvecklar kunskaper i underhåll, installation och reparation av befintliga anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att lösa problem som uppstår under arbetets gång samt i att felsöka och reparera fel i järnvägsanläggningars el- och signalsystem. Undervisningen ska bidra till att eleverna utvecklar förståelse av den tekniska utvecklingen inom branschen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och andra bestämmelser inom området.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö och därigenom utveckla förmåga att använda verktyg och material på rätt sätt. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att hantera instrument och dokumentation, till exempel ritningar och arbetsbeskrivningar.</p><h4>Undervisningen i ämnet järnvägsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om de olika teknik- och anläggningssystem som finns inom järnvägsbranschen.</li> <li>Kunskaper om kontaktledningssystemets uppbyggnad och konstruktion.</li> <li>Kunskaper om signalsystemets uppbyggnad och konstruktion.</li> <li>Förmåga att planera sitt arbete samt att montera, felsöka och reparera anläggningar.</li> <li>Kunskaper om begrepp, föreskrifter, standarder och andra bestämmelser inom området.</li> <li>Förmåga att arbeta säkert och förebygga skador på personer och egendom.</li> <li>Förmåga att dokumentera sitt arbete.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Allmän järnvägsteknik, 100 poäng, som bygger på kursen praktisk ellära.</li> <li>Elteknik, 300 poäng, som bygger på kursen allmän järnvägsteknik.</li> <li>Signalteknik, 300 poäng, som bygger på kursen allmän järnvägsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: JÄNALM0</h3>",
+      "code": "JÄNALM0",
+      "nameHeading": "<h2>Allmän järnvägsteknik, 100 poäng</h2>",
+      "name": "Allmän järnvägsteknik",
+      "englishName": "General railway technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen allmän järnvägsteknik omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på punkt 6. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad och funktion av teknik- och anläggningssystem inom järnvägsbranschen.</li> <li>Föreskrifter om heta arbeten.</li> <li>Avstängning av vägar samt regelverket kring säkerhet på väg.</li> <li>Vistelse i spårmiljö.</li> <li>Arbete med spänning.</li> <li>Rutiner för olyckshantering inom järnvägsbranschen.</li> <li>Hjärt-lungräddning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>i samråd </strong>med handledare <strong>enkel</strong> montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen. I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> visst </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen. I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad och funktion av teknik- och anläggningssystem som finns inom järnvägsbranschen.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare<strong> avancerad </strong>montering, felsökning och reparation av teknik- och anläggningssystem inom järnvägsbranschen. I arbetet väljer eleven <strong>med säkerhet </strong>material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> mycket gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: JÄNELN0</h3>",
+      "code": "JÄNELN0",
+      "nameHeading": "<h2>Elteknik, 300 poäng</h2>",
+      "name": "Elteknik",
+      "englishName": "Electrical technology",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen elteknik omfattar punkterna 2 och 4–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kontaktledningssystemets uppbyggnad och konstruktion.</li> <li>Föreskrifter inom järnvägstekniken.</li> <li>Scheman, ritningar och handböcker.</li> <li>Statisk och roterande omformarteknik.</li> <li>Montage- och pressverktyg.</li> <li>Handhavande av de vanligaste hydraul- och tryckluftsverktygen vid kontaktledningsmontage.</li> <li>Hantering av kontaktledningsmaterial. </li> <li>Hjälpmedel för att avlasta ledningar vid byte av utliggare och liknande arbeten.</li> <li>Kraftverkan i strävor och stag som uppkommer vid avspänningar.</li> <li>Jordning i kontaktledningsanläggningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för kontaktledningssystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>i samråd </strong>med handledare <strong>enkel</strong> montering, felsökning och reparation av kontaktledningsanläggningar. I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> visst </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för kontaktledningssystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare montering, felsökning och reparation av kontaktledningsanläggningar. I arbetet väljer eleven <strong>med viss säkerhet </strong>material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för kontaktledningssystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare<strong> avancerad </strong>montering, felsökning och reparation av kontaktledningsanläggningar. I arbetet väljer eleven <strong>med säkerhet </strong>material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> mycket gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: JÄNSIG0</h3>",
+      "code": "JÄNSIG0",
+      "nameHeading": "<h2>Signalteknik, 300 poäng</h2>",
+      "name": "Signalteknik",
+      "englishName": "Signals technology",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen signalteknik omfattar punkterna 3–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Automatic train control-systemets uppbyggnad och konstruktion.</li> <li>Grundläggande trafikeringsregler och signalering.</li> <li>Signaltekniska grundbegrepp samt deras definitioner.</li> <li>Regler om signalarbete samt begreppet signalsäkerhetskontrollant.</li> <li>Föreskrifter om arbete med spänning.</li> <li>Montering och underhåll av de vanligast förekommande signalsäkerhetsobjekten på bangårdar.</li> <li>Montering, injustering och skarvning av spårledningskretsar.</li> <li>Skarvning och terminering av förekommande kabeltyper.</li> <li>Funktion och felavhjälpning av vägskydd på linjen.</li> <li>Jordning i signalanläggningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för signalsystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>i samråd </strong>med handledare<strong> enkel</strong> montering, felsökning och reparation av signalanläggningar. I arbetet väljer eleven <strong>med viss säkerhet</strong> material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> visst </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för signalsystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare montering, felsökning och reparation av signalanläggningar. I arbetet väljer eleven <strong>med viss säkerhet </strong>material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för signalsystemets uppbyggnad och konstruktion.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området. Eleven utför <strong>efter samråd </strong>med handledare<strong> avancerad </strong>montering, felsökning och reparation av signalanläggningar. I arbetet väljer eleven <strong>med säkerhet </strong>material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med<strong> mycket gott </strong>handlag. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.058Z"
+}

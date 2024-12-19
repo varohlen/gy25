@@ -1,0 +1,77 @@
+{
+  "code": "TILP",
+  "name": "Tillämpad cad",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:567",
+  "nameHeading": "<h2>Tillämpad cad</h2>",
+  "description": "<p>Ämnet tillämpad cad (computer aided design) fördjupar och specialiserar användningen av cad inom ett valt teknikområde. I ämnet behandlas olika programvaror för konstruktion och design av verkliga och virtuella objekt och system. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpad cad ska syfta till att eleverna utvecklar specialiserade kunskaper om cad-systems uppbyggnad samt ingenjörsmässig förmåga att använda något eller några cad-system i ett tillämpat sammanhang. Eleverna ska, med hjälp av digitala verktyg, ges möjlighet att utveckla förmåga att realisera en idé till styrinformation för tillverkning av produkter. I arbetet ska eleverna ges möjlighet att utveckla förmåga att använda såväl skiss som modellering och ritteknik. Undervisningen ska därför ge eleverna möjlighet att utveckla nyfikenhet och uppfinningsrikedom samt handlings- och problemlösningsförmåga.</p> <p>Undervisningen ska utgå från ett valt teknikområde, där cad är ett verktyg, ett språk och en metod för att skapa information om produkten. Undervisningen ska behandla hur cad-programmets information kan överföras till och från andra datorprogram samt till maskinell kringutrustning. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förstå och utföra de olika delarna i produktutvecklingsprocessen. Dessutom ska eleverna ges möjlighet att utveckla fördjupad förståelse av begrepp inom det valda teknikområdet.</p> <p>Eleverna ska ges möjlighet att tillämpa cad-programmets utökade funktioner för utvärdering och simulering inom det valda teknikområdet. Genom praktiskt arbete ska eleverna ges möjlighet att utveckla specialiserad förmåga att effektivt skapa modeller med lämpliga verktyg, inställningar och funktioner. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor om kopplingen mellan cad och hållbar utveckling samt olika handlingsalternativ i arbete med cad.</p> <h5><em>Undervisningen i ämnet tillämpad cad ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur cad tillämpas i arbetsprocessen.</li> <li>Färdigheter i att skapa cad-modeller.</li> <li>Förmåga att utforma cad-ritningar i enlighet med gällande standarder och normer.</li> <li>Förmåga att använda cad-programmets utökade funktioner.</li> </ul><h3>Nivåer i ämnet tillämpad cad</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILP100TX</h3>",
+      "code": "TILP100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad cad på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Cad och cad-tillämpning inom avgränsade områden för konstruktion, projektering eller produktion.</li> <li>Skapande av cad-modeller med hjälp av digitala verktyg som används inom teknikområdet. Framtagande av sammanställningar eller projekteringsunderlag.</li> <li>Framställning av ritningar och andra underlag för valt teknikområde enligt gällande standard och normer, till exempel för tillverkning, projektering eller produktion.</li> <li>Användning av cad-programmets utökade funktioner, till exempel analys, simulering eller beräkning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TILP200TX</h3>",
+      "code": "TILP200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad cad på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Cad och cad-tillämpning inom mer omfattande områden för konstruktion, projektering eller produktion.</li> <li>Skapande av avancerade cad-modeller med hjälp av digitala verktyg som används inom teknikområdet. Framtagande av sammanställningar eller projekteringsunderlag.</li> <li>Framställning av mer omfattande ritningar och specialiserat underlag för valt teknikområde enligt gällande standard och normer, till exempel för tillverkning, projektering eller produktion.</li> <li>Specialisering i något av cad-programmets komplexa utökade funktioner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om tillämpning av cad i arbetsprocessen.</p> <p>Eleven skapar cad-modeller med <strong>viss</strong> skicklighet och sammanställer underlag av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven utformar med <strong>viss</strong> skicklighet cad-ritningar i enlighet med gällande standarder och normer.</p> <p>Eleven använder med <strong>säkerhet</strong> cad-programmets utökade funktioner.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om tillämpning av cad i arbetsprocessen.</p> <p>Eleven skapar cad-modeller med <strong>god</strong> skicklighet och sammanställer underlag av <strong>god</strong> kvalitet.</p> <p>Eleven utformar med <strong>god</strong> skicklighet cad-ritningar i enlighet med gällande standarder och normer.</p> <p>Eleven använder med <strong>god säkerhet</strong> cad-programmets utökade funktioner.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om tillämpning av cad i arbetsprocessen.</p> <p>Eleven skapar cad-modeller med <strong>mycket god</strong> skicklighet och sammanställer underlag av <strong>mycket god</strong> kvalitet.</p> <p>Eleven utformar med <strong>mycket god</strong> skicklighet cad-ritningar i enlighet med gällande standarder och normer.</p> <p>Eleven använder med <strong>mycket god säkerhet</strong> cad-programmets utökade funktioner.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.092Z"
+}

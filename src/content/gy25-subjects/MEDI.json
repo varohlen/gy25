@@ -1,0 +1,92 @@
+{
+  "code": "MEDI",
+  "name": "Medier, journalistik och kommunikation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:56",
+  "nameHeading": "<h2>Medier, journalistik och kommunikation</h2>",
+  "description": "<p>Ämnet medier, journalistik och kommunikation behandlar såväl traditionella som sociala mediers villkor och roll i samhället. Ämnet tar upp hur medier, journalistik och kommunikation fungerar samt vilka strategier och drivkrafter som styr olika aktörers kommunikation i samhället. I ämnet behandlas även etiska regler, lagar och andra bestämmelser som gäller inom medieområdet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet medier, journalistik och kommunikation ska syfta till att eleverna utvecklar kunskaper om mediernas roll i samhället, såväl deras betydelse för demokratin som deras inverkan på normer och ideal. Eleverna ska i undervisningen också ges möjlighet att utveckla kunskaper om mediernas historiska utveckling samt om deras roll lokalt, nationellt och globalt. Undervisningen ska vidare leda till att eleverna utvecklar kunskaper om journalistiska arbetssätt och förhållningssätt samt om arbetssätt inom reklam och information.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt och analytiskt förhållningssätt till medier genom att analysera deras verksamhet, innehåll och uttrycksformer. Dessutom ska eleverna ges möjlighet att utveckla förståelse av hur budskap kan formuleras för olika syften inom reklam och information. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att utforma journalistiskt innehåll och andra slags medieinnehåll.</p> <p>Undervisningen ska variera praktiska och teoretiska moment. Den ska även bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga för att utföra arbetsuppgifter såväl individuellt som i samarbete med andra. I undervisningen ska eleverna dessutom ges rikliga tillfällen att använda den teknik som förekommer inom såväl traditionella som sociala medier.</p> <h5><em>Undervisningen i ämnet medier, journalistik och kommunikation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om medielandskapet och mediernas roll i samhället samt om etiska regler, lagar och andra bestämmelser inom området.</li> <li>Förmåga att analysera olika slags medieinnehåll utifrån mediernas roll i samhället.</li> <li>Förmåga att utforma olika slags medieinnehåll utifrån olika mediegenrers krav.</li> </ul><h3>Nivåer i ämnet medier, journalistik och kommunikation</h3><ul><li>Nivå 1, 100 poäng. Betyg i medier, journalistik och kommunikation som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i medieteori som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i medier, journalistik och kommunikation som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i medieteori som omfattar nivå 2. </li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MEDI1000X</h3>",
+      "code": "MEDI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medier, journalistik och kommunikation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Etiska regler, lagar och andra bestämmelser inom medieområdet.</li> <li>Det svenska medielandskapet. Olika medieformer. Översiktligt om medieformernas utveckling ur ett historiskt perspektiv samt människors förändrade användning av medier.</li> <li>Nyhetsvärdering och opinionsbildning. Traditionella och sociala mediers betydelse för demokratin i några delar av världen.</li> <li>Mediernas roll i samtidskulturen, till exempel utveckling av normer och ideal.</li> <li>Analys av mediers innehåll utifrån källkritiska metoder och utifrån mediernas roll i samhället.</li> <li>Journalistiskt arbetssätt och förhållningssätt.</li> <li>Utformning av enklare journalistiskt innehåll med användning av relevant teknik, däribland nyhetsartiklar och faktatexter.</li> <li>Arbetssätt inom reklam och information. Hur budskap kan anpassas för syfte och mottagare.</li> <li>Utformning av budskap inom reklam och information med användning av relevant teknik samt reflektion över form och innehåll.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MEDI2000X</h3>",
+      "code": "MEDI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medier, journalistik och kommunikation på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Etiska regler, lagar och andra bestämmelser som har haft betydelse för fall i traditionella medier och sociala medier.</li> <li>Strukturer och ägandeförhållanden inom mediesektorn, såväl kommersiella medier som public service.</li> <li>Teorier om mediers funktion i olika samhällssystem samt teorier om mediers påverkan på människor.</li> <li>Analys av journalistiskt innehåll med användning av källkritisk metod och utifrån någon teori om mediers funktion eller påverkan.</li> <li>Utformning av journalistiskt innehåll, däribland nyhetsartiklar, personporträtt och recensioner, med användning av relevant teknik.</li> <li>Utformning av budskap inom reklam och kommunikation för olika syften och mottagare med användning av relevant teknik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MEDI3000X</h3>",
+      "code": "MEDI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medier, journalistik och kommunikation på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Jämförelse av mediesituationen i några olika länder, såväl demokratier som diktaturer, till exempel avseende yttrandefrihet och pressfrihet.</li> <li>Analys av makthavares och andra aktörers kommunikation i traditionella respektive sociala medier, med fokus på etiska regler, lagar och andra bestämmelser inom området.</li> <li>Analys av makthavares och andra aktörers kommunikation i traditionella respektive sociala medier utifrån någon teori om mediers funktion eller påverkan.</li> <li>Utformning av journalistiskt innehåll inom olika genrer, till exempel reportage och dokumentärfilm, med användning av relevant teknik.</li> <li>Utformning av olika budskap inom reklam och information utifrån enklare marknadsundersökningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om medielandskapet och mediernas roll i samhället samt om etiska regler, lagar och andra bestämmelser inom området.</p> <p>Eleven gör <strong>enkla</strong> analyser av olika medieinnehåll utifrån mediernas roll i samhället.</p> <p>Eleven utformar medieinnehåll av <strong>godtagbar</strong> kvalitet utifrån olika mediegenrers krav.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om medielandskapet och mediernas roll i samhället samt om etiska regler, lagar och andra bestämmelser inom området.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av olika medieinnehåll utifrån mediernas roll i samhället.</p> <p>Eleven utformar medieinnehåll av <strong>god</strong> kvalitet utifrån olika mediegenrers krav.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om medielandskapet och mediernas roll i samhället samt om etiska regler, lagar och andra bestämmelser inom området.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av olika medieinnehåll utifrån mediernas roll i samhället.</p> <p>Eleven utformar medieinnehåll av <strong>mycket god</strong> kvalitet utifrån olika mediegenrers krav.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.043Z"
+}

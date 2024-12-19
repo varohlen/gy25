@@ -1,0 +1,64 @@
+{
+  "code": "BARN",
+  "name": "Barn- och ungdomsvård",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:167",
+  "nameHeading": "<h2>Barn- och ungdomsvård</h2>",
+  "description": "<p>Ämnet barn- och ungdomsvård är tvärvetenskapligt och har sin grund i hälsovetenskap, vårdvetenskap, pedagogik, medicin och etik. Det behandlar hälso- och sjukvård för barn och ungdomar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet barn- och ungdomsvård ska syfta till att eleverna utvecklar kunskaper om både hälsofrämjande åtgärder och olika former av sjukvårdande insatser för barn och ungdomar. Eleverna ska även ges möjlighet att utveckla kunskaper om sambanden mellan livsstil, livsvillkor och hälsa. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om sjukdomar och medicinskt omhändertagande av barn och ungdomar. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om vanliga skador och hur de kan förebyggas hos barn och ungdomar samt om smärta och hur smärta kan behandlas.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera och utföra vård- och omsorgsuppgifter och medicintekniska uppgifter vid vanligt förekommande barnsjukdomar och skador samt omhändertagande i samband med olycksfall. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som reglerar området. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att samarbeta och kommunicera med andra på ett yrkesetiskt sätt utifrån allas lika värde.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om barns och ungdomars reaktioner i olika krissituationer. Den ska också bidra till att eleverna utvecklar förmåga att rapportera och dokumentera arbetet samt att använda teknisk utrustning och utföra medicintekniska uppgifter.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av arbetsuppgifter kopplade till barn- och ungdomsvård. Undervisningen ska lägga en grund för ett yrkesmässigt och lösningsfokuserat utförande av arbetsuppgifter. På så sätt ska undervisningen stimulera elevernas initiativförmåga, självständighet, personliga ansvarstagande och handlingsberedskap. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet barn- och ungdomsvård ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om barn- och skolhälsovårdens uppdrag, organisation och utveckling.</li> <li>Kunskaper om sambanden mellan livsstil, livsvillkor och upplevd hälsa och ohälsa samt om reaktioner i samband med kriser.</li> <li>Kunskaper om vanliga barnsjukdomar, skaderisker och hur de kan förebyggas och behandlas samt om smärta och smärtbehandling för barn och ungdomar.</li> <li>Förmåga att utföra vård- och omsorgsuppgifter samt medicintekniska uppgifter vid sjukdomar och olycksfall i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att uppmärksamma symtom och förändringar i barns och ungdomars hälsotillstånd samt att rapportera och dokumentera arbete och resultat.</li> <li>Förmåga att bemöta och kommunicera samt samverka med barn, ungdomar och närstående på ett yrkesetiskt sätt.</li> </ul><h3>Nivåer i ämnet barn- och ungdomsvård</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet hälso- och sjukvård.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BARN1000X</h3>",
+      "code": "BARN1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet barn- och ungdomsvård på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Barn- och skolhälsovårdens uppdrag, organisation och utveckling.</li> <li>Förebyggande barnhälsoarbete, däribland kontroller, vaccinationer och tandvård.</li> <li>Sambanden mellan levnadsvanor, livsvillkor samt barns och ungdomars hälsa och välbefinnande.</li> <li>Krisreaktioner hos barn och ungdomar.</li> <li>Vanliga sjukdomar hos barn och ungdomar.</li> <li>Vanliga skador hos barn och ungdomar och hur de kan förebyggas.</li> <li>Smärta och smärtbehandling hos barn.</li> <li>Vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.</li> <li>Rehabilitering och habilitering.</li> <li>Omhändertagande vid olycksfall.</li> <li>Vård av friska nyfödda.</li> <li>Amningens betydelse.</li> <li>Omhändertagande av prematura barn.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>System och rutiner för rapportering och dokumentation av symtom och gjorda åtgärder med och utan digitala hjälpmedel.</li> <li>Kommunikation och samverkan med barn, ungdomar och vårdnadshavare.</li> <li>Barns och ungdomars samt närståendes behov i anslutning till hälso- och sjukvård, däribland behov av information och delaktighet.</li> <li>Etiska frågeställningar i samband med barns och ungdomars sjukdomar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om barn- och skolhälsovårdens uppdrag, organisation och utveckling.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om barns och ungdomars hälsa samt om sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande. Eleven redogör <strong>översiktligt</strong> för vanliga reaktioner hos barn och ungdomar vid ohälsa och i krissituationer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om vanliga barnsjukdomar och skaderisker hos barn och ungdomar och hur de kan förebyggas och behandlas samt om smärta och smärtbehandling.</p> <p>Eleven planerar och utför vård- och omsorgsuppgifter samt medicintekniska uppgifter för sjuka eller skadade barn med <strong>godtagbart</strong> resultat. Eleven arbetar på ett sätt som är säkert för sig själv och andra samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven uppmärksammar symtom och förändringar i barns och ungdomars hälsotillstånd på ett <strong>godtagbart</strong> sätt. Eleven rapporterar och dokumenterar arbetet och resultatet på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven bemöter och kommunicerar samt samverkar med barn, ungdomar och närstående på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om barn- och skolhälsovårdens uppdrag, organisation och utveckling.</p> <p>Eleven visar <strong>goda</strong> kunskaper om barns och ungdomars hälsa samt om sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande. Eleven redogör <strong>utförligt</strong> för vanliga reaktioner hos barn och ungdomar vid ohälsa och i krissituationer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om vanliga barnsjukdomar och skaderisker hos barn och ungdomar och hur de kan förebyggas och behandlas samt om smärta och smärtbehandling.</p> <p>Eleven planerar och utför vård- och omsorgsuppgifter samt medicintekniska uppgifter för sjuka eller skadade barn med <strong>gott</strong> resultat. Eleven arbetar på ett sätt som är säkert för sig själv och andra samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven uppmärksammar symtom och förändringar i barns och ungdomars hälsotillstånd på ett <strong>gott</strong> sätt. Eleven rapporterar och dokumenterar arbetet och resultatet på ett <strong>fungerande</strong> sätt.</p> <p>Eleven bemöter och kommunicerar samt samverkar med barn, ungdomar och närstående på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om barn- och skolhälsovårdens uppdrag, organisation och utveckling.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om barns och ungdomars hälsa samt om sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande. Eleven redogör <strong>utförligt och nyanserat</strong> för vanliga reaktioner hos barn och ungdomar vid ohälsa och i krissituationer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om vanliga barnsjukdomar och skaderisker hos barn och ungdomar och hur de kan förebyggas och behandlas samt om smärta och smärtbehandling.</p> <p>Eleven planerar och utför vård- och omsorgsuppgifter samt medicintekniska uppgifter för sjuka eller skadade barn med <strong>mycket gott</strong> resultat. Eleven arbetar på ett sätt som är säkert för sig själv och andra samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven uppmärksammar symtom och förändringar i barns och ungdomars hälsotillstånd på ett <strong>mycket gott</strong> sätt. Eleven rapporterar och dokumenterar arbetet och resultatet på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven bemöter och kommunicerar samt samverkar med barn, ungdomar och närstående på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.967Z"
+}

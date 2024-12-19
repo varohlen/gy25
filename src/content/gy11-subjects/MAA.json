@@ -1,0 +1,105 @@
+{
+  "code": "MAA",
+  "name": "Massage",
+  "englishName": "Massage",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:139",
+  "skolfsAndring": "2022:204",
+  "nameHeading": "<h2>Massage</h2>",
+  "description": "<p>Ämnet massage är ett tvärvetenskapligt kunskapsområde som har sin grund i naturvetenskap och humanbiologi. Ämnet handlar om hur vår kropp och rörelseapparat påverkas av olika faktorer och hur massage och beröring kan användas både som behandlingsmetod och i hälsofrämjande syfte.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet massage ska syfta till att eleverna utvecklar kunskaper om kroppens anatomi och fysiologi med tonvikt på kroppens rörelseapparat. Eleverna ska ges möjlighet att utveckla kunskaper om massage som såväl skadeförebyggande som hälsofrämjande behandlingsform. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att använda olika massagetekniker. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om ergonomi, hygien och miljöfrågor kopplade till verksamheten. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om rörelse, avspänning och träning.</p><p>Eleverna ska också ges möjlighet att diskutera centrala begrepp samt att använda massage och beröring som ett pedagogiskt redskap i olika sammanhang.</p><h4>Undervisningen i ämnet massage ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om kroppens anatomi och fysiologi.</li> <li>Kunskaper om massage som behandlingsform.</li> <li>Förmåga att använda centrala begrepp och teorier inom kunskapsområdet.</li> <li>Förmåga att arbeta med olika behandlingsformer i såväl skadeförebyggande som hälsofrämjande syfte på ett ergonomiskt, hygieniskt och miljömässigt sätt.</li> <li>Förmåga att samverka i behandlingssituationer.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Massage 1, 100 poäng. </li> <li>Massage 2, 100 poäng, som bygger på kursen massage 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MAAMAA01</h3>",
+      "code": "MAAMAA01",
+      "nameHeading": "<h2>Massage 1, 100 poäng</h2>",
+      "name": "Massage 1",
+      "englishName": "Massage 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen massage 1 omfattar punkterna 1–4 under Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande anatomi och fysiologi med fokus på kroppens rörelseapparat, skelett, leder, muskler och hud.</li> <li>Tillämpad anatomi samt grundläggande muskel- och skelettpalpation.</li> <li>Grundgrepp i massage.</li> <li>Klassisk massage, ansiktsmassage, sittande massage samt taktil massage.</li> <li>Massagens historia, vetenskapliga effekter och teoretiska grund.</li> <li>Spänningsbehandling och hur massage kan frigöra spänningar i stel och spänd muskulatur.</li> <li>Undersökning, behandling och träning i kombination för att skapa helhet i ett hälsofrämjande syfte.</li> <li>Hygien, miljö och arbetsställning vid massage.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> kroppens anatomi och fysiologi. Dessutom redogör eleven <strong>översiktligt </strong>för hur olika behandlingsformer inom massage kan användas i skadeförebyggande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven utför med<strong> visst </strong>handlag några massagetekniker och hanterar <strong>med viss säkerhet </strong>material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> kroppens anatomi och fysiologi. Dessutom redogör eleven <strong>utförligt </strong>för hur olika behandlingsformer inom massage kan användas i skadeförebyggande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven utför med<strong> gott </strong>handlag några massagetekniker och hanterar <strong>med viss säkerhet </strong>material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens anatomi och fysiologi. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur olika behandlingsformer inom massage kan användas i skadeförebyggande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p><p>Eleven utför med<strong> mycket gott </strong>handlag några massagetekniker och hanterar <strong>med säkerhet </strong>material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MAAMAA02</h3>",
+      "code": "MAAMAA02",
+      "nameHeading": "<h2>Massage 2, 100 poäng</h2>",
+      "name": "Massage 2",
+      "englishName": "Massage 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen massage 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Anatomi och fysiologi med fokus på muskelfysiologi, rörelse och träning samt medicinsk terminologi.</li> <li>Grundläggande skade- och sjukdomslära med fokus på rörelseapparaten.</li> <li>Rörlighetsträning, muskeltöjningar och triggerpunktsbehandling.</li> <li>Hjärt-lungräddning med defibrillator.</li> <li>Olika metoder för att ge avspänning.</li> <li>Massage i praktiken.</li> <li>Olika undersökningsformer, behandlingstekniker och skadeförebyggande och rehabiliterande träning.</li> <li>Hygien, miljö och arbetsställning vid massage.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> musklernas funktion dels var för sig, dels hur de samverkar i kroppens rörelseapparat. Dessutom redogör eleven <strong>översiktligt </strong>för hur olika typer av behandlingsformer och träning kan användas i skadeförebyggande, rehabiliterande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven planerar och genomför vanligt förekommande<strong> enkla </strong>arbetsuppgifter på ett yrkesmässigt sätt. Eleven utför med<strong> visst </strong>handlag olika massagetekniker och hanterar <strong>med viss säkerhet</strong> material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö. I arbetet samverkar eleven <strong>med viss säkerhet </strong>med andra och kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> musklernas funktion dels var för sig, dels hur de samverkar i kroppens rörelseapparat. Dessutom redogör eleven <strong>utförligt </strong>för hur olika typer av behandlingsformer och träning kan användas i skadeförebyggande, rehabiliterande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven planerar och genomför vanligt förekommande arbetsuppgifter på ett yrkesmässigt sätt. Eleven utför med<strong> gott </strong>handlag olika massagetekniker och hanterar <strong>med viss säkerhet</strong> material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö. I arbetet samverkar eleven <strong>med viss säkerhet </strong>med andra och kommunicerar med ett för arbetsuppgiften fungerande fackspråk.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> musklernas funktion dels var för sig, dels hur de samverkar i kroppens rörelseapparat. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur olika typer av behandlingsformer och träning kan användas i skadeförebyggande, rehabiliterande och hälsofrämjande syfte. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p><p>Eleven planerar och genomför vanligt förekommande, <strong>även avancerade</strong>, arbetsuppgifter på ett yrkesmässigt sätt. Eleven utför med<strong> mycket gott </strong>handlag olika massagetekniker och hanterar <strong>med säkerhet</strong> material och utrustning på ett sätt som uppfyller fastställda kvalitetskrav. I sitt arbete tar eleven hänsyn till hygien, hälsa och miljö. I arbetet samverkar eleven <strong>med säkerhet </strong>med andra och kommunicerar med ett <strong>nyanserat och </strong>för arbetsuppgiften fungerande fackspråk.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.076Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "RESO",
+  "name": "Resor och destinationer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:103",
+  "nameHeading": "<h2>Resor och destinationer</h2>",
+  "description": "<p>När människor reser till och vistas på destinationer utanför sin vanliga omgivning under kortare tid benämns det turism. Turism är en viktig näring i Sverige och i stora delar av världen. Ämnet resor och destinationer behandlar resvägar och destinationer samt värdskap och bemötande.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet resor och destinationer ska syfta till att eleverna utvecklar kunskaper om resvägar och destinationer samt förmåga att utföra enklare marknadsföring och bemöta kunder, gäster och besökare på ett serviceinriktat och yrkesmässigt sätt. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om resvägars och destinationers utformning och verksamheter, dess utveckling över tid samt destinationernas behov och förutsättningar för fortsatt utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att relatera och problematisera resvägar och destinationer till ekonomiska, sociala och miljömässiga aspekter av hållbarhet. Undervisningen ska dessutom ge eleverna möjlighet att genom omvärldsbevakning utveckla förmåga att presentera information om, och marknadsföra, resor och destinationer samt söka, sortera och värdera resvägs- och destinationsinformation. Undervisningen ska även stimulera elevernas kreativitet och initiativförmåga samt bidra till att ge eleverna möjlighet att utveckla förmåga att planera och kombinera turism- och resepaket.</p> <p>Eleverna ska ges möjlighet att utveckla förståelse av olika målgruppers krav, kulturer och levnadssätt. Därigenom ska eleverna ges möjlighet att utveckla förmåga att utifrån det goda värdskapets grunder bemöta olika målgruppers behov genom hög grad av service samt yrkesmässig kommunikation. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att tillämpa säkerhetsbestämmelser och arbetsmiljölagstiftning samt andra för området relevanta lokala, nationella och internationella bestämmelser.</p> <p>Genom praktiska övningar i verklighetstrogen miljö ska eleverna ges möjlighet att utveckla sina kunskaper inom områden där värdskap, service och kommunikation är centralt.</p> <h5><em>Undervisningen i ämnet resor och destinationer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om resvägars och destinationers ändamål, möjligheter och utmaningar.</li> <li>Förmåga att samla in information om resvägar och destinationer samt att granska rese- och destinationsinformation.</li> <li>Förmåga att presentera, informera om och marknadsföra resvägar och destinationer.</li> <li>Förmåga att möta olika målgrupper och deras behov på ett serviceinriktat och ansvarsfullt sätt med ett gott värdskap.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området samt att utvärdera sitt arbete.</li> </ul><h3>Nivåer i ämnet resor och destinationer</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RESO1000X</h3>",
+      "code": "RESO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet resor och destinationer på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanliga resvägar och resmål i Sverige och i övriga världen.</li> <li>Lokala, regionala och globala aktörer och verksamheter inom resvägar och destinationer.</li> <li>Destinationers och resvägars utveckling i takt med samhällsförändringar och trender, och dess påverkan på, och främjande av hållbarhetsaspekter.</li> <li>Destinationers förändringar och anpassningar utifrån säsong.</li> <li>Val av destinationer och resvägar utifrån aspekter av hållbarhet.</li> <li>Geografisk information från kartor för att söka resväg mellan destinationer.</li> <li>Metoder för att inhämta information om resvägar och destinationer samt källkritisk granskning av information om, och marknadsföring av, resvägar och resmål.</li> <li>Information om, marknadsföring och presentation av olika resvägar och destinationer, såväl muntligt som skriftligt och med hjälp av aktuell teknik.</li> <li>Levnadssätt och seder i olika kulturer.</li> <li>Ansvarsfullt och servicemässigt bemötande av olika målgruppers behov. Värdskap och service samt anpassning av språket utifrån olika situationer både fysiskt och digitalt.</li> <li>Lagar och andra bestämmelser inom området, däribland allemansrätten.</li> <li>Utvärdering av det egna arbetet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RESO2000X</h3>",
+      "code": "RESO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet resor och destinationer på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Resandeströmmar till Sverige från andra länder samt inhemskt resande.</li> <li>Händelser och aktiviteter som påverkar turistflöden till och från destinationer.</li> <li>Resvägen som attraktion.</li> <li>Destinationers verksamhetsområden, yrkesroller och arbetsuppgifter.</li> <li>Destinationers närområden, däribland deras geografi och utbud med hänsyn till bekvämlighet, service, säkerhet, tillgänglighet och lagstiftning.</li> <li>Destinationers förutsättningar och utbud samt destinationens arbete för en hållbar utveckling.</li> <li>Sökning och tolkning av information, till exempel från kartor samt bearbetning och presentation av informationen.</li> <li>Digitala plattformar. Informationssökning och kritisk granskning av rese- och destinationsinformation och marknadsföring på dessa plattformar.</li> <li>Utformning av information och marknadsföring av rese- och destinationsinformation, anpassad till olika digitala medier.</li> <li>Bearbetning av informations- och marknadsföringsmaterial, till exempel uppdatering av webbplatser och digitala medier.</li> <li>Reflektion över möten mellan människor från olika kulturer. Olika sätt att lösa tänkbara dilemman.</li> <li>Det personliga ledarskapet och dess betydelse samt kommunikation och samspel med andra.</li> <li>Planering, prissättning och genomförande av ett enkelt turismarrangemang, till exempel en bussresa, en stadsvandring, en reseafton, en smak- och kulturvandring eller ett cykelpaket. Utvärdering av det egna arbetet.</li> <li>Kunders och gästers olika behov samt anpassning av produkter och tjänster efter individuella önskemål, till exempel skräddarsydda arrangemang.</li> <li>Arbete i enlighet med lagar och andra bestämmelser inom området, till exempel paketreselagen och resegarantilagen.</li> <li>Arbetsmiljö och säkerhet inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RESO3000X</h3>",
+      "code": "RESO3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet resor och destinationer på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Olika affärsidéer, målgrupper och verksamheter för resvägs- och destinationsaktörer.</li> <li>Samverkan mellan olika resvägs- och destinationsaktörer, till exempel hur samverkan mellan olika aktörer gällande utformning av avtal går till.</li> <li>Konsekvenser av företags och offentliga verksamheters satsningar på destinationer utifrån olika aspekter av hållbarhet.</li> <li>Bearbetning av olika typer av geografisk information samt presentation av informationen.</li> <li>Planering, marknadsföring och försäljning av arrangemang och resor till och inom en specifik destination för olika målgrupper.</li> <li>Användning av aktuell teknik för försäljning och marknadsföring i olika medier, till exempel för virtuella besök av resmål, platser och upplevelser.</li> <li>Hantering av positiva och negativa reaktioner från gäster, kunder och besökare på resan eller destinationen både fysiskt och digitalt.</li> <li>Lokala förutsättningar och kulturella företeelser inom regionen och destinationen.</li> <li>Planering och genomförande av aktiviteter med ett serviceinriktat och ansvarsfullt förhållningssätt samt utvärdering av det egna arbetet.</li> <li>Fördjupning av yrkesmässig arbetsmiljö. Främjande av säkerhet och förebyggande av risker i samband med arrangemang i enlighet med lagar och andra lokala, nationella och internationella bestämmelser samt överenskommelser inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om resvägar och destinationer och för <strong>enkla</strong> resonemang om deras möjligheter och utmaningar.</p> <p>Eleven samlar in information om resvägar och destinationer och granskar informationen med <strong>enkla</strong> omdömen.</p> <p>Eleven presenterar, informerar och marknadsför resor och destinationer på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven möter gäster, kunder och besökare serviceinriktat och ansvarsfullt med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom utvärderar eleven sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om resvägar och destinationer och för <strong>utvecklade</strong> resonemang om deras möjligheter och utmaningar.</p> <p>Eleven samlar in information om resvägar och destinationer och granskar informationen med <strong>utvecklade</strong> omdömen.</p> <p>Eleven presenterar, informerar och marknadsför resor och destinationer på ett <strong>gott</strong> sätt.</p> <p>Eleven möter gäster, kunder och besökare serviceinriktat och ansvarsfullt med <strong>säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom utvärderar eleven sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om resvägar och destinationer och för <strong>välutvecklade</strong> resonemang om deras möjligheter och utmaningar.</p> <p>Eleven samlar in information om resvägar och destinationer och granskar informationen med <strong>utvecklade och nyanserade</strong> omdömen.</p> <p>Eleven presenterar, informerar och marknadsför resor och destinationer på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven möter gäster, kunder och besökare serviceinriktat och ansvarsfullt med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området. Dessutom utvärderar eleven sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.073Z"
+}

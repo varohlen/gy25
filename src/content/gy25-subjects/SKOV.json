@@ -1,0 +1,92 @@
+{
+  "code": "SKOV",
+  "name": "Skogsvård",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:112",
+  "nameHeading": "<h2>Skogsvård</h2>",
+  "description": "<p>Skogen omfattas av stora ekonomiska och miljömässiga värden och är en av de viktigaste tillgångarna när det gäller förnyelsebara råvaror. Centralt inom skogsvården är föryngring, beståndsvård och förebyggande skogsskydd. Ämnet skogsvård behandlar skogens biologi och ekologiska samband i olika skogsbiotoper samt biologisk mångfald. Ämnet behandlar även metoder för arbete med skogsvård och hur skogen kan brukas för olika syften.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet skogsvård ska syfta till att eleverna utvecklar kunskaper om skogens ekonomiska och sociala värden samt om hållbar förvaltning av skogens resurser. Undervisningen ska leda till att eleverna utvecklar kunskaper om träd och växter samt om biologiska och ekologiska samband i olika skogsbiotoper. Den ska också leda till att eleverna utvecklar kunskaper om skogens ekonomiska och sociala värden samt om skogshushållning och miljömässigt hållbar skogsförvaltning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om levnadsvillkor för olika växter och djur samt om biologisk mångfald. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om föryngring av skog samt om vård av bestånd för olika syften. Eleverna ska också ges möjlighet att utveckla kunskaper om skador på plantor och växande träd samt om hur skadorna uppstår och olika förebyggande åtgärder.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att planera och genomföra arbetsuppgifter inom skogsvård med inriktning på råvaruproduktion, biotopvård samt natur- och kulturmiljövård. I undervisningen ska eleverna ges möjlighet att läsa, tolka och använda skogsbruksplaner. Eleverna ska också ges möjlighet att utveckla förmåga att använda verktyg, utrustning och tekniska hjälpmedel för att genomföra arbetsuppgifter inom skogsvård på ett säkert och ergonomiskt sätt. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom skogsvård.</p> <p>Genom fältstudier och praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper om trädslag och ståndorter samt om skador och skadegörare på plantor och växande träd. Genom exkursioner ska eleverna ges möjlighet att utveckla förståelse av natur- och kulturvärden.</p> <h5><em>Undervisningen i ämnet skogsvård ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om träd, växter och djur samt om skogens ekonomiska, ekologiska och sociala värden.</li> <li>Kunskaper om beståndsanläggning och beståndsvård.</li> <li>Förmåga att identifiera skador och skadegörare på växande träd samt att föreslå motåtgärder.</li> <li>Förmåga att planera och genomföra arbetsuppgifter inom skogsvård på ett ergonomiskt och säkert sätt.</li> <li>Kunskaper om lagar och andra bestämmelser inom skogsvård.</li> </ul><h3>Nivåer i ämnet skogsvård</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet motor- och röjmotorsåg.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SKOV1000X</h3>",
+      "code": "SKOV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsvård på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Svenska trädslag och deras ståndortskrav.</li> <li>Vanliga djurarter, växtarter och vattenlevande organismer i skogliga biotoper.</li> <li>Skador på växande skog på grund av vind, snö, frost och torka samt vilt, insekter och svampar.</li> <li>Metoder för bekämpning av skadedjur.</li> </ul> <p><em>Hållbar skogsförvaltning</em></p> <ul> <li>Skogens produktionsvärden, naturvärden, kulturmiljövärden och sociala värden.</li> <li>Skogsbrukets historiska utveckling och framtida utvecklingsmöjligheter.</li> <li>Olika föryngringsmetoder och hur de används.</li> <li>Hur röjning och stamkvistning används för tillväxtfrämjande och naturvårdande syften.</li> <li>Skogsbruksplanens innehåll och begrepp, till exempel avdelning, målklassning, ståndortsindex, volym och trädslagsfördelning.</li> <li>Lagar och andra bestämmelser inom skogsvård, till exempel skogsvårdslagen.</li> </ul> <p><em>Arbetsuppgifter inom skogsvård</em></p> <ul> <li>Orientering i skog och mark med hjälp av karta, kompass och gps samt med hjälp av rågångar och råmärken.</li> <li>Plantering med olika metoder och redskap.</li> <li>Arbete med röjning och stamkvistning enligt instruktion.</li> <li>Säker hantering och användning av teknisk utrustning.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med skogsvårdsarbete, däribland kontroll av skyddsutrustning och brandförebyggande åtgärder.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOV2000X</h3>",
+      "code": "SKOV2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsvård på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Svenska trädslag, deras egenskaper och ståndortskrav.</li> <li>Biotopinventeringar samt studier av växter, djur och deras livsmiljöer.</li> <li>Skador på plantor och växande träd, analys av orsaker samt förebyggande och bekämpande åtgärder.</li> </ul> <p><em>Hållbar skogsförvaltning</em></p> <ul> <li>Försiktighetsåtgärder samt natur- och kulturmiljövård i samband med skogsbruksåtgärder.</li> <li>Skogsnäringarnas betydelse för samhällsekonomin och för hållbar utveckling.</li> <li>Markberedning och dess betydelse för plantornas etablering och tillväxt.</li> <li>Behov av och effekter av olika typer av dikningsåtgärder.</li> <li>Olika typer av plantor och planteringsmetoder.</li> <li>Metoder för röjning i olika bestånd och för olika syften, till exempel tillväxtfrämjande och naturvårdande syften.</li> <li>Lagar och andra bestämmelser som gäller för aktuella arbetsuppgifter.</li> </ul> <p><em>Arbetsuppgifter inom skogsvård</em></p> <ul> <li>Arbete med plantering och röjning utifrån traktdirektiv och skogsbruksplan.</li> <li>Planteringsteknik för olika typer av plantor.</li> <li>Val och användning samt vård av utrustning.</li> <li>Uppföljning av röjningsarbete i olika typer av bestånd.</li> <li>Ergonomi samt riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOV3000X</h3>",
+      "code": "SKOV3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsvård på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Ekologiska sammanhang, till exempel markfauna, näringsvävar, naturskogens succession och brandens betydelse för ekosystemen.</li> <li>Skogens ekosystemtjänster.</li> </ul> <p><em>Hållbar skogsförvaltning</em></p> <ul> <li>Skogshushållning och hållbar skogsförvaltning.</li> <li>Olika metoder för markberedning och deras påverkan på marken.</li> <li>Dikningsåtgärder och deras miljöpåverkan.</li> <li>Uppdrivning av plantor samt plantförädling för olika syften, till exempel ökad motståndskraft mot sjukdomar.</li> <li>Produktionsfrämjande röjningsåtgärder samt trädslagsval och förband efter bonitet.</li> <li>Lagar och andra bestämmelser för aktuella arbetsuppgifter.</li> <li>Miljöbalkens bestämmelser om artskydd.</li> </ul> <p><em>Arbetsuppgifter inom skogsvård</em></p> <ul> <li>Bedömning av skogsbestånds utveckling samt planering av förebyggande åtgärder mot skador med utgångspunkt i ekonomisk och miljömässig hållbarhet.</li> <li>Yrkesmässigt arbete med planering efter direktiv, genomförande samt uppföljning och rapportering av skogsvårdsåtgärder.</li> <li>Metoder och tekniker för arbete inom ett eller flera fördjupningsområden, till exempel ädellöv-, fjäll- eller skärgårdsskog eller natur- och kulturmiljövård.</li> <li>Val, användning och skötsel av utrustning.</li> <li>Ergonomi samt riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika skogliga biotoper och förklarar <strong>översiktligt</strong> ekologiska samband. I samband med fältstudier identifierar och namnger eleven med <strong>viss säkerhet</strong> vanligt förekommande växter och djur. Eleven redogör också <strong>översiktligt</strong> för skogens olika värden.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika skogsskötselåtgärder och hur de påverkar beståndets utveckling.</p> <p>Eleven identifierar med <strong>viss säkerhet</strong> vanliga skador och skadegörare på växande träd och ger <strong>enkla</strong> förslag på motåtgärder.</p> <p>Eleven planerar och utför med <strong>viss</strong> skicklighet arbetsuppgifter inom skogsvård på ett ergonomiskt och säkert sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom skogsvård.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika skogliga biotoper och förklarar <strong>utförligt</strong> ekologiska samband. I samband med fältstudier identifierar och namnger eleven med <strong>säkerhet</strong> vanligt förekommande växter och djur. Eleven redogör också <strong>utförligt</strong> för skogens olika värden.</p> <p>Eleven redogör <strong>utförligt</strong> för olika skogsskötselåtgärder och hur de påverkar beståndets utveckling.</p> <p>Eleven identifierar med <strong>säkerhet</strong> vanliga skador och skadegörare på växande träd och ger <strong>välgrundade</strong> förslag på motåtgärder.</p> <p>Eleven planerar och utför med <strong>god</strong> skicklighet arbetsuppgifter inom skogsvård på ett ergonomiskt och säkert sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom skogsvård.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika skogliga biotoper och förklarar <strong>utförligt och nyanserat</strong> ekologiska samband. I samband med fältstudier identifierar och namnger eleven med <strong>god säkerhet</strong> vanligt förekommande växter och djur. Eleven redogör också <strong>utförligt och nyanserat</strong> för skogens olika värden.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika skogsskötselåtgärder och hur de påverkar beståndets utveckling.</p> <p>Eleven identifierar med <strong>god säkerhet</strong> vanliga skador och skadegörare på växande träd och ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder.</p> <p>Eleven planerar och utför med <strong>mycket god</strong> skicklighet arbetsuppgifter inom skogsvård på ett ergonomiskt och säkert sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom skogsvård.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.081Z"
+}

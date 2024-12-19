@@ -1,0 +1,79 @@
+{
+  "code": "MUSP",
+  "name": "Musikproduktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2024:67",
+  "skolfsAndring": "2024:67",
+  "nameHeading": "<h2>Musikproduktion</h2>",
+  "description": "<p>Musik finns i alla kulturer och berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform som har olika funktioner och betydelser för var och en av oss. Musikproduktion har stor betydelse för svensk export och när musik skapas sker det ofta med många människor inblandade. Ämnet musikproduktion behandlar hantering av instrument och digitala verktyg och den kreativa och konstnärliga processen att producera musik, från idé till färdig produktion. Ämnet behandlar även olika samarbetsformer samt lagar och bestämmelser inom området.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet musikproduktion ska syfta till att eleverna utvecklar kunskaper om musik och förmåga att skapa och gestalta musik både i studio- och livesammanhang. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i ljuddesign och hur ljud och musik skapas, spelas in, bearbetas och distribueras. Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera med musiker och publik, live eller i studio. Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i musikämnen aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera och tolka musik i olika former och att reflektera över och värdera sin egen och andras musikaliska produktion, i syfte att öka det konstnärliga skapandet. Dessutom ska undervisningen bidra till att eleverna utvecklar förståelse av samband mellan detalj och helhet.</p> <p>Genom att arbeta med musikproduktion ur både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med en konstnärlig kvalitet. Undervisningen ska ta fasta på att stärka elevernas kreativitet, motivation och självförtroende i musikskapandet. Samarbetsförmåga och ansvarstagande för arbete i grupp är viktigt i musikproduktion. Därför ska eleverna ges möjlighet att arbeta tillsammans med andra och inom givna ramar. Undervisningen ska dessutom betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit och trygghet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika musikinstruments och rösters egenskaper och funktion samt förmåga att hantera dessa i olika situationer och för olika syften. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om både arbetsmiljöns betydelse och lagar och andra bestämmelser inom musikområdet. I undervisningen ska eleverna ges möjlighet att pröva olika metoder och verktyg för musikproduktion.</p> <h5><em>Undervisningen i ämnet musikproduktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om musik, stildrag och instrument.</li> <li>Förmåga att skapa och arrangera musik med ett konstnärligt uttryck.</li> <li>Förmåga att ta ansvar för eget och gemensamt arbete i musikproduktion.</li> <li>Kunskaper om ljudlära och ljuddesign.</li> <li>Förmåga att bearbeta ljud och att använda musikteknisk utrustning.</li> <li>Kunskaper om lagar och andra bestämmelser samt arbetsmiljöfrågor inom musikproduktion.</li> </ul><h3>Nivåer i ämnet musikproduktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MUSP1000X</h3>",
+      "code": "MUSP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musikproduktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Musik och skapande</em></p> <ul> <li>Musikens uppbyggnad och komponenter.</li> <li>Orientering i instrumentens ljudkaraktär, användning och funktion inom olika genrer.</li> <li>Musikalisk hantering av relevanta instrument och kontrollytor, till exempel för praktiskt ackord-, rytm- och melodispel.</li> <li>Grundläggande arrangering för olika musikstilar.</li> <li>Ljudbildens betydelse för musikupplevelsen.</li> <li>Planering och genomförande av musikaliska produktionsprojekt, enskilt och tillsammans med andra.</li> <li>Arbete inom givna ramar.</li> <li>Digital samverkan, till exempel låtskrivande och projektplanering för konsert, föreställning eller event.</li> </ul> <p><em>Ljud, teknik och hantering</em></p> <ul> <li>Rumsakustik och ljudlära. Mikrofonanvändning och ljudåtergivning i olika sammanhang.</li> <li>Hantering av DAW (digital audio workstation) och annan relevant programvara.</li> <li>Bearbetning av ljud och metoder för ljuddesign, däribland redigeringsteknik, frekvenshantering och effektpålägg.</li> <li>Grundläggande analog och digital teknik för studiobruk och livesammanhang.</li> <li>Introduktion till koppling och styrning av ljudutrustning och instrument vid inspelningar och scenframföranden.</li> <li>Mixteknik för olika ändamål.</li> </ul> <p><em>Arbetsmiljö, lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller konstnärliga produktioner, till exempel upphovsrätt och ekonomiska överenskommelser.</li> <li>Arbetsmiljöfrågor inom området, däribland elsäkerhet, ergonomi, hörselvård, belysning, arbetstids- och arbetsmiljöregler.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MUSP2000X</h3>",
+      "code": "MUSP2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musikproduktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Musik och skapande</em></p> <ul> <li>Musikens uppbyggnad, begrepp, stil och form.</li> <li>Instrumentens ljudkaraktär och användningsområden inom valda genrer och ljudbilder.</li> <li>Spel på relevanta instrument och kontrollytor för valda områden.</li> <li>Arrangering för valda musikstilar.</li> <li>Ljudbild efter stil och genre. Experiment med olika ljudbilder utifrån valda områden.</li> <li>Planering och genomförande av musikaliska och konstnärliga produktionsprojekt, enskilt och tillsammans med andra.</li> <li>För- och efterarbete vid musikproduktioner i olika sammanhang, till exempel för mastring, publicering, distribution och sceniska arrangemang.</li> <li>Samverkan för valda områden.</li> </ul> <p><em>Ljud, teknik och hantering</em></p> <ul> <li>Ljudets egenskaper i olika lyssningsmiljöer. Ljudmätning och frekvensanalys.</li> <li>Ljuddesign för publik och scen, till exempel enklare beräkningar av ljudtryck och spridningsområde samt planering och val av utrustning.</li> <li>Bearbetning av ljud med relevant teknik för valda områden, till exempel sampling, midisignaler och kreativa ljudförändringar.</li> <li>Analog och digital teknik, till exempel digital signaldistribution, förinställning och intrimning av ljudutrustning samt annan angränsande utrustning.</li> <li>Koppling, synkronisering och styrning av instrument och ljudutrustning utifrån behov.</li> <li>Mixteknik för valt område.</li> <li>Felsökning, underhåll och enkla åtgärder av problem med musikteknisk utrustning.</li> </ul> <p><em>Arbetsmiljö, lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser inom valda musikproduktionsområden, till exempel vad gäller publicering och distribution. Nationella och internationella upphovsrättsliga regler.</li> <li>Arbetsmiljöfrågor, däribland elsäkerhet, ergonomi, hörselvård, belysning samt arbetstids- och arbetsmiljöregler inom valt musikproduktionsområde.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om musik, stildrag och instrument.</p> <p>Eleven skapar och arrangerar musik av <strong>godtagbar</strong> musikalisk och teknisk kvalitet och med ett konstnärligt uttryck.</p> <p>Eleven arbetar efter givna ramar och tar ansvar för sin roll i arbete med musikproduktion på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ljudlära och ljuddesign.</p> <p>Eleven bearbetar med <strong>viss</strong> skicklighet ljud med hjälp av musikteknisk utrustning.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för lagar och andra bestämmelser samt arbetsmiljöfrågor inom musikproduktion.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om musik, stildrag och instrument.</p> <p>Eleven skapar och arrangerar musik av <strong>god</strong> musikalisk och teknisk kvalitet och med ett konstnärligt uttryck.</p> <p>Eleven arbetar efter givna ramar och tar ansvar för sin roll i arbete med musikproduktion på ett <strong>fungerande</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ljudlära och ljuddesign.</p> <p>Eleven bearbetar med <strong>god</strong> skicklighet ljud med hjälp av musikteknisk utrustning.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för lagar och andra bestämmelser samt arbetsmiljöfrågor inom musikproduktion.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om musik, stildrag och instrument.</p> <p>Eleven skapar och arrangerar musik av <strong>mycket god</strong> musikalisk och teknisk kvalitet och med ett konstnärligt uttryck.</p> <p>Eleven arbetar efter givna ramar och tar ansvar för sin roll i arbete med musikproduktion på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ljudlära och ljuddesign.</p> <p>Eleven bearbetar med <strong>mycket god</strong> skicklighet ljud med hjälp av musikteknisk utrustning.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för lagar och andra bestämmelser samt arbetsmiljöfrågor inom musikproduktion.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.054Z"
+}

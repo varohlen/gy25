@@ -1,0 +1,92 @@
+{
+  "code": "HAST",
+  "name": "Hästkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:274",
+  "nameHeading": "<h2>Hästkunskap</h2>",
+  "description": "<p>Hästen har i dag ett stort värde för många människor och används i många olika sammanhang, till exempel inom hästsport, fritidsverksamhet och rehabilitering samt som arbetshäst inom natur- och landskapsvård. Ämnet hästkunskap behandlar hästen som biologisk varelse samt hästars beteenden och behov.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hästkunskap ska syfta till att eleverna utvecklar kunskaper för yrkesarbete som hästskötare. Den ska leda till att eleverna utvecklar förståelse av hästen som biologisk varelse samt förmåga att sköta och hantera hästar med utgångspunkt i djurets behov och välfärd. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika hästraser, deras exteriör och signalement samt om hästars byggnad, livsprocesser och rörelse. Den ska också bidra till att eleverna utvecklar förmåga att observera, iaktta och tolka hästars beteende, utveckling, välmående och hälsa. Eleverna ska därigenom ges möjlighet att utveckla ansvarskänsla och ett gott djuröga. I detta ingår att ta ställning i etiska frågor som rör djurens hälsa och välfärd samt att se och förstå hur djuren mår och vad de behöver.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med hästar på ett etiskt och säkert sätt och med utgångspunkt i djurets behov. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att sköta hästar i olika åldrar med yrkesmässigt arbetstempo samt att hantera hästar i varierande situationer och sammanhang och med ändamålsenliga arbetstekniker. Undervisningen ska också leda till att eleverna utvecklar förmåga att utfodra hästar med utgångspunkt i individuella och varierande behov. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om avel och uppfödning samt om hästars hälsa och sjukdomar. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur skador och ohälsa kan förebyggas.</p> <p>Undervisningen ska vidare bidra till att eleverna utvecklar kunskaper om arbetsmiljö och säkerhet samt förmåga att använda ergonomiskt och miljömässigt hållbara arbetsmetoder. Den ska också leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller djurhälsa och djurskydd.</p> <p>Praktiska övningar och praktiskt arbete ska ingå i undervisningen. Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla kunskaper om hästars exteriör och rörelse, fysiologi, genetik och avel. Genom stallturer och observationer i fält ska eleverna ges möjlighet att utveckla kunskaper om hästars beteende och hälsa.</p> <h5><em>Undervisningen i ämnet hästkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hästars anatomi och fysiologi samt om hästens rörelse.</li> <li>Förmåga att observera och tolka hästars utveckling, utseende och beteende.</li> <li>Förmåga att sköta och hantera hästar med utgångspunkt i djurets välfärd.</li> <li>Förmåga att utfodra hästar med utgångspunkt i deras näringsbehov.</li> <li>Kunskaper om skador, sjukdomar och smittspridning samt hur ohälsa kan förebyggas.</li> <li>Förmåga att arbeta säkert och miljömässigt hållbart i enlighet med lagar och andra bestämmelser som gäller arbete med hästar.</li> </ul><h3>Nivåer i ämnet hästkunskap</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HAST1000X</h3>",
+      "code": "HAST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hästkunskap på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Olika hästraser, deras exteriör och användningsområden.</li> <li>Signalement och färg samt förekomst och placering av tecken och virvlar.</li> <li>Rörelseapparaten, matsmältningsapparaten och grundläggande näringsfysiologi.</li> <li>Hästars ursprung, naturliga beteenden och behov.</li> <li>Olika fodermedel och grovfoderproduktion samt foderkvalitet och näringsinnehåll.</li> <li>Hästars vatten- och näringsbehov.</li> <li>Hästars hälsa och sjukdomar.</li> <li>Smittämnen, smittspridning och immunförsvar samt parasiter och parasitbekämpning.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Stallturer för visitering av hästar samt tolkning av djurets beteenden och rörelsemönster.</li> <li>Arbete med dagliga skötselrutiner, till exempel rykt, hovskötsel, foderhantering och iordningställande av ströbäddar.</li> <li>Skötsel och hantering av hästar med utgångspunkt i djurets välfärd.</li> <li>Samspel med hästar i samband med visning av häst vid hand.</li> <li>Tolkning av foderstater och utfodring av hästar.</li> <li>Förebyggande hälsovård, till exempel iakttagelser samt kontroll av kroppstemperatur, andning och puls.</li> <li>Enklare vårduppgifter vid sjukdomstillstånd, såsom sjukbandagering och enklare sårvård.</li> <li>Hygien- och smittskyddsrutiner i samband med aktuella arbetsuppgifter.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Säkerhetsrutiner och säker hantering av hästar.</li> <li>Frågor om ergonomi, arbetsmiljö och säkerhet i samband med hästhantering och hästskötsel samt hur val av arbetsmetoder kan främja ett långsiktigt hållbart arbetsliv.</li> <li>Resurseffektivitet och miljöhänsyn.</li> <li>Lagar och andra bestämmelser i samband med hästskötsel, till exempel djurskyddslagstiftning, arbetsmiljölagstiftning och miljölagstiftning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HAST2000X</h3>",
+      "code": "HAST2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hästkunskap på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Hästens kroppsbyggnad och naturliga rörelsemönster.</li> <li>Hovens uppbyggnad och funktion. Sjukdomar och sjukdomssymtom i hoven.</li> <li>Belastning och slitage på hoven. Olika typer av skor och hur de används.</li> <li>Hästens fysiologi innefattande andning, blodcirkulation, fodersmältning och energiomvandling.</li> <li>Reproduktionsbiologi samt brunstcykeln hos sto.</li> <li>Avelsvärde, arvbarhet och nedärvning.</li> <li>Typiska beteenden hos hästar och evolutionära orsaker till dessa beteenden.</li> <li>Olika fodermedel, deras egenskaper och användning. Metoder för att bedöma foderkvalitet och näringsvärde.</li> <li>Hästars näringsbehov: underhållsbehov och tillägg.</li> <li>Metoder för bedömning av hälsostatus, till exempel blod- och träckprov, palpation och böjprov.</li> <li>Vanliga skador och sjukdomar samt behandlingsmetoder.</li> <li>Mikroorganismer och deras betydelse för djurhälsa och djursjukdomar.</li> <li>Antibiotikaanvändning och antibiotikaresistens.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Stallturer för visitering av hästar samt bedömning av djurets utveckling och välmående.</li> <li>Planering och genomförande av häst- och stallskötsel utifrån dags-, vecko- och årsrutiner.</li> <li>Hantering av hästar i olika åldrar och i olika situationer på ett etiskt sätt. Samspel och bedömning av olika reaktioner utifrån hästars naturliga beteende och individuella förutsättningar.</li> <li>Iordningställande av hästar för transport samt säker lastning av häst.</li> <li>Åtgärdande av tappsko: avtagning av skon, raspning av hoven och påslagning av skon.</li> <li>Visning av häst vid hand samt longering vid veterinärbesiktning.</li> <li>Hullbedömning samt upprättande av foderstat.</li> <li>Vårduppgifter och arbete med rehabiliteringsåtgärder.</li> <li>Hygien- och smittskyddsrutiner i samband med aktuella arbetsuppgifter.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Frågor om ergonomi, arbetsmiljö och säkerhet i samband med aktuella arbetsuppgifter innefattande riskbedömning och förebyggande åtgärder.</li> <li>Säkerhet och förberedelser i samband med skoning.</li> <li>Resurseffektivitet och miljöhänsyn.</li> <li>Lagar och andra bestämmelser i samband med hästskötsel.</li> <li>Bestämmelser om behandlingsförbud på djur.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HAST3000X</h3>",
+      "code": "HAST3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hästkunskap på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Hästens anatomi och fysiologi innefattande bland annat nerv- och organsystem.</li> <li>Hästens rörelse samt temperaturkontroll.</li> <li>Avvikelser från naturliga rörelsemönster och vanliga orsaker.</li> <li>Hästens arbete samt frågor om hållbarhet och prestation.</li> <li>Betäckning, befruktning, dräktighet och fölning samt eventuella komplikationer i samband med detta.</li> <li>Exteriörbedömning, exteriöra avvikelser och avelsvärdering.</li> <li>Foderinventering och foderanalys samt hästars krav på vattenkvalitet.</li> <li>Vätske- och näringsbehov hos hästar i olika åldrar samt behov av tillägg, till exempel för dräktiga ston eller högpresterande hästar.</li> <li>Skador hos hästar och deras orsaker samt förebyggande åtgärder och rehabilitering.</li> <li>Medicinering och dopningsklassade läkemedel samt karenstider och förvaring.</li> <li>Medicinsk-etiska bedömningar samt frågor om avlivning av hästar.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Observationer av hästar i olika åldrar, miljöer och flocksammansättningar samt identifiering av avvikande beteenden och bedömning av orsaker.</li> <li>Yrkesmässigt arbete och arbetstempo med planering, skötsel och hantering av hästar av olika ålder, ras, karaktär och temperament.</li> <li>Djurskydd och etiska ställningstaganden i samband med hästhantering och hästskötsel.</li> <li>Visning av häst vid hand i samband med avelsvärdering och bedömning.</li> <li>Foderstatsberäkning och planering av utfodringsstrategier.</li> <li>Journalföring och rapportering i digitala system.</li> <li>Systematiskt smittskyddsarbete i häststallar samt dokumentation och uppföljning av åtgärder.</li> <li>Hygien- och smittskyddsrutiner i samband med aktuella arbetsuppgifter.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi i samband med aktuella arbetsuppgifter.</li> <li>Systematiskt arbetsmiljöarbete, till exempel riskbedömningar, åtgärder och uppföljning.</li> <li>Säkerhetsrutiner i samband med hantering av hingstar.</li> <li>Resurseffektivitet och miljöhänsyn.</li> <li>Regelverk om registrering och märkning av hästar samt hästpass.</li> <li>Lagar och andra bestämmelser i samband med hästskötsel.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hästars anatomi, fysiologi och rörelse.</p> <p>Eleven observerar hästars rörelse, utseende och beteende samt drar <strong>enkla</strong> slutsatser om hästarnas kondition och välbefinnande.</p> <p>Eleven planerar sitt arbete och hanterar och sköter med <strong>visst</strong> handlag hästar på ett etiskt och ansvarsfullt sätt. I arbetet gör eleven <strong>enkla</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras och löser de problem som uppstår med <strong>enkla</strong> strategier.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika fodermedel och deras näringsinnehåll och utfodrar med <strong>viss säkerhet</strong> hästar med utgångspunkt i deras näringsbehov.</p> <p>Eleven redogör <strong>översiktligt</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas. Eleven ger <strong>enkla</strong> förslag på förebyggande åtgärder för att undvika skador och smittspridning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hästars anatomi, fysiologi och rörelse.</p> <p>Eleven observerar hästars rörelse, utseende och beteende samt drar <strong>välgrundade</strong> slutsatser om hästarnas kondition och välbefinnande.</p> <p>Eleven planerar sitt arbete och hanterar och sköter med <strong>gott</strong> handlag hästar på ett etiskt och ansvarsfullt sätt. I arbetet gör eleven <strong>välgrundade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras och löser de problem som uppstår med <strong>utvecklade</strong> strategier.</p> <p>Eleven redogör <strong>utförligt</strong> för olika fodermedel och deras näringsinnehåll och utfodrar med <strong>säkerhet</strong> hästar med utgångspunkt i deras näringsbehov.</p> <p>Eleven redogör <strong>utförligt</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas. Eleven ger <strong>välgrundade</strong> förslag på förebyggande åtgärder för att undvika skador och smittspridning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hästars anatomi, fysiologi och rörelse.</p> <p>Eleven observerar hästars rörelse, utseende och beteende samt drar <strong>välgrundade och nyanserade</strong> slutsatser om hästarnas kondition och välbefinnande.</p> <p>Eleven planerar sitt arbete och hanterar och sköter med <strong>mycket gott</strong> handlag hästar på ett etiskt och ansvarsfullt sätt. I arbetet gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras och löser de problem som uppstår med <strong>välutvecklade</strong> strategier.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika fodermedel och deras näringsinnehåll och utfodrar med <strong>god säkerhet</strong> hästar med utgångspunkt i deras näringsbehov.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för skador och sjukdomar hos hästar samt för hur de kan förebyggas. Eleven ger <strong>välgrundade och nyanserade</strong> förslag på förebyggande åtgärder för att undvika skador och smittspridning.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.016Z"
+}

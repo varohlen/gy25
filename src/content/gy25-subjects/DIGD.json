@@ -1,0 +1,77 @@
+{
+  "code": "DIGD",
+  "name": "Digital design",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:535",
+  "nameHeading": "<h2>Digital design</h2>",
+  "description": "<p>Ämnet digital design handlar om kommunikation och människans upplevelse av interaktion och samspel med digitala artefakter, system, tjänster och marknadsföring. Digital design utgår från förståelse av människans behov och teknikens möjligheter i skapande av digitala lösningar och målgruppsanpassade upplevelser. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet digital design ska syfta till att eleverna utvecklar kunskaper om hur digitalt designade upplevelser skapas och är uppbyggda för att möta användares behov och önskemål. Undervisningen ska även bidra till att eleverna utvecklar förståelse av hur digital design samspelar med människa och samhälle på olika sätt.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utforma målgruppsanpassade digitala designprototyper. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i projektform där processens olika delar behandlas, från datainsamling och användarstudier till projektplan, skisser, konceptutveckling och prototyper för testning och utvärdering.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet, innovationstänkande och problemlösningsförmåga. På så vis ska eleverna ges möjlighet att utveckla förmåga att undersöka, visualisera, skapa, testa och utvärdera designförslag. Undervisningen ska även ge utrymme för diskussion om och reflektion över etiska frågor som gäller digital design och hur den kan utformas och anpassas för att möta olika användare.</p> <h5><em>Undervisningen i ämnet digital design ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om digitalt designade användarupplevelser.</li> <li>Förmåga att planera, genomföra och utvärdera digitala designprojekt.</li> <li>Förmåga att utforma målgruppsanpassade designprototyper.</li> </ul><h3>Nivåer i ämnet digital design</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DIGD100TX</h3>",
+      "code": "DIGD100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digital design på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Digital design</em></p> <ul> <li>Orientering i aktuella områden inom digital design, till exempel UI (user interface), UX (user experience), interaktionsdesign, speldesign, tjänstedesign, gränssnittsdesign och digital marknadsföring.</li> <li>Faktorer som skapar en god användarupplevelse.</li> <li>Människans förutsättningar att tolka, förstå och interagera med digital design.</li> <li>Olika delar i den digitala designprocessen och dess verksamma yrkesroller.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul> <p><em>Metoder</em></p> <ul> <li>Metoder för att genomföra, tolka och utvärdera användarstudier.</li> <li>Projektmetodik för arbete inom digital design.</li> <li>Tidsramar och samarbetsformer i digitala designprojekt.</li> <li>Utvärdering av designprojektets resultat.</li> </ul> <p><em>Visualisering</em></p> <ul> <li>Digitala verktyg och program för att skapa digital design och prototyper.</li> <li>Grafiska och digitala designprinciper för att skapa målgruppsanpassade digitala upplevelser.</li> <li>Verktyg och metoder för användartester.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DIGD200TX</h3>",
+      "code": "DIGD200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet digital design på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Digital design</em></p> <ul> <li>Fördjupning i valt område inom digital design. Områdets utveckling och koppling till teknisk och hållbar utveckling, såväl ekonomisk, som social och miljömässig.</li> <li>Analys och tillämpning av faktorer som skapar en god användarupplevelse inom valt fördjupningsområde.</li> <li>Samspel mellan olika aktörer och yrkesroller inom valt fördjupningsområde.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul> <p><em>Metoder</em></p> <ul> <li>Tillämpning av metoder för att genomföra, tolka och utvärdera användarstudier inom valt fördjupningsområde.</li> <li>Projektering inom valt fördjupningsområde samt kvalitetssäkring i processen.</li> <li>Ramar och begränsningar i arbetet, däribland tidsramar och ekonomiska begränsningar och hur de kan påverka resultatet.</li> </ul> <p><em>Visualisering</em></p> <ul> <li>Tillämpning av digitala verktyg och program för att skapa digital design och prototyper anpassade för valt fördjupningsområde.</li> <li>Grafiska och digitala designprinciper anpassade till valt fördjupningsområde.</li> <li>Användartester inom valt fördjupningsområde.</li> <li>Arbete inom och utformning av digital design inom valt fördjupningsområde.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven resonerar om digitalt designade användarupplevelser på ett <strong>övergripande</strong> sätt.</p> <p>Eleven planerar och genomför digitala designprojekt på ett <strong>strukturerat</strong> sätt och gör <strong>enkla</strong> utvärderingar av digitala designprojekt.</p> <p>Eleven utformar målgruppsanpassade digitala designprototyper med <strong>viss</strong> skicklighet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven resonerar om digitalt designade användarupplevelser på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven planerar och genomför digitala designprojekt på ett <strong>välstrukturerat</strong> sätt och gör <strong>välgrundade</strong> utvärderingar av digitala designprojekt.</p> <p>Eleven utformar målgruppsanpassade digitala designprototyper med <strong>god</strong> skicklighet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven resonerar om digitalt designade användarupplevelser på ett <strong>välutvecklat och nyanserat</strong> sätt.</p> <p>Eleven planerar och genomför digitala designprojekt på ett <strong>välstrukturerat och effektivt</strong> sätt och gör <strong>välgrundade och nyanserade</strong> utvärderingar av digitala designprojekt.</p> <p>Eleven utformar målgruppsanpassade digitala designprototyper med <strong>mycket god</strong> skicklighet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.983Z"
+}

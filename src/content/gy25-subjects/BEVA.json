@@ -1,0 +1,64 @@
+{
+  "code": "BEVA",
+  "name": "Bevarandebiologi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:174",
+  "nameHeading": "<h2>Bevarandebiologi</h2>",
+  "description": "<p>Ämnet bevarandebiologi behandlar den biologi som har betydelse för arbete med bevarandefrågor inom naturbrukets verksamheter. Centralt i ämnet är artkunskap, biologisk mångfald och hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bevarandebiologi ska syfta till att eleverna utvecklar kunskaper om bevarandefrågor och biologisk mångfald. Den ska leda till att eleverna utvecklar förståelse av naturbrukets påverkan på ekosystemen och hur hållbar utveckling kan främjas genom olika typer av bevarandearbete. Undervisningen ska bidra till att eleverna utvecklar förmåga att genomföra biotopinventeringar samt att beskriva och artbestämma växter och djur i olika biotoper. Den ska också leda till att eleverna utvecklar kunskaper om sambandet mellan biologisk mångfald och hållbar utveckling. Undervisningen ska vidare bidra till att eleverna utvecklar kunskaper om hotade arter och deras biotopkrav samt hur naturbrukets verksamheter påverkar den biologiska mångfalden. Genom undervisningen ska eleverna ges möjlighet att tillägna sig en gemensam referensram för hållbarhetsfrågor genom globala perspektiv såväl som praktiskt arbete med bevarandefrågor på lokal nivå. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som rör bevarandefrågor samt om nationella och internationella samarbeten och bevarandeprojekt.</p> <p>Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt tänkande och en biologisk förståelse av djur och växter. Praktiska övningar i undervisningen samt observationer och fältstudier ska bidra till att eleverna utvecklar kunskaper om växternas och djurens naturliga habitat och livsvillkor. Genom informationssökning i samband med fältstudier ska eleverna ges möjlighet att utveckla kunskaper om olika arter och biologisk mångfald.</p> <h5><em>Undervisningen i ämnet bevarandebiologi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att identifiera, beskriva och namnge växt- och djurarter inom naturbruket samt genomföra biotopinventeringar och annat bevarandearbete.</li> <li>Kunskaper om biologisk mångfald och hållbar utveckling.</li> <li>Kunskaper om hotade arter och genbanker samt om naturbrukets betydelse för den biologiska mångfalden.</li> <li>Kunskaper om myndigheter och organisationer av betydelse för bevarandearbetet samt lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet bevarandebiologi</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BEVA1000X</h3>",
+      "code": "BEVA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bevarandebiologi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Artbegreppet och artkännedom, däribland svenska och vetenskapliga namn.</li> <li>Olika växt- och djurarter, utrotningshotade växt- och djurarter samt systematik.</li> <li>Artinventering i olika biotoper.</li> <li>Begreppet ekosystemtjänster.</li> <li>Vild och odlad mångfald samt betydelsen av genetisk variation.</li> <li>Etiska ställningstaganden i samband med bevarande av olika arter, till exempel genteknik eller biotopförändringar.</li> <li>Biotopkrav, utbredning och hemområden för utrotningshotade djurarter.</li> <li>Beteendeekologi.</li> <li>Naturbrukets påverkan på utrotningshotade arter och biologisk mångfald.</li> <li>Metoder för att bevara utrotningshotade arter.</li> <li>Bevarandearbete inom ett eller flera fördjupningsområden, till exempel djurparkers bevarandeprogram och biotoprestaurering.</li> <li>Odlingslandskapets och betesdjurens betydelse för biologisk mångfald.</li> <li>Bevarandefrågor i samband med skogsskötsel och rödlistade arter.</li> <li>Lagar och andra bestämmelser inom området, däribland miljöbalken.</li> <li>Internationella överenskommelser, däribland regler som begränsar handel med utrotningshotade arter.</li> <li>Myndigheter och organisationer som arbetar med frågor om utrotningshotade arter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven genomför biotopinventeringar och identifierar och namnger med <strong>viss säkerhet</strong> växt- och djurarter. Dessutom beskriver eleven den aktuella biotopens karaktär och förklarar dess artsammansättning med <strong>delvis</strong> underbyggda resonemang.</p> <p>Eleven redogör <strong>översiktligt</strong> för sambandet mellan biologisk mångfald och hållbar utveckling.</p> <p>Eleven redogör <strong>översiktligt</strong> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven beskriver också <strong>översiktligt</strong> olika metoder för att bevara arter och genetiskt material.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området samt åtgärder för bevarande av utrotningshotade arter som myndigheter och organisationer av betydelse genomför.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven genomför biotopinventeringar och identifierar och namnger med <strong>säkerhet</strong> växt- och djurarter. Dessutom beskriver eleven den aktuella biotopens karaktär och förklarar dess artsammansättning med <strong>väl</strong> underbyggda resonemang.</p> <p>Eleven redogör <strong>utförligt</strong> för sambandet mellan biologisk mångfald och hållbar utveckling.</p> <p>Eleven redogör <strong>utförligt</strong> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven beskriver också <strong>utförligt</strong> olika metoder för att bevara arter och genetiskt material.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området samt åtgärder för bevarande av utrotningshotade arter som myndigheter och organisationer av betydelse genomför.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven genomför biotopinventeringar och identifierar och namnger med <strong>god säkerhet</strong> växt- och djurarter. Dessutom beskriver eleven den aktuella biotopens karaktär och förklarar dess artsammansättning med <strong>mycket väl</strong> underbyggda resonemang.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för sambandet mellan biologisk mångfald och hållbar utveckling.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven beskriver också <strong>utförligt och nyanserat</strong> olika metoder för att bevara arter och genetiskt material.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området samt åtgärder för bevarande av utrotningshotade arter som myndigheter och organisationer av betydelse genomför.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.972Z"
+}

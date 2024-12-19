@@ -1,0 +1,64 @@
+{
+  "code": "BROD",
+  "name": "Brödbaserade caféluncher",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:181",
+  "nameHeading": "<h2>Brödbaserade caféluncher</h2>",
+  "description": "<p>Ämnet brödbaserade caféluncher behandlar hantverksmässiga metoder för att framställa olika typer av lunchrätter med brödet i fokus. Hur råvaror och andra produkter kan användas, kombineras och beredas till lunchrätter ingår i ämnet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet brödbaserade caféluncher ska syfta till att eleverna utvecklar förmåga att yrkesmässigt tillverka brödbaserade lunchrätter. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera, organisera och utföra arbetet. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att följa recept, välja och hantera råvaror samt utveckla kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten. Undervisningen ska också bidra till att eleverna utvecklar förmåga att skapa estetiskt och sensoriskt tilltalande produkter.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att bemöta kunders och gästers önskemål och behov på ett serviceinriktat sätt. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om olika typer av cafélunchers historia och traditioner.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och lust att lära, till exempel genom diskussioner och resonemang om arbetet och frågor om etik och hållbarhet. Dessutom ska undervisningen bidra till att eleverna utvecklar kreativitet och problemlösningsförmåga samt förmåga att organisera, planera och utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet brödbaserade caféluncher ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och organisera tillverkning av brödbaserade caféluncher.</li> <li>Förmåga att tillverka brödbaserade caféluncher.</li> <li>Förmåga att samarbeta och att hantera olika servicesituationer.</li> </ul><h3>Nivåer i ämnet brödbaserade caféluncher</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet bageri.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BROD1000X</h3>",
+      "code": "BROD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet brödbaserade caféluncher på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisation av arbete med caféluncher, däribland hållbarhetsfrågor och ekonomi.</li> <li>Receptberäkningar och ekonomiska kalkyler.</li> <li>Cafélunchens historia och traditioner.</li> <li>Arbetsgången på ett café.</li> <li>Lämpliga råvaror, redskap, maskiner och annan utrustning.</li> <li>Arbetsbeskrivningar, däribland recept.</li> <li>Råvaror och andra ingredienser.</li> <li>Tillverkning av enklare kalla och varma brödbaserade caféluncher, med fokus på både smak och utseende, däribland pizzor, piroger, pajer, wraps och smörgåstårtor.</li> <li>Allergi- och specialkost samt kostval. Risker vid felaktig hantering.</li> <li>Exponering, uppläggning, paketering och märkning.</li> <li>Samarbete, service och personlig försäljning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar med <strong>viss säkerhet</strong> tillverkning av brödbaserade caféluncher.</p> <p>Eleven tillverkar med <strong>viss säkerhet</strong> brödbaserade caféluncher.</p> <p>Eleven samarbetar och hanterar olika servicesituationer med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar med <strong>säkerhet</strong> tillverkning av brödbaserade caféluncher.</p> <p>Eleven tillverkar med <strong>säkerhet</strong> brödbaserade caféluncher.</p> <p>Eleven samarbetar och hanterar olika servicesituationer med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar med <strong>god säkerhet</strong> tillverkning av brödbaserade caféluncher.</p> <p>Eleven tillverkar med <strong>god säkerhet</strong> brödbaserade caféluncher.</p> <p>Eleven samarbetar och hanterar olika servicesituationer med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.974Z"
+}

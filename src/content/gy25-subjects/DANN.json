@@ -1,0 +1,63 @@
+{
+  "code": "DANN",
+  "name": "Dansteknisk breddning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:573",
+  "nameHeading": "<h2>Dansteknisk breddning</h2>",
+  "description": "<p>Ämnet dansteknisk breddning är till sin karaktär scenkonstnärligt och behandlar dansteknik i andra genrer än klassisk balett och samtida dans. Ämnet får bara anordnas på yrkesdansarutbildningen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dansteknisk breddning ska syfta till att eleverna utvecklar grundläggande danstekniska färdigheter i andra genrer än klassisk balett och samtida dans. Genom kontinuerlig träning ska eleverna ges möjlighet att utveckla färdigheter i anatomiskt funktionell rörelse och placering samt i nyanserade rörelsekvaliteter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla spatial och musikalisk lyhördhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla ett problemlösande förhållningssätt och förmåga att reflektera över sin egen kunskapsutveckling. På så sätt ska eleverna få verktyg för att kunna ta ansvar för sitt danstekniska lärande. Undervisningen ska även ge eleverna möjlighet att arbeta konstnärligt på ett sätt som förbereder för dansaryrket.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att kommunicera med dansens begrepp och vokabulär. Dessutom ska undervisningen betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <h4><em>Undervisningen i ämnet dansteknisk breddning ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ul> <li>Färdigheter i att tillämpa dansteknik i andra genrer än klassisk balett och samtida dans.</li> <li>Förmåga att anpassa sin dans till dynamik, rörelsevokabulär, musikaliska aspekter och rum.</li> <li>Förmåga att tillämpa den danstekniska träningsprocessens olika delar.</li> <li>Förmåga att reflektera över sin egen kunskapsutveckling.</li> </ul><h3>Nivåer i ämnet dansteknisk breddning</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DANN100DX</h3>",
+      "code": "DANN100DX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><em>Undervisningen i ämnet dansteknisk breddning på nivå 1 ska behandla följande centrala innehåll:</em></h4> <ul> <li>Grundläggande dansteknik samt rörelsevokabulär inom andra genrer än klassisk balett och samtida dans, däribland jazzdans.</li> <li>Dansens relation till och samspel med musik, både levande och inspelad. Att i dansen uppfatta och förhålla sig till musikens rytm, puls, taktarter och fraser.</li> <li>Träning av spatial förmåga, i relation till andra medverkande och rummet.</li> <li>Den danstekniska träningsprocessens delar, däribland förberedelse, uppvärmning, memorering av rörelser och återkoppling.</li> <li>Den danstekniska träningsprocessens betydelse för dansteknisk utveckling.</li> <li>Träning av uthållighet och koncentration.</li> <li>Reflektion över den egna dansutvecklingen.</li> <li>Återkoppling och problemlösande arbetssätt.</li> <li>Yrkesmässigt förhållningssätt till dansteknisk träning.</li> <li>Ämnesspecifika begrepp och vokabulär i jazzdans och ytterligare genrer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven tillämpar med <strong>godtagbart</strong> resultat dansteknik inom andra genrer än klassisk balett och samtida dans.</p> <p>Eleven anpassar med <strong>viss säkerhet</strong> sin dans till dynamik, rörelsevokabulär, musik och rum.</p> <p>Eleven genomför den danstekniska träningen med <strong>godtagbart</strong> resultat. I samband med detta beskriver eleven på ett <strong>enkelt</strong> sätt den danstekniska träningsprocessens betydelse för den egna dansutvecklingen.</p> <p>Eleven bedömer sina utvecklingsbehov samt prövar och omprövar på ett <strong>i huvudsak fungerande</strong> sätt olika metoder som kan vara av betydelse för att förbättra resultatet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven tillämpar med <strong>gott</strong> resultat dansteknik inom andra genrer än klassisk balett och samtida dans.</p> <p>Eleven anpassar med <strong>säkerhet</strong> sin dans till dynamik, rörelsevokabulär, musik och rum.</p> <p>Eleven genomför den danstekniska träningen med <strong>gott</strong> resultat. I samband med detta beskriver eleven på ett <strong>utvecklat</strong> sätt den danstekniska träningsprocessens betydelse för den egna dansutvecklingen.</p> <p>Eleven bedömer sina utvecklingsbehov samt prövar och omprövar på ett <strong>fungerande</strong> sätt olika metoder som kan vara av betydelse för att förbättra resultatet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven tillämpar med <strong>mycket gott</strong> resultat dansteknik inom andra genrer än klassisk balett och samtida dans.</p> <p>Eleven anpassar med <strong>god säkerhet</strong> sin dans till dynamik, rörelsevokabulär, musik och rum.</p> <p>Eleven genomför den danstekniska träningen med <strong>mycket gott</strong> resultat. I samband med detta beskriver eleven på ett <strong>välutvecklat</strong> sätt den danstekniska träningsprocessens betydelse för den egna dansutvecklingen.</p> <p>Eleven bedömer sina utvecklingsbehov samt prövar och omprövar på ett <strong>väl fungerande</strong> sätt olika metoder som kan vara av betydelse för att förbättra resultatet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.981Z"
+}

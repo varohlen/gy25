@@ -1,0 +1,64 @@
+{
+  "code": "INTN",
+  "name": "Internationellt arbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:15",
+  "nameHeading": "<h2>Internationellt arbete</h2>",
+  "description": "<p>Ämnet internationellt arbete är till sin karaktär tvärvetenskapligt med innehåll från filosofi, sociologi, vårdvetenskap, religionskunskap och samhällskunskap. Det behandlar de kulturella, etiska och sociala mönster som präglar människans liv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet internationellt arbete ska syfta till att eleverna utvecklar kunskaper om vård och omsorg, dess organisation och arbete ur ett internationellt perspektiv samt om vanliga hälsoproblem i olika länder. Eleverna ska också ges möjlighet att utveckla kunskaper om människan och hennes livslopp utifrån sociala, kulturella och existentiella aspekter vid hälsa, ohälsa och funktionsnedsättning. Undervisningen ska bidra till att eleverna utvecklar kunskaper för att kunna arbeta med patienter och brukare från olika kulturer både i Sverige och i andra länder. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om internationella överenskommelser, biståndsorganisationer och olika former av biståndsarbete.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att möta människor i olika situationer och sammanhang. Eleverna ska också ges möjlighet att diskutera frågor som rör jämställdhet, demokrati och de mänskliga rättigheterna. Med etiken som utgångspunkt ska frågor om människovärde och människosyn, som kan knytas till yrkesområdet, behandlas i undervisningen. Därigenom ska eleverna stimuleras till nyfikenhet, engagemang och deltagande i öppna meningsutbyten om etiska och existentiella frågor. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet internationellt arbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur kultur och livsåskådningar påverkar vård- och omsorgsarbetet och dess organisation.</li> <li>Kunskaper om vård och omsorg samt om vanliga hälsoproblem ur ett internationellt perspektiv.</li> <li>Kunskaper om internationella överenskommelser, biståndsorganisationer och biståndsarbete.</li> <li>Förmåga att bemöta och kommunicera med människor i olika sociala och kulturella sammanhang.</li> </ul><h3>Nivåer i ämnet internationellt arbete</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INTN1000X</h3>",
+      "code": "INTN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet internationellt arbete på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vård och omsorg i olika länder. Hur kulturer, normer och värderingar påverkar synen på hälsa, ohälsa, funktionsnedsättning, medicinsk behandling, vård och omsorg samt liv och död.</li> <li>Sociala aspekter och genusaspekter på hälsa och välbefinnande i olika länder.</li> <li>Olika länders organisation av vård och omsorg, till exempel gällande personalkategorier och utbildning.</li> <li>Vanliga hälsoproblem i några olika länder, till exempel undernäring och infektionssjukdomar.</li> <li>Hälsoproblem orsakade av krig, olika katastrofer och brist på rent vatten.</li> <li>Hur internationella överenskommelser, biståndsorganisationer och biståndsarbete fungerar i några delar av världen.</li> <li>Kommunikation, bemötande och förhållningssätt.</li> <li>Det egna förhållningssättet och den egna rollen i mötet med patienter och brukare.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur kultur, normer och värderingar kan påverka vård- och omsorgsarbetet och dess organisation.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om vård och omsorg och dess organisation ur ett internationellt perspektiv. Dessutom beskriver eleven <strong>översiktligt</strong> några hälsoproblem ur ett internationellt perspektiv.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om internationella överenskommelser och biståndsorganisationer samt hur biståndsarbete fungerar i några delar av världen.</p> <p>Eleven bemöter och kommunicerar med människor i olika sociala och kulturella sammanhang på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur kultur, normer och värderingar kan påverka vård- och omsorgsarbetet och dess organisation.</p> <p>Eleven visar <strong>goda</strong> kunskaper om vård och omsorg och dess organisation ur ett internationellt perspektiv. Dessutom beskriver eleven <strong>utförligt</strong> några hälsoproblem ur ett internationellt perspektiv.</p> <p>Eleven visar <strong>goda</strong> kunskaper om internationella överenskommelser och biståndsorganisationer samt hur biståndsarbete fungerar i några delar av världen.</p> <p>Eleven bemöter och kommunicerar med människor i olika sociala och kulturella sammanhang på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur kultur, normer och värderingar kan påverka vård- och omsorgsarbetet och dess organisation.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om vård och omsorg och dess organisation ur ett internationellt perspektiv. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> några hälsoproblem ur ett internationellt perspektiv.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om internationella överenskommelser och biståndsorganisationer samt hur biståndsarbete fungerar i några delar av världen.</p> <p>Eleven bemöter och kommunicerar med människor i olika sociala och kulturella sammanhang på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.025Z"
+}

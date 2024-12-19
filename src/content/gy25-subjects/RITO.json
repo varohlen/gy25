@@ -1,0 +1,63 @@
+{
+  "code": "RITO",
+  "name": "Rit- och mätningsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:565",
+  "nameHeading": "<h2>Rit- och mätningsteknik</h2>",
+  "description": "<p>Ämnet rit- och mätningsteknik behandlar ritningar för bygg- och anläggningsprojekt och de olika dokument som används i byggprocessen. Det behandlar också geodesi, mätmetoder och grundläggande mätningsteknik för byggproduktion. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet rit- och mätningsteknik ska syfta till att eleverna utvecklar kunskaper om hur olika beskrivningar och ritningar är utformade för bygg- och anläggningsprojekt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika mätmetoder och om hur mätningsteknisk information används i byggprojekt samt förmåga att utföra mätningstekniska arbetsuppgifter.</p> <p>Undervisningen ska bidra till att eleverna utvecklar färdigheter i att använda mätredskap och mätinstrument i byggprojekt, både för utomhus- och inomhusmätning. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att använda vanligt förekommande begrepp och metoder inom det mättekniska området.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda tekniska ritningar och annan dokumentation i byggprojekt samt färdigheter i att, med hjälp av digitala verktyg, ta fram ritningar och underlag.</p> <p>Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt samt att diskutera om och reflektera över etiska frågor, den egna rollen och delaktigheten samt olika handlingsalternativ inom hållbart byggande.</p> <h5><em>Undervisningen i ämnet rit- och mätningsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om ritningar för bygg- och anläggningsprojekt samt om andra dokument som används i byggprocessen.</li> <li>Kunskaper om utsättning och inmätning av hus, vägar och anläggningar.</li> <li>Kunskaper om mätmetoder för byggnaders inomhusmiljö.</li> <li>Förmåga att använda och utforma tekniska ritningar och annan mätningsteknisk dokumentation.</li> <li>Förmåga att använda mätredskap och mätinstrument i byggprojekt.</li> </ul><h3>Nivåer i ämnet rit- och mätningsteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RITO100TX</h3>",
+      "code": "RITO100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet rit- och mätningsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Mätteknik</em></p> <ul> <li>Geodesins grundbegrepp, till exempel satellitmätning, kartprojektioner, stomnät, transformationer och plan- och höjdmätning.</li> <li>Mätutrustning, till exempel totalstation, laser och gps.</li> <li>Centrala begrepp inom området, till exempel kartprojektion, fukthalt, fuktkvot, ljudnivå, ljuddämpning, temperatur och värmemotstånd.</li> <li>Mätutrustning för fukt, akustik, lufttäthet och energiegenskaper, till exempel värmekamera och fuktkvotmätare.</li> <li>Hur utsättning och inmätning av byggnader, vägar och anläggningar går till.</li> <li>Hur mätmetoder för bygg- och anläggningsbranschen används.</li> <li>Toleranskrav inom bygg- och anläggningsbranschen.</li> <li>Enkla redskap, till exempel snörslå, tumstock och måttband.</li> <li>Mätutrustning, till exempel lasermätare, värmekamera och fuktkvotsmätare.</li> </ul> <p><em>Ritteknik</em></p> <ul> <li>Ritteknik i cad (computer aided design) och ritningsläsning för områdena bygg, el och VVS.</li> <li>Beskrivningsteknik. Slutproduktens beskrivning, däribland rambeskrivning, byggbeskrivning, rumsbeskrivning och markbeskrivning kopplat till AMA-systemet.</li> <li>Teknisk beskrivning och klassifikationssystem.</li> <li>Mätteknisk information som underlag för byggtekniska ritningar.</li> <li>Bygg- och utsättningstoleranser inom bygg- och anläggningsbranschen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om ritningar för bygg- och anläggningsprojekt samt om andra dokument som används i byggprocessen.</p> <p>Eleven beskriver <strong>övergripande</strong> hur utsättning och inmätning av hus, vägar och anläggningar sker med hjälp av vald mätmetod.</p> <p>Eleven redogör <strong>övergripande</strong> för mätmetoder av byggnaders inomhusmiljö.</p> <p>Eleven använder och utformar byggtekniska ritningar med <strong>säkerhet</strong> samt dokumenterar mätningstekniska uppgifter på ett <strong>fungerande</strong> sätt.</p> <p>Eleven använder med <strong>säkerhet</strong> mätredskap och mätinstrument i byggprojekt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om ritningar för bygg- och anläggningsprojekt samt om andra dokument som används i byggprocessen.</p> <p>Eleven beskriver <strong>utförligt</strong> hur utsättning och inmätning av hus, vägar och anläggningar sker med hjälp av vald mätmetod.</p> <p>Eleven redogör <strong>utförligt</strong> för mätmetoder av byggnaders inomhusmiljö.</p> <p>Eleven använder och utformar byggtekniska ritningar med <strong>god säkerhet</strong> samt dokumenterar mätningstekniska uppgifter på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven använder med <strong>god säkerhet</strong> mätredskap och mätinstrument i byggprojekt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om ritningar för bygg- och anläggningsprojekt samt om andra dokument som används i byggprocessen.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur utsättning och inmätning av hus, vägar och anläggningar sker med hjälp av vald mätmetod.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för mätmetoder av byggnaders inomhusmiljö.</p> <p>Eleven använder och utformar byggtekniska ritningar med <strong>mycket god säkerhet</strong> samt dokumenterar mätningstekniska uppgifter på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven använder med <strong>mycket god säkerhet</strong> mätredskap och mätinstrument i byggprojekt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.073Z"
+}

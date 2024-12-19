@@ -1,0 +1,78 @@
+{
+  "code": "INFO",
+  "name": "Information och kommunikation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:10",
+  "nameHeading": "<h2>Information och kommunikation</h2>",
+  "description": "<p>Ämnet information och kommunikation handlar om kommunikation i yrkessammanhang samt hur extern och intern kommunikation kan genomföras. Ämnet behandlar kommunikation i olika sammanhang och medier samt hur information kan sökas, bearbetas och kommuniceras på ett effektivt sätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet information och kommunikation ska syfta till att eleverna utvecklar kunskaper om och färdigheter i hur extern och intern kommunikation kan genomföras på ett effektivt och målgruppsanpassat sätt. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda relevanta begrepp samt att kommunicera muntligt och skriftligt. Undervisningen ska också leda till att eleverna utvecklar förmåga att söka, värdera och kritiskt granska information. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter inom informations- och kommunikationsteknik med hjälp av digitala verktyg och programvaror. Eleverna ska även ges möjlighet att utveckla förmåga att arbeta serviceinriktat och samverka med andra. Dessutom ska de ges möjlighet att utveckla förmåga att arbeta ansvarsfullt utifrån krav på kvalitet och arbetsmiljö samt lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att ta eget ansvar samt att arbeta och handla självständigt och med omdöme. Därigenom ska eleverna ges möjlighet att utveckla förmåga att finna lösningar på olika typer av problem och situationer som kan uppstå i yrkesrollen.</p> <p>Genom praktiska övningar och problemlösande arbetssätt ska eleverna ges möjlighet att använda olika arbetsmetoder inom information och kommunikation.</p> <h5><em>Undervisningen i ämnet information och kommunikation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om effektiv och målgruppsanpassad kommunikation.</li> <li>Förmåga att söka och kritiskt granska information.</li> <li>Förmåga att genomföra informationsinsatser i enlighet med lagar och andra bestämmelser inom information och kommunikation.</li> <li>Förmåga att kommunicera och samverka på ett yrkesetiskt sätt.</li> </ul><h3>Nivåer i ämnet information och kommunikation</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INFO1000X</h3>",
+      "code": "INFO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet information och kommunikation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hur människor interagerar och kommunicerar i olika sammanhang, däribland envägs- och tvåvägskommunikation.</li> <li>Hur sociala och kulturella förhållanden påverkar människors interaktion och kommunikation.</li> <li>Sociala medier och hur de används för att sprida och kommunicera information.</li> <li>Informationssökning, till exempel via digitala söktjänster samt att värdera och kritiskt granska information.</li> <li>Programvaror för kommunikation, till exempel text- och bildbehandling samt kalkylprogram.</li> <li>Databaser och hur de upprättas och används.</li> <li>Utformning av dokumentmallar enligt gällande standard, till exempel rapportmallar.</li> <li>Framställning och distribution av dokument, till exempel instruktioner och mötesdokument.</li> <li>Planering, organisering, genomförande och utvärdering av informationsinsatser med anpassning till målgrupp, kommunikationskanal och syfte, till exempel bransch-, produkt- och företagspresentationer.</li> <li>Lagar och andra bestämmelser inom information och kommunikation.</li> <li>Samarbete och samverkan internt och externt utifrån ett yrkesetiskt förhållningssätt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INFO2000X</h3>",
+      "code": "INFO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet information och kommunikation på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande kommunikationsvetenskapliga metoder och teorier om hur människor agerar och kommunicerar i olika sammanhang, däribland intermedialitet.</li> <li>Digitala plattformar för kommunikation mellan olika användare samt hur dessa kan användas för att kommunicera med hjälp av text, bild, film eller ljud.</li> <li>Metoder och tekniker för att underlätta och utveckla informationssökning, däribland digitala söktjänster samt kritisk granskning av information.</li> <li>Programvaror för kommunikation, till exempel affärssystem.</li> <li>Databaser och hur de upprättas, används och underhålls.</li> <li>Framställning och distribution av dokument, till exempel olika typer av affärsdokument.</li> <li>Planering, organisering och genomförande av informationsinsatser med anpassning till målgrupp, kommunikationskanal och syfte. Utvärdering av hur effektiva insatserna varit i relation till målet.</li> <li>Lagar och andra bestämmelser inom information och kommunikation.</li> <li>Hur interaktion och kommunikation på ett yrkesetiskt sätt påverkar yrkesrollen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om effektiv och målgruppsanpassad kommunikation.</p> <p>Eleven söker information med <strong>viss säkerhet</strong> och gör <strong>enkla</strong> bedömningar av informationens tillförlitlighet.</p> <p>Eleven planerar, utför och utvärderar arbetsuppgifter inom information och kommunikation på ett <strong>godtagbart</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar på ett yrkesetiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om effektiv och målgruppsanpassad kommunikation.</p> <p>Eleven söker information med <strong>säkerhet</strong> och gör <strong>välgrundade</strong> bedömningar av informationens tillförlitlighet.</p> <p>Eleven planerar, utför och utvärderar arbetsuppgifter inom information och kommunikation på ett <strong>gott</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar på ett yrkesetiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om effektiv och målgruppsanpassad kommunikation.</p> <p>Eleven söker information med <strong>god säkerhet</strong> och gör <strong>välgrundade och nyanserade</strong> bedömningar av informationens tillförlitlighet.</p> <p>Eleven planerar, utför och utvärderar arbetsuppgifter inom information och kommunikation på ett <strong>mycket gott</strong> sätt. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar på ett yrkesetiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.023Z"
+}

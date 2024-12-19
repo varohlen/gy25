@@ -1,0 +1,92 @@
+{
+  "code": "SERI",
+  "name": "Serviceteknik – naturbruk",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:108",
+  "nameHeading": "<h2>Serviceteknik – naturbruk</h2>",
+  "description": "<p>Service och underhåll av teknisk utrustning inom naturbruket har en avgörande betydelse för produktkvalitet, ekonomi och påverkan på miljö och människor. Ämnet serviceteknik – naturbruk behandlar service, underhåll och reparationer av den tekniska utrustning som används inom naturbrukets olika verksamhetsområden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet serviceteknik – naturbruk ska syfta till att eleverna utvecklar förmåga att utföra service, underhåll och reparationer på maskiner och annan teknisk utrustning som används inom naturbrukets olika områden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om material, komponenter och tekniska system samt om hur de olika delarna samverkar. Undervisningen ska stimulera elevernas nyfikenhet och intresse för teknik och teknikutveckling inom området. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att bedöma den tekniska utrustningens funktion med hänsyn till produktkvalitet, ekonomi och hållbar utveckling samt att göra kostnadsberäkningar för service och underhåll. Undervisningen ska även bidra till att eleverna utvecklar ett fackspråk. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att använda verktyg och verkstadsteknisk utrustning på ett miljömässigt hållbart och säkert sätt samt kunskaper om branschstandarder, lagar och andra bestämmelser inom området.</p> <p>Genom praktiska övningar och ett problemlösande arbetssätt i fält och i verkstadsmiljö ska undervisningen bidra till att eleverna utvecklar förmåga att lösa tekniska problem med egna idéer och förslag som underlättar arbetet eller förbättrar resultatet.</p> <h5><em>Undervisningen i ämnet serviceteknik – naturbruk ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om teknisk utrustning som används inom naturbruket samt om material, komponenter och systemfunktioner.</li> <li>Förmåga att utföra service, underhåll och reparationer av maskiner och teknisk utrustning.</li> <li>Förmåga att bedöma den tekniska utrustningens funktion samt att göra kostnadsberäkningar för service och underhåll.</li> <li>Förmåga att använda verkstadsutrustning.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt med hänsyn till miljön.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet serviceteknik – naturbruk</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet maskiner och teknisk utrustning inom naturbruk eller nivå 1 i ämnet terrängtransporter.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SERI1000X</h3>",
+      "code": "SERI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet serviceteknik – naturbruk på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Maskinernas och den tekniska utrustningens uppbyggnad och funktion samt dess komponenter.</li> <li>Olika material samt deras egenskaper och användningsområden.</li> <li>Styrsystem och kontrollsystem.</li> <li>Motorbränslen, alternativa drivmedel och smörjmedel.</li> </ul> <p><em>Arbete med teknisk utrustning</em></p> <ul> <li>Arbete med service, underhåll och reparationer av maskiner och teknisk utrustning som används inom naturbruk, till exempel traktorer, skördetröskor, vallskördemaskiner, grönytemaskiner, skotare och avverkningsmaskiner.</li> <li>Användning av handböcker och manualer samt digital utrustning vid service och underhåll av teknisk utrustning.</li> <li>Bedömning av service-, underhålls- och reparationsbehov.</li> <li>Kostnadsberäkningar för olika åtgärder.</li> <li>Frågor om teknikutveckling, miljö och resurseffektivitet i samband med val av åtgärd.</li> <li>Användning av verkstadsteknisk utrustning.</li> <li>Grundläggande svetsteknik för underhåll och reparationer av maskiner och annan utrustning.</li> <li>Svetslägen och hur de används samt tillsatsmaterial.</li> <li>Vård av verktyg och maskiner.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Funktionskontroll och säkerhetskontroll i samband med användning av verkstadsmaskiner och teknisk utrustning.</li> <li>Brandförebyggande åtgärder och andra säkerhetsfrågor i samband med brandfarliga arbeten, till exempel vid svetsning och vinkelslipning.</li> <li>Ergonomi och arbetsmiljö i samband med genomförande av olika arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERI2000X</h3>",
+      "code": "SERI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet serviceteknik – naturbruk på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Komponenters konstruktion och funktion.</li> <li>Konstruktionsteknik och hållfasthet.</li> <li>Motorbränslen, alternativa drivmedel och smörjmedel samt olika produkters kvalitet och användningsområden.</li> <li>Konstruktion och funktion för valda maskiner och teknisk utrustning, till exempel mekaniska, elektriska, hydrauliska och trådlösa system samt servomanöversystem.</li> <li>Digitala informationssystem.</li> </ul> <p><em>Arbete med teknisk utrustning</em></p> <ul> <li>Upprättande av service- och reparationsplaner för maskiner och teknisk utrustning.</li> <li>Användning av felsökningsscheman, symbolscheman och sprängbilder för att genomföra funktionskontroll och felsökning.</li> <li>Användning av handböcker och manualer på svenska och engelska samt användning av digital utrustning.</li> <li>Val av arbetsmetoder, verktyg och annan utrustning.</li> <li>Bedömning av service-, underhålls- och reparationsbehov samt ekonomiska beräkningar för olika åtgärder.</li> <li>Frågor om teknikutveckling, miljö och resurseffektivitet i samband med val av åtgärd.</li> <li>Testning för bedömning av funktion och användbarhet.</li> <li>Arbete med service, underhåll och reparationer med användning av ändamålsenliga metoder och verkstadsteknisk utrustning, däribland svetsutrustning.</li> <li>Svetslägen samt val av tillsatsmaterial.</li> <li>Vård av verktyg och maskiner i samband med användning.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Funktionskontroll och säkerhetskontroll i samband med användning av verkstadsmaskiner och teknisk utrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Ergonomi och arbetsmiljö i samband med genomförande av olika arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERI3000X</h3>",
+      "code": "SERI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet serviceteknik – naturbruk på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Konstruktion och funktion för valda maskiner och teknisk utrustning, däribland mekaniska, elektriska och digitala system.</li> <li>Konstruktionsteknik, belastningsgränser och hållfasthet för aktuella maskiner, material och utrustning.</li> </ul> <p><em>Arbete med teknisk utrustning</em></p> <ul> <li>Upprättande av service- och reparationsplaner för aktuella maskiner och teknisk utrustning.</li> <li>Tolkning och användning av handböcker, manualer och digital utrustning.</li> <li>Yrkesmässigt arbete med service, underhåll och reparationer i fält och i verkstadsmiljö samt arbetsmetoder och tekniker inom ett eller flera fördjupningsområden, till exempel avverkningsmaskiner, skördetröskor, traktorer och större grönytemaskiner.</li> <li>Service, underhåll och reparationer av maskinkomponenter och systemfunktioner.</li> <li>Beställning, hantering och kontroll av reservdelar.</li> <li>Dokumentation av genomförd service.</li> <li>Användning av verkstadsteknisk utrustning för aktuella arbeten.</li> <li>Svetsteknik, hållfasthetsberäkningar och materialval.</li> <li>Vård av verktyg och maskiner.</li> <li>Metoder för diagnos av teknisk utrustning för att bedöma funktion och användbarhet.</li> <li>Bedömning av behovet av service, underhåll och reparationer utifrån utrustningens ålder, användningstid och slitage.</li> <li>Frågor om teknikutveckling, miljö och resurseffektivitet i samband med val av åtgärd.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Funktionskontroll och säkerhetskontroll i samband med användning av verkstadsmaskiner och teknisk utrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Ergonomi och arbetsmiljö i samband med genomförande av olika arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för den tekniska utrustningens uppbyggnad och funktion. Eleven redogör också <strong>översiktligt</strong> för hur styrsystem och kontrollsystem samverkar.</p> <p>Eleven utför service, underhåll och reparationer av maskiner och teknisk utrustning med <strong>visst</strong> handlag. I arbetet löser eleven de problem som uppstår med <strong>enkla</strong> strategier.</p> <p>Eleven gör <strong>enkla</strong> bedömningar av den tekniska utrustningens funktion och föreslår med <strong>viss säkerhet</strong> åtgärder för att optimera utrustningens användbarhet och säkerhet. Eleven gör <strong>enkla</strong> kostnadsberäkningar för olika åtgärder och beskriver samband mellan resursanvändning och hållbar utveckling.</p> <p>Eleven väljer arbetsmetoder som passar för arbetet och använder verktyg och verkstadsmaskiner med <strong>visst</strong> handlag.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av maskiner och teknisk utrustning.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för den tekniska utrustningens uppbyggnad och funktion. Eleven redogör också <strong>utförligt</strong> för hur styrsystem och kontrollsystem samverkar.</p> <p>Eleven utför service, underhåll och reparationer av maskiner och teknisk utrustning med <strong>gott</strong> handlag. I arbetet löser eleven de problem som uppstår med <strong>utvecklade</strong> strategier.</p> <p>Eleven gör <strong>välgrundade</strong> bedömningar av den tekniska utrustningens funktion och föreslår med <strong>säkerhet</strong> åtgärder för att optimera utrustningens användbarhet och säkerhet. Eleven gör <strong>välgrundade</strong> kostnadsberäkningar för olika åtgärder och beskriver samband mellan resursanvändning och hållbar utveckling.</p> <p>Eleven väljer arbetsmetoder som passar för arbetet och använder verktyg och verkstadsmaskiner med <strong>gott</strong> handlag.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av maskiner och teknisk utrustning.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för den tekniska utrustningens uppbyggnad och funktion. Eleven redogör också <strong>utförligt och nyanserat</strong> för hur styrsystem och kontrollsystem samverkar.</p> <p>Eleven utför service, underhåll och reparationer av maskiner och teknisk utrustning med <strong>mycket gott</strong> handlag. I arbetet löser eleven de problem som uppstår med <strong>välutvecklade</strong> strategier.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> bedömningar av den tekniska utrustningens funktion och föreslår med <strong>god säkerhet</strong> åtgärder för att optimera utrustningens användbarhet och säkerhet. Eleven gör <strong>välgrundade och nyanserade</strong> kostnadsberäkningar för olika åtgärder och beskriver samband mellan resursanvändning och hållbar utveckling.</p> <p>Eleven väljer arbetsmetoder som passar för arbetet och använder verktyg och verkstadsmaskiner med <strong>mycket gott</strong> handlag.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön i samband med service, underhåll och reparationer av maskiner och teknisk utrustning.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.079Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FILM",
+  "name": "Filmkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:223",
+  "nameHeading": "<h2>Filmkunskap</h2>",
+  "description": "<p>Filmkunskap är ett humanistiskt ämne som har sin grund inom filmvetenskap. Film är ett brett begrepp som innefattar olika former av rörlig bild. I ämnet studeras dessa former och hur de samspelar med den tekniska utvecklingen. Även relationen till det omgivande samhällets idéer, ideal och utveckling är centralt i studiet av film.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet filmkunskap ska syfta till att eleverna utvecklar kunskaper om filmens utformning under olika tider samt om hur centrala verk, personer och filmrörelser har varit en del i filmens utveckling. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att reflektera över filmens roll i samhället. Vidare ska eleverna ges möjlighet att utveckla förståelse av hur film kan påverka åskådaren.</p> <p>I undervisningen ska eleverna ges möjlighet att bekanta sig med den stora mångfald av uttryck och former som finns inom film från olika kulturer och tider. Undervisningen ska därigenom utmana eleverna till nya tankesätt och stimulera eleverna att använda film som källa till självinsikt och förståelse av andra människor och omvärlden. På så sätt ska undervisningen bidra till elevernas bildning.</p> <p>Att uppleva, analysera och tolka olika former av film ska utgöra en väsentlig del av undervisningen. Genom teoretiska inslag ska eleverna ges möjlighet att tillägna sig filmvetenskapliga begrepp och metoder som behövs för att kunna analysera film ur olika perspektiv.</p> <h5><em>Undervisningen i ämnet filmkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om filmens uttrycksmedel, genrer, berättartekniska grepp och dramaturgiska strukturer.</li> <li>Kunskaper om filmens utveckling och dess samband med centrala verk, personer och filmrörelser.</li> <li>Förmåga att resonera om relationen mellan film och samhälle.</li> <li>Förmåga att analysera film från olika utgångspunkter med filmvetenskaplig underbyggnad.</li> </ul><h3>Nivåer i ämnet filmkunskap</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FILM1000X</h3>",
+      "code": "FILM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet filmkunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Visning av och samtal om fiktions- och dokumentärfilm från olika tider, genrer och kulturer.</li> <li>Filmmediets olika beståndsdelar för att gestalta och berätta, däribland uttrycksmedlen mise-en-scène, foto och kameraarbete, redigering och ljudläggning.</li> <li>Berättartekniska och dramaturgiska grepp samt berättarformer, däribland dramats och epikens berättarformer. Mer okonventionella former av berättande och dramaturgi, till exempel experimentellt filmskapande och konstfilm.</li> <li>Vad som kännetecknar olika genrer och hur dessa har förändrats över tid.</li> <li>Olika rörliga mediers roll i samhället förr och nu, deras påverkan på filmens utformning och innehåll samt på människors vardagsliv.</li> <li>Den rörliga bildens tekniska, stilistiska och innehållsmässiga utveckling och hur det har påverkat filmmarknaden.</li> <li>Betydelsefulla verk från olika tider och kulturer och vad som kännetecknar verken.</li> <li>Centrala personer från olika tider och kulturer, såväl kvinnor som män, som har haft betydelse för filmen och dess utveckling.</li> <li>Filmrörelser som har haft betydelse för filmen och dess utveckling. Deras kännetecken och inställning till filmskapande.</li> <li>Hur samhällets utformning och olika tiders estetiska ideal, värderingar, händelser och förändringsprocesser samspelar med filmens utformning och innehåll.</li> <li>Analys och tolkning av fiktions- och dokumentärfilm med hjälp av filmvetenskapliga begrepp, metoder och analysmodeller.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om uttrycksmedel, genrer, berättartekniska grepp och dramaturgiska strukturer i fiktions- och dokumentärfilm.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om filmens utveckling och hur centrala verk, personer och filmrörelser varit en del i denna utveckling.</p> <p>Eleven för <strong>delvis</strong> underbyggda resonemang om frågor som rör relationen mellan film och samhälle.</p> <p>Eleven gör <strong>enkla</strong> analyser av film från olika utgångspunkter med <strong>godtagbar</strong> förankring i filmvetenskapliga begrepp och metoder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om uttrycksmedel, genrer, berättartekniska grepp och dramaturgiska strukturer i fiktions- och dokumentärfilm.</p> <p>Eleven visar <strong>goda</strong> kunskaper om filmens utveckling och hur centrala verk, personer och filmrörelser varit en del i denna utveckling.</p> <p>Eleven för <strong>väl</strong> underbyggda resonemang om frågor som rör relationen mellan film och samhälle.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av film från olika utgångspunkter med <strong>god</strong> förankring i filmvetenskapliga begrepp och metoder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om uttrycksmedel, genrer, berättartekniska grepp och dramaturgiska strukturer i fiktions- och dokumentärfilm.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om filmens utveckling och hur centrala verk, personer och filmrörelser varit en del i denna utveckling.</p> <p>Eleven för <strong>mycket väl</strong> underbyggda resonemang om frågor som rör relationen mellan film och samhälle.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av film från olika utgångspunkter med <strong>mycket god</strong> förankring i filmvetenskapliga begrepp och metoder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.993Z"
+}

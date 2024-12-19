@@ -1,0 +1,78 @@
+{
+  "code": "NATV",
+  "name": "Nätverksteknologier",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:83",
+  "nameHeading": "<h2>Nätverksteknologier</h2>",
+  "description": "<p>Den stora mängden teknisk utrustning som används i det moderna samhället förutsätter välfungerande nätverkssystem och kommunikation mellan dessa. Ämnet nätverksteknologier behandlar vanligt förekommande utrustning och arbete med nätverksteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet nätverksteknologier ska syfta till att eleverna utvecklar förmåga att administrera lokala nätverk och säkerställa en snabb och säker kommunikation mellan ingående enheter. Undervisningen ska leda till att eleverna utvecklar kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att utföra hårdvaru- och mjukvaruinstallationer samt att administrera nätverksmiljöer.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. I undervisningen ska eleverna också ges möjlighet att utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att bygga upp nätverk och anläggningar samt skapa systemlösningar. Genom undervisningen ska eleverna ges möjlighet att utveckla ett miljö- och säkerhetstänkande samt kunskaper om lagar och andra bestämmelser inom nätverksområdet.</p> <p>I undervisningen ska praktiska och laborativa moment varvas med teoretiska. Undervisningen ska även leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att planera och dokumentera sitt arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och problemlösningsförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik.</p> <h5><em>Undervisningen i ämnet nätverksteknologier ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad av olika delar och funktioner hos komponenter i nätverk.</li> <li>Förmåga att planera och dokumentera arbetet samt tolka och använda instruktioner, manualer och andra dokument.</li> <li>Förmåga att utföra hårdvaru- och mjukvaruinstallationer samt administrera nätverksmiljöer.</li> <li>Förmåga att bygga upp nätverk och skapa systemlösningar.</li> <li>Förmåga att felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.</li> <li>Kunskaper om lagar och andra bestämmelser inom nätverksområdet.</li> <li>Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning.</li> </ul><h3>Nivåer i ämnet nätverksteknologier</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATV1000X</h3>",
+      "code": "NATV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverksteknologier på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Referensmodeller och olika typer av nätverksprotokoll.</li> <li>Hur information hanteras samt hur utrustning och tjänster fungerar i samverkan i olika kommunikationslösningar.</li> <li>Packet switching network inom LAN (local area network).</li> <li>Planering och dokumentation av eget arbete.</li> <li>Enklare nätverkstopologier, däribland hur olika noder i nätverk är kopplade till varandra.</li> <li>Nätverksprotokoll och hur digital kommunikation mellan olika datorenheter fungerar.</li> <li>Adressering i nätverk, kommunikation av data mellan olika enheter samt hur kommunikationen fungerar utifrån tekniska regler för de olika protokollen, till exempel IP-adressering.</li> <li>Uppbyggnad av ett nätverks olika delar och funktion av bandbredd, till exempel mätning av kapacitet och kapacitetsbehov för olika bredbandslösningar.</li> <li>Installation och uppgradering av firmware på enstaka enheter.</li> <li>Hantering och underhåll av olika former av nätverksutrustning, till exempel switchar, routrar och gateways. Utrustningens funktion och användningsområden.</li> <li>Upprättande av ett mindre nätverk.</li> <li>Skapande av topologiskisser.</li> <li>Felsökningsmetodik.</li> <li>Skydd av servrar och klienter i nätverksmiljö med hjälp av mjukvara och hårdvara.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter.</li> <li>Kryptering av kommunikation mellan nät och servrar.</li> <li>Säkerhetsrisker i nätverk.</li> <li>VLAN (virtual local area network).</li> <li>Val av mjukvara och hårdvara.</li> <li>Olika sätt att skicka digital information i form av data, till exempel kabelbaserad eller luftbaserad kommunikation. Begränsningar, säkerhet och prestanda vid val av olika överföringsmedier.</li> <li>Kommunikation med och bemötande av kunder och användare i rådgivande situationer.</li> <li>Miljömässig hållbarhet i arbete med nätverksteknik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATV2000X</h3>",
+      "code": "NATV2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet nätverksteknologier på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tillämpning av referensmodeller och olika typer av nätverksprotokoll, till exempel för felsökning.</li> <li>Packet switching network inom WAN (wide area network).</li> <li>Planering och dokumentation av arbete.</li> <li>Olika typer av nätverkstopologier och på vilket sätt olika noder i nätverk är kopplade till varandra i större nätverk.</li> <li>Administration och konfiguration av olika nätverksprotokoll.</li> <li>Olika nätverksprotokoll på transportlagret.</li> <li>NAT (network address translation) och hur adressöversättning kan skydda eller styra åtkomst till klienter.</li> <li>Routningsprotokoll, hantering av kommunikation mellan olika adressområden samt olika vägar på vilka data sänds mellan sändare och mottagare i olika nätverk.</li> <li>Installation och konfigurering av brandväggar för hårdvara och mjukvara.</li> <li>Konfigurering av anslutningstjänster till nätverkslagringsplatser.</li> <li>Automatisering av installation och uppgradering av firmware på flera enheter.</li> <li>Systemintegration, till exempel samordning av inloggning och auktorisering till olika system, till exempel SSO (single sign on) och AAA (authentication, authorization, accounting).</li> <li>Upprättande och underhåll av större nätverk med vanligt förekommande utrustning samt VLAN (virtual local area network).</li> <li>Skapande av topologiskisser och ritningar över systemlösningar.</li> <li>Konfigurering av system och hantering av funktionsfel.</li> <li>Hantering av strömbortfall i en servermiljö och konfigurering av larm vid driftavbrott. Implementering av driftsäkerhet på disknivå och elkraftsnivå.</li> <li>Programvaror för styrning och övervakning av nättrafik.</li> <li>Policydokument samt lagar och andra bestämmelser inom nätverksområdet.</li> <li>Anslutningar med VPN (virtual private network) eller liknande teknologier.</li> <li>Säkerhetspolicy och incidenthantering.</li> <li>Identifikationssystem för inloggning.</li> <li>Virusskydd, kryptering och internetrelaterade säkerhetshot.</li> <li>Produktutvärdering och hur program utvärderas för högsta säkerhet.</li> <li>Val av komponenter för att skapa en systemlösning utifrån behov.</li> <li>Kommunikation med och bemötande av kunder och användare i rådgivande situationer.</li> <li>Miljömässig hållbarhet i arbete med nätverksteknik.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt hur nätverk är uppbyggda och hur olika komponenter i nätverk fungerar.</p> <p>Eleven planerar och gör en <strong>enkel</strong> dokumentation av utfört arbete. Eleven använder med <strong>viss säkerhet</strong> instruktioner, manualer och andra dokument.</p> <p>Eleven utför med <strong>viss säkerhet</strong> hårdvaru- och mjukvaruinstallationer och administrerar nätverksmiljöer med <strong>viss säkerhet</strong>.</p> <p>Eleven bygger upp nätverk och skapar systemlösningar med <strong>viss säkerhet</strong>.</p> <p>Eleven identifierar och åtgärdar med <strong>viss säkerhet</strong> fel i utrustning i nätverksmiljöer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>viss säkerhet</strong> råd till användare av nätverkssystem och datorteknisk utrustning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt hur nätverk är uppbyggda och hur olika komponenter i nätverk fungerar.</p> <p>Eleven planerar och gör en <strong>noggrann</strong> dokumentation av utfört arbete. Eleven använder med <strong>säkerhet</strong> instruktioner, manualer och andra dokument.</p> <p>Eleven utför med <strong>säkerhet</strong> hårdvaru- och mjukvaruinstallationer och administrerar nätverksmiljöer med <strong>säkerhet</strong>.</p> <p>Eleven bygger upp nätverk och skapar systemlösningar med <strong>säkerhet</strong>.</p> <p>Eleven identifierar och åtgärdar med <strong>säkerhet</strong> fel i utrustning i nätverksmiljöer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>säkerhet</strong> råd till användare av nätverkssystem och datorteknisk utrustning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt hur nätverk är uppbyggda och hur olika komponenter i nätverk fungerar.</p> <p>Eleven planerar och gör en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete. Eleven använder med <strong>god säkerhet</strong> instruktioner, manualer och andra dokument.</p> <p>Eleven utför med <strong>god säkerhet</strong> hårdvaru- och mjukvaruinstallationer och administrerar nätverksmiljöer med <strong>god säkerhet</strong>.</p> <p>Eleven bygger upp nätverk och skapar systemlösningar med <strong>god säkerhet</strong>.</p> <p>Eleven identifierar och åtgärdar med <strong>god säkerhet</strong> fel i utrustning i nätverksmiljöer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven ger med <strong>god säkerhet</strong> råd till användare av nätverkssystem och datorteknisk utrustning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.056Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "MUSI",
+  "name": "Musik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:191",
+  "nameHeading": "<h2>Musik</h2>",
+  "description": "<p>Musik finns i alla kulturer och berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform som har olika funktioner och som betyder olika saker för var och en av oss. Den är också en viktig del i människors sociala gemenskap och har betydelse för individens identitetsutveckling. Ämnet musik har sin grund i konstnärligt uttryck, musikaliskt hantverk och musikvetenskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet musik ska syfta till att eleverna utvecklar kunskaper om och färdigheter i musik samt förmåga att skapa och gestalta musik. Eleverna ska ges möjlighet att utveckla förmåga att kommunicera med musik som uttrycksform, såväl med medmusiker som med publik. Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera och tolka musikupplevelser. Genom undervisningen ska eleverna ges möjlighet att reflektera över sin egen och andras musikaliska gestaltning, i syfte att öka intresset för det konstnärliga skapandet. Undervisningen ska dessutom ta fasta på att stärka elevernas motivation och självförtroende i musikutövandet. Vidare ska undervisningen ge eleverna möjlighet att genom sina kunskaper om och färdigheter i musik bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kreativitet och förståelse av samband mellan detalj och helhet. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om röstens och musikinstrumentens konstruktion, funktion och egenskaper. Eleverna ska även ges möjlighet att utveckla kunskaper om musikteknisk utrustning samt om arbetsmiljöns betydelse inom musikområdet. Dessutom ska undervisningen bidra till att eleverna får kännedom om lagar och andra bestämmelser inom området.</p> <p>Samarbetsförmåga och ansvarstagande för arbete i grupp är viktigt i musiken. Därför ska eleverna ges möjlighet att musicera tillsammans med andra. Undervisningen ska bidra till att eleverna utvecklar kunskaper om jämställdhet och inkluderande arbetsmiljö med utgångspunkt i tillit och trygghet. I undervisningen ska eleverna ges möjlighet att pröva olika metoder för musikinstudering och ges möjlighet att studera och utöva musik från olika tider, kulturer och stilarter. Genom att arbeta praktiskt med musiken ur både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med konstnärlig kvalitet.</p> <h5><em>Undervisningen i ämnet musik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att musicera instrumentalt eller vokalt, med ett musikaliskt uttryck.</li> <li>Kunskaper om musik, begrepp och stildrag från olika tider och kulturer.</li> <li>Kunskaper om musikinstudering.</li> <li>Förmåga att kommunicera med medmusiker och publik.</li> <li>Kunskaper om röstens och instrumentets konstruktion, funktion och egenskaper samt om röstvård.</li> <li>Förmåga att skapa musik.</li> <li>Kunskaper om musikteknisk utrustning samt om arbetsmiljöfrågor inom musikområdet.</li> </ul><h3>Nivåer i ämnet musik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MUSI1000X</h3>",
+      "code": "MUSI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Musicerande, instudering och kommunikation</em></p> <ul> <li>Musicerande i gehörsbaserad och noterad musik med röst eller instrument.</li> <li>Musikaliska uttryck, däribland frasering, dynamik och rytmik.</li> <li>Repertoar och begrepp i olika musikstilar och genrer.</li> <li>Enkla improvisationsmoment, till exempel ornament och utsmyckningar.</li> <li>Metoder för instudering individuellt och i grupp.</li> <li>Kommunikation och samspel vid repetitioner och framträdanden.</li> <li>Principer för att möta en publik samt metoder för mental träning i samband med och inför framträdande.</li> </ul> <p><em>Musikens verktyg och funktioner</em></p> <ul> <li>Musikens beståndsdelar och stilistiska betydelse.</li> <li>Musikteoretiska kopplingar till praktiskt musicerande, däribland samband mellan notbild, ton- och taktart och gehör.</li> <li>Instrumentets och röstens grundläggande egenskaper, funktion och kvaliteter. Grundläggande metoder för röstvård.</li> <li>Musikskapande och bearbetning av musikaliskt material, till exempel val av instrumentering, kompstil och musikalisk form.</li> <li>Rättigheter och skyldigheter vid bruk av musik i olika sammanhang.</li> </ul> <p><em>Arbetsmiljö och utrustning</em></p> <ul> <li>Hantering av musikteknisk utrustning samt digital bearbetning av musikaliskt material.</li> <li>God arbetsmiljö vid musikutövning, däribland ergonomi och behovet av rörelse samt hörselvård, akustik, belysning och säkerhet vid sceniskt arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven musicerar med <strong>viss säkerhet</strong> efter noter och på gehör och använder ett musikaliskt uttryck.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om musik, begrepp och stildrag.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om musikinstudering.</p> <p>Eleven kommunicerar med såväl medmusiker som publik med <strong>viss säkerhet</strong>.</p> <p>Eleven beskriver <strong>översiktligt</strong> röstens och instrumentets konstruktion, funktion och egenskaper samt olika metoder för röstvård.</p> <p>Eleven skapar musik med <strong>godtagbar</strong> musikalisk kvalitet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om musikteknisk utrustning och för <strong>enkla</strong> resonemang om vad en god arbetsmiljö vid musikutövning är.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven musicerar med <strong>säkerhet</strong> efter noter och på gehör och använder ett musikaliskt uttryck.</p> <p>Eleven visar <strong>goda</strong> kunskaper om musik, begrepp och stildrag.</p> <p>Eleven visar <strong>goda</strong> kunskaper om musikinstudering.</p> <p>Eleven kommunicerar med såväl medmusiker som publik med <strong>säkerhet</strong>.</p> <p>Eleven beskriver <strong>utförligt</strong> röstens och instrumentets konstruktion, funktion och egenskaper samt olika metoder för röstvård.</p> <p>Eleven skapar musik med <strong>god</strong> musikalisk kvalitet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om musikteknisk utrustning och för <strong>utvecklade</strong> resonemang om vad en god arbetsmiljö vid musikutövning är.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven musicerar med <strong>god säkerhet</strong> efter noter och på gehör och använder ett musikaliskt uttryck.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om musik, begrepp och stildrag.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om musikinstudering.</p> <p>Eleven kommunicerar med såväl medmusiker som publik med <strong>god säkerhet</strong>.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> röstens och instrumentets konstruktion, funktion och egenskaper samt olika metoder för röstvård.</p> <p>Eleven skapar musik med <strong>mycket god</strong> musikalisk kvalitet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om musikteknisk utrustning och för <strong>välutvecklade</strong> resonemang om vad en god arbetsmiljö vid musikutövning är.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.054Z"
+}

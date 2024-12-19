@@ -1,0 +1,63 @@
+{
+  "code": "MILC",
+  "name": "Miljöcertifierad byggnation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:551",
+  "nameHeading": "<h2>Miljöcertifierad byggnation</h2>",
+  "description": "<p>Ämnet miljöcertifierad byggnation behandlar miljöcertifiering och metoder som utvärderar en byggnations miljöprestanda. Det behandlar även livscykelanalys för att främja hållbar samhällsbyggnation inom byggnader och infrastruktur. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet miljöcertifierad byggnation ska syfta till att eleverna utvecklar kunskaper om byggnation och byggnaders livscykel, samt om den miljö- och klimatpåverkan som byggande och byggnation har på samhället i stort. Därigenom ska eleverna ges möjlighet att utveckla kunskaper om hur hållbar utveckling kan främjas inom all samhällsbyggnation.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser som reglerar byggsektorn. Undervisningen ska också leda till att eleverna utvecklar kunskaper om byggmaterial och deras miljömässiga påverkan, såväl var för sig som i sammansatta konstruktioner. Eleverna ska även ges möjlighet att utveckla kunskaper om olika databaser och miljöcertifieringssystem samt om livscykelanalysens olika delar och dess betydelse för miljöcertifieringar vid byggnation. Genom användning av relevanta digitala verktyg ska eleverna ges möjlighet att utveckla färdigheter i energi- och klimatberäkningar.</p> <p>Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska och miljömässiga aspekter av byggande och byggnation.</p> <h5><em>Undervisningen i ämnet miljöcertifierad byggnation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om byggnadsfysik och byggmaterial.</li> <li>Kunskaper om miljöklassningssystem och deras betydelse för miljöcertifiering.</li> <li>Kunskaper om olika miljöcertifieringar av byggnation.</li> <li>Förmåga att genomföra och dokumentera energi- och klimatberäkningar.</li> </ul><h3>Nivåer i ämnet miljöcertifierad byggnation</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MILC100TX</h3>",
+      "code": "MILC100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet miljöcertifierad byggnation på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Byggnadsfysik och byggmaterial</em></p> <ul> <li>Energideklaration, U-värden och olika typer av lågenergibyggnader.</li> <li>Klimatdeklaration av byggnader och byggmaterial.</li> <li>Livscykelanalys (LCA).</li> </ul> <p><em>Miljöklassning och miljöcertifiering</em></p> <ul> <li>Lagar och andra bestämmelser som reglerar byggsektorn, däribland miljöbalken och plan- och bygglagen.</li> <li>Olika produkt- och miljödatabaser, till exempel Boverkets klimatdatabas.</li> <li>Miljöcertifieringar och LCA i byggprocessen.</li> <li>Miljökvalitetsmål och miljöindikatorer.</li> <li>Betydelsen av standarder och begrepp, till exempel svensk standard (SS), Europeiska standardiseringskommittén (CEN), och ISA (international standard on auditing), samt hur dessa integreras och påverkar till exempel livscykelanalyser och miljöledningssystem.</li> <li>Miljöcertifieringar för bygg- och fastighetssektorn, nationellt och internationellt.</li> <li>Miljöklassningssystem för att nå olika certifieringar avseende till exempel klimatpåverkan, energianvändning, innemiljö, material och avfallshantering.</li> </ul> <p><em>Energi- och klimatberäkningar</em></p> <ul> <li>Klimatberäkningar för byggmaterial och byggnation.</li> <li>Energiberäkningar, till exempel U-värdesberäkningar.</li> <li>Användning av relevanta digitala verktyg för beräkningar och dokumentation.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om byggnadsfysik och byggmaterial.</p> <p>Eleven för <strong>övergripande</strong> resonemang om miljöklassningssystem och deras betydelse för miljöcertifiering.</p> <p>Eleven redogör <strong>övergripande</strong> för miljöcertifieringar av byggnation.</p> <p>Eleven genomför och dokumenterar med <strong>säkerhet</strong> energi- och klimatberäkningar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om byggnadsfysik och byggmaterial.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om miljöklassningssystem och deras betydelse för miljöcertifiering.</p> <p>Eleven redogör <strong>utförligt</strong> för miljöcertifieringar av byggnation.</p> <p>Eleven genomför och dokumenterar med <strong>god säkerhet</strong> energi- och klimatberäkningar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om byggnadsfysik och byggmaterial.</p> <p>Eleven för <strong>välutvecklade och nyanserade</strong> resonemang om miljöklassningssystem och deras betydelse för miljöcertifiering.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för miljöcertifieringar av byggnation.</p> <p>Eleven genomför och dokumenterar med <strong>mycket god säkerhet</strong> energi- och klimatberäkningar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.043Z"
+}

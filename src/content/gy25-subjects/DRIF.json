@@ -1,0 +1,78 @@
+{
+  "code": "DRIF",
+  "name": "Driftsäkerhet",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:202",
+  "nameHeading": "<h2>Driftsäkerhet</h2>",
+  "description": "<p>Det industrialiserade samhället förutsätter tekniska system med hög driftsäkerhet och modernt underhåll. Underhållsarbete är betydelsefullt för att teknisk utrustning ska fungera på ett optimalt sätt. Ämnet driftsäkerhet behandlar tekniska utrustningars uppbyggnad och funktion samt hur tekniska och organisatoriska åtgärder kan lösa drifttekniska problem. Ämnet behandlar också förbättringsprocessens betydelse.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet driftsäkerhet ska syfta till att eleverna utvecklar kunskaper om drift och underhåll av produktionstekniska anläggningar samt förmåga att utföra underhållsarbete av utrustningar. Undervisningen ska bidra till att eleverna utvecklar kunskaper om underhållstekniska begrepp och metoder. Den ska också bidra till att eleverna utvecklar kunskaper om underhållsarbetets betydelse för att förhindra driftavbrott.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och dokumentera vanligt förekommande arbetsuppgifter inom driftsäkerhet och underhåll samt att hantera förekommande verktyg och instrument. Systematiskt underhållsarbete förutsätter planering och uppföljning av åtgärder samt analog och digital dokumentation av utförda åtgärder. Genom undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att tolka och tillämpa tekniska dokument samt att dokumentera sitt arbete.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även bidra till att eleverna utvecklar förståelse av sambandet mellan underhållsarbete och optimal funktion samt hur underhållsarbete främjar en säker arbetsmiljö.</p> <p>Eleverna ska genom ett problemlösande och undersökande arbetssätt stimuleras till fortsatt lärande. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet driftsäkerhet ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om metoder och begrepp inom driftsäkerhet och underhåll.</li> <li>Förmåga att planera och genomföra underhållsarbete.</li> <li>Förmåga att tolka och tillämpa tekniska dokument samt att dokumentera utfört arbete.</li> <li>Förmåga att följa säkerhetsanvisningar och arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet driftsäkerhet</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DRIF1000X</h3>",
+      "code": "DRIF1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet driftsäkerhet på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Underhållstekniska begrepp och metoder</em></p> <ul> <li>Definitioner inom förebyggande, avhjälpande och tillståndsbaserat underhåll.</li> <li>Grundläggande underhållstekniska begrepp, däribland funktionssäkerhet, underhållsmässighet och underhållssäkerhet.</li> <li>Grundläggande metoder för att förhindra driftavbrott och minimera miljöpåverkan.</li> <li>Planering och styrning av underhåll och underhållssystem.</li> <li>Grundläggande begrepp inom driftsäkerhet.</li> <li>Metoder för felsökning samt förbättringsarbete.</li> <li>Grundläggande internationell terminologi inom området.</li> <li>Metoder och utrustningar för inspektion, förebyggande underhåll och tillståndskontroll av anläggningar, utrustning och komponenter.</li> </ul> <p><em>Utrustning, planering och genomförande</em></p> <ul> <li>Planering och genomförande av förebyggande underhåll samt subjektiva och objektiva inspektioner med hjälp av instruktioner.</li> <li>Utförande av vanligt förekommande drift- och underhållsarbete, till exempel felsökning och funktionsprovning.</li> <li>Grundläggande hantering av verktyg och instrument.</li> <li>Användning av fackspråk inom området för kommunikation om arbetsprocess och resultat.</li> <li>Tillämpning av grundläggande teknisk dokumentation och ritningssymboler, till exempel inom elinstallation, ventilation, vatten, avlopp, värme och gas.</li> <li>Dokumentation av process och resultat för överlämning och utvärdering med hjälp av olika dokumentationsformer, till exempel fotografering.</li> </ul> <p><em>Säkerhet och miljö</em></p> <ul> <li>Säkert arbete i enlighet med lagar och andra bestämmelser, till exempel säkra stopp.</li> <li>Grundläggande förebyggande underhåll med hänsyn till driftsäkerhet och miljöpåverkan.</li> <li>Miljömässigt hållbart arbete samt åtgärder för att minimera miljöpåverkan.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DRIF2000X</h3>",
+      "code": "DRIF2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet driftsäkerhet på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Underhållstekniska begrepp och metoder</em></p> <ul> <li>Begrepp inom driftsäkerhet, däribland TPM (total productive maintenance), smart maintenance, OEE (overall equipment effektiveness) och TAK (tillgänglighet, anläggningsutnyttjande, kvalitet).</li> <li>Datadrivet prediktivt underhåll med stöd av digitaliserade underhållssystem.</li> <li>Metoder för att förhindra driftavbrott och minimera miljöpåverkan.</li> <li>Olika typer av sensorer för insamling av tillståndsdata hos produktionsutrustningen.</li> <li>Planerade och oplanerade förluster inom vald produktionsprocess.</li> <li>Metoder för kontinuerlig uppföljning av driftstörningar och anpassade åtgärder för att utveckla företagets produktionsprocess och höja den totala utrustningseffektiviteten.</li> <li>Metoder för mätning, analys och visualisering av tillståndet i produktionsprocessen.</li> <li>Skapande av förebyggande underhållsprogram med hjälp av kritikalitetsanalys.</li> <li>Beräkningar av OEE-tal, tillgänglighet, anläggningsutnyttjande och kvalitetsutbyte.</li> </ul> <p><em>Utrustning, planering och genomförande</em></p> <ul> <li>Planering, beredning och genomförande av förebyggande och avhjälpande underhåll med hjälp av ritningar, scheman och manualer.</li> <li>Framtagning av teknisk instruktion för underhållsarbete utifrån ett standardiserat arbetssätt.</li> <li>Metoder och tekniker för felsökning och reparation samt läckagesökning och olika metoder för åtgärder.</li> <li>Utförande av tillståndskontroller. I samband med detta behandlas påverkan av driftsäkerhet samt livslängd på produktionstekniska anläggningar.</li> <li>Funktionsprovning efter utförd åtgärd samt eventuella förbättringsförslag avseende ökad driftsäkerhet.</li> <li>Tillämpning av teknisk dokumentation och detaljerade komponentritningssymboler, till exempel inom pneumatik eller hydraulik.</li> <li>Bedömning av resultat samt dokumentation av åtgärder med stöd av både analoga och digitala underhållssystem, däribland ritningar, scheman och manualer med internationella branschtermer.</li> </ul> <p><em>Säkerhet och miljö</em></p> <ul> <li>Säkert och miljömässigt arbete, till exempel med lyftdon, tryckkärl, brandfarliga arbeten, kemikalier och gaser i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förebyggande underhåll med hänsyn till driftsäkerhet och miljöpåverkan.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om metoder och begrepp inom driftsäkerhet samt förebyggande, avhjälpande och tillståndsbaserat underhåll.</p> <p>Eleven väljer lämplig utrustning samt planerar och genomför underhållsarbeten med <strong>viss säkerhet</strong>. Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven använder tekniska dokument och dokumenterar utfört arbete med <strong>viss säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om metoder och begrepp inom driftsäkerhet samt förebyggande, avhjälpande och tillståndsbaserat underhåll.</p> <p>Eleven väljer lämplig utrustning samt planerar och genomför underhållsarbeten med <strong>säkerhet</strong>. Dessutom ger eleven <strong>utvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven använder tekniska dokument och dokumenterar utfört arbete med <strong>säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om metoder och begrepp inom driftsäkerhet samt förebyggande, avhjälpande och tillståndsbaserat underhåll.</p> <p>Eleven väljer lämplig utrustning samt planerar och genomför underhållsarbeten med <strong>god säkerhet</strong>. Dessutom ger eleven <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras.</p> <p>Eleven använder tekniska dokument och dokumenterar utfört arbete med <strong>god säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.986Z"
+}

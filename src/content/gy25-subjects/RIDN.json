@@ -1,0 +1,106 @@
+{
+  "code": "RIDN",
+  "name": "Ridning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:339",
+  "nameHeading": "<h2>Ridning</h2>",
+  "description": "<p>Ämnet ridning behandlar träning i att rida olika typer av hästar i olika åldrar och utbildningsstadier. Ämnet behandlar också utbildning av ryttare, kommunikation med hästar samt hästars reaktion och beteende vid ridning. I arbetsuppgifterna ingår att motionera och rida hästar och därför behandlar ämnet ridning den träning som behövs för att kunna rida hästar i samband med hästskötsel eller utbildning av häst och ryttare på deras nivå.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ridning ska syfta till att eleverna utvecklar färdigheter i ridning. Undervisningen ska leda till att eleverna utvecklar kunskaper om hästars gångarter och rörelsemekanik samt om sambandet mellan hållbara träningsmetoder och hästars hälsa. Undervisningen ska också leda till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utveckling. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att sköta och hantera samt utrusta och rida hästar med hästarnas välbefinnande i centrum. Eleverna ska också ges möjlighet att utveckla förmåga att sköta den utrustning som används i samband med ridning. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samspela med hästar samt att rida hästar i olika sitsar, i balans och i ändamålsenlig form. Eleverna ska också ges möjlighet att reflektera över arbetsmiljörisker för att utveckla såväl riskmedvetenhet som förmåga att välja och använda arbetsmetoder som främjar en god hälsa och ett hållbart arbetsliv. Eleverna ska dessutom ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller arbete med hästar samt i enlighet med ridsportens regelverk.</p> <p>Genom övningar ska eleverna ges möjlighet att utveckla förmåga att rida hästar i olika åldrar och utbildningsstadier samt att tyda hästars reaktioner. Undervisningen ska även ge eleverna möjlighet att genom observationer utveckla kunskaper om hästars rörelse.</p> <h5><em>Undervisningen i ämnet ridning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hästens rörelsemekanik och om faktorer som påverkar hästars prestation och hållbarhet.</li> <li>Kunskaper om olika träningsmetoder samt om ridhästars utbildning och utveckling.</li> <li>Förmåga att sköta, hantera och träna hästar med utgångspunkt i djurets välfärd.</li> <li>Förmåga att utrusta hästar för olika typer av arbete samt att sköta och vårda utrustning.</li> <li>Förmåga att rida hästar i olika sitsar, i balans och i ändamålsenlig form samt att tolka hästars reaktion på träning.</li> <li>Förmåga att arbeta hållbart och säkert samt i enlighet med lagar och andra bestämmelser som gäller arbete med hästar.</li> </ul><h3>Nivåer i ämnet ridning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RIDN1000X</h3>",
+      "code": "RIDN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ridning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hästars gångarter, renhet och takt med variationer av tempo.</li> <li>Sjukdomar och skador hos hästar i samband med ridning.</li> <li>Hästens arbete, utbildning, träning och återhämtning.</li> <li>Övningar och rörelser för utveckling av ryttare.</li> <li>Grundläggande ridlära.</li> <li>Visitering av hästar med blick och hand.</li> <li>Observation och tolkning av hästars beteende i samband med träning.</li> <li>Hantering och träning av hästar i samband med ridning.</li> <li>Visning vid hand av skolad häst.</li> <li>Val och användning av utrustning för aktuella arbeten.</li> <li>Skötsel och vård av utrustning i samband med ridning.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Ridning av skolad häst på ridbana samt i skog och mark.</li> <li>Ryttarens sits med balans, stadga och följsamhet genom inverkan av vikt-, skänkel- och tygelhjälp.</li> <li>Grundläggande tekniker för longering och tömkörning av ridhästar.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar, till exempel djurskyddslagen.</li> <li>Bestämmelser om ridning på väg samt i skog och mark.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RIDN2000X</h3>",
+      "code": "RIDN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ridning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Hästars gångarter och rörelsemekanik.</li> <li>Avvikelser från normalt rörelsemönster.</li> <li>Hållbar belastning avseende variation, kontinuitet och vila.</li> <li>Hästens utbildning och träningslära.</li> <li>Hästars svar på träning avseende takt, balans, lösgjordhet, kontakt, stöd, schvung, rakriktning och samling.</li> <li>Bedömning av hästars hälsa och kondition i samband med aktuella arbeten.</li> <li>Hantering och träning av hästar i samband med ridning.</li> <li>Val och anpassning av utrustning för aktuella arbeten.</li> <li>Skötsel och vård av utrustning i samband med ridning.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Ridning av hästar samt träning av ryttarens sits. Ryttarens inverkan på hästen.</li> <li>Longering och tömkörning av skolad häst i avvägt tempo.</li> <li>Grundläggande banhoppning och grundläggande hoppning i terräng.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar.</li> <li>Bestämmelser om ridning på väg samt i skog och mark.</li> <li>Etik i samband med träning och tävling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RIDN3000X</h3>",
+      "code": "RIDN3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ridning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Hästars rörelsemekanik och hoppteknik.</li> <li>Avvikelser från normalt rörelsemönster. Orsaker till avvikelser samt förebyggande åtgärder.</li> <li>Hållbar belastning och samband mellan exteriör och prestation.</li> <li>Hästars utveckling, till exempel muskelsättning, kondition, utseende och beteende.</li> <li>Arbetsplaner och träningsprogram för ridhästar.</li> <li>Bedömning av hästars hälsa och kondition samt hästars reaktioner på träning.</li> <li>Hantering av hästar i samband med träning och tävling.</li> <li>Val och anpassning av utrustning för aktuella arbeten.</li> <li>Skötsel och vård av utrustning i samband med ridning.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Visitering och ridning av olika typer av hästar.</li> <li>Träning av hästar för någon eller några av ridsportens olika grenar.</li> <li>Assistans vid löshoppning samt byggande av bana för löshoppning.</li> <li>Longering och tömkörning av skolad häst i avvägt tempo och ändamålsenlig form.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar.</li> <li>Bestämmelser om ridning på väg samt i skog och mark.</li> <li>Branschens etiska regler och reglementen i samband med träning och tävling med hästar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RIDN4000X</h3>",
+      "code": "RIDN4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ridning på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Rörelsemekanik och ryttarens påverkan på hästens rörelser, prestation och hållbarhet.</li> <li>Hästrekrytering, hästars utveckling, utbildning och reaktion på träning.</li> <li>Ridning och ridlära för utveckling av ryttare.</li> <li>Sambandet mellan ridlärans teori och praktik.</li> <li>Arbetsplaner och träningsprogram för ridhästar och ryttare.</li> <li>Träningsmoment för utveckling och utbildning av ryttare.</li> <li>Hantering av hästar i samband med utbildning, träning och tävling med utgångspunkt i hästens välfärd.</li> <li>Val och anpassning av utrustning för aktuella arbeten.</li> <li>Skötsel och vård av utrustning i samband med ridning.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Hindertyper och banbyggnad som grund för träning.</li> <li>Programridning samt ban- och terränghoppning på grundläggande ridlärarnivå.</li> <li>Ridning för underhåll av ridskolehästar.</li> <li>Riding för ryttare med olika förutsättningar och behov.</li> <li>Tömkörning, longering och löshoppning.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö och säkerhet i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar.</li> <li>Tävlingsreglementen och övriga branschregler i samband med utbildning, träning och tävling.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hästars rörelsemekanik samt om faktorer som påverkar hästars prestation, hälsa och kondition.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ridhästars utbildning och utveckling samt om olika träningsmetoder för ridhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>visst</strong> handlag i samband med ridning och träning samt tar med <strong>viss säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och ryttare samt utrustar med <strong>visst</strong> handlag hästar för ridning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>godtagbart</strong> resultat.</p> <p>Eleven rider med <strong>viss säkerhet</strong> olika typer av hästar i olika gångarter och i olika sitsar samt i ändamålsenlig form. Dessutom genomför eleven med <strong>viss säkerhet</strong> longering av skolade hästar. I samband med ridning tolkar eleven med <strong>viss säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hästars rörelsemekanik samt om faktorer som påverkar hästars prestation, hälsa och kondition.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ridhästars utbildning och utveckling samt om olika träningsmetoder för ridhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>gott</strong> handlag i samband med ridning och träning samt tar med <strong>säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och ryttare samt utrustar med <strong>gott</strong> handlag hästar för ridning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>gott</strong> resultat.</p> <p>Eleven rider med <strong>säkerhet</strong> olika typer av hästar i olika gångarter och i olika sitsar samt i ändamålsenlig form. Dessutom genomför eleven med <strong>säkerhet</strong> longering av skolade hästar. I samband med ridning tolkar eleven med <strong>säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hästars rörelsemekanik samt om faktorer som påverkar hästars prestation, hälsa och kondition.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ridhästars utbildning och utveckling samt om olika träningsmetoder för ridhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>mycket gott</strong> handlag i samband med ridning och träning samt tar med <strong>god säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och ryttare samt utrustar med <strong>mycket gott</strong> handlag hästar för ridning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>mycket gott</strong> resultat.</p> <p>Eleven rider med <strong>god säkerhet</strong> olika typer av hästar i olika gångarter och i olika sitsar samt i ändamålsenlig form. Dessutom genomför eleven med <strong>god säkerhet</strong> longering av skolade hästar. I samband med ridning tolkar eleven med <strong>god säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder samt arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.073Z"
+}

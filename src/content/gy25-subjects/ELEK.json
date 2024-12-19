@@ -1,0 +1,64 @@
+{
+  "code": "ELEK",
+  "name": "Elektriska kretsar",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:206",
+  "nameHeading": "<h2>Elektriska kretsar</h2>",
+  "description": "<p>Samhället är beroende av en fungerande elförsörjning för att upprätthålla en stor mängd funktioner. Ämnet elektriska kretsar behandlar lik- och enfasväxelströmskretsar samt resistiva belastningar. Ämnet behandlar också sambanden mellan olika elektriska storheter samt hur dessa mäts och beräknas.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elektriska kretsar ska syfta till att eleverna utvecklar kunskaper om olika kretsars uppbyggnad och funktion samt om olika grundläggande komponenter. Undervisningen ska leda till att eleverna utvecklar förmåga att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar med belastningar av olika slag. Eleverna ska även ges möjlighet att utveckla kunskaper om elektriska och magnetiska fält. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om standarder, lagar och andra bestämmelser inom elområdet.</p> <p>I undervisningen ska eleverna genom laborationer ges möjlighet att utveckla ett el- och personsäkert arbetssätt. Undervisningen ska också ge eleverna möjlighet att praktiskt utföra koppling, mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar. Dessutom ska undervisningen stimulera elevernas nyfikenhet och intresse för teknisk utveckling inom elområdet.</p> <h5><em>Undervisningen i ämnet elektriska kretsar ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika kretsars uppbyggnad och funktion.</li> <li>Förmåga att koppla kretsar och mäta elektriska storheter med belastningar av olika slag.</li> <li>Förmåga att beräkna elektriska storheter i kretsar med belastningar av olika slag.</li> <li>Kunskaper om olika grundläggande komponenters egenskaper och funktioner.</li> <li>Kunskaper om elektriska och magnetiska fält.</li> <li>Förmåga att arbeta säkert i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</li> </ul><h3>Nivåer i ämnet elektriska kretsar</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELEK1000X</h3>",
+      "code": "ELEK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elektriska kretsar på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika kretsars uppbyggnad och funktioner, däribland serie- och parallellkoppling.</li> <li>Mätning i likströmskretsar och resistiva växelströmskretsar.</li> <li>Olika mättekniker samt metoder för att analysera olika mätvärden.</li> <li>Elektriska storheter och samband i lik- och enfasväxelströmskretsar.</li> <li>Beräkningar i likströmskretsar och resistiva växelströmskretsar med användning av formler.</li> <li>Ekvationslösning för formler inom ämnet samt enheter och prefix.</li> <li>Grundläggande komponenters egenskaper och funktion, däribland ledare, halvledare och isolatorer.</li> <li>Elektriska och magnetiska fält.</li> <li>Grundläggande principer för motorer, generatorer och transformatorer.</li> <li>Standarder, lagar och andra bestämmelser inom elområdet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika kretsars uppbyggnad och funktion.</p> <p>Eleven kopplar kretsar och utför <strong>enkla</strong> mätningar av elektriska storheter med belastningar av olika slag.</p> <p>Eleven utför <strong>enkla</strong> beräkningar av elektriska storheter i kretsar med belastningar av olika slag.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika grundläggande komponenters egenskaper och funktioner.</p> <p>Eleven redogör <strong>översiktligt</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika kretsars uppbyggnad och funktion.</p> <p>Eleven kopplar kretsar och utför <strong>relativt avancerade</strong> mätningar av elektriska storheter med belastningar av olika slag.</p> <p>Eleven utför <strong>relativt avancerade</strong> beräkningar av elektriska storheter i kretsar med belastningar av olika slag.</p> <p>Eleven beskriver <strong>utförligt</strong> olika grundläggande komponenters egenskaper och funktioner.</p> <p>Eleven redogör <strong>utförligt</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika kretsars uppbyggnad och funktion.</p> <p>Eleven kopplar kretsar och utför <strong>avancerade</strong> mätningar av elektriska storheter med belastningar av olika slag.</p> <p>Eleven utför <strong>avancerade</strong> beräkningar av elektriska storheter i kretsar med belastningar av olika slag.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika grundläggande komponenters egenskaper och funktioner.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.986Z"
+}

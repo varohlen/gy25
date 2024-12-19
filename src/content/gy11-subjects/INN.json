@@ -1,0 +1,142 @@
+{
+  "code": "INN",
+  "name": "Industriella produktionsmetoder",
+  "englishName": "Industrial production methods",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2018:14",
+  "skolfsAndring": "2022:160",
+  "nameHeading": "<h2>Industriella produktionsmetoder</h2>",
+  "description": "<p>Ämnet industriella produktionsmetoder behandlar olika metoder och teknikområden för industriell produktion, från hantverksmässigt industriellt arbete avsett för prototyp- och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriella produktionsmetoder ska syfta till att eleverna utvecklar kunskaper om metoder, teknik, material och utrustning som används inom industriell produktion. Undervisningen ska också ge eleverna möjligheter att utveckla kunskaper om strukturerad produktion samt förmåga att välja rätt produktionsmetod i förhållande till produkt, material och produktionsutrustning. Dessutom ska undervisningen bidra till att eleverna får en helhetsbild av industriella produktionsmetoder och möjlighet till fördjupning inom valt område för att därigenom utveckla ingenjörsmässiga förmågor.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att diskutera, analysera och reflektera över teknikens möjligheter och därigenom kunna lösa produktionstekniska problem och föreslå förbättringar av produktion. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att använda olika digitala verktyg och visualiseringstekniker i sitt arbete.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om produktionsstyrning med till exempel programmering inom den metod som eleven fördjupar sig inom. Undervisningen ska även bidra till att eleverna ges möjlighet att utveckla en översiktlig förståelse av verktyg och system för processövervakning samt hur kommunikation mellan utrustningar styrs och övervakas inom och mellan olika industriella produktionsenheter.</p> <h4>Undervisningen i ämnet industriella produktionsmetoder ska ge eleverna förutsättningar att utveckla följande:</h4> <p>1. Kunskaper om begrepp, metoder, teknik och utrustning inom industriella produktionsmetoder samt förmåga att kommunicera med olika målgrupper inom området.</p> <p>2. Kunskaper om hur material genom olika produktionsmetoder förädlas till en färdig produkt.</p> <p>3. Förmåga att läsa och tolka produktionsunderlag, planera, bereda och organisera en industriprodukts produktionsmetod och produktionsprocess samt att programmera för datorstyrd produktion.</p> <p>4. Kunskaper om olika moderna industriella produktionsmetoder samt förmåga att välja rätt metod i förhållande till den produkt som ska tillverkas och den produktionsutrustning som står till förfogande.</p> <p>5. Kunskaper om hur och varför produktionsutrustning kopplas samman till produktionslinjer.</p> <p>6. Kunskaper om säkerhetsrisker i vald produktionsmetod och om hur risker minimeras.</p> <p>7. Förmåga att mäta, bedöma, dokumentera, värdera och analysera kvaliteten av vald produktionsmetod.</p> <p>8. Förmåga att på ett strukturerat sätt lösa produktionstekniska problem samt att kunna utföra relevanta kalkyler och beräkningar i samband med förbättringsförslag.</p><h3>Kurser i ämnet</h3><ul><li>Industriella produktionsmetoder 1, 100 poäng. </li> <li>Industriella produktionsmetoder 2, 100 poäng. Kursen bygger på industriella produktionsmetoder 1.</li> <li>Industriella produktionsmetoder 3, 100 poäng. Kursen bygger på industriella produktionsmetoder 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: INNIND31</h3>",
+      "code": "INNIND31",
+      "nameHeading": "<h2>Industriella produktionsmetoder 1, 100 poäng</h2>",
+      "name": "Industriella produktionsmetoder 1",
+      "englishName": "Industrial production methods 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen industriella produktionsmetoder 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Termer och begrepp som är relevanta för industriella produktionsmetoder.</li> <li>Metoder för bearbetning, formning, sammanfogning och additiv tillverkning.</li> <li>Mät- och handverktyg.</li> <li>Planerings-, berednings- och tillverkningsunderlag för produktion.</li> <li>Tekniska beräkningar och beräkningar av materialåtgång.</li> <li>Olika metoders användningsområden, produktionsutrustningar och utvecklingspotential.</li> <li>Olika materials förändrade egenskaper vid olika produktionsmetoder och olika materials påverkan på produktionsutrustningen.</li> <li>Tolkning av produktionsutrustningars tekniska beskrivning.</li> <li>Val av utrustning, verktyg och metoder för att uppnå rätt kvalitet på tillverkade produkter.</li> <li>Påverkan på produktionsekonomi med koppling till val av industriell produktionsmetod.</li> <li>Översiktsplanering av industriprodukters produktionsprocess mellan produktionsmetoder och produktionsenheter.</li> <li>Regler för arbetsmiljö och säkerhet samt exempel på förbättrad säkerhet.</li> <li>Kommunikation kring planering och metodval.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven resonerar <strong>övergripande </strong>om olika produktionsmetoder och använder sig av begrepp som är vanliga inom området. Eleven redogör <strong>övergripande </strong>för hur material kan förädlas med olika industriella produktionsmetoder.</p> <p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare en industriell produktionsprocess från metod till färdig produktionslinje. I sitt arbete använder eleven <strong>med säkerhet</strong> olika produktionsunderlag för produktion och utrustning samt beräknar materialåtgång. Eleven tar <strong>efter samråd </strong>med handledare hänsyn till hur olika material påverkas av metodval och utrustning. Eleven anpassar <strong>med säkerhet </strong>produktionsmetod utifrån uppdragets produktionstekniska ramar och tar <strong>med säkerhet</strong> hänsyn till ekonomi, arbetsmiljö och säkerhet.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven resonerar <strong>utförligt</strong> för olika produktionsmetoder och använder sig av begrepp som är vanliga inom området. Eleven redogör <strong>utförligt</strong> för hur material kan förädlas med olika industriella produktionsmetoder.</p> <p>Eleven planerar och organiserar <strong>självständigt</strong> <strong>efter samråd </strong>med handledare en industriell produktionsprocess från metod till färdig produktionslinje. I sitt arbete använder sig eleven <strong>med god säkerhet</strong> av olika produktionsunderlag för produktion och utrustning samt beräknar materialåtgång. Eleven tar <strong>självständigt</strong> <strong>efter samråd </strong>med handledare hänsyn till hur olika material påverkas av metodval och utrustning. Eleven anpassar <strong>med god säkerhet </strong>produktionsmetod utifrån uppdragets produktionstekniska ramar och tar <strong>med god säkerhet</strong> hänsyn till ekonomi, arbetsmiljö och säkerhet.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven resonerar <strong>utförligt och nyanserat</strong> för olika produktionsmetoder och använder sig av begrepp som är vanliga inom området. Eleven redogör <strong>utförligt och nyanserat</strong> för hur material kan förädlas med olika industriella produktionsmetoder.</p> <p>Eleven planerar och organiserar <strong>självständigt</strong> en industriell produktionsprocess från metod till färdig produktionslinje. I sitt arbete använder sig eleven <strong>med mycket god säkerhet</strong> av olika produktionsunderlag för produktion och utrustning samt beräknar materialåtgång. Eleven tar <strong>självständigt </strong>hänsyn till hur olika material påverkas av metodval och utrustning. Eleven anpassar <strong>med mycket god säkerhet </strong>produktionsmetod utifrån uppdragets produktionstekniska ramar och tar <strong>med mycket god säkerhet</strong> hänsyn till ekonomi, arbetsmiljö och säkerhet.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INNIND32</h3>",
+      "code": "INNIND32",
+      "nameHeading": "<h2>Industriella produktionsmetoder 2, 100 poäng</h2>",
+      "name": "Industriella produktionsmetoder 2",
+      "englishName": "Industrial production methods 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen industriella produktionsmetoder 2 omfattar punkterna 3–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Tolkning av mönster- och ritningsunderlag.</li> <li>Relevanta termer och begrepp.</li> <li>Effektivisering och optimering av inställningar på produktionsutrustning, kringutrustning och maskiner.</li> <li>Teknisk beskrivning, funktionskontroll och mätning av produktionsutrustning och kringutrustning.</li> <li>Beräkningar och modeller för planering och optimering av produktionsprocessen för minimering av förluster.</li> <li>Planering och beredning för produktion av produkter som kräver mer än en produktionsmetod.</li> <li>Programmering, produktionsförberedelse och justeringar. Justeringar i program och maskininställningar samt produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.</li> <li>Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.</li> <li>Mätningar, bedömningar och dokumentation av kvaliteten på utfört arbete.</li> <li>Metod för att göra riskanalys och tillhörande riskbedömning och betydelsen av dessa för organisation och genomförande av arbetet.</li> <li>Val av utrustning, verktyg och teknik för optimalt produktionsresultat och förbättrad produktionsekonomi.</li> <li>Organisation av arbetsplatser.</li> <li>Dimensionering, tekniska beräkningar och materialberäkningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven läser och tolkar <strong>med säkerhet</strong> produktionsunderlag och genomför <strong>efter samråd </strong>med handledare ett producerande arbete inom vald industriell produktionsmetod. Eleven resonerar <strong>övergripande </strong>om olika moderna produktionsmetoder och deras användningsområden.</p> <p>Eleven planerar, bereder och organiserar <strong>efter samråd </strong>med handledare en industriell produktionsmetod och redogör <strong>övergripande</strong> för hur olika metoder kombineras till en produktionslinje för en produkt. Eleven kan <strong>med säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning.</p> <p>Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och gör <strong>efter samråd </strong>med handledare en riskanalys.</p> <p>Eleven redogör <strong>övergripande</strong> för olika metoder och arbetssätt, löser <strong>efter samråd</strong> med handledare produktionstekniska problem och föreslår <strong>med säkerhet</strong> förbättringar inom vald produktionsmetod.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven läser och tolkar <strong>med god säkerhet</strong> produktionsunderlag och genomför <strong>självständigt efter samråd </strong>med handledare ett producerande arbete inom vald industriell produktionsmetod. Eleven resonerar <strong>utförligt </strong>för olika moderna produktionsmetoder och deras användningsområden.</p> <p>Eleven planerar, bereder och organiserar <strong>självständigt</strong> <strong>efter samråd </strong>med handledare en industriell produktionsmetod och redogör <strong>utförligt </strong>för hur olika metoder kombineras till en produktionslinje för en produkt. Eleven kan <strong>med god säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning.</p> <p>Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan <strong>självständigt efter samråd </strong>med handledare göra en riskanalys.</p> <p>Eleven redogör <strong>utförligt </strong>för olika metoder och arbetssätt, löser<strong> självständigt efter samråd</strong> med handledare produktionstekniska problem och föreslår <strong>med</strong> <strong>god säkerhet</strong> förbättringar inom vald produktionsmetod.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven läser och tolkar <strong>med mycket god säkerhet</strong> produktionsunderlag och genomför <strong>självständigt</strong> ett producerande arbete inom vald industriell produktionsmetod. Eleven resonerar <strong>utförligt och nyanserat </strong>för olika moderna produktionsmetoder och deras användningsområden.</p> <p>Eleven planerar, bereder och organiserar <strong>självständigt</strong> en industriell produktionsmetod och redogör <strong>utförligt och nyanserat</strong> för hur olika metoder kombineras till en produktionslinje för en produkt. Eleven kan <strong>med mycket god säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning.</p> <p>Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan <strong>självständigt </strong>göra en riskanalys.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika metoder och arbetssätt, löser <strong>självständigt</strong> produktionstekniska problem och föreslår <strong>med mycket god säkerhet</strong> förbättringar inom vald produktionsmetod.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INNIND33</h3>",
+      "code": "INNIND33",
+      "nameHeading": "<h2>Industriella produktionsmetoder 3, 100 poäng</h2>",
+      "name": "Industriella produktionsmetoder 3",
+      "englishName": "Industrial production methods 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen industriella produktionsmetoder 3 omfattar punkterna 2–3 och 6–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Produktionsunderlag och komplexa program.</li> <li>Begrepp, metoder och tekniker för produktionsutrustning och kringutrustning samt specialiserad teknisk beskrivning av produktionsutrustning och kringutrustning.</li> <li>Automatiska metoder för optimering med modern mätutrustning.</li> <li>Dimensionering av material samt tekniska och ekonomiska beräkningar.</li> <li>Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.</li> <li>Materialtekniska egenskaper och introduktion till aktuell forskning och utveckling inom material- och produktionsmetodområdet.</li> <li>Laborativa materialförsök, förstörande och icke förstörande provning och eventuella alternativa material i produktionen.</li> <li>Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter och deras betydelse för organisation och arbetets genomförande.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven använder <strong>med säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod. Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med säkerhet</strong> datorstyrd produktionsutrustning.</p> <p>Eleven använder <strong>efter samråd </strong>med handledare sina kunskaper om olika metoder och arbetssätt, löser <strong>med säkerhet</strong> produktionstekniska problem och föreslår <strong>efter samråd </strong>med handledare förbättringar inom vald produktionsmetod. I planeringen och genomförandet använder eleven arbetsmiljölagar och säkerhetsföreskrifter.</p> <p>Eleven genomför <strong>efter samråd</strong> med handledare olika typer av tester och prov för materialval. Eleven dokumenterar <strong>med</strong> <strong>säkerhet</strong> såväl tester som resultat och ger förslag på förbättringar.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven använder <strong>med god säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod. Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med god säkerhet</strong> datorstyrd produktionsutrustning.</p> <p>Eleven använder <strong>självständigt efter samråd </strong>med handledare sina kunskaper om olika metoder och arbetssätt, löser <strong>med god säkerhet</strong> produktionstekniska problem och föreslår <strong>självständigt efter samråd </strong>med handledare förbättringar inom vald produktionsmetod. I planering och genomförande använder sig eleven av arbetsmiljölagar och säkerhetsföreskrifter.</p> <p>Eleven genomför <strong>självständig</strong>t <strong>efter samråd</strong> med handledare olika typer av tester och prov för materialval. Eleven dokumenterar <strong>med god säkerhet </strong>såväl tester som resultat och ger förslag på förbättringar.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven använder <strong>med mycket god säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod. Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med mycket god säkerhet</strong> datorstyrd produktionsutrustning.</p> <p>Eleven använder <strong>självständigt </strong>sina kunskaper om olika metoder och arbetssätt, löser <strong>med mycket god säkerhet</strong> produktionstekniska problem och föreslår <strong>självständigt</strong> förbättringar inom vald produktionsmetod. I planering och genomförande använder sig eleven av arbetsmiljölagar och säkerhetsföreskrifter.</p> <p>Eleven genomför <strong>självständigt </strong>olika typer av tester och prov för materialval. Eleven dokumenterar <strong>med mycket god säkerhet</strong> såväl tester som resultat och ger förslag på förbättringar.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.051Z"
+}

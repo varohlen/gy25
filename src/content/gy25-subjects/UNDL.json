@@ -1,0 +1,78 @@
+{
+  "code": "UNDL",
+  "name": "Underhåll – pumpteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:241",
+  "nameHeading": "<h2>Underhåll – pumpteknik</h2>",
+  "description": "<p>Det industrialiserade samhället bygger på tekniska system med hög driftsäkerhet, något som förutsätter ett modernt underhåll. Ett fungerande underhåll förhindrar driftavbrott, förlänger systemens livslängd och minskar användningen av energi och andra resurser. Ämnet underhåll – pumpteknik behandlar uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet underhåll – pumpteknik ska syfta till att eleverna utvecklar förmåga att utföra drift- och underhållsarbete inom pumpteknik. Undervisningen ska även leda till att eleverna utvecklar kunskaper om uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att identifiera, välja och hantera verktyg, instrument, utrustning och material för att utföra drift- och underhållsarbete. Undervisningen ska även leda till att eleverna utvecklar förmåga att planera och dokumentera underhållsarbeten inom pumpteknik. Underhåll av pumpsystem förutsätter ett systematiskt och säkert arbetssätt. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att tolka och använda teknisk dokumentation och säkerhetsföreskrifter samt att arbeta i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även bidra till att eleverna utvecklar förmåga att följa arbetsmetoder, instruktioner och säkerhetsanvisningar.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom och mellan olika yrkesgrupper. Eleverna ska genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom underhållsteknik. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet underhåll – pumpteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</li> <li>Förmåga att planera, utföra och dokumentera drift- och underhållsarbeten inom pumpteknik.</li> <li>Färdigheter i att välja och hantera verktyg, instrument, utrustning och material.</li> <li>Förmåga att tolka och använda teknisk dokumentation.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera om arbetsprocess och resultat.</li> </ul><h3>Nivåer i ämnet underhåll – pumpteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: UNDL1000X</h3>",
+      "code": "UNDL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – pumpteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Allmän pumpteknik</em></p> <ul> <li>Pumpar och pumpsystem, uppbyggnad av och funktion hos system och komponenter samt användningsområden för vanligt förekommande pumpar och systemlösningar.</li> <li>Grundläggande principer, prestanda och konstruktion hos olika pumptekniker.</li> <li>Energiomvandlingar, flödesdistribution, uppfordringshöjd och systemförluster.</li> <li>Axelkopplingar, tätningar, drivkällor, lager, uppriktning, ventil- och materialval.</li> <li>Vanligt förekommande drift- och underhållsrutiner för pumpar och pumpsystem.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Pumputrustning, däribland montering, demontering, uppriktning, balansering och vibrationsmätning.</li> <li>Avställning, återställning, driftsättning och provning av pumpar.</li> <li>Förebyggande och avhjälpande underhåll av vanligt förekommande pumpar med hjälp av teknisk dokumentation.</li> <li>Grundläggande metoder för planering och dokumentation av underhållsarbete.</li> <li>Verktyg, instrument och utrustning för olika typer av arbeten. Olika typer av material för drift- och underhållsarbeten.</li> <li>Tolkning och användning av teknisk dokumentation, däribland ritningar, scheman och manualer för vanligt förekommande pumpar.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med lagar och andra bestämmelser som gäller inom pumpteknik, däribland säkerhetsföreskrifter.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Samverkan inom underhållsorganisationen för planering av underhållsarbete.</li> <li>Användning av tekniska begrepp inom yrket för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: UNDL2000X</h3>",
+      "code": "UNDL2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet underhåll – pumpteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Allmän pumpteknik</em></p> <ul> <li>Pumpar och pumpsystem, uppbyggnad av och funktion hos system och komponenter samt användningsområden för vanligt förekommande pumpar och systemlösningar.</li> <li>Pumptekniska beräkningar och mätningar inom hydrostatik och hydrodynamik.</li> <li>Affinitetslagarna, pump- och systemkurvor samt kavitation för pumpsystem.</li> <li>Energiomvandlingar samt hydro- och termodynamisk inverkan på pumpar och medier.</li> <li>Olika typer av tätningar, axelkopplingar, drivkällor, lager, kylare och material.</li> <li>Regleringsmetoder samt drift- och underhållsrutiner för olika pumpar och pumpsystem.</li> </ul> <p><em>Drift och underhåll</em></p> <ul> <li>Praktiska övningar med pumputrustning, däribland montering, demontering, serie- och parallellkoppling, stryp- och varvtalsreglering samt optimering av verkningsgrad.</li> <li>Avställning, återställning, driftsättning och provning av pumpsystem.</li> <li>Förebyggande och avhjälpande underhåll av olika pumpar och system med hjälp av teknisk dokumentation.</li> <li>Metoder för planering, dokumentation och utvärdering av underhållsarbete.</li> <li>Hantering av verktyg, instrument, utrustning och material samt analys av mätvärden för utvärdering av prestanda, felsökning och felavhjälpning.</li> <li>Tolkning och användning av föreskrifter och teknisk dokumentation, däribland ritningar, scheman och manualer för komplexa pumpsystem.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Tolkning av säkerhetsföreskrifter.</li> <li>Arbete i enlighet med säkerhetsföreskrifter, lagar och andra bestämmelser som gäller inom branschspecifik pumpteknik, däribland föreskrifter om arbetsmiljö, person- och maskinsäkerhet.</li> <li>Andra bestämmelser inom området, till exempel vid kemiska, biologiska eller radiologiska faror.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö för olika arbetsprocesser på arbetsplatsen.</li> <li>Samverkan inom och mellan olika avdelningar för planering av underhållsarbete.</li> <li>Användning av tekniska begrepp och uttryck samt kommunikation om arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver på ett <strong>godtagbart</strong> sätt uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>godtagbart</strong> resultat. I arbetet utför eleven <strong>enkla</strong> beräkningar och mätningar. Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar verktyg, instrument, utrustning och material med <strong>viss säkerhet</strong>.</p> <p>Eleven tolkar och använder teknisk dokumentation med <strong>viss säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar om arbetsprocess och resultat på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver på ett <strong>utvecklat</strong> sätt uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>gott</strong> resultat. I arbetet utför eleven <strong>relativt komplexa</strong> beräkningar och mätningar. Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar verktyg, instrument, utrustning och material med <strong>säkerhet</strong>.</p> <p>Eleven tolkar och använder teknisk dokumentation med <strong>säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar om arbetsprocess och resultat på ett <strong>fungerande</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt uppbyggnad, funktion, drift och underhåll av pumpar och pumpsystem.</p> <p>Eleven planerar och utför underhållsarbeten med <strong>mycket gott</strong> resultat. I arbetet utför eleven <strong>komplexa</strong> beräkningar och mätningar. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven väljer och hanterar verktyg, instrument, utrustning och material med <strong>god säkerhet</strong>.</p> <p>Eleven tolkar och använder teknisk dokumentation med <strong>god säkerhet</strong>.</p> <p>Eleven håller ordning på arbetsplatsen och arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar om arbetsprocess och resultat på ett <strong>väl fungerande</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.097Z"
+}

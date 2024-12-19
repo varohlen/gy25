@@ -1,0 +1,78 @@
+{
+  "code": "HALB",
+  "name": "Hållbart samhällsbyggande",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:267",
+  "nameHeading": "<h2>Hållbart samhällsbyggande</h2>",
+  "description": "<p>Ämnet hållbart samhällsbyggande är tvärvetenskapligt och behandlar samhällsplanering och den gestaltade livsmiljön med fokus på ekonomisk, social och miljömässig hållbarhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hållbart samhällsbyggande ska syfta till att eleverna utvecklar kunskaper om de förutsättningar, drivkrafter och värden som ligger till grund för arbete med hållbart samhällsbyggande. Undervisningen ska bidra till att eleverna utvecklar kunskaper om samhällsbyggnadshistoria och teorier som har haft betydelse för utformningen av olika samhällen. Undervisningen ska även ge eleverna möjlighet att reflektera över samband mellan den gestaltade livsmiljön och hållbar utveckling. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om hur ett samhälle planeras och förändras utifrån olika målgruppers behov och sociala aspekter som till exempel tillgänglighet, klass eller kön.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hur samhällsbyggnadsproblem har lösts och kan lösas. Eleverna ska även ges möjlighet att kritiskt och kreativt analysera dessa lösningar. På så vis ska undervisningen bidra till att utveckla elevernas förståelse av olika handlingsalternativ och deras konsekvenser. Undervisningen ska dessutom leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt förmåga att delta i samhällsbyggandets demokratiska process.</p> <p>I undervisningen ska eleverna ges möjlighet till ett undersökande, praktiskt och verklighetsnära arbetssätt. Därigenom ska eleverna ges möjlighet att utveckla förmåga att tolka och framställa underlag samt planera och genomföra stadsbyggnadsförslag. Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att med hjälp av relevanta begrepp kommunicera förslag och idéer, både muntligt och skriftligt, samt använda olika presentationstekniker. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom samhällsbyggande.</p> <h5><em>Undervisningen i ämnet hållbart samhällsbyggande ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda begrepp, teorier och modeller inom området hållbart samhällsbyggande.</li> <li>Kunskaper om olika förutsättningar och möjligheter för att nå ett hållbart samhällsbyggande.</li> <li>Förmåga att planera och genomföra egna undersökningar och förslag.</li> <li>Förmåga att presentera sina idéer och resultat.</li> <li>Förmåga att analysera konsekvenser av olika handlingsalternativ utifrån ekonomisk, social och miljömässig hållbarhet.</li> </ul><h3>Nivåer i ämnet hållbart samhällsbyggande</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALB1000X</h3>",
+      "code": "HALB1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbart samhällsbyggande på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Begrepp, teorier och modeller inom hållbart samhällsbyggande.</li> <li>Samhällsbyggnadsidéer och samhällsutveckling ur ett historiskt perspektiv.</li> <li>Planerings- och beslutsprocesser inom samhällsplanering.</li> <li>Lagar och andra bestämmelser som är relevanta för samhällsplaneringsprocessen och ett hållbart samhällsbyggande.</li> </ul> <p><em>Analys, problemlösning och kommunikation</em></p> <ul> <li>Praktiska fallstudier som inbegriper infrastrukturella lösningar och tekniska system, till exempel vid bostadsplanering och planering av transportsystem.</li> <li>Ritningar, planer och modeller som används vid samhällsplanering.</li> <li>Digitala verktyg för presentation och kommunikation av förslag.</li> <li>Användning av geografiska informationssystem (GIS) i planeringsprocessen.</li> <li>Samband mellan utformningen av ett hållbart samhälle och människors livsvillkor.</li> <li>Tekniska, estetiska, ekonomiska, sociala och miljömässiga aspekter av samhällsbyggande.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HALB2000X</h3>",
+      "code": "HALB2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbart samhällsbyggande på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Tillämpning av begrepp, teorier och modeller utifrån något eller några samhällsbyggnadsidéer inom hållbart samhällsbyggande.</li> <li>Samhällsplanering inom något område i enlighet med lagar och andra bestämmelser inom området samt med hänsyn till hållbar utveckling.</li> </ul> <p><em>Analys, problemlösning och kommunikation</em></p> <ul> <li>Praktiska fallstudier i komplexa processer med fokus på förutsättningar för ett hållbart samhällsbyggande.</li> <li>Framställning av ritningar och modeller för samhällsbyggnadsuppgifter.</li> <li>Presentation av samhällsbyggnadsförslag med hjälp av olika relevanta verktyg.</li> <li>Fördjupad tolkning och konsekvensanalys av olika handlingsalternativ, utifrån ett hållbarhetsperspektiv.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder med <strong>viss säkerhet</strong> begrepp, teorier och modeller inom området hållbart samhällsbyggande.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika förutsättningar och möjligheter att nå ett hållbart samhällsbyggande.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> egna undersökningar och förslag.</p> <p>Eleven gör <strong>enkla</strong> presentationer av sina idéer och resultat.</p> <p>Eleven gör <strong>enkla</strong> analyser av olika handlingsalternativs konsekvenser för en hållbar utveckling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder med <strong>säkerhet</strong> begrepp, teorier och modeller inom området hållbart samhällsbyggande.</p> <p>Eleven redogör <strong>utförligt</strong> för olika förutsättningar och möjligheter att nå ett hållbart samhällsbyggande.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> egna undersökningar och förslag.</p> <p>Eleven gör <strong>genomarbetade</strong> presentationer av sina idéer och resultat.</p> <p>Eleven gör <strong>välgrundade</strong> analyser av olika handlingsalternativs konsekvenser för en hållbar utveckling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder med <strong>god säkerhet</strong> begrepp, teorier och modeller inom området hållbart samhällsbyggande.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika förutsättningar och möjligheter att nå ett hållbart samhällsbyggande.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> egna undersökningar och förslag.</p> <p>Eleven gör <strong>väl genomarbetade</strong> presentationer av sina idéer och resultat.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> analyser av olika handlingsalternativs konsekvenser för en hållbar utveckling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.011Z"
+}

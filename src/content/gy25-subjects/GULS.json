@@ -1,0 +1,106 @@
+{
+  "code": "GULS",
+  "name": "Guldsmed – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen, inkluderar föreskrift om ändring SKOLFS 2024:587",
+  "skolfsGrund": "2024:301",
+  "nameHeading": "<h2>Guldsmed – fördjupning</h2>",
+  "description": "<p>Guldsmedsyrket är ett hantverksyrke med lång tradition. Ämnet guldsmed – fördjupning behandlar hantverksmässiga guldsmedstekniker vid tillverkning och reparation av smycken. Ämnet behandlar även marknadsföring och försäljning av smycken samt guldsmedsyrkets historia och utvecklingsmöjligheter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet guldsmed – fördjupning ska syfta till att eleverna utvecklar förmåga att använda olika guldsmedstekniker i skapandet av smycken och i övrigt förekommande arbeten. Eleverna ska ges möjlighet att utveckla förmåga att planera arbetet, välja lämpliga material och tekniker, utföra arbetet samt att utvärdera arbetsprocess och resultat. Undervisningen ska stimulera elevernas nyfikenhet och självständighet samt utveckla deras idérikedom, personliga ansvarstagande, egna drivkraft och skaparglädje. Eleverna ska dessutom ges möjlighet att utveckla ett kreativt tänkande med känsla för form och konstnärligt skapande.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att använda guldsmedsyrkets fackspråk för att kommunicera både med kunder och medarbetare. Den ska ge eleverna möjlighet att utveckla kunskaper om marknadsföring och ett målinriktat säljarbete samt om att använda digitala verktyg inom området. Guldsmedsyrket och branschen består till stor del av små företag och därför ska undervisningen stimulera elevernas intresse för entreprenörskap. Undervisningen ska leda till att eleverna utvecklar ett entreprenöriellt och kreativt förhållningssätt.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om villkor och utvecklingsmöjligheter inom guldsmedsbranschen, nationellt och internationellt. Undervisningen ska också behandla guldsmedsbranschens traditioner och historiska utveckling. Som inspirationskälla och som grund för ökad förståelse av stilhistoriska influenser ska eleverna ges möjlighet att utveckla kunskaper om såväl dagens trendutveckling som den stilhistoriska utvecklingen inom guldsmedsyrket.</p> <p>Genom undervisningen ska eleverna ges rika möjligheter att på ett säkert och hållbart sätt träna och förfina sin förmåga att använda guldsmedstekniker vid tillverkning av smycken. Eleverna ska också ges möjlighet att använda sina teoretiska kunskaper om arbetsprocess, tekniker, verktyg och material i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet guldsmed – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra olika tekniker inom guldsmide vid tillverkning av smycken.</li> <li>Förmåga att utvärdera arbetsprocess och resultat.</li> <li>Förmåga att utföra skisser samt att använda form och proportioner i skapandeprocessen.</li> <li>Förmåga att utföra arbetsuppgifter inom försäljning och service.</li> <li>Kunskaper om stilepoker och smyckestrender.</li> </ul><h3>Nivåer i ämnet guldsmed – fördjupning</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 4 i ämnet guldsmed – teknik.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GULS1000X</h3>",
+      "code": "GULS1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med formgivning i guld eller silver innehållande kontracharner, till exempel medaljong eller armband.</li> <li>Vanligt förekommande reparationer av smycken, till exempel lödning av broschmekanik.</li> <li>Tillverkning av vaxmodeller som används för gjutning.</li> <li>Planering av arbetet, beräkning av tidsåtgång och materialberäkning.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> <li>Skisstekniker för enkla skisser och proportionslära genom lodlinjer och vinklar för att skapa rätt proportioner.</li> <li>Enklare formgivning av smycken i cad (computer aided design).</li> <li>Hur digitala tekniker kan användas, till exempel inom marknadsföring.</li> <li>Faktorer som påverkar prissättning av smycken och tjänster.</li> <li>Kommunikationens betydelse i olika sälj- och servicesituationer vid kontakt med kund.</li> <li>Guldsmedsyrkets villkor och karriärmöjligheter nationellt.</li> <li>Centrala stilepoker och smyckestrender.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULS2000X</h3>",
+      "code": "GULS2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – fördjupning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken i guld eller silver med komplex lödning, sågning och fräsning, till exempel tillverkning av carmoséring.</li> <li>Vanligt förekommande reparationer av smycken, till exempel reparationer av pärlsmycken eller andra reparationer av känslig natur.</li> <li>Reparation av smycken med användning av lasersvets.</li> <li>Tillverkning av vaxmodeller som används för gjutning.</li> <li>Gjutning av smycken.</li> <li>Planering av arbete samt materialberäkning och beräkning av tidsåtgång.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> <li>Hur skisstekniker används vid idéutveckling.</li> <li>Formers och proportioners betydelse för smyckets design och användningsområde.</li> <li>Formgivning och konstruktionsritning, däribland med användning av cad (computer aided design).</li> <li>Digitala exponeringstekniker.</li> <li>Prissättning av smycken och tjänster. Prissättningens betydelse för ett företags lönsamhet.</li> <li>Serviceinriktat och kundorienterat bemötande.</li> <li>Guldsmedsyrkets karriärmöjligheter nationellt, däribland regler för gesäll- och mästarbrev.</li> <li>Stilepoker samt hur historiska tekniker har påverkat nya tekniker och trender.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULS3000X</h3>",
+      "code": "GULS3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – fördjupning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med komplexa konstruktioner, till exempel genom historisk eller ny modell.</li> <li>Vanligt förekommande reparationer av smycken, till exempel utökning av ring genom ditsättning av bit på ring med infattad sten.</li> <li>Tillverkning av vaxmodeller som används för gjutning.</li> <li>Gjutning av smycken.</li> <li>Planering av arbete med beräkning av material- och tidsåtgång.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> <li>Utveckling av skissteknik för detaljerade skisser och proportionslära.</li> <li>Formgivning av smycken av komplex karaktär i cad (computer aided design).</li> <li>Digitala exponeringstekniker.</li> <li>Marknadsföring, till exempel skyltning i butik.</li> <li>Prissättning av smycken och tjänster med hänsyn till fasta och rörliga kostnader.</li> <li>Serviceinriktat och kundorienterat bemötande.</li> <li>Centrala stilepoker och smyckestrender. Trendtolkning och analys av aktuella smyckestrender.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULS4000X</h3>",
+      "code": "GULS4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – fördjupning på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med komplexa specialtekniker och konstruktioner, till exempel galleriarbete.</li> <li>Vanligt förekommande reparationer av smycken, till exempel komplexa lödningar av armband.</li> <li>Tillverkning av vaxmodeller som används för gjutning.</li> <li>Gjutning av egendesignad smyckesmodell.</li> <li>Effektivitet, rimlig tidsåtgång och kreativitet i produktionsarbetet med lönsamhet och resultatets kvalitet i fokus.</li> <li>Planering av arbete med beräkning av material- och tidsåtgång med fokus på lönsamhet.</li> <li>Kommunikation om arbetsprocessen samt utvärdering och analys av det färdiga resultatet.</li> <li>Skissteknik och proportionslära med färgläggning, överföringstekniker och idéritning till kund.</li> <li>Formgivning av smycken av komplex karaktär i cad (computer aided design).</li> <li>Digital exponering.</li> <li>Riktad marknadsföring till kund, till exempel utifrån marknadsundersökning.</li> <li>Prissättning av smycken och tjänster.</li> <li>Säljfrämjande och kundorienterat bemötande.</li> <li>Material och produkters utveckling genom historien, till exempel förändrade priser av ädelmetall.</li> <li>Centrala stilepoker och smyckestrender. Trendtolkning och analys av aktuella smyckestrender.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför olika tekniker inom guldsmide vid tillverkning av smycken med <strong>viss</strong> skicklighet och uppnår ett <strong>godtagbart</strong> resultat.</p> <p>Eleven utvärderar arbetsprocess och resultat med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven utför skisser och använder med <strong>viss</strong> skicklighet form och proportioner i sin skapandeprocess.</p> <p>Eleven utför arbetsuppgifter med <strong>viss säkerhet</strong> i försäljnings- och servicesituationer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om stilepoker och smyckestrender.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför olika tekniker inom guldsmide vid tillverkning av smycken med <strong>god</strong> skicklighet och uppnår ett <strong>gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocess och resultat med <strong>utvecklade</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven utför skisser och använder med <strong>god</strong> skicklighet form och proportioner i sin skapandeprocess.</p> <p>Eleven utför arbetsuppgifter med <strong>säkerhet</strong> i försäljnings- och servicesituationer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om stilepoker och smyckestrender.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför olika tekniker inom guldsmide vid tillverkning av smycken med <strong>mycket god</strong> skicklighet och uppnår ett <strong>mycket gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocess och resultat med <strong>välutvecklade</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p> <p>Eleven utför skisser och använder med <strong>mycket god</strong> skicklighet form och proportioner i sin skapandeprocess.</p> <p>Eleven utför arbetsuppgifter med <strong>god säkerhet</strong> i försäljnings- och servicesituationer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om stilepoker och smyckestrender.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.010Z"
+}

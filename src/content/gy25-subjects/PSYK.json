@@ -1,0 +1,78 @@
+{
+  "code": "PSYK",
+  "name": "Psykiatri",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:101",
+  "nameHeading": "<h2>Psykiatri</h2>",
+  "description": "<p>Ämnet psykiatri är tvärvetenskapligt och bygger i huvudsak på medicinsk vetenskap, vårdvetenskap, socialt arbete, social omsorg och pedagogik. Ämnet behandlar vård och omsorg vid psykiska sjukdomstillstånd och de funktionsnedsättningar som följer, utifrån pedagogiska, etiska och kulturella perspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet psykiatri ska syfta till att eleverna utvecklar kunskaper om psykisk ohälsa och olika psykiska sjukdomstillstånd. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur psykiska sjukdomar uppkommer, faktorer som bidrar till psykisk hälsa och vilka möjligheter samhället och enskilda människor har att påverka dessa. I undervisningen ska eleverna ges möjlighet att diskutera orsaker till ökningen av psykisk ohälsa samt de fördomar som finns om psykiska sjukdomar.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur vården, omsorgen och omvårdnaden bör utformas för patienter eller brukare med psykiska sjukdomar samt hur patienter eller brukare med stöd kan få ett fungerande liv. Det ska leda till att eleverna utvecklar förmåga att på ett aktivt och ansvarsfullt sätt planera och genomföra vård-, omsorgs- och omvårdnadsarbete som främjar psykisk hälsa, psykisk återhämtning och psykiskt tillfrisknande. Eleverna ska ges möjlighet att utveckla förmåga att dokumentera och utvärdera det egna arbetet. Eleverna ska också ges möjlighet att utveckla kunskaper om vikten av samverkan mellan vårdgivare och patienter samt brukare och andra berörda. Undervisningen ska även bidra till att eleverna utvecklar förmåga att möta och kommunicera med patienter och brukare med ett respektfullt, lyhört, empatiskt och reflekterande förhållningssätt samt utifrån evidensbaserade metoder.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur psykiatrin har utvecklats. Eleverna ska även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt förmåga att utifrån ett etiskt förhållningssätt arbeta i enlighet med dessa.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna få inblick i samt erfarenhet av arbetsuppgifter kopplade till psykiatrin. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet psykiatri ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika psykiska sjukdomstillstånd och deras orsaker samt faktorer som påverkar hälsa och ohälsa och de fördomar som finns om psykisk ohälsa.</li> <li>Kunskaper om hur samarbete inom psykiatrin och med närstående påverkar patienters och brukares återhämtning.</li> <li>Förmåga att planera och genomföra vård-, omsorgs- och omvårdnadsarbete vid olika psykiska sjukdomstillstånd och vid psykisk ohälsa.</li> <li>Förmåga att bemöta och kommunicera med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt samt att reflektera över det egna förhållningssättet.</li> <li>Kunskaper om psykiatrins utveckling gällande människosyn och organisation samt om lagar och andra bestämmelser som styr verksamhetsområdet.</li> </ul><h3>Nivåer i ämnet psykiatri</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PSYK1000X</h3>",
+      "code": "PSYK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykiatri på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanligt förekommande psykiska sjukdomar, däribland stressrelaterade sjukdomar, depression, ätstörningar, ångesttillstånd hos äldre och yngre samt missbruk.</li> <li>Prevention, diagnostik, behandling, omvårdnad och återhämtning vid vanligt förekommande psykiska sjukdomar.</li> <li>Frisk- och riskfaktorer som kan påverka psykisk hälsa och ohälsa, däribland individens fysiska, psykosociala och socioekonomiska förutsättningar samt könstillhörighet.</li> <li>Synen på psykisk hälsa och ohälsa samt hur stigmatisering uppstår.</li> <li>Krisreaktioner och krisens olika faser.</li> <li>Psykiatrins möjligheter till stöd i form av resurspersoner, olika boenden och boendestödsverksamheter samt betydelsen av sysselsättning.</li> <li>Personcentrerad vård, teamarbete och interprofessionella samarbeten.</li> <li>Omvårdnads- och omsorgsprocessens olika steg och innehåll med planering, genomförande, dokumentation och utvärdering av stöd- och hjälpinsatser till den enskilde.</li> <li>Introduktion till olika metoder och behandlingsformer vid psykiska sjukdomstillstånd, däribland läkemedelsbehandling, beteendeterapi och internetbaserad behandling.</li> <li>Kommunikation, samarbete och samverkan med patienter, brukare, anhöriga och övriga samarbetspartners.</li> <li>Bemötande och förhållningssätt inom psykiatrisk vård och i brukarens hemmiljö utifrån evidensbaserade metoder.</li> <li>Reflektion över det egna förhållningssättet.</li> <li>Psykiatrins historiska utveckling och hur det format dagens psykiatri och syn på psykisk sjukdom.</li> <li>Lagar och andra bestämmelser som styr verksamheten, däribland hälso- och sjukvårdslagen (HSL), lagen om psykiatrisk tvångsvård (LPT) och lagen om vård av missbrukare i vissa fall (LVM).</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PSYK2000X</h3>",
+      "code": "PSYK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykiatri på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Psykiska sjukdomar, däribland psykoser, bipolärt syndrom, posttraumatiskt stressyndrom (PTSD) emotionell instabil personlighetsstörning, självskadebeteenden och de funktionsnedsättningar som följer samt deras orsaker.</li> <li>Symtom, skattningsinstrument, behandling, vård och omsorg, omvårdnad samt vikten av prevention och återhämtning vid psykiska sjukdomar.</li> <li>Förklaringsmodeller till hur psykisk ohälsa uppstår utifrån evidensbaserad kunskap.</li> <li>Synen på psykisk hälsa och ohälsa samt hur stigmatisering kan uppstå och hur den kan hanteras.</li> <li>Samsjuklighet samt bruk och missbruk vid psykisk ohälsa utifrån ett individperspektiv.</li> <li>Krishantering.</li> <li>Former för samverkan och delaktighet mellan brukare och olika huvudmän med hjälp av samordnad individuell plan samt samverkan med anhöriga.</li> <li>Vård och stödsamordnade insatser för personer med psykisk sjukdom.</li> <li>Stödverksamheter till barn med föräldrar med psykisk funktionsnedsättning eller missbruksproblematik.</li> <li>Hur observationer och förmedling av behov, planering, genomförande, dokumentation och utvärdering av socialt omsorgs- och omvårdnadsarbete kan genomföras.</li> <li>Läkemedelsbehandling.</li> <li>Olika metoder för suicidprevention.</li> <li>Olika behandlingsformer vid psykiska sjukdomstillstånd, däribland kognitiv och dialektisk beteendeterapi. Evidensbaserade metoder, till exempel social färdighetsträning för ett självständigt liv.</li> <li>Internetbaserad behandling.</li> <li>Riktlinjer och förhållningssätt i kommunikation och samverkan med patienter, brukare och närstående samt utifrån brukarens behov och rätten till självbestämmande, integritet och relationer vid arbete i brukarens hemmiljö.</li> <li>Reflektioner över det egna förhållningssättet.</li> <li>Olika samtalsmetoder i form av praktiska övningar och samtal, däribland motiverande samtal med öppna frågor, reflektioner och sammanfattningar, både individuellt och i grupp samt utifrån såväl frivilligt deltagande som i tvångssituationer.</li> <li>Psykiatrins utveckling vad gäller människosyn och organisation.</li> <li>Lagar och andra bestämmelser som styr verksamheten, däribland lagen om rättspsykiatrisk vård (LRV), särskild utskrivningsprövning (SUP) och lagen med särskilda bestämmelser om vård av unga (LVU).</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om psykiska sjukdomstillstånd och deras orsaker. Eleven redogör på ett <strong>godtagbart</strong> sätt för faktorer som påverkar hälsa och ohälsa. Eleven beskriver på ett <strong>enkelt</strong> sätt sambanden mellan fördomar om psykisk ohälsa och stigmatisering.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur samarbete inom psykiatrin och med närstående påverkar patienters och brukares återhämtning.</p> <p>Eleven planerar och genomför vård-, omsorgs- och omvårdnadsarbete vid olika psykiska sjukdomstillstånd och vid psykisk ohälsa med <strong>godtagbart</strong> resultat.</p> <p>Eleven bemöter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt med <strong>viss säkerhet</strong>. Dessutom gör eleven <strong>enkla</strong> reflektioner över det egna bemötandet och förhållningssättet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om psykiatrins utveckling gällande människosyn och organisation. Eleven redogör för lagar och andra bestämmelser som styr verksamheten.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om psykiska sjukdomstillstånd och deras orsaker. Eleven redogör på ett <strong>utvecklat</strong> sätt för faktorer som påverkar hälsa och ohälsa. Eleven beskriver på ett <strong>utvecklat</strong> sätt sambanden mellan fördomar om psykisk ohälsa och stigmatisering.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur samarbete inom psykiatrin och med närstående påverkar patienters och brukares återhämtning.</p> <p>Eleven planerar och genomför vård-, omsorgs- och omvårdnadsarbete vid olika psykiska sjukdomstillstånd och vid psykisk ohälsa med <strong>gott</strong> resultat.</p> <p>Eleven bemöter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt med <strong>säkerhet</strong>. Dessutom gör eleven <strong>välgrundade</strong> reflektioner över det egna bemötandet och förhållningssättet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om psykiatrins utveckling gällande människosyn och organisation. Eleven redogör för lagar och andra bestämmelser som styr verksamheten.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om psykiska sjukdomstillstånd och deras orsaker. Eleven redogör på ett <strong>välutvecklat</strong> sätt för faktorer som påverkar hälsa och ohälsa. Eleven beskriver på ett <strong>välutvecklat</strong> sätt sambanden mellan fördomar om psykisk ohälsa och stigmatisering.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur samarbete inom psykiatrin och med närstående påverkar patienters och brukares återhämtning.</p> <p>Eleven planerar och genomför vård-, omsorgs- och omvårdnadsarbete vid olika psykiska sjukdomstillstånd och vid psykisk ohälsa med <strong>mycket gott</strong> resultat.</p> <p>Eleven bemöter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt med <strong>god säkerhet</strong>. Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över det egna bemötandet och förhållningssättet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om psykiatrins utveckling gällande människosyn och organisation. Eleven redogör för lagar och andra bestämmelser som styr verksamheten.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.068Z"
+}

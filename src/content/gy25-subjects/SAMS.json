@@ -1,0 +1,64 @@
+{
+  "code": "SAMS",
+  "name": "Samisk hantverkskultur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:341",
+  "nameHeading": "<h2>Samisk hantverkskultur</h2>",
+  "description": "<p>Ämnet samisk hantverkskultur behandlar tillverkning av redskap, bruksföremål och konsthantverk. Det behandlar traditionella och moderna hantverkstekniker, material, verktyg, maskiner och annan utrustning inom det hantverksområde som eleven har valt. Det behandlar också yrkesetik under arbetsprocessen och resultatets kvalitet. Ämnet behandlar även hantverkets betydelse som näring, binäring, kulturbärare och identitetsskapare i det samiska samhället samt av dess symbolvärde för den samiska identiteten, livsstilen och levnadssättet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet samisk hantverkskultur ska syfta till att eleverna utvecklar kunskaper om samisk hantverkstradition och förståelse av hantverkets betydelse för samiskt kultur- och näringsliv. Undervisningen ska stimulera elevernas intresse för samiskt konsthantverk och dess olika uttryck. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika material, deras egenskaper och användningsområden samt om hur färg, form och symboler används inom samiskt konsthantverk. Undervisningen ska också bidra till att eleverna utvecklar ett estetiskt förhållningssätt och känsla för form och funktion samt en medvetenhet om vad som kännetecknar kvalitet. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om den samiska hantverkskulturens bredd och karaktär i olika delar av Sápmi.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda fackspråk och samisk terminologi som ett hjälpmedel för att förstå och beskriva det samiska hantverket både i nutid och i historisk tid. Genom laborationer och fältstudier ska eleverna ges möjlighet att förkovra sig i den samiska hantverkstraditionen och utveckla kunskaper om hur bruksföremål och konsthantverk utformas.</p> <h5><em>Undervisningen i ämnet samisk hantverkskultur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om den samiska hantverkstraditionen och om hantverkets betydelse för samisk kultur och för det samiska näringslivet.</li> <li>Kunskaper om hantverksprodukters kvalitet och estetiska värde.</li> <li>Förmåga att använda fackspråk och samisk terminologi.</li> </ul><h3>Nivåer i ämnet samisk hantverkskultur</h3><ul><li>Nivå 1, 50 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SAMS1000X</h3>",
+      "code": "SAMS1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet samisk hantverkskultur på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Det samiska hantverkets roll i samiskt näringsliv både ur ett historiskt och nutida perspektiv.</li> <li>Samiska slöjdare och konstnärer och deras betydelse för den samiska kulturen och dess utveckling.</li> <li>Användningsområden och material för samiskt hantverk och samiska bruksföremål.</li> <li>Hur utvecklingen av konsthantverk har skett över tid.</li> <li>Samiska ortskaraktärer och traditionellt samiskt hantverk.</li> <li>Samisk design med färg, form och symboler.</li> <li>Hur estetik, funktion och konstnärligt uttryck samverkar inom samiskt hantverk.</li> <li>Samisk terminologi och fackspråk inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för symboler, färger och material som används inom samisk hantverkstradition. Dessutom redogör eleven <strong>översiktligt</strong> för det samiska hantverkets betydelse för samisk kultur och för det samiska näringslivet.</p> <p>Eleven beskriver samiska konstnärers och slöjdares verk utifrån kvalitet, funktion och estetiskt uttryck på ett <strong>enkelt</strong> sätt.</p> <p>Eleven använder med <strong>viss säkerhet</strong> relevant fackspråk och samisk terminologi.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för symboler, färger och material som används inom samisk hantverkstradition. Dessutom redogör eleven <strong>utförligt</strong> för det samiska hantverkets betydelse för samisk kultur och för det samiska näringslivet.</p> <p>Eleven beskriver samiska konstnärers och slöjdares verk utifrån kvalitet, funktion och estetiskt uttryck på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven använder med <strong>säkerhet</strong> relevant fackspråk och samisk terminologi.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för symboler, färger och material som används inom samisk hantverkstradition. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för det samiska hantverkets betydelse för samisk kultur och för det samiska näringslivet.</p> <p>Eleven beskriver samiska konstnärers och slöjdares verk utifrån kvalitet, funktion och estetiskt uttryck på ett <strong>välutvecklat</strong> sätt.</p> <p>Eleven använder med <strong>god säkerhet</strong> relevant fackspråk och samisk terminologi.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.076Z"
+}

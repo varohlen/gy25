@@ -1,0 +1,144 @@
+{
+  "code": "SYS",
+  "name": "Systemkunskap",
+  "englishName": "Systems knowledge",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:79",
+  "skolfsAndring": "2022:295",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Systemkunskap</h2>",
+  "description": "<p>Ämnet systemkunskap behandlar hur VVS-, ventilations-, kyl- och värmepumpssystem fungerar och är uppbyggda. Det behandlar också betydelsen av underhåll av systemen. I ämnet behandlas dessutom byggnaders energieffektivitet, vilka medier som förekommer i systemen, deras fysikaliska egenskaper och hur energiomvandling sker. Ämnet behandlar även VVS- och fastighetsbranschens olika yrken och praktiska arbetsuppgifter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet systemkunskap ska syfta till att eleverna utvecklar kunskaper om VVS-, ventilations-, kyl- och värmepumpssystem samt deras funktion och konstruktion. Eleverna ska ges möjlighet att utveckla kunskaper om systemen var för sig och i samverkan. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om byggnaders konstruktion samt förståelse av hur klimatskalet och verksamheten påverkar dimensioneringen av systemen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprinciper, miljöpåverkan och produktionsförutsättningar.</p> <p>Undervisningen ska leda till att eleverna utvecklar färdigheter i att beräkna och bedöma effektbehov i värme- och kylprocesser samt kunskaper om hur energianvändning påverkar hälsa, miljö och hållbar utveckling. Den ska också bidra till att eleverna utvecklar förmåga att arbeta ergonomiskt och arbetsmiljöriktigt. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om termer och begrepp som används inom installations- och fastighetsområdet.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att omsätta teoretiska lösningar i praktiken, och att utveckla teoretisk kunskap utifrån praktiska övningar.</p> <h4>Undervisningen i ämnet systemkunskap ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om energitekniska systems funktion och konstruktion samt energibärande mediers egenskaper.</li> <li>Kunskaper om termodynamik samt färdigheter i att göra beräkningar och bedömningar som rör värme-, sanitets-, ventilations-, kyl- och värmepumpssystem.</li> <li>Kunskaper om effektiv och miljövänlig energianvändning.</li> <li>Förståelse av ritningar, driftkort, användarmanualer och instruktioner samt färdigheter i att göra ritningar.</li> <li>Förmåga att utföra driftkontroller.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Kunskaper om olika yrken samt erfarenheter av praktiska arbetsuppgifter inom VVS- och fastighetsområdet.</li> <li>Förmåga att arbeta säkert och ergonomiskt.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Injusteringsteknik, 100 poäng. </li> <li>Systemuppbyggnad, 100 poäng. </li> <li>Värmelära, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SYSINJ0</h3>",
+      "code": "SYSINJ0",
+      "nameHeading": "<h2>Injusteringsteknik, 100 poäng</h2>",
+      "name": "Injusteringsteknik",
+      "englishName": "Adjustment techniques",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen injusteringsteknik omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundprinciper för pumpteknik, pumpdata och driftsätt för cirkulationspumpar, fläktar och ventiler.</li> <li>Terminologi och begrepp samt funktioner hos komponenter inom reglerteknik.</li> <li>Enheter och storheter som förekommer inom installations- och fastighetsbranscherna.</li> <li>Metoder för att mäta tryck, temperatur, flöde och strömningshastighet i vatten och luft.</li> <li>Mätinstrument för ändamålet.</li> <li>Funktionstestning för att bedöma riktigheten i system i syfte att säkerställa funktionskrav.</li> <li>Utrustning för att reglera temperaturer och flöden.</li> <li>Inställning och idrifttagning av reglerkretsar.</li> <li>Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.</li> <li>Metoder för förbränningsanalys i värmepannor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>översiktligt</strong> för termodynamikens lagar. Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p><p>Eleven utför <strong>i samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser. I sin driftkontroll genomför eleven <strong>enkla</strong> mätningar och beräkningar samt kontrollerar resultatet efter <strong>förutbestämda parametrar</strong>. Eleven genomför <strong>i samråd </strong>med handledare nödvändiga justeringar och driftsätter system.</p><p>Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt</strong> för termodynamikens lagar. Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p><p>Eleven utför <strong>efter samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser. I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter <strong>förutbestämda parametrar</strong>. Eleven genomför <strong>efter samråd </strong>med handledare nödvändiga justeringar, <strong>väljer inställningar</strong> och driftsätter system. <strong>Därefter analyserar eleven med viss säkerhet </strong><strong>systemen och energioptimerar dem vid behov</strong>. </p><p>Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för termodynamikens lagar <strong>och systemens hydrauliska egenskaper</strong>. Dessutom beskriver eleven <strong>utförligt</strong> <strong>och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p><p>Eleven utför <strong>efter samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser. I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter <strong>tabeller och diagram</strong>. Eleven genomför <strong>efter samråd </strong>med handledare nödvändiga justeringar, <strong>väljer inställningar</strong> och driftsätter system. <strong>Därefter analyserar eleven med säkerhet</strong> <strong>systemen och energioptimerar dem vid behov</strong>.</p><p>Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SYSSYT0</h3>",
+      "code": "SYSSYT0",
+      "nameHeading": "<h2>Systemuppbyggnad, 100 poäng</h2>",
+      "name": "Systemuppbyggnad",
+      "englishName": "Systems design",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen systemuppbyggnad omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte, med särskild betoning på punkt 1, 4 och 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Helhetssyn på värme-, sanitets-, ventilations-, kyl- och värmepumpssystems funktioner och samverkan i fastigheter, byggnadsverk och anläggningar.</li> <li>Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts inom VVS- och fastighetsbranschens olika yrkesområden.</li> <li>Flödesriktningar, tryck och temperaturer i olika system.</li> <li>Hur apparater och komponenter i system fungerar var för sig och i samverkan.</li> <li>Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.</li> <li>Flödesscheman, driftkort och användarmanualer för att utföra driftkontroll på verkliga eller fiktiva system.</li> <li>Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>översiktligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion. Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner. Eleven beskriver <strong>översiktligt</strong> olika yrkesområdens hantering och skötsel av energitekniska system. Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system. I beskrivningarna använder eleven <strong>enkelt </strong>fackspråk.</p> <p>Eleven gör <strong>med viss säkerhet </strong>enkla ritningar av energisystem med korrekta symboler och beteckningar.</p> <p>Eleven utför <strong>i samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion. Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner. Eleven beskriver <strong>utförligt</strong> olika yrkesområdens hantering och skötsel av energitekniska system. Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system. I beskrivningarna använder eleven fackspråk.</p> <p>Eleven gör <strong>med viss säkerhet </strong>enkla ritningar av energisystem med korrekta symboler och beteckningar.</p> <p>Eleven utför <strong>efter samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt och nyanserat</strong> för komponenter och apparater i systemen och deras funktion och konstruktion. Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner. Eleven beskriver <strong>utförligt och nyanserat</strong> olika yrkesområdens hantering och skötsel av energitekniska system. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system. I beskrivningarna använder eleven <strong>nyanserat </strong>fackspråk.</p> <p>Eleven gör <strong>med säkerhet </strong>enkla ritningar av energisystem med korrekta symboler och beteckningar.</p> <p>Eleven utför <strong>efter samråd </strong>med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SYSVÄM0</h3>",
+      "code": "SYSVÄM0",
+      "nameHeading": "<h2>Värmelära, 100 poäng</h2>",
+      "name": "Värmelära",
+      "englishName": "Heating",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen värmelära omfattar punkterna 1–4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 6.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Sambanden mellan värme och andra former av energi. Begrepp inom termodynamiken, till exempel värmeöverföring, temperatur, energiomvandling och tryck.</li> <li>Bedömning av exempelvis energi- och effektbehov i rör- och luftkanalsystem, värmare och köldbärarsystemens luftkylare samt flöden och tryckfall i dessa.</li> <li>Effektiv energianvändning för byggnader.</li> <li>Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.</li> <li>Produktinformation, beräkningshandböcker, schabloner, lathundar och datorprogram samt hur de används för att utföra uppskattningar av system.</li> <li>Bygglagstiftning för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>översiktligt</strong> för termodynamikens lagar. Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p> <p>Eleven <strong>beräkningar </strong> behov av värme- och kyleffekter i <strong>enkla</strong> system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen. Dessutom värderar eleven resultatet av sina beräkningar och bedömningarmed <strong>enkla</strong> omdömen.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt</strong> för termodynamikens lagar. Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p> <p>Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen. Dessutom värderar eleven resultatet av sina beräkningar och bedömningar med <strong>nyanserade</strong> omdömen.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionen och konstruktionen hos olika energitekniska system. I beskrivningen redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för termodynamikens lagar. Dessutom beskriver eleven <strong>utförligt</strong> <strong>och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system.</p> <p>Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen. Dessutom värderar eleven resultatet av sina beräkningar och bedömningar med <strong>nyanserade</strong> omdömen <strong>och ger förslag på hur systemet kan energioptimeras</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.176Z"
+}

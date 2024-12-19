@@ -1,0 +1,143 @@
+{
+  "code": "LAG",
+  "name": "Lager och terminal",
+  "englishName": "Stocks and terminals",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:222",
+  "skolfsAndring": "2022:184",
+  "nameHeading": "<h2>Lager och terminal</h2>",
+  "description": "<p>Ämnet lager och terminal behandlar olika logistikflöden, kopplingar mellan olika transportslag och hanteringsmetoder samt hur samspelet mellan dessa påverkar gods- och varuflöden. Ämnet bygger på förutsättningarna för en modern och rationell lager- och terminalhantering. I ämnet behandlas också de specifika krav och det regelverk som är kopplat till yrkesmässig lager- och terminalhantering.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet lager och terminal ska syfta till att eleverna utvecklar kunskaper om logistik och tekniska lösningar för en effektiv och rationell godshantering. Den ska leda till att eleverna utvecklar förmåga att hantera de maskiner och den utrustning som krävs för en effektiv lagerhantering. Eleverna ska ges möjlighet att utveckla förmåga att optimera lager- och terminalytor samt kunskaper om alternativa lagersystem för gods- och varuflöden och lageradministration.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om dokumentationskrav för export och import av varor, de rutiner och frakthandlingar som följer nationella och internationella transporter samt kunskaper inom informationsteknik. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur olika logistiklösningar påverkar samhälle, ekonomi och miljö samt om samband som bidrar till en långsiktig hållbar utveckling. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om den enskildes delaktighet och ansvar för säkerhet, miljö och arbetsmiljö.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt. </p><h4>Undervisningen i ämnet lager och terminal ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om transportbranschen samt om olika transportslag och logistiklösningar.</li> <li>Kunskaper om olika lagermiljöer och lagerstrukturer.</li> <li>Förmåga att hantera varor och gods i olika lagermiljöer och terminaler.</li> <li>Förmåga att använda it-stöd och dator för processer inom order och lagerhantering samt tekniska lösningar för en effektiv och rationell lager- och terminalhantering.</li> <li>Förmåga att utföra paketering och emballering samt vikt- och volymberäkning av gods och varor.</li> <li>Förmåga att disponera lager- och terminalytor för ett optimalt varuflöde.</li> <li>Förmåga att motivera sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.</li> <li>Förmåga att arbeta på ett ergonomiskt, säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Lageradministration och terminallogistik, 200 poäng. </li> <li>Lagerprocesser, 200 poäng. </li> <li>Plocklagerhantering, 100 poäng, som bygger på kursen lageradministration och terminallogistik eller kursen lagerprocesser eller kursen logistik 2. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: LAGLAG0</h3>",
+      "code": "LAGLAG0",
+      "nameHeading": "<h2>Lageradministration och terminallogistik, 200 poäng</h2>",
+      "name": "Lageradministration och terminallogistik",
+      "englishName": "Stock administration and terminal logistics",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen lageradministration och terminallogistik omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Organisation och arbetsrutiner inom lager och terminalhantering.</li> <li>Logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig.</li> <li>De fyra transportslagen utifrån godsslag, mängder och varuflöden.</li> <li>Olika modeller för distributions- och transportsystem där kraven på terminallogistik utgör en central del av flödet.</li> <li>Funktions- och hanteringsprinciper för transaktioner i lager, lagerrutiner och inventering.</li> <li>Funktioner för alternativa logistiklösningar, till exempel tredjepartslösningar, cross-docking och specifik terminalhantering.</li> <li>Hantering av gods i lager och terminal med hjälp av de maskiner och den utrustning som krävs.</li> <li>Planering och dimensionering av lager. Planering av olika logistiklösningar. Planering av hantering av gods på terminal.</li> <li>It-stöd kopplat till hantering i lager- och terminalsystem.</li> <li>Hantering och metoder för användning av datorstödd logistik.</li> <li>Kostnadsberäkningar.</li> <li>Lagerhanteringens betydelse för logistikkostnader och leveransservice.</li> <li>Olika transportslags fördelar och nackdelar utifrån ekonomiska och miljömässiga faktorer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig. Eleven beskriver också <strong>översiktligt </strong>processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering. Dessutom beskriver eleven <strong>översiktligt </strong>rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.</p><p>Eleven hanterar <strong>med viss säkerhet </strong>gods i lager och terminal. I arbetet använder eleven <strong>enkla </strong>strategier för att planera lagren och terminalytorna. Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager. Dessutom använder eleven i bekanta situationer <strong>enkla </strong>tekniska lösningar för en effektiv och rationell lager- och terminalhantering. Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> vikt- och volymberäkningar för olika godsslag. I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>översiktligt </strong>hur godsflöden kan styras för en optimal disponering av ytor. Dessutom motiverar eleven <strong>översiktligt </strong>sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig. Eleven beskriver också <strong>utförligt </strong>processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering. Dessutom beskriver eleven <strong>utförligt </strong>rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.</p><p>Eleven hanterar <strong>med viss säkerhet </strong>gods i lager och terminal. I arbetet använder eleven strategier för att planera lagren och terminalytorna. Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager. Dessutom använder eleven i bekanta <strong>och delvis nya </strong>situationer tekniska lösningar för en effektiv och rationell lager- och terminalhantering. Eleven utför <strong>efter samråd</strong> med handledare vikt- och volymberäkningar för olika godsslag. I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>utförligt </strong>hur godsflöden kan styras för en optimal disponering av ytor. Dessutom motiverar eleven <strong>utförligt </strong>sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>transportbranschens struktur och förutsättningar, logistikens betydelse för samhället samt den inverkan på människor och miljö som olika transportslag och logistiklösningar för med sig. Eleven beskriver också <strong>utförligt och nyanserat </strong>processer för transaktioner och flöden i lager samt villkor och förutsättningar för lager och terminalhantering. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>rutiner för inventeringar samt lagerhanteringens betydelse för kostnader och leveransservice.</p><p>Eleven hanterar <strong>med säkerhet </strong>gods i lager och terminal. I arbetet använder eleven <strong>avancerade </strong>strategier för att planera lagren och terminalytorna. Eleven använder it-stöd och dator för lagerhantering och dimensionering av lager. Dessutom använder eleven i bekanta <strong>och nya </strong>situationer <strong>avancerade </strong>tekniska lösningar för en effektiv och rationell lager- och terminalhantering. Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade </strong>vikt- och volymberäkningar för olika godsslag. I arbetet ger eleven exempel på hur organisation, rutiner och lagerhantering påverkar effektivisering av varuflöden i lager samt beskriver <strong>utförligt och nyanserat </strong>hur godsflöden kan styras för en optimal disponering av ytor. Dessutom motiverar eleven <strong>utförligt och nyanserat </strong>sin lagerhantering utifrån ekonomiska och miljömässiga faktorer.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAGLAP0</h3>",
+      "code": "LAGLAP0",
+      "nameHeading": "<h2>Lagerprocesser, 200 poäng</h2>",
+      "name": "Lagerprocesser",
+      "englishName": "Stock processes",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen lagerprocesser omfattar punkterna 2–5 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Alternativa lagersystem och lagerstrukturer för gods- och varuflöden.</li> <li>Administrativa funktioner i fråga om ansvarsbestämmelser, anpassade till hantering av varor och gods i lagermiljöer.</li> <li>Hantering av varor och gods i funktionsspecifika lagermiljöer med hjälp av de maskiner och den utrustning som krävs.</li> <li>Hantering av farligt gods i olika lagermiljöer.</li> <li>Processer för orderhantering och orderplockning av varor och gods.</li> <li>Hanteringsprinciper och funktioner för maskiner och utrustning i lagermiljöer.</li> <li>Tekniska lösningar och hjälpmedel för en effektiv och rationell lager- och terminalhantering.</li> <li>Principer och regler för paketering och emballering av varor och gods. Olika förekommande förpackningsslag samt förekommande material för emballering.</li> <li>Principer och regler för vikt- och volymberäkning av gods. Högsta vikt på kollin och förpackningar samt begränsningar för stapling och övrig hantering</li> <li>Fraktberäkningsregler utifrån olika typer av gods och transportslag. Definitioner och begrepp, till exempel pallplatser, flakmeter, kubikmeter, vikt och enhetslaster.</li> <li>Hantering och upprättande av transportdokument utifrån vikt- och volymberäkning av gods samt eventuella hanteringsinstruktioner.</li> <li>Faktorer som påverkar arbetsmiljö och säkerhet i lagermiljöer. Riskbedömningar och former för systematiskt arbetsmiljöarbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ger exempel på och beskriver <strong>översiktligt </strong>olika typer av lagermiljöer. Eleven beskriver också <strong>översiktligt enkla</strong> sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument. Dessutom beskriver eleven <strong>översiktligt </strong>arbetsmiljöregler.</p><p>Eleven hanterar <strong>med viss säkerhet </strong>varor och gods i olika lagermiljöer. Dessutom hanterar eleven i bekanta situationer <strong>enkla </strong>tekniska hjälpmedel i olika lagermiljöer. I arbetet väljer eleven <strong>med viss säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet. Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkla </strong>vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ger exempel på och beskriver <strong>utförligt </strong>olika typer av lagermiljöer. Eleven beskriver också <strong>utförligt </strong>sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument. Dessutom beskriver eleven <strong>utförligt </strong>arbetsmiljöregler.</p><p>Eleven hanterar <strong>med viss säkerhet </strong>varor och gods i olika lagermiljöer. Dessutom hanterar eleven i bekanta <strong>och delvis nya </strong>situationer tekniska hjälpmedel i olika lagermiljöer. I arbetet väljer eleven <strong>med viss säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet. Dessutom utför eleven <strong>efter samråd</strong> med handledare vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ger exempel på och beskriver <strong>utförligt och nyanserat </strong>olika typer av lagermiljöer. Eleven beskriver också <strong>utförligt och nyanserat komplexa </strong>sammanhang och relationer utifrån givna frågeställningar om ansvarsbestämmelser förknippade med fraktberäkningsregler och transportdokument. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>arbetsmiljöregler.</p><p>Eleven hanterar <strong>med säkerhet </strong>varor och gods i olika lagermiljöer. Dessutom hanterar eleven i bekanta <strong>och nya </strong>situationer <strong>avancerade </strong>tekniska hjälpmedel i olika lagermiljöer. I arbetet väljer eleven <strong>med säkerhet</strong> en strategi för paketering och emballering av gods samt följer sin planering och genomför arbetet. Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade </strong>vikt- och volymberäkningar av gods, som underlag för övergripande kostnadskalkyler och prissättning av tjänster.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAGPLO0</h3>",
+      "code": "LAGPLO0",
+      "nameHeading": "<h2>Plocklagerhantering, 100 poäng</h2>",
+      "name": "Plocklagerhantering",
+      "englishName": "Stock handling",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen plocklagerhantering omfattar punkterna 2–3, 5–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika typer av plocklager, till exempel automatiserade plocklager.</li> <li>Hantering av de maskiner och den utrustning som krävs för varuhantering i plocklager.</li> <li>Plocklagers struktur och styrning.</li> <li>Reservdelslagers betydelse för eftermarknad och kundservice.</li> <li>Alternativa försörjningsupplägg för reservdelshantering.</li> <li>Lagerdesign och distributionsupplägg.</li> <li>Lagrets roll i materialflödet.</li> <li>Artiklar som styrs via lager.</li> <li>Lagrets funktion i kedjan från producent till kund.</li> <li>Materialflödens påverkan av antal lager.</li> <li>Leverantörsstyrda lager.</li> <li>Olika lagerstyrningssystem.</li> <li>Styrning av centrallager och lokala lager.</li> <li>Prognostisering för lagerstyrning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>olika lagers struktur och funktion samt ger exempel på materialflöden. Eleven beskriver också <strong>översiktligt </strong>plocklagers struktur, styrning och betydelse. Dessutom beskriver eleven <strong>översiktligt </strong>lagrets roll i kedjan från producent till kund.</p><p>Eleven planerar och genomför <strong>i samråd</strong> med handledare och i bekanta situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager. I arbetet använder eleven <strong>med viss säkerhet</strong> rutiner för materialstyrning. Eleven emballerar och använder <strong>med viss säkerhet </strong>förpackningar enligt praxis. Dessutom utför eleven <strong>i samråd</strong> med handledare <strong>enkla </strong>prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>olika lagers struktur och funktion samt ger exempel på materialflöden. Eleven beskriver också <strong>utförligt </strong>plocklagers struktur, styrning och betydelse. Dessutom beskriver eleven <strong>utförligt </strong>lagrets roll i kedjan från producent till kund.</p><p>Eleven planerar och genomför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager. I arbetet använder eleven <strong>med viss säkerhet</strong> rutiner för materialstyrning. Eleven emballerar och använder <strong>med viss säkerhet </strong>förpackningar enligt praxis. Dessutom utför eleven <strong>efter samråd</strong> med handledare prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>olika lagers struktur och funktion samt ger exempel på materialflöden. Eleven beskriver också <strong>utförligt och nyanserat </strong>plocklagers struktur, styrning och betydelse. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>lagrets roll i kedjan från producent till kund.</p><p>Eleven planerar och genomför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager. I arbetet använder eleven <strong>med säkerhet</strong> rutiner för materialstyrning. Eleven emballerar och använder <strong>med säkerhet </strong>förpackningar enligt praxis. Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade </strong>prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde.</p><p>Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet. Eleven tar ansvar för kundens egendom samt för lokaler och utrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.065Z"
+}

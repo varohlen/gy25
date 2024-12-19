@@ -1,0 +1,218 @@
+{
+  "code": "IDU",
+  "name": "Industriell automation",
+  "englishName": "Industrial automation – Engineering ",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2018:15",
+  "skolfsAndring": "2022:158",
+  "nameHeading": "<h2>Industriell automation</h2>",
+  "description": "<p>Ämnet industriell automation behandlar de delar som samverkar för att skapa olika typer av automatiserade system. Automatiserade system är processer med funktioner som är självstyrande och används bland annat i tillverkningsindustrin och i processindustrin. Ämnet industriell automation får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell automation ska syfta till att eleverna utvecklar ingenjörsmässig förmåga att planera, identifiera resurser, genomföra och utvärdera arbete i industriella automatiserade system. Eleverna ska ges möjlighet att utveckla kunskaper i att använda olika former av systemdokumentation, till exempel schema, programdokumentation och manualer.</p> <p>Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur informationsteknik kan användas vid arbete med industriella automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika begrepp, teorier och metoder inom industriell automation, samt färdigheter i att tillämpa dessa. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om säkerhet och olika standarder inom området. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella automatiserade system samt föreslå förbättringar.</p> <p>Undervisningen ska ge eleverna möjlighet att kombinera teoretiska och praktiska moment inom ämnesområdet. Dessutom ska undervisningen bidra till att utveckla elevernas kunskaper om socialt, ekonomiskt och ekologiskt hållbara automatiserade processer.</p> <h4>Undervisningen i ämnet industriell automation ska ge eleverna förutsättningar att utveckla följande:</h4> <p>1. Kunskaper om uppbyggnad och funktion hos automatiserade system och de risker som finns vid arbete med dessa.</p> <p>2. Kunskaper om säkerhetsföreskrifter, standarder och begrepp som används vid arbete med automatiserade processer.</p> <p>3. Kunskaper om metoder för att simulera olika typer av processer.</p> <p>4. Kunskaper om social, ekonomisk och ekologisk hållbarhet i förhållande till automatiserade processer.</p> <p>5. Förmåga att planera och genomföra programmering och driftsättning av automatiserade processer samt att dokumentera och utvärdera arbetet.</p> <p>6. Förmåga att analysera befintlig automatiserad process och ge förslag på förbättringar och optimeringar.</p> <p>7. Färdigheter i att, med hjälp av systemens program och dokumentation, felsöka, åtgärda och förebygga fel i automatiserade processer.</p> <p>8. Färdigheter i att ersätta defekta komponenter och enheter samt vid behov återställa komponenters eller enheters konfigurering.</p><h3>Kurser i ämnet</h3><ul><li>Industriell automationsteknik, 100 poäng. </li> <li>Industriell PLC-teknik, 100 poäng. </li> <li>Industriell robotteknik, 100 poäng. </li> <li>Industriell it, 100 poäng. </li> <li>Tillämpad automationsteknik, 100 poäng, som bygger på kursen industriell automationsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: IDUIND3</h3>",
+      "code": "IDUIND3",
+      "nameHeading": "<h2>Industriell automationsteknik, 100 poäng</h2>",
+      "name": "Industriell automationsteknik",
+      "englishName": "Industrial automation technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen industriell automationsteknik omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad och funktion av samt principer för olika typer av automatiserade system.</li> <li>Arbetsmiljö och säkerhet vid arbete med automatiserade system.</li> <li>Talsystem samt uppbyggnad och omvandling mellan talsystem som används i automatiserade system.</li> <li>Tolkning och användning av de logiska grundfunktionerna.</li> <li>Ventilbeteckningar och märkningar samt identifiering av komponenter.</li> <li>Standarder för informationsteknik och säkerhet.</li> <li>Program för simulering av automatiserade processer.</li> <li>Automatiserade systems påverkan på miljö, ekonomi och samhälle.</li> <li>Funktion, egenskaper och symboler hos styrtekniska lösningar där pneumatiska och elektriska komponenter ingår.</li> <li>Hantering och programmering av digitala och analoga in- och utgångar.</li> <li>Programmering, installering, intrimning och driftsättning av enkla och sammanbyggda styrutrustningar med olika automationsmoduler och givare.</li> <li>Analys av befintlig automatiserad process och förslag på förbättringar och optimeringar.</li> <li>Olika typer av scheman, ritningar och annan dokumentation över automatiska system inom valt område. Tolkning av och metoder för framställning av dessa.</li> <li>Förebyggande underhåll samt felsökning och reparation på automatiserade system.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande </strong>för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Vidare redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder inom industriell automation.</p> <p>Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>övergripande</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven planerar och programmerar <strong>efter samråd</strong> med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar. Vidare dokumenterar eleven <strong>övergripande </strong>industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med</strong> <strong>säkerhet. </strong></p> <p>Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade </strong>förslag på åtgärder. Eleven felsöker <strong>efter samråd</strong> med handledare med hjälp av program, manualer och dokument i automatiserade system.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Vidare redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder inom industriell automation.</p> <p>Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>utförliga</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar <strong>självständigt efter samråd </strong>med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven planerar och programmerar <strong>självständigt efter samråd</strong> med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar. Vidare dokumenterar eleven <strong>utförligt </strong>industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med god säkerhet</strong>.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade och</strong> <strong>nyanserade</strong> förslag på åtgärder. Eleven felsöker <strong>självständigt efter samråd</strong> med handledare med hjälp av program, manualer och dokument i automatiserade system.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Vidare redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande standarder inom industriell automation.</p> <p>Eleven använder <strong>med</strong> <strong>mycket</strong> <strong>god säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>utförliga och nyanserade</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar <strong>självständigt </strong>kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven planerar och programmerar <strong>självständigt</strong> industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar. Vidare dokumenterar eleven<strong> utförligt och nyanserat</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med mycket god säkerhet</strong>.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven felsöker <strong>självständigt </strong>med hjälp av program, manualer och dokument i automatiserade system.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: IDUPLC3</h3>",
+      "code": "IDUPLC3",
+      "nameHeading": "<h2>Industriell PLC-teknik, 100 poäng</h2>",
+      "name": "Industriell PLC-teknik",
+      "englishName": "Industrial PLC technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen industriell PLC-teknik omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad och funktion av programmerbara styrsystem, PLC-system, samt de risker som finns vid arbete med dessa.</li> <li>Standarder och begrepp som används inom området.</li> <li>Mät- och reglertekniska begrepp.</li> <li>Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem.</li> <li>Användning av olika program för simulering av PLC-system i automatiserade processer.</li> <li>PLC-systemens påverkan på miljö, ekonomi och samhälle.</li> <li>Programmering och driftsättning av PLC-system.</li> <li>Planering och utförande av arbete i styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output).</li> <li>Reglertekniska laborationer med inställning av olika parametrar i regulatorn.</li> <li>Analys av befintlig automatiserad process och förslag på förbättring och optimering.</li> <li>Metoder för felsökning i anläggningar med distribuerade styrsystem.</li> <li>Tolkning och framställning av scheman, ritningar och annan dokumentation av distribuerade styrsystem.</li> <li>Metoder för felsökning på PLC-system med hjälp av scheman, manualer och annan dokumentation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande</strong> för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer. Vidare redogör eleven <strong>övergripande</strong> för standarder inom informationsteknik och säkerhet. Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av PLC-system kopplade till en automatiserad process och för <strong>övergripande</strong> resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven genomför <strong>efter samråd </strong>med handledare planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar. Eleven strukturerar <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt. Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC-system<strong> med säkerhet</strong> gällande både person och utrustning. Vidare planerar eleven och utför <strong>efter samråd</strong> med handledare konfiguration och driftsättning av styr- och reglertekniska system.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger välgrundade förslag på åtgärder. Eleven felsöker <strong>efter samråd</strong> med handledare med hjälp av program, manualer och dokument i PLC-system. Vidare dokumenterar eleven <strong>övergripande</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta komponenter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer. Vidare redogör eleven <strong>utförligt</strong> för standarder inom informationsteknik och säkerhet. Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av PLC-system kopplade till en automatiserad process och för <strong>utförliga</strong> resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven genomför<strong> självständigt</strong> <strong>efter samråd </strong>med handledare planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar. Eleven strukturerar <strong>självständigt</strong> <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt. Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC <strong>med god säkerhet</strong> gällande både person och utrustning. Vidare planerar eleven och utför <strong>självständigt efter samråd</strong> med handledare konfiguration och driftsättning av styr- och reglertekniska system.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven felsöker <strong>självständigt</strong> <strong>efter samråd </strong>med handledare med hjälp av program, manualer och dokument i PLC-system. Vidare dokumenterar eleven <strong>utförligt </strong>industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta komponenter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer. Vidare redogör eleven<strong> utförligt</strong> <strong>och nyanserat</strong> för standarder inom informationsteknik och säkerhet. Eleven använder <strong>med mycket god säkerhet </strong>programverktyg för simulering av PLC-system kopplade till en automatiserad process och för <strong>utförliga och nyanserade</strong> resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven genomför <strong>självständigt</strong> planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar. Eleven strukturerar <strong>självständigt</strong> kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt. Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC-system<strong> med mycket god säkerhet</strong> gällande både person och utrustning. Vidare planerar eleven och utför <strong>självständigt</strong> konfiguration och driftsättning av styr- och reglertekniska system.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven felsöker <strong>självständigt </strong>med hjälp av program, manualer och dokument i PLC-system. Vidare dokumenterar eleven <strong>utförligt och nyanserat</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>självständigt</strong> defekta komponenter<strong>. </strong></p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: IDUROB3</h3>",
+      "code": "IDUROB3",
+      "nameHeading": "<h2>Industriell robotteknik, 100 poäng</h2>",
+      "name": "Industriell robotteknik",
+      "englishName": "Industrial robotics",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen industriell robotteknik omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Industrirobotsystems uppbyggnad, användningsområde och funktion.</li> <li>Uppbyggnad och funktion av kringutrustning till industrirobotsystem.</li> <li>Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</li> <li>Standarder inom robotteknik, till exempel standarder för informationsteknik och säkerhet.</li> <li>Användning av olika program för simulering av robotsystem.</li> <li>Robotsystems påverkan på miljö och ekonomi.</li> <li>Programmering av industrirobotsystem samt ändring och definition av variabler och systemparametrar.</li> <li>Planering, provkörning och kontroll före drifttagning av program i industrirobotsystem.</li> <li>Arbetsmiljö och säkerhet vid arbete med robotsystem.</li> <li>Kommunikation mellan industrirobotsystem och andra enheter, internt och externt.</li> <li>Analys av befintlig automatiserad process med förslag på förbättringar och optimeringar.</li> <li>Skriftlig och muntlig dokumentation av industrirobotcellens funktion, uppbyggnad och program.</li> <li>Förebyggande underhåll samt felsökning och reparation på industrirobotsystem med hjälp av program, manualer och dokumentation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande </strong>för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven redogör även <strong>övergripande</strong> för uppbyggnad och funktion av kringutrustning till industrirobotsystem. Vidare resonerar eleven <strong>övergripande </strong>kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</p> <p>Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process. Dessutom resonerar eleven <strong>med</strong> <strong>säkerhet </strong>kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven planerar och utför programskrivning <strong>efter samråd</strong> med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området. Vidare strukturerar eleven <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt. Eleven genomför <strong>med säkerhet </strong>kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger<strong> välgrundade </strong>förslag på åtgärder. Eleven felsöker <strong>efter samråd</strong> med handledare, med hjälp av program, manualer och dokument i industrirobotsystem. Vidare dokumenterar eleven<strong> övergripande</strong> industriella industrirobotsystem med både muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta komponenter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven redogör även <strong>utförligt</strong> för uppbyggnad och funktion av kringutrustning till industrirobotsystem. Vidare resonerar eleven <strong>utförligt</strong> kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</p> <p>Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process. Dessutom resonerar eleven <strong>med god säkerhet</strong> för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven planerar och utför programskrivning<strong> självständigt</strong> <strong>efter samråd</strong> med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området. Vidare strukturerar eleven <strong>självständigt efter samråd</strong> med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt. Eleven genomför <strong>med god säkerhet</strong> kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven felsöker <strong>självständigt efter samråd</strong> med handledare med hjälp av program, manualer och dokument i industrirobotsystem. Vidare dokumenterar eleven <strong>utförligt</strong> industriella industrirobotsystem med muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta komponenter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Eleven redogör även <strong>utförligt</strong> <strong>och nyanserat</strong> för uppbyggnad och funktion av kringutrustning till industrirobotsystem. Vidare resonerar eleven <strong>utförligt och nyanserat</strong> för robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</p> <p>Eleven använder <strong>med</strong> <strong>mycket god säkerhet</strong> programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process. Dessutom resonerar eleven <strong>med</strong> <strong>mycket god</strong> <strong>säkerhet</strong> för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven planerar och utför programskrivning <strong>självständigt</strong> för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området. Vidare strukturerar eleven <strong>självständigt </strong>kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt. Eleven genomför <strong>med</strong> <strong>mycket god säkerhet </strong>kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven felsöker<strong> självständigt</strong> med hjälp av program, manualer och dokument i industrirobotsystem. Vidare dokumenterar eleven industriella industrirobotsystem på ett <strong>utförligt och nyanserat </strong>sätt med muntliga, skriftliga och digitala metoder. Eleven bedömer, ersätter och konfigurerar <strong>självständigt</strong> defekta komponenter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: IDUIIT3</h3>",
+      "code": "IDUIIT3",
+      "nameHeading": "<h2>Industriell it, 100 poäng</h2>",
+      "name": "Industriell it",
+      "englishName": "Industrial IT",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen industriell it omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion, principer och uppbyggnad av olika typer av industriella it-system.</li> <li>Arbetsmiljö och säkerhet vid arbete med automatiserade system.</li> <li>Nätverkstopologier, OSI-modellen, standarder och protokoll med tillämpning inom industriell it.</li> <li>Programvaror för kontroll, övervakning och datainsamling.</li> <li>Fältbussar och trådlös informationsteknik.</li> <li>Program för simulering av industriell it.</li> <li>Konsekvenser vid införandet av it-lösningar i produktion.</li> <li>Driftsäkerhet och spårbarhet inom industriell informationsteknik.</li> <li>Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglertekniska applikationer.</li> <li>Installering och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient.</li> <li>Analys och bedömning av insamlad data med avseende på till exempel datakvalitet och funktion.</li> <li>Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.</li> <li>Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).</li> <li>Systematisk dokumentation med hjälp av till exempel loggningsdata eller databashanterare.</li> <li>Förebyggande underhåll samt felsökning och reparation av industriella it-system.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande </strong>för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Vidare redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder inom industriell it. Eleven resonerar <strong>övergripande</strong> kring tekniska begrepp, definitioner och användningsområden för industriell it.</p> <p>Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process. Eleven resonerar <strong>med säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven genomför <strong>efter samråd</strong> med handledare planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar. Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med</strong> <strong>säkerhet</strong> arbete i industriella it-system gällande både person och utrustning.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder. Vidare felsöker eleven <strong>efter samråd</strong> med handledare, med hjälp av program, manualer och dokument i industriella it-system. Eleven dokumenterar <strong>övergripande</strong> industriella it-system med både muntliga, skriftliga och digitala metoder. Eleven bedömer komponenter samt ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta delar.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Vidare redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder inom industriell it. Eleven resonerar <strong>utförligt </strong>kring tekniska begrepp, definitioner och användningsområden för industriell it.</p> <p>Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process. Eleven resonerar <strong>med god säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar <strong>självständigt</strong> <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven genomför <strong>självständigt efter samråd</strong> med handledare planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar. Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med god säkerhet</strong> arbete i industriella it-system gällande både person och utrustning.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder. Vidare felsöker eleven <strong>självständigt</strong> <strong>efter samråd</strong> med handledare med hjälp av program, manualer och dokument i industriella it-system. Eleven dokumenterar <strong>utförligt</strong> industriella it-system med muntliga, skriftliga och digitala metoder. Eleven bedömer komponenter samt ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta delar.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer. Vidare redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för vanligt förekommande standarder inom industriell it. Eleven resonerar <strong>utförligt och nyanserat </strong>kring tekniska begrepp, definitioner och användningsområden för industriell it.</p> <p>Eleven använder <strong>med</strong> <strong>mycket god säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process. Eleven resonerar <strong>med mycket god säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar<strong> självständigt</strong> kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Eleven genomför <strong>självständigt </strong>planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar. Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med mycket god säkerhet</strong> arbete i industriella it-system gällande både person och utrustning.</p> <p>Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder. Vidare felsöker eleven <strong>självständigt</strong> med hjälp av program, manualer och dokument i industriella it-system. Eleven dokumenterar <strong>utförligt och nyanserat</strong> industriella it-system med muntliga, skriftliga och digitala metoder. Eleven bedömer komponenter samt ersätter och konfigurerar <strong>självständigt</strong> defekta delar.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: IDUTIL3</h3>",
+      "code": "IDUTIL3",
+      "nameHeading": "<h2>Tillämpad automationsteknik, 100 poäng</h2>",
+      "name": "Tillämpad automationsteknik",
+      "englishName": "Applied automation technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen tillämpad automationsteknik omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Strategier för digitalisering av automatiserade processer.</li> <li>Uppbyggnad och funktion av smarta sensorer som kontinuerligt registrerar och mäter aktiviteter, utfall, prestanda och miljöfaktorer.</li> <li>Användningsområde för samarbetande robotar.</li> <li>Tolkning av standarder, begrepp, definitioner och utrustning som används vid arbete med digitalisering av automatiserade processer.</li> <li>Hantering av avancerade simulerings- och modelleringsprogram för digitaliserade automatiserade processer.</li> <li>Hantering och användning av system som hjälp för att skapa förstärkt verklighet (AR).</li> <li>Digitaliseringen ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning.</li> <li>Framtida perspektiv på hållbar utveckling, arbetsmiljö och teknikens roll.</li> <li>Konfiguration för digitala gränssnitt anpassade till automatiserade processer.</li> <li>Programmering och konfiguration av autonoma och lärande system som en kombination av traditionella automationsteknologier och artificiell intelligens (AI).</li> <li>Programmering och konfiguration av molnbaserade lösningar för olika applikationer i en automatiserad process.</li> <li>Hantering, utvärdering och analys av den datamängd som genereras i digitaliserade system med avancerade analysmetoder och program.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer. Vidare redogör eleven <strong>övergripande</strong> för uppbyggnad och funktion av smarta givare. Eleven resonerar <strong>övergripande</strong> kring användningsområden för samarbetande robotar. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Dessutom redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer.</p> <p>Eleven använder <strong>med säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system. Eleven för <strong>med säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar och utför programskrivning <strong>efter samråd</strong> med handledare för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Vidare genomför eleven <strong>med</strong> <strong>säkerhet</strong> kontroll före drifttagning och provkörning av program. Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade</strong> förslag på åtgärder. Eleven bedömer komponenter, ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta delar.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer. Vidare redogör eleven <strong>utförligt</strong> för uppbyggnad och funktion av smarta givare. Eleven resonerar <strong>utförligt</strong> kring användningsområden för samarbetande robotar. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Dessutom redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer.</p> <p>Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system. Eleven för <strong>med god säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar och utför programskrivning <strong>självständigt efter samråd</strong> med handledare för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Vidare genomför eleven <strong>med god säkerhet</strong> kontroll före drifttagning och provkörning av program. Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven bedömer komponenter, ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta delar.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer. Vidare redogör eleven <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion av smarta givare. Eleven resonerar <strong>utförligt</strong> <strong>och nyanserat</strong> för användningsområden för samarbetande robotar. Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer.</p> <p>Eleven använder <strong>med mycket god säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system. Eleven för <strong>med mycket god säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet.</p> <p>Eleven strukturerar och utför programskrivning <strong>självständigt</strong> för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt. Vidare genomför eleven <strong>med mycket god säkerhet</strong> kontroll före drifttagning och provkörning av program. Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder. Eleven bedömer komponenter, ersätter och konfigurerar <strong>självständigt</strong> defekta delar.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.042Z"
+}

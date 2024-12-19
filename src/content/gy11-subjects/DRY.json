@@ -1,0 +1,181 @@
+{
+  "code": "DRY",
+  "name": "Dryckeskunskap",
+  "englishName": "Drinks",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:65",
+  "skolfsAndring": "2022:79",
+  "nameHeading": "<h2>Dryckeskunskap</h2>",
+  "description": "<p>Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dryckeskunskap ska syfta till att eleverna utvecklar kunskaper om kalla och varma drycker, deras ursprung, egenskaper, användningsområden och karaktär. Eleverna ska även ges möjlighet att utveckla kunskaper om odlingsområden, framställningsmetoder, olika tillverkningsprocesser och råvaror samt hur detta påverkar slutproduktens kvalitet och pris.</p><p>Eleverna ska ges möjlighet att utveckla förmåga att servera drycker, utforma dryckeslistor samt att identifiera och bedöma kvaliteten på olika drycker. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om sinnenas betydelse för bedömningen. Undervisningen ska även leda till att eleverna utvecklar kunskaper om svenska och internationella dryckestraditioner ur ett nutida och historiskt perspektiv. Undervisningen ska även leda till att eleverna utvecklar förståelse av olika gästers behov och krav.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om vad som avses med ansvarsfull alkoholservering samt om alkoholens skadeverkningar. Den ska även leda till att eleverna utvecklar kunskaper om alkoholpolitiska och etiska frågor inom området samt om lagar och andra bestämmelser som rör hantering av olika drycker.</p><p>I undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om servering, blandning och beredning av drycker. Eleverna ska även ges möjlighet att praktiskt träna upp sin förmåga att bedöma och identifiera drycker.</p><h4>Undervisningen i ämnet dryckeskunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om ansvarsfull alkoholservering, alkoholpolitik, etiska frågor och lagar och andra bestämmelser inom området samt om alkoholens skadeverkningar.</li> <li>Kunskaper om varma och kalla drycker.</li> <li>Kunskaper om dryckestraditioner och olika dryckers historia.</li> <li>Förmåga att planera, organisera och utföra arbetsuppgifter inom området.</li> <li>Förmåga att använda redskap och utrustning samt att välja och använda arbetsmetoder.</li> <li>Förmåga att arbeta hygieniskt, ergonomisk och säkert.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> <li>Förmåga att samarbeta med andra och använda fackspråk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Drycker och ansvarsfull alkoholservering, 100 poäng. </li> <li>Barteknik, 100 poäng, som bygger på kursen drycker och ansvarsfull alkoholservering.</li> <li>Drycker, 100 poäng, som bygger på kursen drycker och ansvarsfull alkoholservering.</li> <li>Drycker – specialisering, 100 poäng, som bygger på kursen drycker. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: DRYDRC0</h3>",
+      "code": "DRYDRC0",
+      "nameHeading": "<h2>Drycker och ansvarsfull alkoholservering, 100 poäng</h2>",
+      "name": "Drycker och ansvarsfull alkoholservering",
+      "englishName": "Drinks and responsible serving of alcohol",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen drycker och ansvarsfull alkoholservering omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Svensk alkohollagstiftning.</li> <li>Fysiska, psykiska och sociala skadeverkningar av alkohol samt risker kopplade till alkoholkonsumtion.</li> <li>Etiska frågeställningar med anknytning till alkoholservering.</li> <li>Kalla och varma drycker: deras råvaror, ursprung, karaktär och användningsområde.</li> <li>Tillverkning av vin, öl och spritdrycker.</li> <li>Svenska och internationella dryckestraditioner samt hur olika drycker har utvecklats över tid.</li> <li>Serveringsmetoder för vin, öl och måltidsdrycker.</li> <li>Användning av redskap och utrustning vid hantering och servering av drycker.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt.</li> <li>Kundbemötande och fackspråk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>vad som menas med ansvarsfull alkoholservering samt redogör <strong>översiktligt </strong>för lagar och andra bestämmelser som gäller vid alkoholservering. Eleven diskuterar <strong>översiktligt </strong>etik- och moralfrågor med anknytning till alkohol samt redogör <strong>översiktligt </strong>för<strong> någon</strong> alkoholpolitisk fråga. Dessutom beskriver eleven <strong>översiktligt </strong>alkoholens skadeverkningar.</p><p>Eleven beskriver <strong>översiktligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>översiktligt </strong>svenska och internationella dryckestraditioner samt olika dryckers historia.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> visst </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>vad som menas med ansvarsfull alkoholservering samt redogör <strong>utförligt </strong>för lagar och andra bestämmelser som gäller vid alkoholservering. Eleven diskuterar <strong>utförligt </strong>etik- och moralfrågor med anknytning till alkohol samt redogör <strong>utförligt </strong>för<strong> några</strong> alkoholpolitiska frågor. Dessutom beskriver eleven <strong>utförligt </strong>alkoholens skadeverkningar.</p><p>Eleven beskriver <strong>utförligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>utförligt </strong>svenska och internationella dryckestraditioner samt olika dryckers historia.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>vad som menas med ansvarsfull alkoholservering samt redogör <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser som gäller vid alkoholservering. Eleven diskuterar <strong>utförligt och nyanserat </strong>etik- och moralfrågor med anknytning till alkohol samt redogör <strong>utförligt och nyanserat </strong>för<strong> flera</strong> alkoholpolitiska frågor. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>alkoholens skadeverkningar.</p><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>svenska och internationella dryckestraditioner samt olika dryckers historia.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> mycket gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DRYBAT0</h3>",
+      "code": "DRYBAT0",
+      "nameHeading": "<h2>Barteknik, 100 poäng</h2>",
+      "name": "Barteknik",
+      "englishName": "Bar services",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen barteknik omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte, med särskild betoning på punkt 5.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika drycker: deras råvaror, ursprung, karaktär och användningsområde.</li> <li>Drinkgrupper och drinkrecept.</li> <li>Dryckesbaren som arbetsplats. Arbetsplanering och organisation.</li> <li>Metoder vid drinkblandning.</li> <li>Hur man använder råvaror, produkter, material, redskap och utrustning.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt.</li> <li>Hygien och ändamålsenlig klädsel.</li> <li>Provningsmetoder.</li> <li>Identifiering och bedömning av olika dryckers kvalitet.</li> <li>Utformning av dryckeslistor.</li> <li>Prisberäkningar av olika dryckesalternativ.</li> <li>Kundbemötande och fackspråk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde. Dessutom beskriver eleven <strong>översiktligt </strong>olika drinkgrupper och drinkrecept.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare arbetsuppgifter inom dryckesbarer. I arbetet väljer och använder eleven med<strong> visst </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Dessutom väljer och använder eleven <strong>i samråd </strong>med handledare lämpliga råvaror och produkter vid drinkblandning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>i samråd </strong>med handledare någon provningsmetod och beskriver <strong>översiktligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>i samråd </strong>med handledare dryckeslistor och beskriver <strong>översiktligt </strong>vilka produkter som behövs i dryckesbarer. Dessutom utför eleven <strong>i samråd </strong>med handledare prisberäkningar av olika dryckesalternativ.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde. Dessutom beskriver eleven <strong>utförligt </strong>olika drinkgrupper och drinkrecept.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom dryckesbarer. I arbetet väljer och använder eleven med<strong> gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Dessutom väljer och använder eleven <strong>efter samråd </strong>med handledare lämpliga råvaror och produkter vid drinkblandning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>i samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>efter</strong> <strong>samråd </strong>med handledare dryckeslistor och beskriver <strong>översiktligt </strong>vilka produkter som behövs i dryckesbarer. Dessutom utför eleven <strong>efter samråd </strong>med handledare prisberäkningar av olika dryckesalternativ.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika drinkgrupper och drinkrecept.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom dryckesbarer. I arbetet väljer och använder eleven med<strong> mycket gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Dessutom väljer och använder eleven <strong>efter samråd </strong>med handledare lämpliga råvaror och produkter vid drinkblandning. Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>efter samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>nyanserade </strong>omdömen. Eleven utformar också <strong>efter samråd </strong>med handledare dryckeslistor och beskriver <strong>utförligt </strong>vilka produkter som behövs i dryckesbarer. Dessutom utför eleven <strong>efter samråd </strong>med handledare prisberäkningar av olika dryckesalternativ.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DRYDRY0</h3>",
+      "code": "DRYDRY0",
+      "nameHeading": "<h2>Drycker, 100 poäng</h2>",
+      "name": "Drycker",
+      "englishName": "Drinks",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen drycker omfattar punkterna 2 och 4–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Kalla och varma drycker: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris.</li> <li>Tillverkning av vin, öl och spritdrycker.</li> <li>Serveringsmetoder för vin, öl och måltidsdrycker.</li> <li>Hur man använder redskap och utrustning vid hantering och servering av drycker.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt.</li> <li>Provningsmetoder och sensorik.</li> <li>Identifiering och bedömning av olika alkoholhaltiga och alkoholfria dryckers kvalitet.</li> <li>Utformning av dryckeslistor.</li> <li>Kundbemötande och fackspråk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> visst </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>i samråd </strong>med handledare någon provningsmetod och beskriver <strong>översiktligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>i samråd </strong>med handledare dryckeslistor.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>efter samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>efter samråd </strong>med handledare dryckeslistor.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur olika drycker framställs och ska hanteras samt deras ursprung, karaktär och användningsområde.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> mycket gott </strong>handlag relevanta serveringsmetoder, redskap och utrustning. Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>efter samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med säkerhet </strong>olika drycker och bedömer deras kvalitet med <strong>nyanserade </strong>omdömen. Eleven utformar också <strong>efter samråd </strong>med handledare dryckeslistor.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DRYDRY00S</h3>",
+      "code": "DRYDRY00S",
+      "nameHeading": "<h2>Drycker – specialisering, 100 poäng</h2>",
+      "name": "Drycker – specialisering",
+      "englishName": "Drinks – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen drycker – specialisering omfattar punkterna 2–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Drycker inom valt specialiseringsområde: deras råvaror, odlingsområden, ursprung, framställningsmetoder, karaktär, tillverkningsprocesser och användningsområde. Hur dessa faktorer påverkar slutproduktens kvalitet och pris. Exempel på specialiseringsområden kan vara kaffe, öl, champagne, barteknik, viner från olika delar av världen, vintillverkning och vinprovning.</li> <li>Trender, traditioner och utveckling inom valt specialiseringsområde.</li> <li>Påverkan från olika kulturer inom valt specialiseringsområde.</li> <li>Yrkesmässiga och experimentella metoder och tekniker inom valt specialiseringsområde.</li> <li>Material, redskap och utrustning för arbete med drycker.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt.</li> <li>Provningsmetoder och sensorik.</li> <li>Identifiering och bedömning av dryckers kvalitet.</li> <li>Utformning av dryckeslistor inom valt specialiseringsområde.</li> <li>Kundbemötande och fackspråk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>översiktligt </strong>trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.</p><p>Eleven planerar, organiserar och utför <strong>i samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> visst </strong>handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>i samråd </strong>med handledare någon provningsmetod och beskriver <strong>översiktligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet </strong>drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>i samråd </strong>med handledare dryckeslistor inom valt specialiseringsområde.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>utförligt </strong>trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> gott </strong>handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning. Resultatet är <strong>tillfredsställande</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>efter samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med viss säkerhet</strong> drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>enkla </strong>omdömen. Eleven utformar också <strong>efter samråd </strong>med handledare dryckeslistor inom valt specialiseringsområde.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Eleven samarbetar med andra och använder <strong>med viss säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur drycker inom valt specialiseringsområde framställs och ska hanteras samt deras ursprung, karaktär, och användningsområde. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>trender, traditioner, utveckling och påverkan från olika kulturer inom valt specialiseringsområde.</p><p>Eleven planerar, organiserar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom området. I arbetet väljer och använder eleven med<strong> mycket gott </strong>handlag yrkesmässiga och experimentella metoder, tekniker, material, redskap och utrustning. Resultatet är <strong>gott</strong> och eleven arbetar hygieniskt, ergonomiskt och säkert.</p><p>Eleven använder <strong>efter samråd </strong>med handledare någon provningsmetod och beskriver <strong>utförligt och nyanserat </strong>olika faktorers påverkan på sinnena vid provning av drycker. Dessutom identifierar eleven <strong>med säkerhet </strong>drycker inom valt specialiseringsområde och bedömer deras kvalitet med <strong>nyanserade </strong>omdömen. Eleven utformar också <strong>efter samråd </strong>med handledare dryckeslistor inom valt specialiseringsområde.</p><p>När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven samarbetar med andra och använder <strong>med säkerhet</strong> fackspråk. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.977Z"
+}

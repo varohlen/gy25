@@ -1,0 +1,78 @@
+{
+  "code": "SPEI",
+  "name": "Specialpedagogik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:213",
+  "nameHeading": "<h2>Specialpedagogik</h2>",
+  "description": "<p>Ämnet specialpedagogik har utvecklats ur pedagogik med kopplingar till psykologi, sociologi, filosofi och medicin. I ämnet behandlas människors olika villkor för lärande och utveckling i samspel med det omgivande samhället.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet specialpedagogik ska syfta till att eleverna utvecklar kunskaper om relationer mellan samhällets stöd och livsvillkor för människor med funktionsnedsättningar. Eleverna ska också ges möjlighet att utveckla kunskaper om samhällets olika insatser för människor med funktionsnedsättningar. Dessutom ska de ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser för att, i olika situationer, skapa likvärdighet, delaktighet och tillgänglighet för människor med funktionsnedsättningar. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika funktionsnedsättningar och hur de kan påverka människors liv, lärande och delaktighet i samhället. Undervisningen ska bidra till att eleverna utvecklar förmåga att använda specialpedagogiska arbetssätt och hjälpmedel samt att planera och genomföra aktiviteter som främjar likvärdighet, delaktighet och tillgänglighet. Vidare ska eleverna ges möjlighet att utveckla kunskaper om olika begrepp och deras innebörd samt förmåga att tillämpa dessa.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att möta människor med respekt och att arbeta utifrån ett etiskt och inkluderande förhållningssätt, med utgångspunkt i mänskliga rättigheter och en demokratisk värdegrund. Såväl egna som samhällets attityder till och värderingar av människors olikheter och rättigheter ska behandlas i undervisningen.</p> <p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier eller medverkan i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska också ges möjlighet att reflektera över och diskutera ämnesinnehållet och centrala begrepp. Undervisningen ska dessutom ge eleverna möjlighet att inhämta, värdera och använda information från olika källor.</p> <h5><em>Undervisningen i ämnet specialpedagogik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om det specialpedagogiska området, centrala begrepp samt lagar och andra bestämmelser inom området.</li> <li>Kunskaper om olika funktionsnedsättningar.</li> <li>Förmåga att tillämpa olika specialpedagogiska arbetssätt och hjälpmedel.</li> <li>Förmåga att planera, genomföra, dokumentera och utvärdera insatser och aktiviteter som främjar delaktighet.</li> <li>Förmåga att bemöta, kommunicera och samverka på ett yrkesetiskt sätt.</li> </ul><h3>Nivåer i ämnet specialpedagogik</h3><ul><li>Nivå 1, 100 poäng. Betyg i specialpedagogik som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i funktionsförmåga och funktionsnedsättning som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i specialpedagogik som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i funktionsförmåga och funktionsnedsättning som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPEI1000X</h3>",
+      "code": "SPEI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet specialpedagogik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Bakgrunden till och framväxten av det specialpedagogiska området.</li> <li>Innebörden av olika begrepp, till exempel funktionsnedsättning, funktionshinder, delaktighet och likvärdighet.</li> <li>Lagar och andra bestämmelser som gäller specialpedagogiska insatser, däribland lagen om stöd och service till vissa funktionshindrade (LSS) och relevanta delar av socialtjänstlagen (SoL) kopplat till verksamhetsområdet samt bestämmelser om delegering.</li> <li>Olika funktionsnedsättningar och hur de kan påverka människors liv, lärande och delaktighet i samhället. Relationen mellan funktionshinder och funktionsnedsättning samt miljöns betydelse för människors möjlighet till delaktighet.</li> <li>Hur specialpedagogiska arbetssätt och hjälpmedel kan användas för att skapa goda villkor för människors delaktighet i olika situationer.</li> <li>Yrkesetiska och pedagogiska förhållningssätt.</li> <li>Metoder, redskap och teorier för planering, genomförande, dokumentation och utvärdering av olika insatser och aktiviteter som främjar goda levnadsvillkor och skapar möjligheter för människors delaktighet i olika situationer.</li> <li>Bemötande av människor med olika behov och förutsättningar.</li> <li>Människors olika förutsättningar och möjligheter för lärande och delaktighet.</li> <li>Alternativa och kompletterande kommunikationssätt som stöd, till exempel kommunikationssätt vid kognitiva funktionsnedsättningar samt hörsel- och synnedsättningar.</li> <li>Interaktion och kommunikation utifrån ett etiskt förhållningssätt i samarbeten och möten med människor.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SPEI2000X</h3>",
+      "code": "SPEI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet specialpedagogik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Bakgrunden till och framväxten av det specialpedagogiska området.</li> <li>Organisationer, arbetssätt och olika insatser inom funktionshinderområdet.</li> <li>Innebörden av olika begrepp, till exempel funktionsnedsättning, funktionshinder, normalitet, avvikelse, diagnos, inkludering, exkludering, tillgänglighet, delaktighet och likvärdighet.</li> <li>Lagar och andra bestämmelser som gäller specialpedagogiska insatser, däribland FN:s konvention om rättigheter för personer med funktionsnedsätting samt de intentioner som finns bakom lagarna.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet.</li> <li>Funktionsnedsättningars konsekvenser i olika närmiljöer och sammanhang och hur de kan påverka människors liv, lärande och delaktighet i samhället.</li> <li>Användning, utveckling och anpassning av specialpedagogiska arbetssätt och innehåll i pedagogiska verksamheter, både till individers och gruppers olika behov samt till situationen.</li> <li>Specialpedagogiska hjälpmedel och hur dessa kan användas i sociala och pedagogiska sammanhang.</li> <li>Olika yrkesroller och vanligt förekommande arbetsuppgifter inom det specialpedagogiska området.</li> <li>Metoder, redskap och teorier för planering, genomförande, dokumentation, utvärdering och uppföljning av olika insatser och aktiviteter som främjar likvärdighet, delaktighet och tillgänglighet på individ- och gruppnivå.</li> <li>Hur attityder till människors olika livssituationer kan se ut.</li> <li>Människors olikheter, förutsättningar och möjligheter för lärande och delaktighet i olika aktiviteter.</li> <li>Alternativa och kompletterande kommunikationssätt samt vilken funktion och betydelse de har för människors delaktighet i samhället.</li> <li>Hur interaktion och kommunikation kan främja samarbete, delaktighet och möten mellan människor samt ge stöd i olika situationer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om det specialpedagogiska området och använder med <strong>viss säkerhet</strong> centrala begrepp. Dessutom visar eleven <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för olika funktionsnedsättningar och vilken påverkan de kan ha på människors liv.</p> <p>Eleven tillämpar med <strong>viss säkerhet</strong> olika specialpedagogiska arbetssätt och hjälpmedel.</p> <p>Eleven planerar och genomför med <strong>godtagbart</strong> resultat olika insatser och aktiviteter som främjar goda levnadsvillkor och skapar möjligheter för människors delaktighet i olika situationer. Eleven dokumenterar och utvärderar arbetet på ett <strong>enkelt</strong> sätt.</p> <p>Eleven bemöter, kommunicerar och samverkar med <strong>viss säkerhet</strong> för att stödja och assistera människor på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om det specialpedagogiska området och använder med <strong>säkerhet</strong> centrala begrepp. Dessutom visar eleven <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven redogör på ett <strong>gott</strong> sätt för olika funktionsnedsättningar och vilken påverkan de kan ha på människors liv.</p> <p>Eleven tillämpar med <strong>säkerhet</strong> olika specialpedagogiska arbetssätt och hjälpmedel.</p> <p>Eleven planerar och genomför med <strong>gott</strong> resultat olika insatser och aktiviteter som främjar goda levnadsvillkor och skapar möjligheter för människors delaktighet i olika situationer. Eleven dokumenterar och utvärderar arbetet på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven bemöter, kommunicerar och samverkar med <strong>säkerhet</strong> för att stödja och assistera människor på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om det specialpedagogiska området och använder med <strong>god säkerhet</strong> centrala begrepp. Dessutom visar eleven <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven redogör på ett <strong>mycket gott</strong> sätt för olika funktionsnedsättningar och vilken påverkan de kan ha på människors liv.</p> <p>Eleven tillämpar med <strong>god säkerhet</strong> olika specialpedagogiska arbetssätt och hjälpmedel.</p> <p>Eleven planerar och genomför med <strong>mycket gott</strong> resultat olika insatser och aktiviteter som främjar goda levnadsvillkor och skapar möjligheter för människors delaktighet i olika situationer. Eleven dokumenterar och utvärderar arbetet på ett <strong>välutvecklat</strong> sätt.</p> <p>Eleven bemöter, kommunicerar och samverkar med <strong>god säkerhet</strong> för att stödja och assistera människor på ett yrkesetiskt sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.084Z"
+}

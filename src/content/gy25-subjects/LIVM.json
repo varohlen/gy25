@@ -1,0 +1,64 @@
+{
+  "code": "LIVM",
+  "name": "Livsmedels- och näringskunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:43",
+  "nameHeading": "<h2>Livsmedels- och näringskunskap</h2>",
+  "description": "<p>Ämnet livsmedels- och näringskunskap behandlar livsmedel, råvaror och näringsämnen samt hur de påverkas av olika faktorer. Det behandlar även hur matsedlar samt recept för maträtter och bakverk kan komponeras för olika behov utifrån livsmedlens och råvarornas näringsinnehåll.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet livsmedels- och näringskunskap ska syfta till att eleverna utvecklar yrkesmässiga kunskaper om olika livsmedel och råvaror samt deras näringsinnehåll och kemiska uppbyggnad. Undervisningen ska även leda till att eleverna utvecklar kunskaper om näringsämnen och deras funktion i kroppen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur näringsinnehållet och kvaliteten påverkas av råvarornas odlingssätt eller uppfödningssätt, förädling, tillagning och förvaring.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och lust till fortsatt lärande. Eleverna ska också ges möjlighet att diskutera och värdera olika synpunkter inom området.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att komponera och näringsberäkna matsedlar samt recept för maträtter och bakverk med hänsyn till olika behov. Undervisningen ska även leda till att eleverna utvecklar kunskaper om den påverkan som mat och dryck har på människors hälsa.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om kostsituationen i världen samt om etik och hållbar utveckling inom området. Den ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller livsmedel och råvaror.</p> <h5><em>Undervisningen i ämnet livsmedels- och näringskunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om råvaror, livsmedel och näringsämnen.</li> <li>Förmåga att göra näringsberäkningar samt att sammanställa menyer och recept för normal- och specialkost.</li> <li>Kunskaper om etik och hållbar utveckling inom området.</li> </ul><h3>Nivåer i ämnet livsmedels- och näringskunskap</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LIVM1000X</h3>",
+      "code": "LIVM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet livsmedels- och näringskunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Identifiering och kvalitetsbedömning av råvaror och livsmedel i bageri och kök.</li> <li>Näringsämnen som behövs för kroppens uppbyggnad och funktioner. Hur näringsämnen påverkar människors hälsa.</li> <li>Olika led i hanteringen av råvaror och livsmedel, däribland odling, förädling, transport, förvaring och djurhållning.</li> <li>Hur olika tillagningsmetoder och processer påverkar råvarors och livsmedels kvalitet och näringsinnehåll.</li> <li>Kemiska processer i råvaror och livsmedel vid förädling och förvaring.</li> <li>Näringsberäkningar. Hur individers näringsbehov påverkas av olika faktorer.</li> <li>Näringsrekommendationer.</li> <li>Hur måltider kan skapas utifrån näringsrekommendationer och näringsberäkningar.</li> <li>Allergi- och specialkost. Kostrekommendationer för olika näringstillstånd, till exempel för äldre, barn och sjuka.</li> <li>Lagar och andra bestämmelser inom området, till exempel bestämmelser gällande livsmedelstillsatser, märkning och packning.</li> <li>Kostsituationen i Sverige och i andra länder, till exempel undernäring, fetma och resursfördelning.</li> <li>Etik och hållbarhet när det gäller råvaru- och livsmedelshantering samt resurshushållning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om råvaror, livsmedel och näringsämnen.</p> <p>Eleven gör med <strong>viss säkerhet</strong> näringsberäkningar och sammanställer med utgångspunkt i detta menyer och recept för normal- och specialkost.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om etik och hållbar utveckling inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om råvaror, livsmedel och näringsämnen.</p> <p>Eleven gör med <strong>säkerhet</strong> näringsberäkningar och sammanställer med utgångspunkt i detta menyer och recept för normal- och specialkost.</p> <p>Eleven visar <strong>goda</strong> kunskaper om etik och hållbar utveckling inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om råvaror, livsmedel och näringsämnen.</p> <p>Eleven gör med <strong>god säkerhet</strong> näringsberäkningar och sammanställer med utgångspunkt i detta menyer och recept för normal- och specialkost.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om etik och hållbar utveckling inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.035Z"
+}

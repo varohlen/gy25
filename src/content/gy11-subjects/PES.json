@@ -1,0 +1,219 @@
+{
+  "code": "PES",
+  "name": "Persontransporter",
+  "englishName": "Transport of people",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:225",
+  "skolfsAndring": "2022:247",
+  "nameHeading": "<h2>Persontransporter</h2>",
+  "description": "<p>Ämnet persontransporter behandlar yrkesmässiga vägtransporter med fordon som används för persontransporter. Det omfattar dels förarutbildning på fordon för persontransporter, dels säkerhet för passagerare.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet persontransporter ska syfta till att eleverna utvecklar förmåga att utföra yrkesmässiga persontransporter med tonvikt på passagerarsäkerhet. Den ska ge eleverna möjlighet att utveckla förmåga att framföra fordon för persontransporter. Undervisningen ska leda till att eleverna utvecklar kunskaper som motsvarar de specifika kraven på yrkeskompetens i överenskommelser om yrkesmässiga vägtransporter. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att ge service och bemöta kunder samt att ta hand om passagerare med särskilda behov. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om förutsättningar för yrkesmässig persontrafik, olika transportverksamheters villkor samt om ergonomi och arbetsmiljö. </p><p>Undervisningen ska utgå från uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet persontransporter ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om administrativa rutiner för biljettsystem och turlistor samt om dokumentation och rutiner för internationella persontransporter.</li> <li>Kunskaper om yrkesmässiga persontransporter och deras förutsättningar.</li> <li>Kunskaper om busskonstruktioners funktion och användningsområden samt om bussförarens arbetssituation och risker i arbetet.</li> <li>Förmåga att köra och manövrera fordon för persontransporter i skiftande trafikmiljöer.</li> <li>Förmåga att planera och genomföra persontransporter på ett säkert, miljömässigt och kvalitetsmässigt sätt enligt lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att hantera fordon för persontransporter och fordonens utrustning samt att utföra service och underhåll på bussar.</li> <li>Förmåga att planera körtider och färdvägar mot resmål samt att beräkna lastvikter.</li> <li>Förmåga att hantera situationer vid olyckstillbud och sjukdomstillstånd hos passagerare.</li> <li>Förmåga att ge service och bemöta kunder utifrån resenärens behov.</li> <li>Förmåga att samarbeta med andra och att kommunicera med kunder och medarbetare.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Persontrafik 1a, 200 poäng, som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.</li> <li>Persontrafik 1b, 200 poäng, som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.</li> <li>Persontrafik – vux, 200 poäng, som bygger på kursen yrkestrafik – vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.</li> <li>Persontransporter – specialisering, 100 poäng, som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik – vux. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Taxitrafik, 100 poäng, som bygger på kursen persontransporter – specialisering.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PESPER01a</h3>",
+      "code": "PESPER01a",
+      "nameHeading": "<h2>Persontrafik 1a, 200 poäng</h2>",
+      "name": "Persontrafik 1a",
+      "englishName": "Passenger transport 1a",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen persontrafik 1a omfattar punkterna 3–7 och 9–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Användning av mobil kommunikationsutrustning under färd.</li> <li>Körning och manövrering av tung buss i skiftande trafikmiljöer med rätt nyttjande av bussens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.</li> <li>Service, tillsyn, vård och underhåll av fordon, utrustning och lastutrymmen.</li> <li>Avancerad körteknik, mjukhet vid inbromsningar och stopp, betryggande säkerhetsavstånd till övrig trafik samt manövrering och trafikuppträdande vid hållplatser för av- och påstigning.</li> <li>Användning av olika informationssystem för färdplanering och vägval samt planering av körtider fram till olika resmål.</li> <li>Körning utifrån tidtabell och rutiner vid hållplatser.</li> <li>Körning med passagerare, med planering av färdvägar och tidsplaner för resmål. Förmedlande av aktuell information till resande.</li> <li>Lastsäkring av resgods och viktberäkningar utifrån fordonets kapacitet och vägval.</li> <li>Ergonomi i förarmiljön och vid lastning av gods.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas. Dessutom beskriver eleven <strong>översiktligt</strong> risker med att som bussförare använda mobila kommunikationsutrustningar samt ger exempel på alternativ till dessa.</p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta situationer. Dessutom utför eleven <strong>i samråd </strong>med handledare <strong>enkel</strong> service och vård samt <strong>enkelt</strong> underhåll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>tillfredsställande</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>i samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>i samråd </strong>med handledare körning enligt given tidtabell med <strong>tillfredsställande </strong>resultat samt utför <strong>enkla</strong> transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>översiktligt </strong>metoder för lastsäkring av resgods samt utför <strong>i samråd </strong>med handledare <strong>enkla </strong>lastviktsberäkningar. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas. Dessutom beskriver eleven <strong>utförligt</strong> risker med att som bussförare använda mobila kommunikationsutrustningar samt ger exempel på alternativ till dessa.</p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta <strong>och delvis nya </strong>situationer. Dessutom utför eleven <strong>efter samråd </strong>med handledare service och vård samt underhåll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>tillfredsställande</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>efter samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>efter samråd </strong>med handledare körning enligt given tidtabell med <strong>tillfredsställande </strong>resultat samt utför transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>utförligt</strong> metoder för lastsäkring av resgods samt utför <strong>efter samråd </strong>med handledare lastviktsberäkningar. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven,<strong> medverkar till att upprätthålla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> risker med att som bussförare använda mobila kommunikationsutrustningar samt ger exempel på alternativ till dessa.</p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta <strong>och nya </strong>situationer. Dessutom utför eleven <strong>efter samråd </strong>med handledare <strong>avancerad </strong>service och vård samt <strong>avancerat </strong>underhåll av bussen. I körningen tillämpar eleven en <strong>god</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>gott</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>efter samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>efter samråd </strong>med handledare körning enligt given tidtabell med <strong>gott </strong>resultat samt utför <strong>komplexa </strong>transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> metoder för lastsäkring av resgods samt utför <strong>efter samråd </strong>med handledare <strong>avancerade </strong>lastviktsberäkningar. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven,<strong> medverkar till att upprätthålla och utveckla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PESPER01b</h3>",
+      "code": "PESPER01b",
+      "nameHeading": "<h2>Persontrafik 1b, 200 poäng</h2>",
+      "name": "Persontrafik 1b",
+      "englishName": "Passenger transport 1b",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen persontrafik 1b omfattar punkterna 1–3 och 8–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Transportadministration med biljettsystem, turlistor och taxameterutrustningar.</li> <li>Administrativa rutiner vid gränspassager med dokumentation och tillstånd för internationella persontransporter utanför och inom EU.</li> <li>Olika transportverksamheter för persontrafiken, till exempel linjetrafik, beställningstrafik, taxitrafik, skolskjuts, sjukresor och färdtjänst. De olika transportverksamheternas förutsättningar och krav på utförande och utmärkning.</li> <li>Uppbyggnad, funktion och användningsområden för de vanligast förekommande busskonstruktionerna samt riskfaktorer med vindkänslighet och tyngdpunktsfördelning.</li> <li>Passagerarsäkerhet vid olyckstillbud. Brandrisker med utrymningsvägar samt orsaker till uppkomsten av bussbränder.</li> <li>Olika sjukdomstillstånd hos passagerare samt hur man kan agera och hjälpa personer som uppvisar symtom på sjukdom.</li> <li>Omhändertagande av passagerare med särskilda behov, till exempel barn, äldre och personer med funktionsnedsättning.</li> <li>Service och kundbemötande vid persontransporter.</li> <li>Gods med speciella farliga egenskaper i samband med persontransporter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Eleven beskriver också <strong>översiktligt</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Dessutom beskriver eleven <strong>översiktligt</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>översiktligt</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Eleven beskriver också <strong>översiktligt</strong> tillvägagångssätt och rutiner vid olyckstillbud och brandrisk i fordon. Dessutom beskriver eleven <strong>översiktligt</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven beskriver <strong>översiktligt</strong> begreppen service och kundbemötande vid persontransporter. Dessutom beskriver eleven <strong>översiktligt</strong> gods med farliga egenskaper samt hur det ska hanteras vid persontransporter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Eleven beskriver också <strong>utförligt</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Dessutom beskriver eleven <strong>utförligt</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>utförligt</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Eleven beskriver också <strong>utförligt</strong> tillvägagångssätt och rutiner vid olyckstillbud och brandrisk i fordon. Dessutom beskriver eleven <strong>utförligt</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven beskriver <strong>utförligt</strong> begreppen service och kundbemötande vid persontransporter. Dessutom beskriver eleven <strong>utförligt</strong> gods med farliga egenskaper samt hur det ska hanteras vid persontransporter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Eleven beskriver också <strong>utförligt och nyanserat</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Dessutom beskriver eleven <strong>utförligt</strong> <strong>och nyanserat</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Eleven beskriver också <strong>utförligt och nyanserat</strong> tillvägagångssätt och rutiner vid olyckstillbud och brandrisk i fordon. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> begreppen service och kundbemötande vid persontransporter. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> gods med farliga egenskaper samt hur det ska hanteras vid persontransporter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PESPER1</h3>",
+      "code": "PESPER1",
+      "nameHeading": "<h2>Persontrafik – vux, 200 poäng</h2>",
+      "name": "Persontrafik – vux",
+      "englishName": "Passenger transport – adults ",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen persontrafik – vux omfattar punkterna 1–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Transportadministration med biljettsystem och turlistor.</li> <li>Administrativa rutiner vid gränspassager med dokumentation och tillstånd för internationella persontransporter utanför och inom EU.</li> <li>Ergonomi i förarmiljön och vid lastning av gods.</li> <li>Olika transportverksamheter för persontrafiken, till exempel linjetrafik, beställningstrafik, skolskjuts, sjukresor och färdtjänst. De olika transportverksamheternas förutsättningar och krav på utförande och utmärkning.</li> <li>Uppbyggnad, funktion och användningsområden för de vanligast förekommande busskonstruktionerna samt riskfaktorer med vindkänslighet och tyngdpunktsfördelning.</li> <li>Körning och manövrering av buss i skiftande trafikmiljöer med rätt nyttjande av bussens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.</li> <li>Service, tillsyn, vård och underhåll av fordon, utrustning och lastutrymmen.</li> <li>Avancerad körteknik, mjukhet vid inbromsningar och stopp, betryggande säkerhetsavstånd till övrig trafik samt manövrering och trafikuppträdande vid hållplatser för av- och påstigning.</li> <li>Ekonomisk och miljövänlig körning.</li> <li>Användning av olika informationssystem för färdplanering och vägval samt planering av körtider fram till olika resmål.</li> <li>Användning av kommunikationsutrustning under färd.</li> <li>Körning utifrån tidtabell och rutiner vid hållplatser.</li> <li>Körning med passagerare, med planering av färdvägar och tidsplaner för resmål. Förmedlande av aktuell information till resande.</li> <li>Omhändertagande av passagerare med särskilda behov, till exempel barn, äldre och personer med funktionsnedsättning.</li> <li>Passagerarsäkerhet. Handlande vid olyckstillbud. Brandrisker, utrymningsvägar samt orsaker till bussbränder. Olika sjukdomstillstånd hos passagerare samt hur man kan agera och hjälpa personer som uppvisar symtom på sjukdom.</li> <li>Lastsäkring av resgods och viktberäkningar utifrån fordonets kapacitet och vägval.</li> <li>Gods med speciella farliga egenskaper i samband med persontransporter.</li> <li>Service och kundbemötande vid persontransporter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Dessutom beskriver eleven <strong>översiktligt</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Eleven beskriver <strong>översiktligt</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>översiktligt</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Dessutom beskriver eleven <strong>översiktligt</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas.</p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta situationer. Dessutom utför eleven <strong>i samråd </strong>med handledare <strong>enkel</strong> service och vård samt <strong>enkelt</strong> underhåll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>tillfredsställande</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>i samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>i samråd </strong>med handledare körning enligt given tidtabell med <strong>tillfredsställande </strong>resultat samt utför <strong>enkla</strong> transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>översiktligt </strong>metoder för lastsäkring av resgods samt utför <strong>i samråd </strong>med handledare <strong>enkla </strong>lastviktsberäkningar.</p><p>Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven beskriver <strong>översiktligt</strong> tillvägagångssätt och rutiner vid olyckstillbud, brandrisker i fordon och gods med farliga egenskaper samt hur det ska hanteras vid persontransporter. Dessutom beskriver eleven <strong>översiktligt</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Dessutom beskriver eleven <strong>utförligt</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Eleven beskriver <strong>utförligt</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>utförligt</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Dessutom beskriver eleven <strong>utförligt</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas. </p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta <strong>och delvis nya</strong> situationer. Dessutom utför eleven <strong>efter samråd </strong>med handledare service och vård samt underhåll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>tillfredsställande</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>efter samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>efter samråd </strong>med handledare körning enligt given tidtabell med <strong>tillfredsställande </strong>resultat samt utför transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>utförligt </strong>metoder för lastsäkring av resgods samt utför <strong>efter samråd </strong>med handledare lastviktsberäkningar.</p><p>Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven beskriver <strong>utförligt</strong> tillvägagångssätt och rutiner vid olyckstillbud, brandrisker i fordon och gods med farliga egenskaper samt hur det ska hanteras vid persontransporter. Dessutom beskriver eleven <strong>utförligt</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven<strong> och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanligt förekommande biljettsystem, turlistor och utrustningar för betalsystem. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> dokumentation och rutiner vid internationell yrkesmässig persontrafik. Eleven beskriver <strong>utförligt och nyanserat</strong> persontrafikens olika verksamhetsgrenar samt skillnader och krav på genomförande för de olika verksamheterna.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> busskonstruktioners funktion och användningsområden samt faktorer som påverkar stabiliteten på fordonet. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> några risker med felaktiga arbetsställningar samt ger några exempel på hur de kan förebyggas. </p><p>Eleven kör och manövrerar bussen på ett trafiksäkert och miljömedvetet sätt i bekanta <strong>och nya</strong> situationer. Dessutom utför eleven <strong>efter samråd </strong>med handledare <strong>avancerad</strong> service och vård samt <strong>avancerat</strong> underhåll av bussen. I körningen tillämpar eleven en <strong>god</strong> körteknik vid inbromsningar, med säkerhetsavstånd till övrig trafik, samt ett <strong>gott</strong> trafikuppträdande vid hållplatser. Eleven utför <strong>efter samråd </strong>med handledare färdplanering med hjälp av informationssystem samt beräknar körtider mot resmål. Dessutom utför eleven <strong>efter samråd </strong>med handledare körning enligt given tidtabell med <strong>gott </strong>resultat samt utför <strong>komplexa</strong> transportuppdrag med passagerare mot angivet resmål. I arbetet beskriver eleven <strong>utförligt och nyanserat </strong>metoder för lastsäkring av resgods samt utför <strong>efter samråd </strong>med handledare <strong>avancerade </strong>lastviktsberäkningar. </p><p>Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten.</p><p>Eleven beskriver också <strong>utförligt och nyanserat</strong> tillvägagångssätt och rutiner vid olyckstillbud, brandrisker i fordon och gods med farliga egenskaper samt hur det ska hanteras vid persontransporter. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika sjukdomstillstånd hos passagerare samt hur olika behov hos passagerare kan tillgodoses.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven<strong> och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PESPER00S</h3>",
+      "code": "PESPER00S",
+      "nameHeading": "<h2>Persontransporter – specialisering, 100 poäng</h2>",
+      "name": "Persontransporter – specialisering",
+      "englishName": "Transport of people – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen persontransporter – specialisering omfattar punkterna 4–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Körning och manövrering av vald buss inom specialiseringen, i skiftande trafikmiljöer och med ett avancerat, rationellt och trafiksäkert körsätt. Funktionstillsyn och säkerhetskontroll av fordon och utrustning.</li> <li>Körteknik och handhavande av fordonets utrustning före och under färd.</li> <li>Planering och genomförande av transporter mot olika resmål.</li> <li>Passagerarsäkerhet och tillvägagångssätt vid olyckstillbud.</li> <li>Kundbemötande och service till passagerare samt aktuell information före och under resan.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kör och manövrerar vald buss på ett <strong>tillfredsställande</strong>, trafiksäkert och miljömedvetet sätt i bekanta trafikmiljöer. Dessutom utför eleven <strong>i samråd </strong>med handledare tillsyn och säkerhetskontroll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande </strong>körteknik samt hanterar <strong>med viss säkerhet </strong>bussens utrustning. Eleven genomför <strong>enkel</strong> planering av körtider och färdvägar samt utför transporterna <strong>i samråd </strong>med handledare. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten. I arbetet beskriver eleven <strong>översiktligt</strong> grundläggande passagerarsäkerhet samt tillvägagångssätt vid olyckstillbud.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kör och manövrerar vald buss på ett <strong>tillfredsställande</strong>, trafiksäkert och miljömedvetet sätt i bekanta <strong>och delvis nya </strong>trafikmiljöer. Dessutom utför eleven <strong>efter samråd </strong>med handledare tillsyn och säkerhetskontroll av bussen. I körningen tillämpar eleven en <strong>tillfredsställande </strong>körteknik samt hanterar <strong>med viss säkerhet </strong>bussens utrustning. Eleven genomför planering av körtider och färdvägar samt utför transporterna <strong>efter samråd </strong>med handledare. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten. I arbetet beskriver eleven <strong>utförligt</strong> grundläggande passagerarsäkerhet samt tillvägagångssätt vid olyckstillbud.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven,<strong> medverkar till att upprätthålla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kör och manövrerar vald buss på ett <strong>gott</strong>, trafiksäkert och miljömedvetet sätt i bekanta <strong>och nya </strong>trafikmiljöer. Dessutom utför eleven <strong>efter samråd </strong>med handledare tillsyn och säkerhetskontroll av bussen. I körningen tillämpar eleven en <strong>god </strong>körteknik samt hanterar <strong>med säkerhet </strong>bussens utrustning. Eleven genomför planering av körtider och färdvägar samt utför transporterna <strong>efter samråd </strong>med handledare. Eleven tar ansvar för bussen, passagerare och utrustning samt arbetar utifrån lagar och andra bestämmelser som styr verksamheten. I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> grundläggande passagerarsäkerhet samt tillvägagångssätt vid olyckstillbud.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder och ger god service till passagerare. Dessutom samarbetar eleven,<strong> medverkar till att upprätthålla och utveckla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med kunder och medarbetare. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PESTAX0</h3>",
+      "code": "PESTAX0",
+      "nameHeading": "<h2>Taxitrafik, 100 poäng</h2>",
+      "name": "Taxitrafik",
+      "englishName": "Taxi transport",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen taxitrafik omfattar punkterna 1–2, 6 och 8–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Trafikledningssystem som är specifika för taxilogistik och taxametersystem.</li> <li>Lagar och andra bestämmelser som reglerar taxiverksamheten, till exempel branschetiska regler, prisinformation och vilotidsförordningar.</li> <li>Fordonstillbehör och tilläggsutrustning i fordon, till exempel ramper, lyftar, bårar, alkolås, skyddskameror och fästanordningar för bagage och rullstolar.</li> <li>Ergonomi, hälsa och miljö.</li> <li>Agerande vid olycka och nödsituationer.</li> <li>Bemötande och värdskap med särskild tonvikt på sjukresenärer och resande inom särskild kollektivtrafik samt de särskilda krav dessa grupper ställer på förare och fordon.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider. Dessutom beskriver eleven <strong>översiktligt </strong>branschetiska regler och krav på prisinformation till kunder.</p><p>Eleven beskriver <strong>översiktligt</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning. Dessutom beskriver eleven <strong>översiktligt</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet.</p><p>Eleven beskriver <strong>översiktligt</strong> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <strong>översiktligt</strong> sätt att bemöta passagerare med särskilda behov.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider. Dessutom beskriver eleven <strong>utförligt</strong> branschetiska regler och krav på prisinformation till kunder.</p><p>Eleven beskriver <strong>utförligt</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning. Dessutom beskriver eleven <strong>utförligt</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet.</p><p>Eleven beskriver <strong>utförligt</strong> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <strong>utförligt</strong> sätt att bemöta passagerare med särskilda behov.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> branschetiska regler och krav på prisinformation till kunder.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> handlingsalternativ vid olyckor och nödsituationer. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> sätt att bemöta passagerare med särskilda behov.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.126Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "SCEN",
+  "name": "Scenisk design",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:207",
+  "nameHeading": "<h2>Scenisk design</h2>",
+  "description": "<p>Scenisk design handlar om teaterns olika sceniska komponenter såsom scenografi, rekvisita, kostym, mask, ljus, ljud och projektion. Ämnet scenisk design behandlar olika sceniska uttrycksmedel som tillsammans med skådespelarens arbete skapar den sceniska berättelsen och en estetisk helhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet scenisk design ska syfta till att eleverna utvecklar kunskaper om olika sceniska uttrycksmedels betydelse för helheten och färdigheter i att arbeta med scenisk design. Centralt i all teater är gestaltning och kommunikation. Genom undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att gestalta med olika sceniska uttrycksmedel och medvetet kommunicera med sin publik. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur teaterns tre hörnpelare berättelsen, berättaren och rummet samverkar. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet i verkstad och på scen.</p> <p>Undervisning ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i teaterämnen aktivt bidra till ett rikt kulturliv i samhället. Genom undervisningen ska eleverna ges möjlighet att utveckla ansvarskänsla, initiativförmåga och lyhördhet. Undervisningen ska också betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet. Undervisningen ska utgå från elevernas kreativitet och stimulera konstnärligt skapande och berättande. I undervisningen ska eleverna ges möjlighet att med användning av områdets begrepp diskutera hur scenisk design kan förstärka berättelsens budskap och teaterns möjlighet att beröra och påverka människor. Genom det gestaltande arbetet ska eleverna ges möjlighet att enskilt och tillsammans med andra reflektera över sitt eget och gruppens skapande.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och ge eleverna möjlighet att uppleva, tolka och analysera sceniska gestaltningar, med fokus på scenisk design.</p> <h5><em>Undervisningen i ämnet scenisk design ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om scenisk design.</li> <li>Färdigheter i att använda olika sceniska uttrycksmedel.</li> <li>Förmåga att samarbeta i grupp och att arbeta på ett säkert sätt.</li> <li>Färdigheter i att med teaterns uttrycksmedel kommunicera med en publik.</li> <li>Förmåga att analysera och tolka olika sceniska gestaltningar, med användning av begrepp inom området.</li> <li>Förmåga att reflektera över det egna skapandet.</li> </ul><h3>Nivåer i ämnet scenisk design</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SCEN1000X</h3>",
+      "code": "SCEN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet scenisk design på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hur design och framställning av sceniska uttrycksmedel, till exempel scenografi, rekvisita, kostym, mask, ljus, ljud och projektion skapar en scenisk helhet.</li> <li>Materialkunskap och hantverkstekniker samt metoder för arbete med planering, skisser, ritningar och modeller.</li> <li>Arbetsmiljö och säkerhet i verkstad och på scen.</li> <li>Samarbete med fokus på att kombinera olika sceniska uttrycksmedel till en helhet.</li> <li>Hur sceniska uttrycksmedel samverkar och kommunicerar med en publik, till exempel genom att förstärka känslor och stämningar och skapa uppfattning av tid och rum.</li> <li>Analys och tolkning av sceniska gestaltningar med fokus på sceniska uttrycksmedel.</li> <li>Begrepp för analys av sceniska uttrycksmedel.</li> <li>Reflektion över det egna skapandet, både individuellt och i grupp.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SCEN2000X</h3>",
+      "code": "SCEN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet scenisk design på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Design och framställning av sceniska uttrycksmedel, till exempel scenografi, rekvisita, kostym, mask, ljus, ljud och projektion, inom valt område.</li> <li>Materialkunskap och hantverkstekniker, samt metoder för arbete med planering, skisser, ritningar och modeller, inom valt område.</li> <li>Arbetsmiljö och säkerhet i verkstad och på scen, inom valt område.</li> <li>Teatern som kollektiv konstart och arbetsplats.</li> <li>Hur ett valt sceniskt uttrycksmedel samverkar med andra uttrycksmedel och kommunicerar med en publik, anpassat till produktionens inriktning.</li> <li>Fördjupad analys och tolkning av olika sceniska gestaltningar med fokus på valt sceniskt uttrycksmedel.</li> <li>Reflektion över det egna skapandet, både individuellt och i grupp, med fokus på att göra medvetna val i en konstnärlig process.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om scenisk design.</p> <p>Eleven skapar en <strong>enkel</strong> design och använder med <strong>visst</strong> handlag olika material och tekniker.</p> <p>Eleven samarbetar med <strong>viss säkerhet</strong> i grupp. Dessutom arbetar eleven på ett säkert sätt och med hänsyn till hälsa och arbetsmiljö.</p> <p>Eleven kommunicerar med <strong>viss säkerhet</strong> med publik via olika sceniska uttrycksmedel.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av olika sceniska gestaltningar med fokus på sceniska uttrycksmedel, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>översiktligt</strong> det egna skapandet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om scenisk design.</p> <p>Eleven skapar en <strong>genomarbetad</strong> design och använder med <strong>gott</strong> handlag olika material och tekniker.</p> <p>Eleven samarbetar med <strong>säkerhet</strong> i grupp. Dessutom arbetar eleven på ett säkert sätt och med hänsyn till hälsa och arbetsmiljö.</p> <p>Eleven kommunicerar med <strong>säkerhet</strong> med publik via olika sceniska uttrycksmedel.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och tolkningar av olika sceniska gestaltningar med fokus på sceniska uttrycksmedel, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt</strong> det egna skapandet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om scenisk design.</p> <p>Eleven skapar en <strong>väl genomarbetad</strong> design och använder med <strong>mycket gott</strong> handlag olika material och tekniker.</p> <p>Eleven samarbetar med <strong>god säkerhet</strong> i grupp. Dessutom arbetar eleven på ett säkert sätt och med hänsyn till hälsa och arbetsmiljö.</p> <p>Eleven kommunicerar med <strong>god säkerhet</strong> med publik via olika sceniska uttrycksmedel.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser och tolkningar av olika sceniska gestaltningar med fokus på sceniska uttrycksmedel, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt och nyanserat</strong> det egna skapandet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.078Z"
+}

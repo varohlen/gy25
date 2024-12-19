@@ -1,0 +1,181 @@
+{
+  "code": "ENE",
+  "name": "Energiteknik",
+  "englishName": "Energy technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:156",
+  "skolfsAndring": "2022:96",
+  "nameHeading": "<h2>Energiteknik</h2>",
+  "description": "<p>Ämnet energiteknik behandlar energitekniska objekt samt hur system fungerar och är konstruerade. Ämnet bygger delvis på naturvetenskapliga principer som tillämpas på energitekniska anläggningar. Ett miljöperspektiv ingår i ämnet eftersom energitekniska system till stor del påverkar miljön.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet energiteknik ska syfta till att eleverna utvecklar kunskaper i att utföra drift, underhåll och service av energitekniska anläggningar samt förmåga att lösa praktiska problem inom området. Den ska även leda till att eleverna utvecklar kunskaper om grundläggande fysikaliska storheter, nödvändig matematik, grundläggande kemi. Dessutom ska eleverna få möjlighet att utveckla kunskaper om behandling, provtagning och analys av olika typer av vatten som används inom processindustrin och inom energi-, miljö- och vattenteknik. Vidare ska undervisningen leda till att eleverna utvecklar en teoretisk grund inom energiområdet.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla förståelse av effektiv och hållbar energianvändning samt kretsloppstänkande. Eleverna ska också ges möjlighet att utveckla kunskaper om både konventionella och alternativa energisystem samt möjlighet att utveckla säkerhetstänkande, yrkesidentitet och ett yrkesetiskt förhållningssätt.</p><p>Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av energitekniska anläggningar. Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt sköta teknisk utrustning.</p><h4>Undervisningen i ämnet energiteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika energitekniska utrustningar.</li> <li>Kunskaper om uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.</li> <li>Kunskaper om olika energikällor och bränslen samt energibärande mediers egenskaper.</li> <li>Förmåga att utföra arbetsuppgifter i olika energitekniska anläggningar samt arbeta med hänsyn till säkerhet, kvalitet och miljö.</li> <li>Förmåga att optimera samt utföra kontroll- och driftrutiner och energibesparande åtgärder i olika energianläggningar.</li> <li>Förmåga att lösa fysikaliska eller vattenkemiska problem med hjälp av laborativt arbete.</li> <li>Förmåga att hantera material och verktyg.</li> <li>Förmåga att dokumentera och utvärdera sitt arbete.</li> <li>Förmåga att samverka med andra och använda fackspråk.</li> <li>Förmåga att arbeta enligt lagar och andra bestämmelser.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Energiteknik 1, 100 poäng. </li> <li>Energiteknik 2, 100 poäng, som bygger på kursen energiteknik 1.</li> <li>Förnybar energi, 100 poäng, som bygger på kursen energiteknik 1, kursen skogsskötsel 1 eller kursen växtodling 1.</li> <li>Vatten- och processkemi, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ENEENE01</h3>",
+      "code": "ENEENE01",
+      "nameHeading": "<h2>Energiteknik 1, 100 poäng</h2>",
+      "name": "Energiteknik 1",
+      "englishName": "Energy technology 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen energiteknik 1 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande systemförståelse inom tillämpliga energiområden samt effektiv energihantering.</li> <li>Energiinnehåll i olika bränslen.</li> <li>Förnybara energikällor: sol, vind, våg, värmepump, energigaser, biobränslen samt alternativa drivmedel för fordon.</li> <li>Energianvändning inom EU.</li> <li>Processkännedom om kärnkraft, vattenkraft, värmekraft, fjärrvärme och fjärrkyla.</li> <li>Processkännedom om vattenrening för dricksvatten och förorenat vatten samt miljö- och kretsloppstänkande.</li> <li>Hantering, montering, mätning och enklare underhåll av energiteknisk utrustning.</li> <li>Säkerhetsföreskrifter inom energiområdet.</li> <li>Måttsystem för energi och effekt samt enheter och förkortningar för energi och effekt.</li> <li>Användning och skötsel av utrustning och verktyg.</li> <li>Säkerhetstänkande och yrkesetik. Arbetsmiljö och ergonomi.</li> <li>Lagar och andra bestämmelser.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för olika energitekniska utrustningar. Dessutom redogör eleven <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor. Eleven beskriver även <strong>översiktligt </strong>energibärande mediers egenskaper.</p><p>Eleven utför med <strong>visst </strong>handlag och <strong>i samråd </strong>med handledare vanligt förekommande enkla arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med viss säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför <strong>i samråd </strong>med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning. Eleven använder och vårdar <strong>i samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med viss säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för olika energitekniska utrustningar. Dessutom redogör eleven <strong>utförligt </strong>för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor <strong>samt hur de samverkar</strong>. Eleven beskriver även <strong>utförligt </strong>energibärande mediers egenskaper.</p><p>Eleven utför med <strong>gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande enkla arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med viss säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför <strong>efter samråd </strong>med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för olika energitekniska utrustningar. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar och olika energikällor <strong>samt </strong><strong>hur de samverkar</strong>. Eleven beskriver även <strong>utförligt och nyanserat </strong>energibärande mediers egenskaper.</p><p>Eleven utför med <strong>mycket gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande enkla <strong>och även mer avancerade</strong> arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför, <strong>på ett ansvarsfullt sätt och efter samråd </strong>med handledare, kontroll- och driftrutiner genom att använda energiteknisk utrustning. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar.</p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>nyanserade </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat </strong>fackspråk som<strong> är anpassat till mottagaren </strong><strong>och</strong> fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ENEENE02</h3>",
+      "code": "ENEENE02",
+      "nameHeading": "<h2>Energiteknik 2, 100 poäng</h2>",
+      "name": "Energiteknik 2",
+      "englishName": "Energy technology 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen energiteknik 2 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Egenskaper hos energibärande medier.</li> <li>Allmän pumpteknik, termodynamikens och hydrodynamikens lagar.</li> <li>Allmän korrosionslära och olika materials egenskaper.</li> <li>Centrala storheter inom energiområdet, till exempel kraft, tryck, temperatur, energi, effekt och verkningsgrad.</li> <li>Uppbyggnad, funktion, arbetsprinciper, produktionsförutsättningar och miljökonsekvenser för energi-, miljö- och vattentekniska anläggningar.</li> <li>Underhållsrutiner inom energiområdet.</li> <li>Kontroll- och driftrutiner i olika anläggningar.</li> <li>Säkerhetsföreskrifter inom energiområdet.</li> <li>Beräkningar och tillämpningar av mekanik och värmelära på energitekniska anläggningar.</li> <li>Optimering av verkningsgrad och kvalitet hos energi-, miljö- och vattentekniska anläggningar.</li> <li>Användning och skötsel av utrustning och verktyg.</li> <li>Säkerhetstänkande och yrkesetik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>översiktligt</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>visst </strong>handlag och <strong>i samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med viss säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför <strong>i samråd </strong>med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <strong>enkla </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>i samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>i samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med viss säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>utförligt</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med viss säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför <strong>på ett ansvarsfullt sätt och</strong> <strong>efter samråd </strong>med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <strong>enkla </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat </strong>fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>mycket gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med säkerhet </strong>enkla fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete. Eleven utför <strong>på ett ansvarsfullt sätt och </strong><strong>efter samråd </strong>med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet <strong>med nyanserade </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>nyanserade </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat </strong>fackspråk som <strong>är anpassat till mottagaren </strong>och fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ENEFÖR0</h3>",
+      "code": "ENEFÖR0",
+      "nameHeading": "<h2>Förnybar energi, 100 poäng</h2>",
+      "name": "Förnybar energi",
+      "englishName": "Renewable energy",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen förnybar energi omfattar punkterna 1–5 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Huvudkomponenter i olika alternativa energianläggningar och deras uppgift.</li> <li>Energiomvandling och energiproduktion vid drift av olika anläggningar.</li> <li>Förnybara energianläggningars bränsle och avfallshantering ur drift-, säkerhets- och miljösynpunkt.</li> <li>Bränslen och deras egenskaper samt förbränningsprocessen.</li> <li>Förnybara energikällor, till exempel bioenergi, solenergi, vindkraft och vågkraft. Naturliga värmekällor och värmepumpar. Förnybar energi för fordonsdrift.</li> <li>Drift- och underhållsrutiner för olika anläggningstyper.</li> <li>Säkerhetstänkande och yrkesetik.</li> <li>Användning och skötsel av utrustning och verktyg.</li> <li>Lagar och andra bestämmelser som gäller drift, miljö och säkerhet vid användning av förnybara energikällor och bränslen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>översiktligt</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>visst </strong>handlag och <strong>i samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. Eleven utför <strong>i samråd </strong>med handledare <strong>enkla</strong> kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <strong>enkla </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>i samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>i samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med viss säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>utförligt</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. Eleven utför <strong>på ett ansvarsfullt sätt och</strong> <strong>efter samråd </strong>med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <strong>enkla </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat </strong>fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad, funktion och principer hos olika energitekniska system och olika energikällor. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> energibärande mediers egenskaper.</p><p>Eleven utför med <strong>mycket gott </strong>handlag och <strong>efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en energiteknisk anläggning och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. Eleven utför <strong>på ett ansvarsfullt sätt och</strong> <strong>efter samråd </strong>med handledare kontroll- och driftrutiner genom att använda energiteknisk utrustning. Vidare utvärderar eleven resultatet med <strong>nyanserade </strong>omdömen och föreslår energibesparande åtgärder samt optimerar <strong>efter samråd </strong>med handledare energianläggningen. Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>nyanserade </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat </strong>fackspråk som <strong>är anpassat till mottagaren </strong>och fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ENEVAE0</h3>",
+      "code": "ENEVAE0",
+      "nameHeading": "<h2>Vatten- och processkemi, 100 poäng</h2>",
+      "name": "Vatten- och processkemi",
+      "englishName": "Water and process chemistry",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen vatten och processkemi omfattar punkterna 2, 4 och 6–10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande kemi samt stökiometriska beräkningar inom vatten- och miljöområdet.</li> <li>Kemiska processer i samband med tillverkningsprocesser.</li> <li>Korrosionslära med inriktning mot vattenkemi.</li> <li>Olika typer av vattens lämplighet som råvatten.</li> <li>Mekanisk, biologisk och kemisk rening av råvatten.</li> <li>Provtagning, mätning och analyser samt användning av mätteknisk utrustning inom vatten- och miljöområdet.</li> <li>Hantering av kemikalier på ett säkert och miljövänligt sätt.</li> <li>Avhärdning och totalavsaltning.</li> <li>Krav på pannvatten, kondensat och spädvatten.</li> <li>Användning och skötsel av utrustning och verktyg.</li> <li>Säkerhetstänkande och yrkesetik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för delprocesser i tillverkningsprocesserna. Dessutom redogör eleven <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.</p><p>Eleven utför med <strong>visst </strong>handlag och <strong>i samråd </strong>med handledare <strong>enkla</strong> provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>med viss säkerhet enkla</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.</p><p>Eleven använder och vårdar <strong>i samråd </strong>med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med viss säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för delprocesser i tillverkningsprocesserna. Dessutom redogör eleven <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.</p><p>Eleven utför med <strong>gott </strong>handlag och <strong>efter samråd </strong>med handledare provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven <strong>ansvarsfullt och med viss säkerhet </strong>fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.</p><p>Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>enkla </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för avancerade delprocesser i tillverkningsprocesserna. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.</p><p>Eleven utför med <strong>mycket gott </strong>handlag och <strong>efter samråd </strong>med handledare avancerade provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö. I arbetet löser eleven, <strong>ansvarsfullt och med säkerhet, komplexa</strong> fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete.</p><p>Eleven använder och vårdar <strong>efter samråd </strong>med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar. </p><p>Eleven dokumenterar <strong>med säkerhet </strong>sitt arbete och utvärderar det med <strong>nyanserade </strong>omdömen.</p><p>I arbetet samverkar eleven med andra och använder ett <strong>nyanserat</strong> fackspråk som <strong>är anpassat till mottagaren</strong> <strong>och</strong> fungerar för arbetsuppgiften. Arbetet utförs i enlighet med lagar och andra bestämmelser.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.982Z"
+}

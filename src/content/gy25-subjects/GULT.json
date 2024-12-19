@@ -1,0 +1,106 @@
+{
+  "code": "GULT",
+  "name": "Guldsmed – teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:303",
+  "nameHeading": "<h2>Guldsmed – teknik</h2>",
+  "description": "<p>Guldsmedsyrket är ett hantverksyrke med lång tradition. Ämnet guldsmed – teknik behandlar det tekniska kunnande som krävs för att utföra hantverksmässigt guldsmedsarbete och behandlar såväl tekniker och arbetsprocessen som utrustning och material som används inom guldsmide.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet guldsmed – teknik ska syfta till att eleverna utvecklar förmåga att använda olika guldsmedstekniker i skapandet av smycken och i övrigt förekommande arbeten. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera och genomföra arbetet samt att välja lämpliga verktyg, material och tekniker. Dessutom ska eleverna ges möjlighet att utveckla förmåga att redovisa och analysera resultatet samt att utvärdera arbetsprocessen.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och utveckla deras idérikedom, personliga ansvarstagande, egna drivkraft och skaparglädje. Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om teknikerna inom guldsmedsyrket samt om de olika materialens möjligheter när det gäller önskat resultat.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att använda guldsmedsyrkets fackspråk för att kommunicera om arbetsprocess och resultat. Guldsmedsyrket och branschen består till stor del av små företag och därför ska undervisningen stimulera elevernas intresse för entreprenörskap. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om marknadsföring och om ett serviceinriktat försäljningsarbete.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla och tillämpa kunskaper om säkra och hållbara arbetssätt inom yrkesområdet. Undervisningen ska ge eleverna rika möjligheter att träna olika guldsmedstekniker. Eleverna ska också ges möjlighet att använda sina teoretiska kunskaper om arbetsprocessen, tekniker, verktyg och material i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet guldsmed – teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att tillverka smycken med användning av olika tekniker inom guldsmide.</li> <li>Förmåga att utvärdera arbetsprocess och resultat.</li> <li>Kunskaper om material, verktyg och annan utrustning som används inom guldsmide.</li> <li>Förmåga att arbeta säkert och hållbart.</li> <li>Kunskaper om marknadsföring och service.</li> </ul><h3>Nivåer i ämnet guldsmed – teknik</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GULT1000X</h3>",
+      "code": "GULT1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – teknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med användning av olika tekniker inom guldsmide utifrån instruktioner, däribland sågning, filning, bockning, tråddragning och ytbehandling.</li> <li>Val och användning av verktyg och utrustning.</li> <li>Fackspråk för att följa enkla instruktioner och ritningar samt för att kommunicera med medarbetare och kunder.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> <li>Kemikalier och syror som används i guldsmedsarbetet.</li> <li>Ädla och oädla metaller samt legeringar.</li> <li>Handverktygens funktion och användningsområden.</li> <li>Underhåll av arbetsplats, handverktyg och utrustning.</li> <li>Ergonomiskt och säkert arbete, däribland användning av hjälpmedel och skyddsutrustning.</li> <li>Hantering av brandfarligt material.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom området.</li> <li>Nödlägesrutiner och första hjälpen vid krissituationer och olycksfall, däribland L-ABC (livsfarligt läge – andning, blödning, cirkulation) och HLR (hjärt-lungräddning).</li> <li>Sortering och återvinning av material.</li> <li>Metoder för marknadsföring via olika kanaler, både inom fysisk och digital verksamhet.</li> <li>Serviceinriktat bemötande i yrkesutövandet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULT2000X</h3>",
+      "code": "GULT2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – teknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med användning av olika guldsmedstekniker utifrån instruktioner.</li> <li>Olika guldsmedstekniker, däribland tekniker för smältning och ytbehandling.</li> <li>Översiktligt om vanligt förekommande fattningstekniker.</li> <li>Val och användning av verktyg och utrustning.</li> <li>Teknikbaserade moment, till exempel rörliga leder.</li> <li>Vanligt förekommande reparationer av smycken, till exempel storleksändring av slät ring.</li> <li>Översiktligt om gjutning av smycken.</li> <li>Fackspråk för att kommunicera samt för att följa instruktioner och ritningar.</li> <li>Utvärdering av arbetsprocess och resultat.</li> <li>Materials beståndsdelar, egenskaper och användningsområden.</li> <li>Metoder för att analysera metaller, till exempel analys med användning av probersyra.</li> <li>Funktioner och användningsområden för verktyg, maskiner och annan utrustning, däribland utrustning för gas.</li> <li>Underhåll av maskiner, verktyg och annan utrustning.</li> <li>Ergonomiskt och säkert arbete, däribland användning av hjälpmedel och skyddsutrustning.</li> <li>Sortering och återvinning av material.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom området.</li> <li>Metoder inom marknadsföring samt exponering av varor.</li> <li>Serviceinriktat bemötande i yrkesutövandet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULT3000X</h3>",
+      "code": "GULT3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – teknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Tillverkning av smycken med användning av olika tekniker utifrån instruktioner.</li> <li>Introduktion till cad (computer aided design).</li> <li>Beräkning av material- och tidsåtgång.</li> <li>Vanligt förekommande reparationer, till exempel reparationer med lasersvetsning.</li> <li>Tillverkning av enklare vaxmodeller som används för gjutning.</li> <li>Val och användning av verktyg och utrustning.</li> <li>Teknikbaserade moment, till exempel fattningar i olika former.</li> <li>Fackspråk för att följa instruktioner och för att kommunicera om arbetsprocess.</li> <li>Utvärdering av arbetsprocess och resultat samt användning av utvärderingar i utvecklings- och kvalitetsarbete.</li> <li>Materials egenskaper och värde, däribland guldets egenskaper och värde.</li> <li>Guldsmedens ansvar vid produktens kvalitetsmärkning.</li> <li>Metoder för att analysera guld.</li> <li>Underhåll av maskiner och verktyg samt tillverkning av egna ändamålsenliga verktyg.</li> <li>Hantering av material under arbetsprocessen samt sortering och återvinning av material.</li> <li>Ergonomiskt och säkert arbete, däribland användning av hjälpmedel och skyddsutrustning.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom området.</li> <li>Olika tekniker för exponeringar av varor, anpassade för både digitala och fysiska verksamheter.</li> <li>Kommunikationens betydelse vid bemötande i olika försäljnings- och servicesituationer, till exempel i den första kontakten med kund.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULT4000X</h3>",
+      "code": "GULT4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – teknik på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Detaljerad planering av arbetsprocess utifrån skiss eller ritning samt beräkning av material och tidsåtgång.</li> <li>Enklare formgivning av smycken i cad (computer aided design).</li> <li>Vanligt förekommande fattningsarbeten.</li> <li>Vanligt förekommande reparationer av smycken, till exempel lödning av tunn kedja.</li> <li>Tillverkning av vaxmodeller som används för gjutning.</li> <li>Val av verktyg och utrustning.</li> <li>Tillverkning av smycken genom detaljerade guldsmedstekniker utifrån instruktioner.</li> <li>Teknikbaserade moment, till exempel kupning av smyckesdelar, gängning av stift och formning av blad.</li> <li>Fackspråk anpassat efter situation och mottagare samt facktermer i ritningar.</li> <li>Utvärdering av arbetsprocess och resultat samt användning av utvärderingar i utvecklings- och kvalitetsarbete.</li> <li>Olika materials ursprung, uppbyggnad och egenskaper, däribland materialet platina.</li> <li>Materials förändringsmöjligheter genom legering vad gäller finhalt och färg.</li> <li>Underhåll av maskiner och verktyg samt tillverkning av egna ändamålsenliga verktyg, till exempel verktyg för skrodning.</li> <li>Guldsmedens ansvar vid produktens kvalitetsmärkning.</li> <li>Sortering och återvinning av material.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom området.</li> <li>Exponeringstekniker för marknadsföring av smycken och tjänster, till exempel skyltning med tema.</li> <li>Kundanpassad försäljning och service i olika situationer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven tillverkar smycken med <strong>godtagbart</strong> resultat samt använder med <strong>viss säkerhet</strong> olika guldsmedstekniker i tillverkningen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om material, verktyg och annan utrustning inom guldsmide.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om marknadsföring och service inom guldsmedsbranschen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven tillverkar smycken med <strong>gott</strong> resultat samt använder med <strong>säkerhet</strong> olika guldsmedstekniker i tillverkningen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven visar <strong>goda</strong> kunskaper om material, verktyg och annan utrustning inom guldsmide.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven visar <strong>goda</strong> kunskaper om marknadsföring och service inom guldsmedsbranschen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven tillverkar smycken med <strong>mycket gott</strong> resultat samt använder med <strong>god säkerhet</strong> olika guldsmedstekniker i tillverkningen.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om material, verktyg och annan utrustning inom guldsmide.</p> <p>Eleven arbetar säkert och hållbart.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om marknadsföring och service inom guldsmedsbranschen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.011Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "REDO",
+  "name": "Redovisning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:200",
+  "nameHeading": "<h2>Redovisning</h2>",
+  "description": "<p>Företagande har en nyckelroll i samhällets ekonomiska utveckling och välstånd. En förutsättning för att ett företag ska kunna bedriva sin verksamhet på ett hållbart sätt är en transparent och välfungerande redovisning. Ämnet redovisning handlar om hur företag dokumenterar och registrerar ekonomiska aktiviteter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet redovisning ska syfta till att eleverna utvecklar kunskaper om redovisningens funktion i ett företag samt förmåga att utföra arbetsuppgifter och lösa problem inom redovisning. Undervisningen ska också leda till att eleverna utvecklar förmåga att använda digitala system som redskap för redovisning. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller för företagens redovisning. Undervisningen ska också lyfta fram betydelsen av ekonomisk, social och miljömässig hållbarhet samt av ett etiskt och transparent förhållningssätt inom redovisning.</p> <p>Undervisningen ska stimulera elevernas intresse för redovisning samt deras vilja att söka ny kunskap inom området. Undervisningen ska också lämna utrymme för reflektion över etiska frågor och vad som är ett omdömesgillt handlande inom redovisning.</p> <h5><em>Undervisningen i ämnet redovisning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om redovisning samt om redovisningens funktion i ett företag.</li> <li>Kunskaper om lagar och andra bestämmelser som gäller för företagens redovisning.</li> <li>Förmåga att utföra uppgifter och analysera problem inom redovisning samt att använda digitala system som redskap för redovisning i företagsekonomiska sammanhang.</li> </ul><h3>Nivåer i ämnet redovisning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet företagsekonomi.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: REDO1000X</h3>",
+      "code": "REDO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet redovisning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Redovisningens funktion i ett företag och redovisningens betydelse för ett företags utveckling. Grundläggande företagsekonomiska begrepp med särskild betoning på redovisning. Betydelsen av ekonomisk, social och miljömässig hållbarhet samt av ett etiskt och transparent förhållningssätt inom redovisning.</li> <li>Lagar och andra bestämmelser som gäller för företagens redovisning och revision samt god redovisningssed.</li> <li>Registrering av affärshändelser med hjälp av kontoplan.</li> <li>Arbete med bokslut med periodiseringar och räkenskapsanalys.</li> <li>Beskattning, däribland inkomstskatt, moms och socialavgifter.</li> <li>Revisionens funktion i ett företag.</li> <li>Ekonomiska rapporter, däribland årsredovisning med tillhörande hållbarhetsredovisning.</li> <li>Hur problem inom redovisning kan identifieras, analyseras och lösas. Identifiering och analys av redovisningsproblem.</li> <li>Hantering av digitala system för att utföra uppgifter inom redovisning. I samband med det behandlas säkerhets- och kontrollfrågor förknippade med databehandling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: REDO2000X</h3>",
+      "code": "REDO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet redovisning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Redovisningens funktion i ett företag och redovisningens betydelse för ett företags utveckling. Företagsekonomiska begrepp med särskild betoning på redovisning. betydelsen av ekonomisk, social och miljömässig hållbarhet samt av ett etiskt och transparent förhållningssätt inom redovisning.</li> <li>Redovisningsprinciper samt lagar och andra bestämmelser som gäller för redovisningens utformning. Normer och praxis inom redovisning samt god redovisningssed.</li> <li>Registrering av olika typer av affärshändelser med hjälp av kontoplan.</li> <li>Värdering av tillgångar och skulder.</li> <li>Arbete med bokslut med olika typer av periodiseringar samt resultatregleringar med hjälp av bokslutsdispositioner. Räkenskapsanalys.</li> <li>Beskattning i olika företagsformer. Momsdeklaration. Sambandet mellan redovisning och beskattning, däribland periodisering av inkomster och utgifter.</li> <li>Revisionens innehåll och funktion.</li> <li>Årsredovisningens funktion och innehåll, däribland hållbarhetsredovisning.</li> <li>Identifiering och analys av redovisningsproblem. Metoder för att strukturera och lösa redovisningsproblem.</li> <li>Hantering av digitala system för att utföra uppgifter inom redovisning. I samband med det behandlas säkerhets- och kontrollfrågor förknippade med databehandling.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om redovisning, ekonomiska rapporter och bokslut. Eleven beskriver på ett <strong>godtagbart</strong> sätt redovisningens funktion och betydelse för ett företags utveckling.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller för företagens redovisning.</p> <p>Eleven utför uppgifter och analyserar problem inom redovisning med <strong>viss</strong> skicklighet samt använder digitala system som redskap för redovisning i företagsekonomiska sammanhang.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om redovisning, ekonomiska rapporter och bokslut. Eleven beskriver på ett <strong>utvecklat</strong> sätt redovisningens funktion och betydelse för ett företags utveckling.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller för företagens redovisning.</p> <p>Eleven utför uppgifter och analyserar problem inom redovisning med <strong>god</strong> skicklighet samt använder digitala system som redskap för redovisning i företagsekonomiska sammanhang.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om redovisning, ekonomiska rapporter och bokslut. Eleven beskriver på ett <strong>välutvecklat</strong> sätt redovisningens funktion och betydelse för ett företags utveckling.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller för företagens redovisning.</p> <p>Eleven utför uppgifter och analyserar problem inom redovisning med <strong>mycket god</strong> skicklighet samt använder digitala system som redskap för redovisning i företagsekonomiska sammanhang.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.069Z"
+}

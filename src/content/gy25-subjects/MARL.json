@@ -1,0 +1,64 @@
+{
+  "code": "MARL",
+  "name": "Marklära",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:322",
+  "nameHeading": "<h2>Marklära</h2>",
+  "description": "<p>Ämnet marklära behandlar den biologi som har betydelse för arbete med anläggning och skötsel av utemiljöer. I ämnet behandlas markens fysikaliska och kemiska egenskaper samt vattnets och växtnäringsämnenas kretslopp.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marklära ska syfta till att eleverna utvecklar kunskaper om markens biologiska, fysikaliska och kemiska sammansättning och om hur olika markförhållanden påverkar livsbetingelserna för olika typer av växter. Den ska också bidra till att eleverna utvecklar förståelse av energiomsättning hos växter samt kunskaper om kretslopp i mark, vatten och luft. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om livsprocesser i marken samt om mikrobiologi och mikrobiologiska processer.</p> <p>Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt förhållningssätt och en biologisk förståelse av mark och växter. I undervisningen ska eleverna genom praktiska övningar, observationer och fältstudier ges möjlighet att utveckla kunskaper om växternas anatomi och fysiologi samt om olika arters ståndortskrav.</p> <h5><em>Undervisningen i ämnet marklära ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om marken och livet i marken samt om kretslopp i mark, vatten och luft.</li> <li>Kunskaper om växters näringsbehov, livsprocesser och ståndortskrav.</li> <li>Kunskaper om mikroorganismer och mikrobiologiska processer av betydelse inom naturbruket.</li> </ul><h3>Nivåer i ämnet marklära</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet biologi.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MARL1000X</h3>",
+      "code": "MARL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marklära på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Mark, vatten och luft</em></p> <ul> <li>Mark, mineral, berggrund, jordarter och jordmån.</li> <li>Jordarternas egenskaper och bildningsprocesser.</li> <li>Kol och mikro- och makronäringsämnen samt deras kretslopp.</li> <li>Markstruktur, markluft, dränering och markpackning.</li> <li>Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.</li> <li>Miljöproblem i mark och vatten, till exempel försurning.</li> </ul> <p><em>Växter</em></p> <ul> <li>Olika ståndortskrav och reaktioner vid avvikelser från dessa.</li> <li>Växtnäringsämnen, växtnäringsupptagning och växtnäringsämnenas funktion i växten.</li> <li>Växters utvecklingsstadier samt de yttre och inre faktorer som styr och påverkar utvecklingen.</li> </ul> <p><em>Mikrobiologi</em></p> <ul> <li>Mikroorganismer, svampar, bakterier och övriga organismer av betydelse för markens näringsomsättning och kväveförsörjning.</li> <li>Aeroba och anaeroba processer.</li> <li>Mikroorganismer som är skadegörare på växter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om markens fysikaliska och kemiska sammansättning och redogör på ett <strong>enkelt</strong> sätt för kretslopp i mark, vatten och luft. Eleven förklarar <strong>översiktligt</strong> biologiska samband.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om växters livsprocesser, näringsbehov och ståndortskrav. Dessutom redogör eleven på ett <strong>enkelt</strong> sätt för hur tillväxten kan påverkas genom olika åtgärder.</p> <p>Eleven beskriver <strong>översiktligt</strong> mikrolivet i marken och dess betydelse för markens näringsomsättning och kväveförsörjning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om markens fysikaliska och kemiska sammansättning och redogör på ett <strong>utvecklat</strong> sätt för kretslopp i mark, vatten och luft. Eleven förklarar <strong>utförligt</strong> biologiska samband.</p> <p>Eleven visar <strong>goda</strong> kunskaper om växters livsprocesser, näringsbehov och ståndortskrav. Dessutom redogör eleven på ett <strong>utvecklat</strong> sätt för hur tillväxten kan påverkas genom olika åtgärder.</p> <p>Eleven beskriver <strong>utförligt</strong> mikrolivet i marken och dess betydelse för markens näringsomsättning och kväveförsörjning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om markens fysikaliska och kemiska sammansättning och redogör på ett <strong>välutvecklat</strong> sätt för kretslopp i mark, vatten och luft. Eleven förklarar <strong>utförligt och nyanserat</strong> biologiska samband.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om växters livsprocesser, näringsbehov och ståndortskrav. Dessutom redogör eleven på ett <strong>välutvecklat</strong> sätt för hur tillväxten kan påverkas genom olika åtgärder.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> mikrolivet i marken och dess betydelse för markens näringsomsättning och kväveförsörjning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.038Z"
+}

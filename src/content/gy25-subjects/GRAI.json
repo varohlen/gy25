@@ -1,0 +1,92 @@
+{
+  "code": "GRAI",
+  "name": "Grafisk kommunikation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:250",
+  "nameHeading": "<h2>Grafisk kommunikation</h2>",
+  "description": "<p>Grafisk kommunikation har betydelse för hur människor förstår och kommunicerar information och budskap. Ämnet grafisk kommunikation behandlar visuella budskap och hur de framställs för olika syften och sammanhang. Dessutom behandlar ämnet de grafiska idéernas gestaltning inom journalistik, information och reklam samt uttrycksformer inom design- och kultursektorn.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet grafisk kommunikation ska syfta till att eleverna utvecklar kunskaper om hur grafisk formgivning används för att skapa visuella budskap. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om historisk och samtida grafisk kommunikation.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och lust att skapa grafiska produkter med användning av olika grafiska uttrycksmedel och tillhörande teknik. I undervisningen ska eleverna ges möjlighet att omsätta teoretiska resonemang om budskaps visualisering till praktisk produktion av grafiska produkter. På så sätt ska undervisningen ge eleverna möjlighet att utveckla såväl kreativitet som estetiska och tekniska färdigheter. Dessutom ska eleverna ges möjlighet att förbereda de grafiska produkterna för ett mångfaldigande, till exempel genom tryckning eller publicering på webb. Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt om arbetsmiljö.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera grafiska produkter utifrån vetenskapliga metoder och med begrepp inom bildteori, kommunikationsteori och marknadsföringsteori. Eleverna ska också ges möjlighet att utveckla förmåga att kritiskt granska grafisk kommunikation och dess budskap samt hur dessa budskap utformas för en målgrupp. Undervisningen ska dessutom lämna utrymme för diskussion och reflektion över etiska frågor och olika handlingsalternativ inom grafisk kommunikation.</p> <h5><em>Undervisningen i ämnet grafisk kommunikation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om grafisk formgivning och hur visuella budskap utformas.</li> <li>Förmåga att planera och genomföra grafiska produktioner inom givna ramar.</li> <li>Förmåga att analysera och bedöma grafiska produkter och idéer.</li> </ul><h3>Nivåer i ämnet grafisk kommunikation</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GRAI1000X</h3>",
+      "code": "GRAI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk kommunikation på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Grafisk formgivning, layout och komposition</em></p> <ul> <li>Typografi, typsnittsklassificering och grundläggande typografiska regler.</li> <li>Layoutens uppbyggnad och komposition, däribland symmetri och asymmetri, linjering, kontraster samt negativ och positiv yta.</li> <li>Grundläggande grafiska färgsystem samt färgcirkel, färgsymbolik och färgmatchning.</li> </ul> <p><em>Stil, kontext samt lagar och andra bestämmelser</em></p> <ul> <li>Historiska och samtida tongivande grafiska stilar och tekniker.</li> <li>Introduktion till lagar och andra bestämmelser inom området.</li> </ul> <p><em>Skapandeprocessen</em></p> <ul> <li>Processen samt dess olika delmoment i utvecklingen av grafiska produkter.</li> <li>Introduktion till arbetsflöden och roller i utvecklingen av grafiska produkter samt arbete efter givna ramar.</li> <li>Layout-, illustrations- och bildbehandlingsprogram.</li> <li>Grundläggande tekniska specifikationer för olika grafiska produktioner.</li> </ul> <p><em>Teorier och budskap</em></p> <ul> <li>Grundläggande begrepp inom typografi, layout, gestaltpsykologi, färglära och olika bild- och kommunikationsteorier, däribland idéhöjd, kongenialitet, kontext och målgrupp.</li> <li>Bild-, kommunikations- och marknadsföringsteorier för analys av grafisk kommunikation, till exempel semiotik och bildretorik.</li> <li>Bedömning av egna grafiska produkters visuella budskap.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GRAI2000X</h3>",
+      "code": "GRAI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk kommunikation på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Grafisk formgivning, layout och komposition</em></p> <ul> <li>Typografi inom olika genrer samt typografiska regler och normer inom olika områden och medier.</li> <li>Layoutens betydelse för budskapet och upplevelsen av budskapet. Gestaltpsykologi och perception.</li> <li>Färganvändning för att förstärka och förtydliga budskap.</li> </ul> <p><em>Stil, kontext samt lagar och andra bestämmelser</em></p> <ul> <li>Historiska och samtida tongivande grafiska stilar samt olika budskap och deras relation till kontext, målgrupp och omgivande samhälle.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul> <p><em>Skapandeprocessen</em></p> <ul> <li>Planering i processen, till exempel projektscheman, milstolpar och överlämningar.</li> <li>Funktioner inom det grafiska området och deras inbördes förhållande, däribland olika företag och roller som är involverade i utvecklingen av grafiska produkter, deras uppdrag och expertis. Arbete efter givna ramar.</li> <li>Layout-, illustrations- och bildbehandlingsprogram och anpassning till tekniska specifikationer samt kontroll och kvalitetssäkring, till exempel av inställningar och upplösning.</li> <li>Grafiska manualer och grafisk profil för till exempel varumärken.</li> <li>Begrepp och fackspråk inom arbetsflöden och i kund- och leverantörskontakter.</li> </ul> <p><em>Teorier och budskap</em></p> <ul> <li>Analys av grafisk kommunikation utifrån vetenskapliga modeller och begrepp inom bild-, kommunikations- och marknadsföringsteori, till exempel semiotik och bildretorik.</li> <li>Bedömning av grafiska produkter och deras visuella budskap utifrån målgruppsanpassning, idéhöjd och kongenialitet samt i relation till syfte och kontext.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GRAI3000X</h3>",
+      "code": "GRAI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet grafisk kommunikation på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Grafisk formgivning, layout och komposition</em></p> <ul> <li>Fördjupning inom valt tematiseringsområde, grafiska uttryck och budskap.</li> </ul> <p><em>Stil, kontext samt lagar och andra bestämmelser</em></p> <ul> <li>Idéprocesser och kreativa processer för framtagande av målgruppsanpassade visuella budskap och idéer via grafiska uttrycksmedel.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul> <p><em>Skapandeprocessen</em></p> <ul> <li>Visualisering med kundskiss.</li> <li>Manuella och digitala arbetsflöden med start i idéprocessen samt avlämning av original.</li> <li>Kvalitetsaspekter i arbetsflödet. Kund- och leverantörsaspekter. Arbete efter givna ramar.</li> <li>Utskrifts- och originalhantering i illustrations-, bildbehandlings- och layoutprogram samt anpassning för publicering via tryckprocesser eller i digitala medier.</li> <li>Fackspråk inom arbetsflöden, i kund- och leverantörskontakter samt inom valt tematiseringsområde.</li> </ul> <p><em>Teorier och budskap</em></p> <ul> <li>Bild-, kommunikations- och marknadsföringsteorier, till exempel semiotik och bildretorik.</li> <li>Analysmodeller och processer för framtagande och bedömning av visuella budskap och idéer via grafiska uttrycksmedel.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om grafisk formgivning och resonerar <strong>översiktligt</strong> om hur visuella budskap utformas.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> grafiska produktioner inom givna ramar med <strong>viss</strong> anpassning till målgrupp och syfte.</p> <p>Eleven gör <strong>enkla</strong> analyser av grafisk kommunikation utifrån bild- och kommunikationsteorier med <strong>viss</strong> användning av begrepp inom området. Eleven gör <strong>enkla</strong> bedömningar av grafiska produkters visuella budskap.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om grafisk formgivning och resonerar <strong>utförligt</strong> om hur visuella budskap utformas.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> grafiska produktioner inom givna ramar med <strong>god</strong> anpassning till målgrupp och syfte.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av grafisk kommunikation utifrån bild- och kommunikationsteorier med <strong>god</strong> användning av begrepp inom området. Eleven gör <strong>utvecklade</strong> bedömningar av grafiska produkters visuella budskap.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om grafisk formgivning och resonerar <strong>utförligt och nyanserat</strong> om hur visuella budskap utformas.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> grafiska produktioner inom givna ramar med <strong>mycket god</strong> anpassning till målgrupp och syfte.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av grafisk kommunikation utifrån bild- och kommunikationsteorier med <strong>mycket god</strong> användning av begrepp inom området. Eleven gör <strong>välutvecklade</strong> bedömningar av grafiska produkters visuella budskap.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.009Z"
+}

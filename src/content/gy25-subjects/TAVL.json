@@ -1,0 +1,78 @@
+{
+  "code": "TAVL",
+  "name": "Tävlingsidrott",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:237",
+  "nameHeading": "<h2>Tävlingsidrott</h2>",
+  "description": "<p>Ämnet tävlingsidrott behandlar metoder och teorier samt praktiskt utövande av vald idrott utifrån ett tävlingsperspektiv. Ämnet är tvärvetenskapligt och bygger på humanbiologi och idrottsvetenskapliga teorier.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tävlingsidrott ska syfta till att eleverna utvecklar den idrottsliga förmågan i vald idrott i tävlingssammanhang. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om kroppen och olika faktorer som påverkar den idrottsliga prestationen. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera egna träningsprogram. Vidare ska undervisningen ge eleverna kunskaper om hur skador och ohälsa kan förebyggas. På så sätt ska eleverna stimuleras till ett ökat ansvarstagande för sin träning och för den egna hälsan.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om tränings- och tävlingsmiljöns betydelse för den idrottsliga utvecklingen. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om människans beteende som individ, lag- och gruppmedlem samt hur samverkan och kommunikation i tränings- och tävlingssammanhang kan bidra till den idrottsliga utvecklingen.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om idrottsrörelsens betydelse i samhället samt dess framväxt, mål och värdegrund. Undervisningen ska även motverka diskriminerande föreställningar och främja att människors olika förutsättningar respekteras.</p> <h5><em>Undervisningen i ämnet tävlingsidrott ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utöva vald idrott i tävlingssammanhang.</li> <li>Kunskaper om kroppens byggnad och funktion, kosthållning samt om återhämtningens betydelse för prestationsutvecklingen.</li> <li>Förmåga att planera, genomföra och utvärdera olika träningsmetoder för att utveckla prestationsförmågan i vald idrott.</li> <li>Kunskaper om hur skador och ohälsa förebyggs i vald idrott.</li> <li>Kunskaper om tränings- och tävlingsmiljöns betydelse för individens idrottsliga utveckling.</li> <li>Förmåga att samarbeta och kommunicera i tränings- och tävlingssammanhang.</li> </ul><h3>Nivåer i ämnet tävlingsidrott</h3><ul><li>Nivå 1, 100 poäng. Betyg i tävlingsidrott som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i specialidrott som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i tävlingsidrott som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i specialidrott som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TAVL1000X</h3>",
+      "code": "TAVL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tävlingsidrott på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Regler, teknik och taktik inom den valda idrotten.</li> <li>Grundläggande anatomi och fysiologi kopplat till idrottslig utveckling.</li> <li>Kosthållningens betydelse vid träning och tävling.</li> <li>Träningsmetoder för uthållighet, styrka, rörlighet, snabbhet och koordination i den valda idrotten.</li> <li>Ämnesspecifika begrepp och teorier i relation till träning och tävling.</li> <li>Planering, genomförande och utvärdering av tränings- och tävlingsprogram för den valda idrotten.</li> <li>Grundläggande idrottspsykologi samt exempel på idrottspsykologisk träning.</li> <li>Vanligt förekommande skador och deras uppkomst inom den valda idrotten samt omhändertagande vid skada.</li> <li>Idrottsmiljöns betydelse för individens utveckling ur ett holistiskt perspektiv.</li> <li>Kommunikation och samarbete som syftar till en idrottslig utveckling.</li> <li>Idrottens betydelse i samhället samt idrottens värdegrund utifrån de grundläggande principer som beslutats av Riksidrottsförbundet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TAVL2000X</h3>",
+      "code": "TAVL2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tävlingsidrott på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupad teknik och taktik inom den valda idrotten.</li> <li>Kosthållningens, vilans samt sömnens betydelse för återhämtning och träningseffekt.</li> <li>Krav- och prestationsanalys i vald idrott.</li> <li>Vanligt förekommande fysiska tester för den valda idrotten.</li> <li>Planering, genomförande och utvärdering av individuellt utformade tränings- och tävlingsprogram för den valda idrotten utifrån krav- och prestationsanalys.</li> <li>Skadeförebyggande träningsprogram inom den valda idrotten.</li> <li>Kommunikation och samarbete för att optimera idrottsprestationen vid tävling.</li> <li>Tränings- och tävlingsvillkor ur ett jämlikhets- och jämställdhetsperspektiv.</li> <li>Dopning och antidopningsarbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven genomför den valda idrotten tekniskt och taktiskt med <strong>godtagbar</strong> kvalitet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om kroppens byggnad och funktion samt hur den påverkas av träning, kosthållning och återhämtning kopplat till den idrottsliga prestationen.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>viss säkerhet</strong>. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier. I sin träning prövar eleven på ett <strong>i huvudsak strukturerat</strong> sätt andra metoder som kan vara av betydelse för att förbättra tränings- och tävlingsresultaten.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om skador samt tar med <strong>viss säkerhet</strong> ansvar för att förebygga skador och ohälsa vid träning och tävling.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika tävlings- och träningsmiljöers inverkan på den idrottsliga utvecklingen.</p> <p>Eleven samarbetar och kommunicerar med viss säkerhet i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven genomför den valda idrotten tekniskt och taktiskt med <strong>god</strong> kvalitet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om kroppens byggnad och funktion samt hur den påverkas av träning, kosthållning och återhämtning kopplat till den idrottsliga prestationen.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>säkerhet</strong>. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier. I sin träning prövar eleven på ett <strong>strukturerat</strong> sätt andra metoder som kan vara av betydelse för att förbättra tränings- och tävlingsresultaten.</p> <p>Eleven visar <strong>goda</strong> kunskaper om skador samt tar med <strong>säkerhet</strong> ansvar för att förebygga skador och ohälsa vid träning och tävling.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika tävlings- och träningsmiljöers inverkan på den idrottsliga utvecklingen.</p> <p>Eleven samarbetar och kommunicerar med viss säkerhet i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven genomför den valda idrotten tekniskt och taktiskt med <strong>mycket god</strong> kvalitet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om kroppens byggnad och funktion samt hur den påverkas av träning, kosthållning och återhämtning kopplat till den idrottsliga prestationen.</p> <p>Eleven planerar, genomför och utvärderar sin träning med <strong>god säkerhet</strong>. I samband med detta använder eleven centrala ämnesspecifika begrepp och teorier. I sin träning prövar eleven på ett <strong>välstrukturerat</strong> sätt andra metoder som kan vara av betydelse för att förbättra tränings- och tävlingsresultaten.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om skador samt tar med <strong>god säkerhet</strong> ansvar för att förebygga skador och ohälsa vid träning och tävling.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika tävlings- och träningsmiljöers inverkan på den idrottsliga utvecklingen.</p> <p>Eleven samarbetar och kommunicerar med viss säkerhet i tränings- och tävlingssammanhang.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.089Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "INDR",
+  "name": "Industriella interna transporter",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:5",
+  "nameHeading": "<h2>Industriella interna transporter</h2>",
+  "description": "<p>Ämnet industriella interna transporter behandlar intern transportutrustning och dess användningsområden. Det handlar också om hur intern transportutrustning vårdas samt hur dess funktion kontrolleras och effektiviseras.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriella interna transporter ska syfta till att eleverna utvecklar kunskaper om logistik, godshantering och transportutrustning inom industrin. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra arbetsuppgifter inom interna transporter samt att manövrera vald transportutrustning för hantering av gods.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om transportutrustningars konstruktion och funktion samt interna transporters användningsområden inom industrin. Inom industriell produktion är det viktigt att förhindra driftstopp i produktionen samt att arbeta hållbart och säkert. Genom undervisningen ska eleverna därför ges möjlighet att utveckla förmåga att genomföra kontroll, felsökning och vård av vald intern transportutrustning. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att arbeta utifrån miljö- och säkerhetsbestämmelser som gäller för hantering av olika typer av gods. Undervisningen ska även bidra till att eleverna utvecklar förmåga att arbeta på ett ergonomiskt riktigt sätt.</p> <p>Genom praktiskt arbete ska eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett yrkesmässigt sätt samt att ta ansvar och lösa problem.</p> <h5><em>Undervisningen i ämnet industriella interna transporter ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om godshantering, logistik och transportutrustning för interna transporter.</li> <li>Förmåga att utföra arbete med vald teknisk utrustning för interna transporter.</li> <li>Förmåga att utföra funktionskontroll och felsökning av vald intern transportutrustning.</li> <li>Förmåga att arbeta med industriella interna transporter på ett ergonomiskt riktigt och säkert sätt.</li> </ul><h3>Nivåer i ämnet industriella interna transporter</h3><ul><li>Nivå 1, 50 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDR1000X</h3>",
+      "code": "INDR1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriella interna transporter på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Termer och begrepp inom godshantering.</li> <li>Olika typer av lättare och mindre skrymmande gods och hur de hanteras säkert och miljömässigt.</li> <li>Olika typer av godsmärkning och symboler på gods.</li> <li>Transportutrustningars uppbyggnad, arbetssätt, stabilitet och lyftförmåga.</li> <li>Användningsområden för transportutrustning och relevant kringutrustning.</li> <li>Principer för godshantering, till exempel lastbalans, tyngdpunkt och riskmoment.</li> <li>Principer för logistik av interna transporter, till exempel transporteffektivitet.</li> <li>Manövrering av vald transportutrustning och hantering av gods.</li> <li>För utrustningen relevanta körregler, symboler och signalscheman.</li> <li>Dimensionering och beräkningar beträffande den belastning som transportutrustningen och godset utsätts för under transport, lagring och hantering, till exempel enligt belastningstabeller och föreskrifter.</li> <li>Funktionskontroll, tillsyn och dagligt underhåll av vald transportutrustning och tillhörande kringutrustning.</li> <li>Enklare underhåll av vald transportutrustning.</li> <li>Miljö- och säkerhetsbestämmelser för hantering av olika typer av gods.</li> <li>Manövrering av transportutrustning på ett riskmedvetet och miljövänligt sätt.</li> <li>Ergonomiskt arbete enligt rutiner och bestämmelser på arbetsplatsen.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om godshantering, logistik och transportutrustning för interna transporter.</p> <p>Eleven utför med <strong>viss säkerhet</strong> arbete med vald teknisk utrustning för interna transporter.</p> <p>Eleven utför med <strong>viss säkerhet</strong> funktionskontroll och felsökning av vald intern transportutrustning.</p> <p>Eleven arbetar med industriella interna transporter på ett ergonomiskt riktigt och säkert sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om godshantering, logistik och transportutrustning för interna transporter.</p> <p>Eleven utför med <strong>säkerhet</strong> arbete med vald teknisk utrustning för interna transporter.</p> <p>Eleven utför med <strong>säkerhet</strong> funktionskontroll och felsökning av vald intern transportutrustning.</p> <p>Eleven arbetar med industriella interna transporter på ett ergonomiskt riktigt och säkert sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om godshantering, logistik och transportutrustning för interna transporter.</p> <p>Eleven utför med <strong>god säkerhet</strong> arbete med vald teknisk utrustning för interna transporter.</p> <p>Eleven utför med <strong>god säkerhet</strong> funktionskontroll och felsökning av vald intern transportutrustning.</p> <p>Eleven arbetar med industriella interna transporter på ett ergonomiskt riktigt och säkert sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

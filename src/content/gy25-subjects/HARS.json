@@ -1,0 +1,78 @@
+{
+  "code": "HARS",
+  "name": "Hårstyling och makeupteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:271",
+  "nameHeading": "<h2>Hårstyling och makeupteknik</h2>",
+  "description": "<p>Ämnet hårstyling och makeupteknik har sin grund i det tekniska kunnandet som krävs för att vara en kreativ hår- och makeupstylist. Ämnet behandlar grundläggande tekniker för hårstyling och makeup samt material, produkter, verktyg och annan utrustning som används inom hårstyling och makeup.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hårstyling och makeupteknik ska syfta till att eleverna utvecklar förmåga att använda olika styling- och makeuptekniker i skapandet från idé till färdigställande av modell. Det innebär att planera arbetet, välja ändamålsenliga tekniker, material, produkter och verktyg utifrån det tänkta resultatet, utföra arbetet samt att redovisa resultatet. Eleverna ska även ges möjlighet att utveckla förmåga att utvärdera arbetsprocessen och resultatet. Därigenom ska eleverna ges möjlighet att utveckla en känsla för yrkesmässigt utövande.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet, idérikedom och kreativa skapande. Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om färg, form och stil inom hårstyling, makeup och mode. Undervisningen ska även bidra till att eleverna utvecklar förmåga att använda digitala tekniker i sitt arbete.</p> <p>Undervisningen ska bidra till att eleverna utvecklar personligt ansvarstagande, drivkraft samt ge dem möjlighet att tillämpa kunskaper om samarbete och bemötande i yrkesutövandet. Eleverna ska därför ges möjlighet att utveckla förmåga att använda yrkets terminologi för att kommunicera om arbetsprocess och resultat. I undervisningen ska eleverna dessutom ges möjlighet att utveckla och tillämpa kunskaper om ett hygieniskt, säkert och hållbart arbetssätt.</p> <p>Eleverna ska ges rika möjligheter att träna hårstyling och makeuptekniker i kombination på olika modeller. Eleverna ska också ges möjlighet att i undervisningen använda sina teoretiska kunskaper om arbetsprocesser, tekniker och verktyg samt om materials och produkters olika egenskaper i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet hårstyling och makeupteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och använda hårstyling och makeuptekniker under skapandeprocessen.</li> <li>Förmåga att utvärdera arbetsprocess och resultat samt att använda yrkets terminologi.</li> <li>Kunskaper om samarbete, bemötande och kommunikation i yrkesutövandet.</li> <li>Kunskaper om produkter och verktyg samt om färg-, form- och stillära.</li> <li>Färdigheter i att arbeta hygieniskt, säkert och hållbart samt att använda och sköta maskiner, material, produkter och verktyg.</li> </ul><h3>Nivåer i ämnet hårstyling och makeupteknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet hårvård och salongskunskap.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HARS1000X</h3>",
+      "code": "HARS1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hårstyling och makeupteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Designtekniker på korta och långa hår, däribland sektionering samt formning av frisyrer med värmeverktyg och curlers.</li> <li>Långhårsuppsättningar, till exempel tofs-, flät- och knuttekniker samt enklare valkfrisyrer.</li> <li>Styling på modell där både hår och makeup förändras.</li> <li>Planering av arbetsprocess med fokus på val av material, produkter och verktyg till arbetet.</li> <li>Tekniker för ögonmakeup med intensitets- och toningslära för dagsmakeup, däribland hur en färg kan förändras från intensiv till uttonad.</li> <li>Detaljtekniker för ögon och bryn, till exempel frans- och brynfärgning.</li> <li>Färgförändrande makeuptekniker för bas, däribland neutraliseringsmetoder.</li> <li>Terminologi och skisstekniker för att kommunicera om arbetsprocess och resultat.</li> <li>Hur arbetsprocess och resultat utvärderas.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet, däribland betydelsen av samarbete och kommunikation samt hur attityder och bemötande kan påverka relationer med olika människor och målgrupper.</li> <li>Olika produkter och verktyg samt deras funktion, egenskap och användningsområde, däribland makeupprodukter efter hudtyp, hållbarhet och effekt samt penslars funktion och sammansättning.</li> <li>Stil och mode samt hur hår och makeup kan anpassas till aktuella trender.</li> <li>Färg- och formlära för ansikte och hår, däribland färgstjärnan, kalla och varma färger och makeuptekniker för skulptering och baskorrigering av ansiktet.</li> <li>Ergonomiskt och säkert arbetssätt, däribland användning av hjälpmedel och skyddsutrustning.</li> <li>Hantering och rengöring av produkter och verktyg samt hygien och skötsel av både egen och gemensam arbetsyta.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HARS2000X</h3>",
+      "code": "HARS2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hårstyling och makeupteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Designtekniker på olika hårtyper, däribland formgivning av frisyrer med värmeverktyg samt våg- och clipstekniker.</li> <li>Långhårsuppsättningar med kombinationer av olika tekniker, till exempel flätteknik och knut- eller valkfrisyrer.</li> <li>Styling på modell eller kund med olika utgångslägen, där både hår och makeup förändras.</li> <li>Planering av tids- och materialåtgång samt val av material, produkter och verktyg till arbetet.</li> <li>Varierade ögonmakeuptekniker för festmakeup utifrån intensitets- och toningslära om kontrast och effekt.</li> <li>Detaljtekniker för ögon och bryn, däribland fransmarkering och brynskulptering.</li> <li>Terminologi och skisstekniker för att beskriva och utvärdera arbetsprocess och resultat med förslag på hur arbetet kan utvecklas.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet, däribland betydelsen av samarbete och kommunikation.</li> <li>Hur attityder och bemötande kan påverka relationer med olika människor och målgrupper, däribland kundrelationer.</li> <li>Hantering av olika kundreaktioner.</li> <li>Anpassning av språk efter situation och målgrupp.</li> <li>Produkter och verktyg för varierade hud- och hårtyper.</li> <li>Produkter och verktygs funktioner, egenskaper och användningsområden.</li> <li>Hur frisyr- och skäggform samspelar med ansiktsform.</li> <li>Stil och modespaning för hår och makeup samt hur de kan anpassas till aktuella trender.</li> <li>Färglära med fokus på komplementfärger.</li> <li>Färg-, form- och proportionslära för ansikte och hår, däribland makeuptekniker för skulptering och korrigering samt rouge till olika ansiktsformer.</li> <li>Hygieniskt, ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt samt användning av skyddsutrustning.</li> <li>Återvinning och källsortering i samband med arbetsprocessen.</li> <li>Hantering, rengöring och desinficering av produkter och verktyg samt hygien och skötsel av både egen och gemensam arbetsyta.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>viss säkerhet</strong> tekniker för hårstyling och makeup och uppnår ett <strong>godtagbart</strong> resultat på frisyr, makeup eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>viss säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om samarbete, bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om produkter och verktyg samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar hygieniskt, säkert och hållbart samt använder och sköter med <strong>visst</strong> handlag maskiner, material, produkter och verktyg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>säkerhet</strong> tekniker för hårstyling och makeup och uppnår ett <strong>gott</strong> resultat på frisyr, makeup eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>goda</strong> kunskaper om samarbete, bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om produkter och verktyg samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar hygieniskt, säkert och hållbart samt använder och sköter med <strong>gott</strong> handlag maskiner, material, produkter och verktyg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>god säkerhet</strong> tekniker för hårstyling och makeup och uppnår ett <strong>mycket gott</strong> resultat på frisyr, makeup eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>god säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om samarbete, bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om produkter och verktyg samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar hygieniskt, säkert och hållbart samt använder och sköter med <strong>mycket gott</strong> handlag maskiner, material, produkter och verktyg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.015Z"
+}

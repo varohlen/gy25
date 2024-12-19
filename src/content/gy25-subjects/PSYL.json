@@ -1,0 +1,93 @@
+{
+  "code": "PSYL",
+  "name": "Psykologi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen (justerat skrivfel under rubriken \"Nivåer i ämnet psykologi\")",
+  "skolfsGrund": "2024:198",
+  "skolfsAndring": "2024:198",
+  "nameHeading": "<h2>Psykologi</h2>",
+  "description": "<p>Ämnet psykologi har sin utgångspunkt i psykologisk vetenskap och behandlar olika sätt att förklara mänskliga tankar, känslor och beteenden. I ämnet ingår kognitiva, känslomässiga, beteendemässiga och sociala aspekter som varje människa möter i vardagslivet samt psykologiska begrepp och metoder.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet psykologi ska syfta till att eleverna utvecklar kunskaper om människan som en tänkande, kännande, handlande och social varelse. Undervisningen ska leda till att eleverna utvecklar kunskaper om psykologiska processer och deras biologiska förutsättningar. Undervisningen ska också bidra till att eleverna utvecklar förmåga att se på och förstå tillvaron utifrån det psykologiska vetenskapsområdet, både på individnivå och samhällelig nivå.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att reflektera över och förstå både sig själv och andra. Dessutom ska eleverna ges möjlighet att utveckla en helhetssyn på människan utifrån det psykologiska vetenskapsområdet. I en sådan helhetssyn ska elevernas vardagliga erfarenheter vara en central utgångspunkt. Undervisningen ska ta sin utgångspunkt i ett synsätt som präglas av öppenhet i fråga om människors olikheter. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att navigera i ett informationsrikt och globaliserat samhälle.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om psykisk hälsa och hur den kan värnas. Eleverna ska också ges möjlighet att reflektera över skillnader mellan motgångar i vardagslivet och olika kliniska tillstånd. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om olika psykologiska fenomen som alla människor möter i livet. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om begrepp och metoder inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en god grund för olika yrkesverksamheter och fortsatta studier men också främja elevernas egen personliga utveckling. Undervisningen ska också bidra till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området. Eleverna ska även ges möjlighet att diskutera aktuella samhällsfenomen utifrån psykologiska perspektiv.</p> <p>I undervisningen ska ett sokratiskt och reflekterande arbetssätt betonas. Eleverna ska dessutom ges möjlighet att utföra enkla experiment eller observationer samt att reflektera över resultaten.</p> <h5><em>Undervisningen i ämnet psykologi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om psykologins vetenskapliga begrepp och forskningsmetoder.</li> <li>Kunskaper om människans tänkande, kännande och handlande.</li> <li>Kunskaper om mänskligt beteende i olika sociala sammanhang.</li> <li>Kunskaper om psykisk hälsa och ohälsa samt hur psykisk ohälsa kan förebyggas och behandlas.</li> <li>Förmåga att granska, jämföra och värdera olika psykologiska principer och processer.</li> </ul><h3>Nivåer i ämnet psykologi</h3><ul><li>Nivå 1, 50 poäng. </li> <li>Nivå 2, 50 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PSYL1000X</h3>",
+      "code": "PSYL1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykologi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Psykologin som vetenskap, däribland grundläggande begrepp samt några olika forskningsmetoder.</li> <li>Varseblivning och kognitiva processer samt deras biologiska förutsättningar, däribland uppmärksamhet och minne.</li> <li>Emotioner, däribland grundläggande känslor.</li> <li>Mänskliga beteenden, däribland inlärning och betingning.</li> <li>Psykosocialt samspel, däribland identitet och grupprocesser.</li> <li>Psykisk hälsa, däribland psykologiska skydds- och riskfaktorer samt hur psykisk ohälsa kan förebyggas och behandlas.</li> <li>Reflektion över psykologiska frågeställningar utifrån en helhetssyn på människan.</li> <li>Reflektion över samt kritisk granskning och jämförelse av olika psykologiska principer och processer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PSYL2000X</h3>",
+      "code": "PSYL2000X",
+      "nameHeading": "<h2>Nivå 2, 50 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykologi på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Psykologin som vetenskap, däribland grundläggande begrepp samt några olika forskningsmetoder och deras tillämpning.</li> <li>Varseblivning och kognitiva processer, däribland tänkande, medvetande och verklighetsuppfattning.</li> <li>Emotioner och deras biologiska grund.</li> <li>Stress och stresshantering samt kris och krishantering.</li> <li>Mänskliga beteenden, däribland kontroll och beroende.</li> <li>Normer och fördomar samt hur de kan påverka mänskliga relationer, till exempel genom diskriminering.</li> <li>Psykisk hälsa och ohälsa, till exempel välbefinnande, oro, nedstämdhet och depression.</li> <li>Hur psykisk ohälsa kan förebyggas och behandlas.</li> <li>Samspel mellan arv och miljö och människans psykiska hälsa.</li> <li>Sociala och individuella faktorer för individens psykologiska utveckling och livsvillkor.</li> <li>Reflektion över psykologiska frågeställningar utifrån psykologiska metoder och teorier samt hur dessa kan relateras till vardagliga erfarenheter.</li> <li>Reflektion över samt kritisk granskning och jämförelse av olika psykologiska principer och processer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PSYL3000X</h3>",
+      "code": "PSYL3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykologi på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Psykologin som vetenskap. Olika forskningsmetoder och deras tillämpning samt begrepp och teorier som relaterar till de olika forskningsmetoderna.</li> <li>Människans kognitiva utveckling.</li> <li>Varseblivning och kognitiva processer samt deras biologiska förutsättningar, däribland problemlösning, beslutsfattande och språk.</li> <li>Emotioner och deras biologiska grund, däribland emotionell intelligens.</li> <li>Relationer mellan emotioner, tankar, känslor, biologiska faktorer och beteenden samt hur de kan påverka varandra.</li> <li>Olika förklaringsmodeller till mänskligt beteende.</li> <li>Den sociala människan i ett föränderligt och mångkulturellt samhälle, däribland identitet, personlighet och psykologisk utveckling i relation till det sociala samspelet.</li> <li>Psykisk hälsa, psykisk ohälsa och psykisk sjukdom, till exempel personlighetsstörningar och schizofreni. Hur psykisk ohälsa kan förebyggas och behandlas.</li> <li>Reflektion över psykologiska frågeställningar utifrån psykologiska metoder och teorier samt i relation till vardagliga erfarenheter och en helhetssyn på människan.</li> <li>Reflektion över samt kritisk granskning och jämförelse av olika psykologiska principer och processer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om psykologins vetenskapliga begrepp och metoder.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om faktorer som påverkar människors tänkande, kännande och handlande.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om mänskligt beteende i olika sociala sammanhang.</p> <p>Eleven redogör <strong>översiktligt</strong> för faktorer som påverkar psykisk hälsa och ohälsa samt hur psykisk ohälsa kan förebyggas och behandlas.</p> <p>Eleven granskar, jämför och värderar olika psykologiska principer och processer på ett <strong>enkelt</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om psykologins vetenskapliga begrepp och metoder.</p> <p>Eleven visar <strong>goda</strong> kunskaper om faktorer som påverkar människors tänkande, kännande och handlande.</p> <p>Eleven visar <strong>goda</strong> kunskaper om mänskligt beteende i olika sociala sammanhang.</p> <p>Eleven redogör <strong>utförligt</strong> för faktorer som påverkar psykisk hälsa och ohälsa samt hur psykisk ohälsa kan förebyggas och behandlas.</p> <p>Eleven granskar, jämför och värderar olika psykologiska principer och processer på ett <strong>utvecklat</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om psykologins vetenskapliga begrepp och metoder.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om faktorer som påverkar människors tänkande, kännande och handlande.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om mänskligt beteende i olika sociala sammanhang.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för faktorer som påverkar psykisk hälsa och ohälsa samt hur psykisk ohälsa kan förebyggas och behandlas.</p> <p>Eleven granskar, jämför och värderar olika psykologiska principer och processer på ett <strong>välutvecklat</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.068Z"
+}

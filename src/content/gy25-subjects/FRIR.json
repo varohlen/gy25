@@ -1,0 +1,92 @@
+{
+  "code": "FRIR",
+  "name": "Frisör – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:236",
+  "nameHeading": "<h2>Frisör – fördjupning</h2>",
+  "description": "<p>Ämnet frisör – fördjupning behandlar färdighetsträning utifrån kundens önskemål och utgångsläge inför yrkesmässigt utövande på salong. Ämnet behandlar också yrkesetik och resultatets kvalitet utifrån branschens krav vid yrkesprov.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet frisör – fördjupning ska syfta till att eleverna utvecklar förmåga att genomföra behandlingar utifrån branschens krav på kvalitet. Det innebär att identifiera kundens önskemål och föreslå lämplig behandling, planera arbetet, välja lämpliga behandlingar, tekniker, och produkter med hänsyn till utgångsläge samt att genomföra behandlingarna och presentera frisyren. Det innebär även att undervisningen ska ge eleverna möjlighet att utveckla förmåga att utvärdera resultatet. Därigenom ska undervisningen bidra till att eleverna utvecklar förmåga att nå yrkesmässigt hög kvalitet på arbetet. Eleverna ska dessutom ges möjlighet att utveckla förmåga att analysera arbetsprocessen och se förbättringsmöjligheter för ett hållbart arbetsliv och företagande. Undervisningen ska leda till att eleverna vidareutvecklar initiativförmåga, idérikedom, självständighet, personligt ansvarstagande, samarbetsförmåga, drivkraft och skaparglädje. Eleverna ska också ges möjlighet att befästa ett kreativt tänkande med känsla för färg, form och stil i yrkesutövandet.</p> <p>Undervisningen ska leda till att eleverna befäster sin förmåga att använda frisöryrkets fackspråk för att kommunicera med kunder, modeller och leverantörer. Den ska också ge eleverna möjlighet att utveckla färdigheter i ett målinriktat säljarbete som leder till goda och hållbara kundrelationer. Undervisningen ska också bidra till att eleverna utvecklar ett kreativt förhållningssätt till en affärsmässig och serviceinriktad frisörverksamhet samt fördjupad förmåga att använda digitala tekniker i arbetet. Frisörsektorn består av små företag eller egenföretagare och därför ska undervisningen stimulera elevernas intresse för företagande och entreprenörskap.</p> <p>Eleverna ska ges rika möjligheter till färdighetsträning inför yrkesprov och kundarbete på salong. Eleverna ska även ges möjlighet att befästa ergonomiska och säkra arbetssätt för ett hållbart arbetsliv. De ska också ges möjlighet att använda sina teoretiska kunskaper i det praktiska salongsarbetet. I undervisningen ska eleverna dessutom ges möjlighet till färdighetsträning utifrån tänkt resultat.</p> <h5><em>Undervisningen i ämnet frisör – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att på ett yrkesmässigt och säkert sätt planera och utföra behandlingar och övriga arbetsuppgifter på salong.</li> <li>Förmåga att arbeta effektivt med fokus på kvalitet.</li> <li>Förmåga att använda färg-, form- och stillära i skapandeprocessen.</li> <li>Förmåga att utvärdera och analysera arbetsprocess och resultat med hjälp av teknisk beskrivning och fackspråk.</li> <li>Förmåga att utföra yrkesmässig försäljning och service på salong.</li> </ul><h3>Nivåer i ämnet frisör – fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet frisör – behandling.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FRIR1000X</h3>",
+      "code": "FRIR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet frisör – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Avancerade klipp- och designtekniker samt färg- och strukturförändrande tekniker vid behandlingar på kunder eller modeller med fokus på yrkesprovets moment och säkert arbete.</li> <li>Yrkesmässig planering och effektivisering av salongsarbete, däribland kostnad och tidsåtgång med fokus på resultatets kvalitet.</li> <li>Användning av färg-, form- och stillära i skapandeprocessen för kvalitetshöjning av resultat och gestaltning av frisyrer.</li> <li>Kommunikation, utvärdering och analys med fackspråk om arbetsprocess och resultat.</li> <li>Skiss- och strukturritning för beskrivning av resultat utifrån branschens krav vid yrkesprov.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid behandling, försäljning och service på salong.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FRIR2000X</h3>",
+      "code": "FRIR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet frisör – fördjupning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Färdighetsträning med komplexa klipp- och designtekniker samt färg- och strukturförändrande tekniker vid behandlingar på kunder eller modeller med fokus på kreativitet och yrkesprovets moment.</li> <li>Organisation av säkra och hållbara arbetssätt.</li> <li>Yrkesmässig planering och effektivisering av säkert salongsarbete och arbete i projektsammanhang, däribland beräkning av kostnad och tidsåtgång.</li> <li>Användning av färg-, form- och stillära i skapandeprocessen för kvalitetshöjning av resultat och gestaltning av frisyrer med olika stilar.</li> <li>Kommunikation med fackspråk vid arbete, utvärdering och analys av arbetsprocess och resultat med förslag på hur arbetet kan utvecklas utifrån branschens krav.</li> <li>Skiss- och strukturritning för detaljerad beskrivning av resultat inför branschens yrkesprov.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid behandling, försäljning och service på salong med fokus på kvalitet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FRIR3000X</h3>",
+      "code": "FRIR3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet frisör – fördjupning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Färdighetsträning med komplexa klipp- och designtekniker samt färg- och strukturförändrande tekniker vid behandlingar på kunder och modeller med fokus på yrkesmässig kvalitet och yrkesprovets moment.</li> <li>Organisation av säkra och hållbara arbetssätt.</li> <li>Yrkesmässig planering och effektivisering av salongsarbete eller arbete i projektsammanhang samt utvecklingsmöjligheter för ökad kvalitet och lönsamhet.</li> <li>Användning av färg-, form- och stillära i skapandeprocessen för kvalitetshöjning av resultat enligt branschens krav vid yrkesprov.</li> <li>Kommunikation, utvärdering och analys med fackspråk om arbetsprocess och resultat utifrån branschens krav vid yrkesprov.</li> <li>Skiss- och strukturritning för detaljerad beskrivning av arbete och resultat inför branschens yrkesprov.</li> <li>Kundorienterat och ansvarsfullt yrkesutövande vid behandling, försäljning och service på salong med fokus på kvalitet och kreativitet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför med <strong>viss</strong> skicklighet behandlingar och övriga arbetsuppgifter på salong på ett yrkesmässigt och säkert sätt.</p> <p>Eleven arbetar på ett effektivt sätt och uppnår ett <strong>godtagbart</strong> resultat med teknisk och estetisk kvalitet utifrån branschens krav.</p> <p>Eleven använder med <strong>viss</strong> skicklighet färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven utvärderar och analyserar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen samt ger <strong>enkla</strong> förslag på hur arbetet kan utvecklas. Dessutom använder eleven tekniska beskrivningar och fackspråk på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven agerar med <strong>viss säkerhet</strong> kundorienterat i <strong>bekanta</strong> försäljnings- och servicesituationer på salong.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför med <strong>god</strong> skicklighet behandlingar och övriga arbetsuppgifter på salong på ett yrkesmässigt och säkert sätt.</p> <p>Eleven arbetar på ett effektivt sätt och uppnår ett <strong>gott</strong> resultat med teknisk och estetisk kvalitet utifrån branschens krav.</p> <p>Eleven använder med <strong>god</strong> skicklighet färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven utvärderar och analyserar arbetsprocessen och resultatet med <strong>välgrundade</strong> omdömen samt ger <strong>välgrundade</strong> förslag på hur arbetet kan utvecklas. Dessutom använder eleven tekniska beskrivningar och fackspråk på ett <strong>gott</strong> sätt.</p> <p>Eleven agerar med <strong>säkerhet</strong> kundorienterat i <strong>bekanta men även delvis nya</strong> försäljnings- och servicesituationer på salong.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför med <strong>mycket god</strong> skicklighet behandlingar och övriga arbetsuppgifter på salong på ett yrkesmässigt och säkert sätt.</p> <p>Eleven arbetar på ett effektivt sätt och uppnår ett <strong>mycket gott</strong> resultat med teknisk och estetisk kvalitet utifrån branschens krav.</p> <p>Eleven använder med <strong>mycket god</strong> skicklighet färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven utvärderar och analyserar arbetsprocessen och resultatet med <strong>välgrundade och nyanserade</strong> omdömen samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan utvecklas. Dessutom använder eleven tekniska beskrivningar och fackspråk på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven agerar med <strong>god säkerhet</strong> kundorienterat i <strong>bekanta men även nya</strong> försäljnings- och servicesituationer på salong.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.004Z"
+}

@@ -1,0 +1,77 @@
+{
+  "code": "TILT",
+  "name": "Tillämpad teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:569",
+  "nameHeading": "<h2>Tillämpad teknik</h2>",
+  "description": "<p>Ämnet tillämpad teknik fördjupar och specialiserar användningen av tekniska begrepp, teorier och verktyg inom ett valt teknikområde. I ämnet behandlas ingenjörsmässiga metoder för att lösa tekniska problem. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpad teknik ska syfta till att eleverna utvecklar fördjupade och specialiserade kunskaper inom ett valt teknikområde. Undervisningen ska bidra till att eleverna utvecklar ingenjörsmässig förmåga att utveckla tekniska lösningar utifrån olika behov. Eleverna ska också ges möjlighet att utveckla kunskaper om samband mellan hållbar utveckling och det valda teknikområdet.</p> <p>Undervisningen ska ge eleverna möjlighet att i verklighetsnära teknikprojekt utveckla fördjupad förmåga att använda begrepp, teorier, metoder och verktyg som tillhör det valda teknikområdet. Eleverna ska även ges möjlighet att utveckla förmåga att analysera tekniska lösningar, lösningarnas beståndsdelar och hur de samverkar. I undervisningen ska eleverna dessutom ges möjlighet att utveckla förmåga att använda ett områdesspecifikt fackspråk, kommunicera om teknik samt dokumentera och utvärdera tekniska lösningar.</p> <p>Genom ett problemlösande och undersökande arbetssätt ska undervisningen stimulera elevernas nyfikenhet och lust att utvecklas inom det valda teknikområdet. Vidare ska undervisningen lämna utrymme för diskussion om och reflektion över etiska frågor och hur hållbar utveckling inom valt teknikområde utformas och konstrueras.</p> <h5><em>Undervisningen i ämnet tillämpad teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att lösa verklighetsnära tekniska problem med hjälp av ingenjörsmässiga metoder samt med användning av begrepp, teorier och verktyg inom teknikområdet.</li> <li>Kunskaper om hållbar utveckling inom valt teknikområde.</li> <li>Förmåga att analysera samband mellan delar och helhet i verklighetsnära tekniska problem.</li> </ul><h3>Nivåer i ämnet tillämpad teknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILT100TX</h3>",
+      "code": "TILT100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad teknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Systematisk problemlösning av verklighetsnära tekniska problem.</li> <li>Värdering och prioritering av lösningar i verklighetsnära tekniska problem.</li> <li>Systematisk kvalitetssäkring inom valt teknikområde.</li> <li>Ingenjörsmässiga metoder och verktyg för att skapa, testa och utvärdera lösningar inom valt teknikområde.</li> <li>Tillämpning av teorier och begrepp inom valt teknikområde.</li> <li>Aktuella utvecklingsområden för valt teknikområde.</li> <li>Riktlinjer, regler och mål för hållbar utveckling och hur de tillämpas inom valt teknikområde.</li> <li>Fackspråk för kommunikation inom valt teknikområde.</li> <li>Analys av egenskaper och funktioner hos tekniska delar och komponenter samt hur delarna samverkar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TILT200TX</h3>",
+      "code": "TILT200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad teknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Systematisk problemlösning av verklighetsnära tekniska problem samt utvärdering av problemlösningsmetod.</li> <li>Utvärdering och jämförelse av olika lösningsalternativ i verklighetsnära tekniska problem.</li> <li>Analys och utvärdering av kvalitetssäkringsmetoder inom valt teknikområde.</li> <li>Tillämpning av lämpliga begrepp, teorier och verktyg samt ingenjörsmässiga metoder för att skapa, testa och utvärdera lösningar inom valt teknikområde.</li> <li>Fördjupning inom och analys av aktuell utveckling inom valt teknikområde utifrån ekonomisk, social och miljömässig hållbarhet.</li> <li>Tillämpning av fackspråk för framställning av teknisk dokumentation, till exempel manualer och instruktioner.</li> <li>Analys av egenskaper och funktioner hos tekniska delar och komponenter samt hur delarna påverkar varandra och samverkar i verklighetsnära tekniska problem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven löser med <strong>säkerhet</strong> verklighetsnära tekniska problem med hjälp av ingenjörsmässiga metoder samt med <strong>godtagbar</strong> användning av begrepp, teorier och verktyg inom teknikområdet.</p> <p>Eleven för <strong>övergripande</strong> resonemang om hållbar utveckling inom valt teknikområde.</p> <p>Eleven gör <strong>övergripande</strong> analyser av sambandet mellan delar och helhet i verklighetsnära tekniska problem.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven löser med <strong>god säkerhet</strong> verklighetsnära tekniska problem med hjälp av ingenjörsmässiga metoder samt med <strong>god</strong> användning av begrepp, teorier och verktyg inom teknikområdet.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om hållbar utveckling inom valt teknikområde.</p> <p>Eleven gör <strong>välgrundade</strong> analyser av sambandet mellan delar och helhet i verklighetsnära tekniska problem.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven löser med <strong>mycket god säkerhet</strong> verklighetsnära tekniska problem med hjälp av ingenjörsmässiga metoder samt med <strong>mycket god</strong> användning av begrepp, teorier och verktyg inom teknikområdet.</p> <p>Eleven för <strong>välutvecklade och nyanserade</strong> resonemang om hållbar utveckling inom valt teknikområde.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> analyser av sambandet mellan delar och helhet i verklighetsnära tekniska problem.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.093Z"
+}

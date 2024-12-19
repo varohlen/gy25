@@ -1,0 +1,64 @@
+{
+  "code": "SNOI",
+  "name": "Snötillverkning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:349",
+  "nameHeading": "<h2>Snötillverkning</h2>",
+  "description": "<p>Ämnet snötillverkning behandlar snöproduktion med olika typer av snötillverkningssystem samt underhåll, felsökning och reparation av systemen. Ämnet behandlar även olika metoder för snölagring.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet snötillverkning ska syfta till att eleverna utvecklar kunskaper om olika typer av snötillverkningssystem, arbetsprocesser för tillverkning av snö och metoder för snölagring. Undervisningen ska leda till att eleverna utvecklar förmåga att montera och driftsätta snötillverkningssystem utifrån olika förutsättningar i skidområden. Undervisningen ska även leda till att eleverna utvecklar förmåga att utföra underhåll, felsökning och reparationer av snötillverkningssystem.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta och samarbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom snötillverkning som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och kunder. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att både självständigt och tillsammans med andra arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet.</p> <h5><em>Undervisningen i ämnet snötillverkning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika typer av snötillverkningssystem och tillverkning av snö samt metoder för snölagring.</li> <li>Förmåga att montera, driftsätta och övervaka snötillverkningssystem samt att lagra snö.</li> <li>Förmåga att utföra underhåll, felsökning och reparationer av snötillverkningssystem.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet snötillverkning</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SNOI1000X</h3>",
+      "code": "SNOI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet snötillverkning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika typer av snötillverkningssystem och deras olika egenskaper, däribland fläktkanon, lanskanon och intermixkanon.</li> <li>Metoder för montering och driftsättning av snötillverkningssystem samt för riskbedömning i samband med arbete med trycksatta system.</li> <li>Metoder för snötillverkning utifrån olika faktorer, till exempel temperatur samt vatten- och lufttryck.</li> <li>Metoder för olika typer av materialkontroller i förebyggande syfte, däribland av tryckrör, kopplingar och slangar.</li> <li>Metoder för övervakning och underhåll av snötillverkningssystem.</li> <li>Besiktningsregler och rutiner för dokumentation i driftjournal för snötillverkningssystem.</li> <li>Faktorer som behöver tas hänsyn till i samband med planering av och metoder för snölagring samt olika typer av täckmaterial och hur de används.</li> <li>Placering, förankring och driftsättning av snötillverkningssystem för olika typer av terräng.</li> <li>Tillverkning av konstsnö utifrån olika förutsättningar och snötillverkningssystem samt övervakning vid drift.</li> <li>Lagring av snö med olika typer av täckmaterial.</li> <li>Underhåll, felsökning och reparationer av olika typer av snötillverkningssystem och komponenter enligt tillverkarens anvisningar.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Åtgärder för att förhindra person- och egendomsskador.</li> <li>Riskbedömning i samband med arbete med trycksatta system.</li> <li>Dokumentation i driftjournal vid driftavvikelser i snötillverkningssystem.</li> <li>Användning av tekniska begrepp och uttryck samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av snötillverkningssystem och tillverkning av snö samt lagring av snö.</p> <p>Eleven utför med <strong>viss säkerhet</strong> montering, driftsättning och övervakning av snötillverkningssystem samt lagring av snö.</p> <p>Eleven utför med <strong>viss säkerhet</strong> underhåll, felsökning och reparationer av snötillverkningssystem.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika typer av snötillverkningssystem och tillverkning av snö samt lagring av snö.</p> <p>Eleven utför med <strong>säkerhet</strong> montering, driftsättning och övervakning av snötillverkningssystem samt lagring av snö.</p> <p>Eleven utför med <strong>säkerhet</strong> underhåll, felsökning och reparationer av snötillverkningssystem.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av snötillverkningssystem och tillverkning av snö samt lagring av snö.</p> <p>Eleven utför med <strong>god säkerhet</strong> montering, driftsättning och övervakning av snötillverkningssystem samt lagring av snö.</p> <p>Eleven utför med <strong>god säkerhet</strong> underhåll, felsökning och reparationer av snötillverkningssystem.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.081Z"
+}

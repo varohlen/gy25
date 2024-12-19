@@ -1,0 +1,143 @@
+{
+  "code": "CIR",
+  "name": "Cirkus",
+  "englishName": "Circus",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:171",
+  "skolfsAndring": "2022:60",
+  "nameHeading": "<h2>Cirkus</h2>",
+  "description": "<p>Cirkuskonsten innefattar olika discipliner som kommunicerar med varandra. Ett exempel är akrobatik som handlar om det fysiska uttrycket av vad som kan åstadkommas med kroppen för att skapa nya rörelseuttryck.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cirkus ska syfta till att eleverna utvecklar kunskaper om cirkusen som konstart och dess olika genrer. Eleverna ska också ges möjlighet att utveckla förmåga att uttrycka sig inom en eller flera av cirkusens discipliner, till exempel clown, jonglering, lindans eller luftakrobatik. Undervisningen ska leda till att eleverna utvecklar vana att arbeta i en scenisk produktion och möta publik. Eleverna ska ges möjlighet att utveckla förståelse av hur cirkusens uttryck och formspråk kan nyanseras och varieras utifrån olika konstnärliga idéer.</p> <p>Utforskande och reflekterande arbetsmetoder är väsentliga i ämnet. Eleverna ska därför ges möjlighet att delta i arbete med cirkusnummer samt utforma och skapa egna cirkusnummer. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta, interagera med andra och vara lyhörda inför olika sätt att förhålla sig till konstnärliga processer. Eleverna ska också ges möjlighet att delta i, driva, leda och utveckla konstnärliga projekt och olika former av sceniska presentationer.</p> <p>Undervisningen ska behandla arbetsmiljö och ergonomi samt innefatta praktiskt arbete där eleverna ges möjlighet att bygga upp den fysiska beredskap som krävs för att undvika skador. Eleverna ska också ges möjlighet att utveckla kunskaper om anatomi, träningsgrunder och förebyggande träning.</p> <h4>Undervisningen i ämnet cirkus ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Förmåga att skapa eget material och förmåga att skapa ett personligt uttryck.</li> <li>Förmåga att utföra olika akrobatiska övningar och förmåga att bedöma och hantera risker.</li> <li>Förmåga att samarbeta tillitsfullt och förtroendeskapande i träning och nummerarbete.</li> <li>Förmåga att improvisera och utforska okända uttryck inom ett eller flera cirkusområden.</li> <li>Kunskaper om säkerhet, materialomsorg, rekvisita, mask och kostym.</li> <li>Kunskaper om cirkusdisciplinernas begrepp och historia.</li> <li>Kunskaper om olika uttrycksmöjligheter inom olika cirkusdiscipliner.</li> <li>Kunskaper om anatomi och fysiologi avseende koordination, balans och rörelse samt förståelse av vikten av förebyggande träning och uppvärmning.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Akrobatik, 100 poäng, som kan läsas flera gånger med olika innehåll.</li> <li>Cirkus 1, 100 poäng, som kan läsas flera gånger med olika innehåll.</li> <li>Cirkus 2, 100 poäng, som bygger på kursen cirkus 1. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: CIRAKR00S</h3>",
+      "code": "CIRAKR00S",
+      "nameHeading": "<h2>Akrobatik, 100 poäng</h2>",
+      "name": "Akrobatik",
+      "englishName": "Acrobatics",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen akrobatik omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på kunskaper om säkerhet och materialomsorg samt punkterna 2–3 och 8. I kursen behandlas fördjupade kunskaper inom vald eller valda akrobatiska discipliner.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Nummerarbete samt hur man planerar och bygger upp cirkusakter med akrobatiska moment.</li> <li>Balansträning.</li> <li>Träning i grundläggande akrobatik.</li> <li>Träning i en eller flera akrobatiska discipliner, till exempel golvakrobatik, luftakrobatik, trampolin eller parakrobatik.</li> <li>Samarbete och kommunikation i träning och utförande. Tillitsövningar.</li> <li>Utforskande av nya rörelseuttryck med den egna kroppen.</li> <li>Experiment och improvisation.</li> <li>Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor.</li> <li>Materialkunskap och materialomsorg.</li> <li>Rekvisita, mask och kostym.</li> <li>Begrepp inom de olika cirkusdisciplinerna.</li> <li>Orientering i akrobatik- och cirkushistoria.</li> <li>Användning av olika uttryck, till exempel komik i akrobatiska akter.</li> <li>Träning av styrka och smidighet.</li> <li>Skadeförebyggande övningar och uppvärmningsövningar.</li> <li>Anatomi och träningslära.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar och framför <strong>i samråd</strong> med handledare en egen cirkusakt innehållande <strong>något </strong>akrobatiskt moment. Eleven utför <strong>någon</strong> akrobatisk övning samt gör <strong>med viss säkerhet enkla och</strong> nödvändiga riskbedömningar och anpassar <strong>i samråd </strong>med handledare sitt agerande efter dessa. Eleven samarbetar på ett säkert sätt med andra vid utförandet av akrobatiska övningar <strong>eller</strong> akter. Vid utförandet och skapandet av akrobatiska akter prövar eleven alternativa lösningar och idéer.</p><p>Eleven redogör <strong>översiktligt </strong>för säkerhetsaspekter på akrobatiska akter och för materialomsorg. Dessutom beskriver eleven <strong>översiktligt </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>översiktligt</strong> för grundläggande akrobatik- och cirkushistoria. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar akrobatnummer, ger <strong>enkla </strong>förslag till olika uttrycksmöjligheter och visar <strong>med viss säkerhet </strong>möjliga utföranden.</p><p>Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador. Eleven skapar och anpassar också <strong>i samråd </strong>med handledare<strong> </strong>övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>översiktligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar och framför <strong>efter</strong><strong> samråd </strong>med handledare en egen cirkusakt innehållande <strong>några </strong>akrobatiska moment. <strong>Akten utförs med viss lätthet och ett personligt uttryck</strong>. Eleven utför <strong>några</strong> akrobatiska övningar samt gör <strong>med viss säkerhet </strong>nödvändiga riskbedömningar och anpassar <strong>efter samråd </strong>med handledare sitt agerande efter dessa. Eleven samarbetar på ett säkert sätt med andra vid utförandet <strong>och skapandet </strong>av akrobatiska övningar <strong>och</strong> akter. <strong>I samarbetet visar eleven tillit till andras förmågor</strong>. Vid utförandet och skapandet av akrobatiska akter prövar eleven alternativa lösningar och idéer <strong>samt prövar </strong><strong>gränserna för den egna förmågan</strong>.</p><p>Eleven redogör <strong>utförligt </strong>för säkerhetsaspekter på akrobatiska akter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt</strong> för grundläggande akrobatik- och cirkushistoria. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar akrobatnummer, ger <strong>välgrundade </strong>förslag till olika uttryckmöjligheter och visar <strong>med viss säkerhet </strong>möjliga utföranden.</p><p>Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador. Eleven skapar och anpassar också <strong>efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar och framför <strong>efter samråd </strong>med handledare en egen cirkusakt innehållande <strong>flera </strong>akrobatiska moment. <strong>Akten utförs med lätthet och ett personligt uttryck</strong>. Eleven utför <strong>flera</strong> akrobatiska övningar samt gör <strong>med säkerhet </strong>nödvändiga riskbedömningar och anpassar <strong>efter samråd </strong>med handledare sitt agerande efter dessa. Eleven samarbetar på ett säkert sätt med andra vid utförandet <strong>och skapandet </strong>av akrobatiska övningar <strong>och</strong> akter. <strong>I samarbetet visar eleven tillit till andras förmågor och agerar själv på ett förtroendeingivande och trygghetsskapande sätt</strong>. Vid utförandet och skapandet av akrobatiska akter <strong>använder eleven improvisation</strong>, prövar alternativa lösningar och idéer <strong>samt prövar </strong><strong>gränserna för den egna förmågan</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för säkerhetsaspekter på akrobatiska akter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt och nyanserat</strong> för grundläggande akrobatik- och cirkushistoria. I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar akrobatnummer, ger <strong>välgrundade och nyanserade </strong>förslag till olika uttrycksmöjligheter <strong>som förbättrar utförandet</strong> samt visar <strong>med säkerhet </strong>möjliga utföranden.</p><p>Eleven utför fysiska övningar för att utveckla styrka och smidighet samt förebygga skador. Eleven skapar och anpassar också <strong>efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: CIRCIR01S</h3>",
+      "code": "CIRCIR01S",
+      "nameHeading": "<h2>Cirkus 1, 100 poäng</h2>",
+      "name": "Cirkus 1",
+      "englishName": "Circus 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen cirkus 1 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter inom valda cirkusdiscipliner.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande nummerarbete samt hur man planerar, bygger upp och framför enkla cirkusakter.</li> <li>Grundläggande träning i olika cirkusdiscipliner, till exempel akrobatik, jonglering, lindans, trampolin, språngbräda och clown. </li> <li>Balansträning.</li> <li>Kollektivt arbete med enkla cirkusakter. Tillitsövningar.</li> <li>Experiment och improvisation.</li> <li>Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor. </li> <li>Materialomsorg.</li> <li>Grundläggande inom cirkusens olika uttrycksmedel, till exempel musik, ljus, rekvisita, mask och kostym.</li> <li>Begrepp som används för att organisera arbetet inom de olika cirkusdisciplinerna.</li> <li>Grundläggande cirkushistoria.</li> <li>Skapande och användning av olika uttryck och gestaltar karaktärer i cirkusakter.</li> <li>Skadeförebyggande övningar och uppvärmningsövningar.</li> <li>Anatomi och träningslära.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar och framför <strong>i samråd </strong>med handledare<strong> någon </strong>enkel cirkusakt. Eleven utför <strong>med viss säkerhet </strong>grundläggande övningar inom en eller flera cirusdiscipliner. Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>någon </strong>cirkusakt. Vid utförandet och skapandet av cirkusakter prövar eleven alternativa lösningar och idéer.</p> <p>Eleven redogör <strong>översiktligt </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>översiktligt </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>översiktligt</strong> för cirkusens historia. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar cirkusnummer, ger <strong>enkla </strong>förslag till olika uttrycksmöjligheter och visar <strong>med viss säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att förebygga skador. Eleven skapar och anpassar också <strong>i samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>översiktligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar och framför <strong>efter samråd </strong>med handledare <strong>några </strong>enkla cirkusakter. Eleven utför <strong>med viss säkerhet </strong>grundläggande övningar inom en eller flera cikusdiscipliner. Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>några </strong>cirkusakter. Vid utförandet och skapandet av cirkusakter prövar eleven alternativa lösningar och idéer <strong>samt</strong><strong> prövar gränserna för den egna förmågan</strong>.</p> <p>Eleven redogör <strong>utförligt </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt</strong> för cirkusens historia. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar cirkusnummer, ger <strong>välgrundade </strong>förslag till olika uttrycksmöjligheter och visar <strong>med viss säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt </strong>förebygga skador. Eleven skapar och anpassar också <strong>efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar och framför <strong>efter samråd </strong>med handledare<strong> flera </strong>enkla cirkusakter. Eleven utför <strong>med säkerhet </strong>grundläggande övningar inom en eller flera cirkusdiscipliner. Eleven samarbetar på ett säkert sätt med andra vid utförandet av <strong>flera </strong>cirkusakter. <strong>I samarbetet agerar eleven både ledande och följande</strong>. Vid utförandet och skapandet av cirkusakter <strong>använder eleven improvisation</strong>, prövar alternativa lösningar och idéer <strong>samt</strong><strong> prövar gränserna för den egna förmågan</strong>.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>användningsmöjligheter för rekvisita, mask och kostym samt redogör <strong>utförligt och nyanserat</strong> för cirkusens historia. I sina beskrivningar och redogörelser använder eleven <strong>med </strong><strong>säkerhet </strong>cirkusdisciplinernas begrepp. Eleven diskuterar cirkusnummer, ger <strong>välgrundade och nyanserade </strong>förslag till olika uttrycksmöjligheter och visar <strong>med säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt </strong>förebygga skador. Eleven skapar och anpassar också <strong>efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: CIRCIR02S</h3>",
+      "code": "CIRCIR02S",
+      "nameHeading": "<h2>Cirkus 2, 100 poäng</h2>",
+      "name": "Cirkus 2",
+      "englishName": "Circus 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen cirkus 2 omfattar punkterna 1–5 och 7–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas fördjupade färdigheter inom vald eller valda cirkusdiscipliner.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Nummerarbete och komposition samt hur man planerar och bygger upp cirkusakter.</li> <li>Framförande av cirkusakter inför publik.</li> <li>Fördjupad träning i en eller flera cirkusdiscipliner, till exempel akrobatik, jonglering, lindans och clown.</li> <li>Balansträning.</li> <li>Kollektivt arbete med cirkusakter och samverkan mellan olika cirkusdiscipliner.</li> <li>Personligt uttryck vid utförande av cirkusnummer.</li> <li>Experiment och improvisation.</li> <li>Säkerhetsfrågor och säkerhetsåtgärder, systematiskt arbete med att förhindra olyckor.</li> <li>Materialomsorg.</li> <li>Rekvisita, mask och kostym.</li> <li>Användning av olika uttryck och hur man gestaltar karaktärer i cirkusakter.</li> <li>Skadeförebyggande övningar och uppvärmningsövningar.</li> <li>Anatomi och träningslära.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar och framför <strong>i samråd </strong>med handledare<strong> någon </strong>större cirkusakt. Vid utförandet samarbetar eleven på ett säkert sätt med andra. Vid utförandet och skapandet av cirkusakter prövar eleven även alternativa lösningar och idéer samt prövar att använda <strong>något</strong> traditionellt uttryck på ett nytt sätt inom <strong>någon </strong>särskild cirkusdisciplin.</p> <p>Eleven redogör <strong>översiktligt </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>översiktligt </strong>användningsmöjligheter för rekvisita, mask och kostym. Eleven diskuterar nummer inom <strong>någon </strong>cirkusdisciplin, ger <strong>enkla </strong>förslag till olika uttrycksmöjligheter och visar <strong>med viss säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att förebygga skador. Eleven skapar och anpassar också<strong> i samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>översiktligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar och framför <strong>efter samråd </strong>med handledare<strong> några </strong>större cirkusakter. Vid utförandet samarbetar eleven på ett säkert sätt med andra. Vid utförandet och skapandet av cirkusakter<strong> har </strong>eleven även <strong>ett personligt uttryck</strong>, prövar alternativa lösningar och idéer samt prövar att använda <strong>några</strong> traditionella uttryck på ett nytt sätt inom <strong>några </strong>särskilda cirkusdiscipliner.</p> <p>Eleven redogör <strong>utförligt </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt </strong>användningsmöjligheter för rekvisita, mask och kostym. Eleven diskuterar nummer inom <strong>några </strong>cirkusdiscipliner, ger <strong>välgrundade </strong>förslag till olika uttrycksformer och visar <strong>med viss säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt </strong>förebygga skador. Eleven skapar och anpassar också<strong> efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar och framför <strong>efter samråd </strong>med handledare<strong> flera </strong>större cirkusakter. Vid utförandet samarbetar eleven på ett säkert sätt med andra. <strong>I samarbetet agerar eleven både ledande och följande</strong>. Vid utförandet och skapandet av cirkusakter<strong> har </strong>eleven även <strong>ett personligt uttryck,</strong> <strong>improviserar</strong>, prövar alternativa lösningar och idéer samt prövar att använda <strong>några</strong> traditionella uttryck på ett nytt sätt inom <strong>flera</strong> särskilda cirkusdiscipliner.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för säkerhetsaspekter på cirkusakter och för materialomsorg. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>användningsmöjligheter för rekvisita, mask och kostym. Eleven diskuterar nummer inom <strong>flera </strong>cirkusdiscipliner, ger <strong>välgrundade och nyanserade </strong>förslag till olika uttryckssätt och visar <strong>med säkerhet </strong>möjliga gestaltningar av karaktärer.</p> <p>Eleven utför fysiska övningar för att <strong>utveckla styrka och smidighet samt </strong>förebygga skador. Eleven skapar och anpassar också <strong>efter samråd </strong>med handledare övningar och träningsmetoder för att förebygga skador. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för anatomi och fysiologi avseende koordination, balans och rörelse.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.960Z"
+}

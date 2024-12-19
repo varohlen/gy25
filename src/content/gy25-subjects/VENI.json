@@ -1,0 +1,92 @@
+{
+  "code": "VENI",
+  "name": "Ventilationsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:247",
+  "nameHeading": "<h2>Ventilationsteknik</h2>",
+  "description": "<p>Ämnet ventilationsteknik behandlar service, optimering och injustering av ventilationstekniska system. Ämnet behandlar även betydelsen av ett väl fungerande inomhusklimat gällande luftkvalitet och temperatur.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ventilationsteknik ska syfta till att eleverna utvecklar kunskaper om uppbyggnad och funktion hos ventilationstekniska system samt förmåga att utföra drift- och underhållsarbete på olika typer av ventilationstekniska system. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vad som avses med fungerande ventilation och hur en sådan kan uppnås. Undervisningen ska leda till att eleverna utvecklar kunskaper om arbetsprocesser och arbetsmetoder samt förståelse av hur utförandet påverkar funktionen. Undervisningen ska även leda till att eleverna utvecklar kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet samt om branschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom yrkesområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att tolka och följa ritningar och arbetsbeskrivningar. Undervisningen ska leda till att eleverna utvecklar förmåga att välja och hantera material, verktyg och utrustning på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om entreprenörskap och förståelse av företagandets villkor.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att utveckla förmåga att omsätta teoretiska kunskaper i praktisk handling, liksom att utveckla teoretiska kunskaper utifrån praktiskt arbete. Arbetsuppgifter ska genomföras med metoder, verktyg och utrustning som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet ventilationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om ventilationstekniska system, arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att tolka och följa ritningar och arbetsbeskrivningar samt utföra drift- och underhållsarbete på ventilationstekniska system på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material, verktyg och utrustning.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet ventilationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VENI1000X</h3>",
+      "code": "VENI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ventilationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Ventilationstekniska system och deras komponenter.</li> <li>Luftens egenskaper på en grundläggande nivå.</li> <li>Principer och förutsättningar för ventilationsteknik och luftbehandling samt grundläggande underhållsrutiner.</li> <li>Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> <li>Bestämmelser om brandsäkerhet.</li> <li>Behörigheter för ett säkert arbete inom mobila arbetsplattformar och fallskydd samt branschens riktlinjer för personlig skyddsutrustning och elsäkerhet.</li> <li>Ritningsläsning och tolkning av arbetsbeskrivningar för arbetsuppgiften.</li> <li>Tolkning av drift- och underhållsinstruktioner.</li> <li>Drift och underhåll på ett säkert samt ekonomiskt och miljömässigt hållbart sätt, till exempel rengöring i aggregat och filterbyte.</li> <li>Kontroll av funktion hos systemkomponenter i luftbehandlingssystem.</li> <li>Temperatur- och luftflödesmätningar.</li> <li>Kontroll av inneklimat, till exempel luftflöde och temperatur.</li> <li>Utvärdering och dokumentation av utförda åtgärder, däribland av mätningar samt inom drift och underhåll.</li> <li>Arbete med ventilationstekniska system med hänsyn till arbetsmiljö och ergonomi.</li> <li>Användning av personlig skyddsutrustning.</li> <li>Val av material i enlighet med ekonomisk och miljömässig hållbarhet.</li> <li>Avfallsförebyggande åtgärder.</li> <li>Val och säker hantering av verktyg och utrustning för arbetsuppgiften.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften i yrkessammanhang.</li> <li>Användning av facktermer på svenska och engelska kopplat till arbetsuppgiften.</li> <li>Bemötande av arbetsledare och kollegor.</li> <li>Situationsanpassat agerande och faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VENI2000X</h3>",
+      "code": "VENI2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ventilationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Funktion hos och funktionskontroll av ventilationsaggregat.</li> <li>Funktion hos filter samt filterkontroll och filterbyte.</li> <li>Luftströmning i lokaler.</li> <li>Tryckfall i system.</li> <li>Principer och förutsättningar för ventilationsteknik och luftbehandling samt underhållsrutiner.</li> <li>Felsökning av ventilationstekniska system.</li> <li>Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> <li>Bestämmelser om brandsäkerhet.</li> <li>Behörigheter för ett säkert arbete inom mobila arbetsplattformar och fallskydd samt branschens riktlinjer för personlig skyddsutrustning och elsäkerhet.</li> <li>Ritningsläsning och tolkning av arbetsbeskrivningar för arbetet.</li> <li>Styr- och reglerteknik utifrån drift- och underhållsinstruktioner.</li> <li>Drift och underhåll av luftbehandlingssystem på ett säkert samt ekonomiskt och miljömässigt hållbart sätt, till exempel mätning av luftflöde över don samt kontroll av systemets renhet.</li> <li>Grundläggande energioptimering.</li> <li>Temperatur- och luftflödesmätningar.</li> <li>Kontroll av inneklimat, till exempel tryckfall.</li> <li>Utvärdering och dokumentation av utförda åtgärder, däribland av mätningar samt inom drift och underhåll.</li> <li>Arbete med ventilationstekniska system med hänsyn till arbetsmiljö och ergonomi.</li> <li>Användning av personlig skyddsutrustning.</li> <li>Val av material i enlighet med ekonomisk och miljömässig hållbarhet.</li> <li>Resursanvändande kopplat till arbetsuppgiften, till exempel vid val av kanalfläkt utifrån givna förutsättningar och för att minimera livscykelkostnaden.</li> <li>Val och säker hantering av verktyg och utrustning för arbetet.</li> <li>Samverkan och kommunikation med anpassning till mottagare i olika yrkessammanhang.</li> <li>Kommunikation med facktermer på svenska och engelska i relation till arbetsuppgiften.</li> <li>Användning av fackspråk.</li> <li>Bemötande av arbetsledare, kollegor och andra yrkesgrupper.</li> <li>Situationsanpassat agerande och faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VENI3000X</h3>",
+      "code": "VENI3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ventilationsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Energioptimering i ventilationstekniska system.</li> <li>Rengöring av ventilationssystem.</li> <li>Fysikaliska begrepp, konstanter och beräkningar.</li> <li>Tryckfall i system och dess effekter.</li> <li>Principer och förutsättningar för ventilationsteknik och luftbehandling samt underhållsrutiner.</li> <li>Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> <li>Bestämmelser om brandsäkerhet.</li> <li>Behörigheter för ett säkert arbete inom mobila arbetsplattformar och fallskydd samt branschens riktlinjer för personlig skyddsutrustning och elsäkerhet.</li> <li>Ritningsläsning och tolkning av komplexa arbetsbeskrivningar.</li> <li>Felsökning av ventilationstekniska anläggningar.</li> <li>Mätningar av verkningsgrad för värmeåtervinning samt specifik fläkteffekt (SFP) i enlighet med energibesparingsprinciper för ekonomisk och miljömässig hållbarhet.</li> <li>Grundläggande injustering av luftbehandlingssystem.</li> <li>Fysikaliska begrepp, konstanter och beräkningar.</li> <li>Systemkomponenter i luftbehandlingsanläggningar.</li> <li>Luftflödes- och ljudmätningar av luftbehandlingssystem.</li> <li>Kontroll av inneklimat kopplat till ventilationssystem genom mätningar av temperatur, luftkvalitet, ljud, fuktighet och lufthastighet.</li> <li>Utvärdering och dokumentation av utförda åtgärder, däribland av mätningar samt inom drift och underhåll.</li> <li>Arbete med ventilationstekniska system med hänsyn till arbetsmiljö och ergonomi.</li> <li>Användning av personlig skyddsutrustning.</li> <li>Val av material i enlighet med ekonomisk och miljömässig hållbarhet.</li> <li>Resursanvändande kopplat till arbetsuppgiften, till exempel val av fläkt i aggregat utifrån givna förutsättningar och för att minimera livscykelkostnaden.</li> <li>Val och säker hantering av verktyg och utrustning för arbetet.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften i yrkessammanhang.</li> <li>Kommunikation med fackspråk i tal och skrift i arbetet.</li> <li>Bemötande av fastighetsägare och beställare.</li> <li>Situationsanpassat agerande och faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos olika ventilationstekniska system. Eleven visar <strong>godtagbara</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven följer ritningar och arbetsbeskrivningar med <strong>viss säkerhet</strong> samt utför drift- och underhållsarbete på ventilationstekniska system med <strong>godtagbart</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>viss säkerhet</strong> utifrån arbetsuppgiften. Eleven hanterar med <strong>visst</strong> handlag verktyg och utrustning.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos olika ventilationstekniska system. Eleven visar <strong>goda</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven följer ritningar och arbetsbeskrivningar med <strong>säkerhet</strong> samt utför drift- och underhållsarbete på ventilationstekniska system med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>säkerhet</strong> utifrån arbetsuppgiften. Eleven hanterar med <strong>gott</strong> handlag verktyg och utrustning.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos olika ventilationstekniska system. Eleven visar <strong>mycket goda</strong> kunskaper om arbetsprocesser och arbetsmetoder samt om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven följer ritningar och arbetsbeskrivningar med <strong>god säkerhet</strong> samt utför drift- och underhållsarbete på ventilationstekniska system med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material med <strong>god säkerhet</strong> utifrån arbetsuppgiften. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg och utrustning.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.100Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "BRAN",
+  "name": "Brandskydd",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:180",
+  "nameHeading": "<h2>Brandskydd</h2>",
+  "description": "<p>Ämnet brandskydd behandlar räddningstjänstens funktion och organisation samt brand och brandbekämpning. Ämnet behandlar även brandverksamhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet brandskydd ska syfta till att eleverna utvecklar kunskaper om samhällets räddningstjänst samt om dess organisation, roll och funktion. Eleverna ska också ges möjlighet att utveckla förmåga att hantera faktorer som styr brandförlopp samt att utföra förebyggande och åtgärdande brandskydd.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att handla med omdöme samt att planera, organisera och genomföra arbetsuppgifter relaterade till brand och brandskydd med hänsyn till säkerhet och arbetsmiljö. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hjärt-lungräddning, omhändertagande vid olycksfall och om olycksplatsarbetets organisation. Eleverna ska även ges möjlighet att utveckla förmåga att arbeta med relevanta metoder och relevant utrustning. Undervisningen ska leda till att eleverna utvecklar förmåga att tillämpa lagar och andra bestämmelser som gäller för de olika verksamheterna. Därigenom ska eleverna stimuleras till ett aktivt deltagande i samhället och till ett ansvarsfullt agerande i arbetet inom området.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att kommunicera och hantera mänskliga reaktioner samt att möta människor med utgångspunkt i ett etiskt förhållningssätt och alla människors lika värde.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin problemlösningsförmåga och handlingsberedskap. Genom att medverka i verksamheter och i fiktiva situationer ska eleverna ges möjlighet att få inblick i och erfarenhet av olika sammanhang inom räddningsarbete. Eleverna ska också ges möjlighet att reflektera över egna och andras handlingar och attityder samt att diskutera frågor inom området.</p> <h5><em>Undervisningen i ämnet brandskydd ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om samhällets räddningstjänst.</li> <li>Förmåga att hantera brand och brandskydd.</li> <li>Förmåga att utföra räddningstjänstens arbete i enlighet med lagar och andra bestämmelser samt utifrån arbetsmiljö- och säkerhetskrav.</li> <li>Förmåga att använda metoder och utrustning inom räddningstjänst och brandbekämpning.</li> <li>Förmåga att kommunicera och samverka i olika räddningssituationer.</li> </ul><h3>Nivåer i ämnet brandskydd</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BRAN1000X</h3>",
+      "code": "BRAN1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet brandskydd på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Samhällets räddningstjänst samt dess organisation och funktion i samhället.</li> <li>Brandbekämpningsresurser inom räddningstjänsten, till exempel kommunens räddningstjänst.</li> <li>Räddningstjänstens olika yrkesroller och arbetsuppgifter.</li> <li>Faktorer som ligger bakom en brands uppkomst och vad som styr spridningen av en brand.</li> <li>Brandförlopp, släckteknik, släckmedel och brandsyn.</li> <li>Åtgärder vid olycka och sjukdomstillstånd enligt L-ABCDE (livsfarligt läge – airway, breathing, circulation, disability, expose).</li> <li>Åtgärder för att förhindra och mildra fortsatta skador på liv, egendom och miljö vid brand i byggnad.</li> <li>Regler för brandskydd i byggnader och grunderna i ett systematiskt brandskyddsarbete.</li> <li>Arbetsmiljö och säkerhetsaspekter i samband med bekämpande av brand.</li> <li>Lagar och andra bestämmelser som gäller för räddningstjänsten.</li> <li>Yrkesetik, grundläggande demokratiska värderingar och etiska dilemman.</li> <li>Psykiska reaktioner hos insatspersonal och hur dessa kan förebyggas och tas om hand.</li> <li>Fysiska och psykiska reaktioner hos både drabbade och närstående.</li> <li>Val och användning av relevanta tekniska hjälpmedel, metoder, material och tekniker vid brand, till exempel räddningstjänstens fordon och utrustning, handbrandsläckare och brandfilt.</li> <li>Bemötande av människor i olika räddningssituationer.</li> <li>Kommunikation, samverkan och konflikthantering i olika räddningssituationer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om samhällets räddningstjänst, räddningsarbete och yrkesroller samt om verksamhetens organisation och funktion.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för faktorer som styr brandförlopp. Eleven hanterar brand och brandskydd samt åtgärder för att förhindra och mildra skador med <strong>godtagbart</strong> resultat.</p> <p>Eleven planerar, organiserar och utför brandförebyggande åtgärder med <strong>godtagbart</strong> resultat. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>viss säkerhet</strong> metoder och utrustning som passar för uppgiften inom räddningstjänst och brandbekämpning.</p> <p>Eleven kommunicerar och samverkar med <strong>viss säkerhet</strong> med människor i olika räddningssituationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om samhällets räddningstjänst, räddningsarbete och yrkesroller samt om verksamhetens organisation och funktion.</p> <p>Eleven redogör på ett <strong>gott</strong> sätt för faktorer som styr brandförlopp. Eleven hanterar brand och brandskydd samt åtgärder för att förhindra och mildra skador med <strong>gott</strong> resultat.</p> <p>Eleven planerar, organiserar och utför brandförebyggande åtgärder med <strong>gott</strong> resultat. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>säkerhet</strong> metoder och utrustning som passar för uppgiften inom räddningstjänst och brandbekämpning.</p> <p>Eleven kommunicerar och samverkar med <strong>säkerhet</strong> med människor i olika räddningssituationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om samhällets räddningstjänst, räddningsarbete och yrkesroller samt om verksamhetens organisation och funktion.</p> <p>Eleven redogör på ett <strong>mycket gott</strong> sätt för faktorer som styr brandförlopp. Eleven hanterar brand och brandskydd samt åtgärder för att förhindra och mildra skador med <strong>mycket gott</strong> resultat.</p> <p>Eleven planerar, organiserar och utför brandförebyggande åtgärder med <strong>mycket gott</strong> resultat. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>god säkerhet</strong> metoder och utrustning som passar för uppgiften inom räddningstjänst och brandbekämpning.</p> <p>Eleven kommunicerar och samverkar med <strong>god säkerhet</strong> med människor i olika räddningssituationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.974Z"
+}

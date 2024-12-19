@@ -1,0 +1,92 @@
+{
+  "code": "FORM",
+  "name": "Formgivning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:233",
+  "nameHeading": "<h2>Formgivning</h2>",
+  "description": "<p>Formgivning används inom många olika områden i dagens samhälle, till exempel inom hantverk och olika typer av produktutveckling. Ämnet formgivning behandlar estetiska aspekter på konsthantverk, slöjd och design. Det behandlar också tekniker, material, metoder och processer inom formgivningsområdet. Dessutom behandlar ämnet formgivningens betydelse för produkter och deras hållbarhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet formgivning ska syfta till att eleverna utvecklar förmåga att arbeta konstnärligt och hantverksmässigt i specifika material. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av sambandet mellan funktionell och konstnärlig utformning samt av samspelet mellan material, form, funktion och färg.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om formgivningsprocessen samt förmåga att från en idé formge något till en färdig produkt. Dessutom ska undervisningen bidra till att eleverna utvecklar förståelse av hur formgivning i olika material kan understryka och förmedla en tanke, en idé eller en känsla. Eleverna ska också ges möjlighet att utveckla förmåga att reflektera över och värdera det utförda arbetet. Undervisningen ska leda till att eleverna utvecklar förmåga att presentera formgivna idéer och färdiga produkter och använda begrepp inom formgivningsområdet. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt om arbetsmiljö och säkerhet. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att analysera och tolka samt inspireras av historisk och samtida formgivning och olika formgivare.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en öppenhet för att prova nya vägar. Den ska även leda till att eleverna utvecklar färdigheter i att arbeta projektinriktat och problemorienterat.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta experimentellt med både traditionella och nyskapande konstnärliga metoder från ett eller flera valda design- eller slöjdområden. Exempel på områden är trä, metall, textil, glas och keramik. Undervisningen ska lämna utrymme för diskussioner och reflektioner över etiska frågor och olika handlingsalternativ inom formgivning.</p> <h5><em>Undervisningen i ämnet formgivning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att arbeta konstnärligt och hantverksmässigt med formgivning i specifika material.</li> <li>Kunskaper om färg, form och funktion.</li> <li>Förmåga att presentera formgivna produkter samt värdera designidéer och produkter.</li> <li>Förmåga att tolka traditionell och samtida formgivning.</li> <li>Kunskaper om lagar och andra bestämmelser inom formgivningsområdet.</li> </ul><h3>Nivåer i ämnet formgivning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FORM1000X</h3>",
+      "code": "FORM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet formgivning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Hantverk, material och funktion</em></p> <ul> <li>Introduktion till hantverksmässigt arbete, produktionsformer och egenskaper hos valda material, till exempel trä, metall, textil, keramik eller glas.</li> <li>Orientering i aktuella materials hållbarhet och miljöpåverkan.</li> <li>Orientering i hur färg- och formlära påverkar ett uttryck eller en funktion inom valt område.</li> </ul> <p><em>Formgivningsprocess och inspirationskällor</em></p> <ul> <li>Introduktion i formgivningsprocessen, från idé och skissarbete till färdig produkt.</li> <li>Presentation av egen formgivning samt samtal om och värdering av idé, funktion och uttryck.</li> <li>Användning av relevanta begrepp inom valt område.</li> <li>Introduktion till designhistoria, hantverkstradition och samtida formgivning inom valt eller valda områden.</li> </ul> <p><em>Lagar och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser inom formgivningsområdet, till exempel om kopiering och upphovsrätt.</li> <li>Säkerhet och arbetsmiljö för aktuella maskiner och verktyg.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORM2000X</h3>",
+      "code": "FORM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet formgivning på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Hantverk, material och funktion</em></p> <ul> <li>Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, såväl kända som nya material.</li> <li>Breddning av bearbetningsmetoder, verktyg, tekniker och användningsområden hos valda material.</li> <li>Socialt, ekonomiskt och miljömässigt hållbar formgivning, till exempel återbruksdesign.</li> <li>Färg- och formlära, till exempel hur färg och form på ett konstnärligt sätt framhäver en känsla eller en funktion inom valt område.</li> </ul> <p><em>Formgivningsprocess och inspirationskällor</em></p> <ul> <li>Dokumentation av arbetsprocessen från idégenerering och skissarbete till färdiga produkter.</li> <li>Utställning av formgivna produkter.</li> <li>Diskussion och värdering av egen och andra elevers formgivning, den egna arbetsinsatsen och resultat.</li> <li>Designhistoria, hantverkstradition och samtida formgivning inom valt eller valda områden samt tolkning av formgivning från designhistoria och samtid i eget skapande.</li> </ul> <p><em>Lagar och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser inom valt område, däribland mönster- och designskydd.</li> <li>Säkerhet och arbetsmiljö för aktuella maskiner och verktyg.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORM3000X</h3>",
+      "code": "FORM3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet formgivning på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Hantverk, material och funktion</em></p> <ul> <li>Konstnärligt, personligt och hantverksmässigt arbete i ett eller flera valda material.</li> <li>Kreativa och experimentella metoder med såväl kända som nya material.</li> <li>Resurssnåla och återvinningsbara produkter och förpackningar.</li> <li>Färg- och formlära, med fokus på analys och hur ett personligt val av färg och form samverkar för att förstärka ett uttryck eller en funktion.</li> </ul> <p><em>Formgivningsprocess och inspirationskällor</em></p> <ul> <li>Vidareutveckling av designprocessen genom arbete med utställningsdesign samt marknadsföring av egen formgivning.</li> <li>Värdering av både egen och yrkesutövares exponering av formgivning.</li> <li>Användning och tolkning av design från olika tider och kulturer i egen personlig formgivning, som kan fungera i ett försäljningssammanhang. Diskussion om hur den egna formgivningen förhåller sig till inspirationskällorna.</li> </ul> <p><em>Lagar och arbetsmiljö</em></p> <ul> <li>Lagar och andra bestämmelser inom valt område, däribland bestämmelser om marknadsföring och försäljning.</li> <li>Säkerhet och arbetsmiljö för aktuella maskiner och verktyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven arbetar med formgivning i valt material och vald teknik med <strong>visst</strong> handlag.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om sambandet mellan färg, form och funktion.</p> <p>Eleven presenterar med <strong>viss säkerhet</strong> egna formgivna produkter samt värderar med <strong>enkla</strong> omdömen idéer och produkter.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av uttryck i historisk och samtida formgivning.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för lagar och andra bestämmelser inom formgivningsområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven arbetar med formgivning i valt material och vald teknik med <strong>gott</strong> handlag.</p> <p>Eleven visar <strong>goda</strong> kunskaper om sambandet mellan färg, form och funktion.</p> <p>Eleven presenterar med <strong>säkerhet</strong> egna formgivna produkter samt värderar med <strong>utvecklade</strong> omdömen idéer och produkter.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och tolkningar av uttryck i historisk och samtida formgivning.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för lagar och andra bestämmelser inom formgivningsområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven arbetar med formgivning i valt material och vald teknik med <strong>mycket gott</strong> handlag.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om sambandet mellan färg, form och funktion.</p> <p>Eleven presenterar med <strong>god säkerhet</strong> egna formgivna produkter samt värderar med <strong>utvecklade och nyanserade</strong> omdömen idéer och produkter.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser och tolkningar av uttryck i historisk och samtida formgivning.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för lagar och andra bestämmelser inom formgivningsområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.001Z"
+}

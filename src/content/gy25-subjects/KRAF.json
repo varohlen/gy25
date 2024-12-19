@@ -1,0 +1,78 @@
+{
+  "code": "KRAF",
+  "name": "Kraft- och värmeteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:24",
+  "nameHeading": "<h2>Kraft- och värmeteknik</h2>",
+  "description": "<p>Ett samhälles industri samt produktion av el och värme tillåter inte några avbrott av energitillförsel. Den kraft- och värmeproducerande industrins system ställer därför stora krav på driftsäkerhet. Ämnet kraft- och värmeteknik behandlar drift och underhåll av komplexa kraft- och värmetekniska system. Ämnet inbegriper även mekanik och värmelära.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kraft- och värmeteknik ska syfta till att eleverna utvecklar kunskaper om hur teknik och energi samverkar i anläggningar och driften av dessa. Eleverna ska även ges möjlighet att utveckla kunskaper om hur kraft- och värmetekniska anläggningar är uppbyggda och fungerar. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra energiberäkningar och driftsoptimering av kraft- och värmetekniska anläggningar. Eleverna ska även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området. Undervisningen ska leda till att eleverna utvecklar problemlösningsförmåga och ett ansvarsfullt förhållningssätt gällande både drift och miljöfrågor inom området.</p> <p>Genom ett undersökande och praktiskt arbetssätt ska eleverna ges möjlighet att utveckla systemförståelse av kraft- och värmetekniska anläggningar samt förmåga att genomföra drift och underhåll av dessa. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att använda fackspråk i samverkan med andra. Undervisningen ska stimulera elevernas nyfikenhet och initiativförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom den kraft- och värmeproducerande industrin.</p> <h5><em>Undervisningen i ämnet kraft- och värmeteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur anläggningar inom kraft- och värmeteknik är uppbyggda och fungerar.</li> <li>Förmåga att utföra energiberäkningar samt driftsoptimering av olika system.</li> <li>Förmåga att utföra arbete inom drift och underhåll av olika anläggningar i enlighet med säkerhetsföreskrifter och miljökrav inom området.</li> <li>Förmåga att hantera verktyg, instrument och utrustning.</li> </ul><h3>Nivåer i ämnet kraft- och värmeteknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet energiteknik.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KRAF1000X</h3>",
+      "code": "KRAF1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kraft- och värmeteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Kärnkraftverkens uppbyggnad och funktion.</li> <li>Olika ångpannors uppbyggnad och funktion.</li> <li>Uppbyggnad och funktion hos dieselmotorer, gasturbiner och batterianläggningar.</li> <li>Uppbyggnad av system för fjärrvärme och fjärrkyla.</li> <li>Olika bränslen med tillhörande bränslehanteringssystem.</li> <li>Beräkningar vid energiomvandlingar och energiproduktion vid drift och underhåll kopplat till miljö och ekonomi.</li> <li>Olika kraft- och värmetekniska anläggningars påverkan på luft-, mark- och vattenmiljö.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och miljökrav gällande el- och värmeproduktion.</li> <li>Driftrutiner och manualer.</li> <li>Kommunikation med fackspråk.</li> <li>Hantering av vanligt förekommande verktyg, instrument och utrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KRAF2000X</h3>",
+      "code": "KRAF2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kraft- och värmeteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad och funktion av ånganläggningar.</li> <li>Olika typer av ångturbiner, kondensorer, generatorer och värmeväxlare.</li> <li>Driftsättning och inkoppling mot fjärrvärme- eller elnätet, till exempel infasning av generator samt krav och säkerhetsaspekter.</li> <li>Ångans termodynamiska egenskaper.</li> <li>Beräkningsmetoder för optimering av driften kopplat till miljö och ekonomi.</li> <li>Lagar och andra bestämmelser inom området, däribland olika anläggningstypers säkerhetsföreskrifter och miljökrav.</li> <li>Drift- och underhållsrutiner vid olika driftsförhållanden.</li> <li>Samarbete och ledarskap i arbetet.</li> <li>Kommunikation med fackspråk.</li> <li>Hantering av verktyg, instrument och utrustning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> hur kraft- och värmetekniska anläggningar är uppbyggda och fungerar.</p> <p>Eleven genomför <strong>enkla</strong> beräkningar och ger utifrån dem <strong>enkla</strong> förslag om hur driften kan optimeras.</p> <p>Eleven utför praktiskt arbete inom drift och underhåll av olika anläggningar på ett <strong>godtagbart</strong> sätt. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter och miljökrav inom området.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> hur kraft- och värmetekniska anläggningar är uppbyggda och fungerar.</p> <p>Eleven genomför <strong>relativt komplexa</strong> beräkningar och ger utifrån dem <strong>utvecklade</strong> förslag om hur driften kan optimeras.</p> <p>Eleven utför praktiskt arbete inom drift och underhåll av olika anläggningar på ett <strong>gott</strong> sätt. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter och miljökrav inom området.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur kraft- och värmetekniska anläggningar är uppbyggda och fungerar.</p> <p>Eleven genomför <strong>komplexa</strong> beräkningar och ger utifrån dem <strong>välutvecklade</strong> förslag om hur driften kan optimeras.</p> <p>Eleven utför praktiskt arbete inom drift och underhåll av olika anläggningar på ett <strong>mycket gott</strong> sätt. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter och miljökrav inom området.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.031Z"
+}

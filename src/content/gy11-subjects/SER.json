@@ -1,0 +1,256 @@
+{
+  "code": "SER",
+  "name": "Serveringskunskap",
+  "englishName": "Serving",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:72",
+  "skolfsAndring": "2022:272",
+  "nameHeading": "<h2>Serveringskunskap</h2>",
+  "description": "<p>Ämnet serveringskunskap behandlar servering av mat och dryck i olika restaurang- och hotellverksamheter. Det behandlar också matsalars utformning och estetik samt organisation i olika typer av matsalar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet serveringskunskap ska syfta till att eleverna utvecklar kunskaper i olika serveringsmetoder, bärtekniker och matsalshantverk. Den ska ge eleverna möjlighet att utveckla förmåga att utforma menyer, göra uppdukningar och bordsdekorationer samt hantera och vårda redskap och annan utrustning. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om dryckesservering.</p><p>Undervisningen ska bidra till att eleverna utvecklar förmåga att bemöta gäster på ett korrekt sätt samt att ta hänsyn till olika gästers önskemål dels utifrån individuella behov, dels utifrån kulturtillhörighet. Dessutom ska undervisningen bidra till att eleverna utvecklar en kommunikativ och ämnesspråklig förmåga.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hygien, arbetsmiljö- och säkerhetsfrågor samt om lagar och andra bestämmelser som gäller för yrkesområdet.</p><p>Genom praktiska övningar ska eleverna ges möjlighet att utveckla färdigheter i olika arbetsuppgifter som förekommer inom serveringsområdet.</p><h4>Undervisningen i ämnet serveringskunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att planera och organisera arbetet.</li> <li>Kunskaper om dukningar och matsalens estetik, serveringsmetoder, matsalshantverk och material samt färdigheter i att duka och servera.</li> <li>Färdigheter i att utforma matsedlar och kunskaper om deras uppbyggnad.</li> <li>Kunskaper om drycker och dryckesservering.</li> <li>Förmåga att bemöta gäster samt presentera mat och dryck.</li> <li>Färdigheter i att utföra kassaarbete samt göra ekonomiska kalkyler.</li> <li>Kunskaper om lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.</li> <li>Förmåga att utvärdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Frukost och bufféservering, 100 poäng, som bygger på kursen logi.</li> <li>Servering 1, 100 poäng. </li> <li>Servering 2, 200 poäng, som bygger på kursen servering 1.</li> <li>Arrangemang, 100 poäng, som bygger på kursen servering 1.</li> <li>Matsalshantverk, 100 poäng, som bygger på kursen servering 2.</li> <li>Servering – specialisering, 100 poäng, som bygger på kursen servering 2. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SERFRU0</h3>",
+      "code": "SERFRU0",
+      "nameHeading": "<h2>Frukost och bufféservering, 100 poäng</h2>",
+      "name": "Frukost och bufféservering",
+      "englishName": "Breakfast and buffet serving",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen frukost och bufféservering omfattar punkterna 1–2, 4–5 och 7–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande innehåll:</h4><ul> <li>Frukostens betydelse för välbefinnande och prestationsförmåga.</li> <li>Frukostvanor i olika länder samt internationella frukostbufféer.</li> <li>Metoder, redskap och utrustning som används vid frukost- och bufféservering.</li> <li>Planering av innehåll och uppdukning samt arbete och logistik vid bufféer i olika sammanhang.</li> <li>Tillagning, beredning och uppläggning av svenska frukosträtter.</li> <li>Bärteknik och avdukning samt rationellt arbetssätt.</li> <li>Ansvarsfull alkoholservering i samband med bufféarrangemang.</li> <li>Planering av rumsservice från beställning till servering.</li> <li>Matsalens miljö och atmosfär.</li> <li>Livsmedel och råvarukvalitet samt hantering och förvaring med hänsyn till ekonomi, kvalitet och miljö.</li> <li>Personlig hygien och ändamålsenlig klädsel.</li> <li>Livsmedelshygien och lagar för livsmedelshantering samt egenkontroll.</li> <li>Service och bemötande, både det verbala språkets och kroppsspråkets betydelse i mötet med gästen.</li> <li>Specialkost med anledning av medicinska, religiösa eller etiska skäl.</li> <li>Kommunikation och samverkan mellan olika avdelningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter i frukostmatsal och buffésammanhang samt arrangerar <strong>i samråd</strong> med handledare bufféer av olika slag. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven beskriver <strong>översiktligt </strong>frukostbufféer i olika länder. Eleven beskriver också andra typer av bufféer <strong>översiktligt</strong>. Eleven utför med<strong> visst </strong>handlag servering av mat och dryck i frukostmatsal och buffésammanhang. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i frukostmatsal och buffésammanhang samt arrangerar <strong>efter samråd</strong> med handledare bufféer av olika slag. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven beskriver <strong>utförligt </strong>frukostbufféer i olika länder. Eleven beskriver också andra typer av bufféer <strong>utförligt</strong>. Eleven utför med<strong> gott </strong>handlag servering av mat och dryck i frukostmatsal och buffésammanhang. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i frukostmatsal och buffésammanhang samt arrangerar <strong>efter samråd</strong> med handledare bufféer av olika slag. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven beskriver <strong>utförligt och nyanserat </strong>frukostbufféer i olika länder. Eleven beskriver också andra typer av bufféer <strong>utförligt och nyanserat</strong>. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck i frukostmatsal och buffésammanhang. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SERSER01</h3>",
+      "code": "SERSER01",
+      "nameHeading": "<h2>Servering 1, 100 poäng</h2>",
+      "name": "Servering 1",
+      "englishName": "Serving 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen servering 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3 och 7. I kursen behandlas grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder, material, redskap och annan utrustning som används vid servering.</li> <li>Uppdukningar i matsal.</li> <li>Arbetsorganisation och servering av mat och dryck i matsal.</li> <li>Bärtekniker i matsal.</li> <li>Olika typer av serveringssätt, till exempel fatservering och bufféservering.</li> <li>Matsedlars och dryckeslistors uppbyggnad.</li> <li>Ansvarsfull alkoholservering och alkoholpolitik.</li> <li>Kommunikation, både verbal och icke verbal, gästbemötande, service och försäljning.</li> <li>Kassaarbete och kassarutiner.</li> <li>Lagar och andra bestämmelser inom området, till exempel i fråga om hygien, ergonomi och säkerhet samt ändamålsenlig klädsel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter i matsal. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån en given meny och dryckeslista samt utför med<strong> visst </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete <strong>i samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån en given meny och dryckeslista samt utför med<strong> gott </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete <strong>efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån en given meny och dryckeslista samt utför med<strong> mycket gott </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete <strong>efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SERSER02</h3>",
+      "code": "SERSER02",
+      "nameHeading": "<h2>Servering 2, 200 poäng</h2>",
+      "name": "Servering 2",
+      "englishName": "Serving 2",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen servering 2 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–6. I kursen behandlas fördjupade färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder, material, redskap och annan utrustning som används vid servering i matsal.</li> <li>Uppdukningar i matsal med specialbestick för olika typer av menyer.</li> <li>Trender och koncept för uppdukning och servering.</li> <li>Arbetsorganisation och samverkan i gästmatsal.</li> <li>Bärtekniker i matsal.</li> <li>Servering och uppläggning av mat vid bord i matsal.</li> <li>Matsedlar, deras uppbyggnad och innehåll samt måltidsrätter och matlagningstermer.</li> <li>Dryckesservering.</li> <li>Gästbemötande, service och försäljning.</li> <li>Kassaarbete, kassarutiner och redovisning.</li> <li>Kalkylering och prissättning.</li> <li>Arbetsmiljö och säkerhet samt lagar och andra bestämmelser inom området.</li> <li>Hygien och ändamålsenlig klädsel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> visst </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete och kassaredovisning<strong> i samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter </strong><strong>samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> gott </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete och kassaredovisning<strong> efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med säkerhet</strong> mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> mycket gott </strong>handlag servering av mat och dryck i gästmatsal. Eleven arbetar <strong>med säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kassaarbete och kassaredovisning<strong> efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SERARR0</h3>",
+      "code": "SERARR0",
+      "nameHeading": "<h2>Arrangemang, 100 poäng</h2>",
+      "name": "Arrangemang",
+      "englishName": "Arrangement",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen arrangemang omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2. I kursen behandlas fördjupade färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder, material, redskap och annan utrustning som används vid servering i olika typer av matsalar och lokaler.</li> <li>Uppdukningar i matsal eller lokal utifrån olika teman och högtider.</li> <li>Rummets och bordets utformning och dekoration.</li> <li>Ceremoniella måltider.</li> <li>Planering, organisation och servering av mat och dryck vid olika beställningsarrangemang.</li> <li>Promemoria, arrangé och körschema. Utformning av matsedlar till offerter samt kuvertmatsedlar efter mallar till större middagar.</li> <li>Gästbemötande, service och försäljning.</li> <li>Kalkylering och prissättning.</li> <li>Ergonomi och säkerhet i arbetet.</li> <li>Hygien och ändamålsenlig klädsel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med viss säkerhet enkla</strong> bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> visst </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>i samråd </strong>med handledare<strong> </strong>samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>i samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med viss säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med viss säkerhet</strong> mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledaresamman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal eller lokal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning utifrån olika teman och högtider. Eleven skapar <strong>med säkerhet </strong>bordsdekorationer för olika arrangemang och ceremoniella måltider.</p><p>Eleven kombinerar, presenterar och rekommenderar <strong>med säkerhet </strong>mat och dryck utifrån meny och dryckeslista samt sätter samman promemorior, olika arrangé och matsedlar för gästers räkning. Eleven utför med<strong> mycket gott </strong>handlag servering av mat och dryck vid olika beställningsarrangemang med tanke på tidsåtgång, ekonomi och miljö samt sätter <strong>efter samråd </strong>med handledare<strong> </strong>samman körscheman för detta. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också kalkylering, prissättning och lönsamhetsberäkningar av olika beställningsarrangemang <strong>efter samråd </strong>med handledare. </p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SERMAF0</h3>",
+      "code": "SERMAF0",
+      "nameHeading": "<h2>Matsalshantverk, 100 poäng</h2>",
+      "name": "Matsalshantverk",
+      "englishName": "Dining room crafts",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen matsalshantverk omfattar punkterna 1–2, 4–5 och 7–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2. I kursen behandlas fördjupade färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Metoder, material, redskap och annan utrustning som används vid servering.</li> <li>Festuppdukningar i matsal med specialbestick för olika typer av menyer.</li> <li>Servettbrytning och hantering av linne.</li> <li>Arbetsorganisation och samverkan i matsal.</li> <li>Tillagning, uppläggning och servering av mat vid bord i gästmatsal, till exempel tranchering, fileing och flambering.</li> <li>Dekantering av viner.</li> <li>Gästbemötande, service och försäljning.</li> <li>Ergonomi, hygien och ändamålsenlig klädsel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften. Eleven utför <strong>med viss säkerhet </strong>festuppdukningar och servettbrytningar.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet</strong> mat och dryck utifrån meny och dryckeslista. Dessutom utför eleven med<strong> visst </strong>handlag tillagning, uppläggning och servering av maträtter vid gästens bord samt servering av dryck. Eleven dekanterar <strong>med viss säkerhet </strong>viner. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften. Eleven utför <strong>med viss säkerhet </strong>festuppdukningar och servettbrytningar.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån meny och dryckeslista. Dessutom utför eleven med<strong> gott </strong>handlag tillagning, uppläggning och servering av maträtter vid gästens bord samt servering av dryck. Eleven dekanterar <strong>med viss säkerhet </strong>viner. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter i matsal utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften. Eleven utför <strong>med säkerhet </strong>festuppdukningar och servettbrytningar.</p><p>Eleven presenterar och rekommenderar <strong>med säkerhet</strong> mat och dryck utifrån meny och dryckeslista. Dessutom utför eleven med<strong> mycket gott </strong>handlag tillagning, uppläggning och servering av maträtter vid gästens bord samt servering av dryck. Eleven dekanterar <strong>med säkerhet </strong>viner. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som säkert både för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SERSER00S</h3>",
+      "code": "SERSER00S",
+      "nameHeading": "<h2>Servering – specialisering, 100 poäng</h2>",
+      "name": "Servering – specialisering",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen servering – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–6. I kursen behandlas fördjupade färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Yrkesmässig servering inom valt specialiseringsområde. Området kan avgränsas av en speciell miljö eller ett speciellt sammanhang. Exempel på specialiseringsområden kan vara servering i samband med en speciell upplevelseaktivitet likaväl som vid ceremoniella måltider i samband med större arrangemang.</li> <li>Planering och mise en place.</li> <li>Metoder, material, redskap och annan utrustning som används vid servering i aktuell miljö.</li> <li>Uppdukningar eller motsvarande med eventuella specialbestick för olika typer av menyer i sammanhanget.</li> <li>Arbetsorganisation och samverkan inom specialiseringsområdet.</li> <li>Bärtekniker och logistik.</li> <li>Matsedlar eller motsvarande anpassat till aktuell aktivitet.</li> <li>Dryckesservering.</li> <li>Gästbemötande och service.</li> <li>Kalkylering och prissättning.</li> <li>Arbetsmiljö och säkerhet samt lagar och andra bestämmelser inom området.</li> <li>Hygien och ändamålsenlig klädsel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare olika arbetsuppgifter utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>i samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> visst </strong>handlag servering av mat och dryck i det aktuella sammanhanget. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>i samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också för aktiviteten relevant kalkylering och prissättning<strong> i samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med viss säkerhet </strong>mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> gott </strong>handlag servering av mat och dryck i det aktuella sammanhanget. Eleven arbetar <strong>med viss säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också för aktiviteten relevant kalkylering och prissättning<strong> efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare olika arbetsuppgifter utifrån de tidsramar som ska gälla för arbetets utförande. I planeringen väljer eleven <strong>efter samråd </strong>med handledare metoder, material, redskap och annan utrustning som passar för uppgiften.</p><p>Eleven presenterar och rekommenderar <strong>med säkerhet</strong> mat och dryck utifrån såväl tillfälle som given meny och dryckeslista samt utför med<strong> mycket gott </strong>handlag servering av mat och dryck i det aktuella sammanhanget. Eleven arbetar <strong>med säkerhet</strong> utifrån de bestämmelser som gäller för ansvarsfull alkoholservering. Dessutom bemöter eleven gästen och utför <strong>efter samråd </strong>med handledare arbetet på ett serviceinriktat sätt. Eleven utför också för aktiviteten relevant kalkylering och prissättning<strong> efter samråd </strong>med handledare.</p><p>Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra utifrån lagar och andra bestämmelser. När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.155Z"
+}

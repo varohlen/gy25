@@ -1,0 +1,181 @@
+{
+  "code": "DAC",
+  "name": "Däckstjänst",
+  "englishName": "Deck service",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:129",
+  "skolfsAndring": "2022:80",
+  "nameHeading": "<h2>Däckstjänst</h2>",
+  "description": "<p>Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg. </p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet däckstjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom däcksavdelningen och arbetsuppgifter som vaktgående däckspersonal. Den ska vidare leda till att eleverna utvecklar kunskaper i navigation och sjömanskap samt förmåga att sjömansmässigt handha fartyg och däcksutrustning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom däcksavdelningen. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt. </p><h4>Undervisningen i ämnet däckstjänst ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att utföra arbetsuppgifter som vaktgående däckspersonal eller fartygsbefäl.</li> <li>Förmåga att utföra driftsarbete inom däcksavdelningen på ett fartyg.</li> <li>Förmåga att utföra underhållsarbete inom däcksavdelningen på ett fartyg.</li> <li>Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på ett sjömansmässigt sätt.</li> <li>Förmåga att samarbeta och kommunicera med ett för yrket relevant fackspråk.</li> <li>Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom däcksavdelningen på ett fartyg.</li> <li>Kunskaper om lagar och andra bestämmelser som reglerar området. </li> </ol><h3>Kurser i ämnet</h3><ul><li>Däckstjänst 1, 300 poäng. </li> <li>Däckstjänst 2, 300 poäng, som bygger på kursen däckstjänst 1.</li> <li>Fartygsbefäl, 100 poäng. </li> <li>Radiokommunikation till sjöss, 50 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: DACDAC01</h3>",
+      "code": "DACDAC01",
+      "nameHeading": "<h2>Däckstjänst 1, 300 poäng</h2>",
+      "name": "Däckstjänst 1",
+      "englishName": "Deck service 1",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen däckstjänst 1 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll: </i></p><p><strong><strong>Vakthållning på handelsfartyg</strong></strong> </p><ul> <li>Vakthållningens organisation.</li> <li>Överlämning av vakten.</li> <li>Ordergivning och kommunikation med vakthavande befäl.</li> <li>Fartygsterminologi. </li> </ul><p> <strong><strong>Rorsmannens arbetsuppgifter</strong></strong> </p><ul> <li>Roderindikator, magnet- och gyrokompass.</li> <li>Handstyrning och omkoppling till automatstyrning.</li> <li>Roderorder på svenska och engelska. </li> </ul><p> <strong><strong>Utkikens arbetsuppgifter</strong></strong> </p><ul> <li>Sjömärken samt fartygs dager-, ljus- och ljudsignaler.</li> <li>Grundläggande internationella sjövägsregler.</li> <li>Rapportering med riktning och bäring. </li> </ul><p> <strong><strong>Övriga arbetsuppgifter vid vakthållning</strong></strong> </p><ul> <li>Förtöjning, bogsering och ankring.</li> <li>Kontroll och riggning av lotslejdare.</li> <li>Lastning och stuvning av förråd på fartyg.</li> <li>Grundläggande underhållsarbete samt verktygskunskap. </li> </ul><p> <strong> </strong></p>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven <strong>enkla </strong>problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven <strong>översiktligt </strong>för<strong> </strong>lagar och andra bestämmelser som styr vakthållning på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya </strong>situationer. I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven <strong>utförligt </strong>för<strong> </strong>lagar och andra bestämmelser som styr vakthållning på handelsfartyg. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val. Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya </strong>situationer. I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven <strong>utförligt </strong>för<strong> </strong>lagar och andra bestämmelser som styr vakthållning på handelsfartyg. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DACDAC02</h3>",
+      "code": "DACDAC02",
+      "nameHeading": "<h2>Däckstjänst 2, 300 poäng</h2>",
+      "name": "Däckstjänst 2",
+      "englishName": "Deck service 2",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen Däckstjänst 2 omfattar punkterna 2–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3 och 6. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i><i>Undervisningen i kursen ska behandla följande centrala innehåll: </i></i></p><p><strong>Driftsarbete</strong> </p><ul> <li>Procedurer och kommunikation vid förtöjning, ankring och koppling av bogserbåt.</li> <li>Riggning av fallrep, lyftanordningar, båtsmansstol och ställning.</li> <li>Knopar, splitsning och tagling.</li> <li>Fastknopning, hissning och halning av flaggor.</li> <li>Betydelsen av de mest använda signalflaggorna.</li> <li>Förtöjnings- och ankringsteori och terminologi. </li> </ul><p> <strong>Underhållsarbete</strong> </p><ul> <li>Planerat underhåll och underhållssystem.</li> <li>Underhåll av konstruktioner och utrustning.</li> <li>Underhåll av handverktyg.</li> <li>Ytbehandlingstekniker och målningsmetoder.</li> <li>Förvaring och underhåll av förtöjningsgods och tågvirke. </li> </ul><p> <strong>Tekniska konstruktioner och teknisk utrustning</strong> </p><ul> <li>Förtöjningsutrustning.</li> <li>Förtöjningsgods och tågvirke.</li> <li>Ankringsutrustning.</li> <li>Bogseringsarrangemang.</li> <li>El- och luftdrivna handverktyg. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt </strong>sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven <strong>enkla </strong>problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt </strong>sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya </strong>situationer. I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat </strong>sina val. Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya </strong>situationer. I arbetet löser eleven <strong>komplexa</strong> problem som uppstår och anpassar <strong>med säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DACFAR0</h3>",
+      "code": "DACFAR0",
+      "nameHeading": "<h2>Fartygsbefäl, 100 poäng</h2>",
+      "name": "Fartygsbefäl",
+      "englishName": "Bridge command",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen fartygsbefäl omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Bryggtjänst</strong> </p><ul> <li>Navigation.</li> <li>Elektroniska navigationshjälpmedel.</li> <li>Meteorologi.</li> <li>Svenska och internationella sjövägsregler.</li> <li>Vakthållning på fartygs brygga.</li> <li>Radar.</li> </ul><p> <strong>Miljö- och fartygsteknik</strong> </p><ul> <li>Fartygsstabilitet.</li> <li>Fartygsmanövrering.</li> <li>Skydd av den marina miljön.</li> <li>Manöver- och maskinsystem.</li> <li>Lagar och andra bestämmelser.</li> </ul><p> <strong>Säkerhet</strong> </p><ul> <li>Brandskydd.</li> <li>Hälso- och sjukvård.</li> <li>Personlig säkerhet.</li> <li>Passagerarsäkerhet.</li> <li>Nödåtgärder.</li> <li>Lagar och andra bestämmelser. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför <strong>i samråd </strong>med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven <strong>enkla</strong> problem som uppstår. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven beskriver <strong>översiktligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar <strong>enkla </strong>slutsatser om sambanden mellan risker och arbetsmetoder.</p><p>Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven <strong>översiktligt</strong> för de lagar och andra bestämmelser som gäller inom området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför <strong>efter samråd </strong>med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven problem som uppstår. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven beskriver <strong>utförligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar <strong>välgrundade </strong>slutsatser om sambanden mellan risker och arbetsmetoder.</p><p>Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven <strong>utförligt</strong> för de lagar och andra bestämmelser som gäller inom området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare navigatoriska uppgifter och använder <strong>med säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför <strong>efter samråd </strong>med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven <strong>komplexa</strong> problem som uppstår. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar <strong>välgrundade och nyanserade </strong>slutsatser om sambanden mellan risker och arbetsmetoder.</p><p>Eleven använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven <strong>utförligt </strong>för de lagar och andra bestämmelser som gäller inom området.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DACRAD0</h3>",
+      "code": "DACRAD0",
+      "nameHeading": "<h2>Radiokommunikation till sjöss, 50 poäng</h2>",
+      "name": "Radiokommunikation till sjöss",
+      "englishName": "Radio communication at sea",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen radiokommunikation till sjöss omfattar punkterna 1 och 5–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i><i>Undervisningen i kursen ska behandla följande centrala innehåll</i></i>:</p><ul> <li>Globalt marint nöd- och säkerhetssystem (GMDSS).</li> <li>Radioteknik.</li> <li>Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages<i> </i>(NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.</li> <li>Strömförsörjning.</li> <li>Falsklarm i GMDSS.</li> <li>Sjöräddning.</li> <li>Satellitkommunikation.</li> <li>Automatic Identification System (AIS). </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven <strong>översiktligt</strong> GMDSS-systemet samt sjöräddningens organisation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven <strong>utförligt</strong> GMDSS-systemet samt sjöräddningens organisation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare uppgifter i samband med radiokommunikation och använder <strong>med säkerhet</strong> radioutrustning. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven kommunicerar och använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> GMDSS-systemet samt sjöräddningens organisation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.961Z"
+}

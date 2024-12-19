@@ -1,0 +1,78 @@
+{
+  "code": "KONA",
+  "name": "Konstarterna och samhället",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:22",
+  "nameHeading": "<h2>Konstarterna och samhället</h2>",
+  "description": "<p>Ämnet konstarterna och samhället är till sin karaktär tvärvetenskapligt. I ämnet behandlas konstarternas historia, kulturströmningar och sambandet mellan kulturhistoria, samtida idéer och kulturens spegling av samhället och samhällsförändringar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet konstarterna och samhället ska syfta till att eleverna utvecklar kunskaper om konstarternas historia och om samtida konst- och kulturyttringar. Den ska även leda till att eleverna utvecklar kunskaper om vad som kan menas med kultur och vad detta begrepp omfattar.</p> <p>Undervisningen ska ge eleverna möjlighet att bekanta sig med de konstnärliga uttryckens mångfald och rikedom samt öka elevernas beredskap att ta till sig även sådant som kan te sig nytt och främmande. Genom undervisningen ska eleverna ges möjlighet att utveckla ett reflekterande och kritiskt tänkande om konstarterna och konstens roll i samhället, till exempel konstens möjlighet att belysa och problematisera frågor om inflytande och delaktighet. Vidare ska undervisningen bidra till att eleverna utvecklar kreativitet och intresse för eget skapande.</p> <p>Att analysera, tolka och uppleva olika slags konstarter och deras olika uttrycksformer, ska utgöra en väsentlig del av undervisningen. Undervisningen ska varva teori och praktiska inslag med betoning på både reflektion och upplevelse. Den ska också stimulera eleverna att pröva olika uttryck och presentationsformer med hjälp av olika medier. Undervisningen ska vidare ge utrymme för studiebesök och kulturupplevelser av olika slag.</p> <h5><em>Undervisningen i ämnet konstarterna och samhället ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om konstarternas historia och om samtida kulturuttryck.</li> <li>Förmåga att sätta in konstarternas historiska utveckling i ett samhällsperspektiv.</li> <li>Kunskaper om kulturbegreppets olika innebörder och centrala tankegångar inom estetiken.</li> <li>Kunskaper om vad som har kännetecknat och kännetecknar kreativa miljöer samt om skapandets villkor för olika grupper.</li> <li>Förmåga att analysera och tolka konst och kulturuttryck.</li> </ul><h3>Nivåer i ämnet konstarterna och samhället</h3><ul><li>Nivå 1, 50 poäng. Betyg i konstarterna och samhället som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i konst och kultur som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i konstarterna och samhället som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i konst och kultur som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KONA1000X</h3>",
+      "code": "KONA1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konstarterna och samhället på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Konstarterna och kulturbegreppet</em></p> <ul> <li>Introduktion till konstarternas historia och de mest centrala epokerna.</li> <li>Betydelsefulla kulturskapare och kulturella verk i någon eller några konstarter under olika epoker.</li> <li>Orientering i aktuella samtida kulturuttryck och dess olika genrer inom någon eller några konstarter.</li> <li>Introduktion till olika samband mellan samhällsförändringar och konstnärliga uttrycksformer under olika tider.</li> <li>Introduktion till kulturbegreppet, däribland det humanistiska.</li> <li>Föreställningar om etablerad kultur, populärkultur och subkultur.</li> </ul> <p><em>Kreativa miljöer</em></p> <ul> <li>Främjande faktorer för det kreativa, konstnärliga utövandet i olika miljöer, historiska och nutida, till exempel betydelsen av mötesplatser, mecenater och kulturell mångfald.</li> <li>Villkoren för konstnärlig kreativ verksamhet, till exempel vilken betydelse som genus har och har haft för villkoren.</li> </ul> <p><em>Analys och tolkning</em></p> <ul> <li>Konstens koppling till yttrandefrihet.</li> <li>Analys, tolkning och samtal om olika kultur- och konstföreteelser, med hjälp av relevanta begrepp, metoder och teorier, till exempel kultur- och konstföreteelser i det egna skapande arbetet.</li> <li>Samtal om några konstarters särskilda uttrycksmedel och samspel med varandra.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KONA2000X</h3>",
+      "code": "KONA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet konstarterna och samhället på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Konstarterna och kulturbegreppet</em></p> <ul> <li>Orientering i konstarternas historia till och med nutid.</li> <li>Den nutida indelningen av konstarternas historia i epoker, vad som kännetecknar dessa samt problematisering av epokindelningar.</li> <li>Kulturutövare och kulturella verk från olika epoker och för relevanta kultursfärer inom det valda konstnärliga området.</li> <li>Orientering i aktuella samtida kulturuttryck och olika genrer samt fördjupning inom något relevant konstnärligt område.</li> <li>Samband mellan samhällsförändringar, konstnärliga uttrycksformer och tankeströmningar under olika epoker.</li> <li>Hur teknik och innovationer har påverkat och påverkar kulturutövandet och möjligheten att nå ut till en publik och det omgivande samhället.</li> <li>Kulturbegreppets olika innebörder samt aspekter av det estetiska tänkandets historia och olika avgränsningar av begreppet kultur.</li> <li>Olika föreställningar om etablerad kultur, populärkultur och folklig kultur genom historien.</li> </ul> <p><em>Kreativa miljöer</em></p> <ul> <li>Främjande faktorer för det kreativa, konstnärliga utövandet i olika miljöer, till exempel staden som kulturmiljö, både ur ett historiskt och samtida perspektiv.</li> <li>Villkoren för kreativ konstnärlig verksamhet, hur de har skiftat över tid och i olika miljöer samt betydelsen av genus, klass och annan grupptillhörighet eller social kategori.</li> </ul> <p><em>Analys och tolkning</em></p> <ul> <li>Konstens och kulturens förhållande till makt och överhet, till exempel i frågor som rör yttrandefrihet, demokrati och censur.</li> <li>Analys och tolkning av samt fördjupade samtal om olika kultur- och konstföreteelser med hjälp av relevanta begrepp, metoder och teorier. Däribland tolkning av det egna skapande arbetet och analys av till exempel, hur normer, värderingar och maktordningar uttrycks i olika konstnärliga verk.</li> <li>Särskilda uttrycksmedel i olika konstarter och samspelet mellan olika konstarter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för konstarternas historiska utveckling och visar <strong>godtagbara</strong> kunskaper om vanliga epokindelningar och genrer.</p> <p>Eleven för <strong>enkla</strong> resonemang om samband mellan konstnärliga uttryck och samhällsförändringar.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika sätt att använda kulturbegreppet och olika historiska föreställningar om kultur och estetik.</p> <p>Eleven för <strong>enkla</strong> resonemang om kreativa miljöers kännetecken och om skapandets villkor för olika grupper.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av konst- och kulturuttryck.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för konstarternas historiska utveckling och visar <strong>goda</strong> kunskaper om vanliga epokindelningar och genrer.</p> <p>Eleven för <strong>välgrundade</strong> resonemang om samband mellan konstnärliga uttryck och samhällsförändringar.</p> <p>Eleven redogör <strong>utförligt</strong> för olika sätt att använda kulturbegreppet och olika historiska föreställningar om kultur och estetik.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om kreativa miljöers kännetecken och om skapandets villkor för olika grupper.</p> <p>Eleven gör <strong>relativt avancerade</strong> analyser och tolkningar av konst- och kulturuttryck.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för konstarternas historiska utveckling och visar <strong>mycket goda</strong> kunskaper om vanliga epokindelningar och genrer.</p> <p>Eleven för <strong>välgrundade och nyanserade</strong> resonemang om samband mellan konstnärliga uttryck och samhällsförändringar.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika sätt att använda kulturbegreppet och olika historiska föreställningar om kultur och estetik.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om kreativa miljöers kännetecken och om skapandets villkor för olika grupper.</p> <p>Eleven gör <strong>avancerade</strong> analyser och tolkningar av konst- och kulturuttryck.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.029Z"
+}

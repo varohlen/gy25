@@ -1,0 +1,78 @@
+{
+  "code": "WEBB",
+  "name": "Webbutveckling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:263",
+  "nameHeading": "<h2>Webbutveckling</h2>",
+  "description": "<p>Ämnet webbutveckling behandlar de tekniker som används för att presentera och bearbeta information i webbläsaren. Ämnet behandlar även hur statiska och dynamiska webbsidor, webbplatser eller webbapplikationer skapas och vidareutvecklas. Webben som plattform har stor samhällspåverkan och har revolutionerat interaktionen mellan individer, myndigheter, företag och andra organisationer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet webbutveckling ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av olika webbtekniker. Undervisningen ska bidra till att eleverna utvecklar förståelse av hur webbteknik har utvecklats och används i samhället.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt om samspelet mellan beställare, användare, formgivare och utvecklare. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder och riktlinjer för god praxis, användbarhet och tillgänglighet. Undervisningen ska även leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra webbrelaterade etiska överväganden.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda verktyg för att producera och kontrollera den kod som hanteras av webbklienten. Eleverna ska även ges möjlighet att utveckla förmåga att använda relevant terminologi.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta praktiskt med utveckling av delar till en webbplats. Undervisningen ska också ge eleverna tillfälle till arbete i projektform. På så vis ska eleverna ges möjlighet att omsätta sina kunskaper i webbutveckling till omdömesgilla handlingar.</p> <h5><em>Undervisningen i ämnet webbutveckling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om webbens betydelse och funktion.</li> <li>Förmåga att skapa webblösningar med anpassning till syfte, användare och tillgänglighet.</li> <li>Förmåga att planera, genomföra och utvärdera webbutvecklingsprojekt.</li> <li>Förmåga att göra etiska överväganden och arbeta i enlighet med lagar och andra bestämmelser inom webbutveckling.</li> </ul><h3>Nivåer i ämnet webbutveckling</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: WEBB1000X</h3>",
+      "code": "WEBB1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet webbutveckling på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Webbens betydelse och funktion</em></p> <ul> <li>Webben som plattform och dess samhällspåverkan.</li> <li>Teknisk orientering om webbens protokoll, adresser och samspelet mellan klient och server.</li> <li>Grundläggande terminologi inom området webbutveckling.</li> </ul> <p><em>Webbsidor</em></p> <ul> <li>Märkspråk och deras inbördes roller, syntax och semantik med fokus på standarderna för HTML (hypertext markup language) och CSS (cascading style sheets).</li> <li>Skapande av webbsidor med HTML och CSS.</li> <li>Introduktion till responsiv design.</li> <li>Översikt av alternativa metoder för att skapa och redigera webbsidor.</li> <li>Användning av bilder och media i lämpliga format för webben.</li> <li>Kvalitetssäkring av webblösningars funktion och validering av koders kvalitet.</li> <li>Teckenkodning, begrepp, standarder och handhavande.</li> <li>Introduktion till typsnitt, färgscheman och principer för layout av gränssnitt.</li> <li>Orientering om javascript och DOM (dokumentobjektsmodellen).</li> </ul> <p><em>Tillgänglighet</em></p> <ul> <li>Riktlinjer för god praxis och tillgänglighet inom webbutveckling.</li> <li>Introduktion till hantering och anpassning av kod, bilder och media för att uppnå tillgänglighet.</li> <li>Interoperabilitet genom standarder och testning på olika användaragenter.</li> </ul> <p><em>Webbutvecklingsprocessen</em></p> <ul> <li>Utvecklingsprocessen för ett mindre webbprojekt med målsättning, planering och specifikation av struktur och design. Kodning och verifiering av funktion och dokumentation.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Riktlinjer, lagar och andra bestämmelser som styr hantering av digital information, till exempel upphovsrätt och bestämmelser som gäller hantering av personuppgifter.</li> <li>Etiska överväganden i samband med webbutveckling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: WEBB2000X</h3>",
+      "code": "WEBB2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet webbutveckling på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Webbens betydelse och funktion</em></p> <ul> <li>Webben som plattform för applikationer av olika slag.</li> <li>Terminologi inom området webbutveckling.</li> </ul> <p><em>Webbsidor</em></p> <ul> <li>Fördjupning i märkspråk där det huvudsakliga innehållet är standarderna för HTML (hypertext markup language) och CSS (cascading style sheets) med fokus på responsiv design.</li> <li>Användning av verktyg och metoder för att effektivisera kodskapande, till exempel variabler för att förenkla CSS-kod.</li> <li>Användning av ramverk eller klassbibliotek inom design eller skriptspråk.</li> <li>Bilder, ljud, video och två- eller tredimensionell interaktiv grafik för webbapplikationer.</li> <li>Kvalitetssäkring av webblösningars funktion och validering av koders kvalitet.</li> <li>Typsnitt, färgscheman och principer för layout av gränssnitt samt bakomliggande teorier.</li> <li>Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodellen.</li> <li>Hot och sårbarheter som dynamiska lösningar riskerar att medföra samt hur dessa kan motverkas.</li> </ul> <p><em>Tillgänglighet</em></p> <ul> <li>Riktlinjer för god praxis och tillgänglighet inom webbutveckling.</li> <li>Hantering och anpassning av kod, bilder och media för att uppnå tillgänglighet.</li> <li>Hur interoperabilitet genom standarder och testning på olika plattformar kan uppnås.</li> </ul> <p><em>Webbutvecklingsprocessen</em></p> <ul> <li>Utvecklingsprocessen för ett webbprojekt med målsättning, planering och specifikation av struktur och design. Kodning, optimering, testning, dokumentation och uppföljning.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Riktlinjer, lagar och andra bestämmelser som styr hantering av digital information, däribland upphovsrätt samt bestämmelser som gäller hantering av personuppgifter och användning av kakor.</li> <li>Etiska överväganden i samband med webbutveckling.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om webbens betydelse och funktion.</p> <p>Eleven skapar webblösningar med <strong>viss</strong> anpassning till syfte, användare och tillgänglighet.</p> <p>Eleven planerar och genomför webbutvecklingsprojekt med <strong>viss säkerhet</strong>. Eleven utvärderar process och resultat med <strong>enkla</strong> omdömen.</p> <p>Eleven gör med <strong>viss säkerhet</strong> etiska överväganden samt arbetar i enlighet med lagar och andra bestämmelser inom webbutveckling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om webbens betydelse och funktion.</p> <p>Eleven skapar webblösningar med <strong>god</strong> anpassning till syfte, användare och tillgänglighet.</p> <p>Eleven planerar och genomför webbutvecklingsprojekt med <strong>säkerhet</strong>. Eleven utvärderar process och resultat med <strong>utvecklade</strong> omdömen.</p> <p>Eleven gör med <strong>säkerhet</strong> etiska överväganden samt arbetar i enlighet med lagar och andra bestämmelser inom webbutveckling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om webbens betydelse och funktion.</p> <p>Eleven skapar webblösningar med <strong>mycket god</strong> anpassning till syfte, användare och tillgänglighet.</p> <p>Eleven planerar och genomför webbutvecklingsprojekt med <strong>god säkerhet</strong>. Eleven utvärderar process och resultat med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven gör med <strong>god säkerhet</strong> etiska överväganden samt arbetar i enlighet med lagar och andra bestämmelser inom webbutveckling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.102Z"
+}

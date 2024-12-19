@@ -1,0 +1,234 @@
+{
+  "code": "INSR",
+  "name": "Instrument eller sång",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:308",
+  "nameHeading": "<h2>Instrument eller sång</h2>",
+  "description": "<p>Musik finns i alla kulturer och berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform och har olika funktioner och betydelser för var och en av oss. Instrument eller sång av olika slag används för att gestalta musik i en mängd sammanhang och har sin grund i konstnärligt uttryck, musikaliskt hantverk och praktisk tillämpning av musikens teori.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i instrument eller sång ska syfta till att eleverna utvecklar kunskaper om musik och färdigheter i musicerande. Eleverna ska även ges möjlighet att utveckla förmåga att gestalta musik med sitt instrument eller sin sång, både solistiskt och i ensemble. Undervisningen ska dessutom ge eleverna möjlighet att utveckla kunskaper om instrumentets eller röstens konstruktion, funktion och egenskaper, samt om röstens fysiologi och om närliggande musikteknisk utrustning. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kommunicera med medmusiker och publik. Undervisningen ska ge eleverna möjlighet att genom sitt musikutövande aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera och tolka musik, både utifrån sitt specifika instrument och utifrån olika musikupplevelser. Genom undervisningen ska eleverna dessutom ges möjlighet att reflektera över och värdera sin egen och andras musikaliska gestaltning. Vidare ska undervisningen bidra till att eleverna utvecklar kreativitet samt förståelse av samband mellan detalj och helhet. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om arbetsmiljöns betydelse för musiker.</p> <p>Genom undervisningen ska eleverna ges möjlighet att pröva och utveckla olika metoder för sin musikinstudering och färdighetsträning. Eleverna ska också genom att studera och utöva musik från olika tider, kulturer och stilarter ges möjlighet till en genrebreddning. Genom att arbeta praktiskt med musiken från både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med en konstnärlig kvalitet. Undervisningen ska ta fasta på att stärka elevernas motivation, nyfikenhet och självförtroende i musikutövandet.</p> <p>Ansvarstagande för eget arbete och förmåga att arbeta i grupp är viktigt i musiken. Därför ska eleverna ges möjlighet att musicera tillsammans med andra.</p> <h5><em>Undervisningen i instrument eller sång ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att musicera instrumentalt eller vokalt.</li> <li>Förmåga att använda ett musikaliskt och personligt uttryck.</li> <li>Förmåga att studera in musik samt att ta ansvar för sin musikaliska färdighetsutveckling.</li> <li>Kunskaper om musik, begrepp och stildrag från olika tider och kulturer.</li> <li>Förmåga att kommunicera med medmusiker och publik.</li> <li>Kunskaper om instrumentets eller röstens konstruktion, funktion och egenskaper samt om arbetsmiljöfrågor och hållbart musicerande.</li> <li>Förmåga att använda relevant musikteknisk utrustning.</li> </ul><h3>Nivåer i ämnet</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INSR1000X</h3>",
+      "code": "INSR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i instrument eller sång på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Musicerande och instudering</em></p> <ul> <li>Instrumental spelteknik, alternativt sångteknik, däribland hållning, rörelse och instrumentspecifika metoder.</li> <li>Spel eller sång efter noter och på gehör samt gehörsövningar och notläsning av enkla notbilder.</li> <li>Grundläggande repertoar för det egna instrumentet, i stigande svårighetsgrad.</li> <li>Introduktion till improvisation, till exempel ornament, utsmyckningar och solospel, eller improvisation för den musikaliska träningen.</li> <li>Rytmik och frasering, dynamisk följsamhet och grundläggande interpretation som verktyg för att uttrycka sig musikaliskt och personligt.</li> <li>Musikaliska instuderingsmetoder och övningsmetoder, däribland planering, genomförande och dokumentation.</li> </ul> <p><em>Tolkning och kommunikation</em></p> <ul> <li>Stil och form i musik från olika tider och kulturer samt för detta relevanta begrepp.</li> <li>Musikteoretiska kopplingar till praktiskt musicerande, däribland samband mellan notbild, tonart, taktart och gehör.</li> <li>Principer för att möta publik, till exempel presentation av program och medverkande samt scennärvaro.</li> <li>Samtal om, och mental träning inför och vid, framförande.</li> <li>Samarbete och kommunikation med ackompanjatör eller medmusiker vid repetitionsarbete.</li> </ul> <p><em>Instrument, teknik och arbetsmiljö</em></p> <ul> <li>Introduktion till instruments konstruktion eller röstens fysiologi samt instrumentets eller röstens egenskaper, däribland instrumentets eller röstens klangfärger och ljudmöjligheter.</li> <li>Metoder för instrument- eller röstvård.</li> <li>Arbetsmiljö vid musikutövning, däribland kroppskännedom, ergonomi och rörelser samt hörselvård.</li> <li>Introduktion till relevant musikteknisk utrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INSR2000X</h3>",
+      "code": "INSR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i instrument eller sång på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Musicerande och instudering</em></p> <ul> <li>Instrumental spelteknik, alternativt sångteknik, till exempel utförandepraxis vid tekniska övningsmoment. Målstyrd färdighetsträning.</li> <li>Spel eller sång efter noter och på gehör, utvecklade notbilder och a prima vista-läsning.</li> <li>Musikalitet, konstnärlighet och personligt uttryck, däribland artikulation och frasering, musikaliska ställningstaganden, klang och rytmiska variationer.</li> <li>Repertoar för det egna instrumentet i stigande svårighetsgrad, både brett och genrespecifikt.</li> <li>Improvisation, till exempel genom styrd eller fri form efter stil och genre, eller för musikalisk träning.</li> <li>Strategier och metoder för musikalisk instudering och övning, till exempel identifiering och lösning av speltekniska svårigheter.</li> </ul> <p><em>Tolkning och kommunikation</em></p> <ul> <li>Musikalisk tolkning, stil och form, både brett och genrespecifikt.</li> <li>Praktisk tillämpning av musikteori, till exempel genom steganalys, funktionsanalys, form och gehör.</li> <li>Musikalisk kommunikation vid framföranden.</li> <li>Metoder för mental träning och stresshantering inför och vid framträdanden.</li> <li>Konserter och andra former av publikframträdanden samt scennärvaro.</li> <li>Metoder för och genomförande av repetitionsarbete med ackompanjatör eller medmusiker.</li> </ul> <p><em>Instrument, teknik och arbetsmiljö</em></p> <ul> <li>Instrumentets eller röstens egenskaper, förutsättningar och möjligheter för olika sammanhang och ljudbilder.</li> <li>Arbetsmiljö vid musikutövning på olika platser, däribland ergonomi och rörelser, medhörning och ljudnivåer. Hållbarhet för musiker, däribland förebyggande av muskulära problem.</li> <li>Hantering av för ändamålet tillhörande kringutrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INSR3000X</h3>",
+      "code": "INSR3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h5>Undervisningen i instrument eller sång på nivå 3 ska behandla följande centrala innehåll:</h5> <p><em>Musicerande och instudering</em></p> <ul> <li>Instrumental spelteknik, alternativt sångteknik, däribland komplexa och tekniska spelmoment och övningar.</li> <li>Spel eller sång efter noter och på gehör, komplexa notbilder, a prima vista-läsning och direktspel på gehör.</li> <li>Konstnärligt och personligt uttryck vid musikframförande. Anpassning av musikmaterial efter varierade former och versioner och i kommunikation med en publik.</li> <li>Repertoar för det egna instrumentet, i en eller flera genrer.</li> <li>Genretypisk improvisation, till exempel solospel efter genre, eller improvisation för den musikaliska träningen.</li> <li>Strategier och metoder för autonomi i instudering, övning och repetition av musik.</li> <li>Utvärdering av förbättringsområden efter musikframförande.</li> </ul> <p><em>Tolkning och kommunikation</em></p> <ul> <li>Musikalisk tolkning, uppförandepraxis och form. Analys av och resonemang om eget och andras framförande.</li> <li>Musikteoretisk tillämpning och användning i olika musikaliska sammanhang, till exempel tonartsbyten och transponering.</li> <li>Musikalisk kommunikation med publik och medmusiker samt aktiv scennärvaro.</li> <li>Solistiskt framträdande, mental träning och stresshantering.</li> <li>Initiativtagande till samt planering och genomförande av repetitionsarbete tillsammans med medmusiker i olika situationer.</li> </ul> <p><em>Instrument, teknik och arbetsmiljö</em></p> <ul> <li>Instrumentets eller sångens möjligheter. Olika verktyg för digital samverkan.</li> <li>Olika metoder och verktyg som hjälpmedel för en god arbetsmiljö, till exempel för hälsosamma ljudnivåer och anpassad medhörning. Hållbarhet för musiker samt problemlösning vid fysiska besvär. Ergonomi, däribland rörelser för uppvärmning och för att motverka fysiska besvär.</li> <li>Hur musikutrustning används efter framförandets behov, till exempel för scen och studio.</li> </ul>"
+      }
+    }
+  ],
+  "appendix2List": [
+    {
+      "name": "Blockflöjt",
+      "code": "BLF"
+    },
+    {
+      "name": "Blåsinstrument övriga",
+      "code": "BLX"
+    },
+    {
+      "name": "Cello",
+      "code": "VCL"
+    },
+    {
+      "name": "Cembalo",
+      "code": "CEM"
+    },
+    {
+      "name": "Dragspel",
+      "code": "DRA"
+    },
+    {
+      "name": "Elbas",
+      "code": "ELB"
+    },
+    {
+      "name": "Elektroniskt digitalt instrument",
+      "code": "EDI"
+    },
+    {
+      "name": "Elgitarr",
+      "code": "ELG"
+    },
+    {
+      "name": "Fagott",
+      "code": "FAG"
+    },
+    {
+      "name": "Gitarr",
+      "code": "GIT"
+    },
+    {
+      "name": "Harpa",
+      "code": "HAR"
+    },
+    {
+      "name": "Horn",
+      "code": "HOR"
+    },
+    {
+      "name": "Klarinett",
+      "code": "KLA"
+    },
+    {
+      "name": "Klaverinstrument övriga",
+      "code": "KLX"
+    },
+    {
+      "name": "Knäppinstrument övriga",
+      "code": "KNX"
+    },
+    {
+      "name": "Kontrabas",
+      "code": "KBA"
+    },
+    {
+      "name": "Nyckelharpa",
+      "code": "NYC"
+    },
+    {
+      "name": "Oboe",
+      "code": "OBO"
+    },
+    {
+      "name": "Orgel",
+      "code": "ORG"
+    },
+    {
+      "name": "Piano",
+      "code": "PNO"
+    },
+    {
+      "name": "Saxofon",
+      "code": "SAX"
+    },
+    {
+      "name": "Slagverk",
+      "code": "SLV"
+    },
+    {
+      "name": "Slagverksinstrument övriga",
+      "code": "SLX"
+    },
+    {
+      "name": "Stråkinstrument övriga",
+      "code": "STX"
+    },
+    {
+      "name": "Synt",
+      "code": "SYN"
+    },
+    {
+      "name": "Sång",
+      "code": "SNG"
+    },
+    {
+      "name": "Trombon",
+      "code": "TRB"
+    },
+    {
+      "name": "Trumpet",
+      "code": "TRP"
+    },
+    {
+      "name": "Trumset",
+      "code": "TRM"
+    },
+    {
+      "name": "Tuba",
+      "code": "TUB"
+    },
+    {
+      "name": "Tvärfljöjt",
+      "code": "TVF"
+    },
+    {
+      "name": "Valthorn",
+      "code": "VLH"
+    },
+    {
+      "name": "Viola (Altfiol)",
+      "code": "VLA"
+    },
+    {
+      "name": "Violin (Fiol)",
+      "code": "VLN"
+    },
+    {
+      "name": "Övriga instrument",
+      "code": "XIN"
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven musicerar med <strong>viss säkerhet</strong> efter noter och på gehör.</p> <p>Eleven musicerar med <strong>godtagbar</strong> musikalisk kvalitet och med ett personligt uttryck.</p> <p>Eleven studerar in musik på ett <strong>i huvudsak fungerande</strong> sätt och tar med <strong>godtagbart</strong> resultat ansvar för att upprätthålla, utveckla och förfina sin spel- eller sångtekniska färdighet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om musik, musikaliska begrepp och genrespecifika stildrag.</p> <p>Eleven kommunicerar i sitt musicerande med såväl medmusiker som publik med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om instrumentets eller röstens konstruktion, funktion och egenskaper. Dessutom redogör eleven <strong>översiktligt</strong> för arbetsmiljöaspekter vid musicerande.</p> <p>Eleven hanterar instrumentspecifik och relevant musikteknisk utrustning med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven musicerar med <strong>säkerhet</strong> efter noter och på gehör.</p> <p>Eleven musicerar med <strong>god</strong> musikalisk kvalitet och med ett personligt uttryck.</p> <p>Eleven studerar in musik på ett <strong>fungerande</strong> sätt och tar med <strong>gott</strong> resultat ansvar för att upprätthålla, utveckla och förfina sin spel- eller sångtekniska färdighet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om musik, musikaliska begrepp och genrespecifika stildrag.</p> <p>Eleven kommunicerar i sitt musicerande med såväl medmusiker som publik med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om instrumentets eller röstens konstruktion, funktion och egenskaper. Dessutom redogör eleven <strong>utförligt</strong> för arbetsmiljöaspekter vid musicerande.</p> <p>Eleven hanterar instrumentspecifik och relevant musikteknisk utrustning med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven musicerar med <strong>god säkerhet</strong> efter noter och på gehör.</p> <p>Eleven musicerar med <strong>mycket god</strong> musikalisk kvalitet och med ett personligt uttryck.</p> <p>Eleven studerar in musik på ett <strong>väl fungerande</strong> sätt och tar med <strong>mycket gott</strong> resultat ansvar för att upprätthålla, utveckla och förfina sin spel- eller sångtekniska färdighet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om musik, musikaliska begrepp och genrespecifika stildrag.</p> <p>Eleven kommunicerar i sitt musicerande med såväl medmusiker som publik med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om instrumentets eller röstens konstruktion, funktion och egenskaper. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för arbetsmiljöaspekter vid musicerande.</p> <p>Eleven hanterar instrumentspecifik och relevant musikteknisk utrustning med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.024Z"
+}

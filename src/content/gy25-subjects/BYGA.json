@@ -1,0 +1,78 @@
+{
+  "code": "BYGA",
+  "name": "Byggnadsverk",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:185",
+  "nameHeading": "<h2>Byggnadsverk</h2>",
+  "description": "<p>Ämnet byggnadsverk behandlar byggnadstekniska system, dimensionering av byggnadsverk samt ritningskonstruktion. Dessutom behandlas etiska frågor som rör hållbar utveckling inom byggprocessen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet byggnadsverk ska syfta till att eleverna utvecklar kunskaper om byggnadsteknik, byggnadsfysik och byggnadsmaterial för hållbara byggnadsverk samt förståelse av sambandet mellan dessa. Därigenom ska eleverna ges möjlighet att utveckla kunskaper om materials egenskaper och hur material kan kombineras samt färdigheter i hur byggtekniska lösningar kan konstrueras och dimensioneras. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om hur den tekniska utvecklingen och krav på hållbar utveckling har påverkat och påverkar byggandet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om byggprocessen, från teori till praktiska tillämpningar. Eleverna ska även ges möjlighet att utveckla kunskaper om installationstekniska system i byggnadsverk.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda ritningar och teknisk dokumentation. Undervisningen ska leda till att eleverna utvecklar färdigheter i att använda relevanta datorprogram såsom cad-program, kalkylprogram eller projektstyrningsprogram inom samhällsbyggande. Dessutom ska eleverna ges möjlighet att utveckla förmåga att presentera fungerande lösningar som tar hänsyn till konstruktionstekniska, produktionstekniska, ekonomiska och miljömässiga förutsättningar.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet. Undervisningen ska dessutom ge utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom byggprocessen, från konstruktion till produktion.</p> <h5><em>Undervisningen i ämnet byggnadsverk ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om byggnadsteknik och konstruktionselement för byggnadsverk utifrån produktion och ekonomisk hållbarhet.</li> <li>Kunskaper om byggnadsmaterial och byggnadsfysik.</li> <li>Färdigheter i att dimensionera byggnadsverk utifrån funktion, konstruktion och miljömässig hållbarhet.</li> <li>Kunskaper om installationstekniska system i byggnadsverk.</li> <li>Färdigheter i att läsa, tolka och framställa ritningar och teknisk dokumentation med hjälp av relevanta verktyg.</li> </ul><h3>Nivåer i ämnet byggnadsverk</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BYGA1000X</h3>",
+      "code": "BYGA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet byggnadsverk på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Byggnadsteknik och konstruktionselement för byggnadsverk.</li> <li>Hur byggtekniska lösningar påverkas av produktionsramar och byggnadsekonomiska förutsättningar.</li> <li>Vanligt förekommande och viktiga byggnadsmaterial samt deras egenskaper och användningsområden.</li> <li>Byggnadsfysik, däribland värme, fukt, ljud och brand för byggnadsverk.</li> <li>Introduktion till installationstekniska system, till exempel ventilation, värme, sanitet och el i byggnadsverk.</li> <li>Läsning och tolkning av byggtekniska ritningar och beskrivningar, däribland plan-, fasad-, sektions- och detaljritningar.</li> <li>Framställning av ritningar och bygghandlingar med hjälp av relevanta verktyg som används inom området.</li> <li>Visualisering av konstruktioner utifrån byggtekniska ritningar med hjälp av relevanta verktyg.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BYGA2000X</h3>",
+      "code": "BYGA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet byggnadsverk på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Byggnadsteknik och konstruktionselement inom husbyggnad och anläggning, utifrån produktion och ekonomisk hållbarhet.</li> <li>Underhållsintervall för byggnader och byggmaterial samt åtgärder och underhållskostnader.</li> <li>Dimensionering av byggnadsverk utifrån byggnadsfysik och funktionskrav fastställda i Boverkets byggregler (BBR).</li> <li>Jämförelse av byggmaterial utifrån hållbarhetsaspekter med hänsyn till dess tillverkning, uppbyggnad, egenskaper, användningsområden och hantering vid rivning.</li> <li>Livscykelkostnader (LCC) för byggnader och hur en enkel livscykelanalys (LCA) görs.</li> <li>Installationstekniska system för ventilation, värme, sanitet och el i byggnadsverk samt dess påverkan på yttre och inre miljö.</li> <li>Framställning av byggtekniska ritningar och bygghandlingar, till exempel sektions- och detaljritningar, med hjälp av relevanta verktyg.</li> <li>Visualisering av konstruktioner utifrån byggtekniska ritningar och beskrivningar, med hjälp av relevanta verktyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om byggnadstekniska konstruktionslösningar utifrån produktionstekniska aspekter och ekonomisk hållbarhet.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika byggnadsmaterial och dess egenskaper.</p> <p>Eleven dimensionerar byggnadsverk med <strong>viss säkerhet</strong> utifrån funktion, konstruktion och miljömässig hållbarhet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om installationstekniska system i byggnadsverk.</p> <p>Eleven använder och framställer ritningar och tekniska beskrivningar med hjälp av relevanta verktyg med <strong>godtagbart</strong> resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om byggnadstekniska konstruktionslösningar utifrån produktionstekniska aspekter och ekonomisk hållbarhet.</p> <p>Eleven beskriver <strong>utförligt</strong> olika byggnadsmaterial och dess egenskaper.</p> <p>Eleven dimensionerar byggnadsverk med <strong>säkerhet</strong> utifrån funktion, konstruktion och miljömässig hållbarhet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om installationstekniska system i byggnadsverk.</p> <p>Eleven använder och framställer ritningar och tekniska beskrivningar med hjälp av relevanta verktyg med <strong>gott</strong> resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om byggnadstekniska konstruktionslösningar utifrån produktionstekniska aspekter och ekonomisk hållbarhet.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnadsmaterial och dess egenskaper.</p> <p>Eleven dimensionerar byggnadsverk med <strong>god säkerhet</strong> utifrån funktion, konstruktion och miljömässig hållbarhet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om installationstekniska system i byggnadsverk.</p> <p>Eleven använder och framställer ritningar och tekniska beskrivningar med hjälp av relevanta verktyg med <strong>mycket gott</strong> resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.975Z"
+}

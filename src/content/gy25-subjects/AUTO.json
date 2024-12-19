@@ -1,0 +1,78 @@
+{
+  "code": "AUTO",
+  "name": "Automatiserade processer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:161",
+  "nameHeading": "<h2>Automatiserade processer</h2>",
+  "description": "<p>Ämnet automatiserade processer behandlar uppbyggnad, funktion och användning av automatiserade system och processer inom tillverknings- och processindustrin med fördjupning inom något av dessa industriområden. Ämnet angränsar till många teknikområden, till exempel mätteknik, processteknik och produktionsteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet automatiserade processer ska syfta till att eleverna utvecklar kunskaper om processer, system, komponenter och utrustning som används inom tillverknings- och processindustrin. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om systemens användningsområden, uppbyggnad och funktion samt hur olika system kan styras och regleras. Eleverna ska också ges möjlighet att utveckla kunskaper om bakgrunden till, samt möjligheter och risker med, automatisering.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla system- och processförståelse genom att följa flödesscheman och ritningar för att identifiera komponenter och systemdelar. För att kunna använda programvara och utrustning på ett säkert sätt ska eleverna ges möjlighet att utveckla färdigheter i att tolka teknisk dokumentation och säkerhetsanvisningar. Genom undervisningen ska eleverna också ges möjlighet att utveckla färdigheter i att utforma ritningar och teknisk dokumentation samt förmåga att kommunicera inom området.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om och färdigheter i övervakning och styrning av processer inom något teknikområde. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om och färdigheter i mätteknik, elteknik, programmering och tillämpad matematik. Undervisningen ska också leda till att eleverna utvecklar förmåga att analysera och utvärdera utfört arbete. Dessutom ska undervisningen stimulera elevernas nyfikenhet och fortsatta lärande inom industriell systemteknik och automation.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett systematiskt och problemlösande arbetssätt och att arbeta i projekt. Med teoretiska och praktiska övningar ska undervisningen utveckla elevernas förmåga att utföra funktionskontroll, programmering, injustering och provning av vanligt förekommande system. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor och olika handlingsalternativ i arbete med automatiserade processer.</p> <h5><em>Undervisningen i ämnet automatiserade processer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om automation inom tillverknings- och processindustrin.</li> <li>Förmåga att använda utrustning, instrument och verktyg på ett säkert sätt utifrån tekniska underlag och säkerhetsanvisningar.</li> <li>Förmåga att använda teorier och metoder inom området samt att dokumentera och utvärdera sitt arbete.</li> </ul><h3>Nivåer i ämnet automatiserade processer</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AUTO1000X</h3>",
+      "code": "AUTO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automatiserade processer på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Industriell systemteknik</em></p> <ul> <li>Automatiserade processer med tillhörande begrepp, komponenter och programvaror.</li> <li>Systemens användningsområden, uppbyggnad och hierarki i automatiserade system mellan människa och maskin.</li> <li>Introduktion till system för övervakning och styrning av processer med hjälp av datorstyrd drift och användargränssnitt.</li> </ul> <p><em>Automationsteknik</em></p> <ul> <li>Mätteknik med olika givare, fysikaliska storheter och beräkningar inom något teknikområde.</li> <li>Logiska grundfunktioner och programmerbara styrsystem. Introduktion till PLC-programmering.</li> <li>Introduktion till olika reglermetoder och utrustning inom valda processer.</li> <li>Konstruktion, byggnation, programmering och driftsättning av automatiserad utrustning.</li> <li>Introduktion till industrins elsystem och elektriska kopplingar i en automatiserad anläggning.</li> <li>Arbetsmiljö och säkerhet utifrån instruktioner och i enlighet med lagar och andra bestämmelser inom området.</li> </ul> <p><em>Dokumentation</em></p> <ul> <li>Teorier och metoder inom automatiserad industri.</li> <li>Tolkning och användning av teknisk dokumentation, till exempel instruktioner, ritningar, scheman, symboler, standarder och funktionsbeskrivningar.</li> <li>Dokumentation av utfört arbete samt utvärdering av arbetsprocess och slutresultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AUTO2000X</h3>",
+      "code": "AUTO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet automatiserade processer på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Industriell systemteknik</em></p> <ul> <li>Automatiserade processer, system, komponenter och utrustning inom något teknikområde.</li> <li>System, uppbyggnad och funktion i automatiserade system mellan människa och maskin inom något teknikområde.</li> <li>System för övervakning och styrning av processer med hjälp av datorstyrd drift, till exempel DCS (distributed control system) och SCADA (supervisory control and data aquisition), från komponentnivå till hel process.</li> </ul> <p><em>Automationsteknik</em></p> <ul> <li>Kalibrering av olika givare och beräkningar inom något teknikområde.</li> <li>PLC-programmering, konfigurering och provning av systemfunktion.</li> <li>Programmering och bildhantering av HMI-system inom något teknikområde.</li> <li>Reglerteori och systemlösningar inom valt teknikområde med tillhörande mätteknik.</li> <li>Reglermetoder, däribland PID-regulatorn samt tillämpad matematik och inställningsmetoder.</li> <li>Konstruktion, byggnation, programmering och driftsättning av automatiserad utrustning.</li> <li>Industrins elsystem och elektriska kopplingar i en automatiserad anläggning.</li> <li>Arbetsmiljö och säkerhet utifrån instruktioner och i enlighet med lagar och andra bestämmelser inom området.</li> </ul> <p><em>Dokumentation</em></p> <ul> <li>Tillämpning av teorier och metoder inom något teknikområde.</li> <li>Framställning av ritningar, instruktioner, scheman och funktionsbeskrivningar för något teknikområde.</li> <li>Utvärdering av arbetsprocess och slutresultat samt förslag till förbättringar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om automatiserade processer och hur de används i praktiken.</p> <p>Eleven följer tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>viss</strong> skicklighet. Eleven följer säkerhetsanvisningar och utför vanligt förekommande arbeten i automatiserad utrustning med <strong>godtagbart</strong> resultat.</p> <p>Eleven använder teorier och metoder på ett <strong>i huvudsak fungerande</strong> sätt samt dokumenterar och utvärderar sitt arbete med <strong>enkla</strong> omdömen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om automatiserade processer och hur de används i praktiken.</p> <p>Eleven följer tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>god</strong> skicklighet. Eleven följer säkerhetsanvisningar och utför vanligt förekommande arbeten i automatiserad utrustning med <strong>gott</strong> resultat.</p> <p>Eleven använder teorier och metoder på ett <strong>fungerande</strong> sätt samt dokumenterar och utvärderar sitt arbete med <strong>utvecklade</strong> omdömen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om automatiserade processer och hur de används i praktiken.</p> <p>Eleven följer tekniska anvisningar och använder utrustning, instrument och verktyg med <strong>mycket god</strong> skicklighet. Eleven följer säkerhetsanvisningar och utför vanligt förekommande arbeten i automatiserad utrustning med <strong>mycket gott</strong> resultat.</p> <p>Eleven använder teorier och metoder på ett <strong>väl fungerande</strong> sätt samt dokumenterar och utvärderar sitt arbete med <strong>välutvecklade</strong> omdömen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.963Z"
+}

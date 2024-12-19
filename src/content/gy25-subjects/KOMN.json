@@ -1,0 +1,63 @@
+{
+  "code": "KOMN",
+  "name": "Komponenter och system – VVS",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:548",
+  "nameHeading": "<h2>Komponenter och system – VVS</h2>",
+  "description": "<p>Ämnet komponenter och system – VVS behandlar material för VVS-installationer på både komponent- och systemnivå. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet komponenter och system – VVS ska syfta till att eleverna utvecklar kunskaper om de komponenter som VVS-installationer består av samt deras funktion och uppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att välja komponenter som sätts samman till olika VVS-system.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika system för informationsöverföring inom projektering och utförande av VVS-installationer samt om hur systemen är uppbyggda. Genom undervisningen ska eleverna även ges möjlighet att få kännedom om branschens ansvar för hållbar utveckling. Undervisningen ska belysa hur materialval genomförs med hänsyn till miljö, tillgänglighet och säkerhet. På så vis ska eleverna ges möjlighet att utveckla förståelse av hur materialvalsprocessen kan bidra till ekonomiskt och miljömässigt hållbara VVS-installationer.</p> <p>Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor och olika handlingsalternativ inom VVS-installation. Undervisningen ska också innehålla laborativa inslag och problemlösande arbetssätt.</p> <h5><em>Undervisningen i ämnet komponenter och system – VVS ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om systemkomponenter och deras funktion inom VVS-området.</li> <li>Kunskaper om system för informationsöverföring inom VVS-installation.</li> <li>Kunskaper om entreprenadarbete inom VVS-anläggningar.</li> <li>Förmåga att välja komponenter för uppbyggnad av system inom VVS-området.</li> </ul><h3>Nivåer i ämnet komponenter och system – VVS</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KOMN100TX</h3>",
+      "code": "KOMN100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet komponenter och system – VVS på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Komponenter för installationer inom vatten och sanitet samt ventilation och komfortkyla. Faktorer som påverkar valet av komponenter.</li> <li>Trådbunden och trådlös kommunikation för övervakning och fjärrinspektion av VVS-installationer.</li> <li>Olika system inom VVS-området, till exempel för inomhusklimat, ventilation, komfortkyla, värme, tappvatten och avlopp.</li> <li>Entreprenadformer för VVS-anläggningar.</li> <li>Planering, installation och konfiguration av system för någon typ av VVS-installation utifrån givna förutsättningar och för ekonomisk och miljömässig hållbarhet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika systemkomponenter och deras funktion inom VVS-området.</p> <p>Eleven beskriver <strong>övergripande</strong> olika system för informationsöverföring inom VVS-installation.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om entreprenadarbete inom VVS-installation.</p> <p>Eleven väljer med <strong>säkerhet</strong> komponenter för uppbyggnad av någon typ av VVS-system.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika systemkomponenter och deras funktion inom VVS-området.</p> <p>Eleven beskriver <strong>utförligt</strong> olika system för informationsöverföring inom VVS-installation.</p> <p>Eleven visar <strong>goda</strong> kunskaper om entreprenadarbete inom VVS-installation.</p> <p>Eleven väljer med <strong>god säkerhet</strong> komponenter för uppbyggnad av någon typ av VVS-system.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika systemkomponenter och deras funktion inom VVS-området.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika system för informationsöverföring inom VVS-installation.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om entreprenadarbete inom VVS-installation.</p> <p>Eleven väljer med <strong>mycket god säkerhet</strong> komponenter för uppbyggnad av någon typ av VVS-system.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.029Z"
+}

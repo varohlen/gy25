@@ -1,0 +1,78 @@
+{
+  "code": "HALL",
+  "name": "Hållbar produktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:265",
+  "nameHeading": "<h2>Hållbar produktion</h2>",
+  "description": "<p>Ämnet hållbar produktion behandlar produktionsprocessen och dess olika delar. Ämnet tar upp olika produktionsfilosofier och beredning inför tillverkning. Ämnet behandlar även hur en ekonomiskt, socialt och miljömässigt hållbar produktion och process skapas.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hållbar produktion ska syfta till att eleverna utvecklar kunskaper om produktionsprocessen och dess stödfunktioner. Eleverna ska ges möjlighet att utveckla kunskaper om produktionsberedning samt produktionsprocessens olika delar och hur de samverkar, från idéframtagning och behovsanalys till slutgiltig produkt.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur utvecklingsarbete påverkar produkters design, funktion och kvalitet samt valet av material och produktionsmetod. Eleverna ska också ges möjlighet att utveckla kunskaper om produktionsfilosofi, dess innebörd och historia samt förståelse av relationen mellan en hållbar och konkurrenskraftig produktion och ekonomisk, social och miljömässig hållbarhet. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att lösa problem både teoretiskt och praktiskt avseende bland annat optimering och hållbarhet inom produktion.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om alternativa produktionstekniker för att möta framtidens behov av ett digitaliserat och hållbart samhälle. För att kunna göra effektiviseringar och föra produktionsekonomiska resonemang ska eleverna ges möjlighet att utveckla förmåga att utföra produktionstekniska beräkningar. Eleverna ska även ges möjlighet att utveckla förmåga att med hjälp av relevanta begrepp kommunicera om hållbar produktion. De ska också ges möjlighet att utveckla samarbetsförmåga samt förståelse av varför detta är viktigt för produktionen.</p> <p>Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i situationer i produktionsmiljö. Undervisningen ska lämna utrymme för diskussion om och reflektioner över etiska frågor och olika handlingsalternativ inom hållbar produktion.</p> <h5><em>Undervisningen i ämnet hållbar produktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om produktionsfilosofi och produktionsberedning samt produktionsprocessen och dess olika delar.</li> <li>Förmåga att använda begrepp och uttryck inom hållbar produktion.</li> <li>Kunskaper om hållbar och konkurrenskraftig produktion samt arbetsmiljö.</li> <li>Förmåga att göra produktionstekniska beräkningar.</li> <li>Kunskaper om samarbetets betydelse för en hållbar produktion.</li> </ul><h3>Nivåer i ämnet hållbar produktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALL1000X</h3>",
+      "code": "HALL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbar produktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen</em></p> <ul> <li>Produktionsprocessen och dess delar.</li> <li>Hur en produktionsidé utvecklas.</li> <li>Hur design och kvalitet påverkar produktionen.</li> <li>Produktionstekniska begrepp, till exempel arbetsplatsutformning, flödesupplägg och materialplanering.</li> <li>Introduktion till produktionssystem och tillhörande produktionsfilosofi.</li> <li>Kundorderstyrd produktion, till exempel behov och efterfrågan.</li> <li>Driftsäkerhet och underhåll av produktionsutrustning.</li> <li>Arbetsmiljö och säkerhet samt lagar och andra bestämmelser inom området.</li> <li>Ergonomins betydelse för en hållbar arbetsmiljö.</li> </ul> <p><em>Produktionsberedning</em></p> <ul> <li>Produktionsberedningens delar.</li> <li>Metoder, verktyg och arbetssätt för att främja en hållbar produktion ur ett ekonomiskt, socialt och miljömässigt perspektiv.</li> <li>Hur digitaliseringen påverkar produktionen vad gäller val av material, metod och teknik.</li> </ul> <p><em>Effektiviseringar och problemlösning</em></p> <ul> <li>Effektiviseringar och förbättringsarbete av produktion.</li> <li>Enklare beräkningar inom olika områden, däribland logistik, produktionsekonomi och kvalitet.</li> <li>Samarbetets betydelse, både internt och externt, för en fungerande, effektiv och hållbar produktion.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HALL2000X</h3>",
+      "code": "HALL2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hållbar produktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen</em></p> <ul> <li>Hur de olika delarna i produktionsprocessen interagerar med och påverkar varandra.</li> <li>Hur en produktionsidé påverkar en produkts design, funktion, kvalitet och hållbarhet.</li> <li>Tillämpning av produktionsfilosofi i ett produktionssystem.</li> <li>Tillämpning av relevanta produktionstekniska begrepp.</li> <li>Kundbehov, behovsanalys och konkurrenskraftig marknadsföring för att säkerställa produktens överlevnad.</li> <li>Val av material, metod och teknik för såväl produktion som driftsäkerhet och underhåll för ett fungerande produktionsflöde.</li> <li>Hållbarhetsredovisning som styrmedel.</li> <li>Analys av arbetsmiljö utifrån ergonomiska aspekter, lagar och andra bestämmelser.</li> <li>Tillämpade beräkningar inom olika områden, till exempel produktionsplanering, personalplanering och lagerföring.</li> <li>Produktionsekonomiska ställningstaganden och beräkningar, till exempel utifrån lönsamhet, marknadsföring och hållbar utveckling.</li> </ul> <p><em>Produktionsberedning</em></p> <ul> <li>Produktionsberedning utifrån ekonomisk, social och miljömässig hållbarhet.</li> <li>Produktionsmetoder och alternativa produktionstekniker för att möta framtidens behov i ett digitaliserat och hållbart samhälle.</li> </ul> <p><em>Effektivisering och problemlösning</em></p> <ul> <li>Innovation och utveckling av produktion genom systematiskt design- och kvalitetsarbete.</li> <li>Tillämpat arbete med effektivisering och förbättring av produktion. Arbete med ständiga förbättringar inom ramen för hållbar produktion.</li> <li>Analys av organisation och ledarskap för att främja samarbete och en fungerande, effektiv och hållbar produktion.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om produktionsfilosofins och produktionsberedningens betydelse för produktionen samt produktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven använder relevanta begrepp och uttryck på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om arbetsmiljö och hur en hållbar och konkurrenskraftig produktion skapas.</p> <p>Eleven utför <strong>i huvudsak fungerande</strong> produktionstekniska beräkningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om samarbetets betydelse för en hållbar produktion.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om produktionsfilosofins och produktionsberedningens betydelse för produktionen samt produktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven använder relevanta begrepp och uttryck på ett <strong>fungerande</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om arbetsmiljö och hur en hållbar och konkurrenskraftig produktion skapas.</p> <p>Eleven utför <strong>till stor del tydliga och korrekta</strong> produktionstekniska beräkningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om samarbetets betydelse för en hållbar produktion.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om produktionsfilosofins och produktionsberedningens betydelse för produktionen samt produktionsprocessens olika delar och hur de samverkar.</p> <p>Eleven använder relevanta begrepp och uttryck på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om arbetsmiljö och hur en hållbar och konkurrenskraftig produktion skapas.</p> <p>Eleven utför <strong>tydliga och korrekta</strong> produktionstekniska beräkningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om samarbetets betydelse för en hållbar produktion.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.012Z"
+}

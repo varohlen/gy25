@@ -1,0 +1,64 @@
+{
+  "code": "SPRI",
+  "name": "Sprinklerteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:120",
+  "nameHeading": "<h2>Sprinklerteknik</h2>",
+  "description": "<p>Ämnet sprinklerteknik behandlar uppbyggnad av och funktion hos sprinklersystem. Ämnet behandlar även betydelsen av en effektiv säkerhetsnivå enligt regelverk inom bygglagstiftning och brandskydd.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sprinklerteknik ska syfta till att eleverna utvecklar kunskaper om olika sprinklersystem, deras funktion och uppbyggnad. Undervisningen ska även leda till att eleverna utvecklar kunskaper om bygglagstiftning och brandskyddsregler. Därtill ska undervisningen ge eleverna möjlighet att utveckla förmåga att montera, provtrycka och driftsätta samt utföra service och underhåll av sprinklersystem. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbar utveckling. Produkt- och teknikutvecklingen inom arbetsområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera material och utrustning på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda ritningar, instruktioner och arbetsbeskrivningar. Eleverna ska utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för arbetsområdet samt förebygga och hantera risker i den egna arbetsmiljön. Därtill ska eleverna ges möjlighet att utveckla en känsla för installationernas estetiska utformning samt servicekänsla i yrkesutövandet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna även ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>Undervisningen ska bedrivas så att teoretiska och praktiska kunskaper vävs samma till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder och utrustning som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet sprinklerteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika sprinkleranläggningars uppbyggnad och funktion samt om lagar och andra bestämmelser inom yrkesområdet.</li> <li>Förmåga att installera och underhålla sprinklersystem, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material, verktyg och maskiner.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet sprinklerteknik</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPRI1000X</h3>",
+      "code": "SPRI1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sprinklerteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika sprinklersystem, däribland vattensprinklersystem.</li> <li>Anläggningar, system, apparater och komponenter för sprinkler samt deras uppbyggnad och funktion.</li> <li>Vattenförsörjning för sprinkleranläggningar.</li> <li>El och larmfunktioner i sprinkleranläggningar.</li> <li>Gränsdragning mot andra teknikområden.</li> <li>Lagar och andra bestämmelser inom området, däribland regler och normer från Brandskyddsföreningen Sverige (SBF), Boverkets byggregler (BBR) och Europanormer samt miljökrav.</li> <li>Tolkning och användning av ritningar och arbetsbeskrivningar specifikt för sprinklerinstallationer.</li> <li>Planering och organisering av arbetsplatser och arbetsuppgifter vid arbete med sprinklerinstallationer på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Placering och förläggningssätt av rör.</li> <li>Montering med grundläggande hantverkstekniker med lämpliga verktyg och maskiner för material och förläggningssätt.</li> <li>Praktisk tillämpning av fogningsteknik, däribland rillning och gängfogar.</li> <li>Måttsättning, avsättning och fogberedning vid montering.</li> <li>Montering och placering vid installation av vanligt förekommande sprinklerutrustning.</li> <li>Felsökning, reparationer samt service- och underhållsarbete.</li> <li>Kontroll och provning samt utvärdering av arbetet.</li> <li>Dokumentation av installation och genomförda arbeten enligt arbetsbeskrivning.</li> <li>Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Säkra arbetssätt för den egna personen och för den som ska använda installationen.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Val och säker hantering av material i rör, komponenter och apparater, däribland för korrosionsskydd vid inre och yttre påverkan.</li> <li>Val och säker hantering av verktyg, maskiner och övriga hjälpmedel vid montering av anläggningar.</li> <li>Användning av begrepp och beteckningar inom yrkesområdet.</li> <li>Användning av fackspråk i tal och skrift.</li> <li>Kommunikation med anpassning till mottagare och i olika yrkessammanhang, till exempel i servicesituationer.</li> <li>Situationsanpassat bemötande och agerande utifrån faktorer som social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad och funktion hos olika sprinkleranläggningar. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven utför arbetsuppgifter med <strong>godtagbart</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad och funktion hos olika sprinkleranläggningar. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven utför arbetsuppgifter med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad och funktion hos olika sprinkleranläggningar. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom yrkesområdet.</p> <p>Eleven utför arbetsuppgifter med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.084Z"
+}

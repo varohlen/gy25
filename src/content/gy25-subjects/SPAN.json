@@ -1,0 +1,64 @@
+{
+  "code": "SPAN",
+  "name": "Spårfordon – systemteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:354",
+  "nameHeading": "<h2>Spårfordon – systemteknik</h2>",
+  "description": "<p>Ämnet spårfordon – systemteknik behandlar spårfordons olika system och deras komponenter samt hur dessa fungerar och samverkar. Ämnet behandlar även felsökning och avhjälpning av enklare fel i system och deras komponenter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet spårfordon – systemteknik ska syfta till att eleverna utvecklar kunskaper om spårfordons olika system och deras komponenter. Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra felsökning och avhjälpning av enklare fel i system och deras komponenter enligt spårfordonstillverkarens krav.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet. Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och andra aktörer. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som de kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjlighet att både självständigt och tillsammans med andra arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet spårfordon – systemteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om spårfordons olika system och deras komponenter samt hur dessa fungerar och samverkar.</li> <li>Förmåga att genomföra felsökning och avhjälpning av enklare fel i system och deras komponenter.</li> <li>Förmåga att använda teknisk information, verktyg och övrig utrustning i samband med felsökning och avhjälpning av enklare fel i system och deras komponenter.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda ett yrkesmässigt språk samt att anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet spårfordon – systemteknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet spårfordon – underhållsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPAN1000X</h3>",
+      "code": "SPAN1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet spårfordon – systemteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Spårfordons olika system, deras komponenter och funktion och hur de samverkar, däribland pneumatiska, elektriska och mekaniska system.</li> <li>Orientering om kraftförsörjningssystem och hjälpkraftssystem, deras komponenter och funktion i spårfordon.</li> <li>Yttre spänningssättning, däribland genom europakontakter, pantografer och tågvärmeposter.</li> <li>Orientering om fordonsdatasystem i olika spårfordonstyper, deras uppbyggnad, komponenter och funktion.</li> <li>Metoder för att identifiera olika fel med hjälp av fordonsdatorsystem samt metoder för felsökning och avhjälpning av enklare fel inom felkategorierna A, B, C, D och E.</li> <li>Olika typer av anvisningar och teknisk information samt mätinstrument som används i samband med felidentifiering, felsökning och avhjälpning av enklare fel i system och komponenter.</li> <li>Identifiering av fel i fordonsdatorsystem samt felsökning och avhjälpning av enklare fel i olika typer av system och deras komponenter.</li> <li>Funktionstester och inspektioner av olika system och deras komponenter.</li> <li>Verktyg och övrig utrustning som används i samband med felsökning och avhjälpning av enklare fel i system och komponenter.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav.</li> <li>Riskbedömning i samband med felsökning och avhjälpning av enklare fel i system och komponenter.</li> <li>Utvärdering av arbetsprocess och utfört arbete.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och andra aktörer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om spårfordons olika system, deras komponenter och funktion.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven använder med <strong>viss säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>visst</strong> handlag verktyg och övrig utrustning i samband med felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om spårfordons olika system, deras komponenter och funktion.</p> <p>Eleven genomför med <strong>säkerhet</strong> felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven använder med <strong>säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>gott</strong> handlag verktyg och övrig utrustning i samband med felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om spårfordons olika system, deras komponenter och funktion.</p> <p>Eleven genomför med <strong>god säkerhet</strong> felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknisk information. Dessutom använder eleven med <strong>mycket gott</strong> handlag verktyg och övrig utrustning i samband med felsökning och avhjälpning av enklare fel i system och komponenter.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.083Z"
+}

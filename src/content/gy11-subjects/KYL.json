@@ -1,0 +1,219 @@
+{
+  "code": "KYL",
+  "name": "Kyl- och värmepumpsteknik",
+  "englishName": "Refrigeration and heat-pump technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:78",
+  "skolfsAndring": "2022:182",
+  "nameHeading": "<h2>Kyl- och värmepumpsteknik</h2>",
+  "description": "<p>Att kyl- och värmepumpsanläggningar är installerade på ett riktigt sätt är väsentligt ur miljösynpunkt och för effektiv energihushållning. Ämnet kyl- och värmepumpsteknik behandlar systemförståelse av och processkännedom om kyl- och värmepumpar. Det är till sin karaktär delvis naturvetenskapligt eftersom mekanik och värmelära ingår.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kyl- och värmepumpsteknik ska syfta till att eleverna utvecklar färdigheter i att utföra installation, drift, underhåll och service på kyl- och värmepumpsanläggningar. I undervisningen ska eleverna ges möjlighet att utveckla systemförståelse och processkännedom. Undervisningen ska också leda till att eleverna utvecklar kunskaper för att kunna arbeta på ett säkert och miljömedvetet sätt i enlighet med lagar och andra bestämmelser som styr verksamheten. Eleverna ska även ges möjlighet att utveckla kunskaper om hantering av alternativa köldmedier i kyl- och värmepumpssystem.</p><p>Genom laborationer och experiment med laborationsutrustning och genom experiment på egenbyggda kylanläggningar ska eleverna ges möjlighet att utveckla systemförståelse samt förmåga till problemlösning vid installation och service av kyl- och värmepumpssystem. Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman.</p><h4>Undervisningen i ämnet kyl- och värmepumpsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om kyl- och värmepumpstekniska systems uppbyggnad och funktion samt om miljökrav som gäller för dessa.</li> <li>Kunskaper om produkter, material, montagedetaljer och upphängningsanordningar, deras egenskaper och funktion.</li> <li>Kunskaper om kylprocessen och om olika köldbärare och köldmedier och deras miljöpåverkan.</li> <li>Färdigheter i att planera, utföra och bedöma installationsarbeten utifrån estetiska och hantverksmässiga krav.</li> <li>Förmåga att utföra drift- och säkerhetskontroller och att arbeta på ett skydds- och miljömedvetet sätt.</li> <li>Förmåga att läsa ritningar, manualer och handlingar för att lösa förekommande arbetsuppgifter.</li> <li>Förmåga att dokumentera och utvärdera utfört arbete samt att använda fackspråk.</li> <li>Färdigheter i att samarbeta och kommunicera.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Kyl- och värmepumpsteknik – grund, 100 poäng. </li> <li>Kyl- och värmepumpsteknik – energieffektivisering, 100 poäng, som bygger på kursen kyl- och värmepumpsteknik – grund.</li> <li>Kyl- och värmepumpsteknik – installation, 200 poäng, som bygger på kursen kyl- och värmepumpsteknik – grund.</li> <li>Kyl- och värmepumpsteknik – miljö och säkerhet, 100 poäng, som bygger på kursen kyl- och värmepumpsteknik – grund.</li> <li>Kyl- och värmepumpsteknik – service, 200 poäng, som bygger på kursen kyl- och värmepumpsteknik – grund.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: KYLKYO0</h3>",
+      "code": "KYLKYO0",
+      "nameHeading": "<h2>Kyl- och värmepumpsteknik – grund, 100 poäng</h2>",
+      "name": "Kyl- och värmepumpsteknik – grund",
+      "englishName": "Refrigeration and heat pump technology – basics",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen kyl- och värmepumpsteknik – grund omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kylsystemets uppbyggnad och funktion.</li> <li>Olika uppbyggnadssätt, till exempel direkta, delvis indirekta och fullständigt indirekta system.</li> <li>Kylsystemets komponenters uppgifter och funktioner samt hållbarhet, korrosionsskydd och mekanisk påverkan.</li> <li>Hantering av olika köldmedier och nödvändiga miljöaspekter på dem.</li> <li>Arbetsmiljöaspekter på köldmedier, köldbärare och oljor.</li> <li>Driftövervakning med mätning och övervakning av tryck och temperatur samt läcksökning.</li> <li>Mätning av överhettning och underkylning i kylprocesser.</li> <li>Egenkontroll av kyl- och värmepumpsaggregat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika kyl- och värmepumpssystem. Dessutom redogör eleven <strong>översiktligt </strong>för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas. Eleven redogör även <strong>översiktligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material. Eleven utför arbetsuppgiften <strong>i samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika kyl- och värmepumpssystem. Dessutom redogör eleven <strong>utförligt </strong>för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas. Eleven redogör även <strong>utförligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika kyl- och värmepumpssystem. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för vanliga kyl- och värmepumpanläggningars tekniska konstruktion, komponenternas egenskaper samt vanligt förekommande fel, hur dessa kan uppstå och åtgärdas. Eleven redogör även <strong>utförligt och nyanserat </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla<strong> och även avancerade</strong> driftövervakningsuppgifter utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet</strong> arbetsmetoder, verktyg, utrustning och material. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen<strong> samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KYLKYL0</h3>",
+      "code": "KYLKYL0",
+      "nameHeading": "<h2>Kyl- och värmepumpsteknik – energieffektivisering, 100 poäng</h2>",
+      "name": "Kyl- och värmepumpsteknik – energieffektivisering",
+      "englishName": "Refrigeration and heat-pump technology – energy efficiency",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen kyl- och värmepumpsteknik – energieffektivisering omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kylsystemets uppbyggnad och funktion.</li> <li>Kylsystemets komponenters uppgifter och funktioner samt hållbarhet, korrosionsskydd och mekaniska påverkan.</li> <li>Kapacitets- och varvtalsreglering av kompressorer, pumpar och fläktar.</li> <li>Energiackumulering i köld- och värmebärare.</li> <li>Energibesparing i kyl- och värmepumpssystem.</li> <li>Effektivisering av kyl- och värmepumpssystem i samverkan med ventilations-, värme- och återvinningssystem.</li> <li>Mätning för kontroll av energianvändning.</li> <li>Ritningar och manualer.</li> <li>Metoder för dokumentation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering. Dessutom redogör eleven <strong>översiktligt</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.</p><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>enkel </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet </strong>åtgärder för att effektivisera systemets energiförbrukning. Dessutom gör eleven en <strong>enkel </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>i samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. Efter utförd service genomför eleven <strong>i samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering. Dessutom redogör eleven <strong>utförligt</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet </strong>åtgärder för att effektivisera systemets energiförbrukning. Dessutom gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd service genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för kyl- och värmepumpanläggningars tekniska konstruktion, för kylprocessen samt för metoder för energieffektivisering. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika köldbärare och köldmedier samt deras miljöpåverkan.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med säkerhet </strong>åtgärder för att effektivisera systemets energiförbrukning. Dessutom gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd service genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KYLKYC0</h3>",
+      "code": "KYLKYC0",
+      "nameHeading": "<h2>Kyl- och värmepumpsteknik – installation, 200 poäng</h2>",
+      "name": "Kyl- och värmepumpsteknik – installation",
+      "englishName": "Refrigeration and heat-pump technology – installation",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen kyl- och värmepumpsteknik – installation omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Regulatorers funktion i kyl- och värmepumpssystem.</li> <li>Val av material och komponenter, deras egenskaper och funktion.</li> <li>Miljö- och arbetsmiljöaspekter på installationer av kylanläggningar.</li> <li>Montageanvisningar, ritningar och andra handlingar för kylinstallationer.</li> <li>Installation av rörsystem och elsystem.</li> <li>Installationskontroll.</li> <li>Täthetsprovning och genomgång av tryckprovning.</li> <li>Kontroll av mät- och styrutrustning.</li> <li>Tömning och fyllning av köldmedel.</li> <li>Provdrift och uppmätning av driftdata.</li> <li>Metoder för dokumentation av utför arbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>översiktligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>enkel </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>i samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. Efter utförd installation genomför eleven <strong>i samråd </strong>med handledare provdrift samt mäter och dokumenterar provdata. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>utförligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd installation genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar provdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>utförligt och nyanserat </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare installation av rör- och elsystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd installation genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar provdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen<strong> samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KYLKYH0</h3>",
+      "code": "KYLKYH0",
+      "nameHeading": "<h2>Kyl- och värmepumpsteknik – miljö och säkerhet, 100 poäng</h2>",
+      "name": "Kyl- och värmepumpsteknik – miljö och säkerhet",
+      "englishName": "Refrigeration and heat pump technology – environment and safety",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen kyl- och värmepumpsteknik – miljö och säkerhet omfattar punkterna 1, 3 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kyl- och värmepumpssystem, deras funktion och miljöpåverkan.</li> <li>Köldbärare och köldmedier, deras egenskaper och miljöpåverkan.</li> <li>Miljöpåverkans historiska orsaker och konsekvenser.</li> <li>Miljö-, hälso- och säkerhetsfrågor ur ett samhälleligt perspektiv.</li> <li>Lagar och andra bestämmelsers påverkan på arbeten med kyl- och värmepumpssystem.</li> <li>Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.</li> <li>Miljö- och säkerhetsaspekter i förhållande till hållbar utveckling.</li> <li>Metoder för att utvärdera miljöaspekter.</li> <li>Trycksäkerhet vid provning och drift av kyl- och värmepumpsinstallationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för kyl- och värmepumpanläggningars tekniska konstruktion och funktion. Dessutom redogör eleven <strong>översiktligt </strong>för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan. Eleven redogör även <strong>översiktligt</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.</p><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>enkel </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet </strong>åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt. Dessutom gör eleven en <strong>enkel </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>i samråd </strong>med handledare och med ett tillfredsställande resultat. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för kyl- och värmepumpanläggningars tekniska konstruktion och funktion. Dessutom redogör eleven <strong>utförligt </strong>för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan. Eleven redogör även <strong>utförligt</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med viss säkerhet </strong>åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt. Dessutom gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet</strong> lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett tillfredsställande resultat. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för kyl- och värmepumpanläggningars tekniska konstruktion och funktion. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för kylprocessen, för olika köldbärare och köldmedier samt deras miljöpåverkan. Eleven redogör även <strong>utförligt och nyanserat</strong> för kyl- och värmepumpanläggningars miljöpåverkan ut ett historiskt perspektiv.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare säkerhets- och driftskontroller på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av kyl- och värmesystemet samt föreslår <strong>med säkerhet </strong>åtgärder för att förbättra systemet ur miljö- och säkerhetssynpunkt. Dessutom gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett tillfredsställande resultat. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven, ur miljö- och säkerhetssynpunkt, sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KYLKYV0</h3>",
+      "code": "KYLKYV0",
+      "nameHeading": "<h2>Kyl- och värmepumpsteknik – service, 200 poäng</h2>",
+      "name": "Kyl- och värmepumpsteknik – service",
+      "englishName": "Refrigeration and heat-pump technology – service",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen kyl- och värmepumpsteknik – service omfattar punkterna 1–3 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Äldre och nyare typer av kyl- och värmepumpanläggningar med olika typer av köld- och värmebärare samt hantering av dessa i enlighet med miljö- och säkerhetskrav.</li> <li>Kylsystemets komponenters uppgifter och funktioner.</li> <li>Planering av servicearbete utifrån ritningar och manualer.</li> <li>Driftskontroll och läcksökning samt systemens energieffektivitet.</li> <li>Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för sig själv som för andra. Ergonomiskt riktigt arbetssätt.</li> <li>Metoder för utvärdering och dokumentation av utfört arbete. </li> <li>Kundkommunikation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>översiktligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>enkel </strong>bedömning av kyl- och värmesystemets tekniska konstruktion samt en <strong>enkel </strong>riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>i samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare. Efter utförd service genomför eleven <strong>i samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>utförligt </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar samt lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad </strong>bedömning av kyl- och värmesystemets tekniska konstruktion samt en riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med viss säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med viss säkerhet </strong>lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd service genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av kyl- och värmepumpanläggningars tekniska konstruktion samt komponenternas och materialens egenskaper, funktion och användningsområde. Eleven redogör även <strong>utförligt och nyanserat </strong>för de miljökrav som gäller verksamheten.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare servicearbete på kyl- och värmepumpssystem utifrån arbetsbeskrivningar, ritningar och lagar och andra bestämmelser. Inför arbetet gör eleven en <strong>välgrundad och nyanserad </strong>bedömning av kyl- och värmesystemets tekniska konstruktion samt en <strong>välgrundad</strong> riskbedömning och anpassar sin planering vid behov. Vidare tolkar och använder eleven <strong>med säkerhet</strong> ritningar, underhållsscheman, manualer och innehållsdeklarationer samt väljer <strong>med säkerhet</strong> lämplig utrustning och metod. Eleven utför arbetsuppgiften <strong>efter samråd </strong>med handledare och med ett resultat som uppfyller fastställda kvalitetskrav. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare. Efter utförd service genomför eleven <strong>efter samråd </strong>med handledare provdrift samt mäter och dokumenterar driftdata. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen<strong> samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.064Z"
+}

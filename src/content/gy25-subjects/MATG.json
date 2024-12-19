@@ -1,0 +1,121 @@
+{
+  "code": "MATG",
+  "name": "Matlagning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-24",
+  "version": "gy25",
+  "versionInfo": "Första versionen (justering av skrivfel i CI)",
+  "skolfsGrund": "2024:190",
+  "skolfsAndring": "2024:584",
+  "nameHeading": "<h2>Matlagning</h2>",
+  "description": "<p>Ämnet matlagning behandlar yrkesmässigt arbete med mat inom exempelvis restaurang och storkök. Ämnet behandlar grundläggande matlagningsmetoder och hur råvaror och olika processer påverkar slutproduktens egenskaper och kvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid matlagning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet matlagning ska syfta till att eleverna utvecklar förmåga att yrkesmässigt laga mat med moderna och traditionella hantverksmetoder. Eleverna ska ges möjlighet att utveckla förmåga att planera, organisera och utföra arbetet samt att arbeta ergonomiskt. Undervisningen ska stimulera elevernas förmåga att skapa estetiskt och sensoriskt tilltalande maträtter och måltider samt nyfikenhet och lust att utvecklas inom området. Undervisningen ska även bidra till att eleverna utvecklar förmåga att anpassa recept och menyer till näringsrekommendationer och specialkost. Dessutom ska undervisningen lägga en grund för elevernas förmåga att kommunicera och använda fackspråk i arbetet samt att serviceinriktat och lösningsfokuserat utföra arbetsuppgifter och möta gästers önskemål.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller hygien, arbetsmiljö, hållbarhet och säkerhet inom yrkesområdet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kreativitet, problemlösnings- och initiativförmåga. I undervisningen ska eleverna ges möjlighet att utföra arbetsuppgifter både individuellt och i samarbete med andra. Undervisningen ska stimulera elevernas nyfikenhet och lust att lära samt ge dem möjlighet att reflektera över sitt arbete, hållbarhet och etiska frågor kopplat till yrket.</p> <h5><em>Undervisningen i ämnet matlagning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och organisera arbetet efter situationens krav.</li> <li>Förmåga att tillaga olika maträtter.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att bemöta samt samarbeta och kommunicera med andra i samband med matlagning.</li> </ul><h3>Nivåer i ämnet matlagning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li> <li>Nivå 5, 200 poäng, som bygger på nivå 4.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATG1000X</h3>",
+      "code": "MATG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matlagning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisering av arbetet, däribland att ta fram, skära upp, markera och organisera råvaror efter recept och instruktioner.</li> <li>Samband mellan svinn och ekonomi.</li> <li>Skattning av vikt och volym.</li> <li>Grundläggande matlagningsmetoder, däribland stekning, kokning, pochering, ångkokning, bryning, sautering, halstring, ugnsstekning, grillning och fritering.</li> <li>Olika skärtekniker.</li> <li>Kökets redskap och maskiner samt annan utrustning. Hur de används och hanteras på ett säkert sätt.</li> <li>Tillagning av enklare maträtter, däribland soppor, äggrätter och kötträtter.</li> <li>Olika grundsåser.</li> <li>Vanligt förekommande allergi- och specialkost.</li> <li>Enklare vegetarisk och vegansk kost.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och livsmedelslagstiftning med tonvikt på hygien och hygienrutiner.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Hållbarhets- och miljömärkningar.</li> <li>Grundläggande fackspråk.</li> <li>Samarbete, kommunikation och bemötande i kök.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATG2000X</h3>",
+      "code": "MATG2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matlagning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisering av arbetet efter situationens krav.</li> <li>Ekonomisk och miljömässig hantering av svinn och rester.</li> <li>Tillagning av vanliga rätter, däribland fisk- och kötträtter samt vegetariska och veganska rätter.</li> <li>Olika fonder och buljonger samt tillagning av ett urval av dessa.</li> <li>Födoämnesintolerans, allergi och specialkost.</li> <li>Lagar och andra bestämmelser inom området, däribland livsmedelslagstiftning med tonvikt på hygien och hygienrutiner.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Hållbarhetsfrågor som rör livsmedel.</li> <li>Samarbete och kommunikation i arbetet.</li> <li>Bemötande i olika situationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATG3000X</h3>",
+      "code": "MATG3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matlagning på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och organisering av arbetet, däribland varumottagning, upplockning och korrekt förvaring av råvaror.</li> <li>Kalkyler och prissättning.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Identifiering, behandling och hantering av råvaror samt smakmässiga aspekter vid tillagning.</li> <li>Tillagning av vanligt förekommande kalla och varma rätter för restaurang, däribland olika lunchrätter.</li> <li>Sallader, dressingar, kuvertbröd och torra kakor.</li> <li>Anpassning av måltider till allergier och önskemål om specialkost och andra kostval.</li> <li>Anpassning av måltider och tjänster utifrån individuella önskemål.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Service, kommunikation och bemötande i samarbete med andra.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATG4000X</h3>",
+      "code": "MATG4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matlagning på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Helheten i restaurangens organisation. Övergripande planering av arbetsuppgifterna, däribland att skriva en mise en place-lista eller motsvarande för att organisera och strukturera matlagningsmoment och förstå situationens krav.</li> <li>Hantering av ett flertal beställningar från olika bord.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Krav på näringsriktighet vid matlagning i offentliga kök. Svenska näringsrekommendationer.</li> <li>Näringsberäkningar av måltider. Näringsberäkningsprogram.</li> <li>Vanligt förekommande allergi- och specialkost vid matlagning i offentliga kök.</li> <li>Matlagning och arrangemang utifrån traditioner, teman eller koncept, till exempel klassiska och vanligt förekommande högtider, ceremoniella måltider eller tematisk matlagning.</li> <li>Metoder och arbetssätt i storkök.</li> <li>Arbete med flera simultana moment.</li> <li>Klassiska och nyskapande maträtter i både restaurang och storkök.</li> <li>Matlagning av rätter med flera olika komponenter utifrån givna tidsramar.</li> <li>Olika estetiska upplägg på tallrik.</li> <li>Lagar och andra bestämmelser för yrkesmässigt arbete samt utförande och uppföljning av egenkontroll.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Service, kommunikation och bemötande i samarbete med andra för att skapa en positiv helhetsupplevelse runt måltiden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATG5000X</h3>",
+      "code": "MATG5000X",
+      "nameHeading": "<h2>Nivå 5, 200 poäng</h2>",
+      "name": "Nivå 5",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matlagning på nivå 5 ska behandla följande centrala innehåll:</p> <ul> <li>Yrkesmässig planering och organisering av restaurangarbete. Långsiktig planering, däribland beställning av råvaror.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Matlagning och arrangemang utifrån trender, teman eller koncept.</li> <li>Arbete med flera simultana moment med hänsyn till tempo, flöde och svinn.</li> <li>Yrkesmässig matlagning i restaurang och storkök med hänsyn till tidsramar, beställningar och gästens önskemål.</li> <li>Avancerade matlagningsmetoder, däribland sous vide, rökning, torkning och fermentering.</li> <li>Skapande av avancerade maträtter och anrättningar under yrkesmässiga former, däribland avsmakningsmenyer.</li> <li>Kreativt framtagande av recept, matsedlar och menyer för olika typer av specialkost.</li> <li>Yrkesmässig tillagning av specialkost.</li> <li>Lagar och andra bestämmelser för yrkesmässigt arbete samt yrkesmässigt utförande och uppföljning av egenkontroll.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Service och bemötande på ett yrkesmässigt sätt samt konstruktiv kommunikation och hantering av klagomål.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven tillagar med <strong>visst</strong> handlag olika maträtter.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>gott</strong> sätt.</p> <p>Eleven tillagar med <strong>gott</strong> handlag olika maträtter.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven tillagar med <strong>mycket gott</strong> handlag olika maträtter.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.041Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "LASO",
+  "name": "Lås- och passerteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:48",
+  "nameHeading": "<h2>Lås- och passerteknik</h2>",
+  "description": "<p>Ämnet lås- och passerteknik behandlar lås och låssystems uppbyggnad och tillverkning samt installation av dessa. Dessutom behandlar ämnet metoder och tekniker för underhåll och reparation av låssystem.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet lås- och passerteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra låstekniska arbeten i dörrmiljöer samt att montera och koppla in passersystem med tillhörande komponenter. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om tekniska system som har till uppgift att styra tillträde till olika miljöer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om uppbyggnad och funktioner hos produkter som används i låstekniska system.</p> <p>Säkerhet är viktigt i arbete med låstekniska system. Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om risker och säkerhetskrav vid installation av lås- och passersystem samt om standarder, lagar och andra bestämmelser inom området.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att lösa de problem som är centrala för installation av lås- och passersystem. Dessutom ska eleverna genom ett undersökande och problemlösande arbetssätt stimuleras till fortsatt lärande och yrkesmässig utveckling inom området. Undervisningen ska även stimulera elevernas nyfikenhet och initiativförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom branschen. Undervisningen ska också ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet lås- och passerteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad och funktion hos låstekniska system i och kring dörrmiljöer.</li> <li>Färdigheter i att utföra låstekniska arbeten i dörrmiljöer.</li> <li>Förmåga att installera passersystem.</li> <li>Förmåga att arbeta på ett säkert sätt i enlighet med lagar och andra bestämmelser inom yrkesområdet.</li> </ul><h3>Nivåer i ämnet lås- och passerteknik</h3><ul><li>Nivå 1, 150 poäng. </li> <li>Nivå 2, 150 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LASO1000X</h3>",
+      "code": "LASO1000X",
+      "nameHeading": "<h2>Nivå 1, 150 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "150",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet lås- och passerteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Låstekniska system</em></p> <ul> <li>Uppbyggnad och funktioner hos dörrstyrningar och dess komponenter.</li> <li>Egenskaper och funktioner hos mekaniska och elektromekaniska lås och beslag samt deras användningsområden och historiska utveckling.</li> <li>Enklare typer av förvaringsenheter, deras användningsområden och funktioner.</li> <li>Uppbyggnad och funktioner hos larm-, övervaknings- och säkerhetssystem.</li> <li>Mekaniska kodprinciper.</li> <li>Elektroniska kodbärare.</li> </ul> <p><em>Installationer</em></p> <ul> <li>Planering av dörrmiljö inför installation av lås- och passersystem med hänsyn till funktion samt lagar och andra bestämmelser inom området.</li> <li>Arbete med vanligt förekommande mekaniska och elektromekaniska låssystem och beslag.</li> <li>Tillverkning, montering och installation av lås och beslagsenheter i dörrmiljöer.</li> <li>Enklare service och underhåll av lås och beslag.</li> <li>Montering och inkoppling av produkter och komponenter som ingår i passersystem.</li> <li>Olika typer av verktyg, instrument och övrig utrustning för arbete i passersystem.</li> <li>Elsystem och elanläggningars uppbyggnad och funktion från transformator till systemets belastande apparater och komponenter.</li> <li>Användning av elektronik och el-materiel vid låstekniska installationsarbeten.</li> <li>Elkvaliteten och strömförsörjningens påverkan på låstekniska anläggningar.</li> <li>Skyddsledarens funktion och verkan.</li> <li>Mätinstrument och metoder för att mäta elektriska enheter, storheter och samband.</li> </ul> <p><em>Säkerhet och risker</em></p> <ul> <li>Risker vid installationer av låstekniska system och säkerhetssystem.</li> <li>Lagar och andra bestämmelser inom området, däribland säkerhetskrav enligt låsklasser och skyddsklasser.</li> <li>Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: LASO2000X</h3>",
+      "code": "LASO2000X",
+      "nameHeading": "<h2>Nivå 2, 150 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "150",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet lås- och passerteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Låstekniska system</em></p> <ul> <li>Uppbyggnad och funktioner hos dörrstyrningar och deras komponenter.</li> <li>Egenskaper och funktioner hos olika mekaniska och elektromekaniska lås och beslag. Användningsområden, egenskaper och funktioner hos övervaknings- och styrsystem.</li> <li>Förvaringsenheter och deras funktioner och säkerhetsnivåer.</li> <li>Uppbyggnad och funktioner hos larm-, övervaknings- och säkerhetssystem.</li> <li>Mekaniska kodprinciper och systemlåsningsprinciper.</li> <li>Elektroniska kodprinciper samt funktions- och behörighetskategorier.</li> </ul> <p><em>Installationer</em></p> <ul> <li>Planering och projektering av dörrmiljö inför installation av lås- och passersystem med hänsyn till funktion samt lagar och andra bestämmelser inom området.</li> <li>Arbete med mekaniska och elektromekaniska låssystem och beslag.</li> <li>Tillverkning, montering och installation av lås och beslag som samverkar i dörrmiljöer.</li> <li>Service och underhåll av lås och beslag.</li> <li>Montering, inkoppling, driftsättning och provning av passersystem. Programmering av passersystem med hänsyn till objektstyp, användarfunktioner och övriga krav.</li> <li>Olika typer av verktyg, instrument och övrig utrustning för arbete i passersystem.</li> <li>Elsystem och elanläggningars uppbyggnad och funktion från transformator till systemets belastande apparater och komponenter.</li> <li>Val och användning av elektronik och el-materiel vid låstekniska installationsarbeten.</li> <li>Elkvaliteten och strömförsörjningens påverkan på låstekniska anläggningar.</li> <li>Skyddsledarens funktion och verkan.</li> <li>Mätinstrument och metoder för att mäta elektriska enheter, storheter och samband.</li> </ul> <p><em>Säkerhet och risker</em></p> <ul> <li>Risker vid installationer av låstekniska system och säkerhetssystem.</li> <li>Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.</li> <li>Lagar och andra bestämmelser inom området, däribland de som gäller branddörrar, tillgänglighet och utrymning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om låstekniska system som används i och kring dörrmiljöer.</p> <p>Eleven utför låstekniska arbeten i dörrmiljöer med <strong>viss skicklighet</strong>.</p> <p>Eleven installerar passersystem med <strong>viss skicklighet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om låstekniska system som används i och kring dörrmiljöer.</p> <p>Eleven utför låstekniska arbeten i dörrmiljöer med <strong>god skicklighet</strong>.</p> <p>Eleven installerar passersystem med <strong>god skicklighet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om låstekniska system som används i och kring dörrmiljöer.</p> <p>Eleven utför låstekniska arbeten i dörrmiljöer med <strong>mycket god skicklighet</strong>.</p> <p>Eleven installerar passersystem med <strong>mycket god skicklighet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.034Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "MOTE",
+  "name": "Möten och event",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:77",
+  "nameHeading": "<h2>Möten och event</h2>",
+  "description": "<p>Mötesbranschens målgrupper har olika förväntningar på såväl lokalers utformning och teknisk utrustning som på service, aktiviteter och andra tjänster. Ämnet möten och event behandlar olika mötesformer, från möten med få deltagare och mindre konferenser till kongresser och event.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet möten och event ska syfta till att eleverna utvecklar kunskaper om mötesbranschens olika anläggningar och miljöer samt om den potential dessa har för att anpassas till kundens och deltagarens behov. Genom undervisningen och i kontakter med olika event- och mötesarrangörer ska eleverna ges möjlighet att utveckla förmåga att hantera tjänster och serviceutbud inom området. Eleverna ska i undervisningen också ges möjlighet att utveckla förmåga att planera, organisera, utföra och utvärdera arbete inom olika typer av arrangemang.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika målgruppers kulturer, önskemål och behov gällande mötesformer och aktiviteter. Eleverna ska också ges möjlighet att utveckla förmåga att anpassa arrangemangens aktiviteter och utrustning utifrån kundens och deltagarens behov och önskemål. Undervisningen ska därför bidra till att eleverna utvecklar lyhördhet för kunden och deltagaren samt ge dem möjlighet att reflektera över frågor som rör kundens och deltagarens integritet. Undervisningen ska leda till att eleverna utvecklar förmåga att göra kostnadsberäkningar samt arbeta i enlighet med yrkesområdets lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla förmåga att i arbetet främja olika aspekter av hållbarhet. Undervisningen ska bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga och förmåga att genomföra arbetsuppgifter både individuellt och i samarbete med andra. I undervisningen ska eleverna även ges möjlighet att reflektera över och diskutera sitt arbete inom möten och event.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att genomföra arbetsuppgifter inom området och utveckla en yrkesmässig attityd i mötet med kunder och deltagare.</p> <h5><em>Undervisningen i ämnet möten och event ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om mötesbranschens olika typer av anläggningar och miljöer.</li> <li>Förmåga att planera, genomföra och utvärdera olika arrangemang utifrån kundens önskemål och behov.</li> <li>Förmåga att agera serviceinriktat och ansvarsfullt samt att anpassa sitt språk utifrån olika situationer.</li> <li>Förmåga att i samband med olika arbetsuppgifter inom möten och event främja hållbarhet samt att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet möten och event</h3><ul><li>Nivå 1, 100 poäng. Betyg i möten och event som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i service och bemötande som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MOTE1000X</h3>",
+      "code": "MOTE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet möten och event på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika anläggningar för möten och event samt deras skiftande utbud av tjänster och service.</li> <li>Olika typer av möten och event samt deras syften och funktion.</li> <li>Kundens skiftande krav på anläggningar, till exempel vad gäller säkerhet, miljöcertifiering och möjligheter till aktiviteter.</li> <li>Planering, organisering och genomförande av enklare arrangemang med hänsyn till kunders önskemål, behov och ekonomi. Utvärdering av det egna arbetet.</li> <li>Yrkesroller och arbetsuppgifter inom området.</li> <li>Aktuell digital och teknisk utrustning som är lämplig för olika arrangemang.</li> <li>Muntliga presentationer inom verksamhetsområdet med anpassning till syfte, mottagare och sammanhang.</li> <li>Olika möbleringsformer, deras syften och funktion.</li> <li>Service och bemötande av olika målgrupper samt deras skiftande behov i olika situationer.</li> <li>Anpassning av språket utifrån olika situationer både fysiskt och digitalt.</li> <li>Hållbarhet inom mötesbranschen utifrån ekonomiska, sociala och miljömässiga faktorer.</li> <li>Arbetsmiljö och ergonomi.</li> <li>Säkerhetsföreskrifter och andra bestämmelser som gäller förekommande grupparrangemang.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MOTE2000X</h3>",
+      "code": "MOTE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet möten och event på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika anläggningars förutsättningar för lokala, nationella och internationella möten och arrangemang.</li> <li>Planering, organisering och genomförande av olika arrangemang, med hänsyn till kundens önskemål, behov och ekonomi, samt utvärdering av det egna arbetet.</li> <li>Kostnadsberäkning för arrangemang, däribland för utrustning, tjänster och aktiviteter. Beräkningar för intäkter, till exempel från deltagare, föreningar och företag.</li> <li>Säljstimulerande aktiviteter vid olika arrangemang.</li> <li>Organisation och ansvarsfördelning vid arbete i projekt.</li> <li>Presentation och visning av anläggningens utbud.</li> <li>Praktisk hantering av aktuell digital och teknisk utrustning i samband med olika arrangemang.</li> <li>Mat- och fikapausens betydelse samt upp- och avdukning av bufféer, till exempel med kaffe, te och andra förfriskningar.</li> <li>Iordningställande av lokaler efter direktiv, till exempel utifrån en checklista.</li> <li>Hjälpmedel och tillgänglighet för personer med funktionsnedsättning.</li> <li>Logistik och effektivitet i arbetet.</li> <li>Kommunikation och samverkan i samband med olika arrangemang.</li> <li>Anpassning av språket utifrån olika situationer både fysiskt och digitalt.</li> <li>Ekonomiskt, socialt och miljömässigt hållbara arbetssätt vid genomförande av olika arrangemang.</li> <li>Arbetsmiljö och ergonomi.</li> <li>Ändamålsenlig klädsel vid olika arbetsuppgifter inom området.</li> <li>Handlings- och utrymningsplaner vid brand, hot och fara.</li> <li>Hur kundens säkerhet och integritet kan värnas.</li> <li>Lagar och andra bestämmelser inom området, till exempel ordningslagen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MOTE3000X</h3>",
+      "code": "MOTE3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet möten och event på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Samarbete med externa företag, till exempel vad gäller teknik, säkerhet, aktiviteter eller övriga kringarrangemang utifrån förutsättningarna på olika anläggningar.</li> <li>Planering, organisering och genomförande av olika arrangemang med hänsyn till kundens önskemål, behov och ekonomi samt utvärdering av det utförda arbetet.</li> <li>Bokning av externa tjänster, till exempel teknik, säkerhet och underhållning.</li> <li>Prissättning av en anläggnings lokaler och tjänster.</li> <li>Utformande av bokningsbekräftelser, faktureringsunderlag och enklare offerter för olika typer av arrangemang med hänsyn till kostnader och intäkter.</li> <li>Metoder för dokumentation och uppföljning av arrangemang och eget arbete.</li> <li>Presentation, visning och marknadsföring av en anläggnings skiftande utbud samt rekommendation av passande aktiviteter och kringarrangemang.</li> <li>Välkomnande av kursledare och mötesdeltagare, genomgång av säkerhetsrutiner och arrangemangets program samt erbjudande av teknisk support.</li> <li>Praktisk hantering av aktuell digital och teknisk utrustning i samband med olika arrangemang samt alternativa tekniska lösningar för olika ändamål, till exempel ljud- och ljusteknik.</li> <li>Alternativa möbleringsformer, deras syfte och funktion samt rekommendation av lämplig möblering.</li> <li>Hantering av positiva och negativa kundreaktioner både fysiskt och digitalt.</li> <li>Kommunikation och samverkan för avstämning och utbyte av information inför och under olika arrangemang.</li> <li>Anpassning av språket utifrån olika situationer både fysiskt och digitalt.</li> <li>Yrkesmässig planering, organisering och genomförande av hållbara arrangemang utifrån ekonomiska, sociala och miljömässiga faktorer.</li> <li>Arbetsmiljö och ergonomi.</li> <li>Riskanalyser och förebyggande säkerhetsarbete i samband med planering och genomförande av olika arrangemang.</li> <li>Lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>enkla</strong> resonemang om mötesbranschens anläggningar och miljöer samt om deras möjligheter och begränsningar för olika typer av arrangemang.</p> <p>Eleven planerar och genomför på ett <strong>godtagbart</strong> sätt olika arrangemang utifrån kundens önskemål och behov. Dessutom utvärderar eleven sitt arbete.</p> <p>Eleven agerar serviceinriktat och ansvarsfullt på ett <strong>godtagbart</strong> sätt. Eleven anpassar sitt språk utifrån olika situationer med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>i huvudsak fungerande</strong> sätt utifrån olika aspekter av hållbarhet i samband med arrangemang. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter samt lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utvecklade</strong> resonemang om mötesbranschens anläggningar och miljöer samt om deras möjligheter och begränsningar för olika typer av arrangemang.</p> <p>Eleven planerar och genomför på ett <strong>gott</strong> sätt olika arrangemang utifrån kundens önskemål och behov. Dessutom utvärderar eleven sitt arbete.</p> <p>Eleven agerar serviceinriktat och ansvarsfullt på ett <strong>gott</strong> sätt. Eleven anpassar sitt språk utifrån olika situationer med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>ändamålsenligt</strong> sätt utifrån olika aspekter av hållbarhet i samband med arrangemang. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter samt lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>välutvecklade</strong> resonemang om mötesbranschens anläggningar och miljöer samt om deras möjligheter och begränsningar för olika typer av arrangemang.</p> <p>Eleven planerar och genomför på ett <strong>mycket gott</strong> sätt olika arrangemang utifrån kundens önskemål och behov. Dessutom utvärderar eleven sitt arbete.</p> <p>Eleven agerar serviceinriktat och ansvarsfullt på ett <strong>mycket gott</strong> sätt. Eleven anpassar sitt språk utifrån olika situationer med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett <strong>ändamålsenligt och effektivt</strong> sätt utifrån olika aspekter av hållbarhet i samband med arrangemang. Dessutom arbetar eleven i enlighet med säkerhetsföreskrifter samt lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.053Z"
+}

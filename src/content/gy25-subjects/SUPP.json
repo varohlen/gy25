@@ -1,0 +1,92 @@
+{
+  "code": "SUPP",
+  "name": "Support och servicearbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:126",
+  "nameHeading": "<h2>Support och servicearbete</h2>",
+  "description": "<p>Olika sorters elektronisk utrustning och datorutrustning är vanligt förekommande i både yrkeslivet och i vardagen. Ämnet support och servicearbete handlar om hur elektronik och datorutrustning fungerar och kan repareras samt hur rådgivning till beställare och användare kan ske på ett serviceinriktat och situationsanpassat sätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet support och servicearbete ska syfta till att eleverna utvecklar förmåga att planera och utföra support och servicearbete av elektronik- och datorutrustning. Eleverna ska i undervisningen även ges möjlighet att utveckla kunskaper om hur elektronik och datorutrustning används och kan repareras. God service och support kräver ett lyhört och flexibelt förhållningssätt. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera i tal och skrift med beställare och användare på ett serviceinriktat sätt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de lagar och andra bestämmelser som gäller inom branschen, bland annat om miljö-, säkerhets- och återvinningskrav. Eleverna ska även ges möjlighet att utveckla förmåga att planera, dokumentera och utvärdera utfört arbete.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling, service och hållbarhet inom elektronik. I undervisningen ska både praktiskt arbete och teori ingå.</p> <h5><em>Undervisningen i ämnet support och servicearbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och utföra support samt servicearbete och reparationer på elektronik- och datorutrustning.</li> <li>Förmåga att dokumentera och utvärdera arbetet.</li> <li>Förmåga att instruera användare i handhavande av apparater och utrustningar.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet support och servicearbete</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SUPP1000X</h3>",
+      "code": "SUPP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet support och servicearbete på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Service och reparationsarbete</em></p> <ul> <li>Datorprogram för servicearbete.</li> <li>Tolkning av elektronikscheman och servicemanualer på både svenska och engelska.</li> <li>Service och reparation av mobiltelefoner, elektroniska apparater och datorsystem.</li> <li>Enklare systematisk felsökning.</li> <li>Arbetsplatsens arbetsmiljö samt dagliga rutiner och organisation, till exempel säkerhetsrutiner.</li> <li>Reservdelshantering och beställningsrutiner.</li> </ul> <p><em>Dokumentation</em></p> <ul> <li>Serviceblanketter och dokument.</li> <li>Branschkrav och metoder för återvinning.</li> <li>Prisinformationslagens krav vid kostnadsförslag och fakturering.</li> <li>Konsumentlagstiftningens och miljölagstiftningens betydelse för arbetet.</li> <li>Dokumentation och utvärdering av eget arbete.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Serviceinriktat uppträdande och kommunikation vid kundkontakter med beställare och användare.</li> <li>Instruktioner till användare i handhavande av apparater och utrustningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SUPP2000X</h3>",
+      "code": "SUPP2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet support och servicearbete på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Service och reparationsarbete</em></p> <ul> <li>Hantering av reklamationer.</li> <li>Kundmottagning och registrering av serviceobjekt samt dokumentation av kundens felbeskrivning.</li> <li>Besiktning och registrering av skador vid inlämning och utlämning av serviceobjekt.</li> <li>Tolkning av elektronikscheman och servicemanualer på både svenska och engelska.</li> <li>Beställning och hantering av reservdelar för att utföra service.</li> <li>Rutiner och logistik vid hantering av olika serviceobjekt.</li> <li>Rutiner, till exempel säkerhetsrutiner och rutiner för hantering av utbytesapparater.</li> <li>Logistik och krav för transporter till och från större märkesverkstäder i Sverige och Europa.</li> </ul> <p><em>Dokumentation</em></p> <ul> <li>Blanketter och dokument inom service, reklamation och logistik. Datorprogram för servicearbete inom reklamation och logistik.</li> <li>Prisinformationslagens krav vid kostnadsförslag och fakturering.</li> <li>Branschkrav gällande mottagning av objekt för återvinning.</li> <li>Miljökrav på arbetsplatsens dagliga rutiner och organisation.</li> <li>Konsumentlagstiftningens och miljölagstiftningens betydelse för arbetet.</li> <li>Planering, dokumentation och utvärdering av eget arbete.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Serviceinriktat uppträdande och kommunikation med beställare och användare.</li> <li>Kroppsspråkets betydelse. Verbal och icke-verbal kommunikation samt olika kulturella kommunikationsmönster. Attityder, värderingar och förhållningssätt.</li> <li>Instruktioner till användare i handhavande av apparater och utrustningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SUPP3000X</h3>",
+      "code": "SUPP3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet support och servicearbete på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Service och reparationsarbete</em></p> <ul> <li>Organisation av support och hemservice.</li> <li>Servicebilars utrustning.</li> <li>Support och hemservice i olika miljöer.</li> <li>Tolkning av elektronikscheman och servicemanualer på både svenska och engelska.</li> <li>Programmering och inställningar av apparater inom området.</li> <li>Sammankoppling av enheter inom området till fungerande system.</li> <li>Systematisk felsökning och reparation av apparater inom området.</li> <li>Reservdelshantering och beställningsrutiner.</li> <li>Kostnadsförslag och faktureringsrutiner.</li> </ul> <p><em>Dokumentation</em></p> <ul> <li>Serviceblanketter och riktprislistor samt offerter och faktureringssystem.</li> <li>Branschens kvalitetskrav och säkerhetskrav.</li> <li>Miljölagstiftning som är relevant för verksamheten.</li> <li>Konsumenttjänstlagen.</li> <li>Konsumentlagstiftningens och miljölagstiftningens betydelse för arbetet.</li> <li>Planering, dokumentation och utvärdering av eget arbete.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Serviceinriktat uppträdande och kommunikation med beställare och användare.</li> <li>Kommunikation, däribland kroppsspråkets betydelse samt olika kulturella kommunikationsmönster. Attityder, värderingar och förhållningssätt.</li> <li>Instruktioner till användare i handhavande av apparater och utrustningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför <strong>enkla</strong> arbeten inom support, service och reparation av elektronik och datorutrustning.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>enkla</strong> omdömen.</p> <p>Eleven kommunicerar med <strong>viss säkerhet</strong> på ett serviceinriktat sätt med beställare och användare.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför <strong>relativt komplexa</strong> arbeten inom support, service och reparation av elektronik och datorutrustning.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>utvecklade</strong> omdömen.</p> <p>Eleven kommunicerar med <strong>säkerhet</strong> på ett serviceinriktat sätt med beställare och användare.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför <strong>komplexa</strong> arbeten inom support, service och reparation av elektronik och datorutrustning.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven kommunicerar med <strong>god säkerhet</strong> på ett serviceinriktat sätt med beställare och användare.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.085Z"
+}

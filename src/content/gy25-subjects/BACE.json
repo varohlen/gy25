@@ -1,0 +1,77 @@
+{
+  "code": "BACE",
+  "name": "Backendutveckling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:530",
+  "nameHeading": "<h2>Backendutveckling</h2>",
+  "description": "<p>Digitala plattformar har stor samhällspåverkan och de är centrala för interaktionen mellan individer, myndigheter, företag och andra organisationer. Ämnet backendutveckling behandlar processen som skapar serverbaserade webbapplikationer och tjänster. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet backendutveckling ska syfta till att eleverna utvecklar förmåga att skapa funktionalitet för exekvering, främst på webbplattformar. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt om samspelet mellan olika typer av applikationslogik. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att ta fram eller förbättra produkter som följer standarder och riktlinjer för god praxis och säkerhet, främst för exekvering på serversidan.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om applikationsarkitektur. De ska också ges möjlighet att utveckla kunskaper om och färdigheter i att använda olika verktyg för att producera och kontrollera den kod som exekveras i backend.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle att enskilt och i grupp arbeta i projektform. Undervisningen ska även lämna utrymme för diskussion om och reflektion över både etiska frågor och säkerhetsmässiga överväganden inom backendutveckling.</p> <h5><em>Undervisningen i ämnet backendutveckling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer.</li> <li>Kunskaper om applikationsarkitektur.</li> <li>Förmåga att planera och genomföra utvecklingsprojekt för serverbaserade webbapplikationer och tjänster.</li> <li>Förmåga att utveckla applikationslogik för exekvering på serversidan.</li> <li>Förmåga att systematiskt värdera, utföra och anpassa åtgärder i enlighet med säkerhetskrav.</li> </ul><h3>Nivåer i ämnet backendutveckling</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BACE100TX</h3>",
+      "code": "BACE100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet backendutveckling på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Kontext</em></p> <ul> <li>Webbserverns, applikationsserverns och dynamiska webbplatsers funktionalitet.</li> <li>Översikt av olika lösningar eller språk som finns för att skapa dynamiska webbplatser.</li> <li>Teknisk orientering om webbens protokoll och säkerhet samt samspelet mellan klient och server.</li> <li>Hur backendlösningar samverkar med andra mjukvarukomponenter.</li> </ul> <p><em>Process och metodik</em></p> <ul> <li>Grundläggande principer för applikationsarkitektur och separation av olika slags logik.</li> <li>Utvecklingsprocessen för ett serverbaserat utvecklingsprojekt av enklare karaktär från målsättningar, krav, begränsningar och planering till uppföljning.</li> <li>Specifikation av struktur, design, kodning, testning och driftsättning i mindre projekt.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt.</li> <li>Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.</li> </ul> <p><em>Utveckling och säkerhet</em></p> <ul> <li>Grundfunktionen i ett programspråk för dynamiska webbplatser.</li> <li>Utveckling av serverbaserad webbapplikation.</li> <li>Åtkomst och manipulering av data i befintlig relationsdatabas eller med annan teknik.</li> <li>Vanliga hot och sårbarheter samt sätt att förebygga och hantera dessa.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BACE200TX</h3>",
+      "code": "BACE200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet backendutveckling på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Kontext</em></p> <ul> <li>Strukturering och uppbyggnad av API:er (application programming interface).</li> <li>Anpassning av serverns funktionalitet utifrån kravspecifikation.</li> <li>Hur rapportering av vad som sker på servern genom loggning genomförs.</li> </ul> <p><em>Process och metodik</em></p> <ul> <li>Arkitektur för kommunikation med andra tjänster eller klienter, till exempel REST (representational state transfer).</li> <li>Designmönster för arkitektur.</li> <li>Utvecklingsprocessen för att skapa webbtjänster med målsättningar, planering, systemering, kodning, optimering, skalbarhet, dokumentation och uppföljning.</li> <li>Specifikation av struktur, design, kodning, testning och driftsättning i mer omfattande projekt.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt.</li> <li>Hur interoperabilitet mellan server och klient uppnås genom att följa standarder.</li> <li>Applikationsarkitektur och separation av olika slags logik, till exempel MVC (model-view-controller).</li> </ul> <p><em>Utveckling och säkerhet</em></p> <ul> <li>Kvalitetssäkring av webbtjänster.</li> <li>Hämtning av data från externa webbtjänster.</li> <li>Standardiserade utbytesformat, till exempel JSON (java script object notation) och XML (extensible markup language).</li> <li>Datalagring med och utan ORM-lager eller motsvarande teknik.</li> <li>Design av API:er enligt vedertagen praxis.</li> <li>Synkron och asynkron kommunikation med tjänster och klienter.</li> <li>Kodning och dokumentation enligt vedertagen praxis för vald teknik.</li> <li>Autentisering och säkerhet vid överföring av data, till exempel asymmetrisk kryptering.</li> <li>Hot och sårbarheter samt sätt att värdera, förebygga och hantera dessa.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>övergripande</strong> resonemang om för- och nackdelar med de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om applikationsarkitektur.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> utvecklingsprojekt för serverbaserade webbapplikationer och tjänster.</p> <p>Eleven utvecklar applikationslogik med <strong>viss</strong> skicklighet.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>i huvudsak systematiskt</strong> sätt i enlighet med säkerhetskrav.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utvecklade</strong> resonemang om för- och nackdelar med de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om applikationsarkitektur.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> utvecklingsprojekt för serverbaserade webbapplikationer och tjänster.</p> <p>Eleven utvecklar applikationslogik med <strong>god</strong> skicklighet.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>systematiskt</strong> sätt i enlighet med säkerhetskrav.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>välutvecklade och nyanserade</strong> resonemang om för- och nackdelar med de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om applikationsarkitektur.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> utvecklingsprojekt för serverbaserade webbapplikationer och tjänster.</p> <p>Eleven utvecklar applikationslogik med <strong>mycket god</strong> skicklighet.</p> <p>Eleven värderar, utför och anpassar åtgärder på ett <strong>systematiskt och genomarbetat</strong> sätt i enlighet med säkerhetskrav.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.965Z"
+}

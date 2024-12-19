@@ -1,0 +1,181 @@
+{
+  "code": "BIG",
+  "name": "Biologi – naturbruk",
+  "englishName": "Biology – natural resources",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:183",
+  "skolfsAndring": "2022:51",
+  "nameHeading": "<h2>Biologi – naturbruk</h2>",
+  "description": "<p>Ämnet biologi – naturbruk är naturvetenskapligt och behandlar den biologi som har betydelse för arbete med djur och växter inom naturbruk. Kunskaper om marken och växternas biologi är centrala för verksamheter inom jordbruk, skogsbruk och trädgård. Arbete med olika slags djur ställer krav på kunskaper inom de biologiska vetenskapsområdena etologi, djurens anatomi och fysiologi samt mikrobiologi. I ämnet behandlas också artkunskap, biologisk mångfald och bevarandefrågor.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet biologi – naturbruk ska syfta till att eleverna utvecklar kunskaper om växters och djurs byggnad, livsprocesser och utvecklingsfaser. Den ska också leda till att eleverna utvecklar kunskaper om marken och livsprocesser i marken samt om naturbrukets påverkan på ekosystemen. Undervisningen ska bidra till att eleverna utvecklar förståelse av energiomsättning hos växter och djur samt kretslopp i mark, vatten och luft. Den ska också leda till att eleverna utvecklar förmåga att identifiera, namnge och beskriva växt- och djurarter. Undervisningen ska vidare bidra till att eleverna utvecklar kunskaper om mikrobiologi och mikrobiologiska processer. </p><p>Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt tänkande och en biologisk förståelse av djur och växter. I undervisningen ska eleverna genom praktiska övningar, observationer och fältstudier ges möjlighet att utveckla kunskaper i etologi samt om växternas och djurens anatomi och fysiologi. Genom informationssökning i samband med fältstudier ska eleverna ges möjlighet att utveckla kunskaper om olika arter och biologisk mångfald.</p><h4>Undervisningen i ämnet biologi - naturbruk ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om marken och livet i marken samt om kretslopp i mark, vatten och luft.</li> <li>Kunskaper om växters byggnad, livsprocesser och utvecklingsfaser.</li> <li>Kunskaper om olika djurarter, deras egenskaper och historiska utveckling samt om djurs etologi och naturliga ursprung.</li> <li>Kunskaper om olika djurarters anatomi och fysiologi. </li> <li>Kunskaper om mikroorganismer och mikrobiologiska processer av betydelse inom naturbruket.</li> <li>Förmåga att identifiera, beskriva och namnge växt- och djurarter inom naturbruket.</li> <li>Kunskaper om biologisk mångfald, hotade arter och genbanker.</li> <li>Kunskaper om biologins betydelse inom naturbruket samt förmåga att söka information om växter och djur.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Djurens biologi, 100 poäng, som bygger på kursen biologi 1.</li> <li>Marken och växternas biologi, 100 poäng, som bygger på kursen biologi 1.</li> <li>Bevarandebiologi, 100 poäng, som bygger på kursen djurens biologi eller kursen marken och växternas biologi.</li> <li>Biologi – naturbruk – specialisering, 100 poäng, som bygger på kursen djurens biologi eller kursen marken och växternas biologi. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: BIGDJE0</h3>",
+      "code": "BIGDJE0",
+      "nameHeading": "<h2>Djurens biologi, 100 poäng</h2>",
+      "name": "Djurens biologi",
+      "englishName": "Animal biology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen djurens biologi omfattar punkterna 3–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Etologi</strong> </p><ul> <li>Olika djurslags naturliga miljö och naturliga beteende.</li> <li>Beteendestudier på djur av olika arter i olika miljöer och med olika ålder. </li> <li>Etologiska grundbegrepp, till exempel stimuli, rangordning, flockbeteende, tomgångshandlingar, överslagshandlingar och omriktat beteende.</li> <li>Domesticeringens inverkan på olika djurslag.</li> </ul><p> <strong>Systematik, anatomi och fysiologi</strong> </p><ul> <li>De huvudsakliga indelningarna som används inom djurriket för att kategorisera djur.</li> <li>Artbegreppet och artkännedom.</li> <li>Djurcellens byggnad och livsprocesser.</li> <li>Djurens byggnad innefattande hudens, skelettets och muskulaturens uppbyggnad, nervsystemet med sinnesorganen, hjärt-kärlsystemet, matsmältningsapparaten samt fortplantningsorganen.</li> <li>Livsprocesser innefattande andning, fodersmältning, energiomvandling, näringsbehov, blodcirkulation, temperaturkontroll och reproduktionsbiologi samt djurens rörelse.</li> <li>Samband mellan evolutionen och djurens funktionella byggnad och livsprocesser.</li> </ul><p> <strong>Mikrobiologi</strong> </p><ul> <li>Mikroorganismer och deras betydelse för djurhälsa och djursjukdomar. </li> <li>Virus byggnad, funktion och betydelse för djurhälsa och djursjukdomar.</li> <li>Smittämnen, smittspridning och immunförsvar, antibiotika och resistens mot antibiotika. </li> <li>Laborationer och undersökningar med aktuell utrustning och aktuellt material från naturbrukets olika verksamhetsområden.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>översiktligt </strong>de olika djurarternas naturliga beteende. Dessutom noterar eleven <strong>med viss säkerhet </strong>avvikelser i djurens beteende och förklarar <strong>översiktligt</strong> orsakerna till det avvikande beteendet. </p><p>Eleven redogör <strong>översiktligt</strong> för djurens näringsbehov, matsmältning och energiomsättning. I samband med olika arbetsuppgifter med djur redogör eleven <strong>översiktligt</strong> för djurens anatomi och fysiologi.</p><p>Eleven redogör <strong>översiktligt </strong>för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar.</p><p>I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med viss säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur. </p><p>Eleven redogör <strong>översiktligt </strong>för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om djur. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>begrepp, teorier och modeller.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>utförligt </strong>de olika djurarternas naturliga beteende. Dessutom noterar eleven <strong>med viss säkerhet </strong>avvikelser i djurens beteende och förklarar <strong>utförligt </strong>orsakerna till det avvikande beteendet. </p><p>Eleven redogör <strong>utförligt </strong>för djurens näringsbehov, matsmältning och energiomsättning. I samband med olika arbetsuppgifter med djur redogör eleven <strong>utförligt </strong>för djurens anatomi och fysiologi.</p><p>Eleven redogör <strong>utförligt </strong>för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar.</p><p>I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med viss säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur. </p><p>Eleven redogör <strong>utförligt </strong>för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om djur. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>begrepp, teorier och modeller.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>utförligt och nyanserat </strong>de olika djurarternas naturliga beteende. Dessutom noterar eleven <strong>med säkerhet </strong>avvikelser i djurens beteende och förklarar <strong>utförligt och nyanserat </strong>orsakerna till det avvikande beteendet. </p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för djurens näringsbehov, matsmältning och energiomsättning. I samband med olika arbetsuppgifter med djur redogör eleven <strong>utförligt och nyanserat </strong>för djurens anatomi och fysiologi.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar.</p><p>I samband med fältstudier identifierar eleven <strong>med säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur. </p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för biologins betydelse inom naturbruket samt söker <strong>med säkerhet </strong>information om djur. I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>begrepp, teorier och modeller.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: BIGMAN0</h3>",
+      "code": "BIGMAN0",
+      "nameHeading": "<h2>Marken och växternas biologi, 100 poäng</h2>",
+      "name": "Marken och växternas biologi",
+      "englishName": "Soil and plant biology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen marken och växternas biologi omfattar punkterna 1–2, 5–6 och 8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Mark, vatten och luft</strong> </p><ul> <li>Mark, mineral, berggrund, jordarter och jordmån.</li> <li>Jordartsbildning och jordmånsbildande processer.</li> <li>Jordarternas egenskaper.</li> <li>Växtnäringsämnena och deras kretslopp.</li> <li>Kolets kretslopp.</li> <li>Markstruktur, markluft, dränering och markpackning.</li> <li>Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.</li> <li>Försurning i mark och vatten.</li> <li>Klimat och väderlek.</li> </ul><p> <strong>Växter</strong> </p><ul> <li>Olika växtarter i olika utvecklingsstadier.</li> <li>Grundämnen och kemiska föreningar i växter.</li> <li>Växternas byggnad innefattande växtcellen, växtvävnader och växtens olika organ.</li> <li>Vattnet i växten, vattenupptagning och vattentransport.</li> <li>Fotosyntes, andning och energiomsättning hos växter. </li> <li>Växtnäringsämnen, växtnäringsupptagning och växtnäringsämnenas funktion i växten.</li> <li>Växters utvecklingsstadier samt de yttre och inre faktorer som styr och påverkar utvecklingen.</li> <li>Växters pollinering och spridning. Biodlingens betydelse för växternas pollinering.</li> <li>Växters egenskaper och ärftlighet. </li> <li>Växtskador och deras orsaker, till exempel skador som uppkommer av skadedjur eller väderlek.</li> </ul><p> <strong>Mikrobiologi</strong> </p><ul> <li>Mikroorganismer, svampar, bakterier och övriga organismer av betydelse för markens näringsomsättning och kväveförsörjning.</li> <li>Aeroba och anaeroba processer. </li> <li>Mikroorganismer som är skadegörare på växter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver, i samband med fältstudier, <strong>översiktligt</strong> mark-, vatten- och klimatförhållanden på en växtplats. Dessutom redogör eleven <strong>översiktligt</strong> för kretslopp i mark, vatten och luft samt för betydelsen av fotosyntes och nedbrytning för växtliv och djurliv. I redogörelsen förklarar eleven <strong>översiktligt </strong>biologiska samband samt kretsloppens betydelse på lokal och global nivå.</p><p>Eleven redogör <strong>översiktligt</strong> för växternas byggnad och livsprocesser samt för mikrolivet i marken. I redogörelsen förklarar eleven <strong>översiktligt</strong> växternas energiomsättning, deras vatten- och näringsförsörjning samt deras utvecklingsfaser och tillväxt och hur man kan påverka tillväxten genom olika åtgärder.</p><p>I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> och namnger, med svenska namn, <strong>ett fåtal </strong>vanliga vilda växter, nyttodjur, skadedjur, växtsjukdomar och skadesymtom. Dessutom beskriver eleven <strong>översiktligt </strong>ekologiska samband mellan klimat, växter, skadeorganismer och nyttiga organismer.</p><p>Eleven redogör <strong>översiktligt</strong> för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om växter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver, i samband med fältstudier, <strong>utförligt</strong> mark-, vatten- och klimatförhållanden på en växtplats. Dessutom redogör eleven <strong>utförligt</strong> för kretslopp i mark, vatten och luft samt för betydelsen av fotosyntes och nedbrytning för växtliv och djurliv. I redogörelsen förklarar eleven <strong>utförligt</strong> biologiska samband samt kretsloppens betydelse på lokal och global nivå.</p><p>Eleven redogör <strong>utförligt</strong> för växternas byggnad och livsprocesser samt för mikrolivet i marken. I redogörelsen förklarar eleven <strong>utförligt</strong> växternas energiomsättning, deras vatten- och näringsförsörjning samt deras utvecklingsfaser och tillväxt och hur man kan påverka tillväxten genom olika åtgärder.</p><p>I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> och namnger, med svenska namn, <strong>flera </strong>vanliga vilda växter, nyttodjur, skadedjur, växtsjukdomar och skadesymtom. Dessutom beskriver eleven <strong>utförligt</strong> ekologiska samband mellan klimat, växter, skadeorganismer och nyttiga organismer.</p><p>Eleven redogör <strong>utförligt</strong> för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om växter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver, i samband med fältstudier, <strong>utförligt och nyanserat</strong> mark-, vatten- och klimatförhållanden på en växtplats. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för kretslopp i mark, vatten och luft samt för betydelsen av fotosyntes och nedbrytning för växtliv och djurliv. I redogörelsen förklarar eleven <strong>utförligt och nyanserat</strong> biologiska samband samt kretsloppens betydelse på lokal och global nivå.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för växternas byggnad och livsprocesser samt för mikrolivet i marken. I redogörelsen förklarar eleven <strong>utförligt och nyanserat</strong> växternas energiomsättning, deras vatten- och näringsförsörjning samt deras utvecklingsfaser och tillväxt och hur man kan påverka tillväxten genom olika åtgärder.</p><p>I samband med fältstudier identifierar eleven <strong>med säkerhet</strong> och namnger, med svenska namn, <strong>flera </strong>vanliga vilda växter, nyttodjur, skadedjur, växtsjukdomar och skadesymtom. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> ekologiska samband mellan klimat, växter, skadeorganismer och nyttiga organismer.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för biologins betydelse inom naturbruket samt söker <strong>med säkerhet </strong>information om växter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: BIGBEA0</h3>",
+      "code": "BIGBEA0",
+      "nameHeading": "<h2>Bevarandebiologi, 100 poäng</h2>",
+      "name": "Bevarandebiologi",
+      "englishName": "Conservation biology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen bevarandebiologi omfattar punkterna 6–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika växt- och djurarter, utrotningshotade växt- och djurarter samt systematik. </li> <li>Artinventering i olika biotoper.</li> <li>Biotopkrav, utbredning och hemområden för utrotningshotade djurarter.</li> <li>Beteendeekologi.</li> <li>Naturbrukets påverkan på utrotningshotade arter och biologisk mångfald.</li> <li>Metoder för att bevara utrotningshotade arter. </li> <li>Djurparkers bevarandeprogram. Etiska ställningstaganden i samband med bevarande av olika arter. </li> <li>Naturbetesmarker och biologisk mångfald.</li> <li>Bevarandefrågor i samband med skogsskötsel och rödlistade arter.</li> <li>Biotoprestaureringar.</li> <li>Lagar och andra bestämmelser som begränsar handel med utrotningshotade arter.</li> <li>Myndigheter och organisationer som arbetar med frågor om utrotningshotade arter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar <strong>med viss säkerhet</strong>, i samband med fältstudier, samt namnger, med svenska och vetenskapliga namn, <strong>några </strong>utrotningshotade växt- och djurarter. Dessutom utför eleven <strong>i samråd </strong>med handledare inventeringar enligt anvisningar. Vid inventeringen använder eleven <strong>med viss säkerhet </strong>bestämningsnycklar för att identifiera vanligt förekommande arter. </p><p>Eleven redogör <strong>översiktligt </strong>för olika biotopers sammansättning och karaktär. Eleven beskriver också <strong>översiktligt </strong>olika metoder för att bevara och restaurera biotoper samt bevara genetiskt material. Dessutom diskuterar eleven<strong> översiktligt </strong>etiska frågor inom området. I diskussionerna redogör eleven <strong>översiktligt </strong>för lagar och andra bestämmelser, för olika bevarandeprojekt samt för myndigheter och organisationer av betydelse för bevarandearbetet.</p><p>Eleven redogör <strong>översiktligt</strong> för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Dessutom söker eleven <strong>med viss säkerhet </strong>information om utrotningshotade växt- och djurarter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar <strong>med viss säkerhet</strong>, i samband med fältstudier, samt namnger, med svenska och vetenskapliga namn, <strong>flera </strong>utrotningshotade växt- och djurarter. Dessutom utför eleven <strong>efter samråd </strong>med handledare inventeringar enligt anvisningar. Vid inventeringen använder eleven <strong>med viss säkerhet </strong>bestämningsnycklar för att identifiera vanligt förekommande arter. </p><p>Eleven redogör <strong>utförligt </strong>för olika biotopers sammansättning och karaktär. Eleven beskriver också <strong>utförligt </strong>olika metoder för att bevara och restaurera biotoper samt bevara genetiskt material. Dessutom diskuterar eleven<strong> utförligt </strong>etiska frågor inom området. I diskussionerna redogör eleven <strong>utförligt </strong>för lagar och andra bestämmelser, för olika bevarandeprojekt samt för myndigheter och organisationer av betydelse för bevarandearbetet.</p><p>Eleven redogör <strong>utförligt </strong>för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Dessutom söker eleven <strong>med viss säkerhet </strong>information om utrotningshotade växt- och djurarter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar <strong>med säkerhet</strong>, i samband med fältstudier, samt namnger, med svenska och vetenskapliga namn, <strong>flera </strong>utrotningshotade växt- och djurarter. Dessutom utför eleven <strong>efter samråd </strong>med handledare inventeringar enligt anvisningar. Vid inventeringen använder eleven <strong>med säkerhet </strong>bestämningsnycklar för att identifiera vanligt förekommande arter. </p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för olika biotopers sammansättning och karaktär. Eleven beskriver också <strong>utförligt och nyanserat </strong>olika metoder för att bevara och restaurera biotoper samt bevara genetiskt material. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>etiska frågor inom området. I diskussionerna redogör eleven <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser, för olika bevarandeprojekt samt för myndigheter och organisationer av betydelse för bevarandearbetet.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för biologins betydelse inom naturbruket när det gäller bevarande av utrotningshotade arter samt för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Dessutom söker eleven <strong>med säkerhet </strong>information om utrotningshotade växt- och djurarter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: BIGBIG00S</h3>",
+      "code": "BIGBIG00S",
+      "nameHeading": "<h2>Biologi – naturbruk – specialisering, 100 poäng</h2>",
+      "name": "Biologi – naturbruk – specialisering",
+      "englishName": "Biology – natural resources – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen biologi – naturbruk – specialisering omfattar punkterna 1–2, 5–6 och 8 under rubriken Ämnets syfte, om specialiseringen handlar om mark och växter, eller punkterna 3–6 och 8 under rubriken Ämnets syfte, om specialiseringen handlar om djur. Om specialiseringen dessutom handlar om bevarandebiologi omfattar kursen även punkt 7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Fördjupning inom valt specialiseringsområde. Exempel på områden kan vara ekologi, växt- och djurliv, etologi, biodling och binas betydelse i naturbruket, jämförande anatomi och fysiologi hos djur, växternas biologi samt mikrobiologi. </li> <li>Mikroorganismer och mikrobiologiska processer av betydelse för specialiseringsområdet.</li> <li>Fältstudier och egna undersökningar.</li> <li>Olika växt- eller djurarter.</li> <li>Metoder för informationssökning om växter eller djur.</li> <li>Begrepp, teorier och modeller inom valt specialiseringsområde.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare fältstudier och egna undersökningar, gör <strong>enkla </strong>tolkningar av resultatet samt drar <strong>enkla</strong> slutsatser utifrån det genomförda arbetet. I samband med fältstudierna och de egna undersökningarna identifierar eleven <strong>med viss säkerhet</strong> samt namnger och grupperar <strong>några </strong>växter eller djur. Dessutom beskriver eleven <strong>översiktligt</strong> de olika växt- eller djurarterna samt redogör <strong>översiktligt </strong>för mikroorganismer och mikrobiologiska processer av betydelse för specialiseringsområdet.</p><p>Eleven redogör <strong>översiktligt</strong> för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om växter eller djur. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>begrepp, teorier och modeller.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare fältstudier och egna undersökningar, gör <strong>välgrundade </strong>tolkningar av resultatet samt drar <strong>välgrundade</strong> slutsatser utifrån det genomförda arbetet. I samband med fältstudierna och de egna undersökningarna identifierar eleven <strong>med viss säkerhet</strong> samt namnger och grupperar <strong>flera </strong>växter eller djur. Dessutom beskriver eleven <strong>utförligt </strong>de olika växt- eller djurarterna samt redogör <strong>utförligt </strong>för mikroorganismer och mikrobiologiska processer av betydelse för specialiseringsområdet.</p><p>Eleven redogör <strong>utförligt </strong>för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet </strong>information om växter eller djur. I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>begrepp, teorier och modeller.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare fältstudier och egna undersökningar, gör <strong>välgrundade och nyanserade </strong>tolkningar av resultatet samt drar <strong>välgrundade och nyanserade</strong> slutsatser utifrån det genomförda arbetet. I samband med fältstudierna och de egna undersökningarna identifierar eleven <strong>med säkerhet</strong> samt namnger och grupperar <strong>flera </strong>växter eller djur. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>de olika växt- eller djurarterna samt redogör <strong>utförligt och nyanserat </strong>för mikroorganismer och mikrobiologiska processer av betydelse för specialiseringsområdet.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för biologins betydelse inom naturbruket samt söker <strong>med säkerhet </strong>information om växter eller djur. I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>begrepp, teorier och modeller.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.950Z"
+}

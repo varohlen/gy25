@@ -1,0 +1,64 @@
+{
+  "code": "KOSO",
+  "name": "Kost och hälsa",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:315",
+  "nameHeading": "<h2>Kost och hälsa</h2>",
+  "description": "<p>Ämnet kost och hälsa utgår från sambanden mellan hälsa, välbefinnande, kost- och levnadsvanor samt livsvillkor. Ämnet behandlar hälsa och olika former av hälsofrämjande arbete och ger verktyg för att orientera sig i och förstå hur olika hälsofaktorer kan stärka eller bibehålla människors fysiska, psykiska och sociala hälsa.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kost och hälsa ska syfta till att eleverna utvecklar kunskaper om kostvanors, levnadsvanors och livsvillkors påverkan på hälsa och välbefinnande. Hälsosamma matvanor kan främja god fysisk och psykisk hälsa. Därför ska eleverna ges möjlighet att utveckla kunskaper om näringsrekommendationer och kostråd för olika målgrupper. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta hälsofrämjande utifrån ett salutogent förhållningssätt. Undervisningen ska också stimulera elevernas engagemang för hälsofrämjande metoder och aktiviteter samt deras vilja att söka ny kunskap inom området.</p> <p>Eleverna ska ges möjlighet att utveckla insikter om egna och andras levnadsvanor och livsvillkor. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda centrala begrepp inom området kost och hälsa samt att reflektera över hur olika hälsofaktorer kan stärka eller bibehålla människors fysiska, psykiska och sociala hälsa.</p> <p>Genom undervisningen ska eleverna ges möjlighet att resonera om kost-, hälso- och livsstilsfrågor samt om etiska frågor i relation till dessa. Eleverna ska också ges rikliga tillfällen att reflektera över egna och andras handlingar och attityder inom området.</p> <h5><em>Undervisningen i ämnet kost och hälsa ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om samband mellan livsvillkor, levnadsvanor och god hälsa.</li> <li>Kunskaper om näringsrekommendationer och kostråd för olika målgrupper.</li> <li>Förmåga att reflektera över hälso- och livsstilsfrågor.</li> </ul><h3>Nivåer i ämnet kost och hälsa</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KOSO1000X</h3>",
+      "code": "KOSO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kost och hälsa på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Samband mellan hälsa och livsvillkor.</li> <li>Hur kost- och levnadsvanor kan främja hälsa och välbefinnande.</li> <li>Hur olika hälsofaktorer kan påverka fysisk, psykisk och social hälsa, däribland kost, fysisk aktivitet, rökning, alkoholvanor, vila och återhämtning.</li> <li>Centrala begrepp, metoder och aktiviteter inom området kost och hälsa, däribland det salutogena förhållningssättet.</li> <li>Näringsrekommendationer.</li> <li>Kostråd för olika målgrupper.</li> <li>Hälsosamma och miljömässigt hållbara matvanor.</li> <li>Näringsberäkningar. Hur måltider kan skapas utifrån näringsrekommendationer och näringsberäkningar.</li> <li>Specialkost. Hur måltider kan anpassas vid vanliga matallergier, annan medicinsk överkänslighet eller annan sjukdom.</li> <li>Olika sätt att anpassa måltider eller erbjuda alternativ kost, till exempel med hänsyn till funktionsnedsättning eller religion.</li> <li>Lagar och andra bestämmelser samt riktlinjer inom området, däribland Livsmedelsverkets nationella riktlinjer för måltider i vård, skola och omsorg.</li> <li>Hur vägledning om hälsofrämjande kost- och levnadsvanor kan kommuniceras på ett yrkesetiskt sätt.</li> <li>Reflektion över kost, hälsa och livsstil utifrån ett etiskt och normkritiskt förhållningssätt.</li> <li>Hur normer om kost-, hälso- och livsstilsfrågor kan skapas och påverka såväl det egna som andras förhållningssätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om samband mellan hälsa och livsvillkor samt hur kost- och levnadsvanor kan främja människors hälsa och välbefinnande.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om näringsrekommendationer och kostråd för olika målgrupper.</p> <p>Eleven gör <strong>enkla</strong> reflektioner över hälso- och livsstilsfrågor.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om samband mellan hälsa och livsvillkor samt hur kost- och levnadsvanor kan främja människors hälsa och välbefinnande.</p> <p>Eleven visar <strong>goda</strong> kunskaper om näringsrekommendationer och kostråd för olika målgrupper.</p> <p>Eleven gör <strong>utvecklade</strong> reflektioner över hälso- och livsstilsfrågor.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om samband mellan hälsa och livsvillkor samt hur kost- och levnadsvanor kan främja människors hälsa och välbefinnande.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om näringsrekommendationer och kostråd för olika målgrupper.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> reflektioner över hälso- och livsstilsfrågor.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.031Z"
+}

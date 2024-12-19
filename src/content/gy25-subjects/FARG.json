@@ -1,0 +1,64 @@
+{
+  "code": "FARG",
+  "name": "Fartygsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:280",
+  "nameHeading": "<h2>Fartygsteknik</h2>",
+  "description": "<p>Ämnet fartygsteknik behandlar den teknik och de metoder som används för säker lasthantering på fartyg. Ämnet behandlar även skydd av den marina miljön i samband med lasthantering.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fartygsteknik ska syfta till att eleverna utvecklar kunskaper om olika fartygstypers konstruktion och funktion samt hur säker lasthantering utförs på fartyg. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om risker med olika typer av laster samt om säkerhets- och miljömedvetna arbetssätt. Enligt nationella och internationella bestämmelser är dessa kunskaper ett krav för tjänstgöring ombord på fartyg. Sjöfartsbranschens bredd samt produkt- och teknikutveckling inom området ställer krav på anpassning och flexibilitet. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>Arbetet ombord innebär stora risker för besättningen där felbedömningar och brister i kommunikationen kan leda till allvarliga konsekvenser för såväl den enskilde som för gruppen. Därtill kan skador på fartyg eller fartygs utrustning leda till att människor, fartyg eller miljö utsätts för fara. Miljöskyddsarbete, arbetsmiljö och säkerhet ska därför ha en central plats i undervisningen. Undervisningen ska också leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller för yrkesområdet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om yrkesrollen och om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska ges möjlighet att utveckla förmåga att kommunicera och samverka i olika yrkessammanhang.</p> <p>I undervisningen ska uppgifterna konstrueras med utgångspunkt från autentisk fartygsmiljö för att förbereda eleverna för situationer som de kan komma att möta i sin yrkesutövning. På så sätt ska undervisningen bidra till att eleverna utvecklar förståelse av hur lasthanteringsutrustning fungerar och samverkar samt förståelse för betydelsen av handlingsförmåga vid uppkomna oplanerade situationer. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet fartygsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika fartygstypers konstruktion och funktion.</li> <li>Kunskaper om hur säker lasthantering utförs på olika fartygstyper i enlighet med lagar och andra bestämmelser inom arbetsområdet.</li> <li>Kunskaper om terminologi och kommunikation vid lasthantering.</li> </ul><h3>Nivåer i ämnet fartygsteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FARG1000X</h3>",
+      "code": "FARG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fartygsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Fartygstyper och fartygskonstruktioner</em></p> <ul> <li>Olika fartygstyper och deras laster.</li> <li>Luckor, portar och vattentäta dörrar.</li> <li>Skrovöppningar och öppningar till lastutrymmen.</li> <li>Rörsystem och pumpar för slagvatten och barlast.</li> <li>Brandskydd för olika fartygstyper och deras olika laster.</li> </ul> <p><em>Torrlasthantering</em></p> <ul> <li>Klassificering och hantering av farligt gods.</li> <li>Lasthantering och säkring av last.</li> <li>Dävertar, kranar, vinschar och lyftutrustning.</li> <li>Personlig säkerhet och säkerhetsåtgärder vid torrlasthantering.</li> <li>Nödåtgärder och nödinstruktioner vid torrlasthantering.</li> <li>Miljö- och säkerhetsrisker vid torrlasthantering.</li> <li>Skydd av den marina miljön vid torrlasthantering.</li> </ul> <p><em>Tanklasthantering</em></p> <ul> <li>Lasthantering på olje- och kemikalietankfartyg.</li> <li>Åtgärder för att undvika risker och förebygga skador.</li> <li>Personlig säkerhet och säkerhetsåtgärder vid tanklasthantering.</li> <li>Nödåtgärder och nödinstruktioner vid tanklasthantering.</li> <li>Miljö- och säkerhetsrisker vid tanklasthantering.</li> <li>Skydd av den marina miljön vid tanklasthantering.</li> </ul> <p><em>Terminologi och kommunikation vid lasthantering</em></p> <ul> <li>Fartygs tekniska terminologi, däribland definitioner och måttenheter som beskriver fartygs tekniska konstruktion och lastförmåga.</li> <li>Termer och begrepp som används vid lastning och lossning.</li> <li>Hydrostatiska begrepp, till exempel fartygs djupgående, trim, slagsida och stabilitet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika fartygstypers konstruktion och funktion.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lasthantering på olika fartygstyper i enlighet med lagar och andra bestämmelser som reglerar verksamhetsområdet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om terminologi och begrepp samt om yrkesmässig kommunikation vid lasthantering.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika fartygstypers konstruktion och funktion.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lasthantering på olika fartygstyper i enlighet med lagar och andra bestämmelser som reglerar verksamhetsområdet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om terminologi och begrepp samt om yrkesmässig kommunikation vid lasthantering.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika fartygstypers konstruktion och funktion.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lasthantering på olika fartygstyper i enlighet med lagar och andra bestämmelser som reglerar verksamhetsområdet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om terminologi och begrepp samt om yrkesmässig kommunikation vid lasthantering.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

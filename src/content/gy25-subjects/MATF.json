@@ -1,0 +1,58 @@
+{
+  "code": "MATF",
+  "name": "Matematik – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:187",
+  "nameHeading": "<h2>Matematik – fördjupning</h2>",
+  "description": "<p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Matematik – fördjupning behandlar differentialekvationer och diskret matematik. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet matematik – fördjupning ska syfta till att eleverna utvecklar och fördjupar sina kunskaper i matematik, främst inom differentialekvationer, logik och diskret matematik. Det innefattar att utveckla förståelse av begrepp och metoder som ger en grund för matematikintensiva studier på högskolenivå samt olika strategier för att kunna lösa problem och använda matematik i olika sammanhang. Undervisningen ska innehålla hantering av avancerade uttryck samt bevisföring. I undervisningen ska eleverna ges möjlighet att fördjupa och bredda sina kunskaper i matematik samt utveckla sin nyfikenhet och kreativitet. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att föra och följa matematiska resonemang och att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digitala verktyg för att lösa problem samt fördjupa sitt matematikkunnande och utvidga de områden där matematikkunnandet kan användas.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del.</p> <h5><em>Undervisningen i ämnet matematik – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och utföra rutinuppgifter utan och med verktyg.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att tillämpa, formulera och utvärdera matematiska modeller.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ul><h3>Nivåer i ämnet matematik – fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet matematik – fortsättning.</li></ul>",
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATF1000X</h3>",
+      "code": "MATF1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matematik – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Aritmetik, algebra och funktioner</em></p> <ul> <li>Begreppet differentialekvation och exempel på tillämpningar. Verifiering av lösningar till differentialekvationer.</li> <li>Strategier för att ställa upp och tolka differentialekvationer. Digitala metoder för att lösa differentialekvationer.</li> <li>Metoder för att lösa enklare linjära differentialekvationer av första och andra ordningen för hand.</li> </ul> <p><em>Logik och diskret matematik</em></p> <ul> <li>Bevismetoder, däribland motsägelsebevis och induktionsbevis.</li> <li>Representation av tal i olika talbaser.</li> <li>Kongruens hos hela tal och metoder för kongruensräkning.</li> <li>Begreppen permutation och kombination. Motivering och hantering av metoder för att bestämma antal permutationer och kombinationer.</li> <li>Begreppet rekursion och rekursiva talföljder.</li> <li>Begreppet mängd. Notationer i mängdlära och hantering av operationer på mängder.</li> </ul> <p><em>Digitala verktyg</em></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering hantering av algebraiska uttryck och problemlösning.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> </ul> <p><em>Problemlösning och tillämpningsområden</em></p> <ul> <li>Problemlösning med särskild utgångspunkt i utbildningens karaktär och samhällsliv.</li> <li>Omfångsrika problemsituationer som är relevanta för utbildningens karaktär, däribland problem som fördjupar kunskaper om integraler och derivata.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Orientering om något ur matematikens historia, till exempel hur ett matematiskt begrepp utvecklats, matematikens roll i något historiskt skeende, en betydande person inom matematik eller ett historiskt matematiskt problem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>godtagbar</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>godtagbar</strong> bredd och säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis</strong> underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med viss säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa</strong> problem inom olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl</strong> underbyggda matematiska resonemang, <strong>genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>mycket god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>mycket god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl</strong> underbyggda matematiska resonemang, <strong>genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.040Z"
+}

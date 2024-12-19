@@ -1,0 +1,64 @@
+{
+  "code": "DANT",
+  "name": "Dansteori",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:139",
+  "nameHeading": "<h2>Dansteori</h2>",
+  "description": "<p>Ämnet dansteori behandlar begrepp, teorier och metoder som möjliggör att förstå och tolka dans i ett estetiskt, socialt, politiskt och kulturellt sammanhang. Ämnet är till sin karaktär tvärvetenskapligt men har sin bas i dansvetenskap och kulturvetenskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dansteori ska syfta till att eleverna utvecklar kunskaper om hur dans avspeglar och bidrar till samhällets kulturella värderingar. Eleverna ska ges möjlighet att utveckla kunskaper om hur kropp, genus, klass och etnicitet gestaltas i och genom dans ur olika perspektiv, såväl historiska som samtida.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att reflektera över olika estetiska förhållningssätt till dans, i sceniska och sociala sammanhang, och hur dessa har ändrats genom historien. Eleverna ska på det sättet ges möjlighet att utveckla ett kritiskt förhållningssätt till dans som kulturuttryck.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om danspraktiker i historiska och samtida kontexter. På så sätt ska eleverna ges möjlighet att utveckla förmåga att kritiskt granska, problematisera och se samband mellan olika historiografiska indelningar och avgränsningar. Undervisningen ska även bidra till att eleverna utvecklar förståelse av likheter och skillnader mellan att tolka dans ur dansarens, koreografens respektive publikens synvinkel.</p> <p>Genom att analysera olika föreställningar, både levande och inspelade, ska eleverna ges möjlighet att utveckla förmåga att, såväl praktiskt som teoretiskt, reflektera över dans som ett estetiskt och kulturellt uttryck bundet till sitt historiska och samtida sammanhang. I undervisningen ska eleverna ges möjlighet att såväl muntligt som skriftligt och genom dans problematisera olika tolkningsmöjligheter när det gäller synen på kropp, danshistorieskrivning, dansande och dansföreställningar. Dessutom ska eleverna ges möjlighet att diskutera och reflektera över etiska förhållningssätt inom dansutövande. Undervisningen ska varva teoretiska och praktiska inslag och betona en jämlik och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <h5><em>Undervisningen i ämnet dansteori ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att analysera och reflektera över dans som ett kulturellt uttryck i relation till samhällens syn på kropp, genus och etnicitet.</li> <li>Kunskaper om olika förhållningssätt till dans och hur de har förändrats genom historien.</li> <li>Förmåga att med hjälp av relevanta begrepp och metoder analysera och tolka dans.</li> <li>Kunskaper om etiska förhållningssätt inom dans.</li> </ul><h3>Nivåer i ämnet dansteori</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DANT1000X</h3>",
+      "code": "DANT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansteori på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Analys och reflektion</em></p> <ul> <li>Reflektion över dans som uttryck för kulturella värderingar.</li> <li>Praktisk och teoretisk analys samt samtal om relationen mellan synen på dans och kropp, genus och etnicitet ur ett samhällsperspektiv, såväl historiskt som samtida. Dans som uttryck i olika medier.</li> <li>Problematisering, analys och diskussion om förändringsprocesser inom dans ur samtida och historiska perspektiv i relation till olika sammanhang, till exempel estetiska, sociala, politiska och kulturella.</li> <li>Begrepp och metoder för analys av levande eller inspelade dansföreställningar.</li> <li>Analys av dansföreställningar ur olika synvinklar, till exempel estetiska, kulturella och historiska. Sceniska komponenter och hur de samspelar.</li> <li>Praktisk och teoretisk jämförelse samt analys av olika dansgenrer och stilar.</li> </ul> <p><em>Historiska, kulturella och samtida kontexter</em></p> <ul> <li>Olika danshistoriska framställningar och indelningar som används inom dansområdet.</li> <li>Kritisk reflektion över danshistorieskrivningar och indelningar i epoker, genrer och stilar samt olika estetiska förhållningssätt till dans.</li> <li>Dans och dansande i sociala och sceniska sammanhang, med exempel från olika kulturer.</li> <li>Utforskande och problematisering av dans som scenisk konstform, till exempel utifrån kropp, klass, genus och etnicitet.</li> </ul> <p><em>Etiska förhållningssätt</em></p> <ul> <li>Kritisk granskning av dokumentation av dans utifrån ett etiskt förhållningssätt, till exempel frågor om upphovsrätt.</li> <li>Betydelsen och problematisering av jämlikhet, samtycke och lyhördhet inom dans.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven gör <strong>enkla</strong> analyser av dans som uttryck för kulturella värderingar.</p> <p>Eleven för <strong>enkla</strong> resonemang om olika förhållningssätt till dans och hur de har förändrats genom historien.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av olika dansföreställningar med hjälp av relevanta begrepp och metoder.</p> <p>Eleven resonerar <strong>översiktligt</strong> om etiska förhållningssätt inom dans.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven gör <strong>utvecklade</strong> analyser av dans som uttryck för kulturella värderingar.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om olika förhållningssätt till dans och hur de har förändrats genom historien.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och tolkningar av olika dansföreställningar med hjälp av relevanta begrepp och metoder.</p> <p>Eleven resonerar <strong>utförligt</strong> om etiska förhållningssätt inom dans.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven gör <strong>välutvecklade</strong> analyser av dans som uttryck för kulturella värderingar.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om olika förhållningssätt till dans och hur de har förändrats genom historien.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser och tolkningar av olika dansföreställningar med hjälp av relevanta begrepp och metoder.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om etiska förhållningssätt inom dans.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

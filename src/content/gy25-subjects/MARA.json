@@ -1,0 +1,78 @@
+{
+  "code": "MARA",
+  "name": "Marina system",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:319",
+  "nameHeading": "<h2>Marina system</h2>",
+  "description": "<p>Ämnet marina system behandlar marina systems funktion och användningsområden samt installation och service av marintekniska system och komfortsystem. Skador på fartyg och fartygs system kan leda till att människor, fartyg eller miljö utsätts för fara. Korrekt utfört installations- och underhållsarbete är därför avgörande för både säkerhet och för skydd av den marina miljön.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marina system ska syfta till att eleverna utvecklar kunskaper om marintekniska system och komfortsystem ombord på fritidsbåtar och mindre fartyg i yrkestrafik samt förmåga att installera, driftsätta och underhålla dessa system. Undervisningen ska också leda till att eleverna utvecklar kunskaper om olika materials och produkters egenskaper och funktion samt förmåga att hantera material, verktyg och utrustning som används inom arbetsområdet. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla kännedom om branschens ansvar för hållbar utveckling. Produkt- och teknikutvecklingen inom arbetsområdet ställer krav på anpassning och flexibilitet. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>Arbete inom de marintekniska områdena innebär flera olika risker. Miljöskyddsarbete, arbetsmiljö- och säkerhetsfrågor ska därför ha en central plats i undervisningen och eleverna ska ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom yrkesområdet. Undervisningen ska leda till att eleverna utvecklar förmåga att etablera en arbetsplats utifrån uppsatta mål för säkerhet och kvalitet samt med hänsyn till arbetsmiljö och ergonomi. Eleverna ska även ges möjlighet att utveckla förmåga att identifiera, förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om yrkesrollen och vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk. Därigenom ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i olika yrkessammanhang. Eleverna ska även ges möjlighet att utveckla förmåga att föra värderande diskussioner om arbetsprocess och resultat.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Arbetsuppgifterna ska vara konstruerade med utgångspunkt i situationer som eleverna kan komma att möta i sin yrkesutövning. På så sätt ska undervisningen ge eleverna möjlighet att utveckla förståelse av arbetets komplexitet samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet marina system ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om marina systems funktion och användningsområden.</li> <li>Förmåga att installera, driftsätta och underhålla marina system på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> </ul><h3>Nivåer i ämnet marina system</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet marin el.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MARA1000X</h3>",
+      "code": "MARA1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marina system på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Marina system</em></p> <ul> <li>Funktion och användningsområden för olika komfortsystem, däribland pentry samt värme-, kyl- och VVS-tekniska system.</li> <li>Funktion och användningsområden för olika marintekniska system, däribland manöversystem och navigationsutrustning.</li> <li>Batterier och laddningssystem samt batteriseparering.</li> <li>Strömförsörjning till batterier och laddningssystem, till exempel från generatorer, solceller och vindkraft.</li> <li>Systembeskrivningar och installationshandledningar.</li> <li>Dimensionering och fördelningsteknik i samband med svagströmsinstallationer, VVS-installationer och installation av gasolanläggningar.</li> <li>Metoder för felsökning på marina system.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller installationer i fartygsmiljö, däribland bestämmelser om arbetsmiljö och säkerhet.</li> <li>Resursanvändning och avfallsförebyggande åtgärder samt branschens ansvar för hållbar utveckling.</li> <li>Nationella och internationella bestämmelser och publikationer som gäller system i den marina miljön.</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt socialt, ekonomiskt och miljömässigt hållbart sätt.</li> <li>Framställning av skisser och scheman för beräkningar av planerade installationer.</li> <li>Beräkning av kostnader, material- och tidsåtgång. Kostnadsförslag.</li> <li>Tolkning och användning av manualer, produktbeskrivningar och informationsmaterial på svenska och engelska.</li> <li>Tolkning och användning av arbetsinstruktioner.</li> <li>Val och säker hantering av verktyg och utrustning.</li> <li>Val och hantering av material på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Säker hantering av miljöfarliga produkter.</li> <li>Installation, felsökning och service på förekommande komfortsystem ombord, till exempel i pentry samt värme-, kyl- och VVS-system.</li> <li>Installation och driftsättning av marintekniska system, till exempel manöversystem och navigationsutrustning.</li> <li>Kontroll inför drifttagning och funktionsprovning.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Ergonomiskt säkra och skadeförebyggande arbetssätt.</li> <li>Hantering av fartyg på land och i vatten.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråkliga begrepp på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang, till exempel kollegor och andra yrkesgrupper.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MARA2000X</h3>",
+      "code": "MARA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marina system på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Marina system och arbetsmetoder</em></p> <ul> <li>Olika komfortsystem anpassade utifrån fartygs storlek och behov. Olika komplexa komfortsystem samt systemens uppbyggnad och aktualitet.</li> <li>Olika marintekniska system anpassade utifrån fartygs storlek och behov. Olika komplexa marintekniska system samt systemens uppbyggnad och aktualitet.</li> <li>Systembeskrivningar och installationshandledningar.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller installationer i fartygsmiljö, däribland bestämmelser om arbetsmiljö och säkerhet.</li> <li>Resursanvändning och avfallsförebyggande åtgärder samt branschens ansvar för hållbar utveckling.</li> <li>Bestämmelser för säkerhet och miljöskydd, till exempel SOLAS (safety of life at sea) och MARPOL (international convention for the prevention of pollution from ships).</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt ekonomiskt, socialt och miljömässigt hållbart sätt.</li> <li>Framställning av ritningar inför och efter genomförda installationer.</li> <li>Beräkning av kostnader, material- och tidsåtgång. Samband mellan kvalitet och ekonomi.</li> <li>Tolkning och användning av manualer, produktbeskrivningar och informationsmaterial på svenska och engelska.</li> <li>Tolkning och användning av arbetsinstruktioner.</li> <li>Val och säker hantering av verktyg och utrustning.</li> <li>Val och hantering av material på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Installation och driftsättning av hela komfortsystem.</li> <li>Installation och driftsättning av hela marintekniska system.</li> <li>Installation och driftsättning av strömförsörjning till batterier och laddningssystem.</li> <li>Felsökning och service på installerade system.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Ergonomiskt säkra och skadeförebyggande arbetssätt.</li> <li>Säker hantering av fartyg i vatten och på land.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråk.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang, till exempel kunder och leverantörer.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om marina systems funktion och användningsområden.</p> <p>Eleven installerar, driftsätter och underhåller marina system med <strong>godtagbart</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>visst</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om marina systems funktion och användningsområden.</p> <p>Eleven installerar, driftsätter och underhåller marina system med <strong>gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om marina systems funktion och användningsområden.</p> <p>Eleven installerar, driftsätter och underhåller marina system med <strong>mycket gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>mycket gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.038Z"
+}

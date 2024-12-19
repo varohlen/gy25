@@ -1,0 +1,64 @@
+{
+  "code": "SPAT",
+  "name": "Spårfordon – trafikövervaknings- och signalsystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:355",
+  "nameHeading": "<h2>Spårfordon – trafikövervaknings- och signalsystem</h2>",
+  "description": "<p>Ämnet spårfordon – trafikövervaknings- och signalsystem behandlar de system som kontrollerar och övervakar spårfordons trafikrörelser. Ämnet behandlar även underhåll av systemen och deras komponenter samt teknisk information och utrustning som används i arbetet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet spårfordon – trafikövervaknings- och signalsystem ska syfta till att eleverna utvecklar kunskaper om trafikövervaknings- och signalsystem för spårfordon. Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra underhåll av system och komponenter för trafikövervakning- och signalsystem i spårfordon. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda teknisk information och utrustning i samband med underhåll.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet. Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och andra aktörer. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som de kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjlighet att både självständigt och tillsammans med andra arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet spårfordon – trafikövervaknings- och signalsystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om trafikövervaknings- och signalsystem för spårfordon samt om underhåll av dessa.</li> <li>Förmåga att genomföra underhåll av trafikövervaknings- och signalsystem i spårfordon.</li> <li>Förmåga att använda teknisk information och utrustning i samband med underhåll av trafikövervaknings- och signalsystem i spårfordon.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet spårfordon – trafikövervaknings- och signalsystem</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SPAT1000X</h3>",
+      "code": "SPAT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet spårfordon – trafikövervaknings- och signalsystem på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>ATC (automatic train control) och ERTMS (european rail traffic management system) samt systemens funktion och olika komponenter.</li> <li>Säkerhetsföreskrifter och krav på trafikövervaknings- och signalsystem för säker, effektiv och tillförlitlig drift.</li> <li>Olika applikationsprograms uppbyggnad för trafikövervakning och fordonsrörelser.</li> <li>Loggningssystem för trafikhändelser.</li> <li>Metoder för planering och genomförande av förebyggande och avhjälpande underhåll av trafikövervaknings- och signalsystem och deras komponenter.</li> <li>Underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon samt hantering av systemen vid inträde och utträde från underhållsdepåer.</li> <li>Användning av anvisningar och övrig teknisk information på svenska och engelska samt utrustning i samband med underhåll av trafikövervaknings-och signalsystem och deras komponenter i spårfordon.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Riskbedömning och säkerhetsmedvetet arbete i samband med diagnos och reparationer av elektrifierade fordon.</li> <li>Utvärdering av arbetsprocess och utfört arbete.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och andra aktörer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om trafikövervaknings- och signalsystem för spårfordon samt om underhåll av dessa.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven använder med <strong>viss säkerhet</strong> teknisk information och utrustning i samband med underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om trafikövervaknings- och signalsystem för spårfordon samt om underhåll av dessa.</p> <p>Eleven genomför med <strong>säkerhet</strong> underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven använder med <strong>säkerhet</strong> teknisk information och utrustning i samband med underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om trafikövervaknings- och signalsystem för spårfordon samt om underhåll av dessa.</p> <p>Eleven genomför med <strong>god säkerhet</strong> underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknisk information och utrustning i samband med underhåll av trafikövervaknings- och signalsystem och deras komponenter i spårfordon.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt spårfordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.083Z"
+}

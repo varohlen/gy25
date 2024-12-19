@@ -1,0 +1,143 @@
+{
+  "code": "VÄX",
+  "name": "Växtkunskap",
+  "englishName": "Plant studies",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:203",
+  "skolfsAndring": "2022:328",
+  "nameHeading": "<h2>Växtkunskap</h2>",
+  "description": "<p>Ämnet växtkunskap behandlar de växter som används i park- och trädgårdsmiljöer. För att kunna välja och arbeta med växter i olika miljöer krävs goda art- och sortkunskaper samt kunskaper om växternas behov och funktion i olika sammanhang. Ämnet behandlar också biologiska och ekologiska samband mellan växter, mark, klimat och andra organismer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p> Undervisningen i ämnet växtkunskap ska syfta till att eleverna utvecklar kunskaper om växter för yrkesmässigt arbete med växter och växtmiljöer. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att identifiera, beskriva och namnge växter med vetenskapliga och yrkesmässiga termer. Undervisningen ska bidra till att eleverna utvecklar kunskaper om växters egenskaper och kvalitet samt om kvalitetskrav för växter. Eleverna ska också ges möjlighet att utveckla kunskaper om sunda växter och växters resistens mot sjukdomar och skadedjur. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att kombinera och välja växter för olika miljöer, funktioner och klimat samt att sköta och hantera växter på ett yrkesmässigt sätt. Praktiska övningar, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.</p><h4>Undervisningen i ämnet växtkunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att identifiera och namnge växter med vetenskapliga och yrkesmässiga termer. </li> <li>Förmåga att välja växter för olika platser, miljöer och funktioner samt att göra ekonomiska beräkningar för planteringsförslag.</li> <li>Kunskaper om växters egenskaper samt om förnyelse av sortiment.</li> <li>Kunskaper om biologiska och ekologiska samband mellan växter, mark, klimat och andra organismer.</li> <li>Kunskaper om växters kvalitet och kvalitetskrav för växter.</li> <li>Kunskaper om lagar och andra bestämmelser för växter och handel med växter.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Växtkunskap 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen växtkunskap – fastighetsskötsel.</li> <li>Växtkunskap 2, 100 poäng, som bygger på kursen växtkunskap 1.</li> <li>Växtkunskap – fastighetsskötsel, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen växtkunskap 1 eller kursen marken och växternas biologi.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: VÄXVÄX01</h3>",
+      "code": "VÄXVÄX01",
+      "nameHeading": "<h2>Växtkunskap 1, 100 poäng</h2>",
+      "name": "Växtkunskap 1",
+      "englishName": "Plant studies 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen växtkunskap 1 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkt 1.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Identifiering, beskrivning och namngivning av ett begränsat sortiment av träd, buskar, barrväxter, perenner och annueller med vetenskapliga och yrkesmässiga termer.</li> <li>Växtmiljöer samt växters härdighet, ståndort och proveniens.</li> <li>Växternas funktion i olika miljöer, till exempel som rumsbildare, vindskydd och estetiska uttryck med färg och form.</li> <li>Olika moment i planteringen av växter, till exempel jordförbättring, efterarbete, skötsel och uppföljning.</li> <li>Sortiment, växtkvalitet samt handel med växter, till exempel vad gäller kvalitetsmärkningen E-planta och växtpass.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett begränsat växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med fältstudier redogör eleven <strong>översiktligt</strong> för växternas egenskaper, funktion och lämplighet i olika miljöer samt för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Eleven gör<strong> enkla </strong>jämförelser av olika växtval och av växternas kvalitet och lämplighet i olika miljöer samt föreslår <strong>med viss säkerhet</strong> alternativa växtval. Dessutom beskriver eleven <strong>översiktligt </strong>växternas kvalitet.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett begränsat växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med fältstudier redogör eleven <strong>utförligt</strong> för växternas egenskaper, funktion och lämplighet i olika miljöer samt för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Eleven gör<strong> välgrundade </strong>jämförelser av olika växtval och av växternas lämplighet i olika miljöer samt föreslår <strong>med viss säkerhet</strong> alternativa växtval. Dessutom beskriver eleven <strong>utförligt </strong>växternas kvalitet.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar och namnger <strong>med säkerhet </strong>växter ur ett begränsat växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med fältstudier redogör eleven <strong>utförligt och nyanserat</strong> för växternas egenskaper, funktion och lämplighet i olika miljöer samt för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Eleven gör<strong> välgrundade och nyanserade </strong>jämförelser av olika växtval och av växternas lämplighet i olika miljöer samt föreslår <strong>med säkerhet</strong> alternativa växtval. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>växternas kvalitet.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VÄXVÄX02</h3>",
+      "code": "VÄXVÄX02",
+      "nameHeading": "<h2>Växtkunskap 2, 100 poäng</h2>",
+      "name": "Växtkunskap 2",
+      "englishName": "Plant studies 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen växtkunskap 2 omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Identifiering, beskrivning och namngivning av ett brett sortiment av träd, buskar, barrväxter, perenner och annueller med vetenskapliga och yrkesmässiga termer.</li> <li>Grässorter och deras egenskaper för användning till olika typer av gräsytor.</li> <li>Växtval och växtkomposition med hänsyn till miljö, funktion och växternas egenskaper. Kostnadsberäkningar för olika växtkompositioner.</li> <li>Inventering av växter i park- och trädgårdsmiljöer.</li> <li>E-plantsystemet och andra regelsystem som gäller växtkvalitet.</li> <li>Lagar och andra bestämmelser inom området, till exempel växtpass för handel med växter inom EU.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med växtinventering redogör eleven <strong>översiktligt </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer samt gör en <strong>enkel </strong>bedömning av växternas kondition. </p><p>Eleven utarbetar <strong>i samråd </strong>med handledare ett <strong>enkelt </strong>förslag till växtkomposition med hänsyn till miljö, funktion, hållbarhet och estetiskt uttryck. Eleven gör också <strong>med viss säkerhet </strong>en <strong>enkel </strong>ekonomisk beräkning för sitt förslag. I förslaget redogör eleven <strong>översiktligt </strong>för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Dessutom beskriver eleven <strong>översiktligt </strong>växternas kvalitet.</p><p>Eleven redogör <strong>översiktligt </strong>för lagar och andra bestämmelser som rör trädgårdsväxter och handel med växter samt beskriver <strong>översiktligt </strong>varför dessa bestämmelser finns.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med växtinventering redogör eleven <strong>utförligt </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer samt gör en <strong>välgrundad </strong>bedömning av växternas kondition. </p><p>Eleven utarbetar <strong>efter samråd </strong>med handledare ett förslag till växtkomposition med hänsyn till miljö, funktion, hållbarhet och estetiskt uttryck. Eleven gör också <strong>med viss säkerhet </strong>en ekonomisk beräkning för sitt förslag. I förslaget redogör eleven <strong>utförligt </strong>för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Dessutom beskriver eleven <strong>utförligt </strong>växternas kvalitet.</p><p>Eleven redogör <strong>utförligt </strong>för lagar och andra bestämmelser som rör trädgårdsväxter och handel med växter samt beskriver <strong>utförligt </strong>varför dessa bestämmelser finns.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar och namnger <strong>med säkerhet </strong>växter ur ett brett växtsortiment, med vetenskapliga och yrkesmässiga termer. I samband med växtinventering redogör eleven <strong>utförligt och nyanserat </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer samt gör en <strong>välgrundad och nyanserad </strong>bedömning av växternas kondition. </p><p>Eleven utarbetar <strong>efter samråd </strong>med handledare ett <strong>sammansatt </strong>förslag till växtkomposition med hänsyn till miljö, funktion, hållbarhet och estetiskt uttryck <strong>samt motiverar sina val</strong>. Eleven gör också <strong>med säkerhet </strong>en <strong>avancerad </strong>ekonomisk beräkning för sitt förslag. I förslaget redogör eleven <strong>utförligt och nyanserat </strong>för biologiska och ekologiska samband mellan växter, markförhållanden och klimat. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>växternas kvalitet.</p><p>Eleven redogör <strong>utförligt </strong>för lagar och andra bestämmelser som rör trädgårdsväxter och handel med växter samt beskriver <strong>utförligt och nyanserat </strong>varför dessa bestämmelser finns.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VÄXVÄK0</h3>",
+      "code": "VÄXVÄK0",
+      "nameHeading": "<h2>Växtkunskap – fastighetsskötsel, 100 poäng</h2>",
+      "name": "Växtkunskap – fastighetsskötsel",
+      "englishName": "Plant studies – property maintenance",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen växtkunskap – fastighetsskötsel omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 4.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Identifiering, beskrivning och namngivning av ett begränsat sortiment av träd, buskar, barrväxter, perenner och annueller. </li> <li>Växternas funktion i olika miljöer, till exempel som rumsbildare, vindskydd och estetiska uttryck med färg och form. </li> <li>Olika moment i planteringen av växter, till exempel jordförbättring, gödsling, vattning och efterarbete.</li> <li>Växternas liv, till exempel fotosyntes, andning, vattenupptagning och vattentransport. </li> <li>Växternas byggnad och utvecklingsfaser. </li> <li>Jordar och markförhållanden samt växters behov av vatten och näring. </li> <li>Olika gödselmedel och deras innehåll och verkan.</li> <li>Ogräs i olika utvecklingsstadier, spridningsbiologi och val av bekämpningsmetod. </li> <li>Vanliga växtsjukdomar och skadedjur på trädgårdsväxter samt symtom och motåtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett begränsat växtsortiment. Eleven utarbetar också <strong>i samråd </strong>med handledare ett enkelt förslag till växtkomposition med hänsyn till miljö, funktion och estetiskt uttryck. I arbetet gör eleven <strong>med viss säkerhet </strong>en <strong>enkel </strong>ekonomisk beräkning för sitt förslag. Dessutom utför eleven <strong>i samråd </strong>med handledare planteringsarbete.</p><p>Eleven redogör <strong>översiktligt </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer. Eleven redogör också <strong>översiktligt</strong> för växternas anatomi och fysiologi. Redogörelserna innehåller <strong>enkla </strong>förklaringar till växternas energiomsättning, deras vatten- och näringsförsörjning och deras utvecklingsfaser och tillväxt samt till hur man kan påverka tillväxten genom olika åtgärder. Dessutom beskriver eleven <strong>översiktligt </strong>mark-, vatten- och klimatförhållanden på en växtplats. </p><p>I samband med fältstudier identifierar och namnger eleven <strong>ett fåtal </strong>vanliga ogräs, skadedjur och växtsjukdomar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar och namnger <strong>med viss säkerhet </strong>växter ur ett begränsat växtsortiment. Eleven utarbetar också <strong>efter samråd </strong>med handledare ett enkelt förslag till växtkomposition med hänsyn till miljö, funktion och estetiskt uttryck. I arbetet gör eleven <strong>med viss säkerhet </strong>en ekonomisk beräkning för sitt förslag. Dessutom utför eleven <strong>efter samråd </strong>med handledare planteringsarbete.</p><p>Eleven redogör <strong>utförligt </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer. Eleven redogör också <strong><strong>utförligt </strong></strong>för växternas anatomi och fysiologi. Redogörelserna innehåller <strong>välgrundade </strong>förklaringar till växternas energiomsättning, deras vatten- och näringsförsörjning och deras utvecklingsfaser och tillväxt samt till hur man kan påverka tillväxten genom olika åtgärder. Dessutom beskriver eleven <strong><strong>utförligt </strong></strong>mark-, vatten- och klimatförhållanden på en växtplats. </p><p>I samband med fältstudier identifierar och namnger eleven <strong>flera </strong>vanliga ogräs, skadedjur och växtsjukdomar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar och namnger <strong>med säkerhet </strong>växter ur ett begränsat växtsortiment. Eleven utarbetar också <strong>efter samråd </strong>med handledare ett enkelt förslag till växtkomposition med hänsyn till miljö, funktion och estetiskt uttryck. I arbetet gör eleven <strong>med säkerhet </strong>en <strong>avancerad </strong>ekonomisk beräkning för sitt förslag. Dessutom utför eleven <strong>efter samråd </strong>med handledare planteringsarbete.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för växternas egenskaper, funktion och lämplighet i olika miljöer. Eleven redogör också <strong><strong>utförligt <strong>och nyanserat </strong></strong></strong>för växternas anatomi och fysiologi. Redogörelserna innehåller <strong>välgrundade <strong>och nyanserade</strong> </strong>förklaringar till växternas energiomsättning, deras vatten- och näringsförsörjning och deras utvecklingsfaser och tillväxt samt till hur man kan påverka tillväxten genom olika åtgärder. Dessutom beskriver eleven <strong><strong>utförligt <strong>och nyanserat </strong></strong></strong>mark-, vatten- och klimatförhållanden på en växtplats. </p><p>I samband med fältstudier identifierar och namnger eleven <strong>flera </strong>vanliga ogräs, skadedjur och växtsjukdomar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.200Z"
+}

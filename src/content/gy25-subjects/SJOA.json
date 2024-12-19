@@ -1,0 +1,78 @@
+{
+  "code": "SJOA",
+  "name": "Sjöfartssäkerhet",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:345",
+  "nameHeading": "<h2>Sjöfartssäkerhet</h2>",
+  "description": "<p>Ämnet sjöfartssäkerhet behandlar de metoder och den teknik som används på fartyg för att förhindra och hantera nödsituationer ombord. Ämnet behandlar även arbetsmiljö, sjöfartsskydd och skydd av den marina miljön.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sjöfartssäkerhet ska syfta till att eleverna utvecklar förmåga att utföra säkerhets-, miljöskydds- och sjöfartsskyddsarbete på fartyg samt kunskaper om fartygs säkerhetsorganisation. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om arbetsmiljö och hälsorisker i samband med arbete ombord. Enligt nationella och internationella bestämmelser är dessa kunskaper och förmågor ett krav för tjänstgöring ombord på fartyg.</p> <p>Säkerhetsarbete till sjöss handlar om att förhindra att besättning, passagerare, fartyg eller miljö utsätts för fara. Det handlar också om förmåga att agera i händelse av olycka eller nödsituation. Därför är det av central betydelse att undervisningen ger eleverna möjlighet att utveckla förmåga att identifiera, förebygga och hantera risker i fartygsmiljön samt förmåga att arbeta i enlighet med lagar och andra bestämmelser inom yrkesområdet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse för vikten av ansvarstagande och förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk. Därigenom ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka, på både svenska och engelska, i olika yrkessammanhang. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur den sociala arbetsmiljön påverkar trivsel, gemenskap och säkerhet ombord.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Undervisningen ska erbjuda rikligt med färdighetsträning i hantering av olika typer av nödsituationer. Uppgifter ska vara konstruerade med utgångspunkt i autentisk fartygsmiljö för att återspegla och förbereda för situationer som eleverna kommer att möta i sin yrkesutövning. På så sätt ska undervisningen bidra till att eleverna utvecklar en säkerhet i hantering av utrustning och situationer samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet sjöfartssäkerhet ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra säkerhets- och skyddsarbete på fartyg.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> <li>Kunskaper om fartygs säkerhets- och skyddsorganisation, om risker till sjöss samt om lagar och andra bestämmelser som reglerar området.</li> </ul><h3>Nivåer i ämnet sjöfartssäkerhet</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SJOA1000X</h3>",
+      "code": "SJOA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sjöfartssäkerhet på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Säkerhets- och skyddsarbete på fartyg</em></p> <ul> <li>Utförande av åtgärder vid nödsituationer och larm.</li> <li>Hantering av brandskydds- och brandbekämpningsutrustning.</li> <li>Överlevnadsteknik och hantering av livräddningsutrustning.</li> <li>Utförande av första hjälpen med HLR (hjärt-lungräddning) samt hantering av medicinsk utrustning.</li> <li>Användning av intern kommunikationsutrustning.</li> <li>Utvärdering av utfört arbete.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av termer och begrepp på svenska och engelska vid säkerhetsarbete till sjöss.</li> <li>Ordergivning och kommunikation vid nödsituationer och larm.</li> <li>Samverkan och kommunikation på arbetsplatsen. Vikten av personligt ansvarstagande för sociala relationer.</li> </ul> <p><em>Fartygets säkerhetsorganisation och säkerhetsutrustning</em></p> <ul> <li>Fartygs säkerhetsorganisation.</li> <li>Nödsituationer som kan uppstå till sjöss.</li> <li>Säkerhetsplaner, larmlistor och nödrutiner.</li> <li>Sjukvård och sjukvårdsutrustning.</li> <li>Brandskyddsteknik och brandskyddsutrustning.</li> <li>Överlevnadsteknik och livräddningsutrustning.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lag om vilotid för sjömän. Effekter av trötthet samt behovet av vilotid.</li> <li>Internationella konventioner om säkerhet och miljöskydd, till exempel SOLAS (safety of life at sea) och MARPOL (international convention for the prevention of pollution from ships).</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SJOA2000X</h3>",
+      "code": "SJOA2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sjöfartssäkerhet på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Säkerhets- och skyddsarbete på fartyg</em></p> <ul> <li>Hantering av räddningsfarkoster och beredskapsbåtar samt räddning och omhändertagande av överlevande.</li> <li>Användning av evakueringsplaner och evakueringsrutiner.</li> <li>Vägledning och hantering av passagerare i nödsituation.</li> <li>Utförande av särskilda sjöfartsskyddsuppgifter.</li> <li>Användning av skyddsplaner och skyddsrutiner.</li> <li>Hantering av brandskydds- och brandbekämpningsutrustning ombord.</li> <li>Överlevnadsteknik och hantering av livräddningsutrustning ombord.</li> <li>Utförande av miljöskyddsåtgärder ombord.</li> <li>Riskbedömningar vid arbeten.</li> <li>Användning av VHF-radio.</li> <li>Utvärdering av utfört arbete.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av termer och begrepp på svenska och engelska vid sjöfartsskyddsarbete till sjöss.</li> <li>Ordergivning och kommunikation vid arbete med räddningsfarkoster och beredskapsbåtar.</li> <li>Ordergivning och kommunikation vid passagerarhantering i nödsituation.</li> <li>Samverkan och kommunikation på arbetsplatsen. Vikten av personligt ansvarstagande för sociala relationer.</li> </ul> <p><em>Fartygets säkerhetsorganisation och säkerhetsutrustning</em></p> <ul> <li>Säkerhetsorganisationen ombord på olika fartyg.</li> <li>Passagerarsäkerhet.</li> <li>Olika typer av räddningsfarkoster och beredskapsbåtar.</li> <li>Särskilt sjöfartsskydd.</li> <li>Cybersäkerhet ombord.</li> <li>Arbetsscheman och vilotidsscheman.</li> <li>Miljöskydd och miljöskyddsutrustning.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser för arbetsmiljö och sjöfartsskydd, till exempel arbetsmiljölagen och ISPS-koden.</li> <li>Bestämmelser om hälsorisker och användning av personlig skyddsutrustning, däribland vid arbete med härdplaster.</li> <li>Tillstånd för farliga arbeten, däribland vad gäller tillträde till slutna utrymmen, brandfarliga arbeten och arbete med härdplaster.</li> <li>Tillverkares instruktioner, däribland säkerhetsdatablad.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför säkerhets- och skyddsarbete på fartyg med <strong>godtagbart</strong> resultat.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om fartygs säkerhets- och skyddsorganisation samt om risker till sjöss. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som reglerar området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför säkerhets- och skyddsarbete på fartyg med <strong>gott</strong> resultat.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p> <p>Eleven visar <strong>goda</strong> kunskaper om fartygs säkerhets- och skyddsorganisation samt om risker till sjöss. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som reglerar området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför säkerhets- och skyddsarbete på fartyg med <strong>mycket gott</strong> resultat.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om fartygs säkerhets- och skyddsorganisation samt om risker till sjöss. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som reglerar området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.080Z"
+}

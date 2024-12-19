@@ -1,0 +1,105 @@
+{
+  "code": "SEV",
+  "name": "Service och bemötande",
+  "englishName": "Service and reception",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:73",
+  "skolfsAndring": "2022:273",
+  "nameHeading": "<h2>Service och bemötande</h2>",
+  "description": "<p>Ämnet service och bemötande behandlar hur man i servicesituationer möter kunder eller gäster på ett yrkesmässigt sätt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet service och bemötande ska syfta till att eleverna utvecklar kunskaper i att bemöta kunder eller gäster på ett serviceinriktat sätt samt att tillvarata kundkontakter för att skapa långsiktiga relationer. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika målgrupper och hur man tar hänsyn till olika personligheter och individuella önskemål. Eleverna ska också ges möjlighet att utveckla förmåga att hantera såväl positiva som negativa reaktioner i servicesituationer. Undervisningen ska bidra till att eleverna utvecklar förmåga att vara lyhörda och flexibla i olika försäljningssituationer och tänka resultatinriktat i dessa. Vidare ska eleverna ges möjlighet att utveckla kunskaper om språkets och kommunikationens betydelse i mötet med andra.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskaper i marknadsföring, exponering av varor eller tjänster samt presentationsteknik. Eleverna ska ges möjlighet att utveckla förståelse av personlig service och dess betydelse som konkurrensmedel. Dessutom ska eleverna ges möjlighet att reflektera över den egna attitydens påverkan på servicens kvalitet.</p><p>Genom praktisk tillämpning ska undervisningen ge eleverna möjlighet att utveckla sina kunskaper inom serviceområdet på ett sådant sätt att de utvecklar sitt självförtroende i servicesituationen.</p><h4>Undervisningen i ämnet service och bemötande ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika servicesituationer.</li> <li>Förmåga att bemöta kunder eller gäster i olika servicesituationer samt värdera sitt bemötande.</li> <li>Förmåga att hantera positiva och negativa reaktioner i kontakter med kunder eller gäster.</li> <li>Kunskaper om betydelsen av god produktkännedom och marknadsföring i servicesituationer.</li> <li>Färdigheter i att utföra försäljningsteknik, exponering och presentationsteknik samt i att värdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Service och bemötande 1, 100 poäng. </li> <li>Service och bemötande 2, 100 poäng, som bygger på kursen service och bemötande 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SEVSEV01</h3>",
+      "code": "SEVSEV01",
+      "nameHeading": "<h2>Service och bemötande 1, 100 poäng</h2>",
+      "name": "Service och bemötande 1",
+      "englishName": "Service and reception 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen service och bemötande 1 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kulturella skillnader i kommunikationsmönster.</li> <li>Bemötande, kroppsspråk och språklig kommunikation i olika servicesituationer samt yrkesmässigt hänsynstagande till kundens eller gästens integritet.</li> <li>Kunders eller gästers olika behov samt hur man kan anpassa produkter och tjänster till individuella önskemål.</li> <li>Bemötande av kunder eller gäster i servicesituationer samt hantering av klagomål och reklamationer.</li> <li>Betydelsen av god kännedom om de produkter och tjänster som branschen erbjuder samt intern och extern marknadsföring.</li> <li>Grundläggande skyltning och presentationsteknik.</li> <li>Presentation av varor och tjänster tillsammans och var för sig.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder eller gäster i <strong>några</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med <strong>i stort sett</strong> korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>tillfredsställande</strong> resultat. Eleven värderar med <strong>enkla </strong>omdömen sitt bemötande av kunden eller gästen.</p><p>Eleven redogör <strong>översiktligt </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>i samråd </strong>med handledare enkla exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven <strong>enkla</strong> exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med viss säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>enkla </strong>omdömen sin exponering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter <strong>med viss säkerhet </strong>kunder eller gäster i <strong>några olika</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>tillfredsställande</strong> resultat. Eleven värderar med <strong>nyanserade </strong>omdömen sitt bemötande av kunden eller gästen.</p><p>Eleven redogör <strong>utförligt </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>efter samråd </strong>med handledare enkla exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med viss säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>nyanserade </strong>omdömen sin exponering.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder eller gäster i <strong>flera olika</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>gott</strong> resultat. Eleven värderar med <strong>nyanserade </strong>omdömen sitt bemötande av kunden eller gästen <strong>samt ger förslag på hur bemötandet kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>efter samråd </strong>med handledare enkla exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>nyanserade </strong>omdömen sin exponering <strong>samt ger förslag på hur exponeringen kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SEVSEV02</h3>",
+      "code": "SEVSEV02",
+      "nameHeading": "<h2>Service och bemötande 2, 100 poäng</h2>",
+      "name": "Service och bemötande 2",
+      "englishName": "Service and reception 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen service och bemötande 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kundmöten i syfte att skapa en relation med kunden för att sälja varor eller tjänster.</li> <li>Personlig försäljning till kunder eller gäster samt servicearbete från servicedisk eller telefon.</li> <li>Gästpsykologi.</li> <li>Attityder och värderingar hos gäster, kunder och medarbetare.</li> <li>Etiska ställningstaganden i möten med kunder eller gäster.</li> <li>Skapande av helhetsupplevelser i servicesituationer.</li> <li>Bemötande av kunder eller gäster i olika servicesituationer samt hantering av klagomål och reklamationer.</li> <li>Kundvårdande åtgärder för att skapa och bibehålla kundrelationer.</li> <li>Säljande rum, dvs. skapande av miljö och atmosfär för att öka försäljningen.</li> <li>Presentation av mat och dryck på ett säljande sätt, var för sig och tillsammans.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter kunder eller gäster i <strong>några</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med <strong>i stort sett</strong> korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>tillfredsställande</strong> resultat. Eleven värderar med <strong>enkla </strong>omdömen sitt bemötande av kunden eller gästen.</p><p>Eleven redogör <strong>översiktligt </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>i samråd </strong>med handledare exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med viss säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>enkla </strong>omdömen sin exponering och sina rekommendationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder eller gäster i <strong>några olika</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>gott</strong> resultat. Eleven värderar med <strong>nyanserade </strong>omdömen sitt bemötande av kunden eller gästen.</p><p>Eleven redogör <strong>utförligt </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>efter samråd </strong>med handledare exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>nyanserade </strong>omdömen sin exponering och sina rekommendationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>olika servicesituationer, vilka komplikationer som kan uppstå och hur de kan hanteras.</p><p>Eleven bemöter <strong>med säkerhet </strong>kunder eller gäster i <strong>flera olika</strong> servicesituationer utifrån deras förväntningar. Detta gör eleven med korrekt attityd. Dessutom hanterar eleven reaktioner från kunder eller gäster med ett <strong>gott</strong> resultat. Eleven värderar med <strong>nyanserade </strong>omdömen sitt bemötande av kunden eller gästen. <strong>I värderingen resonerar eleven även </strong><strong>i psykologiska och etiska termer</strong>. <strong>Dessutom ger eleven förslag på hur bemötandet kan förbättras</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för vad god produktkännedom och marknadsföring betyder för god service.</p><p>Eleven utför <strong>efter samråd </strong>med handledare exponeringar av varor eller tjänster på ett sätt som ger möjlighet till merförsäljning. Dessutom ger eleven exempel på säljstimulerande åtgärder samt presenterar och rekommenderar <strong>med säkerhet </strong>olika varor eller tjänster till kunden eller gästen. Eleven värderar med <strong>nyanserade </strong>omdömen sin exponering och sina rekommendationer <strong>samt ger förslag på hur exponeringen och rekommendationerna kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.156Z"
+}

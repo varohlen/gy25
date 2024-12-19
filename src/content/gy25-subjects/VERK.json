@@ -1,0 +1,78 @@
+{
+  "code": "VERK",
+  "name": "Verktygsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:249",
+  "nameHeading": "<h2>Verktygsteknik</h2>",
+  "description": "<p>Ämnet verktygsteknik behandlar tillverkning av verktygskomponenter och verktyg. Det handlar också om hur verktygen vårdas och underhålls samt hur deras funktion kontrolleras och effektiviseras.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet verktygsteknik ska syfta till att eleverna utvecklar kunskaper om verktyg som förekommer inom olika typer av industriteknisk produktion samt färdigheter i att tillverka verktyg och verktygskomponenter. Undervisningen ska leda till att eleverna utvecklar kunskaper om olika verktygs användningsområden, konstruktion och funktion samt om metoder och tekniker för användning av verktygen. Den ska också leda till att eleverna utvecklar kunskaper om olika material samt deras egenskaper och betydelse vid verktygstillverkning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda verktyg och utrustning i enlighet med säkerhetsföreskrifter samt att vårda och underhålla verktyg och utrustning. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om kvalitetssystem samt förmåga att genomföra kontroll, underhåll, felsökning och reparation av verktyg. Inom det industritekniska området ställs höga krav på kommunikation och samverkan. Därför ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera och samverka inom alla led i den industritekniska processen.</p> <p>Undervisningen ska betona ett problemlösande arbetssätt och stimulera elevernas intresse för teknikutveckling inom området. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet verktygsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika verktyg och utrustning för tillverkning av verktyg.</li> <li>Kunskaper om materialegenskaper och materials betydelse för funktion och kvalitet.</li> <li>Förmåga att tillverka verktyg i enlighet med anvisningar och säkerhetsföreskrifter.</li> <li>Färdigheter i att hantera och vårda verktyg och utrustning för tillverkning av verktyg.</li> <li>Förmåga att utföra funktionskontroll och reparation av tillverkade verktyg.</li> <li>Förmåga att använda fackspråk för att kommunicera om arbetsprocess och resultat.</li> </ul><h3>Nivåer i ämnet verktygsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VERK1000X</h3>",
+      "code": "VERK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet verktygsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Allmän verktygsteknik</em></p> <ul> <li>Orientering om funktion och konstruktion hos verktyg och utrustning för tillverkning av verktyg.</li> <li>Olika typer av utrustning för tillverkning av verktyg.</li> <li>Faktorer som påverkar val av verktyg i tillverkning av verktyg.</li> <li>Standarder för olika verktyg.</li> <li>Grundläggande materialegenskaper hos utrustning som används för att tillverka verktyg.</li> </ul> <p><em>Tillämpad verktygsteknik</em></p> <ul> <li>Planering och genomförande av tillverkning av verktyg samt dokumentation och utvärdering av utfört arbete.</li> <li>Manualer och anvisningar från verktygstillverkare.</li> <li>Säkerhetsföreskrifter, användning av skyddsutrustning och ordning på arbetsplatsen.</li> <li>Hantering och vård av verktyg, maskiner och annan utrustning som används vid verktygstillverkning.</li> <li>Hur verktyg kan påverkas av felaktig användning.</li> <li>Funktionskontroll av tillverkade verktyg, däribland provning, egenkontroll och felsökning.</li> <li>Service och reparation av tillverkade verktyg.</li> <li>Kommunikation och samverkan inom organisationen för planering och utförande av arbetsuppgifter inom verktygsteknik.</li> <li>Användning av fackspråk inom yrket för att kommunicera om arbetsprocess och resultat.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VERK2000X</h3>",
+      "code": "VERK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet verktygsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Allmän verktygsteknik</em></p> <ul> <li>Funktion och konstruktion hos verktyg och utrustning för tillverkning av verktyg.</li> <li>Utrustning för tillverkning av verktyg, till exempel för gjutning, pressning, klippning, bockning, uppspänning och montering.</li> <li>Standardiserade komponenter inom verktygstillverkning.</li> <li>Materialegenskaper och materialets betydelse för funktion och kvalitet inom verktygstillverkning.</li> <li>Värmebehandling av verktygsmaterial.</li> </ul> <p><em>Tillämpad verktygsteknik</em></p> <ul> <li>Planering och genomförande av tillverkning av verktyg samt dokumentation och utvärdering av utfört arbete.</li> <li>Tillverkningsdata för framställning av verktyg.</li> <li>Säkerhetsföreskrifter, användning av skyddsutrustning och ordning på arbetsplatsen.</li> <li>Hantering, vård och användning av verktyg, maskiner och annan utrustning för tillverkning av verktygskomponenter.</li> <li>Provtillverkning och kvalitetskontroll.</li> <li>Service och reparation av utrustning för verktygstillverkning eller specialverktyg.</li> <li>Användning av verktygstekniska begrepp och metoder i förhållande till områdets standarder.</li> <li>Kommunikation och samverkan inom och mellan olika avdelningar för planering och utförande av arbetsuppgifter inom verktygsteknik.</li> <li>Användning av fackspråk inom yrket för att kommunicera om arbetsprocess och resultat med olika målgrupper.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om verktyg och utrustning som används vid tillverkning av verktyg.</p> <p>Eleven förklarar på ett <strong>översiktligt</strong> sätt hur materialval påverkar olika verktygs funktion och kvalitet.</p> <p>Eleven tillverkar med <strong>viss</strong> skicklighet verktyg i enlighet med anvisningar och säkerhetsföreskrifter samt håller ordning på arbetsplatsen.</p> <p>Eleven hanterar och vårdar med <strong>viss säkerhet</strong> verktyg och utrustning.</p> <p>Eleven utför med <strong>viss säkerhet</strong> funktionskontroller och reparationer.</p> <p>Eleven använder med <strong>viss säkerhet</strong> fackspråk för att kommunicera om arbetsprocess och resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om verktyg och utrustning som används vid tillverkning av verktyg.</p> <p>Eleven förklarar på ett <strong>utförligt</strong> sätt hur materialval påverkar olika verktygs funktion och kvalitet.</p> <p>Eleven tillverkar med <strong>god</strong> skicklighet verktyg i enlighet med anvisningar och säkerhetsföreskrifter samt håller ordning på arbetsplatsen.</p> <p>Eleven hanterar och vårdar med <strong>säkerhet</strong> verktyg och utrustning.</p> <p>Eleven utför med <strong>säkerhet</strong> funktionskontroller och reparationer.</p> <p>Eleven använder med <strong>säkerhet</strong> fackspråk för att kommunicera om arbetsprocess och resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om verktyg och utrustning som används vid tillverkning av verktyg.</p> <p>Eleven förklarar på ett <strong>utförligt och nyanserat</strong> sätt hur materialval påverkar olika verktygs funktion och kvalitet.</p> <p>Eleven tillverkar med <strong>mycket god</strong> skicklighet verktyg i enlighet med anvisningar och säkerhetsföreskrifter samt håller ordning på arbetsplatsen.</p> <p>Eleven hanterar och vårdar med <strong>god säkerhet</strong> verktyg och utrustning.</p> <p>Eleven utför med <strong>god säkerhet</strong> funktionskontroller och reparationer.</p> <p>Eleven använder med <strong>god säkerhet</strong> fackspråk för att kommunicera om arbetsprocess och resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.101Z"
+}

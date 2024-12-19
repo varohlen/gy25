@@ -1,0 +1,92 @@
+{
+  "code": "SKOM",
+  "name": "Skogsmaskiner",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:346",
+  "nameHeading": "<h2>Skogsmaskiner</h2>",
+  "description": "<p>Ämnet skogsmaskiner behandlar de maskiner och den tekniska utrustning som används inom skogsbrukets olika verksamhetsområden. Ämnet behandlar hur teknik och teknisk utveckling kan bidra till att den biologiska potentialen utnyttjas. I ämnet ingår körning och manövrering av skogsmaskiner samt trafikkunskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet skogsmaskiner ska syfta till att eleverna utvecklar förmåga att använda maskiner och teknisk utrustning på ett ändamålsenligt och säkert sätt. Maskiner och teknisk utrustning som används i samspel med biologiska förutsättningar, och i enlighet med lagstiftning och certifieringskrav, bidrar till en hög kvalitet på skogsbrukets produkter och tjänster samt till en hållbar utveckling. Undervisningen ska leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom skogsproduktion på ett rationellt och effektivt sätt med arbetsmetoder som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska också leda till att eleverna utvecklar förmåga att köra och manövrera maskiner och fordon i trafik och i olika typer av terräng. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om maskinernas och den tekniska utrustningens konstruktion, funktion och inställningsmöjligheter samt förmåga att vårda och underhålla maskiner och teknisk utrustning. Undervisningen ska bidra till att eleverna utvecklar förståelse av maskinanvändningens påverkan på skog och mark samt förmåga att arbeta på ett ansvarsfullt och yrkesmässigt sätt. I undervisningen ska eleverna ges rika möjligheter till färdighetsträning. Undervisningen ska också stimulera elevernas nyfikenhet och vilja att söka kunskap om och använda nya tekniska lösningar. Eleverna ska dessutom ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller maskiner inom skogsbruk.</p> <p>Praktiska övningar, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet skogsmaskiner ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om skogsmaskiner och teknisk utrustning samt om deras funktion och konstruktion.</li> <li>Förmåga att utföra arbetsuppgifter inom skogsbruk med skogsmaskiner och teknisk utrustning.</li> <li>Förmåga att köra och manövrera skogsmaskiner och fordon i trafik och i terräng.</li> <li>Förmåga att vårda och underhålla skogsmaskiner och teknisk utrustning.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt ekonomiskt och miljömässigt hållbart.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet skogsmaskiner</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SKOM1000X</h3>",
+      "code": "SKOM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsmaskiner på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Användningsområden för skotare och tilläggsutrustning.</li> <li>Skotarens och dess tekniska utrustnings konstruktion och sammansättning, till exempel drivlina och hydraulsystem.</li> <li>Motorbränslen, alternativa drivmedel och smörjmedel.</li> <li>Daglig tillsyn, till exempel tvätt, smörjning och laddning eller påfyllning av drivmedel och vätskor.</li> <li>Användning av instruktions- och handböcker.</li> </ul> <p><em>Arbete med maskiner och tilläggsutrustning</em></p> <ul> <li>Arbete med skotare enligt instruktion, däribland hantering av kran, instrument och reglage.</li> <li>Riskmedveten virkestransport med skotare i ett avverkningsområde i enlighet med traktdirektiv och arbetsplanering.</li> <li>Hantering av tilläggsutrustning, till exempel band och kedjor.</li> <li>Körning som minimerar risken för skador på mark, bestånd och miljö.</li> <li>Fältstudier av körningens effekter på marken samt fordonets drivmedelsförbrukning.</li> <li>Olika typer av virkessortiment och krav på virkesavlägg.</li> <li>Körning på skogsväg och i övningsmiljö.</li> <li>Körning i olika typer av terräng.</li> <li>Tillämpning av trafikregler.</li> <li>Bränsleekonomi och effektiv användning av maskiner.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Inställning av förarplatsens utrustning för ergonomisk, effektiv och säker körning.</li> <li>Ergonomi i samband med arbete med skotare och hantering av aktuell tilläggsutrustning.</li> <li>Säker hantering av farligt gods och farligt avfall.</li> <li>Säkerhetskontroll inför användning av skotare och aktuell tilläggsutrustning.</li> <li>Säkerhetsaspekter vid körning med skotare på väg.</li> <li>Hur förarens beteende och säkerheten påverkas av bland annat medicin, alkohol och andra droger.</li> <li>Brandförebyggande åtgärder i samband med arbete med skotare och aktuell tilläggsutrustning.</li> <li>Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen samt trafik- och arbetsmiljöföreskrifter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOM2000X</h3>",
+      "code": "SKOM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsmaskiner på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Användningsområden för avverkningsmaskiner och teknisk utrustning.</li> <li>Maskinkomponenter och systemfunktioner för avverkningsmaskiner.</li> <li>Funktionskontroll, underhåll och enklare reparationer av maskiner och teknisk utrustning.</li> <li>Tolkning och användning av instruktions- och handböcker.</li> </ul> <p><em>Arbete med maskiner och tilläggsutrustning</em></p> <ul> <li>Arbete med skotare eller avverkningsmaskiner i ett avverkningsområde, däribland riskmedveten körning och manövrering.</li> <li>Hantering av kran, instrument och reglage.</li> <li>Arbete i enlighet med traktdirektiv. Arbetsplanering av avverkning samt rapportering och uppföljning.</li> <li>Till- och frånkoppling av tilläggsutrustning samt funktionskontroll.</li> <li>Inställning och kalibrering av teknisk utrustning.</li> <li>Användning av verktyg och verkstadsmaskiner för underhållsarbete på aktuella maskiner.</li> <li>Fältstudier för uppföljning av avverkningsarbeten.</li> <li>Hållbarhetsaspekter i samband med användning av aktuella maskiner och teknisk utrustning, däribland frågor om resurseffektivitet, minimering av skador på mark, bestånd och miljö samt teknikutveckling.</li> <li>Körning på skogsväg och i övningsmiljö samt kortare förflyttningar på trafikerad väg.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi och säkerhet i samband med användning av aktuella maskiner och teknisk utrustning samt vid tillkoppling av tilläggsutrustning.</li> <li>Säkerhetskontroll inför användning av aktuella maskiner och tilläggsutrustning.</li> <li>Brandförebyggande åtgärder i samband med användning av aktuella skogsmaskiner.</li> <li>Säkerhetsaspekter vid körning med skogsmaskin på väg.</li> <li>Hur förarens beteende och säkerheten påverkas av stress, trötthet, förtäring av mat eller dryck eller användning av mediautrustning.</li> <li>Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen samt trafik- och arbetsmiljöföreskrifter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOM3000X</h3>",
+      "code": "SKOM3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsmaskiner på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Användningsområden för maskiner, tilläggsutrustning och teknisk utrustning inom skogsbruk samt teknikutveckling inom området.</li> <li>Tekniska system för styrning, kontroll och datainsamling.</li> <li>Inställning och kalibrering av teknisk utrustning.</li> <li>Maskinkomponenter och systemfunktioner för avverkningsmaskiner, däribland datorstyrd skördaraptering.</li> <li>Maskin- och avverkningsekonomi samt ekonomiska beräkningar, till exempel investeringskalkyler.</li> </ul> <p><em>Arbete med maskiner och tilläggsutrustning</em></p> <ul> <li>Yrkesmässigt arbete med maskiner och teknisk utrustning inom skogsbruk, till exempel med avverkningsmaskiner eller skotare.</li> <li>Yrkesmässigt underhållsarbete på aktuella maskiner och teknisk utrustning samt felsökning och problemlösning.</li> <li>Arbetsplanering, arbetsmetodik och användning av digitala system, datorprogram och geografiska informationssystem (GIS) vid körning med aktuell skogsmaskin.</li> <li>Hållbarhetsaspekter i samband med användning av aktuella maskiner och teknisk utrustning, däribland resurseffektivitet, minimering av skador på mark, bestånd och miljö samt teknikutveckling.</li> <li>Fältstudier för uppföljning och utvärdering av arbetsresultat.</li> <li>Körning på trafikerad väg samt tillämpning av trafikregler.</li> <li>Arbete i enlighet med traktdirektiv samt kvalitetsuppföljning och återrapportering.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi och säkerhet i samband med användning av aktuella maskiner och teknisk utrustning samt vid tillkoppling av tilläggsutrustning.</li> <li>Säkerhetskontroll inför användning av aktuella maskiner och tilläggsutrustning.</li> <li>Brandförebyggande åtgärder i samband med användning av aktuella maskiner.</li> <li>Säkerhetsaspekter vid körning med aktuella maskiner på väg.</li> <li>Hur driftsäkerhet, trafiksäkerhet och miljö påverkas av eftersatt tillsyn och underhåll.</li> <li>Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen samt trafik- och arbetsmiljöföreskrifter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om skogsmaskiner och teknisk utrustning samt om deras funktion och konstruktion.</p> <p>Eleven utför arbetsuppgifter inom skogsbruk med skogsmaskiner och teknisk utrustning med <strong>godtagbart</strong> resultat. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>enkla</strong> bedömningar av lämpliga arbetsmetoder.</p> <p>Eleven kör och manövrerar skogsmaskiner och fordon på ett säkert, riskmedvetet och miljömässigt hållbart sätt. I samband med körning i terräng vidtar eleven med <strong>viss säkerhet</strong> åtgärder för att skydda mark och bestånd.</p> <p>Eleven utför med <strong>visst</strong> handlag vård och underhåll av skogsmaskiner och teknisk utrustning.</p> <p>Eleven arbetar säkert och ergonomiskt med skogsmaskiner. Dessutom väljer eleven med <strong>viss säkerhet</strong> arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter utifrån miljöhänsyn och ekonomiska faktorer.</p> <p>Eleven arbetar och kör skogsmaskin i enlighet med lagar och andra bestämmelser som gäller inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om skogsmaskiner och teknisk utrustning samt om deras funktion och konstruktion.</p> <p>Eleven utför arbetsuppgifter inom skogsbruk med skogsmaskiner och teknisk utrustning med <strong>gott</strong> resultat. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>välgrundade</strong> bedömningar av lämpliga arbetsmetoder.</p> <p>Eleven kör och manövrerar skogsmaskiner och fordon på ett säkert, riskmedvetet och miljömässigt hållbart sätt. I samband med körning i terräng vidtar eleven med <strong>säkerhet</strong> åtgärder för att skydda mark och bestånd.</p> <p>Eleven utför med <strong>gott</strong> handlag vård och underhåll av skogsmaskiner och teknisk utrustning.</p> <p>Eleven arbetar säkert och ergonomiskt med skogsmaskiner. Dessutom väljer eleven med <strong>säkerhet</strong> arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter utifrån miljöhänsyn och ekonomiska faktorer.</p> <p>Eleven arbetar och kör skogsmaskin i enlighet med lagar och andra bestämmelser som gäller inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om skogsmaskiner och teknisk utrustning samt om deras funktion och konstruktion.</p> <p>Eleven utför arbetsuppgifter inom skogsbruk med skogsmaskiner och teknisk utrustning med <strong>mycket gott</strong> resultat. I arbetet värderar eleven situationen och förutsättningarna på platsen och gör <strong>välgrundade och nyanserade</strong> bedömningar av lämpliga arbetsmetoder.</p> <p>Eleven kör och manövrerar skogsmaskiner och fordon på ett säkert, riskmedvetet och miljömässigt hållbart sätt. I samband med körning i terräng vidtar eleven med <strong>god säkerhet</strong> åtgärder för att skydda mark och bestånd.</p> <p>Eleven utför med <strong>mycket gott</strong> handlag vård och underhåll av skogsmaskiner och teknisk utrustning.</p> <p>Eleven arbetar säkert och ergonomiskt med skogsmaskiner. Dessutom väljer eleven med <strong>god säkerhet</strong> arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter utifrån miljöhänsyn och ekonomiska faktorer.</p> <p>Eleven arbetar och kör skogsmaskin i enlighet med lagar och andra bestämmelser som gäller inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.080Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "FRIT",
+  "name": "Fritidskunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:240",
+  "nameHeading": "<h2>Fritidskunskap</h2>",
+  "description": "<p>Fritidskunskap är ett ämne med grund i fritidsvetenskap. Ämnet behandlar fritid och idrott utifrån individ-, grupp- och samhällsperspektiv. Det omfattar även samband mellan olika levnadsvanor och människors hälsa.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fritidskunskap ska syfta till att eleverna utvecklar kunskaper om fritidens och idrottens betydelse för individer, grupper och samhälle. Eleverna ska ges möjlighet att utveckla kunskaper om människors olika fritidsvanor och fritidsaktiviteter samt om fritidens och idrottens betydelse för människors hälsa, lärande och växande. På så vis ska undervisningen stimulera elevernas intresse för fritidsaktiviteter som främjar hälsa och rörelse. Eleverna ska även ges möjlighet att utveckla kunskaper om hur fritid har förändrats och om olika faktorer som påverkar människors fria tid, fritidsvanor och fritidsaktiviteter. De ska också ges möjlighet att utveckla kunskaper om fritidssektorns villkor och förutsättningar samt om fritidsmiljöer och fritidsaktiviteter som mötesplatser för människor. Undervisningen ska dessutom bidra till att eleverna utvecklar förståelse av hur normer gällande könsmönster, jämställdhet och identitet relaterar till fritidsaktiviteter och idrottsutövande. Vidare ska eleverna ges möjlighet att utveckla förmåga att använda centrala begrepp inom området.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av fritids- och friskvårdssektorn och idrottsrörelsen. Eleverna ska dessutom ges möjlighet att reflektera över och diskutera olika levnadsvanor, fritidens och idrottens betydelse, centrala begrepp samt egna och andras handlingar och attityder.</p> <h5><em>Undervisningen i ämnet fritidskunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om fritidens betydelse samt om fritidsvanor och fritidsaktiviteter.</li> <li>Kunskaper om fritids- och friskvårdssektorn och idrottsrörelsen.</li> <li>Kunskaper om hur olika levnadsvanor påverkar människors hälsa.</li> </ul><h3>Nivåer i ämnet fritidskunskap</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FRIT1000X</h3>",
+      "code": "FRIT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fritidskunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Fritid som begrepp och fenomen.</li> <li>Fritidens betydelse för individer, grupper och samhälle, till exempel vad gäller identitet och sammanhållning.</li> <li>Fritidens betydelse för människors hälsa, lärande och växande.</li> <li>Människors fritidsvanor och fritidsaktiviteter i olika åldrar och faktorer som påverkar val av dessa.</li> <li>Fritid och idrott för människor med funktionsnedsättningar.</li> <li>Fritidsverksamheters betydelse för turism i och marknadsföring av en region.</li> <li>Centrala begrepp inom fritidsområdet.</li> <li>Folkhälso- och fritidspolitiska mål och deras betydelse för olika verksamheter.</li> <li>Fritids- och friskvårdssektorns samt idrottsrörelsens bakgrund, utveckling, organisation och innehåll ur ett nationellt och internationellt perspektiv.</li> <li>Villkor och samhällsstöd för organisationer, föreningar och folkrörelser.</li> <li>Attityder och normer i samhället i relation till fritidsaktiviteter och idrottsutövande, däribland gällande könsmönster, jämställdhet och identitet.</li> <li>Samband mellan olika levnadsvanor och människors hälsa.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om fritidens betydelse för människors hälsa, lärande och växande. Eleven redogör på ett <strong>godtagbart</strong> sätt för olika fritidsvanor och fritidsaktiviteter.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om fritids- och friskvårdssektorns samt idrottsrörelsens bakgrund, utveckling, organisation och innehåll.</p> <p>Eleven för <strong>enkla</strong> resonemang om olika levnadsvanors påverkan på människors hälsa.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om fritidens betydelse för människors hälsa, lärande och växande. Eleven redogör på ett <strong>utvecklat</strong> sätt för olika fritidsvanor och fritidsaktiviteter.</p> <p>Eleven visar <strong>goda</strong> kunskaper om fritids- och friskvårdssektorns samt idrottsrörelsens bakgrund, utveckling, organisation och innehåll.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om olika levnadsvanors påverkan på människors hälsa.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om fritidens betydelse för människors hälsa, lärande och växande. Eleven redogör på ett <strong>välutvecklat</strong> sätt för olika fritidsvanor och fritidsaktiviteter.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om fritids- och friskvårdssektorns samt idrottsrörelsens bakgrund, utveckling, organisation och innehåll.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om olika levnadsvanors påverkan på människors hälsa.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.004Z"
+}

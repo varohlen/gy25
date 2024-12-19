@@ -1,0 +1,64 @@
+{
+  "code": "SIGN",
+  "name": "Signalteknik – järnväg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:109",
+  "nameHeading": "<h2>Signalteknik – järnväg</h2>",
+  "description": "<p>En säker och effektiv järnväg är beroende av ett välfungerande system för signalering. Ämnet signalteknik – järnväg behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars signalsystem. Inom området ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet signalteknik – järnväg ska syfta till att eleverna utvecklar kunskaper om och färdigheter i underhåll, installation och reparation av befintliga anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att lösa problem som uppstår under arbetets gång samt att felsöka och reparera fel i järnvägsanläggningars signalsystem. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om säkerhet, standarder samt lagar och andra bestämmelser inom området. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling inom järnvägsbranschen.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö. Därigenom ska eleverna ges möjlighet att utveckla förmåga att använda verktyg, material och instrument på ett säkert och hållbart sätt. Undervisningen ska också leda till att eleverna utvecklar förmåga att tolka och använda dokumentation, till exempel ritningar och arbetsbeskrivningar. Vidare ska undervisningen ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet signalteknik – järnväg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om signalsystemets uppbyggnad och konstruktion.</li> <li>Kunskaper om begrepp samt lagar och andra bestämmelser inom området.</li> <li>Förmåga att tolka och använda ritningar och andra relevanta dokument inom området.</li> <li>Förmåga att planera sitt arbete samt att montera, felsöka, underhålla och reparera anläggningar.</li> <li>Förmåga att arbeta säkert och att förebygga skador på personer och egendom.</li> </ul><h3>Nivåer i ämnet signalteknik – järnväg</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet allmän järnvägsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SIGN1000X</h3>",
+      "code": "SIGN1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet signalteknik – järnväg på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Automatic train control-systemets uppbyggnad och konstruktion.</li> <li>Lampor, växlar och spårledningar.</li> <li>Olika ställverkstyper.</li> <li>Centrala begrepp inom området, däribland signaltekniska grundbegrepp och deras definitioner.</li> <li>ERTMS (european rail traffic management systems).</li> <li>Grundläggande trafikeringsregler och signalering.</li> <li>Begreppet signalsäkerhetskontrollant.</li> <li>Standarder samt lagar och andra bestämmelser inom området, däribland föreskrifter och allmänna råd som gäller signalarbete och arbete med spänning.</li> <li>Tolkning och användning av ritningar, arbetsbeskrivningar, scheman, handböcker och andra relevanta dokument inom området.</li> <li>Montering och underhåll av vanligt förekommande signalsäkerhetsobjekt på bangårdar.</li> <li>Montering, injustering och skarvning av spårledningskretsar.</li> <li>Skarvning och terminering av förekommande kabeltyper.</li> <li>Funktion och felavhjälpning av vägskydd på linjen.</li> <li>Jordning i signalanläggningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för signalsystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för begrepp samt lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven planerar sitt arbete samt utför med <strong>visst</strong> handlag montering, felsökning, reparation och underhåll av anläggningar.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra och förebygger skador på personer och egendom.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för signalsystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för begrepp samt lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven planerar sitt arbete samt utför med <strong>gott</strong> handlag montering, felsökning, reparation och underhåll av anläggningar.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra och förebygger skador på personer och egendom.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för signalsystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för begrepp samt lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> ritningar, arbetsbeskrivningar och andra relevanta dokument inom området.</p> <p>Eleven planerar sitt arbete samt utför med <strong>mycket gott</strong> handlag montering, felsökning, reparation och underhåll av anläggningar.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert för eleven själv och andra och förebygger skador på personer och egendom.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.079Z"
+}

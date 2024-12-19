@@ -1,0 +1,78 @@
+{
+  "code": "MEDT",
+  "name": "Medieteori",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:57",
+  "nameHeading": "<h2>Medieteori</h2>",
+  "description": "<p>Ämnet medieteori behandlar det breda medieområdets olika kanaler samt dess villkor, roll och betydelse i samhället, från fiktivt och dokumentärt berättande till sociala medier och medier för underhållning. Ämnet behandlar också hur medier och kommunikationsmodeller fungerar samt vilka strategier och drivkrafter som styr olika aktörers kommunikation och typer av budskap i samhället.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet medieteori ska syfta till att eleverna utvecklar kunskaper om kommunikationsmodeller och medieteorier ur såväl ett estetiskt som ett samhälleligt perspektiv. Eleverna ska också ges möjlighet att utveckla förståelse av samspelet som äger rum i kommunikationen mellan producenter och konsumenter inom mediaområdet. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla förståelse av mediernas roll i samhället, såväl nationellt som internationellt. Fokus ska ligga på deras betydelse för den demokratiska processen och deras roll i utvecklandet av normer och ideal. Eleverna ska också ges möjlighet att utveckla kunskaper om hur maktförhållanden representeras i olika mediebudskap. I undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om estetikens betydelse när budskap kommuniceras till olika målgrupper och för olika syften. Eleverna ska också ges möjlighet att utveckla kunskaper om mediernas historiska och tekniska utveckling.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt och förhållningssätt inom olika medieområden, såväl undersökande som dokumentärt och konstnärligt. I detta ingår även den lagstiftning och de etiska regler som förekommer inom medieområdet.</p> <p>Eleverna ska ges möjlighet att utveckla ett kritiskt förhållningssätt till medier samt förmåga att belysa och problematisera medier inom olika kanaler, såväl i underhållningsbranschen som i massmedier och sociala medier.</p> <p>Genom undervisningen ska eleverna ska ges möjlighet att ta del av, diskutera och analysera olika medier.</p> <h5><em>Undervisningen i ämnet medieteori ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kommunikationsmodeller och medieteorier.</li> <li>Kunskaper om mediernas roll i samhället samt etiska regler, lagar och andra bestämmelser inom området.</li> <li>Förmåga att analysera olika slags medieinnehåll.</li> <li>Kunskaper om utformning av medieinnehåll i olika kanaler.</li> </ul><h3>Nivåer i ämnet medieteori</h3><ul><li>Nivå 1, 100 poäng. Betyg i medieteori som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i medier, journalistik och kommunikation som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i medieteori som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i medier, journalistik och kommunikation som omfattar nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MEDT1000X</h3>",
+      "code": "MEDT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medieteori på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Ideologier, teorier och kommunikationsmodeller inom medieområdet samt deras utveckling ur ett historiskt perspektiv.</li> <li>Olika drivkrafter i mediesektorn, till exempel ekonomiska och politiska.</li> <li>Förändringen av människors användning av medier.</li> <li>Olika mediers betydelse och funktion i det politiska landskapet.</li> <li>Mediernas roll i samtidskulturen, till exempel utvecklingen av normer och ideal inom underhållningsbranschen och i sociala medier.</li> <li>Orientering i medielandskapet, dess producenter och konsumenter, till exempel inom områdena underhållning, dokumentärt berättande och reklam.</li> <li>Introduktion till lagar och andra bestämmelser, yttrandefrihet och etiska förhållningssätt inom medieområdet.</li> <li>Begrepp och modeller för analys av medieinnehåll.</li> <li>Undersökande, dokumentära och konstnärliga arbetssätt och förhållningssätt. Källkritik och källtillit.</li> <li>Hur budskap, narrativ och innehåll utformas och anpassas för olika syften, kanaler och mottagare.</li> <li>Estetiska perspektiv på utformning av medieinnehåll, till exempel grafisk layout och dramaturgiska aspekter för att väcka mottagarens intresse och känslor.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MEDT2000X</h3>",
+      "code": "MEDT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medieteori på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Ideologier, teorier och kommunikationsmodeller inom medieområdet samt deras utveckling ur ett historiskt och samtida perspektiv.</li> <li>Strukturer och ägandeförhållanden inom mediesektorn, såväl kommersiella medier och sociala medier som public service.</li> <li>Ekonomiska och samhälleliga drivkrafter i mediesektorn, nationellt och internationellt.</li> <li>Medier i förändring, till exempel genom teknikutveckling. Medier som multimodala plattformar.</li> <li>Teorier om mediers ansvar och påverkan på människor och samhället, däribland om mediesystem och olika kulturer inom media.</li> <li>Yttrandefrihet, pressfrihet och ramar för censur och åldersreglering.</li> <li>Lagar och andra bestämmelser samt etiska regler utifrån valda områden.</li> <li>Analys av och diskussion om mediers innehåll och utformning utifrån vetenskapliga teorier, källkritik och källtillit.</li> <li>Olika arbetssätt inom valt medieområde, däribland hur specifika mediekanaler arbetar källkritiskt och kreativt samt med planering för produktion.</li> <li>Den estetiska utformningens syfte och påverkansmöjligheter inom valt medieområde.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för olika kommunikationsmodeller och medieteorier.</p> <p>Eleven för <strong>enkla</strong> resonemang om mediernas roll och funktion i samhället. Dessutom redogör eleven på ett <strong>godtagbart</strong> sätt för lagar och andra bestämmelser inom området samt för etiska regler och förhållningssätt.</p> <p>Eleven gör <strong>enkla</strong> analyser av olika slags medieinnehåll utifrån ett kritiskt förhållningssätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om utformning av medieinnehåll.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för olika kommunikationsmodeller och medieteorier.</p> <p>Eleven för <strong>välgrundade</strong> resonemang om mediernas roll och funktion i samhället. Dessutom redogör eleven på ett <strong>utvecklat</strong> sätt för lagar och andra bestämmelser inom området samt för etiska regler och förhållningssätt.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av olika slags medieinnehåll utifrån ett kritiskt förhållningssätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om utformning av medieinnehåll.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika kommunikationsmodeller och medieteorier.</p> <p>Eleven för <strong>välgrundade och nyanserade</strong> resonemang om mediernas roll och funktion i samhället. Dessutom redogör eleven på ett <strong>välutvecklat</strong> sätt för lagar och andra bestämmelser inom området samt för etiska regler och förhållningssätt.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av olika slags medieinnehåll utifrån ett kritiskt förhållningssätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om utformning av medieinnehåll.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.043Z"
+}

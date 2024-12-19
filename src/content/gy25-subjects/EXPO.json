@@ -1,0 +1,78 @@
+{
+  "code": "EXPO",
+  "name": "Exponering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:218",
+  "nameHeading": "<h2>Exponering</h2>",
+  "description": "<p>Exponering som kommunikationsform innehåller många dimensioner och erbjuder olika uttrycksmöjligheter. Alla sinnen berörs och påverkas av exponering där föremål, bild, text, färg, ljus och ljud i olika grad samverkar. Ämnet behandlar butiks- och fönsterexponeringar, mässor och event samt projektering och gestaltning utifrån uppdragsgivarens profil och bransch.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet exponering ska syfta till att eleverna utvecklar kunskaper om och färdigheter i exponeringens olika uttrycksmöjligheter, från idé till färdig produkt, inom butiks- och fönsterexponering samt på mässor och event. Undervisningen ska leda till att eleverna utvecklar kunskaper om digital teknik och programvaror samt förmåga att använda relevant utrustning. Eleverna ska också ges möjlighet att utveckla förmåga att utarbeta modeller och planskisser genom presentationer och visuell gestaltning.</p> <p>Undervisningen ska ge eleverna möjlighet att stärka sin förmåga att uttrycka sig klart, precist och intresseväckande. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur textmaterial disponeras och presenteras för att fånga mottagarens intresse. Därigenom ska undervisningen främja elevernas kreativitet och tilltro till den egna förmågan att uttrycka sig och förmedla budskap. Undervisningen ska också leda till att eleverna utvecklar förmåga att dra slutsatser och värdera exponeringar utifrån sambandet mellan tid, kostnader och den färdiga produktionens kvalitet.</p> <p>Initiativ- och problemlösningsförmåga samt handlingsberedskap ska stimuleras i undervisningen. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att arbeta självständigt och miljömedvetet, ta eget ansvar och handla med omdöme i det egna arbetet.</p> <h5><em>Undervisningen i ämnet exponering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om exponeringens olika uttrycksformer och hur dessa kan samverka.</li> <li>Förmåga att planera och utföra exponeringar.</li> <li>Förmåga att visualisera idéer, använda olika uttrycksformer samt förmedla budskap.</li> <li>Förmåga att värdera olika typer av exponeringar utifrån målgrupp och budskap.</li> </ul><h3>Nivåer i ämnet exponering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: EXPO1000X</h3>",
+      "code": "EXPO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet exponering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Färglära.</li> <li>Matchning och koordinering av produkter.</li> <li>Mässors och events olika delar.</li> <li>Arbete med butiks- och fönsterexponeringar samt exponeringar på mässor och event.</li> <li>Digital teknik och teknisk utrustning i exponeringsarbetet.</li> <li>Säkerhet i arbetet.</li> <li>Grunderna i två- och tredimensionellt skapande.</li> <li>Framställning av idéer med hjälp av skissmetoder samt två- och tredimensionella modeller.</li> <li>Presentationstekniker i form av texter, ljud, bilder och modeller.</li> <li>Hur olika budskap används i marknadsföringen för att nå målgrupper.</li> <li>Skapande av exponeringar utifrån egna idéer.</li> <li>Hur olika exponeringar kan värderas och utvecklas utifrån målgruppsanpassning och olika aspekter, till exempel estetisk och teknisk kvalitet samt kostnader.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: EXPO2000X</h3>",
+      "code": "EXPO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet exponering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Färgsystem, belysning och ljudteknik.</li> <li>Rumsbildningens möjligheter till suggestion, omväxling och pedagogisk tydlighet.</li> <li>Matchning och koordinering i olika prislägen och mot olika målgrupper.</li> <li>Mässors och events olika delar.</li> <li>Projektering och gestaltning av butiks- och fönsterexponeringar samt av exponeringar på mässor och event.</li> <li>Produktionskostnader inom exponering.</li> <li>Digital teknik och teknisk utrustning i exponeringsarbetet.</li> <li>Arbetsmiljö och säkerhet i arbetet, däribland säkerhetsanalys.</li> <li>Produktionsprocessen från idé till färdig produkt.</li> <li>Form- och innehållskomposition, problemlösning och kvalitetstänkande utifrån uppdraget från kunden.</li> <li>Intern och extern marknadsföring samt marknadsföringens funktion som bärare av budskap.</li> <li>Analys och utvärdering av hur egna och andras idéer i olika exponeringsproduktioner har visualiserats, däribland ur aspekterna målgruppsanpassning, estetisk och teknisk kvalitet samt kostnader.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika exponeringar, mässor och event. Dessutom redogör eleven för dess olika delar på ett <strong>översiktligt</strong> sätt.</p> <p>Eleven planerar och utför olika former av exponeringar med <strong>viss</strong> skicklighet.</p> <p>Eleven presenterar sina idéer och visar på ett <strong>godtagbart</strong> sätt hur budskap kan visualiseras och förmedlas.</p> <p>Eleven gör <strong>enkla</strong> värderingar av hur exponeringar anpassas till målgrupper och hur väl de förstärker olika budskap. Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet med exponeringar kan utvecklas.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika exponeringar, mässor och event. Dessutom redogör eleven för dess olika delar på ett <strong>utförligt</strong> sätt.</p> <p>Eleven planerar och utför olika former av exponeringar med <strong>god</strong> skicklighet.</p> <p>Eleven presenterar sina idéer och visar på ett <strong>gott</strong> sätt hur budskap kan visualiseras och förmedlas.</p> <p>Eleven gör <strong>utvecklade</strong> värderingar av hur exponeringar anpassas till målgrupper och hur väl de förstärker olika budskap. Dessutom ger eleven <strong>välgrundade</strong> förslag på hur arbetet med exponeringar kan utvecklas.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika exponeringar, mässor och event. Dessutom redogör eleven för dess olika delar på ett <strong>utförligt och nyanserat</strong> sätt.</p> <p>Eleven planerar och utför olika former av exponeringar med <strong>mycket god</strong> skicklighet.</p> <p>Eleven presenterar sina idéer och visar på ett <strong>mycket gott</strong> sätt hur budskap kan visualiseras och förmedlas.</p> <p>Eleven gör <strong>välutvecklade</strong> värderingar av hur exponeringar anpassas till målgrupper och hur väl de förstärker olika budskap. Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på hur arbetet med exponeringar kan utvecklas.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

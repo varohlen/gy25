@@ -1,0 +1,78 @@
+{
+  "code": "MANU",
+  "name": "Manuell mönsterkonstruktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:50",
+  "nameHeading": "<h2>Manuell mönsterkonstruktion</h2>",
+  "description": "<p>Mönsterkonstruktion och hantering av mönster är en förutsättning för tillverkning av kläder. Ämnet manuell mönsterkonstruktion behandlar konstruktion och förändring av mönster för tillverkning av kläder samt hur kreativa idéer kan omsättas till mönster.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet manuell mönsterkonstruktion ska syfta till att eleverna utvecklar kunskaper om mönsterhantering och grundmallar samt förmåga att konstruera och förändra mönster. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att uppfatta variationer av människors kroppsform och därigenom se sambandet mellan mönsterframställning och olika kroppsformer. I arbetet krävs att nyttoaspekter förenas med känsla för material, form och funktion. Därför ska eleverna ges möjlighet att utveckla förmåga att konstruera mönster till plagg som uppfyller krav på passform och funktion. Undervisningen ska även leda till att eleverna utvecklar förmåga att planera sitt arbete samt utvärdera arbetsprocess och resultat.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att konstruera och förändra mönster genom praktiska övningar och användning av manualer. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta ergonomiskt och miljömedvetet vid konstruktion och förändring av mönster.</p> <h5><em>Undervisningen i ämnet manuell mönsterkonstruktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om mönsterkonstruktion och grundmallar.</li> <li>Förmåga att planera arbetet samt att konstruera och förändra mönster.</li> <li>Förmåga att utvärdera arbetsprocess och resultat samt att arbeta ergonomiskt och med hänsyn till miljön.</li> </ul><h3>Nivåer i ämnet manuell mönsterkonstruktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MANU1000X</h3>",
+      "code": "MANU1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet manuell mönsterkonstruktion på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Måttagning och storlekssystem.</li> <li>Användning av grundkonstruktioner.</li> <li>Graderingens principer, däribland vidd- och längdgradering.</li> <li>Mönsterförändringar utifrån grundmallar.</li> <li>Mönsterförändringar utifrån olika kroppsformer.</li> <li>Hur mönster kan konstrueras utifrån estetiska och funktionella aspekter.</li> <li>Planering av arbetet och framställning av mönster utifrån det färdiga plaggets användningsområde.</li> <li>Fackspråk för att förstå och använda manualer, instruktioner och tekniska beskrivningar.</li> <li>Utvärdering av arbetsprocess och resultat med fokus på arbetsprocessen.</li> <li>Hur arbetet utförs på ett ergonomiskt och miljömässigt sätt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MANU2000X</h3>",
+      "code": "MANU2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet manuell mönsterkonstruktion på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Gradering samt internationella mönster- och storlekssystem.</li> <li>Mönsterförändringar utifrån figuravvikelser.</li> <li>Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.</li> <li>Framställning av mönster utifrån estetiska och funktionella aspekter.</li> <li>Planering av arbetet och mönsterkonstruktionen utifrån det färdiga plaggets användningsområde samt estetiska och tekniska produktkrav.</li> <li>Fackspråk för att kommunicera inom branschen.</li> <li>Utvärdering av arbetsprocess och resultat samt diskussion om hur arbetsprocessen kan förbättras.</li> <li>Hur arbetet utförs på ett ergonomiskt och miljömässigt sätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om mönsterkonstruktion och grundmallar.</p> <p>Eleven planerar arbetet samt konstruerar och förändrar mönster med <strong>viss säkerhet</strong> och uppnår ett <strong>godtagbart</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om mönsterkonstruktion och grundmallar.</p> <p>Eleven planerar arbetet samt konstruerar och förändrar mönster med <strong>säkerhet</strong> och uppnår ett <strong>gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om mönsterkonstruktion och grundmallar.</p> <p>Eleven planerar arbetet samt konstruerar och förändrar mönster med <strong>god säkerhet</strong> och uppnår ett <strong>mycket gott</strong> resultat.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen. Dessutom arbetar eleven ergonomiskt och med hänsyn till miljön.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.038Z"
+}

@@ -1,0 +1,77 @@
+{
+  "code": "PROE",
+  "name": "Processteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:554",
+  "nameHeading": "<h2>Processteknik</h2>",
+  "description": "<p>Ämnet processteknik behandlar uppbyggnad och funktion av processer inom processindustrin som är högt automatiserade och har kemiska inslag. Till processindustrier räknas till exempel massa-, pappers- och petroleumindustrin men även värmepannor och VA-verk. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet processteknik ska syfta till att eleverna utvecklar förmåga att identifiera och lösa vanliga processtekniska problem genom att analysera tillgänglig information och använda olika metoder och lösningsstrategier.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att utföra vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att dokumentera och följa upp resultatet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt i enlighet med standarder och säkerhetsföreskrifter samt att ta hänsyn till ställda kvalitetskrav. Eleverna ska även ges möjlighet att utveckla kunskaper om arbetsmiljö samt om lagar och andra bestämmelser inom området. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och att minimera deras påverkan på omgivningen. Undervisningen ska lämna utrymme för diskussion om och reflektion över samband mellan processteknik och hållbar utveckling samt olika handlingsalternativ inom processteknik.</p> <h5><em>Undervisningen i ämnet processteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om processtekniska anläggningar och processer.</li> <li>Kunskaper om säkerhet och risker med kemikalier och utrustning inom processteknisk industri.</li> <li>Förmåga att genomföra processtekniska arbetsuppgifter i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att kontrollera och underhålla produktionsprocesser utifrån kvalitet och miljömässig hållbarhet.</li> </ul><h3>Nivåer i ämnet processteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROE100TX</h3>",
+      "code": "PROE100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet processteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Process och metoder</em></p> <ul> <li>Centrala processer och hur de olika stegen i produktionen påverkar slutprodukten.</li> <li>Maskiner och utrustning och deras olika funktioner.</li> <li>Läsning och tolkning av anläggningsteknisk dokumentation.</li> <li>Utsläpp och hur de kan minimeras, till exempel genom effektivisering, slutna system, reningssteg och återvinning.</li> <li>Lagar och andra bestämmelser inom miljöområdet för processindustrin.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Vanliga kemikalier som används inom processindustrin och de risker och säkerhetsrutiner som är förknippade med användningen.</li> <li>Säkerhetsrutiner och säkerhetsföreskrifter för vanligt förekommande maskiner och utrustning.</li> </ul> <p><em>Kontroll och dokumentation</em></p> <ul> <li>Vanliga rutiner och åtgärder för att kontrollera och upprätthålla produktionskvalitet med hänsyn till miljömässig hållbarhet, till exempel rondning och underhållsarbete.</li> <li>Enkla manövermoment från övervakningssystem.</li> <li>Provtagning och hantering av analysutrustning samt tolkning av provresultat.</li> <li>Dokumentation av utfört arbete.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROE200TX</h3>",
+      "code": "PROE200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet processteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Process och metoder</em></p> <ul> <li>Processen och hur råvarans kvalitet och de olika produktionsstegen påverkar slutprodukten.</li> <li>Maskiner och utrustning och deras olika funktioner.</li> <li>Användning av anläggningsteknisk dokumentation.</li> <li>Utsläpp och hur de kan minimeras genom effektivisering, slutna system, reningssteg, återvinning och andra alternativa lösningar.</li> <li>Lagar och andra bestämmelser inom miljöområdet för processindustrin.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Kemikalier som används inom processindustrin och deras funktion samt risker och säkerhetsrutiner som är förknippade med användningen.</li> <li>Säkerhetsrutiner och säkerhetsföreskrifter för olika slags maskiner och utrustning.</li> </ul> <p><em>Kontroll och dokumentation</em></p> <ul> <li>Rutiner och åtgärder för att kontrollera och upprätthålla produktionskvalitet med hänsyn till miljömässig hållbarhet, däribland rondning och underhållsarbete med tillhörande dokumentation.</li> <li>Manövermoment från övervakningssystem.</li> <li>Provtagning och hantering av analysutrustning samt tolkning och uppföljning av provresultat.</li> <li>Dokumentation av utfört arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om processtekniska anläggningar och processer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om säkerhet och risker med kemikalier och utrustning inom processindustrin.</p> <p>Eleven genomför processtekniska arbeten i enlighet med lagar och andra bestämmelser inom området på ett <strong>strukturerat</strong> sätt.</p> <p>Eleven kontrollerar och underhåller med <strong>säkerhet</strong> produktionens processer utifrån kvalitet och miljömässig hållbarhet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om processtekniska anläggningar och processer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om säkerhet och risker med kemikalier och utrustning inom processindustrin.</p> <p>Eleven genomför processtekniska arbeten i enlighet med lagar och andra bestämmelser inom området på ett <strong>välstrukturerat</strong> sätt.</p> <p>Eleven kontrollerar och underhåller med <strong>god säkerhet</strong> produktionens processer utifrån kvalitet och miljömässig hållbarhet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om processtekniska anläggningar och processer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om säkerhet och risker med kemikalier och utrustning inom processindustrin.</p> <p>Eleven genomför processtekniska arbeten i enlighet med lagar och andra bestämmelser inom området på ett <strong>välstrukturerat och effektivt</strong> sätt.</p> <p>Eleven kontrollerar och underhåller med <strong>mycket god säkerhet</strong> produktionens processer utifrån kvalitet och miljömässig hållbarhet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.064Z"
+}

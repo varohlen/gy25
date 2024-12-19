@@ -1,0 +1,72 @@
+{
+  "code": "MATD",
+  "name": "Mat och dryck i kombination",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:53",
+  "nameHeading": "<h2>Mat och dryck i kombination</h2>",
+  "description": "<p>Ämnet mat och dryck i kombination behandlar kombinationer av mat och dryck för en helhetsupplevelse av måltiden. Ämnet förbereder elever för arbete inom restaurangområdet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet mat och dryck i kombination ska syfta till att eleverna utvecklar kunskaper om måltiden som helhetsupplevelse utifrån olika sätt att kombinera mat och dryck. Smakkombinationer från olika länder och traditioner ska ingå i undervisningen. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utifrån grundsmaker och sinnesupplevelser komponera måltider. Undervisningen ska också bidra till att eleverna utvecklar förmåga att skapa måltider utifrån olika teman med utgångspunkt i att ge gästen en helhetsupplevelse. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om måltiden ur både ett historiskt och ett nutida perspektiv.</p> <p>Undervisningen ska ge eleverna möjlighet att tillsammans med andra reflektera över och samtala om hur upplevelsen påverkas av olika kombinationer. Den ska också bidra till att eleverna utvecklar kreativitet och förståelse av hur våra sinnen samverkar för att skapa en helhetsupplevelse.</p> <h5><em>Undervisningen i ämnet mat och dryck i kombination ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika smakkombinationer av mat och dryck.</li> <li>Förmåga att kombinera mat och dryck utifrån olika smakkombinationer.</li> <li>Förmåga att skapa helhetsupplevelser utifrån smakkombinationer.</li> </ul><h3>Nivåer i ämnet mat och dryck i kombination</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATD1000X</h3>",
+      "code": "MATD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet mat och dryck i kombination på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanliga smakkombinationer av mat och dryck i olika länder.</li> <li>Hur vanliga maträtter och drycker kan kombineras.</li> <li>Hur grundsmakerna samverkar samt hur enklare smakkombinationer kan skapas utifrån dessa.</li> <li>Våra sinnen och hur de påverkas av olika faktorer under måltiden.</li> <li>Måltiden som helhetsupplevelse utifrån smakkombinationer. Hur helhetsupplevelser kan anpassas till traditioner och trender.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATD2000X</h3>",
+      "code": "MATD2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet mat och dryck i kombination på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Smakkombinationer och deras historia utifrån plats, religion, kultur och tradition.</li> <li>Hur maträtter och drycker kreativt kan kombineras utifrån traditioner och trender.</li> <li>Grundsmakernas samverkan och hur balans kan skapas.</li> <li>Skapande av utvecklade smakkombinationer.</li> <li>Kombinationer av mat och dryck utifrån sensoriska metoder. Hur utvecklade helhetsupplevelser av måltider kan skapas.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika smakkombinationer av mat och dryck.</p> <p>Eleven kombinerar mat och dryck utifrån grundsmaker och sinnenas upplevelser med <strong>viss säkerhet</strong>.</p> <p>Eleven skapar helhetsupplevelser utifrån smakkombinationer med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika smakkombinationer av mat och dryck.</p> <p>Eleven kombinerar mat och dryck utifrån grundsmaker och sinnenas upplevelser med <strong>säkerhet</strong>.</p> <p>Eleven skapar helhetsupplevelser utifrån smakkombinationer med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika smakkombinationer av mat och dryck.</p> <p>Eleven kombinerar mat och dryck utifrån grundsmaker och sinnenas upplevelser med <strong>god säkerhet</strong>.</p> <p>Eleven skapar helhetsupplevelser utifrån smakkombinationer med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.040Z"
+}

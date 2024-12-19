@@ -1,0 +1,78 @@
+{
+  "code": "HALC",
+  "name": "Hälso- och sjukvård",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:306",
+  "nameHeading": "<h2>Hälso- och sjukvård</h2>",
+  "description": "<p>Ämnet hälso- och sjukvård har sin grund i praktiskt hälso- och sjukvårdsarbete men också i de vetenskapliga områdena vårdvetenskap, pedagogik, medicin och etik. Ämnet behandlar hälso- och sjukvård inom öppen och sluten vård.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hälso- och sjukvård ska syfta till att eleverna utvecklar kunskaper om hälsofrämjande arbete och medicinskt omhändertagande. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta på ett hälsofrämjande sätt, vilket innebär att förstärka det friska hos människan och se individen som en resurs för det egna välbefinnandet. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om riskfaktorer, symtom, diagnoser, behandlingar samt medicinskt omhändertagande vid olika sjukdomstillstånd. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur människor kan reagera i kris och hur kriser kan bemötas samt om etiska och existentiella frågor i samband med detta. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda centrala begrepp inom hälsa och inom hälso- och sjukvård.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra hälso- och sjukvårdsuppgifter på ett etiskt, hygieniskt, pedagogiskt och hälsofrämjande sätt med respekt för alla människors lika värde. Eleverna ska även ges möjlighet att utveckla förmåga att planera egna arbetsinsatser samt att utföra och dokumentera vård- och omsorgsuppgifter i enlighet med lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om HLR (hjärt-lungräddning) och omhändertagande vid olycksfall. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda digitala hjälpmedel och annan teknisk utrustning samt att utföra medicintekniska uppgifter. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att bemöta, kommunicera och samarbeta med andra.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sjukvårdsuppgifter som är vanliga inom hälso- och sjukvården. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet hälso- och sjukvård ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om människors hälsa samt om hälsorelaterade levnadsvanor.</li> <li>Kunskaper om olika sjukdomstillstånd, riskfaktorer och behandlingar samt om centrala begrepp inom området.</li> <li>Kunskaper om människors reaktioner vid ohälsa och i krissituationer.</li> <li>Förmåga att planera och utföra hälso- och sjukvårdsuppgifter samt att dokumentera och utvärdera egna arbetsinsatser.</li> <li>Förmåga att bemöta människor samt att kommunicera och samarbeta.</li> </ul><h3>Nivåer i ämnet hälso- och sjukvård</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet omvårdnad, nivå 1 i ämnet social omsorg och nivå 1a2 eller nivå 1b i ämnet anatomi och fysiologi.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALC1000X</h3>",
+      "code": "HALC1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hälso- och sjukvård på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Frisk- och riskfaktorer och deras påverkan på människors hälsa och livskvalitet, däribland motion, rekreation och kost.</li> <li>Egenvård.</li> <li>Centrala begrepp inom hälsa samt inom hälso- och sjukvårdsområdet.</li> <li>Vanliga sjukdomstillstånd, däribland diabetes, hjärt-kärlsjukdomar, stroke och epilepsi. Riskfaktorer, symtom, diagnoser och behandlingar vid vanliga sjukdomstillstånd.</li> <li>Andningsorganens sjukdomar såsom astma, luftvägsinfektioner och pneumoni.</li> <li>Smärta och smärtbehandling.</li> <li>Symtomlindring vid illamående, kramper, andnöd, oro och ångest.</li> <li>Människors fysiska, psykiska, sociala och existentiella reaktioner vid ohälsa och i krissituationer samt hur de kan bemötas.</li> <li>Etiska frågeställningar inom hälso- och sjukvård och rätten till en värdig död.</li> <li>Planering, genomförande, dokumentation och utvärdering av egna arbetsinsatser. Utförande av hälso- och sjukvårdsuppgifter på ett pedagogiskt, etiskt och hygieniskt sätt med respekt för alla människors lika värde samt i enlighet med lagar och andra bestämmelser.</li> <li>Hygienrutiner för sterilt arbete och möte med patienter med infektionskänslighet.</li> <li>Medicintekniska uppgifter, däribland blodtrycks- och pulskontroller, temperaturmätningar, urinprover och enklare såromläggningar.</li> <li>Första hjälpen och vuxen-HLR samt åtgärder vid luftvägsstopp och stabilt sidoläge.</li> <li>Bemötande av och kommunikation med patienter, närstående och personal med hänsyn till individ och kultur.</li> <li>Användning av digitala hjälpmedel och annan teknisk utrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HALC2000X</h3>",
+      "code": "HALC2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hälso- och sjukvård på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Vad som kännetecknar hälsofrämjande levnadsvanor samt hur folkhälsoarbete kan bedrivas på individ-, grupp- och samhällsnivå.</li> <li>Levnadsvanor som påverkar hälsan, däribland stress samt rökning, alkohol och andra droger.</li> <li>Egenvård i samband med vanliga sjukdomar.</li> <li>Centrala begrepp inom hälsa samt inom hälso- och sjukvårdsområdet.</li> <li>Olika sjukdomstillstånd, däribland cancer, kronisk obstruktiv sjukdom (KOL), mag-tarmkanalens sjukdomar och nervsystemets sjukdomar. Riskfaktorer, symtom, diagnoser och behandlingar vid olika sjukdomstillstånd.</li> <li>Vanliga skador, däribland skallskador och frakturer.</li> <li>Undersökningsmetoder, behandlingar och medicinskt omhändertagande.</li> <li>Pre- och postoperativ vård.</li> <li>Nutritionslära samt energi- närings- och vätskebehov vid sjukdom.</li> <li>Människors fysiska, psykiska, sociala och existentiella reaktioner vid ohälsa och i krissituationer samt hur de kan bemötas, däribland psykosocialt stöd.</li> <li>Etiska frågeställningar i samband med akuta och andra sjukdomar.</li> <li>Planering, genomförande, dokumentation och utvärdering av egna arbetsinsatser.</li> <li>Hälso- och sjukvårdsuppgifter och hur dessa arbetsuppgifter delegeras.</li> <li>Utförande av hälso- och sjukvårdsuppgifter på ett pedagogiskt, etiskt och hygieniskt sätt i enlighet med lagar och andra bestämmelser, däribland provtagning, sondmatning och sugning av övre luftvägar, insulingivning samt hantering av dränage, stomi och kvarliggande respektive intermittent kateter.</li> <li>Hygienrutiner för specifika smittor, däribland blodsmittor och multiresistenta bakterier.</li> <li>Olika typer av smärta samt farmakologisk och annan smärtbehandling.</li> <li>Assistans vid undersökningar och behandlingar.</li> <li>Barn-HLR och S-HLR (hjärt-lungräddning för sjukvårdspersonal) vuxen.</li> <li>Bemötande av och kommunikation med patienter, närstående och personal i krissituationer.</li> <li>Personcentrerad vård och interprofessionella samarbeten.</li> <li>Användning av digitala hjälpmedel och annan teknisk utrustning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om människors hälsa samt om faktorer och levnadsvanor som påverkar hälsa och livskvalitet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om vanliga sjukdomstillstånd, riskfaktorer och behandlingar. Eleven använder centrala begrepp inom området med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om människors reaktioner vid ohälsa och kris samt hur de kan bemötas.</p> <p>Eleven planerar och utför olika hälso- och sjukvårdsuppgifter med <strong>godtagbart</strong> resultat. Dessutom dokumenterar och utvärderar eleven arbetsuppgifterna på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven bemöter människor samt kommunicerar och samarbetar på ett yrkesetiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om människors hälsa samt om faktorer och levnadsvanor som påverkar hälsa och livskvalitet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om vanliga sjukdomstillstånd, riskfaktorer och behandlingar. Eleven använder centrala begrepp inom området med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om människors reaktioner vid ohälsa och kris samt hur de kan bemötas.</p> <p>Eleven planerar och utför olika hälso- och sjukvårdsuppgifter med <strong>gott</strong> resultat. Dessutom dokumenterar och utvärderar eleven arbetsuppgifterna på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven bemöter människor samt kommunicerar och samarbetar på ett yrkesetiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om människors hälsa samt om faktorer och levnadsvanor som påverkar hälsa och livskvalitet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om vanliga sjukdomstillstånd, riskfaktorer och behandlingar. Eleven använder centrala begrepp inom området med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om människors reaktioner vid ohälsa och kris samt hur de kan bemötas.</p> <p>Eleven planerar och utför olika hälso- och sjukvårdsuppgifter med <strong>mycket gott</strong> resultat. Dessutom dokumenterar och utvärderar eleven arbetsuppgifterna på ett <strong>välutvecklat</strong> sätt.</p> <p>Eleven bemöter människor samt kommunicerar och samarbetar på ett yrkesetiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.012Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "DANS",
+  "name": "Dansorientering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:137",
+  "nameHeading": "<h2>Dansorientering</h2>",
+  "description": "<p>Dans delas traditionellt sett in i olika typer av dans, beroende på vilka funktioner den har i samhället. På så sätt har scenisk dans, social dans, folkdans och tävlingsdans uppstått. I ämnet dansorientering läggs grunden för ett danskunnande oavsett dansform.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dansorientering ska syfta till att eleverna utvecklar färdigheter i en eller flera dansformer och kunskaper om hur rörelser, rörelsedynamik, spatial förmåga och musik används i dansformen eller dansformerna. Eleverna ska också ges möjlighet att utveckla sina kunskaper om olika danskomponenter i relation till musik genom träning i dans. Undervisningen ska ge eleverna möjlighet att genom kunskaper om och färdigheter i dansämnen aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av hur dans i olika sammanhang används för att skapa tillhörighet och hur dansen är en del av ett identitetsskapande. Dans är även en del av vårt kulturella uttryck och förmedlar kulturella värderingar. Eleverna ska därför ges möjlighet att utveckla förmåga att, såväl praktiskt genom dans som teoretiskt, kritiskt reflektera över dans. Det innebär att eleverna ska få möjlighet att tolka och analysera dans i förhållande till kulturella värderingar, ursprung och sammanhang samt utifrån kropp, genus och etnicitet. De ska också ges möjlighet att utveckla kunskaper om dansformer samt deras bakgrund och kontext. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att gestalta dans i samspel med andra. Undervisningen ska betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet och lämna utrymme för diskussion och reflektion över etiska frågor inom dans.</p> <p>Dans är universellt och som levande kroppsligt uttryck skapar den sinnesintryck. Undervisningen ska varva praktiska och teoretiska moment och inkludera reflekterande arbetsmetoder för att eleverna ska ges möjlighet att såväl praktiskt som teoretiskt uppleva, tolka och analysera dans.</p> <h5><em>Undervisningen i ämnet dansorientering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att utföra dans inom en eller flera dansformer utifrån dansformens estetiska ideal.</li> <li>Förmåga att tolka och analysera dans.</li> <li>Kunskaper om olika dansformer och deras kulturella bakgrund.</li> </ul><h3>Nivåer i ämnet dansorientering</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DANS1000X</h3>",
+      "code": "DANS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansorientering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Färdighetsträning i en eller flera dansformer.</li> <li>Dansteknik i relation till danskomponenter, däribland rörelser, rörelsedynamik, spatial förmåga och musik.</li> <li>Dansformernas estetiska ideal när det gäller rörelser, rörelsedynamik och användning av rum och musik samt relationen till meddansare.</li> <li>En eller flera dansformers sociala, sceniska eller kulturella sammanhang.</li> <li>Tillämpning av dans som levande kroppsligt uttryck i relation till sceniska och kulturella dansformer.</li> <li>Praktisk jämförelse, tolkning och analys samt samtal om olika dansformer.</li> <li>Begrepp som används i dansanalys, däribland kropp, spatial förmåga, tid, energi och relation.</li> <li>Analys och problematisering av dans, till exempel utifrån kropp, genus och etnicitet.</li> <li>Olika dansformer samt deras kännetecken och kulturella bakgrund.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför dans i en eller flera dansformer med <strong>godtagbar</strong> dansteknisk och estetisk kvalitet.</p> <p>Eleven gör <strong>enkla</strong> tolkningar och analyser av dans.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika dansers kulturella bakgrund.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför dans i en eller flera dansformer med <strong>god</strong> dansteknisk och estetisk kvalitet.</p> <p>Eleven gör <strong>utvecklade</strong> tolkningar och analyser av dans.</p> <p>Eleven redogör <strong>utförligt</strong> för olika dansers kulturella bakgrund.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför dans i en eller flera dansformer med <strong>mycket god</strong> dansteknisk och estetisk kvalitet.</p> <p>Eleven gör <strong>välutvecklade</strong> tolkningar och analyser av dans.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika dansers kulturella bakgrund.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

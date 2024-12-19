@@ -1,0 +1,103 @@
+{
+  "code": "LAO",
+  "name": "Lås- och passerteknik",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:178",
+  "skolfsAndring": "2022:198",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Lås- och passerteknik</h2>",
+  "description": "<p>Ämnet lås- och passerteknik behandlar lås och låssystems uppbyggnad, tillverkning och installation. Dessutom behandlar ämnet metoder och tekniker för underhåll och reparation av befintliga låssystem.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet lås- och installationsteknik ska syfta till att eleverna utvecklar kunskaper om produkter, utrustning och material för lås, låsanläggningar och dörrmiljöer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de installationstekniker och kvalitetskontroller som används inom området.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskap om lagar, förordningar och standarder inom området samt ett yrkesetiskt förhållningssätt vid arbete med låstekniska system. Undervisningen ska också bidra till att eleverna utvecklar förmåga att planera och förbereda arbetet utifrån tekniska underlag. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att arbeta på ett säkert och miljömässigt sätt samt kunskaper om dokumentation av utfört arbete.</p> <p>I undervisningen ska ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för tillverkning, montering, installation och service av låstekniska system.</p> <h4>Undervisningen i ämnet lås- och passerteknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om uppbyggnad, funktion och driftegenskaper hos låstekniska system i och kring dörrmiljön.</li> <li>Förmåga att tillverka, montera, installera och underhålla låstekniska system.</li> <li>Kunskaper om lagar, förordningar och standarder som reglerar arbete med låstekniska system.</li> <li>Förmåga att tolka låstekniska system med ledning av scheman, ritningar och övriga anvisningar.</li> <li>Förmåga att kontrollera, prova, felsöka och avhjälpa fel på låstekniska system.</li> <li>Förmåga att kunna registrera och dokumentera installation, avvikelser och förändringar.</li> <li>Kunskaper om arbetsmiljö och säkerhet samt påverkan på miljö.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Låsteknik, 200 poäng. </li> <li>Låsinstallation, 200 poäng, som bygger på kursen låsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: LAOLAT0</h3>",
+      "code": "LAOLAT0",
+      "nameHeading": "<h2>Låsteknik, 200 poäng</h2>",
+      "name": "Låsteknik",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen låsteknik omfattar punkterna 1–4 och 7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika typer av mekaniska och elektromekaniska lås och beslag, deras egenskaper, funktioner och användningsområden samt deras historiska utveckling.</li> <li>Mekaniska kodprinciper.</li> <li>Elektroniska kodbärare.</li> <li>Dörrstyrning med tillhörande utrustning, övervaknings- och styrsystem samt deras egenskaper, funktioner och användningsområden.</li> <li>Olika typer av förvaringsenheter, deras användningsområden, funktion och säkerhetsnivå.</li> <li>Metoder för att lägga ihop och lägga om lås enligt olika kodprinciper.</li> <li>Olika systemlåsningsprinciper.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Låsklasser och skyddsklasser samt bestämmelser för branddörrar, tillgänglighet och utrymning.</li> <li>Yrkesetiska regler.</li> <li>Lagar och andra bestämmelser som gäller för arbetsplatser och arbetets utförande.</li> <li>Tolkning och upprättande av låsschema samt beräkning av låssystem.</li> <li>Rutiner för service och underhåll.</li> <li>Arbetsmiljö och säkerhet.</li> <li>Miljöval och miljöpåverkan.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv. Dessutom redogör eleven <strong>översiktligt </strong>för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar.</p> <p>Eleven utför, <strong>i samråd </strong>med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen. Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra. Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande </strong>sätt ställda kvalitets- och miljökrav.</p> <p>Eleven tolkar och upprättar, <strong>i samråd </strong>med handledare, låsscheman och beräkningar av låssystem.</p> <p>Eleven redogör <strong>översiktligt </strong>för de lagar och bestämmelser som gäller inom området. Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv. Dessutom redogör eleven <strong>utförligt </strong>för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar.</p> <p>Eleven utför, <strong>efter samråd </strong>med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen. Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra. Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande </strong>sätt ställda kvalitets- och miljökrav.</p> <p>Eleven tolkar och upprättar, <strong>efter samråd </strong>med handledare, låsscheman och beräkningar av låssystem.</p> <p>Eleven redogör <strong>utförligt </strong>för de lagar och bestämmelser som gäller inom området. Dessutom redogör eleven <strong>utförligt </strong>för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar.</p> <p>Eleven utför, <strong>efter samråd </strong>med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen. Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra. Resultatet av elevens arbete uppfyller på ett <strong>gott </strong>sätt ställda kvalitets- och miljökrav.</p> <p>Eleven tolkar och upprättar, <strong>efter samråd </strong>med handledare, låsscheman och beräkningar av låssystem.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för de lagar och bestämmelser som gäller inom området. Dessutom redogör eleven <strong>utförligt </strong>för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAOLAS0</h3>",
+      "code": "LAOLAS0",
+      "nameHeading": "<h2>Låsinstallation, 200 poäng</h2>",
+      "name": "Låsinstallation",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen låsinstallation omfattar punkterna 2–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Verktyg och maskiner för reparation, anpassning och installation av låstekniska system.</li> <li>Installation och montage av olika lås och beslag.</li> <li>Val av material och arbetsmetoder utifrån gällande kravspecifikationer.</li> <li>Inkoppling i förekommande styrcentral och driftsättning av elektromekaniska lås och slutbleck med kabelförläggning i och kring dörrmiljön.</li> <li>Montering, inkoppling och driftsättning av läsare och kodlås med kabelförläggning i samt anslutning i förekommande styrcentral.</li> <li>Montering av lås och behör avsedda för fönster och fönsterdörrar.</li> <li>Montering och injustering av olika typer av system för dörrstyrning.</li> <li>Montering av låskomponenter utifrån de mekaniska kodprinciperna.</li> <li>Tillämpning av regelverk för definierade skyddsklasser.</li> <li>Tillämpning av lagar och andra bestämmelser som gäller för arbetet.</li> <li>Tolkning, planering och genomförande utifrån ett arbetsunderlag.</li> <li>Service och underhåll av låstekniska system.</li> <li>Felsökning och avhjälpning av fel.</li> <li>Funktionskontroll i enlighet med låsteknisk specifikation.</li> <li>Förmåga att lösa låstekniska problem och hantera avvikelser. Dokumentation och rapportering.</li> <li>Riskbedömning av olika arbetsplatser och arbetsuppgifter, med hänsyn till uppdraget och kundens behov av säkerhet, samt förebyggande av person- och egendomsskador.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar och utför vanligt förekommande låstekniska arbeten i olika dörrmiljöer med<strong> visst</strong> handlag på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven, <strong>i samråd </strong>med handledare, material och metoder anpassade för uppgiften och utifrån gällande lagar, bestämmelser och särskilda branschkrav.</p> <p>Eleven använder, <strong>i samråd </strong>med handledare, scheman, ritningar och övriga anvisningar för att utföra arbetet. I sitt arbete väljer eleven, <strong>i samråd </strong>med handledare, verktyg, instrument och övrig utrustning anpassade för uppgiften och använder dem med<strong> visst </strong>handlag<strong>.</strong> Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare<strong>.</strong></p> <p>Eleven dokumenterar och rapporterar <strong>med viss säkerhet</strong> sitt arbete utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p> <p>Eleven kontrollerar och felsöker, <strong>i samråd </strong>med handledare, anläggningar och system samt avhjälper <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga låssystem.</p> <p>Eleven kontrollerar säkerheten och driftsätter installationen <strong>i samråd </strong>med handledare. Resultatet av elevens arbete uppfyller på ett<strong> tillfredsställande </strong>sätt ställda kvalitets- och miljökrav.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar och utför vanligt förekommande låstekniska arbeten i olika dörrmiljöer med<strong> gott</strong> handlag på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven, <strong>efter samråd </strong>med handledare, material och metoder anpassade för uppgiften och utifrån gällande lagar, bestämmelser och särskilda branschkrav.</p> <p>Eleven använder, <strong>efter samråd </strong>med handledare, scheman, ritningar och övriga anvisningar för att utföra arbetet. I sitt arbete väljer eleven, <strong>efter samråd </strong>med handledare, verktyg, instrument och övrig utrustning anpassade för uppgiften och använder dem med<strong> gott </strong>handlag<strong>.</strong> Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare<strong>.</strong></p> <p>Eleven dokumenterar och rapporterar <strong>med viss säkerhet</strong> sitt arbete utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p> <p>Eleven kontrollerar och felsöker, <strong>efter samråd </strong>med handledare, anläggningar och system samt avhjälper fel som uppkommer i såväl nya som befintliga låssystem.</p> <p>Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd </strong>med handledare. Resultatet av elevens arbete uppfyller på ett<strong> gott </strong>sätt ställda kvalitets- och miljökrav.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar och utför vanligt förekommande låstekniska arbeten i olika dörrmiljöer med<strong> mycket gott</strong> handlag på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven, <strong>efter samråd </strong>med handledare, material och metoder anpassade för uppgiften och utifrån gällande lagar, bestämmelser och särskilda branschkrav.</p> <p>Eleven använder, <strong>efter samråd </strong>med handledare, scheman, ritningar och övriga anvisningar för att utföra arbetet. I sitt arbete väljer eleven, <strong>efter samråd </strong>med handledare, verktyg, instrument och övrig utrustning anpassade för uppgiften och använder dem med<strong> mycket gott </strong>handlag<strong>.</strong> Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare.</p> <p>Eleven dokumenterar och rapporterar <strong>med säkerhet</strong> sitt arbete utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar med <strong>nyanserade </strong>omdömen samt <strong>ger förslag på hur </strong><strong>arbetet kan förbättras</strong>.</p> <p>Eleven kontrollerar och felsöker, <strong>efter samråd </strong>med handledare, anläggningar och system samt avhjälper <strong>komplexa</strong> fel som uppkommer i såväl nya som befintliga låssystem.</p> <p>Eleven kontrollerar säkerheten och driftsätter installationen <strong>efter samråd </strong>med handledare. Resultatet av elevens arbete uppfyller på ett<strong> mycket gott </strong>sätt ställda kvalitets- och miljökrav.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.068Z"
+}

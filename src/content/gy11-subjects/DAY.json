@@ -1,0 +1,67 @@
+{
+  "code": "DAY",
+  "name": "Datorsystem – spårfordon",
+  "englishName": "Computer systems – rail vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-12-22",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:37",
+  "skolfsAndring": "2022:71",
+  "nameHeading": "<h2>Datorsystem – spårfordon</h2>",
+  "description": "<p>Ämnet datorsystem – spårfordon behandlar datorbaserade system och metoder som styr och kontrollerar spårfordons samtliga delsystem med avseende på funktion, övervakning och säkerhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet datorsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur fordonsdatorer är uppbyggda och fungerar i administrativa och processrelaterade nätverk. Undervisningen ska också leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet mellan olika delsystem i spårfordon. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskap om de krav som ställs på fordonsdatorsystem för effektiv och tillförlitlig drift samt kunskap om de säkerhetssystem som tillämpas som skydd för personer och material. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur datorsystemen används i förebyggande och avhjälpande underhåll.</p><p>Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att planera och utföra arbeten på styr- och reglerteknisk utrustning utifrån systemdokumentation i enlighet med säkerhetsföreskrifter. Undervisningen ska också leda till att eleverna utvecklar kännedom om olika programspråk samt färdigheter i grundläggande programmering. Undervisningen ska även ge eleverna möjlighet att utveckla förmågan att uttrycka sig både muntligt och skriftligt med fackspråk samt dokumentera genomfört arbete enligt regelverk och branschstandard. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att genomföra ansvarsfullt arbete med hänsyn till egen och andras säkerhet samt miljöbestämmelser.</p><p>Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet datorsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förståelse av uppbyggnad, topologi och funktion hos fordonsdatorsystem samt kunskap om kommunikationsplattformen hos spårfordon.</li> <li>Kunskap om krav på funktionssystemens och säkerhetssystemens effektivitet, funktion och tillförlitlighet samt deras funktion för förebyggande och avhjälpande underhåll.</li> <li>Kunskap om givares och fordonsdatorns komponenters funktion och syfte samt överföring av data (I/O) vid kommunikation mellan delsystem.</li> <li>Färdighet i att mäta och tolka ingenjörsstorheter hos givare, ställdon och sensorer samt mäta, installera, konfigurera, driftsätta och underhålla styr- och reglertekniska komponenter och system.</li> <li>Kunskap om olika programspråk samt kunskap om applikationsprogram och konfigurering av överordnande system.</li> <li>Färdighet i grundläggande programmering av styr- och reglersystem, samt enklare programändringar i spårfordonsdatorsystem.</li> <li>Färdighet i att hantera verktyg och teknisk utrustning, tolka systemdokumentation samt dokumentera genomfört arbete.</li> <li>Färdighet i att tillämpa instruktioner och föreskrifter för arbetets utförande och säkerhet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Programmerbara datorsystem – spårfordon, 200 poäng, som bygger på kursen elektronik – spårfordon.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: DAYPRO0</h3>",
+      "code": "DAYPRO0",
+      "nameHeading": "<h2>Programmerbara datorsystem – spårfordon, 200 poäng</h2>",
+      "name": "Programmerbara datorsystem – spårfordon",
+      "englishName": "Programmable computer systems – rail vehicles",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen programmerbara datorsystem – spårfordon omfattar punkterna 1<strong>–</strong>8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Uppbyggnad, topologi och funktion hos fordonsdatorsystem samt för- och nackdelar med olika styrsystem, historik och utveckling.</li> <li>Kommunikationsplattformen mellan spårfordonsdator och övriga system.</li> <li>Fordonsdatorsystemets roll inom förebyggande och avhjälpande underhåll.</li> <li>Realtidsdatorer, operativsystem, komponenter och användning.</li> <li>Fältbussar och distribuerad I/O.</li> <li>Givare och sensorer, till exempel för mätning av hastighet, temperatur, tryck, flöde och nivå.</li> <li>Mäta och tolka ingenjörsstorheter.</li> <li>Inkoppling av givare och ställdon till programmerbara styrsystem.</li> <li>Metoder för grundläggande felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av virtuella data och jämförelser av data med mätningar av samma signal på plint.</li> <li>Exempel på programspråk och applikationsprogram.</li> <li>Programmeringsmetoder, till exempel funktionsblock, strukturerad text och instruktionsprogrammering.</li> <li>Programmeringsteknik och programmering av styr- och reglersystem.</li> <li>Konfigurering och programmering av styr- och reglertekniska anläggningar med distribuerade kontrollenheter.</li> <li>Programstruktur och mjukvaruscheman för spårfordon.</li> <li>Programändring i spårfordonssystem.</li> <li>Verktyg, scheman, ritningar, datablad och övrig dokumentation samt dokumentationsrutiner för genomfört arbete.</li> <li>Regler och föreskrifter.</li> <li>Säkerhet för arbete med fordonsdatorn som verktyg.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem. Eleven beskriver också <strong>översiktligt </strong>kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll. <strong>I samråd</strong> med handledare genomför eleven med <strong>visst </strong>handlag mätningar och tolkar <strong>med viss säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika programspråk och applikationsprogram och genomför<strong> i samråd </strong>med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med viss säkerhet</strong> konfigurering av överordnade system.</p> <p>Eleven planerar och utför arbeten <strong>i samråd </strong>med handledare och hanterar då med <strong>visst </strong>handlag verktyg och teknisk utrustning och tolkar <strong>med</strong> <strong>viss säkerhet</strong> tillämplig systemdokumentation. Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler. Under arbetet tillämpar eleven <strong>med viss säkerhet </strong>de regler och instruktioner som omfattar utförande och säkerhet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem. Eleven beskriver också <strong>utförligt </strong>kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll. <strong>Efter samråd </strong>med handledare genomför eleven med <strong>gott </strong>handlag mätningar och tolkar <strong>med säkerhe</strong>t resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.</p><p>Eleven redogör <strong>utförligt</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd </strong>med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med säkerhet</strong> konfigurering av överordnade system.</p><p>Eleven planerar och utför arbeten <strong>efter samråd </strong>med handledare och hanterar då <strong>med</strong> <strong>säkerhet</strong> verktyg och teknisk utrustning och tolkar <strong>med</strong> <strong>säkerhet</strong> tillämplig systemdokumentation. Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler. Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem. Eleven beskriver också <strong>utförligt och nyanserat</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll. <strong>Efter samråd </strong>med handledare genomför eleven med <strong>mycket gott </strong>handlag mätningar och tolkar <strong>med säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd </strong>med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt<strong> med säkerhet</strong> konfigurering av överordnade system.</p><p>Eleven planerar och utför arbeten<strong> efter samråd </strong>med handledare och hanterar då <strong>med säkerhet </strong>verktyg och teknisk utrustning och tolkar <strong>med</strong> <strong>säkerhet</strong> tillämplig systemdokumentation. Efter utfört arbete dokumenterar eleven arbetet med<strong> gott</strong> resultat utifrån givna regler. Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.971Z"
+}

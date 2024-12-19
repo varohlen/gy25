@@ -1,0 +1,78 @@
+{
+  "code": "INKO",
+  "name": "Inköp",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:13",
+  "nameHeading": "<h2>Inköp</h2>",
+  "description": "<p>Inköp är en viktig funktion för företag, offentlig förvaltning och organisation. I handels- och tjänstesektorn sker inköp för det mesta i stora volymer och ibland över landsgränser. Ämnet behandlar arbete med planering och genomförande av upphandling, leverans och uppföljning av inköp.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet inköp ska syfta till att eleverna utvecklar förmåga att planera och utföra arbetsuppgifter inom inköp på ett rationellt och resurssnålt sätt och med minsta möjliga miljöpåverkan. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om flödet av varor från tillverkare till slutlig användare, där alla delar av distributionskedjan och logistiska samband samordnas till en helhet. Eleverna ska också ges möjlighet att utveckla kunskaper om förutsättningarna för internationell handel. Undervisningen ska dessutom leda till att eleverna utvecklar förmåga att använda ekonomiska begrepp och göra ekonomiska beräkningar inom inköpsområdet.</p> <p>Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter inom inköp. Undervisningen ska lägga en grund för elevernas förmåga att yrkesmässigt och lösningsfokuserat utföra arbetsuppgifter. Eleverna ska dessutom ges möjlighet att reflektera över sina erfarenheter och dra lärdom av dem. På så sätt ska undervisningen stimulera elevernas kreativitet, innovationstänkande och lust att omsätta idéer i praktisk handling.</p> <h5><em>Undervisningen i ämnet inköp ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om inköp, en varas väg, olika led i försörjningskedjan samt om internationell handel.</li> <li>Förmåga att utföra arbetsuppgifter på ett etiskt och hållbart sätt samt i enlighet med lagar och andra bestämmelser inom inköpsområdet.</li> <li>Förmåga att utföra ekonomiska beräkningar inom inköpsområdet.</li> </ul><h3>Nivåer i ämnet inköp</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INKO1000X</h3>",
+      "code": "INKO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet inköp på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Inköpsarbete och inköpsteknik i olika typer av företag.</li> <li>Betydelsen av en inköpsprocess.</li> <li>Varans väg från producent till konsument.</li> <li>Introduktion till import, internationell handel och handelsregler, till exempel incoterms.</li> <li>Leverantörsrelationer och hur leverantörer kan hittas och värderas.</li> <li>Hur praktiskt inköpsarbete kan utföras i små och stora företag samt i import- och exportföretag.</li> <li>Varuhantering, lagerkontroll och inventering.</li> <li>Introduktion till förhandlingar och förhandlingsprocesser samt hållbart företagande och etiska regler i inköpsarbetet.</li> <li>Hur ett sortiment sätts samman och värderas i olika typer av företag.</li> <li>Lagar och andra bestämmelser inom inköpsområdet.</li> <li>Beräkning av omsättningshastighet, buffertlager och beställningspunkt i inköpsarbetet.</li> <li>Introduktion till prissättnings- och lönsamhetskalkyler, till exempel inköpspris, pålägg, marginal och moms.</li> <li>Programvaror och programhantering, däribland kalkylprogram.</li> <li>Investeringsbedömningar, till exempel genom pay-off-metoden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INKO2000X</h3>",
+      "code": "INKO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet inköp på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Inköpsarbete och inköpsteknik samt betydelsen av en inköpsprocess, till exempel utifrån gällande regler i frihandelsavtal och tullsamarbeten.</li> <li>Internationella handelsorganisationer och deras roll vid handel inom och utanför EU.</li> <li>Hur leverantörer globalt kan hittas och värderas samt hur handelshinder kan uppstå.</li> <li>Praktiskt inköpsarbete inom internationell handel, till exempel i import- och exportföretag.</li> <li>Förhandlingar och förhandlingsprocesser samt hållbart företagande och etiska regler i inköpsarbetet.</li> <li>Inköpsstrategier och sortimentsfrågor.</li> <li>Lagar och andra bestämmelser inom inköpsområdet.</li> <li>Kostnadsanalyser i inköpsarbetet.</li> <li>Beräkningar av lagerkostnader.</li> <li>Prissättnings- och lönsamhetsberäkningar, till exempel beräkningar av ingående varukostnader, pålägg, marginal och momssatser.</li> <li>Programvaror och programhantering, däribland kalkylprogram.</li> <li>Hur investeringar kan bedömas, till exempel utifrån hållbarhet och lönsamhetsaspekter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om inköp, inköpsprocesser och en varas väg från producent till konsument. Eleven beskriver <strong>översiktligt</strong> förutsättningar för internationell handel.</p> <p>Eleven planerar och utför arbetsuppgifter inom inköp samt använder metoder som främjar yrkesetiskt och hållbart företagande på ett <strong>godtagbart</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser.</p> <p>Eleven utför <strong>i huvudsak fungerande</strong> ekonomiska beräkningar inom inköpsområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om inköp, inköpsprocesser och en varas väg från producent till konsument. Eleven beskriver <strong>utförligt</strong> förutsättningar för internationell handel.</p> <p>Eleven planerar och utför arbetsuppgifter inom inköp samt använder metoder som främjar yrkesetiskt och hållbart företagande på ett <strong>gott</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser.</p> <p>Eleven utför <strong>till stor del tydliga och korrekta</strong> ekonomiska beräkningar inom inköpsområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om inköp, inköpsprocesser och en varas väg från producent till konsument. Eleven beskriver <strong>utförligt och nyanserat</strong> förutsättningar för internationell handel.</p> <p>Eleven planerar och utför arbetsuppgifter inom inköp samt använder metoder som främjar yrkesetiskt och hållbart företagande på ett <strong>mycket gott</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser.</p> <p>Eleven utför <strong>tydliga och korrekta</strong> ekonomiska beräkningar inom inköpsområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.023Z"
+}

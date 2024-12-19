@@ -1,0 +1,92 @@
+{
+  "code": "ENER",
+  "name": "Energiteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:214",
+  "nameHeading": "<h2>Energiteknik</h2>",
+  "description": "<p>Energiteknik handlar om lagring, omvandling, transport och användning av energi, som i sin tur är nödvändig för att upprätthålla en stor mängd samhällsfunktioner. Ämnet energiteknik behandlar energitekniska objekt samt hur olika energitekniska system fungerar och är konstruerade. Ämnet bygger delvis på naturvetenskapliga principer som tillämpas på energitekniska anläggningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet energiteknik ska syfta till att eleverna utvecklar kunskaper om drift och underhåll av energitekniska anläggningar. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om energikällor och energiomvandlingar samt hur energitekniska systemlösningar är uppbyggda och fungerar. I undervisningen ska eleverna ges möjlighet att utveckla förståelse av effektiv och hållbar energianvändning samt kretsloppstänkande. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur energitekniska system påverkar miljön. Eleverna ska ges möjlighet att utveckla ett yrkesetiskt förhållningssätt samt förmåga att arbeta på ett säkert sätt.</p> <p>Genom experiment och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift och underhåll av energitekniska anläggningar. Undervisningen ska även leda till att eleverna utvecklar förmåga att hantera mätinstrument och göra energiberäkningar. Dessutom ska eleverna ges möjlighet att utveckla ett fackspråk samt förmåga att dokumentera och utvärdera utfört arbete. Undervisningen ska ge eleverna möjlighet att samverka med andra. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom energiteknik.</p> <h5><em>Undervisningen i ämnet energiteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika energikällor och bränslen samt energiomvandlingar som möjliggör produktion.</li> <li>Kunskaper om uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.</li> <li>Kunskaper om energianvändning och energieffektivisering samt miljöpåverkan av energiproduktion.</li> <li>Förmåga att hantera mätinstrument.</li> <li>Förmåga att göra energiberäkningar utifrån relevanta storheter och enheter.</li> <li>Förmåga att arbeta i enlighet med säkerhetsföreskrifter samt dokumentera och utvärdera utfört arbete.</li> </ul><h3>Nivåer i ämnet energiteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ENER1000X</h3>",
+      "code": "ENER1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet energiteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Energikällor, energiinnehåll och energiomvandlingar.</li> <li>Huvudkomponenter i olika system, till exempel fläktar, pumpar, ventiler, turbiner och generatorer samt drift och underhåll av dessa.</li> <li>Regionala förutsättningar i Sverige gällande energiproduktion och energianvändning samt olika behov och hinder.</li> <li>Energiförbättrande åtgärder i bostäder.</li> <li>Miljöpåverkan av energiproduktion i Sverige.</li> <li>Mätning, till exempel av ström, spänning, motstånd, effekt och energi. Inställning och kontroll av instrument.</li> <li>Energiberäkningar, till exempel av ström, spänning, motstånd, effekt och energi.</li> <li>Tabeller och instruktioner, till exempel formlersamlingar och manualer.</li> <li>Personlig skyddsutrustning och ergonomi i arbetet.</li> <li>Säkerhetsföreskrifter inom området.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Energitekniska begrepp och samband.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ENER2000X</h3>",
+      "code": "ENER2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet energiteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Förbränningsprocessen, energigaser och överföring av värme.</li> <li>Uppbyggnad av vanligt förekommande system, till exempel ventilationssystem, pumpstationer och värmesystem.</li> <li>Förutsättningar inom EU gällande energiproduktion och energianvändning samt olika behov och hinder.</li> <li>Energiförbättrande åtgärder i industrier.</li> <li>Miljöpåverkan av energiproduktion inom EU.</li> <li>Mätning, till exempel av temperatur och tryck. Inställning och kontroll av instrument.</li> <li>Energiberäkningar, till exempel av kraft, tryck, energi, effekt och verkningsgrad.</li> <li>Standarder och föreskrifter, till exempel standarder för hur olika energitekniska system byggs.</li> <li>Säkerhetsstandarder och säkerhetsföreskrifter, till exempel om elsäkerhet, brandfarliga arbeten, säkerhet på väg och travers.</li> <li>Dokumentation och utvärdering av eget arbete.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ENER3000X</h3>",
+      "code": "ENER3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet energiteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Generering, transformering och överföring av elektricitet.</li> <li>Praktiskt arbete, tillståndskontroll och felsökning i olika system, till exempel i pump- och fläktsystem.</li> <li>Olika länders förutsättningar gällande energiproduktion och energianvändning samt olika behov och hinder ur ett globalt perspektiv.</li> <li>Effektivisering av system i bostäder och industrier.</li> <li>Miljöpåverkan av energiproduktion ur ett globalt perspektiv.</li> <li>Mätning, till exempel av varvtal, frekvens och flöden. Inställning och kontroll av instrument.</li> <li>Energiberäkningar, till exempel av flöden, specifik värmekapacitet, U-värde, effekt och energi.</li> <li>Olika ritningar och scheman, till exempel elscheman, ventilationsritningar, byggritningar och maskinritningar.</li> <li>Säkerhetsföreskrifter inom området.</li> <li>Dokumentation och utvärdering av eget och andras arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> olika energikällor och bränslen samt energiomvandlingar.</p> <p>Eleven beskriver <strong>översiktligt</strong> hur olika energitekniska systemlösningar är uppbyggda och fungerar.</p> <p>Eleven för <strong>enkla</strong> resonemang om hur energiproduktionen påverkar miljön samt hur detta kan förebyggas.</p> <p>Eleven hanterar mätinstrument med <strong>viss säkerhet</strong>.</p> <p>Eleven utför <strong>enkla</strong> energiberäkningar.</p> <p>Eleven utför det praktiska arbetet i enlighet med säkerhetsbestämmelser inom området. Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>enkla</strong> omdömen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> olika energikällor och bränslen samt energiomvandlingar.</p> <p>Eleven beskriver <strong>utförligt</strong> hur olika energitekniska systemlösningar är uppbyggda och fungerar.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om hur energiproduktionen påverkar miljön samt hur detta kan förebyggas.</p> <p>Eleven hanterar mätinstrument med <strong>säkerhet</strong>.</p> <p>Eleven utför <strong>relativt komplexa</strong> energiberäkningar.</p> <p>Eleven utför det praktiska arbetet i enlighet med säkerhetsbestämmelser inom området. Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>utvecklade</strong> omdömen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika energikällor och bränslen samt energiomvandlingar.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur olika energitekniska systemlösningar är uppbyggda och fungerar.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om hur energiproduktionen påverkar miljön samt hur detta kan förebyggas.</p> <p>Eleven hanterar mätinstrument med <strong>god säkerhet</strong>.</p> <p>Eleven utför <strong>komplexa</strong> energiberäkningar.</p> <p>Eleven utför det praktiska arbetet i enlighet med säkerhetsbestämmelser inom området. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>välutvecklade</strong> omdömen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.989Z"
+}

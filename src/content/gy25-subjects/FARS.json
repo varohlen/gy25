@@ -1,0 +1,78 @@
+{
+  "code": "FARS",
+  "name": "Färskvaror och delikatesser",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:242",
+  "nameHeading": "<h2>Färskvaror och delikatesser</h2>",
+  "description": "<p>Ämnet färskvaror och delikatesser behandlar service, marknadsföring och försäljning samt hur råvaror och andra produkter kan användas, kombineras och tillagas i framför allt delikatessdisk.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet färskvaror och delikatesser ska syfta till att eleverna utvecklar förmåga att utföra vanligt förekommande arbetsuppgifter inom området. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika råvaror och produkter, deras ursprung, kvalitet, användningsområden och hantering. Eleverna ska även ges möjlighet att utveckla kunskaper om varor och produkter samt om hur den praktiska verksamheten bedrivs inom delikatessområdet i till exempel delikatessdiskar, saluhallar och caféer. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om historia och traditioner runt delikatesser från olika länder. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga till serviceinriktad försäljning och kommunikation med kunder. Eleverna ska även ges möjlighet att utveckla förmåga att ge råd och information om hur olika råvaror och produkter kan kombineras och tillredas. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att laga mat och baka med inriktning mot färskvaru- och delikatessområdet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda och vårda redskap och maskiner samt att använda förpackningsmaterial och tillämpa märkningsbestämmelser. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller hygien, ergonomi, arbetsmiljö och säkerhet. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att göra ekonomiska beräkningar samt att beställa och exponera varor.</p> <p>Undervisningen ska bidra till att eleverna ges rikliga möjligheter att utveckla sin nyfikenhet och lust att lära, till exempel genom att diskutera arbetet och reflektera över frågor om etik och hållbarhet. Dessutom ska undervisningen bidra till att eleverna utvecklar kreativitet och problemlösningsförmåga samt förmåga att planera, organisera och utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet färskvaror och delikatesser ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om färskvaror och delikatesser.</li> <li>Förmåga att planera och organisera arbete utifrån ekonomiska krav samt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att sälja och marknadsföra olika färskvaror och delikatesser.</li> <li>Förmåga att tillaga kalla och varma anrättningar.</li> </ul><h3>Nivåer i ämnet färskvaror och delikatesser</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FARS1000X</h3>",
+      "code": "FARS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet färskvaror och delikatesser på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika färskvaror och delikatesser.</li> <li>Delikatessvarors historia och traditioner.</li> <li>Ekonomiska beräkningar. Ekonomi om svinn och rester.</li> <li>Säsongsanpassning.</li> <li>Förvaring, paketering och märkning.</li> <li>Allergener, specialkost och kostval.</li> <li>Hantering och skötsel av utrustning.</li> <li>Lagar och andra bestämmelser inom området. Säkerhet, ergonomi och hygien i arbetet.</li> <li>Rådgivning till kunder om hur olika varor och produkter kan kombineras och tillredas.</li> <li>Enklare presentationer av varor i utbudet.</li> <li>Försäljning och exponering av varor. Uppläggning, paketering och prismärkning.</li> <li>Marknadsföring via till exempel skyltning och sociala medier.</li> <li>Serviceinriktade kundmöten.</li> <li>Råvaror och produkter och hur de används för att skapa kombinationer och anrättningar.</li> <li>Tillagning av vanligt förekommande kalla anrättningar i en delikatessavdelning, däribland smörgåstårtor, landgångar, sallader, inläggningar och röror.</li> <li>Tillagning av vanligt förekommande varma rätter, däribland pajer och matlådor.</li> <li>Enklare bakning.</li> <li>Olika uppläggningar inom delikatesser, frukt och grönt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FARS2000X</h3>",
+      "code": "FARS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet färskvaror och delikatesser på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Färskvaror och delikatesser. Ursprung, säsong, användningsområden och kombinationer.</li> <li>Beställningar.</li> <li>Rationella arbetsmetoder utifrån ekonomiska krav.</li> <li>Planering av utbud utifrån högtider och andra teman samt säsong.</li> <li>Planering av utbud utifrån allergener, specialkost och kostval.</li> <li>Hantering och skötsel av utrustning.</li> <li>Lagar och andra bestämmelser inom området. Säkerhet, ergonomi och hygien i arbetet.</li> <li>Bufféer, smörgåsbord och catering. Estetiska uppläggningar. Sensorik.</li> <li>Rådgivning utifrån kundens behov och önskemål. Estetik och sensorik.</li> <li>Anpassad marknadsföring utifrån kundanalys och målgrupp.</li> <li>Säljande presentationer av varor i utbudet.</li> <li>Exponering och säljande rum.</li> <li>Hantering av klagomål och reklamationer.</li> <li>Serviceinriktade och säljande kundmöten utifrån kundens önskemål och behov.</li> <li>Tillagning av mer avancerade anrättningar, däribland kanapéer och snittar.</li> <li>Skapande av olika anrättningar utifrån kundens önskemål.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om färskvaror och delikatesser.</p> <p>Eleven planerar och organiserar arbete på ett <strong>godtagbart</strong> sätt utifrån ekonomiska krav samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven säljer och marknadsför med <strong>viss säkerhet</strong> olika färskvaror och delikatesser samt bemöter med <strong>viss säkerhet</strong> kunder på ett serviceinriktat sätt.</p> <p>Eleven tillagar med <strong>visst</strong> handlag kalla och varma anrättningar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om färskvaror och delikatesser.</p> <p>Eleven planerar och organiserar arbete på ett <strong>gott</strong> sätt utifrån ekonomiska krav samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven säljer och marknadsför med <strong>säkerhet</strong> olika färskvaror och delikatesser samt bemöter med <strong>säkerhet</strong> kunder på ett serviceinriktat sätt.</p> <p>Eleven tillagar med <strong>gott</strong> handlag kalla och varma anrättningar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om färskvaror och delikatesser.</p> <p>Eleven planerar och organiserar arbete på ett <strong>mycket gott</strong> sätt utifrån ekonomiska krav samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven säljer och marknadsför med <strong>god säkerhet</strong> olika färskvaror och delikatesser samt bemöter med <strong>god säkerhet</strong> kunder på ett serviceinriktat sätt.</p> <p>Eleven tillagar med <strong>mycket gott</strong> handlag kalla och varma anrättningar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

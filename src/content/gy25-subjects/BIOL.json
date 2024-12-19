@@ -1,0 +1,92 @@
+{
+  "code": "BIOL",
+  "name": "Biologi i vattenmiljöer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:274",
+  "nameHeading": "<h2>Biologi i vattenmiljöer</h2>",
+  "description": "<p>Ämnet biologi i vattenmiljöer behandlar den biologi som har betydelse för yrkesmässigt arbete inom fiske och vattenbruk. Kunskaper om vattenlevande organismer samt om deras livsprocesser och ekologi är centrala för verksamheter inom fiske och vattenbruk. Ämnet behandlar också vattnets fysikaliska och kemiska egenskaper samt vattnets kretslopp. Dessutom behandlas evolutionära processer och utvecklingen i vatten.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet biologi i vattenmiljöer ska syfta till att eleverna utvecklar kunskaper om vattenlevande organismers biologi, livsprocesser, utvecklingsfaser och förutsättningar för utveckling. Den ska också leda till att eleverna utvecklar förmåga att identifiera och beskriva växt- och djurarter som lever i vatten. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om vatten och vattnets kretslopp samt om vattenföring i sjöar och vattendrag och strömmar i havet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om mikrobiologi och mikrobiologiska processer av betydelse inom fiske och vattenbruk. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om vattenmiljöer samt om naturbrukets påverkan på ekosystemen i vatten. Undervisningen ska vidare bidra till att eleverna utvecklar kunskaper om hotade arter och deras biotopkrav samt om bevarandearbete. Undervisningen ska därigenom bidra till att eleverna utvecklar kunskaper om sambandet mellan biologisk mångfald och hållbar utveckling samt förmåga att ta ställning i etiska frågor som gäller naturbruksverksamhet i vattenmiljöer.</p> <p>Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt förhållningssätt. I undervisningen ska eleverna genom praktiska övningar, observationer och fältstudier ges möjlighet att utveckla kunskaper om vatten och vattenlevande organismer samt utveckla förståelse av biologiska samband i naturen.</p> <h5><em>Undervisningen i ämnet biologi i vattenmiljöer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om vattenlevande organismers biologi.</li> <li>Förmåga att identifiera och beskriva vattenlevande organismer av betydelse inom fiske och vattenbruk.</li> <li>Kunskaper om vattnets fysikaliska och kemiska egenskaper samt om kretslopp och biologiska och ekologiska samband i olika vattenmiljöer.</li> <li>Kunskaper om för fiske och vattenbruk relevanta mikroorganismer och mikrobiologiska processer samt deras betydelse i vattenmiljön.</li> <li>Kunskaper om biologisk mångfald och hotade arter.</li> </ul><h3>Nivåer i ämnet biologi i vattenmiljöer</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet biologi.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BIOL1000X</h3>",
+      "code": "BIOL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet biologi i vattenmiljöer på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vattenlevande djurs och växters byggnad och grundläggande livsprocesser.</li> <li>Olika vattenlevande organismers naturliga miljö, naturliga beteende och utbredning.</li> <li>Artbegreppet och de huvudsakliga indelningar som används inom växt- och djurriket för att kategorisera vattenlevande organismer.</li> <li>Studier och identifiering av vattenlevande organismer.</li> <li>Vattnets fysikaliska och kemiska egenskaper och vatten som livsavgörande resurs för växter, djur och människor.</li> <li>Provtagning och provtagningsmetoder för vattenanalyser.</li> <li>Vattnets rörelser, strömmar, omblandning och syresättning.</li> <li>Kretslopp i mark, vatten och luft.</li> <li>Grundläggande ekologi i havsmiljöer, sjöar och vattendrag.</li> <li>Klimat och väderlek och hur dessa faktorer påverkar olika vattenmiljöer.</li> <li>Laborationer och undersökningar om biologiska samband i olika vattenmiljöer.</li> <li>Mikroorganismer och mikrobiologiska processer i vattenmiljöer.</li> <li>Miljöpåverkan i havsmiljöer, sjöar och vattendrag samt hållbar utveckling i dessa miljöer, däribland miljöpåverkan gällande hotade arter.</li> <li>Etiska frågor i samband med vattenbruk, till exempel övergödning och överfiske.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BIOL2000X</h3>",
+      "code": "BIOL2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet biologi i vattenmiljöer på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Vattenlevande djur och växter, deras anatomi och fysiologi samt anpassning till olika vattenmiljöer.</li> <li>Evolutionära processer beträffande vattenlevande organismer.</li> <li>Fördjupad artkännedom och systematik samt typiska kännetecken, till exempel vad gäller utseende och beteende. Identifiering och beskrivning av vattenlevande organismer av betydelse inom fiske och vattenbruk.</li> <li>Växelverkan mellan biologiska, kemiska och geologiska processer i vattenmiljöer.</li> <li>Växtnäringsämnen och deras kretslopp.</li> <li>Kolets kretslopp.</li> <li>Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.</li> <li>Fördjupning av ekologiska samband, till exempel planktontillgångens betydelse för rovfiskbestånd.</li> <li>Laborationer och undersökningar om biologiska samband och livsprocesser i olika vattenmiljöer.</li> <li>Nedbrytningsprocesser och sjukdomsframkallande mikroorganismer i vattenmiljöer.</li> <li>Hotade arter och bevarandebiologi i olika vattenmiljöer.</li> <li>Etiska frågor kopplade till vattenbruk, till exempel vid foderproduktion.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BIOL3000X</h3>",
+      "code": "BIOL3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet biologi i vattenmiljöer på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Anatomisk och fysiologisk fördjupning inom en eller flera vattenlevande arter, till exempel kräftdjur, blötdjur eller alger.</li> <li>Beteendeekologi hos vattenlevande organismer, till exempel vandringar och revirbehov.</li> <li>Fältstudier och egna undersökningar inom ett eller flera fördjupningsområden.</li> <li>Artinventering av vattenlevande organismer inom fördjupningsområdet och de olika arternas betydelse i naturbruket.</li> <li>Kemiska, fysikaliska, biologiska och ekologiska samband och de olika faktorer som på olika sätt påverkar vattenlevande organismer inom fördjupningsområdet, däribland naturbrukets påverkan och invasiva arter.</li> <li>Laborationer och undersökningar med användning av begrepp, teorier och modeller inom fördjupningsområdet.</li> <li>Mikrobiologiska processer och sjukdomsframkallande mikroorganismer av betydelse inom fördjupningsområdet.</li> <li>Skyddsvärda biotoper och biotoprestaureringar. Etiska frågor i samband med bevarandebiologi.</li> <li>Biotopkrav, utbredning och hemområden för utrotningshotade arter inom fördjupningsområdet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om vattenlevande organismers biologi.</p> <p>Eleven identifierar med <strong>viss säkerhet</strong> vattenlevande organismer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om de olika kretsloppen och deras påverkan på olika vattenmiljöer. Eleven beskriver <strong>översiktligt</strong> ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om mikroorganismer och deras betydelse i vattenmiljöer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om utrotningshotade arter samt redogör <strong>översiktligt</strong> för hur naturbruket kan bidra till att bevara den biologiska mångfalden.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om vattenlevande organismers biologi.</p> <p>Eleven identifierar med <strong>säkerhet</strong> vattenlevande organismer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om de olika kretsloppen och deras påverkan på olika vattenmiljöer. Eleven beskriver <strong>utförligt</strong> ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om mikroorganismer och deras betydelse i vattenmiljöer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om utrotningshotade arter samt redogör <strong>utförligt</strong> för hur naturbruket kan bidra till att bevara den biologiska mångfalden.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om vattenlevande organismers biologi.</p> <p>Eleven identifierar med <strong>god säkerhet</strong> vattenlevande organismer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om de olika kretsloppen och deras påverkan på olika vattenmiljöer. Eleven beskriver <strong>utförligt och nyanserat</strong> ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om mikroorganismer och deras betydelse i vattenmiljöer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om utrotningshotade arter samt redogör <strong>utförligt och nyanserat</strong> för hur naturbruket kan bidra till att bevara den biologiska mångfalden.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.974Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SAMM",
+  "name": "Sammanfogning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:106",
+  "nameHeading": "<h2>Sammanfogning</h2>",
+  "description": "<p>Ämnet sammanfogning behandlar olika metoder och tekniker för sammanfogning av material. Dessutom behandlar ämnet kvalitetsbedömning av resultat samt säkerhet i arbete med sammanfogning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet sammanfogning ska syfta till att eleverna utvecklar förmåga att sammanfoga olika material med hjälp av utrustning som är anpassad för materialet. Undervisningen ska även leda till att eleverna utvecklar kunskaper om olika metoder för sammanfogning samt förmåga att välja och använda den metod som är lämpligast för den aktuella uppgiften. Undervisningen ska också leda till att eleverna utvecklar kunskaper om olika utrustningars funktion och användningsområden samt hur dessa ska vårdas och underhållas. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla förmåga att planera och organisera arbetet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att använda tillverkningsunderlag vid sammanfogning av material. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att undvika formavvikelser och felaktigheter samt att vid behov korrigera formavvikelser. Att tillverka produkter med rätt kvalitet är viktigt inom industriteknisk produktion. Undervisningen ska därför leda till att eleverna utvecklar förmåga att bedöma det färdiga resultatet med hjälp av standarder.</p> <p>Att arbeta med sammanfogning kan innebära risker och därför ska undervisningen bidra till att eleverna utvecklar förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området. Den ska även ge eleverna möjlighet att utveckla förmåga att använda begrepp inom teknikområdet samt att kommunicera om arbetsprocesser och resultat.</p> <p>Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i verkstadsmiljö.</p> <h5><em>Undervisningen i ämnet sammanfogning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om utrustningars funktioner och användningsområden samt olika metoder inom sammanfogning.</li> <li>Förmåga att utföra sammanfogning av material med utrustningar och metoder som är lämpliga för materialet.</li> <li>Förmåga att tolka instruktioner och tillverkningsunderlag samt att bedöma kvalitet på utfört arbete och att korrigera formavvikelser.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet sammanfogning</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SAMM1000X</h3>",
+      "code": "SAMM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet sammanfogning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika utrustningars funktioner och användningsområden.</li> <li>Olika material och deras egenskaper.</li> <li>Olika metoder för sammanfogning.</li> <li>Planering och organisation av arbetet.</li> <li>Sammanfogning av olika material med relevanta sammanfogningsmetoder, till exempel limning, nitning, skruvförband, svetsning och lödning.</li> <li>Enklare underhåll och service av utrustning.</li> <li>Olika typer av instruktioner.</li> <li>Enklare tillverkningsunderlag för sammanfogning.</li> <li>Metoder för bedömning av sammanfogningsprocessen och korrigeringsmöjligheter.</li> <li>Kvalitetsbedömning av resultatet med hjälp av standarder.</li> <li>Grundläggande begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> <li>Lagar och andra bestämmelser inom området, däribland om arbetsmiljö och säkerhet.</li> <li>Tillämpning av arbetsmetoder för struktur, ordning och effektiv arbetsmiljö.</li> <li>Kommunikation och samverkan för planering och utförande av arbetsuppgifter inom sammanfogning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om utrustningars funktioner och användningsområden samt om olika metoder för sammanfogning.</p> <p>Eleven utför med <strong>viss säkerhet</strong> sammanfogning av material.</p> <p>Eleven tolkar med <strong>viss säkerhet</strong> instruktioner och tillverkningsunderlag. Dessutom gör eleven kvalitetsbedömningar av resultatet med <strong>viss säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om utrustningars funktioner och användningsområden samt om olika metoder för sammanfogning.</p> <p>Eleven utför med <strong>säkerhet</strong> sammanfogning av material.</p> <p>Eleven tolkar med <strong>säkerhet</strong> instruktioner och tillverkningsunderlag. Dessutom gör eleven kvalitetsbedömningar av resultatet med <strong>säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om utrustningars funktioner och användningsområden samt om olika metoder för sammanfogning.</p> <p>Eleven utför med <strong>god säkerhet</strong> sammanfogning av material.</p> <p>Eleven tolkar med <strong>god säkerhet</strong> instruktioner och tillverkningsunderlag. Dessutom gör eleven kvalitetsbedömningar av resultatet med <strong>god säkerhet</strong>.</p> <p>Eleven följer säkerhetsanvisningar och arbetar i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.076Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "ELTK",
+  "name": "Elteknik – järnväg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:213",
+  "nameHeading": "<h2>Elteknik – järnväg</h2>",
+  "description": "<p>Samhällets järnvägssystem är beroende av en välfungerande elförsörjning. Ämnet elteknik – järnväg behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars elsystem. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elteknik – järnväg ska syfta till att eleverna utvecklar kunskaper om och färdigheter i underhåll, installation och reparation av befintliga anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att lösa problem som uppstår under arbetets gång samt att felsöka och reparera fel i järnvägsanläggningars elsystem. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om säkerhet, standarder, lagar och andra bestämmelser inom området. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling inom järnvägsbranschen.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö. Därigenom ska eleverna ges möjlighet att utveckla förmåga att använda verktyg, material och instrument på ett säkert och hållbart sätt. Undervisningen ska också leda till att eleverna utvecklar förmåga att tolka och använda dokumentation, till exempel ritningar och arbetsbeskrivningar, samt att dokumentera sitt arbete. Vidare ska undervisningen ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet elteknik – järnväg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kontaktledningssystemets uppbyggnad och konstruktion.</li> <li>Kunskaper om begrepp samt lagar och andra bestämmelser inom området.</li> <li>Förmåga att planera, utföra och dokumentera montering, underhåll, felsökning och reparation av anläggningar.</li> <li>Förmåga att arbeta säkert och att förebygga skador på personer och egendom.</li> </ul><h3>Nivåer i ämnet elteknik – järnväg</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet allmän järnvägsteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELTK1000X</h3>",
+      "code": "ELTK1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elteknik – järnväg på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Kontaktledningssystemets uppbyggnad och konstruktion.</li> <li>Lågspänningsnätets uppbyggnad och konstruktion, däribland hjälpkraftledning och nätstationer samt växelvärmesystemet och dess funktion.</li> <li>Begrepp, standarder, lagar och andra bestämmelser inom järnvägsteknik.</li> <li>Handhavande av vanligt förekommande hydraul- och tryckluftsverktyg vid kontaktledningsmontage.</li> <li>Hantering av kontaktledningsmaterial.</li> <li>Hjälpmedel för att avlasta ledningar vid byte av utliggare och liknande arbeten.</li> <li>Läsning och tolkning av scheman, ritningar och handböcker.</li> <li>Kraftverkan i strävor och stag som uppkommer vid avspänningar.</li> <li>Järnvägens jordningssystem.</li> <li>Jordning i kontaktledningsanläggningar.</li> <li>Statisk och roterande omformarteknik.</li> <li>Montage- och pressverktyg.</li> <li>Dokumentation av eget arbete utifrån givna riktlinjer.</li> <li>Elsäkerhet vid järnvägen.</li> <li>Hur arbetet kan genomföras för att förebygga skador på personer, egendom och miljö.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för kontaktledningssystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för begrepp, standarder, lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>visst</strong> handlag montering, underhåll, felsökning och reparation av anläggningar. Eleven dokumenterar på ett <strong>enkelt</strong> sätt det utförda arbetet.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert och som förebygger skador på personer och egendom.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för kontaktledningssystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för begrepp, standarder, lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>gott</strong> handlag montering, underhåll, felsökning och reparation av anläggningar. Eleven dokumenterar på ett <strong>utvecklat</strong> sätt det utförda arbetet.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert och som förebygger skador på personer och egendom.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för kontaktledningssystemets uppbyggnad och konstruktion.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för begrepp, standarder, lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>mycket gott</strong> handlag montering, underhåll, felsökning och reparation av anläggningar. Eleven dokumenterar på ett <strong>välutvecklat</strong> sätt det utförda arbetet.</p> <p>Eleven utför praktiskt arbete på ett sätt som är säkert och som förebygger skador på personer och egendom.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.989Z"
+}

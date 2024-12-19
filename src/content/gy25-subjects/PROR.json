@@ -1,0 +1,77 @@
+{
+  "code": "PROR",
+  "name": "Programmering för tekniska tillämpningar",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:560",
+  "nameHeading": "<h2>Programmering för tekniska tillämpningar</h2>",
+  "description": "<p>Ämnet programmering för tekniska tillämpningar behandlar hur mjukvaror skapas, anpassas, utvecklas och tillämpas inom ett valt teknikområde samt hur mjukvaror påverkar teknikutvecklingen. Ämnet möjliggör en fördjupning inom ett valt teknikområde som exempelvis spelutveckling eller inbäddade system. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet programmering för tekniska tillämpningar ska syfta till att eleverna utvecklar breddade och fördjupade kunskaper om och färdigheter i programmering för tekniska tillämpningar. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av programmeringens betydelse för teknikutvecklingen.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att omsätta kunskaper inom såväl aktuell och relevant forskning som praxis och egna erfarenheter i praktisk handling. Dessutom ska undervisningen ge eleverna möjlighet att använda de breddade erfarenheterna inom programmering och att utveckla specialiserade kunskaper inom valt teknikområde.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av programmeringens betydelse, möjligheter och begränsningar inom valt teknikområde. Eleverna ska också ges möjlighet att använda relevanta begrepp, teorier, modeller och metoder i arbete med problemlösning inom området. Dessutom ska undervisningen bidra till att eleverna utvecklar förståelse av hur programmering påverkar och påverkas av teknikutvecklingen inom teknikområdet.</p> <p>I undervisningen ska eleverna ges möjlighet att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet inom valt teknikområde. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom tillämpad programmering.</p> <h5><em>Undervisningen i ämnet programmering för tekniska tillämpningar ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om utvecklingsprocessen inom valt teknikområde.</li> <li>Förmåga att identifiera, formulera och lösa problem genom programmering.</li> <li>Förmåga att analysera konsekvenser av programmering inom teknikutveckling.</li> </ul><h3>Nivåer i ämnet programmering för tekniska tillämpningar</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROR100TX</h3>",
+      "code": "PROR100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering för tekniska tillämpningar på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Någon relevant utvecklingsprocess inom valt teknikområde och samband mellan processens olika delar.</li> </ul> <p><em>Programmering</em></p> <ul> <li>Grundläggande begrepp, teorier, modeller och metoder inom programmering, relevanta för valt teknikområde.</li> <li>Programmering som verktyg för lösning av enklare problem i en tillämpad kontext samt programmeringens möjligheter och begränsningar.</li> </ul> <p><em>Tillämpningar</em></p> <ul> <li>Någon eller några tillämpningar av programmering inom valt teknikområde.</li> <li>Reflektion över och värdering av valda strategier, metoder och resultat.</li> <li>Hur programmering har påverkat och påverkar teknikutvecklingen inom valt teknikområde.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROR200TX</h3>",
+      "code": "PROR200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet programmering för tekniska tillämpningar på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Relevanta utvecklingsprocesser inom valt teknikområde och samband mellan processernas olika delar.</li> </ul> <p><em>Programmering</em></p> <ul> <li>Begrepp, teorier, modeller och metoder inom programmering, relevanta för valt teknikområde.</li> <li>Programmering som verktyg för lösning av omfattande och sammansatta problem i en tillämpad kontext samt programmeringens möjligheter och begränsningar.</li> </ul> <p><em>Tillämpningar</em></p> <ul> <li>Flera olika tillämpningar av programmering inom valt teknikområde.</li> <li>Reflektion över och värdering av valda strategier och metoder samt utvärdering av slutresultat. Förbättringsförslag.</li> <li>Hur programmering har påverkat och påverkar teknikutvecklingen inom valt teknikområde.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven resonerar <strong>övergripande</strong> om utvecklingsprocessens olika delar och hur de samverkar inom valt teknikområde.</p> <p>Eleven identifierar, formulerar och löser på ett <strong>systematiskt</strong> sätt problem genom programmering.</p> <p>Eleven gör <strong>enkla</strong> analyser av hur programmering har påverkat och påverkar teknikutvecklingen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven resonerar <strong>utförligt</strong> om utvecklingsprocessens olika delar och hur de samverkar inom valt teknikområde.</p> <p>Eleven identifierar, formulerar och löser på ett <strong>systematiskt och genomarbetat</strong> sätt problem genom programmering.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av hur programmering har påverkat och påverkar teknikutvecklingen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven resonerar <strong>utförligt och nyanserat</strong> om utvecklingsprocessens olika delar och hur de samverkar inom valt teknikområde.</p> <p>Eleven identifierar, formulerar och löser på ett <strong>systematiskt och effektivt</strong> sätt problem genom programmering.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser av hur programmering har påverkat och påverkar teknikutvecklingen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.066Z"
+}

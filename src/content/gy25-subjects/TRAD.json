@@ -1,0 +1,93 @@
+{
+  "code": "TRAD",
+  "name": "Trädgårdsanläggning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-22",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2024:232",
+  "skolfsAndring": "2024:232",
+  "nameHeading": "<h2>Trädgårdsanläggning</h2>",
+  "description": "<p>Ämnet trädgårdsanläggning behandlar anläggning av hårdgjorda ytor och vegetationsytor i olika miljöer som parker, bostadsområden, kyrkogårdar, begravningsplatser och trädgårdar. I ämnet ingår även park- och trädgårdsanläggningars historiska utveckling samt människors behov av utemiljöer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet trädgårdsanläggning ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom anläggning av trädgårdar och parker. Undervisningen ska leda till att eleverna utvecklar kunskaper om anläggningsprocessen och om sambanden mellan funktion, markförhållanden, materialval, växtval och anläggningsteknik. Den ska också leda till att eleverna utvecklar förmåga att utföra arbetsuppgifter inom trädgårdsanläggning. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att bedöma kvaliteten på trädgårdsanläggningsarbeten.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av människors behov av utemiljöer och kunskaper om hur trädgårdsanläggningar kan utformas med utgångspunkt i funktion, estetik och ekonomi samt med hänsyn till biologiska faktorer och markförhållanden. Eleverna ska också ges möjlighet att utveckla kunskaper om arbetsmetoder, material och teknisk utrustning som används inom området samt förmåga att planera och utföra arbetsuppgifter inom trädgårdsanläggning på ett yrkesmässigt sätt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om byggprocessen för trädgårdsanläggningar och om lagar och andra bestämmelser som gäller inom området. Den ska även bidra till att eleverna utvecklar förmåga att välja och använda växter, material och arbetsmetoder som främjar biologisk mångfald och en miljömässigt hållbar utveckling. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att arbeta på ett säkert och ergonomiskt sätt.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att arbeta såväl hantverksmässigt som med tidsenlig teknisk utrustning. Fältstudier ska ge eleverna möjlighet att utveckla kunskaper om historiska miljöer och om olika anläggningars estetiska uttryck. Undervisningen ska stimulera ett undersökande arbetssätt där elevernas förmåga att planera trädgårdsanläggningar med utgångspunkt i ekonomi, funktion och biologiska grunder utvecklas.</p> <h5><em>Undervisningen i ämnet trädgårdsanläggning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att välja växter, material och tekniker med utgångspunkt i förutsättningarna på platsen, anläggningens funktion och användning samt ekonomi.</li> <li>Kunskaper om anläggningsprocessen och om lagar och andra bestämmelser inom området.</li> <li>Förmåga att planera och genomföra arbetsuppgifter inom trädgårdsanläggning.</li> <li>Förmåga att arbeta hållbart och säkert i samband med anläggningsarbeten.</li> </ul><h3>Nivåer i ämnet trädgårdsanläggning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet växtkunskap.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TRAD1000X</h3>",
+      "code": "TRAD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet trädgårdsanläggning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Byggprocess och funktion</em></p> <ul> <li>Olika trädgårdsanläggningar med utgångspunkt i funktion och estetik.</li> <li>Växt- och materialval med utgångspunkt i klimat- och markförhållanden samt ekonomiska ramar.</li> <li>Begreppet ekosystemtjänster och människors behov av utemiljöer, parker och trädgårdar.</li> <li>Markbeläggningar, hårdgjorda ytor, trappor, murar och hägnader.</li> <li>Vegetationsytor däribland gräsytor, planteringsytor och vattenanläggningar.</li> <li>Anläggningsmaterial, till exempel trä, natursten och betong.</li> <li>Parker och trädgårdar ur ett historiskt perspektiv samt estetiska uttryck i färg och form.</li> <li>Anläggningsprocessens olika steg från tillståndsgivning och projektering till färdig trädgårdsanläggning.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Tolkning och användning av ritningar.</li> <li>Arbetsuppgifter inom trädgårdsanläggning, till exempel stenläggning, anläggning av gräs-och planteringsytor samt plantering av växter.</li> <li>Mätteknik, till exempel utsättning, avvägning och inmätning med aktuell teknisk utrustning.</li> <li>Användning av handredskap och maskiner.</li> <li>Resurseffektivitet och materialåtervinning i samband med anläggningsarbete.</li> <li>Metoder för bevarande av praktiska och estetiska värden i trädgårdsanläggningar.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi i samband med aktuella arbetsuppgifter samt val av arbetsmetoder för ett hållbart arbetsliv.</li> <li>Säkerhetsfrågor och riskbedömning i samband med aktuella arbetsuppgifter.</li> <li>Säkerhetskontroll i samband med användning av maskiner.</li> <li>Lagar och andra bestämmelser som gäller trädgårdsanläggning, till exempel bygglagstiftning och arbetsmiljölagstiftning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TRAD2000X</h3>",
+      "code": "TRAD2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet trädgårdsanläggning på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Byggprocess och funktion</em></p> <ul> <li>Byggprocessens olika steg samt frågor om byggstandarder och tillstånd.</li> <li>Utemiljöer för olika målgrupper och funktioner.</li> <li>Växt- och materialval med utgångspunkt i växtplatsens förutsättningar och naturliga arter samt skötselbehov.</li> <li>Hur parker och trädgårdar har utformats i olika tidsepoker.</li> <li>Skissteknik samt användning av digitala hjälpmedel.</li> <li>Enklare material- och kostnadsberäkningar.</li> <li>Hur val av växter och material kan påverka anläggningens framtida skötselbehov och främja biologisk mångfald.</li> <li>Metoder för dagvattenhantering i park- och trädgårdsmiljöer.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Tolkning och användning av ritningar.</li> <li>Planering och genomförande av grundarbeten, däribland schakt, fyllningar, överbyggnader och växtbäddar samt val och dimensionering av material.</li> <li>Arbete med anläggning av vegetationsytor, däribland gräsytor, planteringsytor och vattenanläggningar.</li> <li>Arbete med markbeläggningar, hårdgjorda ytor, trappor, murar och hägnader.</li> <li>Montering av fast utrustning, till exempel lekutrustning utifrån monteringsanvisningar.</li> <li>Användning av aktuella handredskap och maskiner, till exempel markpackningsmaskiner och kaputrustning till betong och natursten.</li> <li>Användning av tekniska och digitala hjälpmedel, till exempel mätutrustning.</li> <li>Resurseffektivitet och miljöhänsyn i samband med anläggningsarbete.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi i samband med aktuella arbetsuppgifter samt val av arbetsmetoder för ett hållbart arbetsliv.</li> <li>Riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området, däribland AMA Anläggning (Allmän material- och arbetsbeskrivning för anläggningsarbeten).</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TRAD3000X</h3>",
+      "code": "TRAD3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet trädgårdsanläggning på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Byggprocess och funktion</em></p> <ul> <li>Hur historiska och nutida park- och trädgårdsmiljöer har utformats med avseende på funktion och estetik. Informationssökning och fältstudier inom området.</li> <li>Skissteknik samt användning av digitala hjälpmedel.</li> <li>Kvalitetsfrågor och ekonomi.</li> <li>Begreppet ekosystemtjänster samt växt- och materialval som främjar hållbar utveckling, till exempel växter som gynnar bin och andra pollinerare.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Yrkesmässigt arbete med trädgårdsanläggningsprojekt, däribland vegetationsytor och hårdgjorda ytor samt montering av fast utrustning.</li> <li>Fördjupning inom ett eller flera områden, till exempel naturstensarbeten, dammanläggningar och anläggning av takvegetation.</li> <li>Användning av handredskap och maskiner samt tekniska och digitala hjälpmedel för aktuella arbeten.</li> <li>Resurseffektivitet och miljöhänsyn i samband med anläggningsarbete.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi i samband med aktuella arbetsuppgifter samt val av arbetsmetoder för ett hållbart arbetsliv.</li> <li>Riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Lagar och andra bestämmelser inom området, däribland föreskrifter om tillgänglighet i utemiljöer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hur parker och trädgårdar kan utformas för olika ändamål. Eleven väljer med <strong>viss säkerhet</strong> växter, material och tekniker utifrån platsens förutsättningar och anläggningens funktion samt ekonomiska aspekter.</p> <p>Eleven redogör <strong>översiktligt</strong> för anläggningsprocessen och visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>godtagbart</strong> resultat arbetsuppgifter inom trädgårdsanläggning. I arbetet använder eleven med <strong>visst</strong> handlag teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och använder ergonomiskt och miljömässigt hållbara arbetsmetoder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hur parker och trädgårdar kan utformas för olika ändamål. Eleven väljer med <strong>säkerhet</strong> växter, material och tekniker utifrån platsens förutsättningar och anläggningens funktion samt ekonomiska aspekter.</p> <p>Eleven redogör <strong>utförligt</strong> för anläggningsprocessen och visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>gott</strong> resultat arbetsuppgifter inom trädgårdsanläggning. I arbetet använder eleven med <strong>gott</strong> handlag teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och använder ergonomiskt och miljömässigt hållbara arbetsmetoder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur parker och trädgårdar kan utformas för olika ändamål. Eleven väljer med <strong>god säkerhet</strong> växter, material och tekniker utifrån platsens förutsättningar och anläggningens funktion samt ekonomiska aspekter.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för anläggningsprocessen och visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven planerar och utför med <strong>mycket gott</strong> resultat arbetsuppgifter inom trädgårdsanläggning. I arbetet använder eleven med <strong>mycket gott</strong> handlag teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och använder ergonomiskt och miljömässigt hållbara arbetsmetoder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.094Z"
+}

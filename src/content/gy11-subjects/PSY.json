@@ -1,0 +1,106 @@
+{
+  "code": "PSY",
+  "name": "Psykiatri",
+  "englishName": "Psychiatry",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-07-11",
+  "version": "gy11",
+  "versionInfo": "Ny senasteversion.",
+  "skolfsGrund": "2010:101",
+  "skolfsAndring": "2022:259",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Psykiatri</h2>",
+  "description": "<p>Ämnet psykiatri är tvärvetenskapligt. Det bygger i huvudsak på medicinsk vetenskap, vårdvetenskap, socialt arbete, social omsorg och pedagogik. Ämnet behandlar vård- och omsorgsarbete vid psykiska sjukdomar och funktionsnedsättningar utifrån pedagogiska, etiska och kulturella perspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet psykiatri ska syfta till att eleverna utvecklar kunskaper om psykisk ohälsa och olika psykiska sjukdomstillstånd. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur psykiska sjukdomar uppkommer samt vilka möjligheter samhället och enskilda människor har att påverka dessa.</p> <p>Undervisningen ska även bidra till att eleverna blir medvetna om de fördomar som finns om psykiska sjukdomar. I undervisningen ska eleverna ges möjlighet att diskutera orsaker till ökningen av psykisk ohälsa i samhället samt utveckla förståelse av att psykisk ohälsa kan drabba alla människor. Eleverna ska också ges förutsättningar att utveckla kunskaper om vilka faktorer som bidrar till psykisk hälsa.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av hur vården, omsorgen och omvårdnaden bör utformas för patienter eller brukare med psykiska sjukdomar samt hur patienter eller brukare med stöd kan få ett fungerande liv.</p> <p>Eleverna ska också ges möjlighet att planera, genomföra, dokumentera och utvärdera det egna arbetet utifrån omvårdnads- och omsorgsprocessens olika steg och med hjälp av olika metoder. Undervisningen ska även bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter och brukare med ett lyhört, respektfullt, reflekterande och empatiskt förhållningssätt. Eleverna ska även ges möjlighet att utveckla kunskaper om vikten av samverkan mellan brukare, anhöriga, olika huvudmän och frivilligorganisationer.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur psykiatrin har utvecklats historiskt. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området samt förmåga att utifrån ett etiskt förhållningssätt arbeta i enlighet med dessa.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av arbetsuppgifter kopplade till psykiatrin. Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.</p> <h4>Undervisningen i ämnet psykiatri ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om olika psykiska sjukdomstillstånd och orsaker till att de uppstår samt om faktorer som påverkar hälsa och ohälsa.</li> <li>Kunskaper om samt medvetenhet kring de fördomar som finns om psykisk ohälsa.</li> <li>Kunskaper om de olika stegen och innehållet i omvårdnads- och omsorgsprocessen vid olika psykiska sjukdomstillstånd.</li> <li>Kunskaper om hur samarbete mellan huvudmän, mellan olika yrkesgrupper inom psykiatrin och närstående påverkar patienternas och brukarnas återhämtning.</li> <li>Förmåga att planera och genomföra vård-, omsorgs- och omvårdnadsarbete vid olika psykiska sjukdomstillstånd och vid psykisk ohälsa.</li> <li>Förmåga att möta och kommunicera med patienter, brukare och närstående på ett respektfullt, lyhört och empatiskt sätt samt förmåga att reflektera över det egna förhållningssättet.</li> <li>Kunskaper om den historiska utvecklingen inom verksamhetsområdet.</li> <li>Kunskaper om lagar och andra bestämmelser som styr verksamhetsområdet samt förmåga att arbeta efter dessa i praktisk verksamhet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Psykiatri 1, 100 poäng. </li> <li>Psykiatri 2, 100 poäng, som bygger på kursen psykiatri 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PSYPSY01</h3>",
+      "code": "PSYPSY01",
+      "nameHeading": "<h2>Psykiatri 1, 100 poäng</h2>",
+      "name": "Psykiatri 1",
+      "englishName": "Psychiatry 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen psykiatri 1 omfattar punkterna 1–4 och 6–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Vanligt förekommande psykiska sjukdomar, däribland stressrelaterade sjukdomar, depression, ätstörningar, ångesttillstånd hos äldre och yngre, posttraumatiskt stressyndrom (PTSD) och deras prevention, diagnostik, behandling, omvårdnad och återhämtning.</li> <li>Frisk- och riskfaktorer samt förklaringsmodeller till hur psykisk ohälsa uppstår utifrån evidensbaserad kunskap.</li> <li>Synen på psykisk hälsa och ohälsa samt hur stigmatisering uppstår och hur den kan hanteras.</li> <li>Kriser och krishantering.</li> <li>Omsorgsprocessens olika steg och innehåll med planering, genomförande, dokumentation och utvärdering av stöd- och hjälpinsatser till den enskilde.</li> <li>Personcentrerad vård, teamarbete och interprofessionella samarbeten.</li> <li>Psykiatrins möjligheter till stöd i form av resurspersoner, olika boenden och boendestödsverksamheter samt betydelsen av sysselsättning.</li> <li>Kommunikation, samarbete och samverkan med patienter, brukare, anhöriga samt övriga samarbetspartners.</li> <li>Riktlinjer och förhållningssätt utifrån brukarens behov och rätten till självbestämmande, integritet och relationer vid arbete i brukarens hemmiljö.</li> <li>Bemötande och förhållningssätt inom psykiatrisk vård och i brukarens hemmiljö utifrån evidensbaserade metoder.</li> <li>Psykiatrins historiska utveckling vad gäller kunskap, människosyn och organisation.</li> <li>Lagar och andra bestämmelser som styr verksamheten såsom hälso- och sjukvårdslagen och lagen om psykiatrisk tvångsvård.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för vanliga psykiska sjukdomar och deras behandling. Eleven beskriver även <strong>översiktligt</strong>, utifrån evidensbaserad kunskap, ett par olika förklaringsmodeller till att psykisk ohälsa uppstår. Dessutom beskriver eleven <strong>översiktligt </strong>hur en individs situation kan påverka den psykiska hälsan och ohälsan. Eleven ger<strong> enkla</strong> förslag på vad som behöver förändras i människors livsstil för att förebygga psykisk ohälsa. Eleven beskriver <strong>översiktligt </strong>hur stigmatiseringen vid psykisk ohälsa uppstår.</p> <p>Eleven beskriver <strong>översiktligt </strong>innehållet i omvårdnads- och omsorgsprocessen vid olika psykiska sjukdomstillstånd.</p> <p>Eleven beskriver <strong>översiktligt</strong> vilket stöd brukarna kan få i form av resurspersoner, boende, sysselsättning och insatser av frivilligorganisationer.</p> <p>Eleven beskriver <strong>översiktligt</strong> hur man möter och kommunicerar med människor som har olika psykiska sjukdomar. Dessutom kommunicerar eleven med ett respektfullt, lyhört och empatiskt förhållningssätt och med <strong>tillfredsställande</strong> resultat.</p> <p>Eleven ger med utgångspunkt i psykiatrins historia exempel på vikten av evidensbaserad kunskap. Eleven redogör även för lagar och andra bestämmelser som styr verksamheten.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för vanliga psykiska sjukdomar och deras behandling. Eleven beskriver även <strong>utförligt</strong>, utifrån evidensbaserad kunskap, ett par olika förklaringsmodeller till att psykisk ohälsa uppstår. Dessutom beskriver eleven <strong>utförligt </strong>hur en individs situation kan påverka den psykiska hälsan och ohälsan. Eleven ger<strong> välgrundade </strong>förslag på vad som behöver förändras i människors livsstil för att förebygga psykisk ohälsa. Eleven beskriver även <strong>utförligt </strong>hur stigmatiseringen vid psykisk ohälsa uppstår.</p> <p>Eleven beskriver <strong>utförligt </strong>innehållet i omvårdnads- och omsorgsprocessen vid olika sjukdomstillstånd.</p> <p>Eleven beskriver <strong>utförligt</strong> vilket stöd brukarna kan få i form av resurspersoner, boende, sysselsättning och insatser av frivilligorganisationer.</p> <p>Eleven beskriver <strong>utförligt</strong> hur man möter och kommunicerar med människor som har olika psykiska sjukdomar. Dessutom kommunicerar eleven med ett respektfullt, lyhört och empatiskt förhållningssätt och med <strong>tillfredsställande</strong> resultat.</p> <p>Eleven ger med utgångspunkt i psykiatrins historia exempel på vikten av evidensbaserad kunskap. Eleven redogör även för lagar och andra bestämmelser som styr verksamheten.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för vanliga psykiska sjukdomar och deras behandling. Eleven beskriver även <strong>utförligt och nyanserat</strong>, utifrån evidensbaserad kunskap, ett par olika förklaringsmodeller till att psykisk ohälsa uppstår. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>hur en individs situation kan påverka den psykiska hälsan och ohälsan. Eleven ger<strong> välgrundade och nyanserade </strong>förslag på vad som behöver förändras i människors livsstil för att förebygga psykisk ohälsa. Eleven beskriver även <strong>utförligt och nyanserat </strong>hur stigmatiseringen vid psykisk ohälsa uppstår.</p> <p>Eleven beskriver <strong>utförligt och nyanserat </strong>innehållet i omvårdnads- och omsorgsprocessen vid olika sjukdomstillstånd.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> vilket stöd brukarna kan få i form av resurspersoner, boende, sysselsättning och insatser av frivilligorganisationer.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur man möter och kommunicerar med människor som har olika psykiska sjukdomar. Dessutom kommunicerar eleven med ett respektfullt, lyhört och empatiskt förhållningssätt och med <strong>gott</strong> resultat.</p> <p>Eleven ger med utgångspunkt i psykiatrins historia exempel på vikten av evidensbaserad kunskap. Eleven redogör även för lagar och andra bestämmelser som styr verksamheten.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PSYPSK02</h3>",
+      "code": "PSYPSK02",
+      "nameHeading": "<h2>Psykiatri 2, 100 poäng</h2>",
+      "name": "Psykiatri 2",
+      "englishName": "Psychiatry 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen psykiatri 2 omfattar punkterna 1 och 4–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Psykiska sjukdomar, däribland psykoser, bipolärt syndrom, missbruk, emotionell instabil personlighetsstörning, självskadebeteenden och de funktionsnedsättningar som följer, deras orsaker, symtom, skattningsinstrument, behandling, vård och omsorg, omvårdnad samt vikten av prevention och återhämtning.</li> <li>Samsjuklighet, bruk och missbruk vid psykisk ohälsa utifrån ett individperspektiv.</li> <li>Hur olika faktorer, däribland individens fysiska, psykosociala, socioekonomiska förutsättningar och könstillhörighet påverkar människors hälsa och ohälsa.</li> <li>Former för samverkan och delaktighet mellan brukare och olika huvudmän med hjälp av samordnad individuell plan samt samverkan med anhöriga.</li> <li>Bedömning av behov, planering, genomförande, dokumentation och utvärdering av socialt omsorgs- och omvårdnadsarbete vid vanliga psykiska sjukdomstillstånd.</li> <li>Läkemedelsbehandling.</li> <li>Suicidprevention.</li> <li>Olika behandlingsformer vid psykiska sjukdomstillstånd, däribland kognitiv och dialektisk beteendeterapi samt andra evidensbaserade metoder, till exempel social färdighetsträning för ett självständigt liv.</li> <li>Internetbaserad behandling.</li> <li>Vård och stödsamordnad insats för personer med psykisk sjukdom.</li> <li>Stödverksamheter till barn med föräldrar som har en psykisk funktionsnedsättning eller en missbruksproblematik.</li> <li>Olika samtalsmetoder i form av praktiska övningar och samtal, däribland motiverande samtal med öppna frågor, reflektioner och sammanfattningar, individuellt och i grupp utifrån frivilligt deltagande och utifrån tvångssituationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> psykiska sjukdomar och de funktionsnedsättningar som kan bli en följd av sådana sjukdomar. Eleven beskriver även <strong>översiktligt </strong>orsak, symtom och vård och omsorg vid psykiska sjukdomar.</p> <p>Eleven redogör <strong>översiktligt</strong> för nyttan av att olika huvudmän, yrkesgrupper och närstående blir delaktiga i utformningen av patientens och brukarens vård och omsorg samt omvårdnad.</p> <p>Eleven beskriver även <strong>översiktligt </strong>behandling, vård och omsorg, omvårdnad, återhämtning och prevention i samband med vanliga psykiska sjukdomar. Eleven beskriver även <strong>översiktligt </strong>hur informationsöverföring kan användas i olika vård- och omsorgssituationer.</p> <p><strong>I samråd</strong> med handledare planerar, genomför och dokumenterar eleven vård-, omsorgs- och omvårdnadsarbete utifrån omvårdnads- och omsorgsprocessens olika steg. Dessutom värderar eleven med <strong>enkla </strong>omdömen sitt eget förhållningssätt i mötet med patienter och brukare. Eleven redogör även <strong>översiktligt</strong> för olika behandlingsformer.</p> <p>Eleven ger <strong>enkla</strong> exempel på hur man utifrån olika situationer möter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt samt utför detta <strong>i samråd</strong> med handledare.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> psykiska sjukdomar och de funktionsnedsättningar som kan bli en följd av sådana sjukdomar. Eleven beskriver även <strong>utförligt </strong>orsak, symtom och vård och omsorg vid psykiska sjukdomar.</p> <p>Eleven redogör <strong>utförligt</strong> för nyttan av att olika huvudmän, yrkesgrupper och närstående blir delaktiga i utformningen av patientens och brukarens vård och omsorg samt omvårdnad.</p> <p>Eleven beskriver även <strong>utförligt </strong>behandling, vård och omsorg, omvårdnad, återhämtning och prevention i samband med vanliga psykiska sjukdomar. Eleven beskriver även <strong>utförligt </strong>hur informationsöverföring kan användas i olika vård- och omsorgssituationer.</p> <p><strong>Efter samråd</strong> med handledare planerar, genomför och dokumenterar eleven vård-, omsorgs- och omvårdnadsarbete utifrån omvårdnads- och omsorgsprocessens olika steg. Dessutom värderar eleven med <strong>välgrundade </strong>omdömen sitt eget förhållningssätt i mötet med patienter och brukare. Eleven redogör även <strong>utförligt</strong> för olika behandlingsformer.</p> <p>Eleven ger <strong>välgrundade</strong> exempel på hur man utifrån olika situationer möter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt samt utför detta <strong>efter samråd</strong> med handledare.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> psykiska sjukdomar och de funktionsnedsättningar som kan bli en följd av sådana sjukdomar. Eleven beskriver även <strong>utförligt och nyanserat </strong>orsak, symtom och vård och omsorg vid psykiska sjukdomar.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för nyttan av att olika huvudmän, yrkesgrupper och närstående blir delaktiga i utformningen av patientens och brukarens vård och omsorg samt omvårdnad.</p> <p>Eleven beskriver även <strong>utförligt och nyanserat </strong>behandling, vård och omsorg, omvårdnad, återhämtning och prevention i samband med vanliga psykiska sjukdomar. Eleven beskriver även <strong>utförligt och nyanserat </strong>hur informationsöverföring kan användas i olika vård- och omsorgssituationer.</p> <p><strong>Efter samråd</strong> med handledare planerar, genomför och dokumenterar eleven vård-, omsorgs- och omvårdnadsarbete utifrån omvårdnads- och omsorgsprocessens olika steg. Dessutom värderar eleven med <strong>välgrundade och nyanserade </strong>omdömen sitt eget förhållningssätt i mötet med patienter och brukare. Eleven redogör även <strong>utförligt och nyanserat</strong> för olika behandlingsformer.</p> <p>Eleven ger <strong>välgrundade och nyanserade</strong> exempel på hur man utifrån olika situationer möter och kommunicerar med patienter och brukare på ett respektfullt, lyhört och empatiskt sätt samt utför detta <strong>efter samråd</strong> med handledare.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.135Z"
+}

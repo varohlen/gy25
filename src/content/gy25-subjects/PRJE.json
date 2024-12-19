@@ -1,0 +1,63 @@
+{
+  "code": "PRJE",
+  "name": "Projektering – VVS",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:562",
+  "nameHeading": "<h2>Projektering – VVS</h2>",
+  "description": "<p>Ämnet projektering – VVS behandlar den arbetsprocess där tekniska system och anläggningar inom teknikområdet VVS-installation konstrueras, projekteras och dokumenteras. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet projektering – VVS ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet VVS-installation och samspelet mellan teknik och människa.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Dessutom ska eleverna ges möjlighet att utveckla förmåga att kommunicera om förslag och lösningar i projekteringsarbeten. Vidare ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser samt standarder för VVS-installationer.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och därigenom bidra till att eleverna utvecklar förmåga att framställa installationsritningar och projektkalkyler. I undervisningen ska eleverna också ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom VVS-området. På så vis ska undervisningen ge eleverna möjlighet att omsätta sina kunskaper om projektering till omdömesgilla och praktiska handlingar.</p> <h5><em>Undervisningen i ämnet projektering – VVS ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att framställa och kommunicera teknisk dokumentation för VVS-projektering med hjälp av it-stöd.</li> <li>Kunskaper om VVS-installationers utformning.</li> <li>Kunskaper om lagar och andra bestämmelser samt om standarder för VVS-installationer.</li> </ul><h3>Nivåer i ämnet projektering – VVS</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PRJE100TX</h3>",
+      "code": "PRJE100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet projektering – VVS på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Dokumentation och kommunikation</em></p> <ul> <li>Formulering av beställares krav i en teknisk beskrivning med ledning av AMA VVS och kyla (Allmän material- och arbetsbeskrivning för värme, ventilation, sanitet och kyla).</li> <li>Upprättande av gränsdragningslistor för ansvarsfördelning mellan yrkeskategorier.</li> <li>Dokumentation av ändringar i projekt genom relationshandlingar.</li> <li>Upprättande av protokoll, till exempel vid besiktning, mätning eller injustering.</li> <li>Användning av cad-program för framställning av VVS-ritningar.</li> <li>Framställning av material- och kostnadskalkyler med hjälp av kalkylprogram.</li> <li>Teknisk kommunikation, däribland offerter och avtal.</li> <li>Byggnadsinformationsmodellering (BIM), däribland dess konsekvenser för projekteringsarbetet.</li> <li>Program för energi-, ljud- och tryckfallsberäkning samt dimensionering, till exempel av ventilations- och rörsystem.</li> </ul> <p><em>VVS-installationer</em></p> <ul> <li>Hur VVS-installationer utförs med hänsyn tagen till energieffektivitet, estetik, säkerhet, tillgänglighet och miljöpåverkan.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland plan- och bygglagen (PBL) och Boverkets byggregler (BBR) samt hur dessa påverkar arbetet med VVS-installationer.</li> <li>Behörighets- och utförandekrav enligt VVS-områdets regler för säker vatteninstallation. Kravens koppling till BBR samt användningen av kraven inom planering, projektering och konstruktion av VVS-installationer.</li> <li>AMA VVS och kyla, däribland dess struktur, användningsform och funktion i en teknisk beskrivning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven framställer och kommunicerar teknisk dokumentation för projektering inom VVS-området på ett <strong>fungerande</strong> sätt. I arbetet med VVS-projektering använder eleven relevant it-stöd.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om VVS-installationers utformning.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser samt om standarder inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven framställer och kommunicerar teknisk dokumentation för projektering inom VVS-området på ett <strong>väl fungerande</strong> sätt. I arbetet med VVS-projektering använder eleven relevant it-stöd.</p> <p>Eleven visar <strong>goda</strong> kunskaper om VVS-installationers utformning.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser samt om standarder inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven framställer och kommunicerar teknisk dokumentation för projektering inom VVS-området på ett <strong>mycket väl fungerande</strong> sätt. I arbetet med VVS-projektering använder eleven relevant it-stöd.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om VVS-installationers utformning.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser samt om standarder inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.063Z"
+}

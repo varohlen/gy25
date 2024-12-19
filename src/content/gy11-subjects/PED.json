@@ -1,0 +1,295 @@
+{
+  "code": "PED",
+  "name": "Pedagogik",
+  "englishName": "Pedagogy",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:140",
+  "skolfsAndring": "2022:242",
+  "nameHeading": "<h2>Pedagogik</h2>",
+  "description": "<p>Pedagogik är ett tvärvetenskapligt kunskapsområde nära knutet till psykologi, sociologi och filosofi och har utvecklat en egen identitet som samhällsvetenskaplig disciplin. Ämnet pedagogik tar utgångspunkt i vetenskapen om människors liv och lärande i olika miljöer och fokuserar mötet mellan människor utifrån individ-, grupp- och ledarperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pedagogik ska syfta till att eleverna utvecklar kunskaper om hur människor lär, utvecklas och socialiseras i olika sammanhang samt kunskaper om olika teorier om det.</p><p>Eleverna ska ges möjlighet att utveckla kunskaper om hur synen på kunskap och lärande har förändrats och hur det har påverkat såväl fostran som undervisning. De ska också ges möjlighet att utveckla kunskaper om hur människor formas av och själva skapar sociala sammanhang, samhällen och kulturer. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur värderingar och kunskaper skapas, lever kvar och förändras inom olika kulturer, samhällen, institutioner och grupper av människor. Eleverna ska också ges möjlighet att utveckla kunskaper om människors liv och växande i olika miljöer.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människors interaktion och kommunikation samt om pedagogiskt ledarskap. Undervisningen ska leda till att eleverna utvecklar förmåga att möta och pedagogiskt leda människor i olika situationer och att skapa goda villkor för människors lärande och växande.</p><p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen, och tillfällen ska ges för eleverna att medverka vid val av arbetsformer och innehåll. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska ges möjlighet att reflektera över och diskutera ämnesinnehållet, centrala begrepp och egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.</p><h4>Undervisningen i ämnet pedagogik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om människors lärande, liv och växande och om olika villkor för det samt om sociala och pedagogiska sammanhang.</li> <li>Förmåga att använda pedagogiska begrepp, teorier och teoretiska perspektiv.</li> <li>Färdigheter i att kritiskt använda information från olika källor.</li> <li>Färdigheter i att planera, genomföra, dokumentera och utvärdera aktiviteter för att stödja och stimulera människors lärande och deltagande i olika situationer.</li> <li>Förmåga att kommunicera, samarbeta och samverka för att möta och pedagogiskt leda människor i olika situationer.</li> <li>Förmåga att diskutera sin egen och andras syn på kunskap och lärande samt diskutera handlingar i sociala och pedagogiska sammanhang.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Aktivitetsledarskap, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Kommunikation, 100 poäng. </li> <li>Lärande och utveckling, 100 poäng. </li> <li>Människors miljöer, 100 poäng. </li> <li>Barns lärande och växande, 100 poäng, som bygger på kursen lärande och utveckling och kursen människors miljöer.</li> <li>Pedagogiska teorier och praktiker, 100 poäng, som bygger på kursen pedagogiskt arbete.</li> <li>Pedagogiskt ledarskap, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen idrottsledarskap.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PEDAKI00S</h3>",
+      "code": "PEDAKI00S",
+      "nameHeading": "<h2>Aktivitetsledarskap, 100 poäng</h2>",
+      "name": "Aktivitetsledarskap",
+      "englishName": "Activity leadership",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen aktivitetsledarskap omfattar punkterna 1 och 4–6 under rubriken Ämnets syfte, med särskild betoning på pedagogiska sammanhang och ledarskap inom dessa.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Pedagogiskt ledarskap inom specifika aktiviteter i samverkan med verksamheter.</li> <li>Verksamhetens organisation, målsättning, verksamhetsform, ledarutbildning och centrala begrepp för aktiviteten.</li> <li>Människors interaktion, gruppens och det sociala sammanhangets betydelse för lärande och det pedagogiska ledarskapet.</li> <li>Planering, genomförande, dokumentation och utvärdering av aktiviteter på ett sätt som är i enlighet med målen för verksamheten.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>i samråd </strong>med handledare. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>enkel </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> enkla </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare<strong> samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål<strong> och deltagarnas respons</strong>. I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDKOU0</h3>",
+      "code": "PEDKOU0",
+      "nameHeading": "<h2>Kommunikation, 100 poäng</h2>",
+      "name": "Kommunikation",
+      "englishName": "Communication",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen kommunikation omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Människors interaktion och kommunikation i olika sammanhang och utifrån olika teorier.</li> <li>Sociala och kulturella förhållandens påverkan på människors interaktion och kommunikation.</li> <li>Gruppens och det sociala sammanhangets betydelse för interaktion och kommunikation.</li> <li>Användning av samtal som redskap i kommunikationen.</li> <li>Interaktion och kommunikation vid konflikter och konflikthantering.</li> <li>Framväxten av mediekulturer och användandet av digitala medier samt deras betydelse för människors liv och lärande.</li> <li>Kritisk bearbetning av information från olika källor.</li> <li>Användning av informationsteknik som redskap för kommunikation och information.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> människors interaktion och kommunikation. Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte. Utifrån planeringen genomför eleven presentationen <strong>i samråd </strong>med handledare. I presentationen interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>. Dessutom utvärderar eleven presentationen med<strong> enkla </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar i samband med presentationen. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> människors interaktion och kommunikation. Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte. Utifrån planeringen genomför eleven presentationen <strong>efter samråd </strong>med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I presentationen interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>. Dessutom utvärderar eleven presentationen med<strong> nyanserade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar i samband med presentationen. I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> människors interaktion och kommunikation. Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte.<strong> I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>. Utifrån planeringen genomför eleven presentationen <strong>efter samråd </strong>med handledare<strong> samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I presentationen interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>. Dessutom utvärderar eleven presentationen med<strong> nyanserade </strong>omdömen utifrån uppsatta mål<strong> och deltagarnas respons</strong>. I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar i samband med presentationen. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDLÄR0</h3>",
+      "code": "PEDLÄR0",
+      "nameHeading": "<h2>Lärande och utveckling, 100 poäng</h2>",
+      "name": "Lärande och utveckling",
+      "englishName": "Learning and development",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen lärande och utveckling omfattar punkterna 1–3 och 6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Människors lärande, utveckling och socialisation i olika sammanhang utifrån olika teorier och teoretiska perspektiv.</li> <li>Hur synen på kunskap, lärande, undervisning och utbildning har förändrats.</li> <li>Hur kunskap och värderingar konstrueras, lever kvar och förändras inom olika kulturer, samhällen, institutioner och grupper av människor.</li> <li>Människors olika villkor för lärande och växande och hur synen på normalitet och avvikelse påverkar detta.</li> <li>Olika pedagogiska situationers och lärmiljöers påverkan på lärandet.</li> <li>Det sociala sammanhanget och gruppens betydelse för lärande.</li> <li>Kritisk bearbetning av information från olika källor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> människors lärande utveckling och socialisation. Eleven ger också exempel på vad som påverkar människors lärande och växande. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> människors lärande, utveckling och socialisation. Eleven ger också exempel på vad som påverkar människors lärande och växande. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> människors lärande, utveckling och socialisation. Eleven ger också exempel på vad som påverkar människors lärande och växande. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDMÄI0</h3>",
+      "code": "PEDMÄI0",
+      "nameHeading": "<h2>Människors miljöer, 100 poäng</h2>",
+      "name": "Människors miljöer",
+      "englishName": "Human environments",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen människors miljöer omfattar punkterna 1–3 och 6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Människors olika levnadsmiljöer och levnadsvillkor.</li> <li>Hur människor påverkas av, samt själva medverkar till, skapandet av de kulturer och samhällen de lever i.</li> <li>Hur identiteter skapas och formas i sociala sammanhang.</li> <li>Hur till exempel genus, klass, etnicitet, familj, generation, funktionsnedsättningar, arbete och fritid påverkar människors levnadsvillkor.</li> <li>Demokratisk värdegrund och internationella överenskommelser om mänskliga rättigheter.</li> <li>Innebörden av integration, segregation, likabehandling och diskriminering.</li> <li>Kritisk bearbetning av information från olika källor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> människors olika levnadsmiljöer och levnadsvillkor. Eleven ger också exempel på vad som påverkar levnadsmiljöer och levnadsvillkor. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> människors olika levnadsmiljöer och levnadsvillkor. Eleven ger också exempel på vad som påverkar levnadsmiljöer och levnadsvillkor. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> människor olika levnadsmiljöer och levnadsvillkor. Eleven ger också exempel på vad som påverkar levnadsmiljöer och levnadsvillkor. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDBAS0</h3>",
+      "code": "PEDBAS0",
+      "nameHeading": "<h2>Barns lärande och växande, 100 poäng</h2>",
+      "name": "Barns lärande och växande",
+      "englishName": "Children's learning and growing",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen barns lärande och växande omfattar punkterna 1–3 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Barns lärande, utveckling och socialisation i olika sammanhang och utifrån olika teorier och teoretiska perspektiv.</li> <li>Hur synen på barn, barndom och fostran har förändrats.</li> <li>Barns olika uppväxtmiljöer och levnadsvillkor och hur samhällsförändringar har påverkat detta.</li> <li>Innebörden och betydelsen av barns interaktion i kamratgrupper samt skapandet av kamratkulturer.</li> <li>Vuxnas betydelse för barns lärande och växande.</li> <li>Hur olika mediekulturer påverkar barns lärande och växande.</li> <li>Hur till exempel genus, klass, etnicitet, funktionsnedsättningar och fritid påverkar barns levnadsvillkor.</li> <li>Kritisk bearbetning av information från olika källor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> barns lärande, utveckling och socialisation. Eleven ger också exempel på vad som påverkar barns lärande och växande. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> barns lärande, utveckling och socialisation. Eleven ger också exempel på vad som påverkar barns lärande och växande. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> barns lärande, utveckling och socialisation. Eleven ger också exempel på vad som påverkar barns lärande och växande. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier utifrån olika teoretiska perspektiv samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser. <strong>Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar. I diskussioner framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDPED0</h3>",
+      "code": "PEDPED0",
+      "nameHeading": "<h2>Pedagogiska teorier och praktiker, 100 poäng</h2>",
+      "name": "Pedagogiska teorier och praktiker",
+      "englishName": "Pedagogical theory and practice",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen pedagogiska teorier och praktiker omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Fördjupning i en eller flera pedagogiska teorier, till exempel Montessoripedagogik, Waldorfpedagogik och Freinetpedagogik, som ligger till grund för arbete i pedagogiska verksamheter.</li> <li>Pedagogiska arbetssätt, praktiker och lärmiljöer.</li> <li>Sambandet mellan pedagogiska förhållningssätt samt arbetssätt och lärande.</li> <li>Kritisk bearbetning av information från olika källor.</li> <li>Interaktion och kommunikation i samarbete och möten med människor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>en eller flera pedagogiska teorier. Eleven ger också exempel på hur de påverkar verksamheters utformning och innehåll. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p> <p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla</strong> omdömen.</p> <p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>i samråd </strong>med handledare. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> enkla </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>en eller flera pedagogiska teorier. Eleven ger också exempel på hur de påverkar verksamheters utformning och innehåll. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p> <p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p> <p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>en eller flera pedagogiska teorier. Eleven ger också exempel på hur de påverkar verksamheters utformning och innehåll. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.<strong> Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p> <p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade</strong> omdömen.</p> <p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare<strong> samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål<strong> och deltagarnas respons</strong>. I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PEDPEG0</h3>",
+      "code": "PEDPEG0",
+      "nameHeading": "<h2>Pedagogiskt ledarskap, 100 poäng</h2>",
+      "name": "Pedagogiskt ledarskap",
+      "englishName": "Pedagogical leadership",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 7,
+      "description": "<p>Kursen pedagogiskt ledarskap omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Ledarskap och organisationer utifrån olika teorier.</li> <li>Hur individer, grupper och det sociala sammanhanget påverkar och påverkas av ledaren.</li> <li>Ledarskap ur ett genus- och jämställdhetsperspektiv.</li> <li>Ledarskap vid konflikter samt konflikthantering.</li> <li>Kritisk bearbetning av information från olika källor.</li> <li>Planering, genomförande, dokumentation och utvärdering av olika aktiviteter.</li> <li>Interaktion och kommunikation i samarbete och möten med människor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>enkla </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>i samråd </strong>med handledare. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>enkel </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> enkla </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>översiktligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> ledarskapets villkor och förutsättningar samt organisationsformer. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p><p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med viss säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> ledarskapets villkor och förutsättningar samt organisationsformer. Eleven ger också exempel på vad som påverkar ledarskapet och organisationen. I beskrivningarna använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade och nyanserade</strong> slutsatser.<strong> Dessutom värderar eleven teorierna med nyanserade omdömen och argumenterar för deras styrkor och svagheter</strong>.</p><p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med <strong>nyanserade </strong>omdömen.</p><p>Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål. <strong>I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet</strong>. Utifrån planeringen genomför eleven uppgifterna och aktiviteterna <strong>efter samråd </strong>med handledare<strong> samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande</strong>. I arbetet interagerar eleven, samt kommunicerar <strong>med säkerhet</strong>, i samarbete och möten med människor. Dessutom gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> nyanserade </strong>omdömen utifrån uppsatta mål<strong> och deltagarnas respons</strong>. I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p><p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.121Z"
+}

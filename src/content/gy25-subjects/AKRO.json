@@ -1,0 +1,92 @@
+{
+  "code": "AKRO",
+  "name": "Akrobatik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:149",
+  "nameHeading": "<h2>Akrobatik</h2>",
+  "description": "<p>Akrobatik är en stor del av cirkuskonsten och har olika discipliner. Ämnet akrobatik handlar om fysisk färdighet som kan åstadkommas med kroppen för att skapa rörelseuttryck.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet akrobatik ska syfta till att eleverna utvecklar kunskaper om och färdigheter i akrobatiska discipliner. Eleverna ska också ges möjlighet att utveckla förmåga att utföra akrobatiskt tekniska moment samt uttrycka sig inom en eller flera av akrobatikens discipliner. Eleverna ska ges möjlighet att utveckla förståelse av hur uttryck och formspråk inom akrobatiska discipliner kan nyanseras och varieras utifrån olika konstnärliga idéer.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i cirkuskonst och akrobatik aktivt bidra till ett rikt kulturliv i samhället. Eleverna ska ges möjlighet att delta i arbete med cirkusnummer samt utforma och skapa egna cirkusnummer. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta, interagera med andra och vara lyhörda inför olika sätt att förhålla sig till konstnärliga processer. Undervisningen ska även betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <p>Undervisningen ska behandla arbetsmiljö och ergonomi samt innefatta praktiskt arbete där eleverna ges möjlighet att bygga upp den fysiska beredskap som krävs för att undvika skador. Eleverna ska också ges möjlighet att utveckla kunskaper om anatomi, träningsgrunder och förebyggande träning.</p> <p>Utforskande och reflekterande arbetsmetoder är väsentliga i ämnet. Undervisningen ska även lämna utrymme för diskussion och reflektion över etiska frågor samt olika säkra handlingsalternativ inom akrobatik.</p> <h5><em>Undervisningen i ämnet akrobatik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra akrobatiska moment i cirkusakter.</li> <li>Förmåga att samarbeta tillitsfullt och förtroendeskapande i akrobatisk träning.</li> <li>Förmåga att improvisera och utforska olika uttryck inom akrobatik.</li> <li>Förmåga att kontrollera kroppen i statiska och dynamiska akrobatiska moment.</li> <li>Kunskaper om anatomi, träningslära och säkerhet.</li> <li>Förmåga att förebygga skador i akrobatiska moment.</li> </ul><h3>Nivåer i ämnet akrobatik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: AKRO1000X</h3>",
+      "code": "AKRO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet akrobatik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Akrobatiska moment i uppbyggnad av cirkusakter.</li> <li>Grundläggande träning av styrka och smidighet.</li> <li>Samarbete och kommunikation i träning och utförande, till exempel tillitsövningar.</li> <li>Introduktion till rörelseuttryck med den egna kroppen.</li> <li>Experiment och improvisation.</li> <li>Träning i grundläggande golvakrobatik.</li> <li>Introduktion till balansträning, däribland huvudstående och handstående.</li> <li>Grundläggande träning i flera dynamiska akrobatiska discipliner, till exempel golvakrobatik, trampolin eller parakrobatik.</li> <li>Användning av olika uttryck, till exempel komik i akrobatiska akter.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Begrepp inom akrobatik.</li> <li>Reflektion över träningsprocessen.</li> <li>Uppföljning av den egna utvecklingen utifrån olika bedömningsmetoder och återkoppling.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Grundläggande anatomi och träningslära.</li> <li>Skadeförebyggande övningar och uppvärmningsövningar.</li> <li>Säkerhetsfrågor, säkerhetsåtgärder och första hjälpen samt systematiskt arbete med att förhindra olyckor.</li> <li>Materialkunskap och materialomsorg.</li> <li>Etik inom akrobatik och passning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AKRO2000X</h3>",
+      "code": "AKRO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet akrobatik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Tillämpning av akrobatiska moment i uppbyggnad av cirkusakter.</li> <li>Träning av styrka och smidighet.</li> <li>Tillämpning av olika uttryck i akrobatiska akter.</li> <li>Samarbete och kommunikation i träning och utförande.</li> <li>Utforskande av nya rörelseuttryck med den egna kroppen.</li> <li>Fördjupat arbete med experiment och improvisation.</li> <li>Träning i golvakrobatik.</li> <li>Balansträning, däribland huvudstående och handstående.</li> <li>Träning i flera dynamiska akrobatiska discipliner, till exempel golvakrobatik, trampolin eller parakrobatik.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Tillämpning av begrepp inom akrobatik.</li> <li>Sambandet mellan träningsprocessen och den cirkustekniska utvecklingen.</li> <li>Identifiering av styrkor och utvecklingsområden utifrån reflektion och återkoppling.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Anatomi och träningslära.</li> <li>Tillämpning av skadeförebyggande övningar och uppvärmningsövningar.</li> <li>Fördjupat arbete med säkerhetsfrågor och säkerhetsåtgärder samt systematiskt arbete med att förhindra olyckor.</li> <li>Disciplinspecifik materialkunskap och materialomsorg.</li> <li>Tillämpning av etik inom akrobatik och passning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: AKRO3000X</h3>",
+      "code": "AKRO3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h5>Undervisningen i ämnet akrobatik på nivå 3 ska behandla följande centrala innehåll:</h5> <p><em>Teknik och träning</em></p> <ul> <li>Metoder för självständig tillämpning av akrobatiska moment i uppbyggnad av cirkusakter inom vald/valda cirkusdiscipliner.</li> <li>Ansvarstagande för träning i styrka och smidighet.</li> <li>Metoder för självständig tillämpning av olika uttryck i cirkusakter.</li> <li>Eget ansvar för samarbete och kommunikation i träning och utförande.</li> <li>Utforskande av nya disciplinspecifika uttryck med den egna kroppen.</li> <li>Tillämpning av experiment och improvisation i eget arbete.</li> <li>Träning av disciplinspecifika akrobatiska moment.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Tillämpning av disciplinspecifika begrepp.</li> <li>Sambandet mellan träningsprocessen och den cirkustekniska utvecklingen.</li> <li>Identifiering av styrkor och utvecklingsområden utifrån reflektion och återkoppling.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Tillämpning av anatomi och träningslära.</li> <li>Metoder för självständig tillämpning av skadeförebyggande övningar och disciplinspecifika uppvärmningsövningar.</li> <li>Eget ansvar för kommunikation av säkerhetsfrågor och säkerhetsåtgärder samt systematiskt arbete med att förhindra olyckor.</li> <li>Självständig tillämpning av disciplinspecifik materialkunskap och materialomsorg.</li> <li>Självständig tillämpning av och diskussion om etik inom akrobatik och passning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför <strong>enkla</strong> akrobatiska moment i cirkusakter.</p> <p>Eleven samarbetar med andra på ett säkert och <strong>i huvudsak fungerande</strong> sätt vid utförandet av akrobatiska övningar eller akter.</p> <p>Eleven improviserar och utforskar olika uttryck inom akrobatik med <strong>viss säkerhet</strong>.</p> <p>Eleven utför akrobatiska övningar på ett säkert sätt och med <strong>viss</strong> skicklighet och kontrollerar sin kropp på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven redogör <strong>översiktligt</strong> för anatomi och fysiologi i relation till säkerhet och använder med <strong>viss säkerhet</strong> relevanta begrepp.</p> <p>Eleven utför med <strong>viss säkerhet</strong> fysiska övningar för att utveckla styrka och smidighet samt för att förebygga skador och förhindra olyckor.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför <strong>genomarbetade</strong> akrobatiska moment i cirkusakter.</p> <p>Eleven samarbetar med andra på ett säkert och <strong>fungerande</strong> sätt vid utförandet av akrobatiska övningar eller akter.</p> <p>Eleven improviserar och utforskar olika uttryck inom akrobatik med <strong>säkerhet</strong>.</p> <p>Eleven utför akrobatiska övningar på ett säkert sätt och med <strong>god</strong> skicklighet och kontrollerar sin kropp på ett <strong>fungerande</strong> sätt.</p> <p>Eleven redogör <strong>utförligt</strong> för anatomi och fysiologi i relation till säkerhet och använder med <strong>säkerhet</strong> relevanta begrepp.</p> <p>Eleven utför med <strong>säkerhet</strong> fysiska övningar för att utveckla styrka och smidighet samt för att förebygga skador och förhindra olyckor.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför <strong>väl genomarbetade</strong> akrobatiska moment i cirkusakter.</p> <p>Eleven samarbetar med andra på ett säkert och <strong>väl fungerande</strong> sätt vid utförandet av akrobatiska övningar eller akter.</p> <p>Eleven improviserar och utforskar olika uttryck inom akrobatik med <strong>god säkerhet</strong>.</p> <p>Eleven utför akrobatiska övningar på ett säkert sätt och med <strong>mycket god</strong> skicklighet och kontrollerar sin kropp på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för anatomi och fysiologi i relation till säkerhet och använder med <strong>god säkerhet</strong> relevanta begrepp.</p> <p>Eleven utför med <strong>god säkerhet</strong> fysiska övningar för att utveckla styrka och smidighet samt för att förebygga skador och förhindra olyckor.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.956Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "ELDI",
+  "name": "Eldistributionsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:205",
+  "nameHeading": "<h2>Eldistributionsteknik</h2>",
+  "description": "<p>Samhället är beroende av en fungerande eldistribution för att upprätthålla funktionen i en stor mängd verksamheter. Ämnet eldistributionsteknik behandlar eldistributionsnät och tillhörande anläggningar samt felsökning och felavhjälpning i befintliga anläggningar. Dessutom behandlas säkerhetsfrågor eftersom misstag vid arbete i eldistributionsanläggningar kan orsaka stora skador både på person och egendom.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet eldistributionsteknik ska syfta till att eleverna utvecklar förmåga att arbeta praktiskt med eldistributionsnät på ett säkert, hållbart och ergonomiskt riktigt sätt. Undervisningen ska leda till att eleverna utvecklar kunskaper om byggnation, reparation och underhållsarbete av eldistributionsnät. Den ska även ge eleverna möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som reglerar arbetet med eldistribution.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kontrollera, driftsätta och besiktiga olika eldistributionsanläggningar. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att använda säkerhetsutrustning, skyddskläder och verktyg på ett säkert och ergonomiskt riktigt sätt. Dessutom ska eleverna ges möjlighet att utveckla förmåga att tolka och använda elscheman och andra relevanta dokument.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta praktiskt i samverkan med andra samt kommunicera på fackspråk i tal och skrift. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom eldistributionsteknik.</p> <h5><em>Undervisningen i ämnet eldistributionsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om eldistributionsnät.</li> <li>Kunskaper om standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät.</li> <li>Förmåga att tolka och använda elscheman och andra dokument inom området.</li> <li>Förmåga att använda säkerhetsutrustning och verktyg.</li> <li>Förmåga att utföra arbetsuppgifter inom byggnation, reparation och underhåll av eldistributionsnät.</li> <li>Förmåga att utföra kontroll av anläggningar.</li> </ul><h3>Nivåer i ämnet eldistributionsteknik</h3><ul><li>Nivå 1, 250 poäng. </li> <li>Nivå 2, 250 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELDI1000X</h3>",
+      "code": "ELDI1000X",
+      "nameHeading": "<h2>Nivå 1, 250 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "250",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eldistributionsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika eldistributionsnäts grundläggande komponenter, utrustningar och stationer.</li> <li>Standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät, däribland elsäkerhetslagen, arbetsmiljölagen och säkerhetsföreskrifter.</li> <li>Konstruktioner för luftledningsnät, jordkabelnät, belysningsnät och transformatorstationer.</li> <li>Arbetsmetoder för byggnationer av luftledningsnät, jordkabelnät, belysningsnät och transformatorstationer.</li> <li>Arbetsmetoder för olika typer av nybyggnationer och ombyggnationsarbeten på eldistributionsnät.</li> <li>Nybyggnation och ombyggnation av en anläggning.</li> <li>Arbetsmiljöverkets föreskrifter och allmänna råd om fallskyddssystem, arbete på väg och lyftverktyg.</li> <li>Riskbedömningar i det dagliga arbetet, däribland risker vid arbete på hög höjd och arbete på väg samt förebyggande säkerhetsåtgärder.</li> <li>Hur arbetets genomförande påverkar anläggningens säkerhet och livslängd.</li> <li>Säkra och ergonomiskt riktiga arbetsmetoder i enlighet med lagar och andra bestämmelser inom området.</li> <li>Vanligt förekommande symboler och instruktioner för en anläggning.</li> <li>Tolkning och användning av elscheman.</li> <li>Konstruktionsritningar för nybyggnationer och ombyggnationer.</li> <li>Konstruktionsritningar för en anläggning.</li> <li>Arbetsplanering för nybyggnationer och ombyggnationer.</li> <li>Arbetsmetoder i enlighet med elsäkerhetsanvisningar.</li> <li>Användning och vård av säkerhetsutrustning och verktyg i enlighet med lagar och andra bestämmelser inom området samt tillverkarens anvisningar. </li> <li>Kommunikation om arbetsuppgifter med berörda parter.</li> <li>Enklare arbete inom utbyggnad av eldistributionsnät.</li> <li>Enklare felsökning och reparation av eldistributionsnät samt underhåll utifrån anläggningsdokumentation.</li> <li>Kontroll av enklare anläggningar utifrån instruktioner och anvisningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ELDI2000X</h3>",
+      "code": "ELDI2000X",
+      "nameHeading": "<h2>Nivå 2, 250 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "250",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eldistributionsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Eldistributionsnätets komponenter, utrustningar och stationer.</li> <li>Standarder, lagar och andra bestämmelser som gäller arbete med byggnation, reparation och underhåll av eldistributionsnät, däribland elsäkerhetslagen, arbetsmiljölagen och säkerhetsföreskrifter.</li> <li>Muntlig och skriftlig riskhantering.</li> <li>Planering och hantering av avvikelser för att förebygga olyckor.</li> <li>Underhållsplanering samt underhållsarbetets roll i syfte att stärka anläggningen ur säkerhetssynpunkt och för att förlänga anläggningens livslängd.</li> <li>Tolkning och användning av elscheman, konstruktionsritningar och andra relevanta dokument vid byggnationer, reparationer och underhåll av en anläggning.</li> <li>Kommunikation om och planering av arbetsuppgifter med berörda parter.</li> <li>Användning och vård av säkerhetsutrustning och verktyg i enlighet med lagar och andra bestämmelser inom området samt tillverkarens anvisningar. </li> <li>Enklare arbete inom utbyggnad av eldistributionsnät.</li> <li>Kontroll och felsökning av eldistributionsanläggningar utifrån instruktioner och anvisningar.</li> <li>Felsöknings- och underhållsmetoder i belysningsnät, luftledningsnät, jordkabelnät och transformatorstationer.</li> <li>Reparation och underhåll av belysningsnät, luftledningsnät, jordkabelnät och transformatorstationer.</li> <li>Underhållsdokumentation för kontroll av en anläggning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ELDI3000X</h3>",
+      "code": "ELDI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet eldistributionsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Eldistributionsnätets komponenter, utrustningar och stationer.</li> <li>Standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät, däribland elsäkerhetslagen, arbetsmiljölagen och säkerhetsföreskrifter. </li> <li>Muntlig och skriftlig riskhantering samt dialog med berörda parter, till exempel arbetsledare, kunder och skyddsombud.</li> <li>Planering och hantering av avvikelser vid kontroll före idrifttagning.</li> <li>Planering och hantering av avvikelser vid besiktning och slutbesiktning.</li> <li>Besiktning av en anläggning utifrån elscheman och andra relevanta dokument inom området.</li> <li>Konstruktionsritningar för kontrollbesiktningar av nybyggnationer och ombyggnationer.</li> <li>Besiktning av olika typer av eldistributionsanläggningar med tillhörande dokumentation.</li> <li>Arbetsplanering för kontroll före idrifttagningar och slutbesiktningar.</li> <li>Kommunikation om samt planering och uppföljning av arbetsuppgifter med berörda parter.</li> <li>Val av verktyg och utrustning.</li> <li>Hantering av förekommande avvikelser i verktyg och utrustning.</li> <li>Arbete med eldistributionsnät, däribland byggnation, reparation, felsökning och underhållsarbete.</li> <li>Okulärbesiktning av säkerhetsutrustning i besiktningsarbetet.</li> <li>Kontroll före idrifttagning.</li> <li>Besiktning och underhållsarbete i syfte att stärka en anläggning ur säkerhetssynpunkt och för att förlänga anläggningens livslängd.</li> <li>Slutbesiktning av eldistributionsanläggningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om eldistributionsnät.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät.</p> <p>Eleven använder elscheman och andra relevanta dokument inom området med <strong>viss säkerhet</strong>.</p> <p>Eleven använder säkerhetsutrustning och verktyg med <strong>visst</strong> handlag och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför med <strong>viss säkerhet</strong> arbetsuppgifter inom byggnation, reparation och underhållsarbete av eldistributionsnät.</p> <p>Eleven utför med <strong>viss säkerhet</strong> kontroll av anläggningar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om eldistributionsnät.</p> <p>Eleven visar <strong>goda</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät.</p> <p>Eleven använder elscheman och andra relevanta dokument inom området med <strong>säkerhet</strong>.</p> <p>Eleven använder säkerhetsutrustning och verktyg med <strong>gott</strong> handlag och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför med <strong>säkerhet</strong> arbetsuppgifter inom byggnation, reparation och underhållsarbete av eldistributionsnät.</p> <p>Eleven utför med <strong>säkerhet</strong> kontroll av anläggningar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om eldistributionsnät.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om standarder, lagar och andra bestämmelser som gäller arbete i eldistributionsnät.</p> <p>Eleven använder elscheman och andra relevanta dokument inom området med <strong>god säkerhet</strong>.</p> <p>Eleven använder säkerhetsutrustning och verktyg med <strong>mycket gott</strong> handlag och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven utför med <strong>god säkerhet</strong> arbetsuppgifter inom byggnation, reparation och underhållsarbete av eldistributionsnät.</p> <p>Eleven utför med <strong>god säkerhet</strong> kontroll av anläggningar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.986Z"
+}

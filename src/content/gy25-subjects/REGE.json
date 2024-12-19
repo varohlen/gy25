@@ -1,0 +1,63 @@
+{
+  "code": "REGE",
+  "name": "Reglersystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:564",
+  "nameHeading": "<h2>Reglersystem</h2>",
+  "description": "<p>Ämnet reglersystem behandlar metoder och komponenter för automatisk styrning av processer för ökad effektivitet och kvalitet på slutprodukten samt industriell mätteknik, reglerteknik och aktuatorer. Ämnet handlar även om den industriella processen och säkerhetsfunktioner inom industrin. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet reglersystem ska syfta till att eleverna utvecklar kunskaper om olika mätprinciper och mätutrustning inom processindustrin. Eleverna ska ges möjlighet att utveckla kunskaper om hur mätsignaler används för såväl reglering som information och säkerhetsfunktioner. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om aktuatorer och andra komponenter för att direkt kunna styra processer.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att analysera resultatet av regulatorers arbete och kunskaper om hur regleringen kan optimeras genom justering av regulatorns parametrar och samverkan mellan flera kretsar. På så vis ska eleverna ges möjlighet att omsätta sina kunskaper i praktisk handling.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda scheman och manualer för reglerteknisk utrustning för uppkoppling, testning och justering. Eleverna ska också ges möjlighet att använda komponenter i normal drift. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera det egna arbetet.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta laborativt och analytiskt med reglerkretsar, utrustning och processer för att avhjälpa fel och säkerställa driften.</p> <h5><em>Undervisningen i ämnet reglersystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om metoder, utrustning och komponenter i mät- och reglersystem.</li> <li>Kunskaper om regulatorer och deras inställningar samt om hur delar samverkar i ett reglersystem.</li> <li>Förmåga att tolka och använda dokument för reglerteknisk utrustning.</li> <li>Förmåga att underhålla, felsöka och justera komponenter som ingår i reglerkretsar och närliggande funktioner.</li> </ul><h3>Nivåer i ämnet reglersystem</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: REGE100TX</h3>",
+      "code": "REGE100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet reglersystem på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Mät- och styrteknik</em></p> <ul> <li>Givare och omvandlare för mätning av vanliga storheter, däribland temperatur, tryck, nivå och flöde.</li> <li>Enklare komponenter, däribland för direkt styrning av storheter.</li> <li>Hur säkerhet byggs i reglersystem.</li> <li>Signalens väg genom produktionsanläggningen, däribland standardsignaler och omvandlare.</li> <li>Vikten av att välja rätt mätmetod. Skillnaden mellan direkt och indirekt mätmetod.</li> <li>Placering av givare och underhåll av utrustning.</li> <li>Användning av analysutrustning för miljömätningar i processen. Krav vid miljömätningar.</li> <li>Funktion och egenskaper för olika aktuatorer, till exempel reglerventil och varvtalsstyrning.</li> </ul> <p><em>Regulatorns funktion</em></p> <ul> <li>Regulatorns signaler, funktion och användning vid drift.</li> <li>Analys av regleringens kvalitet, till exempel genom stegsvar.</li> <li>Regulatorns parametrar och deras funktion för regleringens kvalitet.</li> <li>Optimeringsmetoder kopplat till processens krav på regleringen.</li> <li>Regulatorkopplingar där flera kretsar samverkar, till exempel störvärde, framkoppling och kaskadkoppling.</li> <li>Funktionskontroll, kalibrering och justering av mätutrustning och aktuator utifrån scheman, manualer och instruktioner.</li> </ul> <p><em>Optimering och felsökning</em></p> <ul> <li>Optimering av PID-regulator via simulering, i laborationsmiljö eller i en verklig process.</li> <li>Hur analys och felsökning kan genomföras på mätsignaler, regulatorinställningar och ventilfunktioner. Hur dessa signaler, inställningar och funktioner samverkar med reglerprocessen.</li> <li>Hämtning, analys och tolkning av driftdata från loggsystem.</li> <li>Kopplingar mellan reglersystemets dokumentation och bilder i jämförelse med den verkliga processen.</li> <li>Dokumentation av system och arbete, däribland för spårbarhet och underhållsrutiner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>övergripande</strong> för metoder och utrustning för kontinuerlig mätning inom processindustrin samt för komponenter för styrning.</p> <p>Eleven visar <strong>övergripande</strong> kunskaper om inställningar och optimering av mät- och reglerparametrar samt om hur olika delar samverkar i ett reglersystem.</p> <p>Eleven tolkar och använder med <strong>säkerhet</strong> scheman och manualer för reglerteknisk utrustning.</p> <p>Eleven underhåller, felsöker och justerar med <strong>säkerhet</strong> komponenter i mät- och reglersystem.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för metoder och utrustning för kontinuerlig mätning inom processindustrin samt för komponenter för styrning.</p> <p>Eleven visar <strong>utvecklade</strong> kunskaper om inställningar och optimering av mät- och reglerparametrar samt om hur olika delar samverkar i ett reglersystem.</p> <p>Eleven tolkar och använder med <strong>god säkerhet</strong> scheman och manualer för reglerteknisk utrustning.</p> <p>Eleven underhåller, felsöker och justerar med <strong>god säkerhet</strong> komponenter i mät- och reglersystem.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för metoder och utrustning för kontinuerlig mätning inom processindustrin samt för komponenter för styrning.</p> <p>Eleven visar <strong>välutvecklade och nyanserade</strong> kunskaper om inställningar och optimering av mät- och reglerparametrar samt om hur olika delar samverkar i ett reglersystem.</p> <p>Eleven tolkar och använder med <strong>mycket god säkerhet</strong> scheman och manualer för reglerteknisk utrustning.</p> <p>Eleven underhåller, felsöker och justerar med <strong>mycket god säkerhet</strong> komponenter i mät- och reglersystem.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.069Z"
+}

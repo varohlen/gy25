@@ -1,0 +1,78 @@
+{
+  "code": "MEDP",
+  "name": "Medieproduktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:55",
+  "nameHeading": "<h2>Medieproduktion</h2>",
+  "description": "<p>Ämnet medieproduktion behandlar de processer och tekniker som ligger till grund för medieproduktioner inom olika områden, avsedda för olika kanaler. Hur produktionerna gestaltas och utformas är tillsammans med etiska frågor centrala inslag i ämnet. Ämnet behandlar även medieproduktioners sammanhang och funktion såväl lokalt som globalt.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet medieproduktion ska syfta till att eleverna utvecklar kunskaper om produktionsprocessens olika steg där frågor om produktionernas målgrupper och sammanhang ingår. Medieproduktioner skapas som regel genom samarbete och därför ska eleverna ges möjlighet att utveckla förmåga att planera och genomföra produktioner tillsammans med andra. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om sambanden mellan innehåll, form och funktion.</p> <p>I undervisningen ska medieproduktioners olika syften, till exempel att överföra värderingar, sprida åsikter, informera och förklara skeenden eller göra reklam för en viss produkt, diskuteras och problematiseras. Eleverna ska ges möjlighet att utveckla kunskaper om och färdigheter i text-, bild- och ljudarbete för att kunna omsätta egna och andras idéer till färdiga produktioner. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser och arbetsmiljö inom medieproduktion. I undervisningen ska eleverna ges möjlighet att framställa olika medieproduktioner, pröva olika roller och hålla uppsatta tidsramar. Eleverna ska även ges möjlighet att pröva retoriska och kreativa berättargrepp vid framställning av manus eller andra underlag för medieproduktioner. I undervisningen ska eleverna även ges möjlighet att pröva alternativa tillvägagångssätt för att utveckla sin kreativitet.</p> <p>I undervisningen ska eleverna ges möjlighet att analysera och utvärdera andras och egna medieproduktioner. Undervisningen ska dessutom lämna utrymme för diskussion och reflektion över etiska frågor och olika handlingsalternativ inom medieproduktion.</p> <h5><em>Undervisningen i ämnet medieproduktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och genomföra olika typer av medieproduktioner från idé till färdig produktion.</li> <li>Förmåga att använda text, bild och ljud i olika former för att kommunicera budskap.</li> <li>Kunskaper om olika roller och arbetsprocessen i medieproduktioner.</li> <li>Förmåga att samarbeta och arbeta inom givna ramar.</li> <li>Förmåga att analysera och utvärdera medieproduktioner.</li> </ul><h3>Nivåer i ämnet medieproduktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MEDP1000X</h3>",
+      "code": "MEDP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medieproduktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Skapande</em></p> <ul> <li>Förarbete inför olika typer av medieproduktioner.</li> <li>Framställning av enkla förlagor i form av synopsis, skisser eller manus.</li> <li>Grundläggande berättargrepp och modeller som behandlar produktionsprocessen, från idé till publicering i avsedd kanal.</li> <li>Textskrivning, fotografering, filmning, ljudupptagning och redigering.</li> <li>Hur text, bild och ljud kan användas enskilt och tillsammans i olika former för att kommunicera ett budskap.</li> </ul> <p><em>Samarbete och ramar</em></p> <ul> <li>Introduktion till olika roller vid medieproduktioner, till exempel skribent, fotograf, ljudtekniker och redigerare.</li> <li>Hur olika roller samverkar i en medieproduktion.</li> <li>Lagar och andra bestämmelser relevanta för medieproduktion.</li> <li>Samarbete och tidsramar samt deras betydelse vid medieproduktioner.</li> </ul> <p><em>Analys</em></p> <ul> <li>Modeller för analys av olika målgrupper.</li> <li>Analys och utvärdering av egna, andra elevers och professionella medieproduktioner utifrån innehåll, form och funktion.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MEDP2000X</h3>",
+      "code": "MEDP2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medieproduktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Skapande</em></p> <ul> <li>Förarbete inför och planering av olika typer av medieproduktioner utifrån givna ramar och sammanhang.</li> <li>Framställning av förlagor i form av utvecklade synopsis, skisser eller manus grundade i relevanta modeller.</li> <li>Teorier, begrepp och modeller som behandlar produktionsprocessen.</li> <li>Textskrivning, fotografering, filmning, ljudupptagning och redigering.</li> <li>Hur text, bild och ljud kan användas för att bygga upp och förstärka ett budskap.</li> <li>Retoriska berättargrepp och strategier vid olika medieproduktioner.</li> </ul> <p><em>Samarbete och ramar</em></p> <ul> <li>Arbete i flera olika roller vid medieproduktioner, till exempel skribent, fotograf, ljudtekniker och redigerare.</li> <li>Hur olika roller samverkar i en medieproduktion.</li> <li>Lagar och andra bestämmelser relevanta för medieproduktion.</li> <li>Samarbetsformer, planering och informationsdelning och deras betydelse vid medieproduktioner.</li> </ul> <p><em>Analys</em></p> <ul> <li>Analys av olika målgrupper med fokus på beteenden och förväntningar samt hur produkter utformas för att möta olika målgrupper.</li> <li>Kommunikationsvetenskapliga modeller och teorier för analys av medieproduktioners innehåll, form och funktion, såväl elevproducerade som professionella.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och genomför <strong>enkla</strong> medieproduktioner med <strong>viss säkerhet</strong>.</p> <p>Eleven använder olika berättarkomponenter för att kommunicera budskap med <strong>visst</strong> handlag.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika roller och arbetsprocesser i medieproduktioner.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven gör <strong>enkla</strong> analyser och utvärderingar av medieproduktioner.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och genomför <strong>genomarbetade</strong> medieproduktioner med <strong>säkerhet</strong>.</p> <p>Eleven använder olika berättarkomponenter för att kommunicera budskap med <strong>gott</strong> handlag.</p> <p>Eleven beskriver <strong>utförligt</strong> olika roller och arbetsprocesser i medieproduktioner.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och utvärderingar av medieproduktioner.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och genomför <strong>väl genomarbetade</strong> medieproduktioner med <strong>god säkerhet</strong>.</p> <p>Eleven använder olika berättarkomponenter för att kommunicera budskap med <strong>mycket gott</strong> handlag.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika roller och arbetsprocesser i medieproduktioner.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser och utvärderingar av medieproduktioner.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.043Z"
+}

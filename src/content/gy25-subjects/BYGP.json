@@ -1,0 +1,63 @@
+{
+  "code": "BYGP",
+  "name": "Byggprocessen",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:532",
+  "nameHeading": "<h2>Byggprocessen</h2>",
+  "description": "<p>Ämnet byggprocessen behandlar byggprocessens olika skeden från projektering till förvaltning av byggnader, installationer och infrastruktur. Processens olika skeden utgör en gemensam bas för olika yrkesroller inom samhällsbyggnadsområdet där olika aktörer är beroende av varandra. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet byggprocessen ska syfta till att eleverna utvecklar kunskaper om byggprocessen inom samhällsbyggnation. Undervisningen ska leda till att eleverna utvecklar kunskaper om vilka aktörer som är involverade i de olika skedena, hur byggprocessen organiseras och vilka lagar och andra bestämmelser som är tillämpliga. Dessutom ska eleverna ges möjlighet att utveckla förståelse av hur olika yrkesroller inom samhällsbyggande samspelar och bidrar till en större helhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om byggprojektledning och produktion, främst inom produktionsplanering och kvalitets- och miljöarbete. Vidare ska eleverna ges möjlighet att utveckla kunskaper om systematiskt arbetsmiljöarbete samt om vanliga avtalsformer för projektering och produktion. Undervisningen ska även bidra till att eleverna utvecklar förmåga att använda underlag för projektering och utförande inom byggområdet.</p> <p>Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till valt område inom byggprocessen. Undervisningen ska också lämna utrymme för diskussion om och reflektion över etiska frågor, den egna rollen och vad som är ett klokt handlande inom byggprocessen.</p> <h5><em>Undervisningen i ämnet byggprocessen ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om byggprocessen och byggprojekt.</li> <li>Förmåga att framställa och använda underlag i projekterings- och utförandeskedet.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Kunskaper om kvalitets-, miljö- och arbetsmiljöledningssystem.</li> </ul><h3>Nivåer i ämnet byggprocessen</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BYGP100TX</h3>",
+      "code": "BYGP100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet byggprocessen på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Byggprocessens olika skeden, däribland markförvärv, projektering, upphandling, produktion, överlämning, förvaltning, drift, underhåll och rivning.</li> <li>Byggprojektets genomförandeformer samt organisationen för byggprocessens olika delar.</li> <li>Byggprocessens olika aktörer.</li> <li>Förfrågningsunderlag, däribland ritningsunderlag, tekniska beskrivningar och administrativa föreskrifter.</li> <li>Anbudsprocessen, däribland beräkningar, kalkyl, offertförfrågan, förhandling, beställning och entreprenadavtal.</li> <li>Lagar och andra bestämmelser i byggprocessen, däribland plan- och bygglagen (PBL), Boverkets byggregler (BBR), Arbetsmiljöverkets författningssamling, Miljöbalken samt bestämmelser som gäller byggarbetsmiljösamordnare för planering och projektering (Bas P) och byggarbetsmiljösamordnare för utförande (Bas U).</li> <li>Upphandling av entreprenader och material i enlighet med lagar och andra bestämmelser, däribland allmänna bestämmelser (AB) och administrativa föreskrifter (AF).</li> <li>Entreprenad- och ersättningsformer.</li> <li>Kvalitets-, miljö- och arbetsmiljöledningssystem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>övergripande</strong> för byggprocessens olika skeden samt för byggprojektets genomförandeformer.</p> <p>Eleven framställer <strong>enkla</strong> underlag i byggprojekt och använder dessa med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven resonerar <strong>övergripande</strong> om hur kvalitet, miljöhänsyn och arbetsmiljö påverkar byggprocessen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för byggprocessens olika skeden samt för byggprojektets genomförandeformer.</p> <p>Eleven framställer <strong>genomarbetade</strong> underlag i byggprojekt och använder dessa med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven resonerar <strong>utförligt</strong> om hur kvalitet, miljöhänsyn och arbetsmiljö påverkar byggprocessen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för byggprocessens olika skeden samt för byggprojektets genomförandeformer.</p> <p>Eleven framställer <strong>väl genomarbetade</strong> underlag i byggprojekt och använder dessa med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om hur kvalitet, miljöhänsyn och arbetsmiljö påverkar byggprocessen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.979Z"
+}

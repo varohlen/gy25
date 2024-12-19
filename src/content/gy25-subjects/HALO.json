@@ -1,0 +1,64 @@
+{
+  "code": "HALO",
+  "name": "Hälsa och välbefinnande",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:305",
+  "nameHeading": "<h2>Hälsa och välbefinnande</h2>",
+  "description": "<p>Ämnet hälsa och välbefinnande är tvärvetenskapligt och har sin grund i hälsovetenskap, beteendevetenskap och psykologi. I ämnet behandlas olika levnadsvanor och faktorer som påverkar människors hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv. Ämnet utgår från en helhetssyn på människan som biologisk, psykologisk och social varelse.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hälsa och välbefinnande ska syfta till att eleverna utvecklar kunskaper om sambanden mellan den psykiska, fysiska och sociala hälsan samt om levnadsvanor och faktorer som påverkar människors hälsa och välbefinnande.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förståelse av de egna levnadsvanornas betydelse för hälsa och välbefinnande. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande. Eleverna ska även ges möjlighet att genomföra, använda och utvärdera dessa.</p> <p>Genom undervisningen ska eleverna ges möjlighet att kommunicera om och reflektera över hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv. Undervisningen ska även behandla betydelsen av ett salutogent förhållningssätt.</p> <p>Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om hälsa och välbefinnande ur ett historiskt perspektiv. Undervisningen ska därigenom bidra till att eleverna utvecklar kunskaper om och förståelse av hur människors hälsa och välbefinnande påverkas av samhällets utveckling.</p> <p>I undervisningen ska eleverna ges möjlighet att genomföra praktiska aktiviteter, individuellt och tillsammans med andra. Dessutom ska eleverna ges möjlighet att samtala om och reflektera över sina erfarenheter i relation till levnadsvanor, hälsa och välbefinnande. På så sätt ska eleverna ges möjlighet att fördjupa sin förståelse av aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</p> <h5><em>Undervisningen i ämnet hälsa och välbefinnande ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om levnadsvanor och faktorer som påverkar hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv.</li> <li>Kunskaper om olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</li> <li>Förmåga att genomföra olika aktiviteter och att använda metoder som främjar hälsa och välbefinnande.</li> <li>Förmåga att utvärdera aktiviteter och användning av strategier och metoder som främjar hälsa och välbefinnande.</li> </ul><h3>Nivåer i ämnet hälsa och välbefinnande</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALO1000X</h3>",
+      "code": "HALO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hälsa och välbefinnande på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Psykiska, fysiska och sociala faktorers betydelse för människors välbefinnande och hälsa utifrån ett individ-, grupp- och samhällsperspektiv.</li> <li>Frisk- och riskfaktorer i relation till levnadsvanor, däribland sömn, fysisk aktivitet, sociala relationer och återhämtning.</li> <li>Centrala begrepp inom området.</li> <li>Betydelsen av ett salutogent förhållningssätt.</li> <li>Betydelsen av självkänsla, självförtroende och självbild för hälsa och välbefinnande.</li> <li>Motivation och motivationsteorier.</li> <li>Skärmanvändning och sociala mediers påverkan på hälsa och välbefinnande samt hälsofrämjande digitala vanor.</li> <li>Översiktligt om hur samhällsförändringar och människors levnadsvanor har påverkat och påverkar individers hälsa och välbefinnande, historiskt och i nutid.</li> <li>Mentala koncentrations-, avslappnings- och träningsmetoder.</li> <li>Stress och dess påverkan på hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv samt strategier för stresshantering.</li> <li>Olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</li> <li>Utomhusaktiviteter med utgångspunkt i naturen som källa till hälsa och välbefinnande.</li> <li>Genomförande av olika aktiviteter med användning av metoder som främjar ett ökat välbefinnande, både självständigt och tillsammans med andra.</li> <li>Utvärdering av aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om faktorer som påverkar hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv. Dessutom för eleven <strong>enkla</strong> resonemang om levnadsvanornas betydelse.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</p> <p>Eleven genomför aktiviteter och använder metoder som främjar hälsa och välbefinnande med <strong>viss säkerhet</strong>.</p> <p>Eleven utvärderar aktiviteter och användning av strategier och metoder som främjar hälsa och välbefinnande med ett <strong>godtagbart</strong> resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om faktorer som påverkar hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv. Dessutom för eleven <strong>utvecklade</strong> resonemang om levnadsvanornas betydelse.</p> <p>Eleven beskriver <strong>utförligt</strong> olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</p> <p>Eleven genomför aktiviteter och använder metoder som främjar hälsa och välbefinnande med <strong>säkerhet</strong>.</p> <p>Eleven utvärderar aktiviteter och användning av strategier och metoder som främjar hälsa och välbefinnande med ett <strong>gott</strong> resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om faktorer som påverkar hälsa och välbefinnande utifrån ett individ-, grupp- och samhällsperspektiv. Dessutom för eleven <strong>välutvecklade</strong> resonemang om levnadsvanornas betydelse.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika aktiviteter, strategier och metoder som främjar hälsa och välbefinnande.</p> <p>Eleven genomför aktiviteter och använder metoder som främjar hälsa och välbefinnande med <strong>god säkerhet</strong>.</p> <p>Eleven utvärderar aktiviteter och användning av strategier och metoder som främjar hälsa och välbefinnande med ett <strong>mycket gott</strong> resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.013Z"
+}

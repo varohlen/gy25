@@ -1,0 +1,67 @@
+{
+  "code": "NAV",
+  "name": "Naturvetenskaplig specialisering",
+  "englishName": "Natural science specialisation",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:109",
+  "skolfsAndring": "2022:237",
+  "nameHeading": "<h2>Naturvetenskaplig specialisering</h2>",
+  "description": "<p>Ämnet naturvetenskaplig specialisering möjliggör en inomvetenskaplig eller tvärvetenskaplig fördjupning inom ett valt naturvetenskapligt kunskapsområde.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet naturvetenskaplig specialisering ska syfta till att eleverna fördjupar sina naturvetenskapliga kunskaper inom ett valt kunskapsområde. Eleverna ska ges möjlighet att fördjupa ett vetenskapligt förhållningssätt. Undervisningen ska också leda till att eleverna utvecklar förmåga att använda relevanta begrepp, teorier, modeller och metoder i syfte att behandla frågeställningar inom det valda kunskapsområdet. Dessutom ska undervisningen bidra till att eleverna utvecklar nyfikenhet för naturvetenskap, förståelse av naturvetenskapens betydelse i samhället och ett naturvetenskapligt perspektiv på vår omvärld. I undervisningen ska aktuell forskning och elevernas egna upplevelser tas till vara.</p><p>Naturvetenskap utvecklas ständigt i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras. Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden. Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk. Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund samt att resonera kring och förhålla sig kritiska till valda strategier och resultat.</p><p>Att samla in, sovra, strukturera och värdera information samt att dra slutsatser utifrån informationen är centralt för en fördjupad vetenskaplighet. Undervisningen ska därför innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment samt bearbeta, tolka och kritiskt granska resultat och information. Genom undervisningen ska eleverna ges möjlighet att uttrycka kunskaper och föra resonemang såväl muntligt som skriftligt och med hjälp av modern informationsteknik.</p><h4>Undervisningen i ämnet naturvetenskaplig specialisering ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om relevanta begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.</li> <li>Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.</li> <li>Förmåga att planera, genomföra, tolka och redovisa undersökande arbete samt förmåga att hantera material och utrustning.</li> <li>Kunskaper om naturvetenskapens betydelse för individ och samhälle.</li> <li>Förmåga att använda kunskaper i naturvetenskap för att kommunicera samt för att granska och använda information.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Naturvetenskaplig specialisering, 100 poäng, som beroende på valt kunskapsområde bygger på kursen biologi 2, kursen fysik 2 eller kursen kemi 2. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: NAVNAT00S</h3>",
+      "code": "NAVNAT00S",
+      "nameHeading": "<h2>Naturvetenskaplig specialisering, 100 poäng</h2>",
+      "name": "Naturvetenskaplig specialisering",
+      "englishName": "Natural science specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen naturvetenskaplig specialisering omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Fördjupning inom valt kunskapsområde. Exempel på kunskapsområden kan vara astronomi, ekotoxikologi, etologi, fysiologi, geofysik, genetik, kvartärgeologi, kvantkemi, limnologi, miljökemi, näringslära och strålningsfysik.</li> <li>Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.</li> <li>Experiment, fältstudier eller observationer. </li> <li>Tillämpningar inom kunskapsområdet, till exempel i samarbete med institutioner och organisationer i det omgivande samhället.</li> <li>Källkritisk granskning, tolkning och värdering av information från olika medier och källor.</li> <li>Naturvetenskapliga uttrycks- och presentationsformer, till exempel planschutställningar, rapporter, reportage och seminarier.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven använder <strong>med viss säkerhet </strong>begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>exemplifiera </strong>företeelser inom valt kunskapsområde. Utifrån <strong>något </strong>exempel redogör eleven <strong>översiktligt </strong>för hur kunskapsområdets modeller och teorier utvecklas.</p><p>Eleven analyserar och söker svar på frågor med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet. Eleven planerar och genomför <strong>i samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt. Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla </strong>omdömen och motiverar sina slutsatser med <strong>enkla </strong>resonemang.</p><p>Eleven diskuterar <strong>översiktligt </strong>frågor som rör det valda kunskapsområdets betydelse för individ och samhälle. I diskussionerna för eleven fram <strong>enkla </strong>argument och redogör <strong>översiktligt </strong>för konsekvenser av <strong>något </strong>tänkbart ställningstagande.</p><p>Eleven använder <strong>med viss säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till<strong> viss </strong>del sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <strong>enkla </strong>bedömningar av informationens och källornas trovärdighet och relevans.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven använder <strong>med viss säkerhet </strong>begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor och för att beskriva och <strong>exemplifiera </strong>företeelser inom valt kunskapsområde. Utifrån <strong>några </strong>exempel redogör eleven <strong>utförligt </strong>för hur kunskapsområdets modeller och teorier utvecklas.</p><p>Eleven analyserar och söker svar på <strong>komplexa </strong>frågor med <strong>tillfredsställande </strong>resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet. <strong>I arbetet formulerar eleven med viss säkerhet egna frågor som för processen framåt</strong>. Eleven planerar och genomför <strong>efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt. Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>enkla </strong>omdömen och motiverar sina slutsatser med <strong>välgrundade </strong>resonemang.</p><p>Eleven diskuterar <strong>utförligt </strong>frågor som rör det valda kunskapsområdets betydelse för individ och samhälle. I diskussionerna för eleven fram <strong>välgrundade </strong>argument och redogör <strong>utförligt </strong>för konsekvenser av <strong>något </strong>tänkbart ställningstagande.</p><p>Eleven använder <strong>med viss säkerhet </strong>naturvetenskapliga uttrycks- och presentationsformer och anpassar till<strong> stor </strong>del sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <strong>välgrundade </strong>bedömningar av informationens och källornas trovärdighet och relevans.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven använder <strong>med säkerhet </strong>begrepp, modeller, teorier och arbetsmetoder för att söka svar på frågor samt för att beskriva och <strong>generalisera kring </strong>företeelser inom valt kunskapsområde. Utifrån <strong>några </strong>exempel redogör eleven <strong>utförligt och nyanserat </strong>för hur kunskapsområdets modeller och teorier utvecklas.</p><p>Eleven analyserar och söker svar på <strong>komplexa </strong>frågor med <strong>gott</strong> resultat. Detta gäller såväl i det teoretiska som i det praktiska arbetet.<strong> I arbetet formulerar eleven med säkerhet egna frågor som för processen framåt och fördjupar resonemangen</strong>. Eleven planerar och genomför<strong> efter samråd </strong>med handledare det undersökande arbetet på ett tillfredsställande sätt. Dessutom hanterar eleven material och utrustning på ett säkert sätt. Vidare tolkar eleven sina resultat, utvärderar sina metoder med <strong>nyanserade </strong>omdömen och motiverar sina slutsatser med <strong>välgrundade och nyanserade</strong> resonemang. <strong>Vid behov föreslår eleven också förändringar</strong>.</p><p>Eleven diskuterar <strong>utförligt och nyanserat komplexa </strong>frågor som rör det valda kunskapsområdets betydelse för individ och samhälle. I diskussionerna för eleven fram <strong>välgrundade och nyanserade </strong>argument och redogör <strong>utförligt och nyanserat</strong> för konsekvenser av <strong>flera </strong>tänkbara ställningstaganden. <strong>Eleven föreslår också nya frågeställningar att diskutera</strong>.</p><p>Eleven använder <strong>med säkerhet</strong> naturvetenskapliga uttrycks- och presentationsformer och anpassar till<strong> stor </strong>del sin kommunikation till syfte och sammanhang. Dessutom använder eleven olika typer av källor och gör <strong>välgrundade och nyanserade </strong>bedömningar av informationens och källornas trovärdighet och relevans.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.108Z"
+}

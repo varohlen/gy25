@@ -1,0 +1,67 @@
+{
+  "code": "ELF",
+  "name": "Elkraft och traktion – spårfordon",
+  "englishName": "Electrical power and traction – rail vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-12-22",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:39",
+  "skolfsAndring": "2022:90",
+  "nameHeading": "<h2>Elkraft och traktion – spårfordon</h2>",
+  "description": "<p>Ämnet elkraft och traktion – spårfordon behandlar olika typer av elmotorer och deras egenskaper samt olika kraft- och drivsystem i spårfordon. Ämnet behandlar också principer för styrning och utrustning för kraftförsörjning av spårfordons hjälpkraftsystem och traktion.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elkraft och traktion – spårfordon ska syfta till att eleverna utvecklar kunskaper om funktionen hos systemen för elkraftsförsörjning och elmotordrivsystem.</p><p>Undervisningen ska leda till att eleverna utvecklar förståelse av och kunskap om principerna för funktion och uppbyggnad hos huvudtransformatorer i rullande material samt kunskap om hjälpkraftförsörjning och varvtalsstyrning av traktionsmotorer. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga i att hantera verktyg och utrustning för att enligt standarder kunna genomföra förebyggande och avhjälpande arbeten på de ingående systemen. Undervisningen ska dessutom ge eleverna möjlighet att utveckla förståelse för vikten av kommunikation och samarbete som krävs inom yrkesområdet.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla färdighet i att arbeta i grupp, kommunicera med etablerat fackspråk samt arbeta i enlighet med säkerhetsbestämmelser för utrustning och arbetsmiljö.</p><h4>Undervisningen i ämnet elkraft och traktion – spårfordon ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om uppbyggnad, funktion och styrning av högspänningssystem för elkraft och elmotordrivsystem i spårfordon.</li> <li>Kunskaper om principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem i spårfordon.</li> <li>Förmåga att läsa system-, komponent- och verktygsdokumentation samt att dokumentera utfört arbete.</li> <li>Förmåga att enligt instruktioner och nycklingssystem planera och genomföra förebyggande och enklare avhjälpande underhåll i högspänningssystem för elkraft och elmotordrivsystem i spårfordon.</li> <li>Förmåga att installera och driftsätta trefasmotorer.</li> <li>Kunskaper om utrustning och manualer avsedda för funktionstester, samt förmåga att använda och vårda verktyg och utrustning korrekt samt förståelse av betydelsen av god ordning på arbetsplatsen.</li> <li>Kunskap om och förmåga att arbeta ergonomiskt, tillämpa säkerhetsföreskrifter samt göra riskbedömning för att genomföra arbete tryggt för sig själv och andra.</li> <li>Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Elkraft och traktion – spårfordon, 150 poäng, som bygger på kursen spårfordonselektronik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ELFELK0</h3>",
+      "code": "ELFELK0",
+      "nameHeading": "<h2>Elkraft och traktion – spårfordon, 150 poäng</h2>",
+      "name": "Elkraft och traktion – spårfordon",
+      "englishName": "Electrical power and traction – rail vehicles",
+      "points": "150",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen elkraft och traktion – spårfordon omfattar punkterna 1–8 under rubriken ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<ul> <li>Högspänningssystem och huvudtransformatorers uppbyggnad.</li> <li>Olika elmotorers uppbyggnad och egenskaper.</li> <li>Asynkronmotorer och generatordrift vid översynkrona varvtal (fyrkvadrantsdrifter).</li> <li>Återledningsdon och sugtransformatorer.</li> <li>Sexpunktslikriktning.</li> <li>Kommutering.</li> <li>Traktionsomriktare och dynamisk broms.</li> <li>Batteri- och hjälpkraftssystem.</li> <li>Fiberoptisk signalöverföring vid kommutering.</li> <li>Systemdokumentation, till exempel ritningar, scheman, manualer och dokumentation av genomfört arbete.</li> <li>Installation och driftsättning av trefasmotorer.</li> <li>Mätmetoder och effektberäkning på hjälpkraftssystem, traktionsomriktare och traktionsmotor.</li> <li>Funktionsprovning av omriktare, hög- och lågspänningstester.</li> <li>Ström- och spänningsmätning i högspänningssystem.</li> <li>Nycklingssystem för elkraftsystem, fordon och verkstad.</li> <li>Underhåll av högspänningssystem.</li> <li>Enklare felsökning och felavhjälpning, samt driftsättning och funktionstester.</li> <li>Specialverktyg och verkstadsfaciliteter.</li> <li>Användning och skötsel av verktyg.</li> <li>Säkerhetsföreskrifter och riskanalys.</li> <li>Arbetslagets styrka och svagheter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven <strong>översiktligt </strong>för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför <strong>i samråd </strong>med handledare alla ingående arbetsuppgifter <strong>med viss säkerhet </strong>och med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav.</p><p>I arbetet använder eleven <strong>med viss säkerhet </strong>system-, komponent- och verktygsdokumentation. Eleven dokumenterar <strong>tillfredsställande</strong> genomfört arbete enligt branschens standarder. Vidare redogör eleven <strong>översiktligt</strong> för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>visst </strong><strong>handlag</strong> enligt instruktioner och håller <strong>tillfredsställande</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>tillfredsställande</strong>. Dessutom vårdar eleven <strong>med viss säkerhet </strong>utrustning, maskiner och verktyg enligt instruktioner.</p><p>Eleven arbetar ergonomiskt, utför en <strong>tillfredsställande</strong> riskanalys samt genomför arbetet på ett <strong>tillfredsställande</strong> sätt, säkert för sig själv och andra. Eleven redogör <strong>översiktligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör <strong>översiktligt</strong> för standarder och begrepp inom området och använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven <strong>utförligt </strong>för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför<strong> efter samråd </strong>med handledare alla ingående arbetsuppgifter <strong>med säkerhet</strong> och med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav.</p><p>I arbetet använder eleven <strong>med viss säkerhet </strong>system-, komponent- och verktygsdokumentation. Eleven dokumenterar <strong>tillfredsställande</strong> genomfört arbete enligt branschens standarder. Vidare redogör eleven <strong>utförligt</strong> för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>gott </strong>handlag enligt instruktioner och håller <strong>tillfredsställande</strong> ordning på arbetsplatsen och motiverar behovet av ordning <strong>tillfredsställande</strong>. Dessutom vårdar eleven <strong>med säkerhet </strong>utrustning, maskiner och verktyg enligt instruktioner.</p><p>Eleven arbetar ergonomiskt, utför en <strong>tillfredsställande</strong> riskanalys samt genomför arbetet på ett <strong>tillfredsställande</strong> sätt, säkert för sig själv och andra. Eleven redogör <strong>utförligt</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör <strong>utförligt</strong> för standarder och begrepp inom området och använder <strong>med viss säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför <strong>efter samråd </strong>med handledare alla ingående arbetsuppgifter <strong>med säkerhet</strong> och med ett resultat som på ett <strong>gott </strong>sätt uppfyller fastställda kvalitets- och miljökrav.</p><p>I arbetet använder eleven <strong>med säkerhet </strong>system-, komponent- och verktygsdokumentation. Eleven dokumenterar <strong>noggrant och utförligt</strong> genomfört arbete enligt branschens standarder. Vidare redogör eleven <strong>utförligt och nyanserat</strong> för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med <strong>mycket gott </strong>handlag enligt instruktioner och håller <strong>god </strong>ordning på arbetsplatsen och motiverar behovet av ordning <strong>noggrant och utförligt</strong>. Dessutom vårdar eleven <strong>med säkerhet </strong>utrustning, maskiner och verktyg enligt instruktioner.</p><p>Eleven arbetar ergonomiskt, utför en <strong>god </strong>riskanalys samt genomför arbetet på ett <strong>gott</strong> sätt, säkert för sig själv och andra. Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör <strong>utförligt och nyanserat</strong> för standarder och begrepp inom området och använder <strong>med säkerhet</strong> korrekt fackspråk i sina redogörelser och resonemang.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.980Z"
+}

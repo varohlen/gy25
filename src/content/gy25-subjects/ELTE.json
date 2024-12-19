@@ -1,0 +1,64 @@
+{
+  "code": "ELTE",
+  "name": "Elteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:212",
+  "nameHeading": "<h2>Elteknik</h2>",
+  "description": "<p>Samhället är beroende av en fungerande elförsörjning för att upprätthålla funktionen i en stor mängd verksamheter. Ämnet elteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. Centralt i ämnet är säkerhetsfrågor, eftersom misstag i arbete med elektricitet kan orsaka stora skador på både person och egendom.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elteknik ska syfta till att eleverna utvecklar förmåga att utföra elarbete, verkstadsarbete, mekaniskt arbete och olika sammanfogningstekniker. I detta ingår förmåga att hantera material, verktyg och utrustning på ett säkert och hållbart sätt.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att planera arbetsuppgifter och utifrån ritningar utföra elarbete och verkstadsarbete. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om elektriska storheters samband samt förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller elsäkerhet och arbetsmiljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur och varför olika material ska sorteras och återvinnas. Undervisningen ska på så vis stimulera elevernas nyfikenhet och intresse för hållbarhetsarbete och teknisk utveckling inom elteknik. I undervisningen ska både praktiskt och teoretiskt arbete ingå. Dessutom ska undervisningen leda till att eleverna utvecklar ett fackspråk samt förmåga att arbeta säkert, ergonomiskt och med hänsyn till både miljö och estetik.</p> <h5><em>Undervisningen i ämnet elteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra enklare verkstadsarbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utföra enklare elinstallationer i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att planera arbetsuppgifter och arbeta utifrån ritningsunderlag.</li> <li>Kunskaper om elektriska storheters samband.</li> <li>Kunskaper om miljöpåverkan och återvinning av olika material.</li> </ul><h3>Nivåer i ämnet elteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELTE1000X</h3>",
+      "code": "ELTE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Enklare verkstadsarbete, till exempel mjuklödning, skruvförband, popnitning och bearbetning av vanligt förekommande material.</li> <li>Användning av vanligt förekommande hand- och mätverktyg inom området, däribland mejslar, avbitare, tänger, pressverktyg och skjutmått.</li> <li>Enklare elarbete, till exempel losskoppling och anslutning av apparater i befintlig gruppledning.</li> <li>Enkel funktionsprovning, till exempel av strömbrytare och uttag.</li> <li>Serie- och parallellkoppling samt grundläggande principer för elmaskiner.</li> <li>Tolkning och konstruktion av enkla ritningar inom verkstadsteknik och elinstallation, till exempel vy- och installationsritning.</li> <li>Elsäkerhet för personer och egendom samt elens verkningar.</li> <li>Första hjälpen vid olycksfall och elskador, däribland L-ABC (livsfarligt läge – andning, blödning, cirkulation) och HLR (hjärt-lungräddning).</li> <li>Lagar och andra bestämmelser inom området, däribland om elsäkerhet och arbetsmiljö.</li> <li>Ergonomi vid olika arbeten inom området.</li> <li>Mätning och beräkning av vanligt förekommande storheter i resistiva lik- och enfasväxelströmkretsar samt sambandet mellan dessa.</li> <li>Enklare styrkrets med hjälp av kretsschema, till exempel hållkrets.</li> <li>Material ur ett miljöperspektiv, till exempel sortering av avfall och återvinning av olika material.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utför enklare verkstadsarbete med <strong>visst</strong> handlag. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför enklare elinstallationer med <strong>visst</strong> handlag. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven planerar arbetsuppgifter och arbetar med <strong>viss säkerhet</strong> utifrån ritningsunderlag.</p> <p>Eleven redogör <strong>översiktligt</strong> för elektriska storheters samband.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om miljöpåverkan och återvinning av olika material.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utför enklare verkstadsarbete med <strong>gott</strong> handlag. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför enklare elinstallationer med <strong>gott</strong> handlag. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven planerar arbetsuppgifter och arbetar med <strong>säkerhet</strong> utifrån ritningsunderlag.</p> <p>Eleven redogör <strong>utförligt</strong> för elektriska storheters samband.</p> <p>Eleven visar <strong>goda</strong> kunskaper om miljöpåverkan och återvinning av olika material.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utför enklare verkstadsarbete med <strong>mycket gott</strong> handlag. Eleven utför det praktiska arbetet på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utför enklare elinstallationer med <strong>mycket gott</strong> handlag. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven planerar arbetsuppgifter och arbetar med <strong>god säkerhet</strong> utifrån ritningsunderlag.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för elektriska storheters samband.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om miljöpåverkan och återvinning av olika material.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.989Z"
+}

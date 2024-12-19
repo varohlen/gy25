@@ -1,0 +1,104 @@
+{
+  "code": "PRI",
+  "name": "Produktionsfilosofi",
+  "englishName": "Production philosophy",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2015:16",
+  "skolfsAndring": "2022:253",
+  "nameHeading": "<h2>Produktionsfilosofi</h2>",
+  "description": "<p>Ämnet produktionsfilosofi handlar om hur produktion, på olika nivåer i en organisation, planeras och styrs samt om hur planerings- och styrmetoder utvecklas genom ständigt förbättringsarbete. Det behandlar metoder och modeller för produktionsstyrning, projektstyrning, miljöledning, kvalitetsstyrning och teknisk dokumentation. Ämnet produktionsfilosofi får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsfilosofi ska syfta till att eleverna utvecklar kunskaper om modern produktionsfilosofi, dvs. om teorier för förbättringsarbete på olika nivåer i en organisation. Den ska också ge eleverna möjlighet att utveckla kunskaper om och färdigheter i produktionsstyrning, projektstyrning och teknisk dokumentation i förbättringsarbete. Eleverna ska också ges möjlighet att utveckla kunskaper om kvalitetsstyrningssystem och miljöledningssystem samt förmåga att analysera och ta ställning till olika kvalitetsstyrningssystem och vad de ger för resultat. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda några metoder för strukturerat förbättringsarbete.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur värdeskapande och icke värdeskapande aktiviteter påverkar ekonomi och organisation av produktionen. Undervisningen ska också leda till att eleverna utvecklar kunskaper om hur samverkan mellan inköp, logistik och produktion samt miljö- och kvalitetsarbete påverkar produktionen.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta med produktionsförbättrande arbete i projektform.</p><h4>Undervisningen i ämnet produktionsfilosofi ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om moderna produktionsfilosofiska teorier.</li> <li>Kunskaper om kvalitetsstyrnings- och miljöledningssystem.</li> <li>Förmåga att använda metoder för strukturerat förbättringsarbete.</li> <li>Förmåga att använda kvalitetsstyrnings- och miljöledningssystem.</li> <li>Förmåga att dokumentera och presentera utvecklings- och förbättringsarbete.</li> <li>Kunskaper om leverantörens roll i utvecklingsprocessen och produktionskedjan.</li> <li>Kunskaper om hur inköp, logistik, produktion samt miljö- och kvalitetsarbete samverkar.</li> <li>Kunskaper om lagar och andra bestämmelser samt om beslutsprocessen inom arbetsmiljö- och miljöområdet. </li> </ol><h3>Kurser i ämnet</h3><ul><li>Produktionsfilosofi 1, 100 poäng. </li> <li>Produktionsfilosofi 2, 100 poäng, som bygger på kursen produktionsfilosofi 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PRIPRO31</h3>",
+      "code": "PRIPRO31",
+      "nameHeading": "<h2>Produktionsfilosofi 1, 100 poäng</h2>",
+      "name": "Produktionsfilosofi 1",
+      "englishName": "Production philosophy 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen produktionsfilosofi 1 omfattar punkterna 1–3, 5 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Produktionsfilosofiska teorier, till exempel lean.</li> <li>Kvalitetsstyrningssystem, där fokus ligger på kundens behov, till exempel enligt ISO 9001.</li> <li>Miljöledningssystem för att rationalisera och minska verksamhetens totala miljöbelastning, till exempel ISO 14001.</li> <li>Principer, metoder och verktyg för strukturerat förbättringsarbete i ett hållbart samhälle, till exempel lean.</li> <li>Dokumentation, redovisning och presentation av utvecklings- och förbättringsarbete.</li> <li>Lagar och andra bestämmelser inom arbetsmiljö- och miljöområdet för valt teknikområde.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. Vidare beskriver eleven <strong>översiktligt </strong>kvalitetsstyrningssystem och miljöledningssystem.</p><p>Eleven planerar <strong>i samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>översiktligt </strong>för lagar och andra bestämmelser inom arbetsmiljö- och miljöområdet för valt teknikområde.</p><p>När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. Vidare beskriver eleven <strong>utförligt </strong>kvalitetsstyrningssystem och miljöledningssystem.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>utförligt </strong>för lagar och andra bestämmelser inom arbetsmiljö- och miljöområdet för valt teknikområde.</p><p>När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. Vidare beskriver eleven <strong>utförligt och nyanserat </strong>kvalitetsstyrningssystem och miljöledningssystem.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser inom arbetsmiljö- och miljöområdet för valt teknikområde.</p><p>När eleven samråder med handledare bedömer eleven <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRIPRO32</h3>",
+      "code": "PRIPRO32",
+      "nameHeading": "<h2>Produktionsfilosofi 2, 100 poäng</h2>",
+      "name": "Produktionsfilosofi 2",
+      "englishName": "Production philosophy 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen produktionsfilosofi 2 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Modern produktionsfilosofi i ett hållbart samhälle med kundens behov i fokus, dvs. hur produktion på olika nivåer i en organisation planeras och styrs. Planerings- och styrmetoder för utveckling i ett ständigt förbättringsarbete.</li> <li>Produktionsfilosofi, där alla delar av en organisation ingår i förbättringsprocessen.</li> <li>Metoder för strukturerat förbättringsarbete, till exempel lean eller six sigma.</li> <li>Kvalitetsstyrningssystem, till exempel ISO 9001.</li> <li>Miljöledningssystem, till exempel ISO 14001.</li> <li>Dokumentation, redovisning och presentation av utvecklings- och förbättringsarbete.</li> <li>Leverantörens roll i utvecklingsprocessen och produktionskedjan.</li> <li>Inköp, logistik, produktion, miljö- och kvalitetsarbete samt hur dessa faktorer samverkar.</li> <li>Beslutsprocesser inom arbetsmiljö- och miljöområdet för valt teknikområde.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. I redogörelsen beskriver eleven <strong>översiktligt </strong>hur en organisations olika delar ingår i förbättringsprocessen.</p><p>Eleven planerar och genomför <strong>i samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Eleven använder också <strong>med viss säkerhet</strong> kvalitetsstyrningssystem och miljöledningssystem. Dessutom ger eleven <strong>enkla </strong>argument för de valda systemen. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>översiktligt</strong> för leverantörens roll i utvecklingsprocessen och produktionskedjan. Eleven redogör också <strong>översiktligt </strong>för hur inköp, logistik och produktion samt miljö- och kvalitetsarbete samverkar i en optimal produktion. Dessutom redogör eleven <strong>översiktligt </strong>för beslutsprocesserna inom arbetsmiljö- och miljöområdet.</p><p>När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. I redogörelsen beskriver eleven <strong>utförligt </strong>hur en organisations olika delar ingår i förbättringsprocessen.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med viss säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Eleven använder också <strong>med viss säkerhet</strong> kvalitetsstyrningssystem och miljöledningssystem. Dessutom ger eleven <strong>välgrundade </strong>argument för de valda systemen. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>viss säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>utförligt </strong>för leverantörens roll i utvecklingsprocessen och produktionskedjan. Eleven redogör också <strong>utförligt </strong>för hur inköp, logistik och produktion samt miljö- och kvalitetsarbete samverkar i en optimal produktion. Dessutom redogör eleven <strong>utförligt </strong>för beslutsprocesserna inom arbetsmiljö- och miljöområdet.</p><p>När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt </strong>för moderna produktionsfilosofiska teorier och hur de bidrar till ständiga förbättringar i ett hållbart samhälle med kundens behov i fokus. I redogörelsen beskriver eleven <strong>utförligt </strong>hur en organisations olika delar ingår i förbättringsprocessen.</p><p>Eleven planerar och genomför <strong>efter samråd </strong>med handledare ett strukturerat förbättringsarbete. I arbetet använder eleven <strong>med säkerhet </strong>metoder och verktyg för strukturerat förbättringsarbete. Eleven använder också <strong>med säkerhet</strong> kvalitetsstyrningssystem och miljöledningssystem. Dessutom ger eleven <strong>välgrundade </strong>argument för de valda systemen. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Dessutom dokumenterar, redovisar och presenterar eleven <strong>med</strong> <strong>säkerhet</strong> sitt eller projektgruppens utvecklings- och förbättringsarbete.</p><p>Eleven redogör <strong>utförligt </strong>för leverantörens roll i utvecklingsprocessen och produktionskedjan. Eleven redogör också <strong>utförligt </strong>för hur inköp, logistik och produktion samt miljö- och kvalitetsarbete samverkar i en optimal produktion. Dessutom redogör eleven <strong>utförligt </strong>för beslutsprocesserna inom arbetsmiljö- och miljöområdet.</p><p>När eleven samråder med handledare bedömer eleven <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.132Z"
+}

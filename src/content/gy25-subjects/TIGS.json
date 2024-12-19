@@ -1,0 +1,64 @@
+{
+  "code": "TIGS",
+  "name": "TIG-svetsning rör",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:224",
+  "nameHeading": "<h2>TIG-svetsning rör</h2>",
+  "description": "<p>Ämnet TIG-svetsning rör behandlar sammanfogning av rör med TIG-svetsning och är till sin karaktär både praktiskt och teoretiskt. Områdets tekniska utveckling och betydelsen av en hållbar utveckling behandlas också.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet TIG-svetsning rör ska syfta till att eleverna utvecklar kunskaper om svetsmetoden TIG (tungsten inert gas) och dess användning kopplat till rör. Undervisningen ska även leda till att eleverna utvecklar förmåga att svetsa i olika material med relevant utrustning anpassad för materialet. Därtill ska undervisningen leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller miljö och säkerhet samt om att förebygga och hantera brand i den egna arbetsmiljön. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbar utveckling. Produkt- och teknikutveckling inom arbetsområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter inom arbetsområdet. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda tillverkningsunderlag med tillhörande handlingar samt utveckla kunskaper om föreskrifter och standarder inom arbetsområdet. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera material samt välja, använda och underhålla verktyg, maskiner och utrustning med hänsyn till ergonomi, hälsa och säkerhet. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>Undervisningen ska bedrivas så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet TIG-svetsning rör ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om TIG-svetsning av rör samt om lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att utföra svetsarbete efter tillverkningsunderlag med tillhörande handlingar på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material samt välja, använda och underhålla verktyg, maskiner och utrustning.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet TIG-svetsning rör</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TIGS1000X</h3>",
+      "code": "TIGS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet TIG-svetsning rör på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Egenskaper hos svetsmetoden TIG kopplat till rör.</li> <li>Funktioner i svetsprocessen, däribland svetscykel och skyddsgas.</li> <li>Utrustning för TIG-svetsning, däribland strömkälla, brännarkropp samt anordningar för gasförsörjning och kablar.</li> <li>Diskontinuiteter och formavvikelser i svetsar och möjliga problem vid TIG-svetsning.</li> <li>Kvalitetsnivåer och provmetoder av svetsförband samt kompetenskrav vid svetsning.</li> <li>Lagar och andra bestämmelser inom området, däribland om brandsäkerhet.</li> <li>Arbetsmiljö, hälsa och säkerhet vid svetsarbete, däribland brandsäkerhet för skydd mot brand och brandgasspridning.</li> <li>Tolkning av tillverkningsunderlag med tillhörande handlingar. Svetsdatablad som behandlar parametrar, till exempel val av svetsström för olika material, godstjocklekar och svetslägen.</li> <li>Inställning av strömkällan och reglering av svetsparametrar.</li> <li>Beräkning av rotgasfyllning med hänsyn till ekonomisk och miljömässig hållbarhet.</li> <li>Rengöring av fogar vid svetsning av olegerat och rostfritt stål.</li> <li>Sammanfogning av enkelsidiga stumsvetsar i rör i olegerat och rostfritt stål i förekommande svetslägen.</li> <li>Täthetsprovning, kontroller och dokumentation vid svetsarbeten.</li> <li>Åtgärder för att korrigera svetsfel.</li> <li>Säkra arbetssätt med hänsyn till riskfaktorer inom svetsning, däribland elfaror, ultraviolett strålning (UV-strålning), värmestrålning och svetsrök.</li> <li>Användning och hantering av stål och dess legeringar samt tillsatsmaterial med hänsyn till ekonomisk och miljömässig hållbarhet.</li> <li>Identifiering av stål utifrån definition och egenskaper samt jämförelse mellan rostfritt stål och olegerat stål.</li> <li>Val och säker användning av verktyg, maskiner och utrustning för fogberedning.</li> <li>Indelning, slipning och hantering av TIG-elektroder.</li> <li>Underhåll av verktyg, maskiner och utrustning, till exempel kablars och kopplingars tillstånd, kontaktytors och komponenters renhet samt gastillförsel och kontroll av denna.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med fackspråk i relation till arbetsuppgiften.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> arbetsprocesser och metoder för TIG-svetsning av rör. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom arbetsområdet.</p> <p>Eleven utför svetsarbeten med <strong>godtagbart</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag verktyg, maskiner och utrustning.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> arbetsprocesser och metoder för TIG-svetsning av rör. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom arbetsområdet.</p> <p>Eleven utför svetsarbeten med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag verktyg, maskiner och utrustning.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> arbetsprocesser och metoder för TIG-svetsning av rör. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom arbetsområdet.</p> <p>Eleven utför svetsarbeten med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven väljer material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg, maskiner och utrustning.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.091Z"
+}

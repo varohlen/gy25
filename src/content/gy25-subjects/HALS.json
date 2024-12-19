@@ -1,0 +1,64 @@
+{
+  "code": "HALS",
+  "name": "Hälsopedagogik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:273",
+  "nameHeading": "<h2>Hälsopedagogik</h2>",
+  "description": "<p>Ämnet hälsopedagogik är tvärvetenskapligt och har sin grund i hälsovetenskap, socialmedicin och pedagogik. I ämnet behandlas hälsa och hälsofrämjande arbete utifrån ett individ-, grupp- och samhällsperspektiv. Ämnet utgår från ett helhetsperspektiv på människan som biologisk, psykisk och social varelse.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hälsopedagogik ska syfta till att eleverna utvecklar kunskaper om människors hälsa och om olika former av hälsofrämjande arbete. Eleverna ska också ges möjlighet att utveckla kunskaper om folkhälsopolitiska mål och folkhälsoarbetets framväxt och innehåll. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att arbeta hälsofrämjande utifrån ett salutogent förhållningssätt vilket innebär att förstärka det friska och se människan som en resurs för eget välbefinnande.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om arbetsmiljö och hur goda arbetsförhållanden kan skapas. De ska också ges möjlighet att utveckla insikt om sambanden mellan livsstil, livsvillkor, hälsa och välbefinnande samt förmåga att utföra handlingar för ett ökat välbefinnande och en positiv självbild. Undervisningen ska bidra till att eleverna utvecklar förmåga att samarbeta och kommunicera med andra på ett yrkesetiskt och pedagogiskt sätt samt att diskutera egna och andras attityder till hälsa och hälsovård.</p> <p>Initiativförmåga, självständighet, personligt ansvarstagande, problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av olika former av hälsoarbete. Eleverna ska även ges möjlighet att reflektera över och diskutera centrala begrepp samt egna och andras handlingar och attityder. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet hälsopedagogik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om folkhälsoarbete och folksjukdomar samt om sambanden mellan livsstil, livsvillkor, hälsa och välbefinnande.</li> <li>Förmåga att planera, utföra, dokumentera och utvärdera olika former av hälsofrämjande arbete.</li> <li>Förmåga att samarbeta och kommunicera på ett yrkesetiskt och pedagogiskt sätt i olika situationer.</li> </ul><h3>Nivåer i ämnet hälsopedagogik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HALS1000X</h3>",
+      "code": "HALS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hälsopedagogik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Människors hälsa, hälsorelaterade levnadsvanor och olika hälsoeffekter ur ett miljöperspektiv, historiskt perspektiv och internationellt perspektiv samt ur sociala och kulturella aspekter.</li> <li>Frisk- och riskfaktorers påverkan på människors hälsa, till exempel motion, rekreation och kost samt droger och stress.</li> <li>Centrala begrepp och teorier, till exempel KASAM (känsla av sammanhang).</li> <li>Innebörden av inflytande, delaktighet och jämställdhet för människors hälsa.</li> <li>Innebörden av ett salutogent förhållningssätt.</li> <li>Folksjukdomar och förebyggande hälsoarbete.</li> <li>Utförande av olika former av folkhälsoarbete och hälsofrämjande arbetssätt på individ-, grupp- och samhällsnivå.</li> <li>Planering och genomförande av hälsofrämjande metoder och aktiviteter samt dokumentation och utvärdering av resultatet.</li> <li>Interaktion och kommunikation i samarbeten och möten med människor.</li> <li>Hur kommunikation om hälsa och hälsofrämjande arbete kan utföras på ett yrkesetiskt och pedagogiskt sätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör för olika former av folkhälsoarbete på ett <strong>godtagbart</strong> sätt samt förklarar och drar <strong>enkla</strong> slutsatser om hur livsstil och livsvillkor påverkar människors hälsa och välbefinnande. Eleven redogör för några folksjukdomar och hur de kan förebyggas och behandlas på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven planerar, utför och dokumenterar hälsofrämjande arbete på ett <strong>godtagbart</strong> sätt samt utvärderar resultatet med <strong>enkla</strong> omdömen.</p> <p>Eleven samarbetar och kommunicerar om hälsa och hälsofrämjande arbete på ett yrkesetiskt och pedagogiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör för olika former av folkhälsoarbete på ett <strong>gott</strong> sätt samt förklarar och drar <strong>utvecklade</strong> slutsatser om hur livsstil och livsvillkor påverkar människors hälsa och välbefinnande. Eleven redogör för några folksjukdomar och hur de kan förebyggas och behandlas på ett <strong>gott</strong> sätt.</p> <p>Eleven planerar, utför och dokumenterar hälsofrämjande arbete på ett <strong>gott</strong> sätt samt utvärderar resultatet med <strong>utvecklade</strong> omdömen.</p> <p>Eleven samarbetar och kommunicerar om hälsa och hälsofrämjande arbete på ett yrkesetiskt och pedagogiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör för olika former av folkhälsoarbete på ett <strong>mycket gott</strong> sätt samt förklarar och drar <strong>utvecklade och nyanserade</strong> slutsatser om hur livsstil och livsvillkor påverkar människors hälsa och välbefinnande. Eleven redogör för några folksjukdomar och hur de kan förebyggas och behandlas på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven planerar, utför och dokumenterar hälsofrämjande arbete på ett <strong>mycket gott</strong> sätt samt utvärderar resultatet med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven samarbetar och kommunicerar om hälsa och hälsofrämjande arbete på ett yrkesetiskt och pedagogiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.013Z"
+}

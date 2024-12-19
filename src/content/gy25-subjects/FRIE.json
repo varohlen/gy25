@@ -1,0 +1,78 @@
+{
+  "code": "FRIE",
+  "name": "Frisör – teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:237",
+  "nameHeading": "<h2>Frisör – teknik</h2>",
+  "description": "<p>Ämnet frisör – teknik har sin grund i det tekniska kunnande som krävs för att vara en kreativ frisör. Ämnet behandlar frisöryrkets grundläggande tekniker samt maskiner, material, produkter och verktyg som används inom yrkesutövandet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet frisör – teknik ska syfta till att eleverna utvecklar förmåga att använda olika frisörtekniker i skapandet av frisyrer. Det innebär att planera arbetet, välja ändamålsenliga tekniker, material, maskiner, produkter och verktyg utifrån det tänkta resultatet, utföra arbetet samt att redovisa resultatet. Eleverna ska även ges möjlighet att utveckla förmåga att utvärdera arbetsprocessen och resultatet. Därigenom ska eleverna ges möjlighet att utveckla en känsla för yrkesmässigt utövande.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att bemöta och kommunicera med kommande kunder samt att använda digitala tekniker i arbetet. Undervisningen ska stimulera elevernas personliga ansvarstagande, drivkraft, idérikedom och kreativa skapande. Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om färg, form och stil inom frisyrdesign och hårmode.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att använda frisöryrkets terminologi för att kommunicera om arbetsprocess och resultat. I undervisningen ska eleverna även ges möjlighet att utveckla och tillämpa kunskaper om ett säkert och hållbart arbetssätt inom frisöryrket.</p> <p>Eleverna ska ges rika möjligheter att träna olika frisörtekniker. Eleverna ska också ges möjlighet att i undervisningen använda sina teoretiska kunskaper om arbetsprocesser, tekniker och verktyg samt om materials och produkters olika egenskaper i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet frisör – teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och använda frisörtekniker vid skapandet av frisyrer.</li> <li>Förmåga att utvärdera arbetsprocess och resultat samt att använda frisöryrkets terminologi.</li> <li>Kunskaper om bemötande och kommunikation i yrkesutövandet.</li> <li>Kunskaper om behandlingar och produkter samt om färg-, form- och stillära.</li> <li>Färdigheter i att arbeta säkert och hållbart samt att använda och sköta maskiner, material och verktyg.</li> </ul><h3>Nivåer i ämnet frisör – teknik</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 1 i ämnet hårvård och salongskunskap.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FRIE1000X</h3>",
+      "code": "FRIE1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet frisör – teknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Designtekniker på korta och långa hår, däribland sektionering samt formning av frisyrer med värmeverktyg och curlers.</li> <li>Långhårsuppsättningar, till exempel tofs-, flät- och knuttekniker samt enklare valkfrisyrer.</li> <li>Klipptekniker för både långa och korta hår, däribland grundklippningar och sax över kam på hårdelar och helt huvud.</li> <li>Appliceringstekniker för vårdande och färgförändrande produkter.</li> <li>Strukturförändrande rulltekniker, till exempel traditionell rullteknik för permanent.</li> <li>Planering av arbete samt utvärdering av arbetsprocess och resultat.</li> <li>Terminologi och strukturritning för att kommunicera och följa instruktioner samt för att förstå resultatet.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet, däribland bemötande.</li> <li>Verktyg för inspiration och dokumentation av utfört arbete, till exempel fotografering och estetisk presentation.</li> <li>Produktkunskap, användning av produkter samt uppskattning av tids- och materialåtgång.</li> <li>Grundläggande färglära för färgförändrande behandlingar samt om färgförändrande produkter.</li> <li>Grundläggande kemi för strukturförändrande behandlingar samt om strukturförändrande produkter.</li> <li>Färg- och formlära för hår och ansikte, däribland kalla och varma färger samt olika siluetter och former.</li> <li>Hantering och rengöring av maskiner, material, produkter och verktyg samt skötsel av egen och gemensam arbetsyta.</li> <li>Ergonomiskt och säkert arbetssätt, däribland användning av hjälpmedel och skyddsutrustning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FRIE2000X</h3>",
+      "code": "FRIE2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet frisör – teknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Designtekniker på olika hårtyper, däribland formgivning av frisyrer med värmeverktyg samt våg- och clipsteknik.</li> <li>Långhårsuppsättningar med kombinationer av olika tekniker, till exempel flätteknik och knut- eller valkfrisyrer.</li> <li>Kombinerade klipptekniker med olika siluetter och former på helt huvud.</li> <li>Applicering av färgförändrande produkter, däribland temporära och permanenta färger.</li> <li>Strukturförändrande rulltekniker, däribland traditionell permanentrullning.</li> <li>Planering av arbete, däribland tids- och materialåtgång samt val av material, produkter och verktyg till arbetet.</li> <li>Terminologi och strukturritning för att kommunicera och följa instruktioner samt för att beskriva och utvärdera arbetsprocess och resultat.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet, däribland betydelsen av samarbete och kommunikation samt hur attityder och bemötande kan påverka relationer med olika människor och målgrupper.</li> <li>Användning av inspirationsverktyg för arbete och dokumentation av eget arbete med hjälp av digitala tekniker, fotografering och rörlig bild.</li> <li>Hantering av produkter samt deras funktioner i samband med berörda tekniker.</li> <li>Färglära för färgförändrande behandlingar och om färgförändrande produkter.</li> <li>Kemi för strukturförändrande behandlingar och om strukturförändrande produkter.</li> <li>Färg-, form- och proportionslära för ansikte, hår och skägg, till exempel proportioner och olika former vid idéutveckling och skissritning.</li> <li>Hantering, rengöring och vård av maskiner, material, produkter och verktyg samt skötsel av egen och gemensam arbetsyta.</li> <li>Hygieniskt, ergonomiskt och säkert arbetssätt samt arbete med återvinning och källsortering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>viss säkerhet</strong> frisörtekniker och uppnår ett <strong>godtagbart</strong> resultat på frisyr eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>viss säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om behandlingar och produkter samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar säkert och hållbart samt använder och sköter med <strong>visst</strong> handlag maskiner, material och verktyg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>säkerhet</strong> frisörtekniker och uppnår ett <strong>gott</strong> resultat på frisyr eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>utvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>goda</strong> kunskaper om bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om behandlingar och produkter samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar säkert och hållbart samt använder och sköter med <strong>gott</strong> handlag maskiner, material och verktyg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar sitt arbete samt använder med <strong>god säkerhet</strong> frisörtekniker och uppnår ett <strong>mycket gott</strong> resultat på frisyr eller utfört arbetsmoment.</p> <p>Eleven utvärderar arbetsprocessen och resultatet med <strong>välutvecklade</strong> omdömen samt ger förslag på hur arbetet kan utvecklas. Dessutom använder eleven med <strong>god säkerhet</strong> relevant terminologi i sin kommunikation.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om bemötande och kommunikation i yrkesutövandet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om behandlingar och produkter samt om färg-, form- och stillära i skapandeprocessen.</p> <p>Eleven arbetar säkert och hållbart samt använder och sköter med <strong>mycket gott</strong> handlag maskiner, material och verktyg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.004Z"
+}

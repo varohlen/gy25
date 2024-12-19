@@ -1,0 +1,64 @@
+{
+  "code": "INFR",
+  "name": "Informationsteknik i automatiserade system",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:12",
+  "nameHeading": "<h2>Informationsteknik i automatiserade system</h2>",
+  "description": "<p>Industrins funktion och effektivisering går hand i hand med en kontinuerlig teknisk utveckling. En viktig del i utvecklingen är att säkerställa att de automatiserade funktionerna upprätthålls. Ämnet informationsteknik i automatiserade system behandlar vanligt förekommande systems och enheters sätt att fungera och kommunicera.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet informationsteknik i automatiserade system ska syfta till att eleverna utvecklar förmåga att arbeta med vanligt förekommande system och komponenter inom området. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de system, enheter och komponenter som ingår när industriella datorer och enheter är uppkopplade i befintliga nätverk. Eleverna ska även ges möjlighet att utveckla förmåga att planera och upprätta kommunikation mellan industriella datorer och enheter i nätverk för produktion eller drift. Dessutom ska eleverna ges möjlighet att utveckla förmåga att lösa problem samt utföra felsökningar och åtgärda fel, både självständigt och i samarbete med andra.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om informationssäkerhet och olika typer av informationsteknik för produktion och drift inom industri och fastigheter. Eleverna ska också ges möjlighet att möta och kommunicera med uppdragsgivare och användare på ett serviceinriktat sätt. Vidare ska eleverna ges möjlighet att utveckla förmåga att tolka och använda instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt att dokumentera sitt eget arbete.</p> <p>Undervisningen ska varva praktiska och laborativa moment med teoretiska moment. Undervisningen ska även stimulera elevernas nyfikenhet och intresse för den tekniska utvecklingen inom industriell informationsteknik.</p> <h5><em>Undervisningen i ämnet informationsteknik i automatiserade system ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad och funktion hos industriella datorer och automationsenheter i nätverk.</li> <li>Kunskaper om informationssäkerhet och informationsteknik för produktion och drift inom industrier och fastigheter.</li> <li>Förmåga att planera och upprätta kommunikation mellan industriella datorer och enheter i nätverk.</li> <li>Förmåga att diagnostisera och optimera industriella nätverk samt att åtgärda fel.</li> <li>Förmåga att tolka och använda instruktioner, manualer och andra relevanta dokument inom området samt att dokumentera arbetet.</li> </ul><h3>Nivåer i ämnet informationsteknik i automatiserade system</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INFR1000X</h3>",
+      "code": "INFR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet informationsteknik i automatiserade system på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanligt förekommande programvaror för övervakande styrning och datainsamling inom automatiserade sektorer i samhället, till exempel SCADA (supervisory control and data acquisition).</li> <li>Användning av programvara för visualisering av data i realtid till ett säkert och lättolkat gränssnitt, däribland HMI (human-machine interface).</li> <li>Topologier för industriellt ethernet, vanligt förekommande fältbussar och trådlös informationsteknik inom elkrafts- och energidistribution, i fastigheter och i tillverknings- och processindustrin.</li> <li>Driftsäkerhet och spårbarhet inom industriell informationsteknik.</li> <li>Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara.</li> <li>Användning av hårdvara för datainsamling från mät-, styr- eller reglerteknisk applikation till persondator eller handhållen enhet, till exempel adresserad I/O-enhet, som kan läsa en mätgivares värde till datorn.</li> <li>Installation och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och OPC-klient.</li> <li>Analys och bedömning av insamlade data, till exempel med avseende på datakvalitet och funktion.</li> <li>Felsökning och åtgärder inom området.</li> <li>Tolkning av dokumentation på både svenska och engelska, däribland manualer och instruktioner.</li> <li>Dokumentation av utfört arbete i tekniska nätverk, till exempel med hjälp av mjukvara, molnplatser, loggningsdata eller databashanterare.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> hur industriella datorer och automationsenheter i nätverk är uppbyggda och fungerar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om informationssäkerhet och olika typer av informationsteknik för produktion och drift.</p> <p>Eleven planerar för och upprättar med <strong>viss säkerhet</strong> kommunikation mellan industriella datorer och enheter i nätverk för produktion eller drift.</p> <p>Eleven diagnostiserar och optimerar industriella nätverk och åtgärdar <strong>enkla</strong> fel i dessa.</p> <p>Eleven använder med <strong>viss säkerhet</strong> instruktioner, manualer och andra relevanta dokument inom området och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> hur industriella datorer och automationsenheter i nätverk är uppbyggda och fungerar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om informationssäkerhet och olika typer av informationsteknik för produktion och drift.</p> <p>Eleven planerar för och upprättar med <strong>säkerhet</strong> kommunikation mellan industriella datorer och enheter i nätverk för produktion eller drift.</p> <p>Eleven diagnostiserar och optimerar industriella nätverk och åtgärdar <strong>relativt komplexa</strong> fel i dessa.</p> <p>Eleven använder med <strong>säkerhet</strong> instruktioner, manualer och andra relevanta dokument inom området och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur industriella datorer och automationsenheter i nätverk är uppbyggda och fungerar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om informationssäkerhet och olika typer av informationsteknik för produktion och drift.</p> <p>Eleven planerar för och upprättar med <strong>god säkerhet</strong> kommunikation mellan industriella datorer och enheter i nätverk för produktion eller drift.</p> <p>Eleven diagnostiserar och optimerar industriella nätverk och åtgärdar <strong>komplexa</strong> fel i dessa.</p> <p>Eleven använder med <strong>god säkerhet</strong> instruktioner, manualer och andra relevanta dokument inom området och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.023Z"
+}

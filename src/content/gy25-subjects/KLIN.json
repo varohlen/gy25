@@ -1,0 +1,77 @@
+{
+  "code": "KLIN",
+  "name": "Klient- och supportteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:546",
+  "nameHeading": "<h2>Klient- och supportteknik</h2>",
+  "description": "<p>Ämnet klient- och supportteknik behandlar datorteknik utifrån tekniska aspekter och användarens behov. Ämnet behandlar även hur användning av informationsteknik kan underlättas genom stöd och support. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet klient- och supportteknik ska syfta till att eleverna utvecklar kunskaper om och färdigheter i olika former av datatekniskt användarstöd. Undervisningen ska bidra till att eleverna utvecklar förmåga att bemöta kunder, skapa kundärenden och använda ärendehanteringssystem med hänsyn tagen till såväl säkerhet som ekonomisk, social och miljömässig hållbarhet. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att analysera användares krav och behov och utifrån dem värdera, välja och hantera digitala enheters hårdvara och mjukvara. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att lösa it-problem för både enskilda användare och större organisationer.</p> <p>Undervisningen ska även lämna utrymme för diskussion om och reflektion över säkerhetsmässiga och etiska frågor samt olika handlingsalternativ inom supportteknik. Undervisningen ska varva praktiska moment med teoretiska och innehålla verklighetsnära situationer.</p> <h5><em>Undervisningen i ämnet klient- och supportteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om lagar och andra bestämmelser inom klient- och supportteknik.</li> <li>Förmåga att värdera, välja och hantera olika typer av hårdvara och mjukvara.</li> <li>Förmåga att utföra datatekniskt användarstöd.</li> <li>Förmåga att analysera och avhjälpa datortekniska problem.</li> </ul><h3>Nivåer i ämnet klient- och supportteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KLIN100TX</h3>",
+      "code": "KLIN100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet klient- och supportteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>System och komponenter</em></p> <ul> <li>Egenskaper och användningsområde för någon vanligt förekommande hårdvaruklient och något vanligt förekommande operativsystem.</li> <li>Datorn och datorsystemets start- och bootsekvenser.</li> </ul> <p><em>Användare och krav</em></p> <ul> <li>Översiktligt om lagar och andra bestämmelser som gäller it-användning.</li> <li>Hur krav på informationssäkerhet påverkar arbete inom området.</li> <li>Analys av och översättning till konkreta lösningar.</li> <li>Val av mjukvara och hårdvara utifrån krav för enskilda användare och mindre organisationer.</li> <li>Utvärdering och val av it-produkter utifrån etiska, ekonomiska, miljömässiga och säkerhetsmässiga aspekter.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Anslutning av dator eller klient till ett mindre nätverk.</li> <li>Installation av enskilda datorer och klienter.</li> <li>Felsökning och åtgärder i enskilda klienter och mindre datorsystem.</li> </ul> <p><em>Support</em></p> <ul> <li>Support och handledning till användare för installation och handhavande av klient, datorsystem, mjukvara och kringutrustning.</li> <li>Kommunikation med kunder, uppdragsgivare och uppdragstagare i tal och skrift samt med tekniska hjälpmedel, till exempel fjärrstyrning.</li> <li>Grundläggande principer för någon etablerad process, till exempel ITIL (information technology infrastructure library).</li> <li>Metoder för analys av problem i enklare system för ärendehantering.</li> <li>Metoder för kvalitetsstyrning, uppföljning och utvärdering av supportarbete.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KLIN200TX</h3>",
+      "code": "KLIN200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet klient- och supportteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>System och komponenter</em></p> <ul> <li>Hårdvarans egenskaper och användningsområden samt några vanligt förekommande operativsystems egenskaper och användningsområden.</li> <li>Datorn, datorsystemets start- och bootsekvenser samt inställning och uppgradering av dessa.</li> </ul> <p><em>Användare och krav</em></p> <ul> <li>Hur lagar och andra bestämmelser samt krav på informationssäkerhet påverkar arbetet inom större organisationer.</li> <li>Analys av användarkrav och översättning till konkreta lösningar.</li> <li>Val av mjukvara och hårdvara utifrån krav för större organisationer.</li> <li>Utvärdering och val av it-produkter utifrån etiska, ekonomiska, miljömässiga och säkerhetsmässiga aspekter.</li> </ul> <p><em>Hantering</em></p> <ul> <li>Anslutning av dator eller klient till ett större nätverk.</li> <li>Hantering av och tekniker för centralt administrerade enheter.</li> <li>Metoder för diagnostisering, spårning och felsökning.</li> <li>Kontroll och optimering av klienters och datorsystems prestanda och funktion.</li> </ul> <p><em>Support</em></p> <ul> <li>Support till användare och organisationer för installation och handhavande av klient, datorsystem, mjukvara och kringutrustning.</li> <li>Kommunikation med kunder, uppdragsgivare och uppdragstagare enligt etablerade rutiner.</li> <li>Arbete efter etablerade principer, till exempel ITIL (information technology infrastructure library).</li> <li>Organisation av supportarbete.</li> <li>System och rutiner för ärendehantering i större organisationer.</li> <li>Förebyggande supportarbete, till exempel FAQ (frequently asked questions) och instruktionsfilmer.</li> <li>Metoder för förbättringsarbete av supportverksamhet.</li> <li>Värdering av avhjälpande respektive återställande åtgärder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom klient- och supportteknik.</p> <p>Eleven värderar, väljer och hanterar med <strong>säkerhet</strong> olika typer av hårdvara och mjukvara.</p> <p>Eleven instruerar och handleder användare på ett <strong>fungerande</strong> sätt.</p> <p>Eleven gör <strong>övergripande</strong> analyser av datortekniska problem och väljer med <strong>säkerhet</strong> lämpliga åtgärder för att avhjälpa dessa.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom klient- och supportteknik.</p> <p>Eleven värderar, väljer och hanterar med <strong>god säkerhet</strong> olika typer av hårdvara och mjukvara.</p> <p>Eleven instruerar och handleder användare på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven gör <strong>välgrundade</strong> analyser av datortekniska problem och väljer med <strong>god säkerhet</strong> lämpliga åtgärder för att avhjälpa dessa.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom klient- och supportteknik.</p> <p>Eleven värderar, väljer och hanterar med <strong>mycket god säkerhet</strong> olika typer av hårdvara och mjukvara.</p> <p>Eleven instruerar och handleder användare på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> analyser av datortekniska problem och väljer med <strong>mycket god säkerhet</strong> lämpliga åtgärder för att avhjälpa dessa.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.028Z"
+}

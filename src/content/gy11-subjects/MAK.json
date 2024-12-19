@@ -1,0 +1,143 @@
+{
+  "code": "MAK",
+  "name": "Maskintjänst",
+  "englishName": "Machine services",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:133",
+  "skolfsAndring": "2022:203",
+  "nameHeading": "<h2>Maskintjänst</h2>",
+  "description": "<p>Ämnet maskintjänst omfattar de kunskaper som krävs för att hantera den maskinella utrustningen ombord på fartyg. Det behandlar den teknik och de metoder som används för drift och underhåll inom maskinavdelningen på handelsfartyg. Detta innefattar tekniska begrepp och teorier. </p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet maskintjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom maskinavdelningen och arbetsuppgifter för vaktgående maskinpersonal. Den ska vidare leda till att eleverna utvecklar kunskaper om mekanik och materiallära samt ett tekniskt kunnande. Eleverna ska ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom maskinavdelningen. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt. </p><h4>Undervisningen i ämnet maskintjänst ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att utföra arbetsuppgifter för vaktgående maskinpersonal.</li> <li>Kunskaper om maskinbefäls arbetsuppgifter.</li> <li>Förmåga att utföra driftsarbete inom ett fartygs maskinavdelning.</li> <li>Förmåga att utföra underhållsarbete inom maskinavdelningen på ett fartyg.</li> <li>Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på det sätt yrket kräver.</li> <li>Förmåga att samarbeta och kommunicera med ett för yrket relevant språk.</li> <li>Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom maskinavdelningen på ett fartyg.</li> <li>Kunskaper om lagar och bestämmelser som reglerar området. </li> </ol><h3>Kurser i ämnet</h3><ul><li>Maskinbefäl, 100 poäng. </li> <li>Maskintjänst 1, 300 poäng. </li> <li>Maskintjänst 2, 300 poäng, som bygger på kursen maskintjänst 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: MAKMAS0</h3>",
+      "code": "MAKMAS0",
+      "nameHeading": "<h2>Maskinbefäl, 100 poäng</h2>",
+      "name": "Maskinbefäl",
+      "englishName": "Engineering officer",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen maskinbefäl omfattar punkterna 2 och 5–8 under rubriken Ämnets syfte, med särskild betoning på punkt 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Drift och underhåll. </li> <li>Maskinteknik: förbränningsmotorer, förbränning, bränslen och smörjmedel, fartygets framdrivning, hydraulik och däcksmaskineri, kylvattensystem, smörjoljesystem, bränslesystem, läns- och barlastsystem, startsystem och ångsystem.</li> <li>Ellära.</li> <li>Styr- och reglerteknik.</li> <li>Kunskaper om lagar och andra bestämmelser som styr verksamheten.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum. Dessutom redogör eleven <strong>översiktligt </strong>för rutiner för drift och underhåll. Vidare redogör eleven <strong>översiktligt </strong>för de tekniska konstruktionerna i ett fartygs maskinrum.</p><p>Eleven redogör <strong>översiktligt </strong>för hur arbetet kan utföras på ett miljömässigt och säkert sätt.</p><p>I sina redogörelser använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp. </p><p>Elever redogör <strong>översiktligt</strong> för lagar och andra bestämmelser som styr vakthållning på handelsfartyg. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum. Dessutom redogör eleven <strong>utförligt </strong>för rutiner för drift och underhåll. Vidare redogör eleven <strong><strong>utförligt</strong> </strong>för de tekniska konstruktionerna i ett fartygs maskinrum.</p><p>Eleven redogör <strong><strong>utförligt </strong></strong>för hur arbetet kan utföras på ett miljömässigt och säkert sätt.</p><p>I sina redogörelser använder eleven <strong>med viss säkerhet</strong> relevanta termer och begrepp. </p><p>Elever redogör <strong><strong>utförligt </strong></strong>för lagar och andra bestämmelser som styr vakthållning på handelsfartyg. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum. Dessutom redogör eleven <strong>utförligt <strong>och nyanserat </strong></strong>för rutiner för drift och underhåll. Vidare redogör eleven <strong><strong>utförligt <strong>och nyanserat </strong></strong></strong>för de tekniska konstruktionerna i ett fartygs maskinrum.</p><p>Eleven redogör <strong><strong>utförligt <strong>och nyanserat </strong></strong></strong>för hur arbetet kan utföras på ett miljömässigt och säkert sätt.</p><p>I sina redogörelser använder eleven <strong>med säkerhet</strong> relevanta termer och begrepp. </p><p>Elever redogör <strong><strong>utförligt </strong></strong>för lagar och andra bestämmelser som styr vakthållning på handelsfartyg. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MAKMAS01</h3>",
+      "code": "MAKMAS01",
+      "nameHeading": "<h2>Maskintjänst 1, 300 poäng</h2>",
+      "name": "Maskintjänst 1",
+      "englishName": "Machine services 1",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen maskintjänst 1 omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 3. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Vakthållning på handelsfartyg</strong> </p><ul> <li>Överlämning av vakten.</li> <li>Ordergivning och kommunikation med vakthavande befäl.</li> <li>Maskinrumsterminologi. </li> <li>Interna kommunikations- och alarmsystem ombord.</li> <li>Vakthållningens organisation. </li> <li>Lagar och andra bestämmelser som styr verksamheten.</li> </ul><p> <strong>Säkra arbetsprocedurer i samband med maskinrumsarbete</strong> </p><ul> <li>Maskinrumsalarm.</li> <li>Övervakning av ångpannor.</li> <li>Lastning och stuvning av förråd på fartyg.</li> <li>Grundläggande underhållsarbete och verktygskunskap.</li> <li>Pumpsystem för länsvatten, barlast och last.</li> <li> Elektriska installationer samt risker förbundna med dessa.</li> <li>Lagar och andra bestämmelser som styr verksamheten. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven <strong>enkla </strong>problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt</strong> sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer. I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val. Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer. I arbetet löser eleven <strong>komplexa </strong>problem som uppstår och anpassar <strong>med säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> det arbete som utförs i samband med vakthållning inom maskinavdelningen samt de lagar och andra bestämmelser som styr vakthållning på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: MAKMAS02</h3>",
+      "code": "MAKMAS02",
+      "nameHeading": "<h2>Maskintjänst 2, 300 poäng</h2>",
+      "name": "Maskintjänst 2",
+      "englishName": "Machine services 2",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen maskintjänst 2 omfattar punkterna 3–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 3–4 och 7. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Driftsarbete</strong> </p><ul> <li>Procedurer och kommunikation vid start och stopp av huvud- och hjälpmaskineri.</li> <li>Övervakning av tryck, temperaturer och nivåer under drift av huvud- och hjälpmaskineri.</li> <li>Procedurer och kommunikation vid bunkring och bränsletransferering.</li> <li>Procedurer och kommunikation vid barlast-, länsvatten- och sludgehantering.</li> <li>Riggning av lyftanordningar i maskinrummet.</li> <li>Användning av maskinverktyg och mätinstrument.</li> <li>Skydd av den marina miljön vid bunkring och bränsletransferering samt barlast-, länsvatten- och sludgehantering. </li> </ul><p> <strong>Underhållsarbete</strong> </p><ul> <li>Planerat underhåll och underhållssystem.</li> <li>Underhåll av huvud- och hjälpmaskineri samt övriga tekniska system.</li> <li>Metoder för smörjning och rengöring.</li> <li>Underhåll av maskinverktyg och mätinstrument.</li> <li>Ytbehandlingstekniker och målningsmetoder.</li> </ul><p> <strong>Tekniska konstruktioner och teknisk utrustning </strong> </p><ul> <li>Huvud- och hjälpmaskineri och tillhörande system.</li> <li>Bunker-, bränsle- och smörjoljesystem.</li> <li>Länsnings- och barlastsystem.</li> <li>Elektriska system.</li> <li>El-, hydraul- och luftdrivna handverktyg. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför <strong>i samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>översiktligt</strong> sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven <strong>enkla </strong>problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>översiktligt</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför <strong>efter samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt </strong>sina val. Dessutom använder eleven <strong>med viss säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer. I arbetet löser eleven problem som uppstår och anpassar <strong>med viss säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med viss säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med viss säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför <strong>efter samråd </strong>med handledare drifts- och underhållsarbete inom ett fartygs maskinavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar <strong>utförligt och nyanserat</strong> sina val. Dessutom använder eleven <strong>med säkerhet</strong> valda metoder, utrustning och verktyg. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta <strong>och nya</strong> situationer. I arbetet löser eleven <strong>komplexa </strong>problem som uppstår och anpassar <strong>med säkerhet </strong>metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.</p><p>Eleven samarbetar och kommunicerar <strong>med säkerhet </strong>med andra för att utföra olika uppgifter. I kommunikationen använder eleven <strong>med säkerhet </strong>termer och begrepp som är relevanta för området.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> den teknik som används och det arbete som utförs på huvud- och hjälpmaskineri, bränsle- och smörjoljesystem, länsning och ballastsystem samt vid underhåll på handelsfartyg.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.079Z"
+}

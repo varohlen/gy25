@@ -1,0 +1,64 @@
+{
+  "code": "ROBO",
+  "name": "Robotteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:104",
+  "nameHeading": "<h2>Robotteknik</h2>",
+  "description": "<p>I många branscher är arbetsuppgifter och tillverkningsled automatiserade, bland annat inom industri, fastighetsbransch och infrastruktur. Ämnet robotteknik behandlar olika robotar och deras automatiserade funktioner ur ett systemperspektiv. Ämnet behandlar även mötet mellan elektro-, dator-, drift-, underhålls- och produktionsteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet robotteknik ska syfta till att eleverna utvecklar kunskaper om robotens definition och funktioner i både industrin och samhället. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om robotars delar samt yrkesmässiga begrepp för dessa. Eftersom allt fler arbetsuppgifter och tillverkningsled inom olika branscher automatiseras ska eleverna i undervisningen ges möjlighet att utveckla förmåga att programmera och hantera robotutrustning. Detta innefattar driftsättning, felsökning, dokumentation samt kontroll av funktion.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsaspekter som är nödvändiga vid arbete med robotar. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om hur kommunikation mellan olika styrenheter går till. I undervisningen ska eleverna ges möjlighet att samverka med andra och utveckla ett fackspråk.</p> <p>Undervisningen ska innehålla både teoretiska och praktiska moment samt stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete inom robotteknik.</p> <h5><em>Undervisningen i ämnet robotteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om robotens definition och robotars olika funktioner i industrin och samhället.</li> <li>Kunskaper om olika typer av robotars konstruktion.</li> <li>Förmåga att programmera och felsöka i robotenheter.</li> <li>Förmåga att driftsätta och kontrollera funktion i enlighet med lagar och andra bestämmelser inom området samt att dokumentera utfört arbete.</li> <li>Kunskaper om säkerhetsaspekter vid arbete med robotar och robotceller.</li> <li>Kunskaper om kommunikation mellan styrenheter.</li> </ul><h3>Nivåer i ämnet robotteknik</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ROBO1000X</h3>",
+      "code": "ROBO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet robotteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Definition av en robot samt olika typer av robotar, deras användningsområden och funktioner i industrin och samhället.</li> <li>Tekniska begrepp för industrirobotar och deras delar. Användning av koordinatsystem, joggning (manuell positionering) av robot samt kinematik. Industrirobotens funktionsmöjligheter och påbyggnadsutrustning för olika utföranden, till exempel val av gripdon.</li> <li>Kollaborativa robotars möjligheter. Tekniska hjälpmedel och simulerande programvara, till exempel VR (virtual reality).</li> <li>Uppbyggnad av program, programmering och inspelning med lämpliga rörelsemönster i robotens utförande.</li> <li>Felsökning i program samt enklare mekaniska fel.</li> <li>Förebyggande och avhjälpande underhåll.</li> <li>Kontroll före idrifttagning samt provkörning av program.</li> <li>Metoder för dokumentation av robotcellens funktion, uppbyggnad och program.</li> <li>Standarder inom robotteknik, däribland standarder för informationsteknik och säkerhet.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet vid arbete med robot och vid utformning av robotcell. Nödstopp, skyddsstopp och produktionsstopp.</li> <li>Kalibrering och justeringar, däribland TCP, (tool center point). Återstart genom fastställd UF (user frame).</li> <li>Kommunikation mellan robotsystemet och yttre enheter, till exempel externa I/O (input och output).</li> <li>Miljömässig hållbarhet inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hur robotar definieras samt deras funktion i industrin och i samhället.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur robotar är konstruerade.</p> <p>Eleven programmerar och felsöker robotenheter med <strong>viss säkerhet</strong>.</p> <p>Eleven driftsätter och kontrollerar funktioner i robotenheter med <strong>viss säkerhet</strong>. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven redogör för säkerhetsaspekter vid arbete med robotar och robotceller.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur kommunikation mellan olika styrenheter fungerar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hur robotar definieras samt deras funktion i industrin och i samhället.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur robotar är konstruerade.</p> <p>Eleven programmerar och felsöker robotenheter med <strong>säkerhet</strong>.</p> <p>Eleven driftsätter och kontrollerar funktioner i robotenheter med <strong>säkerhet</strong>. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven redogör för säkerhetsaspekter vid arbete med robotar och robotceller.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur kommunikation mellan olika styrenheter fungerar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur robotar definieras samt deras funktion i industrin och i samhället.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur robotar är konstruerade.</p> <p>Eleven programmerar och felsöker robotenheter med <strong>god säkerhet</strong>.</p> <p>Eleven driftsätter och kontrollerar funktioner i robotenheter med <strong>god säkerhet</strong>. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven redogör för säkerhetsaspekter vid arbete med robotar och robotceller.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur kommunikation mellan olika styrenheter fungerar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.074Z"
+}

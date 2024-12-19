@@ -1,0 +1,92 @@
+{
+  "code": "SAKE",
+  "name": "Säkerhetssystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:128",
+  "nameHeading": "<h2>Säkerhetssystem</h2>",
+  "description": "<p>Säkerhetssystem används för att varna eller skydda mot olika typer av faror för människa eller egendom. Ämnet säkerhetssystem behandlar hur säkerhetssystem är uppbyggda och fungerar samt hur de installeras och underhålls.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet säkerhetssystem ska syfta till att eleverna utvecklar kunskaper om tekniska system som har till uppgift att varna för eller skydda mot olika typer av faror för människa eller egendom. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att installera och utföra service på larm- och säkerhetssystem utifrån dokumentation i form av scheman, ritningar och manualer på både svenska och engelska. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att planera arbetsuppgifter och arbeta enligt yrkespraxis på ett säkert och etiskt medvetet sätt.</p> <p>Undervisningen ska ge bidra till att eleverna utvecklar kunskaper om standarder, lagar och andra bestämmelser inom området. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om registrering och dokumentation av utfört arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt utveckla deras intresse för teknisk utveckling och hållbarhetsarbete inom branschen.</p> <p>I undervisningen ska ett undersökande arbetssätt förekomma. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att lösa de problem som är centrala för installation och servicearbete på larm- och säkerhetssystem. Undervisningen ska också ge eleverna möjlighet att samverka med andra och att utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet säkerhetssystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad, funktion och driftegenskaper hos larm- och säkerhetssystem.</li> <li>Förmåga att installera, driftsätta, registrera och dokumentera installationer av larm- och säkerhetssystem i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kontrollera, felsöka och avhjälpa fel på larm- och säkerhetssystem.</li> </ul><h3>Nivåer i ämnet säkerhetssystem</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet elteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SAKE1000X</h3>",
+      "code": "SAKE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet säkerhetssystem på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad och funktion hos vanligt förekommande larm- och säkerhetssystem samt deras komponenter, däribland övervakningssystem.</li> <li>Larmsändning och larmmottagning, till exempel olika utrustningar och format.</li> <li>Installation, driftsättning och provning av mindre lokala anläggningar för inbrottslarm, brandlarm och passerkontroll samt kameraövervakning.</li> <li>Verktyg, instrument och övrig utrustning för arbete i olika säkerhetssystem.</li> <li>Risker vid installation av larm och säkerhetssystem. Lagar och andra bestämmelser som gäller installationer och behörigheter för installatörer.</li> <li>Säkerhetskrav i enlighet med larmklasser.</li> <li>Grundläggande krav på registrering och dokumentation av utfört arbete.</li> <li>Planering och genomgång av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.</li> <li>Tolkning av funktionen hos larm- och säkerhetssystem utifrån scheman, ritningar och andra anvisningar.</li> <li>Vanliga mätinstrument och hjälpmedel samt enkla metoder för felsökning i inbrottslarmsystem eller andra säkerhetssystem.</li> <li>Hållbarhetsarbete inom branschen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAKE2000X</h3>",
+      "code": "SAKE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet säkerhetssystem på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad och funktion hos larm-, och säkerhetssystem samt deras komponenter, däribland övervakningssystem.</li> <li>Larmsändning och larmmottagning, till exempel olika utrustningar och olika format.</li> <li>Installation, driftsättning och provning av anläggningar för inbrottslarm, brandlarm och passerkontroll samt kameraövervakning.</li> <li>Verktyg, instrument och övrig utrustning för arbete i olika säkerhetssystem.</li> <li>Programmering av olika system, däribland passersystem med hänsyn till objektstyp, användarfunktioner och övriga krav.</li> <li>Risker vid installation av larm- och säkerhetssystem. Lagar och andra bestämmelser som gäller installationer och behörigheter för installatörer. Larmklasser och försäkringsvillkor samt olika kravställare.</li> <li>Krav på olika säkerhetssystems utformning och placering av detektorer utifrån olika förutsättningar, till exempel miljö.</li> <li>Lagar och andra bestämmelser som gäller olika anläggningars utformning samt kriterier som påverkar val och placering av kameror.</li> <li>Krav på registrering och dokumentation av utfört arbete.</li> <li>Planering och konstruktion av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.</li> <li>Mätinstrument, hjälpmedel och metoder för felsökning i flera olika säkerhetssystem, däribland inbrottslarmsystem och brandlarmssystem.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAKE3000X</h3>",
+      "code": "SAKE3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet säkerhetssystem på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad och funktion hos larm- och säkerhetssystem samt deras komponenter, däribland övervaknings- och passersystem.</li> <li>Larmsändning och larmmottagning samt krav på dessa, till exempel olika utrustningar och format.</li> <li>Installation, driftsättning och provning av integrerade system för inbrottslarm, brandlarm, passerkontroll och kameraövervakning.</li> <li>Verktyg, instrument och övrig utrustning för arbete i olika säkerhetssystem.</li> <li>Programmering av olika system, däribland integrerade system med hänsyn till objektstyp, användarfunktioner och övriga krav.</li> <li>Risker vid installation av olika larm- och säkerhetssystem. Lagar och andra bestämmelser som gäller installationer och behörigheter för installatörer. Försäkringsbolag och andra kravställare.</li> <li>Krav på olika säkerhetssystems utformning och placering av detektorer utifrån olika förutsättningar, till exempel larmklass och miljö.</li> <li>Lagar och andra bestämmelser som gäller olika anläggningars utformning samt kriterier som påverkar val och placering av kameror och övriga komponenter.</li> <li>Krav på registrering och dokumentation av utfört arbete.</li> <li>Planering, projektering och konstruktion av ritningsunderlag inför installation av anläggningar för larm- och säkerhetssystem, däribland övervakningssystem.</li> <li>Mätinstrument, hjälpmedel och metoder för felsökning i flera olika säkerhetssystem, däribland inbrottssystem, brandlarmssystem, övervakningssystem och passersystem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur larm- och säkerhetssystem är uppbyggda och fungerar.</p> <p>Eleven installerar, driftsätter och dokumenterar med <strong>viss säkerhet</strong> larm- och säkerhetssystem i enlighet med lagar och andra bestämmelser.</p> <p>Eleven felsöker och åtgärdar med <strong>viss säkerhet</strong> fel på larm- och säkerhetssystem.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur larm- och säkerhetssystem är uppbyggda och fungerar.</p> <p>Eleven installerar, driftsätter och dokumenterar med <strong>säkerhet</strong> larm- och säkerhetssystem i enlighet med lagar och andra bestämmelser.</p> <p>Eleven felsöker och åtgärdar med <strong>säkerhet</strong> fel på larm- och säkerhetssystem.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur larm- och säkerhetssystem är uppbyggda och fungerar.</p> <p>Eleven installerar, driftsätter och dokumenterar med <strong>god säkerhet</strong> larm- och säkerhetssystem i enlighet med lagar och andra bestämmelser.</p> <p>Eleven felsöker och åtgärdar med <strong>god säkerhet</strong> fel på larm- och säkerhetssystem.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.075Z"
+}

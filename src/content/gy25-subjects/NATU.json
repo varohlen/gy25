@@ -1,0 +1,106 @@
+{
+  "code": "NATU",
+  "name": "Naturkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2023-12-13",
+  "version": "gy25",
+  "versionInfo": "Första version",
+  "skolfsGrund": "2023:130",
+  "nameHeading": "<h2>Naturkunskap</h2>",
+  "description": "<p>Ämnet naturkunskap har sin bas i de naturvetenskapliga ämnena och är till sin karaktär tvärvetenskapligt. Ämnet behandlar samband mellan naturen, individen och samhället.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet naturkunskap ska syfta till att eleverna utvecklar kunskaper om naturen och människokroppen, och om naturvetenskap i händelser som uppmärksammas i omvärlden. Eleverna ska också ges möjlighet att utveckla ett naturvetenskapligt perspektiv på omvärlden. Därigenom kan eleverna utveckla förståelse av vad som kan förklaras med naturvetenskap och lära sig att skilja mellan vetenskapliga och icke-vetenskapliga påståenden.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att granska information och kritiskt värdera frågor som har ett naturvetenskapligt innehåll, däribland frågor som rör miljö, klimat, hållbar utveckling och hälsa. Eleverna ska också ges möjlighet att utveckla förståelse av hur kunskaper i naturvetenskap kan användas i såväl arbetsliv som vardagsnära situationer. Genom att få diskutera och utforska frågor med samhällsanknytning ska eleverna ges möjlighet att befästa, fördjupa och utveckla naturvetenskapliga kunskaper för att kunna möta, förstå och påverka sin samtid. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda ämnesspecifika begrepp och uttrycksformer för att kommunicera om naturvetenskap.</p> <p>Undervisningen ska behandla både aktuella och historiska framsteg inom naturvetenskapen. Eleverna ska också ges möjlighet att utveckla förståelse av naturvetenskapens betydelse inom olika yrkesområden, för människans levnadsvillkor och för samhället i stort.</p> <p>Genom praktiskt arbete i fält och med laborationer ska eleverna ges möjlighet att utveckla förmåga att genomföra systematiska undersökningar. På så sätt ska eleverna ges möjlighet att förstå naturvetenskapens karaktär och hur naturvetenskapliga kunskaper växer fram. I samband med det praktiska arbetet ska eleverna få använda naturvetenskapliga metoder och olika typer av utrustning samt utveckla förmåga att arbeta på ett säkert sätt.</p> <h5><em>Undervisningen i ämnet naturkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om samband i naturen och människokroppen samt naturvetenskapen i omvärlden.</li> <li>Förmåga att använda naturvetenskap för att diskutera, granska information och göra ställningstaganden i frågor som rör hållbar utveckling och hälsa.</li> <li>Förmåga att genomföra systematiska undersökningar med naturvetenskapliga arbetsmetoder.</li> <li>Kunskaper om naturvetenskapens betydelse för människors levnadsvillkor och samhällens framväxt.</li> </ul><h3>Nivåer i ämnet naturkunskap</h3><ul><li>Nivå 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i naturkunskap som omfattar nivå 1a1 kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1b.</li> <li>Nivå 1a2, 50 poäng. Betyg i naturkunskap som omfattar nivå 1a2 kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1b.</li> <li>Nivå 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i naturkunskap som omfattar nivå 1b kan inte ingå i elevens examen tillsammans med betyg i naturkunskap som omfattar nivå 1a1 eller 1a2.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1a2 eller 1b.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATU1A10X</h3>",
+      "code": "NATU1A10X",
+      "nameHeading": "<h2>Nivå 1a1, 50 poäng</h2>",
+      "name": "Nivå 1a1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet naturkunskap på nivå 1a1 ska behandla följande centrala innehåll:</p> <p><em>Natur och hållbar utveckling</em></p> <ul> <li>Ekosystemens bärkraft, biologisk mångfald, ekosystemtjänster och resursutnyttjande.</li> <li>Energi, klimat, produktion och konsumtion ur perspektivet hållbar utveckling.</li> </ul> <p><em>Människokroppen och hälsa</em></p> <ul> <li>Människokroppens behov av näringsämnen, energi och återhämtning. Hur kroppen påverkas av fysisk och psykisk belastning, till exempel träning, stress och missbruk.</li> <li>Sexualitet och sexuell hälsa samt hur dessa kan kopplas till relationer, identitet och samtycke.</li> </ul> <p><em>Naturvetenskap i omvärlden</em></p> <ul> <li>Naturvetenskap bakom historiska och aktuella händelser i omvärlden samt naturvetenskapens betydelse för individ och samhälle.</li> <li>Etiska frågor med koppling till det naturvetenskapliga innehållet.</li> <li>Naturvetenskap som tillämpas inom arbetslivet.</li> </ul> <p><em>Naturvetenskapliga arbetsmetoder</em></p> <ul> <li>Fältstudier och laborationer. Frågeställningar, planering, riskbedömning, utförande, värdering och redovisning.</li> <li>Granskning av information och argumentation som rör naturvetenskap. Skillnaden mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATU1A20X</h3>",
+      "code": "NATU1A20X",
+      "nameHeading": "<h2>Nivå 1a2, 50 poäng</h2>",
+      "name": "Nivå 1a2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet naturkunskap på nivå 1a2 ska behandla följande centrala innehåll:</p> <p><em>Natur och hållbar utveckling</em></p> <ul> <li>Hållbar produktutveckling. Råvaror, kemiska processer, energiförbrukning och avfallshantering.</li> </ul> <p><em>Människokroppen och hälsa</em></p> <ul> <li>Global hälsa och människors levnadsförhållanden med utgångspunkt i geografiska förutsättningar och statistik om folkhälsa.</li> <li>Cellens och individens genetik och evolutionära aspekter på detta. Gentekniska metoder och etiska perspektiv på bioteknikens möjligheter.</li> </ul> <p><em>Naturvetenskap i omvärlden</em></p> <ul> <li>Naturvetenskap bakom historiska och aktuella händelser i omvärlden samt naturvetenskapens betydelse för individ och samhälle.</li> <li>Etiska frågor med koppling till det naturvetenskapliga innehållet.</li> </ul> <p><em>Naturvetenskapliga arbetsmetoder</em></p> <ul> <li>Fältstudier, laborationer och simuleringar. Frågeställningar, planering, riskbedömning, utförande, värdering och redovisning med olika uttrycksformer.</li> <li>Granskning av information och argumentation som rör naturvetenskap. Skillnaden mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATU1B00X</h3>",
+      "code": "NATU1B00X",
+      "nameHeading": "<h2>Nivå 1b, 100 poäng</h2>",
+      "name": "Nivå 1b",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet naturkunskap på nivå 1b ska behandla följande centrala innehåll:</p> <p><em>Natur och hållbar utveckling</em></p> <ul> <li>Ekosystems bärkraft, biologisk mångfald, ekosystemtjänster och resursutnyttjande.</li> <li>Energi, klimat, produktion och konsumtion ur perspektivet hållbar utveckling.</li> <li>Hållbar produktutveckling. Råvaror, kemiska processer, energiförbrukning och avfallshantering.</li> </ul> <p><em>Människokroppen och hälsa</em></p> <ul> <li>Människokroppens behov av näringsämnen, energi och återhämtning. Hur kroppen påverkas av fysisk och psykisk belastning, till exempel träning, stress och missbruk.</li> <li>Sexualitet och sexuell hälsa samt hur dessa kan kopplas till relationer, identitet och samtycke.</li> <li>Global hälsa och människors levnadsförhållanden med utgångspunkt i geografiska förutsättningar och statistik om folkhälsa.</li> <li>Cellens och individens genetik och evolutionära aspekter på detta. Gentekniska metoder och etiska perspektiv på bioteknikens möjligheter.</li> </ul> <p><em>Naturvetenskap i omvärlden</em></p> <ul> <li>Naturvetenskap bakom historiska och aktuella händelser i omvärlden samt naturvetenskapens betydelse för individ och samhälle.</li> <li>Etiska frågor med koppling till det naturvetenskapliga innehållet.</li> <li>Naturvetenskap som tillämpas inom arbetslivet.</li> </ul> <p><em>Naturvetenskapliga arbetsmetoder</em></p> <ul> <li>Fältstudier, laborationer och simuleringar. Frågeställningar, planering, riskbedömning, utförande, värdering och redovisning med olika uttrycksformer.</li> <li>Granskning av information och argumentation som rör naturvetenskap. Skillnaden mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATU2000X</h3>",
+      "code": "NATU2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet naturkunskap på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Natur och hållbar utveckling</em></p> <ul> <li>Materians uppkomst och kretslopp. Organiska och oorganiska ämnen i naturen och industrin samt hur de används och påverkar miljön.</li> </ul> <p><em>Människokroppen och hälsa</em></p> <ul> <li>Kroppens reglering och några organsystem, däribland nerv-, hormon- och immunsystemet.</li> <li>Fysisk och psykisk hälsa. Förebyggande åtgärder, behandlingar och läkemedel.</li> <li>Artbildning och jämförande anatomi ur ett evolutionärt perspektiv.</li> <li>Cellbiologi och användning av levande organismer inom bioteknik, till exempel alger, bakterier och svampar.</li> </ul> <p><em>Naturvetenskap i omvärlden</em></p> <ul> <li>Naturvetenskap bakom historiska och aktuella händelser i omvärlden samt naturvetenskapens betydelse för individ och samhälle.</li> <li>Etiska frågor med koppling till det naturvetenskapliga innehållet, till exempel inom bioteknik.</li> </ul> <p><em>Naturvetenskapliga arbetsmetoder</em></p> <ul> <li>Fältstudier, laborationer och simuleringar. Formulering av frågeställningar, planering, riskbedömning, utförande, värdering och redovisning.</li> <li>Granskning av information och argumentation som rör naturvetenskap. Skillnaden mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om naturen, människokroppen och naturvetenskapen i omvärlden och förklarar på ett <strong>enkelt</strong> sätt naturvetenskapliga samband.</p> <p>Eleven för <strong>enkla</strong> resonemang i frågor som rör hållbar utveckling och hälsa. Eleven underbygger sina resonemang med information från relevanta källor. Eleven presenterar <strong>enkla</strong> argument för och emot tänkbara ställningstaganden.</p> <p>Eleven genomför på ett säkert och <strong>i huvudsak systematiskt</strong> sätt naturvetenskapliga undersökningar. Eleven värderar och redovisar sina undersökningar på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven för <strong>enkla</strong> resonemang om naturvetenskapens betydelse för människors levnadsvillkor och samhällens framväxt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om naturen, människokroppen och naturvetenskapen i omvärlden och förklarar på ett <strong>utvecklat</strong> sätt naturvetenskapliga samband.</p> <p>Eleven för <strong>utvecklade</strong> resonemang i frågor som rör hållbar utveckling och hälsa. Eleven underbygger sina resonemang med information från relevanta källor. Eleven presenterar <strong>utvecklade</strong> argument för och emot tänkbara ställningstaganden.</p> <p>Eleven genomför på ett säkert och <strong>systematiskt</strong> sätt naturvetenskapliga undersökningar. Eleven värderar och redovisar sina undersökningar på ett <strong>fungerande</strong> sätt.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om naturvetenskapens betydelse för människors levnadsvillkor och samhällens framväxt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om naturen, människokroppen och naturvetenskapen i omvärlden och förklarar på ett <strong>välutvecklat</strong> sätt naturvetenskapliga samband.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang i frågor som rör hållbar utveckling och hälsa. Eleven underbygger sina resonemang med information från relevanta källor. Eleven presenterar <strong>välutvecklade</strong> argument för och emot tänkbara ställningstaganden.</p> <p>Eleven genomför på ett säkert, <strong>systematiskt och genomarbetat</strong> sätt naturvetenskapliga undersökningar. Eleven värderar och redovisar sina undersökningar på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om naturvetenskapens betydelse för människors levnadsvillkor och samhällens framväxt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.056Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "RESE",
+  "name": "Reservkraftsystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:102",
+  "nameHeading": "<h2>Reservkraftsystem</h2>",
+  "description": "<p>Samhället är beroende av en fungerande energiförsörjning för att tillgodose energibehoven i byggnader, industrier och transporter. Samhällets energisystem måste därför ha en god beredskap för störd drift. Större fel, haverier eller avbrott i energiförsörjningen kan leda till allvarliga konsekvenser för miljö, hälsa och ekonomi. Ämnet reservkraftsystem behandlar drift och underhåll av anläggningar, system och komponenter som används för reservkraft.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet reservkraftsystem ska syfta till att eleverna utvecklar förmåga att arbeta med drift och underhåll av reservkraftsystem. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om uppbyggnad av och funktion hos reservkraftsystem samt deras ingående komponenter och utrustning. Undervisningen ska förbereda eleverna för tekniskt arbete inom industriella miljöer med höga säkerhetskrav. Eleverna ska därför ges möjlighet att utveckla förmåga att planera, dokumentera och utvärdera sitt arbete samt ett systematiskt, säkert och problemlösande arbetssätt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg, instrument och utrustning. Eleverna ska även ges möjlighet att utveckla förmåga att tolka och använda teknisk dokumentation och standarder och att arbeta säkert i enlighet med lagar och andra bestämmelser inom området. Eleverna ska även ges möjlighet att utveckla förmåga att använda fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom området.</p> <p>Undervisningen ska leda till att eleverna utvecklar system- och processförståelse samt förmåga att identifiera, hantera och undersöka system och komponenter. I undervisningen ska både teoretiska och praktiska moment ingå.</p> <h5><em>Undervisningen i ämnet reservkraftsystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om drift och underhåll av anläggningar, system och komponenter inom reservkraft.</li> <li>Förmåga att identifiera system och komponenter med hjälp av teknisk dokumentation.</li> <li>Förmåga att utföra arbetsuppgifter inom drift och underhåll av reservkraftsystem.</li> <li>Förmåga att hantera verktyg, instrument och utrustning.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller säkerhet och arbetsmiljö.</li> <li>Förmåga att planera, dokumentera och utvärdera sitt arbete.</li> </ul><h3>Nivåer i ämnet reservkraftsystem</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RESE1000X</h3>",
+      "code": "RESE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet reservkraftsystem på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Uppbyggnad av och funktion hos reservkraftsystem</em></p> <ul> <li>Introduktion till reservkraftsystem, däribland hur dieselmotor-, gasturbin- och batterianläggningar samt mobila anläggningar är uppbyggda och fungerar.</li> <li>Förbränningsmotorer, till exempel vändkolv-, rotorkolv- och turbinmotorer.</li> <li>Grundläggande förbränningsteknik och exempel på vanligt förekommande bränslen samt deras miljöpåverkan. Systemens luftbehov, tändning, avgaser, smörjmedel och fetter.</li> <li>Två- och fyrtaktsprincipen för kolvmotorer, gasväxling, överladdning och kompression.</li> <li>Hjälpsystem, däribland hur kyl-, smörjolje-, bränsle- och startsystem är uppbyggda.</li> <li>Elsystem och ellära. Infasning och driftoptimering med motor- och generatorberäkningar.</li> </ul> <p><em>Drift och underhåll av reservkraftsystem</em></p> <ul> <li>Planering och genomförande av vanligt förekommande arbeten inom drift och underhåll, till exempel övervakning, provning, kontroller, uppstart, infasning, drift och avställning av system.</li> <li>Användning och skötsel av vanligt förekommande verktyg, instrument och utrustning.</li> </ul> <p><em>Dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom reservkraftsystem, till exempel tolkning och användning av instruktioner, ritningar, symboler, standarder, system- och funktionsbeskrivningar. Scheman, däribland krets- och logikscheman.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet.</li> <li>Planering, dokumentation och utvärdering av eget arbete.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RESE2000X</h3>",
+      "code": "RESE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet reservkraftsystem på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Uppbyggnad av och funktion hos reservkraftsystem</em></p> <ul> <li>Fördjupning inom drift och underhåll av valt reservkraftsystem vid olika driftfall.</li> <li>Fördjupning inom system och komponenter för styrning, reglering och övervakning.</li> <li>Service, felsökning och underhåll av valt reservkraftsystem med dess hjälp- och elsystem.</li> </ul> <p><em>Drift och underhåll av reservkraftsystem</em></p> <ul> <li>Planering och genomförande av arbeten inom service, felsökning och underhåll av reservkraftsystem, till exempel reparation eller byte av lager, filter, skruvförband, ventiler, givare, vakter och tätningar.</li> <li>Användning och skötsel av verktyg, instrument och utrustning inom valt reservkraftsystem.</li> </ul> <p><em>Dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom reservkraftsystem, till exempel användning och upprättande av instruktioner, ritningar, krets- och logikscheman, symboler, standarder, system- och funktionsbeskrivningar.</li> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom valt reservkraftsystem.</li> <li>Planering, dokumentation och utvärdering av eget arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur drift och underhåll av anläggningar, system och komponenter inom reservkraft fungerar.</p> <p>Eleven identifierar med <strong>viss säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven utför <strong>enkla</strong> arbetsuppgifter inom drift och underhåll av reservkraftsystem.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>visst</strong> handlag.</p> <p>Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser som gäller säkerhet och arbetsmiljö.</p> <p>Eleven planerar och gör en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete med <strong>enkla</strong> omdömen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur drift och underhåll av anläggningar, system och komponenter inom reservkraft fungerar.</p> <p>Eleven identifierar med <strong>säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven utför <strong>relativt komplexa</strong> arbetsuppgifter inom drift och underhåll av reservkraftsystem.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>gott</strong> handlag.</p> <p>Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser som gäller säkerhet och arbetsmiljö.</p> <p>Eleven planerar och gör en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete med <strong>utvecklade</strong> omdömen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur drift och underhåll av anläggningar, system och komponenter inom reservkraft fungerar.</p> <p>Eleven identifierar med <strong>god säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven utför <strong>komplexa</strong> arbetsuppgifter inom drift och underhåll av reservkraftsystem.</p> <p>Eleven hanterar verktyg, instrument och utrustning med <strong>mycket gott</strong> handlag.</p> <p>Eleven utför praktiskt arbete i enlighet med lagar och andra bestämmelser som gäller säkerhet och arbetsmiljö.</p> <p>Eleven planerar och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete med <strong>välutvecklade</strong> omdömen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.072Z"
+}

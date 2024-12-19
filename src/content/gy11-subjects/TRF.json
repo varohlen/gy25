@@ -1,0 +1,67 @@
+{
+  "code": "TRF",
+  "name": "Trafikövervakning och signalsystem – spårfordon",
+  "englishName": "Surveillance and signal systems – rail vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-12-22",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:41",
+  "skolfsAndring": "2022:304",
+  "nameHeading": "<h2>Trafikövervakning och signalsystem – spårfordon</h2>",
+  "description": "<p>Ämnet trafikövervakning och signalsystem – spårfordon behandlar de datorbaserade system som kontrollerar och övervakar spårfordons trafikrörelser och säkerhet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska syfta till att eleverna utvecklar förståelse av hur systemen för trafikövervakning är uppbyggda och fungerar för spårfordon och trafikledning. Undervisningen ska leda till att eleverna utvecklar förståelse av den kommunikationsplattform som förvaltar och kontrollerar informationsflödet inom övervakningssystemen och övriga system i spårfordon och dess trafikmiljö. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskap om de krav som ställs på övervakningssystemen för effektiv och tillförlitlig drift samt kunskap om de system som övervakar trafikrörelser.</p><p>Undervisningen i ämnet ska leda till att eleverna utvecklar färdigheter i att hantera övervakningssystemen vid inträde och utträde från underhållsdepåer. Vidare ska undervisningen leda till att eleverna utvecklar färdigheter i att planera och utföra underhåll på övervakningssystemens ingående delar i enlighet med säkerhetsföreskrifter.</p><h4>Undervisningen i ämnet trafikövervakning och signalsystem – spårfordon ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förståelse av uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem.</li> <li>Kunskap om övervakningssystemens säkerhet och tillförlitlighet.</li> <li>Kunskap om övervakningssystemens förebyggande och avhjälpande underhåll.</li> <li>Kunskap om övervakningssystemens ingående delar och komponenter.</li> <li>Kunskap om applikationsprogram i trafikövervakningssystem.</li> <li>Färdighet i att hantera och vårda verktyg och teknisk utrustning.</li> <li>Färdigheter i att tolka systemdokumentation, instruktioner och att dokumentera genomfört arbete.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Trafikövervakning och signalsystem – spårfordon, 100 poäng, som bygger på kursen programmerbara datorsystem – spårfordon.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: TRFTRA0</h3>",
+      "code": "TRFTRA0",
+      "nameHeading": "<h2>Trafikövervakning och signalsystem – spårfordon, 100 poäng</h2>",
+      "name": "Trafikövervakning och signalsystem – spårfordon",
+      "englishName": "Surveillance and signal systems – rail vehicles",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Uppbyggnad och syftet med trafikövervakningssystem.</li> <li>Förekommande övervakning och kontrollsystem, till exempel ERTMS och ATC.</li> <li>Övervakningssystemens komponenter och dess uppbyggnads roll och funktion inom fordon och infrastruktur.</li> <li>Kommunikationsplattformen hos trafikövervakningssystem.</li> <li>Loggningssystem för trafikhändelser.</li> <li>Övervakning och säkerhetssystemens funktion, effektivitet och tillförlitlighet.</li> <li>Övervakningssystemets betydelse för systemtester och kalibrering av givare.</li> <li>Applikationsprogram och kretsscheman.</li> <li>Verktyg och arbetsutrustning.</li> <li>Scheman, ritningar och övrig dokumentation över komponenter och system.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden. Vidare redogör eleven <strong>översiktligt</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet. Dessutom redogör eleven <strong>översiktligt</strong> för de system som övervakar trafikrörelser.</p><p>Eleven planerar och utför<strong> i samråd </strong>med handledare och med<strong> tillfredsställande </strong>resultat underhåll på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter. Eleven hanterar också <strong>i samråd</strong> med handledare övervakningssystemet <strong>tillfredsställande</strong> enligt regler för in- och utpassage till depå.</p><p>I arbetet hanterar eleven <strong>med</strong> <strong>viss säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med viss säkerhet</strong> dessa i enlighet med instruktioner. Eleven gör en <strong>enkel </strong>dokumentation över utfört arbete enligt regler och branschstandard.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden. Vidare redogör eleven <strong>utförligt</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet. Dessutom redogör eleven <strong>utförligt</strong> för de system som övervakar trafikrörelser.</p><p>Eleven planerar och utför<strong> efter samråd </strong>med handledare underhåll med <strong>tillfredsställande</strong> resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter. Eleven hanterar också <strong>efter samråd</strong> med handledare övervakningssystemet <strong>tillfredsställande</strong> enligt regler för in- och utpassage till depå.</p><p>I arbetet hanterar eleven <strong>med säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med</strong> <strong>säkerhet</strong> dessa i enlighet med instruktioner. Eleven gör en <strong>noggrann </strong>dokumentation över utfört arbete enligt regler och branschstandard.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden. Vidare redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet. Dessutom redogör eleven <strong>utförligt</strong> <strong>och nyanserat</strong> för de system som övervakar trafikrörelser.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare underhåll med <strong>gott </strong>resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter. Eleven hanterar också <strong>efter samråd</strong> med handledare övervakningssystemet på ett <strong>gott</strong> sätt enligt regler för in- och utpassage till depå.</p><p>I arbetet hanterar eleven <strong>med säkerhet</strong> verktyg och teknisk utrustning samt vårdar <strong>med säkerhet</strong> dessa i enlighet med instruktioner. Eleven gör en <strong>noggrann och utförlig</strong> dokumentation över utfört arbete enligt regler och branschstandard.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.186Z"
+}

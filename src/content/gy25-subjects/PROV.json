@@ -1,0 +1,77 @@
+{
+  "code": "PROV",
+  "name": "Produktionsutveckling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:558",
+  "nameHeading": "<h2>Produktionsutveckling</h2>",
+  "description": "<p>Ämnet produktionsutveckling behandlar produktionsprocessen från beredning till färdig produkt och hur alla delar i processen behöver samverka för att skapa en fungerande produktion. Det omfattar även digitalisering av industrin med fokus på utveckling av produktion. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsutveckling ska syfta till att eleverna utvecklar ett helhetsperspektiv på produktionsprocessen, från idéframtagning till slutgiltig produkt. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att lösa problem genom teori och praktik i samverkan. Undervisningen ska leda till att eleverna utvecklar förståelse av tillverkningsprocesser och deras förädlingssteg. Vidare ska eleverna ges möjlighet att utveckla förståelse av produktionsberedning samt av sambandet mellan en produkts design, funktion och produktion. Eleverna ska också ges möjlighet att utveckla förståelse av samband mellan produktion och hållbar utveckling.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla specialiserade kunskaper om styrning och ledning av produktionsflöden. Eleverna ska också ges möjlighet att utveckla kunskaper om hur effektiviseringar för en konkurrenskraftig produktion med föränderliga behov från interna och externa kunder kan genomföras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av driftsäkerhet, underhåll och ständiga förbättringar.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av individens ansvar i arbetssituationer och dess betydelse för slutresultatet. Dessutom ska undervisningen lämna utrymme för diskussion om och reflektion över etiska frågor och olika handlingsalternativ inom produktionsutveckling.</p> <h5><em>Undervisningen i ämnet produktionsutveckling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om produktionsprocessens olika delar och hur de samverkar.</li> <li>Förmåga att genomföra produktionsberedning.</li> <li>Förmåga att analysera produktionsflöden.</li> <li>Kunskaper om driftsäkerhet.</li> </ul><h3>Nivåer i ämnet produktionsutveckling</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROV100TX</h3>",
+      "code": "PROV100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutveckling på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen</em></p> <ul> <li>Helhetens betydelse för att hitta grundläggande orsaker till problem i produktionsprocessen samt hur teori och praktik samverkar vid problemlösning.</li> <li>Produktionsprocessens utformning för en konkurrenskraftig och hållbar produktion med förslag till förbättringar.</li> <li>Organisationsenheter, tillverkningsprocesser, produktionsutrustning och de förädlingssteg en produkt behöver genomgå i olika produktionslinjer.</li> <li>Kommunikation och samarbete samt deras betydelse för produktion och organisation.</li> </ul> <p><em>Produktionsberedning</em></p> <ul> <li>Planering och genomförande av produktionsberedning.</li> <li>Utvärdering av produktionsberedningen. Hur förändring av en produkts design och funktion påverkar tillverkning och produktion.</li> </ul> <p><em>Produktionsflöden</em></p> <ul> <li>Produktionsflöden och olika sätt att styra och leda produktionen.</li> <li>Genomförande av värdeflödesanalyser.</li> <li>Betydelsen av material, metod och arbetssätt för ett hållbart och fungerande produktionsflöde.</li> <li>Uppbyggnad av produktionslinjer, produktionsutrustning och arbetsplatsutformning.</li> <li>Genomförande av produktionsekonomiska beräkningar.</li> </ul> <p><em>Underhåll och driftsäkerhet.</em></p> <ul> <li>Relevanta begrepp inom underhåll och driftsäkerhet, till exempel avhjälpande, förebyggande, förbättrande och prediktivt underhåll.</li> <li>Planering och styrning av underhåll.</li> <li>Samband mellan driftsäkerhet och tillverkningens totalekonomi.</li> <li>Metoder för ständiga förbättringar.</li> <li>Säkerhetsföreskrifter för valt produktionsområde.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROV200TX</h3>",
+      "code": "PROV200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsutveckling på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen</em></p> <ul> <li>Helhetens betydelse för att hitta grundläggande orsaker till problem i produktionsprocessen samt hur teori och praktik samverkar vid problemlösning.</li> <li>Kartläggning och analys av produktionsprocessen och dess delar samt förbättringsförslag.</li> <li>Produktionsenheters organisering och hur olika delar av organisationen arbetar med produktion på ett hållbart och konkurrenskraftigt sätt.</li> <li>Kommunikation och samarbete mellan olika sektioner inom produktionsprocessen, till exempel kunder, leverantörer och olika personalgrupper.</li> </ul> <p><em>Produktionsberedning</em></p> <ul> <li>Planering och genomförande av produktionsberedning med fokus på design, produktion och ekonomi.</li> <li>Utvärdering av produktionsberedning samt framställning och analys av beredning av produkt eller process.</li> </ul> <p><em>Produktionsflöden</em></p> <ul> <li>Uppbyggnad av produktionslinje, däribland fabrikslayout och arbetsplatsutformning till stöd för ökad effektivitet och förbättrad arbetsmiljö.</li> <li>Värdeflödesanalys av material- och informationsflöde.</li> <li>Arbetssätt för optimering och skapande av stabila processer för en konkurrenskraftig och hållbar produktion.</li> <li>Genomförande av produktionsekonomiska beräkningar samt slutsatser och analyser av resultatet.</li> </ul> <p><em>Underhåll och driftsäkerhet</em></p> <ul> <li>Beredning och planering av underhållsupplägg samt skapande av standarder för driftsäkerhet.</li> <li>Samband mellan driftsäkerhet och tillverkningens totalekonomi.</li> <li>Effektivitetsstrategier för ökad driftsäkerhet genom standarder och ständiga underhållsförbättringar av produkt och process.</li> <li>Fysisk, organisatorisk och social arbetsmiljö, däribland ergonomi, stress och arbetsplatsutformning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>övergripande</strong> för produktionsprocessens utvecklingssteg samt ger <strong>enkla</strong> förslag på hur processen kan förbättras.</p> <p>Eleven planerar, genomför och utvärderar produktionsberedning med <strong>godtagbar</strong> kvalitet.</p> <p>Eleven analyserar produktionsflöden på ett <strong>systematiskt</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om driftsäkerhet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för produktionsprocessens utvecklingssteg samt ger <strong>välgrundade</strong> förslag på hur processen kan förbättras.</p> <p>Eleven planerar, genomför och utvärderar produktionsberedning med <strong>god</strong> kvalitet.</p> <p>Eleven analyserar produktionsflöden på ett <strong>systematiskt och genomarbetat</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om driftsäkerhet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för produktionsprocessens utvecklingssteg samt ger <strong>välgrundade och nyanserade</strong> förslag på hur processen kan förbättras.</p> <p>Eleven planerar, genomför och utvärderar produktionsberedning med <strong>mycket god</strong> kvalitet.</p> <p>Eleven analyserar produktionsflöden på ett <strong>systematiskt och effektivt</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om driftsäkerhet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.067Z"
+}

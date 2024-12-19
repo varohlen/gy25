@@ -1,0 +1,106 @@
+{
+  "code": "DANE",
+  "name": "Dansteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:138",
+  "nameHeading": "<h2>Dansteknik</h2>",
+  "description": "<p>Ämnet dansteknik är till sin karaktär konstnärligt och innefattar träning i olika genrer och stilar inom scenkonstnärlig dans. Ämnet behandlar även hälsoaspekter med anatomi och träningslära.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dansteknik ska syfta till att eleverna utvecklar fysiska färdigheter i att använda dansteknik och ett konstnärligt förhållningssätt i utövandet av dans. Kontinuerlig träning är centralt i dansteknik. Eleverna ska därför ges möjlighet att utveckla och utforska danstekniska färdigheter genom att träna det kroppsliga minnet och utveckla sin förmåga att uppfatta nyanser i rörelseuttryck samt färdigheter i att utföra dessa. Undervisningen ska också leda till att eleverna närmar sig ett yrkesmässigt förhållningssätt till teknikträningen. Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i dansämnen aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Eleverna ska ges möjlighet att utveckla förståelse av dansens olika komponenter i relation till varandra samt färdigheter i utförandet av dessa. De ska också ges möjlighet att utveckla förmåga att gestalta dans med musikalisk lyhördhet och i samspel med andra samt förmåga att använda den rörelsevokabulär som är knuten till de olika genrerna. Genom undervisningen ska eleverna även ges möjlighet att utveckla förståelse av hur dansteknik och träning metodiskt byggs upp samt förmåga att ta ansvar för sin danstekniska utveckling.</p> <p>Eleverna ska ges möjlighet att utveckla medvetenhet om sina egna mentala och fysiska möjligheter. Anatomins begrepp ska framför allt tränas genom praktisk användning vid träningstillfällena. Den fysiska träningen medför skaderisker. För att minimera dessa ska undervisningen leda till att eleverna utvecklar ett skadeförebyggande förhållningssätt samt kunskaper om innebörden av hållbar dansträning. Eleverna ska också ges möjlighet att utveckla förståelse av arbetsmiljöfrågor knutna till dansteknikträning och vikten av ändamålsenliga lokaler.</p> <p>Undervisningen ska innehålla praktiskt undersökande och reflekterande arbetsmetoder. Utifrån generell och individuell återkoppling ska eleverna ges möjlighet att reflektera över sin egen kunskapsutveckling i dansteknik. Undervisningen ska betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <h5><em>Undervisningen i ämnet dansteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utöva dans och ta ansvar för sin danstekniska färdighetsutveckling.</li> <li>Förmåga att reflektera över och utveckla sin dansteknik.</li> <li>Färdigheter i att utöva dans i relation till olika danskomponenter och till ett konstnärligt förhållningssätt.</li> <li>Förmåga att i sin träning omsätta kunskaper om hållbar dansträning.</li> </ul><h3>Nivåer i ämnet dansteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DANE1000X</h3>",
+      "code": "DANE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Träningsprocessens olika delar.</li> <li>Introduktion till mental träning och träning av fysiska färdigheter, systematisk repetition och memorering av rörelser.</li> <li>Hur teoretiska kunskaper används i det praktiska och konstnärliga utförandet.</li> <li>Grundläggande anatomisk funktionell placering.</li> <li>Introduktion till rörelsevokabulär, formspråk och begrepp.</li> <li>Hur skelett och muskler samverkar.</li> </ul> <p><em>Reflektion</em></p> <ul> <li>Enkla metoder för reflektion över träningsprocessen.</li> <li>Uppföljning av den egna utvecklingen i dansteknik utifrån olika bedömningsmetoder och återkoppling.</li> </ul> <p><em>Danskomponenter</em></p> <ul> <li>Introduktion till hur danskomponenterna kropp, spatial förmåga, tid och rörelsedynamik förhåller sig till danstekniken utifrån genrekontext. Konstnärligt förhållningssätt till danskomponenterna och danstekniken.</li> <li>Hur musikens puls, rytm och taktarter följs i dans.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Introduktion till mental och fysisk återhämtning, till exempel vila, kostens betydelse för träning och stresshantering.</li> <li>Arbetsmiljöns betydelse för dansträningen.</li> <li>Introduktion till hållbarhet i relation till kroppen.</li> <li>Grundläggande arbete med kompletterande förebyggande träningsprogram.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DANE2000X</h3>",
+      "code": "DANE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Träningsprocessens olika delar i relation till mental träning och fysiska färdigheter.</li> <li>Systematisk repetition och memorering av utvecklade övningar i relation till olika danskomponenter, däribland kropp, spatial förmåga, tid och rörelsedynamik.</li> <li>Samband mellan teori och praktiskt och konstnärligt utförande.</li> <li>Tillämpning av anatomiskt funktionella placeringar.</li> <li>Tillämpning av rörelsevokabulär, formspråk och begrepp.</li> <li>Hur kunskaper om anatomi tillämpas i dansteknik.</li> </ul> <p><em>Reflektion</em></p> <ul> <li>Praktisk reflektion genom dans samt teoretisk reflektion, däribland om placering, spatial förmåga, tid och rörelsedynamik.</li> <li>Sambandet mellan träningsprocessen och den danstekniska utvecklingen.</li> <li>Identifiering av styrkor och utvecklingsområden utifrån reflektion och återkoppling.</li> </ul> <p><em>Danskomponenter</em></p> <ul> <li>Tillämpning av danskomponenterna kropp, spatial förmåga, tid och rörelsedynamik i förhållande till varandra, i enkla övningar. Konstnärligt förhållningssätt till danskomponenterna och danstekniken.</li> <li>Relationen mellan dans och musik.</li> <li>Tillämpning av stildrag och tydlighet i rörelser utifrån genrekontext.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Träning i mental och fysisk återhämtning.</li> <li>Dansträning på ett för kroppen hållbart sätt.</li> <li>Skapande av kompletterande träningsprogram utifrån den egna kroppens förutsättningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DANE3000X</h3>",
+      "code": "DANE3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansteknik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Strategier och metoder för eget ansvarstagande för träningsprocessen i relation till mental träning och fysiska färdigheter.</li> <li>Systematisk repetition av komplexa övningar i relation till olika danskomponenter, däribland kropp, spatial förmåga, tid och rörelsedynamik.</li> <li>Tillämpning av samband mellan teoretiska aspekter och det praktiska och konstnärliga utförandet.</li> <li>Utforskande av anatomiskt funktionella placeringar.</li> <li>Utforskande av rörelsevokabulär, formspråk och begrepp.</li> <li>Fördjupad träning i funktionell anatomi.</li> </ul> <p><em>Reflektion</em></p> <ul> <li>Praktisk reflektion genom dans och teoretisk reflektion över den egna dansförmågan, däribland om tydlighet i rörelse och stilkänsla utifrån genrekontext.</li> <li>Reflektion utifrån egen individuell målsättning och återkoppling från andra.</li> </ul> <p><em>Danskomponenter</em></p> <ul> <li>Tillämpning och utforskande av danskomponenterna kropp, spatial förmåga, tid och rörelsedynamik i förhållande till varandra, i komplexa övningar. Konstnärligt förhållningssätt till danskomponenterna och danstekniken.</li> <li>Utforskande av relationen mellan dans och musik. Utvecklat arbete med stildrag och tydlighet med dansteknisk nyansering och artikulation i rörelse.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Hållbar dansträning genom fördjupat arbete med mental och fysisk återhämtning.</li> <li>Skapande och tillämpning av kompletterande träningsprogram utifrån den egna kroppens förutsättningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DANE4000X</h3>",
+      "code": "DANE4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dansteknik på nivå 4 ska behandla följande centrala innehåll:</p> <p><em>Teknik och träning</em></p> <ul> <li>Självständig tillämpning av träningsprocessen i relation till mental träning och fysiska färdigheter.</li> <li>Systematisk repetition av övningar med utvecklad komplexitet i relation till olika danskomponenter, däribland kropp, spatial förmåga, tid och rörelsedynamik.</li> <li>Tillämpning av samband mellan teoretiska aspekter och det praktiska och konstnärliga utförandet i vald genre.</li> <li>Tillämpning av anatomisk, funktionell placering.</li> <li>Fördjupning av rörelsevokabulär, formspråk och begrepp, däribland genom sammansättning av komplexa fraser och danstekniska övningar.</li> </ul> <p><em>Reflektion</em></p> <ul> <li>Självständig reflektion, däribland om kontrast och variation kopplat till danskomponenterna och interpretation.</li> </ul> <p><em>Danskomponenter</em></p> <ul> <li>Variation av danskomponenterna kropp, spatial förmåga, tid och rörelsedynamik i förhållande till varandra, i komplexa övningar. Konstnärligt förhållningssätt till danskomponenterna och danstekniken.</li> <li>Förfinat arbete med stildrag och tydlighet i rörelser utifrån genrekontext.</li> <li>Självständigt utforskande av dynamisk och musikalisk variation.</li> </ul> <p><em>Hälsa och arbetsmiljö</em></p> <ul> <li>Hållbar dansträning genom fördjupat arbete med mental och fysisk återhämtning.</li> <li>Kompletterande träning efter den egna kroppens behov och förutsättningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven utövar dans med <strong>viss</strong> skicklighet och tar ansvar för sin färdighetsutveckling genom att träna för att utveckla, förfina och upprätthålla sin danstekniska färdighet på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven gör <strong>enkla</strong> reflektioner över den egna danstekniska utvecklingen och arbetar utifrån sina reflektioner för att förbättra sin dansteknik.</p> <p>Eleven utövar dans i relation till danskomponenterna med <strong>viss</strong> dansteknisk nyansering och artikulation. Eleven förhåller sig konstnärligt i utövandet av dans.</p> <p>Eleven omsätter kunskaper om hållbar dansträning i sin träning på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven utövar dans med <strong>god</strong> skicklighet och tar ansvar för sin färdighetsutveckling genom att träna för att utveckla, förfina och upprätthålla sin danstekniska färdighet på ett <strong>fungerande</strong> sätt.</p> <p>Eleven gör <strong>välgrundade</strong> reflektioner över den egna danstekniska utvecklingen och arbetar utifrån sina reflektioner för att förbättra sin dansteknik.</p> <p>Eleven utövar dans i relation till danskomponenterna med <strong>god</strong> dansteknisk nyansering och artikulation. Eleven förhåller sig konstnärligt i utövandet av dans.</p> <p>Eleven omsätter kunskaper om hållbar dansträning i sin träning på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven utövar dans med <strong>mycket god</strong> skicklighet och tar ansvar för sin färdighetsutveckling genom att träna för att utveckla, förfina och upprätthålla sin danstekniska färdighet på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> reflektioner över den egna danstekniska utvecklingen och arbetar utifrån sina reflektioner för att förbättra sin dansteknik.</p> <p>Eleven utövar dans i relation till danskomponenterna med <strong>mycket god</strong> dansteknisk nyansering och artikulation. Eleven förhåller sig konstnärligt i utövandet av dans.</p> <p>Eleven omsätter kunskaper om hållbar dansträning i sin träning på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.980Z"
+}

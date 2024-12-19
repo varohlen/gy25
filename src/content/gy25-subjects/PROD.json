@@ -1,0 +1,78 @@
+{
+  "code": "PROD",
+  "name": "Produktionsmetoder",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:97",
+  "nameHeading": "<h2>Produktionsmetoder</h2>",
+  "description": "<p>Ämnet produktionsmetoder behandlar bearbetningsmetoder och utrustning som används inom industriell tillverkning. Ämnet handlar också om säkerhetsföreskrifter och om hur utrustning underhålls samt hur dess funktion kontrolleras och effektiviseras.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsmetoder ska syfta till att eleverna utvecklar kunskaper om metoder, teknik, material och utrustning som används inom produktion och industriella processer. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om utrustningens användningsområden, konstruktion och funktion. Undervisningen ska leda till att eleverna utvecklar förmåga att läsa och förstå produktionsunderlag samt att välja rätt produktionsmetod i förhållande till produkt, material och produktionsutrustning. Undervisningen ska leda till att eleverna utvecklar förmåga att mäta, dokumentera och bedöma kvaliteten på det utförda arbetet. Eleverna ska också ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att med hjälp av relevanta begrepp diskutera, analysera och reflektera över teknikens möjligheter. Därigenom ska eleverna ges möjlighet att utveckla förmåga att lösa produktionstekniska problem. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att hantera produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning. Undervisningen ska bidra till att eleverna utvecklar förståelse av hur verktyg och system för processövervakning och kommunikation mellan utrustningar styrs och övervakas inom och mellan olika produktionsenheter.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett systematiskt och problemlösande arbetssätt. Undervisningen ska varva teoretiska moment med praktiska och utgå från verklighetsnära situationer. Dessutom ska undervisningen lämna utrymme för diskussion om och reflektion över etiska frågor om relationen mellan produktionsmetoder och hållbar utveckling samt om olika handlingsalternativ inom industriell tillverkning.</p> <h5><em>Undervisningen i ämnet produktionsmetoder ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om utrustning, produktionsmetoder och industriella processer.</li> <li>Förmåga att läsa och tolka produktionsunderlag samt att välja rätt metod i förhållande till det som ska tillverkas eller förädlas.</li> <li>Färdigheter i att planera och genomföra arbete i manuell och automatiserad produktionsutrustning i enlighet med säkerhetsföreskrifter inom området.</li> <li>Förmåga att mäta, dokumentera och bedöma kvaliteten på utfört arbete samt använda relevanta begrepp.</li> </ul><h3>Nivåer i ämnet produktionsmetoder</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROD1000X</h3>",
+      "code": "PROD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsmetoder på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Metoder och verktyg</em></p> <ul> <li>Introduktion till olika produktionsmetoder och utrustning samt olika produktionsmetoders användningsområden.</li> <li>Val av utrustning, verktyg och metoder för att uppnå rätt kvalitet på tillverkade produkter.</li> <li>Introduktion till processövervakning och kommunikation mellan utrustningar.</li> <li>Produktionsunderlag och hur de används.</li> <li>Hur material genom olika produktionsmetoder och processer förädlas till en färdig produkt.</li> <li>Användning av både manuell och automatiserad produktionsutrustning.</li> <li>Framtagning av utkast till planerings-, berednings- och tillverkningsunderlag för produktion.</li> <li>Tillämpning av metoder för bearbetning, formning, sammanfogning och additiv tillverkning.</li> <li>Ergonomi i arbetet.</li> <li>Terminologi för olika produktionsmetoder.</li> <li>Symboler, beteckningar och märkningar.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Säkerhetsföreskrifter och säkerhetsrisker vid tillverkning i valda produktionsmetoder och hur dessa risker kan minimeras.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Hur eventuella problem i produktionsutrustning upptäcks och åtgärdas.</li> <li>Introduktion till funktions- och kvalitetskontroll, mätningar och beräkningar samt dokumentation av dessa.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PROD2000X</h3>",
+      "code": "PROD2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsmetoder på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Metoder och verktyg</em></p> <ul> <li>Vanligt förekommande metoder, tekniker och användningsområden för produktionsutrustning och kringutrustning.</li> <li>Hantering och underhåll av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner och styrteknisk utrustning, i enlighet med säkerhetsföreskrifter.</li> <li>Funktion och konstruktion hos enklare produktionsutrustning och kringutrustning.</li> <li>Processövervakning och kommunikation mellan utrustning samt industritekniska systems uppbyggnad.</li> <li>Val av material, metod och verktyg utifrån olika produktionsunderlag.</li> <li>Materials förändrade egenskaper vid olika produktionsmetoder samt olika materials påverkan på produktionsutrustningen.</li> <li>Användning av både manuell och automatiserad produktionsutrustning.</li> <li>Upprättande av planerings-, berednings- och tillverkningsunderlag för produktion.</li> <li>Ergonomi för ett hållbart arbetsliv.</li> <li>Ekonomisk, social och miljömässig hållbarhet i produktion.</li> <li>Funktions- och kvalitetskontroll, tillämpade mätningar och beräkningar samt dokumentation av dessa.</li> <li>Terminologi, symboler, beteckningar och märkningar.</li> </ul> <p><em>Säkerhet</em></p> <ul> <li>Tillämpning av metoder för bearbetning, formning, sammanfogning och additiv tillverkning i enlighet med säkerhetsföreskrifter.</li> <li>Dagligt underhåll av produktions- och kringutrustning i enlighet med säkerhetsföreskrifter.</li> </ul> <p><em>Problemlösning i produktion</em></p> <ul> <li>Felsökning av produktionsutrustning på ett säkert sätt.</li> <li>Hur eventuella problem i produktionsutrustning upptäcks och åtgärdas.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om utrustning, produktionsmetoder och industriella processer.</p> <p>Eleven tolkar produktionsunderlag och väljer lämplig produktionsmetod med <strong>viss säkerhet</strong>.</p> <p>Eleven planerar och genomför arbete i produktionsutrustning med <strong>viss säkerhet</strong> och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven mäter, dokumenterar och bedömer kvaliteten på utfört arbete med <strong>viss säkerhet</strong> och använder relevanta begrepp på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om utrustning, produktionsmetoder och industriella processer.</p> <p>Eleven tolkar produktionsunderlag och väljer lämplig produktionsmetod med <strong>säkerhet</strong>.</p> <p>Eleven planerar och genomför arbete i produktionsutrustning med <strong>säkerhet</strong> och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven mäter, dokumenterar och bedömer kvaliteten på utfört arbete med <strong>säkerhet</strong> och använder relevanta begrepp på ett <strong>fungerande</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om utrustning, produktionsmetoder och industriella processer.</p> <p>Eleven tolkar produktionsunderlag och väljer lämplig produktionsmetod med <strong>god säkerhet</strong>.</p> <p>Eleven planerar och genomför arbete i produktionsutrustning med <strong>god säkerhet</strong> och i enlighet med säkerhetsföreskrifter.</p> <p>Eleven mäter, dokumenterar och bedömer kvaliteten på utfört arbete med <strong>god säkerhet</strong> och använder relevanta begrepp på ett <strong>väl fungerande</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.064Z"
+}

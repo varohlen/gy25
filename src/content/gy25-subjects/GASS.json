@@ -1,0 +1,64 @@
+{
+  "code": "GASS",
+  "name": "Gassvetsning rör",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:245",
+  "nameHeading": "<h2>Gassvetsning rör</h2>",
+  "description": "<p>Ämnet gassvetsning rör behandlar sammanfogning av rör med gassvets och är till sin karaktär både praktiskt och teoretiskt. I ämnet utvecklas hantverkskunnande inom gassvetsning. Dessutom behandlar ämnet kvalitetsbedömning av resultat och skötsel av utrustningen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet gassvetsning rör ska syfta till att eleverna utvecklar förmåga att utföra gassvetsning av rör. Undervisningen ska leda till att eleverna utvecklar förmåga att svetsa olika material med utrustning anpassad för materialet. Därtill ska undervisningen leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller miljö och säkerhet samt om att förebygga och hantera brand i den egna arbetsmiljön. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbar utveckling. Produkt- och teknikutveckling inom arbetsområdet ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter inom arbetsområdet. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda ritningar, instruktioner och arbetsbeskrivningar samt utveckla kunskaper om föreskrifter och standarder inom verksamhetsområdet. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera material samt välja, använda och underhålla verktyg, maskiner och utrustning med hänsyn till ergonomi, hälsa och säkerhet. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>Undervisningen ska bedrivas så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, utrustning, verktyg och maskiner som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet gassvetsning rör ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om gassvetsning av rör samt om lagar och andra bestämmelser som gäller verksamhetsområdet.</li> <li>Förmåga att följa ritningar med tillhörande handlingar samt utföra svetsarbeten på ett säkert och hållbart sätt.</li> <li>Förmåga att hantera material samt välja, använda och underhålla utrustning, verktyg och maskiner.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet gassvetsning rör</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet VVS – installation.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GASS1000X</h3>",
+      "code": "GASS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet gassvetsning rör på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Arbetsprocessen vid gassvetsning av rör.</li> <li>Arbetsmetoder med maskiner och gasskärutrustning för bearbetning och fogförberedelser.</li> <li>Materiallära om stål och dess legeringar samt om tillsatsmaterial.</li> <li>Vanliga problem och formavvikelser vid gassvetsning.</li> <li>Egenskaper hos och förvaring av behållare för bränngaser och syre.</li> <li>Distribution av svetsgaser till arbetsplatser.</li> <li>Brandsäkerhet för skydd mot brand och brandgasspridning samt lagar och andra bestämmelser som gäller brandsäkerhet.</li> <li>Lagar och andra bestämmelser kopplade till yrkes- och arbetsområdet, till exempel branschregler.</li> <li>Kvalitetsnivåer och provmetoder för svetsförband samt kompetenskrav vid svetsning.</li> <li>Rättigheter och skyldigheter samt ansvarstagande på arbetsplatsen kopplat till arbetets utförande, till exempel behörigheter och licenser.</li> <li>Tolkning av ritningar.</li> <li>Tolkning av svetsdatablad som behandlar parametrar, till exempel val av munstycke för olika materialtjocklekar och lägen.</li> <li>Planering och organisering av arbetsplatsen vid gassvetsning på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Arbete med hänsyn till förbränningsprocessen, lågans reglering och temperaturzoner.</li> <li>Sammanfogning med gassvetsning med teknikerna från- och motsvets i förekommande positioner i horisontellt och vertikalt läge i tubrör.</li> <li>Håltagning till påstick och rörförgreningar med utrustning för gasskärning.</li> <li>Täthetsprovning, kontroller och dokumentation vid svetsarbeten.</li> <li>Svetsning och skärning i enlighet med bestämmelser som gäller arbetsmiljö, hälsa och säkerhet.</li> <li>Val och säker hantering av material.</li> <li>Val och säker användning samt underhåll av gassvetsutrustning, verktyg och maskiner.</li> <li>Användning av fackspråk i relation till arbetsuppgiften.</li> <li>Användning av facktermer på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>&ouml;versiktligt</strong> arbetsprocessen vid gassvetsning av r&ouml;r. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra best&auml;mmelser inom verksamhetsomr&aring;det.</p> <p>Eleven f&ouml;ljer ritningar med tillh&ouml;rande handlingar. Eleven utf&ouml;r svetsarbeten med <strong>godtagbart</strong> resultat. Eleven utv&auml;rderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> f&ouml;rslag p&aring; hur arbetet kan f&ouml;rb&auml;ttras. Eleven arbetar s&auml;kert och anv&auml;nder arbetsmetoder som fr&auml;mjar h&aring;llbar utveckling.</p> <p>Eleven hanterar material p&aring; ett s&auml;kert s&auml;tt utifr&aring;n givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag utrustning, verktyg och maskiner.</p> <p>Eleven anv&auml;nder fackspr&aring;k med <strong>viss s&auml;kerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss s&auml;kerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> arbetsprocessen vid gassvetsning av rör. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven följer ritningar med tillhörande handlingar. Eleven utför svetsarbeten med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag utrustning, verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> arbetsprocessen vid gassvetsning av rör. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven följer ritningar med tillhörande handlingar. Eleven utför svetsarbeten med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material på ett säkert sätt utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag utrustning, verktyg och maskiner.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.006Z"
+}

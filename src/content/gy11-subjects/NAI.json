@@ -1,0 +1,219 @@
+{
+  "code": "NAI",
+  "name": "Nätverksteknik",
+  "englishName": "Network technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:163",
+  "skolfsAndring": "2022:239",
+  "nameHeading": "<h2>Nätverksteknik</h2>",
+  "description": "<p>Ämnet nätverksteknik behandlar nätverksutrustning och it-systemlösningar samt övervakning för att uppnå hög driftsäkerhet inom nätverksområdet. Det behandlar också klienter och servrar samt hur övrig utrustning samverkar inom nätverksområdet. Dessutom behandlas programvara för både klienter och servrar samt administration av servertjänster i nätverksmiljö.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet nätverksteknik ska syfta till att eleverna utvecklar kunskaper om lokala och globala datornätverk till den nivå som krävs för att yrkesmässigt administrera lokala nätverk och kunna säkerställa en snabb och säker kommunikation mellan ingående enheter. Undervisningen ska leda till att eleverna utvecklar kunskaper om hård- och mjukvaruinstallationer samt färdigheter i konfigurering, optimering, analys och administration av nätverk.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra vanliga arbetsuppgifter på vanligt förekommande system. Eleverna ska ges möjlighet att lösa problem, utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra. I undervisningen ska eleverna ges möjlighet att utveckla sitt miljö- och säkerhetstänkande.</p><p>Undervisningen ska leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att dokumentera sitt arbete. I undervisningen ska praktiska och laborativa moment varvas med teoretiska moment.</p><h4>Undervisningen i ämnet nätverksteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk.</li> <li>Förmåga att planera sitt arbete samt att läsa och tolka instruktioner, manualer och andra dokument på både svenska och engelska.</li> <li>Förmåga att utföra hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.</li> <li>Förmåga att bygga upp nätverk och anläggningar samt att skapa systemlösningar.</li> <li>Förmåga att övervaka, underhålla, felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.</li> <li>Kunskaper om lagar och andra bestämmelser inom nätverksområdet.</li> <li>Förmåga att arbeta på ett säkert sätt som förebygger skador på person, egendom och miljö.</li> <li>Förmåga att dokumentera sitt arbete.</li> <li>Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Administration av nätverks- och serverutrustning, 100 poäng, som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.</li> <li>Nätverksteknik, 100 poäng. </li> <li>Nätverksadministration, 100 poäng, som bygger på kursen nätverksteknik.</li> <li>Nätverkssäkerhet, 100 poäng, som bygger på kursen nätverksteknik.</li> <li>Nätverksteknologier, 100 poäng, som bygger på kursen nätverksteknik.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: NAIADM0</h3>",
+      "code": "NAIADM0",
+      "nameHeading": "<h2>Administration av nätverks- och serverutrustning, 100 poäng</h2>",
+      "name": "Administration av nätverks- och serverutrustning",
+      "englishName": "Administration of networks and servers",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen administration av nätverks- och serverutrustning omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 5 och 6.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Nättopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.</li> <li>Konfigurering av anslutningstjänster till nätverkslagringsplatser.</li> <li>Konfigurering av system och hantering av funktionsfel.</li> <li>Hantering av olika former av nätverksutrustning, till exempel switchar, routrar och gateways. Utrustningens funktion och användningsområde.</li> <li>Hantering av strömbortfall i en servermiljö och konfigurering av larm vid driftavbrott. Implementering av driftsäkerhet på såväl disknivå som elkraftsnivå.</li> <li>Övervakning av nätverkstrafik och klienter samt hantering och övervakning med SNMP (Simple Network Management Protocol).</li> <li>Skydd av servrar och klienter i nätverksmiljö med hjälp av mjukvara och hårdvara.</li> <li>Kryptering av kommunikation mellan nät och servrar.</li> <li>Systemintegration, till exempel samordning av inloggning och auktorisering till olika system.</li> <li>Hantering och konfigurering av brandväggar.</li> <li>Lagar och andra bestämmelser, till exempel personuppgiftslagen. Policydokument.</li> <li>Felsökningsmetodik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>i samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>i samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar. Dessutom utför eleven <strong>i samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>i samråd </strong>med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>gott </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare <strong>avancerade </strong>råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: NAINAR0</h3>",
+      "code": "NAINAR0",
+      "nameHeading": "<h2>Nätverksteknik, 100 poäng</h2>",
+      "name": "Nätverksteknik",
+      "englishName": "Network technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen nätverksteknik omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–5 och 7–8.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Nätverkskomponenter i de delar som utgör ett datornätverk, till exempel klienter, servrar, skrivare, nätverkskort, omkopplare, nätslussar och kablage.</li> <li>Nätverksoperativsystems uppbyggnad och funktion, mjukvarans struktur i servrar och dess sammanställning samt principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.</li> <li>Olika filsystem och hur information lagras på olika sätt i olika operativsystem.</li> <li>Installation av serveroperativsystem samt systemens tjänster.</li> <li>Installation och konfigurering av utskriftssystem samt hantering av tillgång till en central tjänst för utskriftshantering.</li> <li>Administration av enklare katalogtjänster.</li> <li>Inloggning samt säkerhetsregler för användare.</li> <li>Kontohantering för användare.</li> <li>Rättighets- och säkerhetssystem, servrars tillgång till en central lagringsplats för information samt möjlighet att dela data.</li> <li>Säkerhetskopiering, skydd av information vid haveri av en servers filsystem, tillämpning av de principer som finns för säkerhetskopiering och hantering av den utrustning som krävs.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>i samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>i samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>i samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>i samråd </strong>med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>gott </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare<strong> avancerade </strong>råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: NAINAV0</h3>",
+      "code": "NAINAV0",
+      "nameHeading": "<h2>Nätverksadministration, 100 poäng</h2>",
+      "name": "Nätverksadministration",
+      "englishName": "Network administration",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen nätverksadministration omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Applikationsprogram samt installation, administration och styrning av rättigheter för nätverksbaserad installation av olika typer av applikationer.</li> <li>Analys, optimering och felsökning av en servers prestanda.</li> <li>Konfigurering av flerdisksystem samt uppsättning av spegling av hårddiskar eller motsvarande teknologier.</li> <li>Hantering av texteditorer.</li> <li>Skriptning.</li> <li>Filservrar och webbservrar.</li> <li>Uppgradering av klienter, servrar och nätverksutrustning.</li> <li>Klient- och serverhantering samt inloggning av klienter mot flera servrar genom en central kontohantering.</li> <li>Skydd av användardata samt säkerhetslagring av användarnas information lokalt och på en server.</li> <li>Driftsäkerhet, övervakning och hur driftstopp undviks samt underhåll av servrar.</li> <li>Partitionering och replikering av katalogtjänster samt säkerställande av säkerhet mellan servrar och åtkomst mellan dessa.</li> <li>Design av och säkerhet i katalogtjänst och filsystem.</li> <li>Licenshantering samt lagar om upphovsrätt.</li> <li>Användarmiljöer samt anpassning av serverlösningar till olika användarmiljöer och verksamhetsbehov.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>i samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>i samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>i samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>i samråd </strong>med handledare<strong> enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>gott </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare<strong> avancerade </strong>råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: NAINAE0</h3>",
+      "code": "NAINAE0",
+      "nameHeading": "<h2>Nätverkssäkerhet, 100 poäng</h2>",
+      "name": "Nätverkssäkerhet",
+      "englishName": "Network security",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen nätverkssäkerhet omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Val av mjukvara respektive hårdvara.</li> <li>Programvaror för styrning och övervakning av nättrafik.</li> <li>Produktutvärdering och hur man utvärderar program för högsta säkerhet.</li> <li>Anslutningar med VPN (Virtual Private Network) eller liknande teknologier.</li> <li>TCP (Transmission Control Protocol) och olika portar.</li> <li>Säkerhetsrisker i nätverk.</li> <li>Säkerhetspolicy och incidenthantering.</li> <li>Identifikationssystem för inloggning.</li> <li>Installation och konfigurering av brandväggar för hårdvara och mjukvara.</li> <li>Virusskydd och internetrelaterade säkerhetshot.</li> <li>Kryptering och internetrelaterade säkerhetshot.</li> <li>NAT (Network Address Translation) och hur adressöversättning kan skydda eller styra åtkomst till klienter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>i samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>i samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>i samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>i samråd </strong>med handledare<strong> enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>gott </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare <strong>avancerade </strong>råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: NAINAK0</h3>",
+      "code": "NAINAK0",
+      "nameHeading": "<h2>Nätverksteknologier, 100 poäng</h2>",
+      "name": "Nätverksteknologier",
+      "englishName": "Network technologies",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen nätverksteknologier omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad av nätverks olika delar samt funktion av bandbredd, till exempel mätning av kapacitet och kapacitetsbehov för olika bredbandslösningar.</li> <li>Referensmodellerna OSI och TCP/IP (Open Systems Interconnection och Transmission Control Protocol/Internet Protocol) och de olika skiktens specifika tjänst som är oberoende av de tekniker som används i lagret ovanför eller nedanför. Hur information hanteras och hur utrustning och tjänster fungerar i samverkan i olika kommunikationslösningar.</li> <li>Nätverksprotokoll, dvs. hur digital kommunikation mellan olika datorenheter fungerar. Administration och konfiguration av nätverksprotokoll.</li> <li>Adressering i nätverk, kommunikation av data mellan olika enheter samt hur kommunikationen fungerar utifrån tekniska regler för de olika protokollen. Hur utdelning av adresser fungerar med DHCP (Dynamic Host Configuration Protocol).</li> <li>Subnätning, dvs. hur man delar upp ett datornätverk i mindre delar.</li> <li>Routningsprotokoll, hantering av kommunikation mellan olika adressområden samt olika vägar på vilka data sänds mellan sändare och mottagare i olika nätverk.</li> <li>Virtuella nät, dvs. VLAN (Virtual Local Area Network). Skydd mot avlyssning mellan olika nätverk.</li> <li>Tunnling och WLAN (Wireless Local Area Network).</li> <li>Nätverkstopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.</li> <li>Packet switching network, dvs. paketförmedling där data paketeras och adresseras mellan olika fysiska och logiska nivåer och komponenter i en datorbaserad kommunikationssituation.</li> <li>Accessmetoder för att upprätta kommunikation mellan olika enheter i ett datornätverk.</li> <li>Överföringsmedier, dvs. olika sätt att skicka digital information i form av data. Begränsningar samt säkerhet och prestanda vid val av olika överföringsmedier, till exempel kabelbaserad eller luftbaserad kommunikation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>i samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>i samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>i samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>i samråd </strong>med handledare<strong> enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med viss säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>tillfredsställande </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur nätverks olika delar och komponenter är uppbyggda och fungerar.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete. I planeringen läser och tolkar eleven <strong>med säkerhet </strong>instruktioner, manualer och andra dokument. Eleven utför <strong>efter samråd </strong>med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer. Eleven bygger också <strong>efter samråd </strong>med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet </strong>systemlösningar. Dessutom utför eleven <strong>efter samråd </strong>med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd </strong>med handledare fel i utrustning i nätverksmiljöer. Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra. Resultatet av arbetet är <strong>gott </strong>med avseende på funktion, säkerhet och kvalitet. När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>efter samråd </strong>med handledare <strong>avancerade </strong>råd till användare vid val av nätverkssystem och datorteknisk utrustning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.100Z"
+}

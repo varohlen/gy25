@@ -1,0 +1,78 @@
+{
+  "code": "PALV",
+  "name": "Pälsvård och hundfrisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:335",
+  "nameHeading": "<h2>Pälsvård och hundfrisering</h2>",
+  "description": "<p>Ämnet pälsvård och hundfrisering behandlar skötsel av hundars päls med yrkesmässiga metoder som utgår från djurets naturliga beteende och välmående samt rasegenskaper. I ämnet behandlas olika typer av skötselmetoder, redskap och utrustning samt hygien. Centralt i ämnet är frågor om djurvälfärd samt säker och etisk hantering av hundar. I ämnet ingår också service och bemötande av hundägare.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pälsvård och hundfrisering ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom hundskötsel med betoning på pälsvård, trimning och hundfrisering samt relaterade behandlingar. Den ska leda till att eleverna utvecklar förmåga att sköta och hantera hundar med utgångspunkt i deras behov och naturliga beteende samt med beprövade metoder. Undervisningen ska på så sätt bidra till att eleverna utvecklar ett etiskt förhållningssätt i arbete med hundar och förståelse av samspelet mellan människa och hund som en förutsättning för en behandling som är säker och som uppnår önskat resultat.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att välja och använda olika skötselmetoder utifrån rasegenskaper, rasstandarder och hundägarens önskemål samt att använda verktyg, redskap och teknisk utrustning. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att planera och utvärdera sitt arbete samt att följa fasta rutiner och ta ansvar i arbetet med hundar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om service och kundbemötande. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hygien och smittskydd samt om hur skador och sjukdomar kan förebyggas. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller hundhållning samt om arbetsmiljö, säkerhet och hållbar utveckling inom branschen.</p> <p>Praktiska övningar ska ingå i undervisningen. På så sätt ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta hundar på ett säkert sätt med utgångspunkt i djurets välfärd samt att använda redskap och teknisk utrustning. Genom observationer och arbete med hundar ska eleverna ges möjlighet att utveckla kunskaper om etologi och samspelet mellan hund och människa.</p> <h5><em>Undervisningen i ämnet pälsvård och hundfrisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att behandla och hantera hundar på ett etiskt sätt samt utifrån djurens behov och verksamhetens krav.</li> <li>Förmåga att välja och använda skötselmetoder, redskap och teknisk utrustning.</li> <li>Förmåga att bemöta kunder och ge god service.</li> <li>Kunskaper om hygien och smittskydd.</li> <li>Förmåga att arbeta hållbart och säkert samt i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet pälsvård och hundfrisering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PALV1000X</h3>",
+      "code": "PALV1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pälsvård och hundfrisering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Etisk skötsel och hantering av hundar i samband med olika typer av behandlingar.</li> <li>Etologi och samspel mellan djur och människa, till exempel hundens språk och tolkning av signaler.</li> <li>Vanliga hundraser samt deras utseende och yttre anatomi.</li> <li>Bedömning av skötselbehov samt planering och genomförande av pälsvård, enklare trimning och klippning med utgångspunkt i pälstyp och hundägarens önskemål.</li> <li>Hantering och skötsel av klippmaskin, saxar och redskap.</li> <li>Tvätt och torkning med anpassning till olika pälstyper samt produktkännedom.</li> <li>Allmän hälsokontroll i samband med behandling.</li> <li>Arbetsplanering, arbetsmetodik och problemlösning samt utvärdering av resultat och arbetsprocess.</li> <li>Kundbemötande och kundvård.</li> <li>Rutiner vid mottagande och utlämning av hund.</li> <li>Hygien, smittskydd och förebyggande hälsoarbete.</li> <li>Ergonomi, arbetsmiljö och förebyggande säkerhetsarbete i samband med hantering av hundar.</li> <li>Lagar och andra bestämmelser som gäller hundhållning.</li> <li>Miljöhänsyn, till exempel vid val av produkter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PALV2000X</h3>",
+      "code": "PALV2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pälsvård och hundfrisering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Etisk skötsel och hantering av valpar och ovana hundar i samband med olika typer av behandlingar.</li> <li>Etologi och samspel mellan djur och människa, däribland frivillig hantering.</li> <li>Hur hundar påverkas av miljöomställningar och stress samt förebyggande åtgärder.</li> <li>Fördjupning inom olika hundraser samt deras utseende och yttre anatomi.</li> <li>Trimning i enlighet med trimschema.</li> <li>Klippning i olika frisyrer utifrån pälstyp och rasstandard.</li> <li>Förberedelser inför hundutställning.</li> <li>Hantering och skötsel av klippmaskin, saxar och redskap.</li> <li>Allmän hälsokontroll i samband med behandling.</li> <li>Förebyggande enklare hälsovård, till exempel kloklippning och tassvård.</li> <li>Arbetsplanering, arbetsmetodik och problemlösning samt utvärdering av resultat och arbetsprocess.</li> <li>Kundbemötande och kundvård.</li> <li>Information och rådgivning till hundägare.</li> <li>Hygien, smittskydd och förebyggande hälsoarbete.</li> <li>Ergonomi, arbetsmiljö och förebyggande säkerhetsarbete i samband med hantering av hundar.</li> <li>Lagar och andra bestämmelser som gäller hundhållning.</li> <li>Miljöhänsyn, till exempel vid hantering av kemikalierester.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven behandlar med <strong>visst</strong> handlag olika typer av hundar. Eleven hanterar hundar på ett <strong>i huvudsak fungerande</strong> sätt med utgångspunkt i etik och individens behov samt verksamhetens krav.</p> <p>Eleven bedömer skötselbehov samt väljer och använder med <strong>viss säkerhet</strong> skötselmetoder, redskap och teknisk utrustning.</p> <p>Eleven bemöter kunder med <strong>viss</strong> skicklighet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hygien och smittskydd.</p> <p>Eleven arbetar hållbart och säkert samt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven behandlar med <strong>gott</strong> handlag olika typer av hundar. Eleven hanterar hundar på ett <strong>fungerande</strong> sätt med utgångspunkt i etik och individens behov samt verksamhetens krav.</p> <p>Eleven bedömer skötselbehov samt väljer och använder med <strong>säkerhet</strong> skötselmetoder, redskap och teknisk utrustning.</p> <p>Eleven bemöter kunder med <strong>god</strong> skicklighet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hygien och smittskydd.</p> <p>Eleven arbetar hållbart och säkert samt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven behandlar med <strong>mycket gott</strong> handlag olika typer av hundar. Eleven hanterar hundar på ett <strong>väl fungerande</strong> sätt med utgångspunkt i etik och individens behov samt verksamhetens krav.</p> <p>Eleven bedömer skötselbehov samt väljer och använder med <strong>god säkerhet</strong> skötselmetoder, redskap och teknisk utrustning.</p> <p>Eleven bemöter kunder med <strong>mycket god</strong> skicklighet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hygien och smittskydd.</p> <p>Eleven arbetar hållbart och säkert samt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.058Z"
+}

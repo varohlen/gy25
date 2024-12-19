@@ -1,0 +1,105 @@
+{
+  "code": "FLG",
+  "name": "Flygplatsteknik",
+  "englishName": "Airport technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:163",
+  "skolfsAndring": "2022:112",
+  "nameHeading": "<h2>Flygplatsteknik</h2>",
+  "description": "<p>Ämnet flygplatsteknik behandlar flygplatsen som arbetsplats och de olika verksamheter som förekommer på en flygplats. I ämnet betonas säkerhets- och miljöaspekter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet flygplatsteknik ska syfta till att eleverna utvecklar kunskaper om olika arbetsområden på en flygplats. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra de olika arbetsuppgifter som förekommer på en flygplats på ett säkert och ansvarsfullt sätt. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att framföra de fordon som används på flygplatser på det sätt som arbetet kräver. Den ska dessutom bidra till att eleverna utvecklar förståelse av hur verksamheten påverkar miljön på och runt en flygplats.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de nationella och internationella regelverk som styr verksamheten, och förmåga att arbeta utifrån dessa. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa och upprätthålla goda relationer med kunder och medarbetare, samt förmåga att kommunicera på det sätt yrket kräver, på både svenska och engelska.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Ett problemlösande och laborativt arbetssätt ska prägla undervisningen.</p><h4>Undervisningen i ämnet flygplatsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om flygplatsers uppbyggnad och funktion samt om olika arbetsområden och verksamheter inom flygplatser.</li> <li>Kunskaper om de internationella och nationella regelverk som reglerar verksamheten, de skydds- och säkerhetsföreskrifter som reglerar arbetet samt om de risker arbetet innebär.</li> <li>Förmåga att genomföra arbetsuppgifter på flygplatsen inom områdena räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.</li> <li>Förmåga att framföra transport- och servicefordon på ett säkert och ansvarsfullt sätt.</li> <li>Förmåga att hantera farligt gods och genomföra tanktransporter på flygplatser.</li> <li>Förmåga att välja och använda arbetsmetoder och utrustning.</li> <li>Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att samarbeta med andra och kommunicera med medarbetare och kunder.</li> <li>Förmåga att använda ett yrkesmässigt språk samt att använda både svenska och engelska instruktioner och manualer. </li> </ol><h3>Kurser i ämnet</h3><ul><li>Flygplatsen, 200 poäng. </li> <li>Fälthållning, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: FLGFLY0</h3>",
+      "code": "FLGFLY0",
+      "nameHeading": "<h2>Flygplatsen, 200 poäng</h2>",
+      "name": "Flygplatsen",
+      "englishName": "Airports",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen flygplatsen omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Flygplatsens uppbyggnad. Flygplatsen som arbetsplats och de olika verksamheter som förekommer.</li> <li>Nationella och internationella organisationer och intressenter inom området.</li> <li>Grunderna för trafikledning.</li> <li>Tekniska system som förekommer på flygplatser.</li> <li>Biljetthanteringssystem.</li> <li>Säkerhetstjänst på och runt en flygplats.</li> <li>Miljöpåverkan på och i anslutning till flygplatser.</li> <li>Marktrafikregler på och i anslutning till flygplatsen.</li> <li>Luftfartygs konstruktion. Uppbyggnad av olika system i ett flygplan samt flygplans strukturella begränsningar och skaderisker.</li> <li>Enklare markservice på flygplan.</li> <li>Avisning och hur luftfartygs aerodynamik påverkas av till exempel regn och is.</li> <li>Användning av el- och teleteknisk utrustning samt skötsel och tolkning av mätinstrument.</li> <li>Risker vid arbete med luftfartyg.</li> <li>Brandbekämpning. Flygplatsens brand- och räddningsfunktioner.</li> <li>Tillsyn, service och säkerhetskontroll på de fordon och utrustning som används på flygplatser.</li> <li>Färdplanering och beräkning av lastmängd och viktfördelning. Administrativa rutiner som används för transportuppdrag på flygplatser.</li> <li>Olika slags tanktransporter, hantering av bränsle, tankning av flygplan samt åtgärder vid såväl mindre spill som haveri. Myndigheters krav vid transport av bränsle och tankning av flygplan.</li> <li>De vanligaste typerna av fordon och utrustning för tanktransporter, de vanligaste produkterna som transporteras i tankfordon samt de regler som gäller för dessa transporter.</li> <li>Särskilda risker med tank- och bulktransporter.</li> <li>Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <strong>översiktligt </strong>utifrån några exempel om risker i arbetet och redogör <strong>översiktligt</strong> för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>i samråd </strong>med handledare i bekanta situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <strong>i samråd </strong>med handledare farligt gods i bekanta situationer. Eleven manövrerar och framför med<strong> visst </strong>handlag transport- och servicefordon. I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>i samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <strong>enkla </strong>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar med andra för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>enkel</strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <strong>utförligt</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt </strong>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>efter samråd </strong>med handledare i bekanta <strong>och delvis nya </strong>situationer arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <strong>efter samråd </strong>med handledare farligt gods i bekanta <strong>och delvis nya </strong>situationer. Eleven manövrerar och framför med <strong>gott </strong>handlag transport- och servicefordon. I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>efter samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar med andra <strong>och</strong> <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>noggrann</strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> flygplatsens uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt </strong>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>efter samråd </strong>med handledare i bekanta <strong>och nya situationer</strong> arbetsuppgifter inom områdena räddningstjänst, ramptjänst och säkerhetstjänst. Eleven hanterar <strong>efter samråd </strong>med handledare farligt gods i bekanta<strong> och nya </strong>situationer. Eleven manövrerar och framför med<strong> mycket gott</strong> handlag transport- och servicefordon. I arbetet väljer eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>efter samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <strong>välgrundade </strong>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar med andra <strong>och</strong> <strong>medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med säkerhet </strong>yrkesspecifika begrepp. Eleven använder <strong>med säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FLGFAL0</h3>",
+      "code": "FLGFAL0",
+      "nameHeading": "<h2>Fälthållning, 200 poäng</h2>",
+      "name": "Fälthållning",
+      "englishName": "Airfield maintenance",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen fälthållning omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Flygplatsens och bansystemets uppbyggnad.</li> <li>Säkerhetsbestämmelser i samband med fälthållning.</li> <li>Risker vid arbete på flygplats. Miljöpåverkan på och i anslutning till flygplatser.</li> <li>Risker för kollisioner mellan flygplan, flygplan och fåglar eller flygplan och vilt. Åtgärder för att minimera dessa risker.</li> <li>Manövrering och framförande av fälthållningsfordon samt fordonskombinationer för sommar- och vinterväghållning.</li> <li>Koppling av utrustning till respektive fordon.</li> <li>Service, tillsyn, underhåll och säkerhetskontroll av fordon och utrustning.</li> <li>Sommarfälthållning med olika typer av fordon och redskap.</li> <li>Vinterfälthållning med olika typer av fordon och redskap. Regler och åtgärder för vinterfälthållning.</li> <li>Mekanisk och kemisk halkbekämpning.</li> <li>Fältinspektion samt mätning och rapportering av bromsverkan.</li> <li>Mindre reparationer av asfalt- och betongbeläggning.</li> <li>Kontroll av hinderfrihet, erforderliga åtgärder samt markering av ytor och hinder.</li> <li>Mindre reparationer på fältbelysning.</li> <li>Kontroll av dagvattensystem.</li> <li>Reparation och bärgning av fordon, även vid dåliga yttre förhållanden.</li> <li>Yrkesbegrepp. Engelskspråkiga instruktioner och manualer. Dokumentation på engelska.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <strong>översiktligt </strong>utifrån några exempel om risker i arbetet och redogör <strong>översiktligt</strong> för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>i samråd </strong>med handledare i bekanta situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med<strong> visst </strong>handlag fälthållningsfordon. Eleven utför <strong>i samråd </strong>med handledare i bekanta situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>i samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <strong>enkla </strong>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar med andra för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>enkel</strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven <strong>utförligt </strong>utifrån några exempel om risker i arbetet och redogör <strong>utförligt </strong>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>efter samråd </strong>med handledare i bekanta <strong>och delvis nya </strong>situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med<strong> gott </strong>handlag fälthållningsfordon. Eleven utför <strong>efter samråd </strong>med handledare i bekanta<strong> och delvis nya </strong>situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>efter samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar med andra <strong>och</strong> <strong>medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> yrkesspecifika begrepp. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>noggrann </strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> flygfältets uppbyggnad och funktion samt olika arbetsområden och verksamheter inom området. Dessutom resonerar eleven<strong> utförligt och nyanserat</strong> utifrån några exempel om risker i arbetet och redogör <strong>utförligt </strong>för regelverk och föreskrifter som styr verksamheterna.</p><p>Eleven utför <strong>efter samråd</strong> med handledare i bekanta<strong> och nya </strong>situationer arbetsuppgifter inom området fälthållning. Eleven manövrerar och framför med <strong>mycket gott </strong>handlag fälthållningsfordon. Eleven utför <strong>efter samråd </strong>med handledare i bekanta <strong>och nya</strong> situationer sommar- och vinterfälthållningsarbete. I arbetet väljer eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning. Eleven arbetar <strong>efter samråd </strong>med handledare på ett säkert sätt och följer lagar och andra bestämmelser som gäller för arbetet. Eleven genomför <strong>välgrundade </strong>riskbedömningar. Eleven tar ansvar för andras egendom och för anläggningens lokaler, fordon och utrustning. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar med andra <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. I kommunikation med andra använder eleven <strong>med säkerhet </strong>yrkesspecifika begrepp. Eleven använder <strong>med säkerhet</strong> svenska och engelska instruktioner och manualer. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation på engelska.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.990Z"
+}

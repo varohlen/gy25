@@ -1,0 +1,64 @@
+{
+  "code": "FARY",
+  "name": "Fartygsbefäl",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:279",
+  "nameHeading": "<h2>Fartygsbefäl</h2>",
+  "description": "<p>Ämnet fartygsbefäl behandlar fartygs säkra framförande. I detta ingår navigation och sjövägsregler samt arbetsuppgifter för vakthavande befäl på bryggan. Ämnet behandlar även arbetsmiljö, säkerhet och skydd av den marina miljön vid arbete till sjöss.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fartygsbefäl ska syfta till att eleverna utvecklar kunskaper om navigation och sjövägsregler samt om yrkesmässigt framförande av fartyg enligt gällande lagar och andra bestämmelser. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet till sjöss samt om arbetssätt som främjar hållbar utveckling.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om yrkesrollen och om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska även ges rikligt med tillfällen att använda fackspråk. Därigenom ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i olika yrkessammanhang.</p> <p>I undervisningen ska uppgifterna konstrueras med utgångspunkt från autentisk fartygsmiljö och i situationer som eleverna kan komma att möta i sin yrkesutövning. På så sätt ska undervisningen bidra till att eleverna utvecklar förståelse av hur utrustningen på bryggan fungerar och interagerar samt vikten av handlingsförmåga vid uppkomna situationer. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet fartygsbefäl ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om bryggtjänst och navigering samt om fartygs säkra framförande.</li> <li>Kunskaper om fartygs säkerhetsorganisation samt om lagar och andra bestämmelser som reglerar yrkesområdet.</li> <li>Förmåga att kommunicera med fackspråk.</li> </ul><h3>Nivåer i ämnet fartygsbefäl</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FARY1000X</h3>",
+      "code": "FARY1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fartygsbefäl på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Bryggtjänst och navigering</em></p> <ul> <li>Bryggtjänst som vakthavande befäl.</li> <li>Sjökortsarbete.</li> <li>Navigation och navigationsutrustning, däribland elektroniska navigationshjälpmedel.</li> <li>Radar och mörkernavigering.</li> <li>Planering och genomförande av fiktiv kustnära resa utifrån förutsättningar som fartygsstabilitet, meteorologi, fartygsmanövrering, fartygssäkerhet och passagerarsäkerhet.</li> </ul> <p><em>Säkerhet samt lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland sjölagen och internationella sjövägsregler.</li> <li>Fartygets säkerhetsorganisation, däribland nödåtgärder.</li> <li>Skydd av den marina miljön.</li> <li>Miljö- och säkerhetsaspekter i arbetet.</li> <li>Arbetsmiljöaspekter i arbetet.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Fartygsterminologi.</li> <li>Ordergivning och kommunikation vid vakthållning.</li> <li>Dokumentation under och efter utfört arbete.</li> <li>VHF-radiokommunikation.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om bryggtjänst, navigering och fartygs säkra framförande.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om fartygs säkerhetsorganisation och om lagar och andra bestämmelser som reglerar yrkesområdet.</p> <p>Eleven kommunicerar med <strong>godtagbar</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om bryggtjänst, navigering och fartygs säkra framförande.</p> <p>Eleven visar <strong>goda</strong> kunskaper om fartygs säkerhetsorganisation och om lagar och andra bestämmelser som reglerar yrkesområdet.</p> <p>Eleven kommunicerar med <strong>utvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om bryggtjänst, navigering och fartygs säkra framförande.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om fartygs säkerhetsorganisation och om lagar och andra bestämmelser som reglerar yrkesområdet.</p> <p>Eleven kommunicerar med <strong>välutvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

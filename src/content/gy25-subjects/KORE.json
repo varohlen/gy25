@@ -1,0 +1,64 @@
+{
+  "code": "KORE",
+  "name": "Koreografi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:178",
+  "nameHeading": "<h2>Koreografi</h2>",
+  "description": "<p>Ämnet koreografi är till sin karaktär konstnärligt och behandlar konstnärliga processer inom dans. I ämnet behandlas skapande och gestaltningsarbete utifrån koreografens och dansarens synvinkel men även utifrån publikens.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet koreografi ska syfta till att eleverna utvecklar kunskaper om och färdigheter i konstnärliga processer där experimenterande, komposition, tolkning och framförande bildar en bas för olika koreografiska arbetssätt. Undervisningen ska leda till att eleverna utvecklar förståelse av hur dansens rörelseuttryck och formspråk kan nyanseras och varieras utifrån olika konstnärliga idéer och teman.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i dansämnen aktivt bidra till ett rikt kulturliv i samhället. Eleverna ska också ges möjlighet att närma sig ett yrkesmässigt förhållningssätt till koreografiskt arbete. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att använda olika metoder när det gäller komposition och tolkning samt förståelse av hur olika faktorer bygger på olika koreografiska förhållningssätt till dans som konstnärligt uttryck.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att samarbeta, leda och interagera med andra samt vara lyhörda inför olika sätt att förhålla sig till konstnärliga processer. Därför ska eleverna ges möjlighet att utveckla förmåga att ta ansvar för både det egna och det gemensamma arbetet. Undervisningen ska betona en inkluderande och jämställd arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <p>Eleverna ska ges möjlighet att delta i, driva, leda och utveckla konstnärliga projekt och olika former av sceniska presentationer. Utforskande och reflekterande arbetsmetoder är väsentliga i ämnet och ska därför ingå i undervisningen. En del av den konstnärliga processen består av analys och tolkning. Undervisningen ska därför ge eleverna möjlighet att analysera och tolka egna, andra elevers och professionellas gestaltningar samt använda begrepp i samband med gestaltningsarbetet.</p> <h5><em>Undervisningen i ämnet koreografi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att samarbeta och interagera med andra i dans.</li> <li>Förmåga att använda kompositionsmetoder och koreografiska förhållningssätt vid skapande av koreografier.</li> <li>Förmåga att ta initiativ och uttrycka idéer samt omsätta dessa i en konstnärlig process.</li> </ul><h3>Nivåer i ämnet koreografi</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KORE1000X</h3>",
+      "code": "KORE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet koreografi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Samarbete och interaktion med andra, däribland att ta initiativ i den koreografiska processen genom att ge och ta samt leda och följa.</li> <li>Olika kompositionsmetoder och koreografiska förhållningssätt i relation till olika danskomponenter, variation eller stämning.</li> <li>Improvisation i relation till rörelsedynamik i koreografiskt arbete.</li> <li>Skapande av koreografi i olika konstellationer.</li> <li>Samverkan mellan olika konstarter.</li> <li>Omsättning av idéer i en konstnärlig process och hur arbetsprocessen genomförs från idé till iscensättning av en färdig koreografi.</li> <li>Praktiskt sceniskt arbete och kommunikation med medaktörer och publik vid sceniska framföranden.</li> <li>Analys av och reflektion över konstnärliga processer.</li> <li>Begrepp och metoder för analys och reflektion över eget och andras arbete ur olika aspekter.</li> <li>Samtal om den konstnärliga processen och koreografi.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven samarbetar och interagerar med andra med <strong>viss säkerhet</strong>.</p> <p>Eleven använder med <strong>viss</strong> skicklighet olika kompositionsmetoder vid skapandet av koreografier. I arbetet utgår eleven från koreografiska förhållningssätt.</p> <p>Eleven tar initiativ och uttrycker idéer med <strong>viss säkerhet</strong> och omsätter dessa i en konstnärlig process av <strong>godtagbar</strong> kvalitet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven samarbetar och interagerar med andra med <strong>säkerhet</strong>.</p> <p>Eleven använder med <strong>god</strong> skicklighet olika kompositionsmetoder vid skapandet av koreografier. I arbetet utgår eleven från koreografiska förhållningssätt.</p> <p>Eleven tar initiativ och uttrycker idéer med <strong>säkerhet</strong> och omsätter dessa i en konstnärlig process av <strong>god</strong> kvalitet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven samarbetar och interagerar med andra med <strong>god säkerhet</strong>.</p> <p>Eleven använder med <strong>mycket god</strong> skicklighet olika kompositionsmetoder vid skapandet av koreografier. I arbetet utgår eleven från koreografiska förhållningssätt.</p> <p>Eleven tar initiativ och uttrycker idéer med <strong>god säkerhet</strong> och omsätter dessa i en konstnärlig process av <strong>mycket god</strong> kvalitet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.031Z"
+}

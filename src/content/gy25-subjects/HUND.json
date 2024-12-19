@@ -1,0 +1,92 @@
+{
+  "code": "HUND",
+  "name": "Hundkunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:262",
+  "nameHeading": "<h2>Hundkunskap</h2>",
+  "description": "<p>Hundar används i många sammanhang, som brukshundar, tjänstehundar och sällskapsdjur. Ämnet hundkunskap behandlar skötsel av och samspel med hundar samt skötsel av anläggningar och utrustning. Dessutom behandlas djuretik samt lagar och andra bestämmelser som reglerar hundhållning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hundkunskap ska syfta till att eleverna utvecklar förmåga att utföra yrkesmässigt arbete med hundar. Undervisningen ska leda till att eleverna utvecklar kunskaper om olika hundraser och deras egenskaper. Den ska också leda till att eleverna utvecklar kunskaper om hur hundar används för olika ändamål och om olika verksamheter inom hundhållning. Undervisningen ska bidra till att eleverna utvecklar kunskaper om hundars biologi, utveckling, behov och beteende samt förmåga att sköta och hantera hundar på ett säkert sätt och med utgångspunkt i djurets välfärd. Den ska också leda till att eleverna utvecklar förmåga att ta ansvar och följa fasta rutiner i arbete med hundar. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att samspela med hundar samt att fostra och träna hundar mot specifika mål. I detta ingår kunskaper om olika inlärningsmetoder med utgångspunkt i en etologisk förståelse. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att instruera och handleda hundägare och hundförare.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att hantera och vårda utrustning samt att sköta och underhålla vistelsemiljöer och anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att främja god hälsa hos hundar och förebygga skador och sjukdomar hos hundar. Eleverna ska också ges möjlighet att diskutera och ta ställning i etiska frågor som rör hundhållning, avel och djurvälfärd. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med arbete med hundar. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att arbeta ergonomiskt med hundar och utrustning.</p> <p>Praktiska övningar med hundar av olika raser och i olika miljöer ska ingå i undervisningen. Genom övningarna ska eleverna ges möjlighet att utveckla förmåga att förebygga, identifiera och hantera beteendeproblem hos hundar.</p> <h5><em>Undervisningen i ämnet hundkunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika hundraser och deras egenskaper, om användning av hundar samt om avel.</li> <li>Kunskaper om hundars biologi, näringsbehov och beteenden.</li> <li>Förmåga att planera arbetsuppgifter samt att sköta och hantera hundar med utgångspunkt i djurets välfärd.</li> <li>Förmåga att fostra och träna hundar av olika raser för olika uppgifter samt att handleda hundägare och hundförare.</li> <li>Förmåga att arbeta hållbart och säkert samt i enlighet med lagar och andra bestämmelser som rör hundhållning.</li> </ul><h3>Nivåer i ämnet hundkunskap</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HUND1000X</h3>",
+      "code": "HUND1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hundkunskap på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Vanliga hundraser och deras egenskaper, ursprung och användning.</li> <li>Olika verksamhetsområden för olika typer av hundar.</li> <li>Avel och uppfödning av hundar för olika användningsområden.</li> <li>Avelsrelaterad problematik samt djurvälfärdsfrågor i samband med olika avelsmetoder.</li> <li>Hundars yttre anatomi och fysiologi med fokus på exteriör och näringsfysiologi.</li> <li>Hundars näringsbehov och olika fodermedel.</li> <li>Hundars naturliga beteende och mentala egenskaper.</li> <li>Vanliga skador och sjukdomar samt förebyggande åtgärder.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Daglig skötsel av hundar, till exempel utfodring, tillsyn och rengöring.</li> <li>Rastning av hundar samt olika metoder för att sysselsätta hundar och berika deras miljö.</li> <li>Hygienrutiner i samband med aktuella arbetsuppgifter.</li> <li>Skötsel av anläggningar och utrustning.</li> <li>Förebyggande hälsovård, till exempel klo-, tand- och pälsvård.</li> <li>Etik i samband med hundhållning, skötsel och träning.</li> <li>Grundläggande hantering av hundar, samspel med hundar och träning av hundar mot uppsatta mål.</li> <li>Grundläggande metoder för fostran och träning av hundar samt hundägarens eller hundförarens roll.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Säkerhet vid arbete med hundar.</li> <li>Ergonomi i samband med aktuella arbetsuppgifter.</li> <li>Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.</li> <li>Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HUND2000X</h3>",
+      "code": "HUND2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hundkunskap på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Olika rasgrupper och deras egenskaper och särskilda behov.</li> <li>Olika verksamhetsområden för olika typer av hundar, till exempel tjänstehundar, brukshundar och sällskapshundar.</li> <li>Avel och uppfödning av hundar för olika användningsområden samt etiska överväganden.</li> <li>Hundars anatomi och fysiologi med fokus på rörelseapparaten.</li> <li>Reproduktionsbiologi hos hundar.</li> <li>Foder, fodrets näringsinnehåll och kvalitet samt specifika foderbehov.</li> <li>Hundars naturliga beteende och mentala egenskaper samt olika beteendeproblem.</li> <li>Vanliga hälsoproblem, skador och sjukdomar samt förebyggande åtgärder.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Daglig skötsel av hundar, till exempel kloklippning och pälsvård.</li> <li>Hantering av hundar, till exempel i samband med rastning och vid klippning, trimning och bad.</li> <li>Foderberäkning, val av foder och utfodring av hundar.</li> <li>Rutiner för att upptäcka förändringar i hundars beteende som följd av skador och sjukdomar samt åtgärder för sjuka och skadade djur.</li> <li>Hygienrutiner i samband med aktuella arbetsuppgifter.</li> <li>Skötsel av djurmiljöer och anläggningar.</li> <li>Användning och vård av utrustning.</li> <li>Djurvälfärd och etiska bedömningar.</li> <li>Utarbetande och genomförande av planer för grundläggande fostran och träning av hundar mot uppsatta mål.</li> <li>Olika inlärningsmetoder vid träning av hundar samt handledning av hundägare eller hundförare.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Ergonomi och säker hantering av hundar i samband med aktuella arbetsuppgifter.</li> <li>Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.</li> <li>Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning samt avel och uppfödning av hundar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HUND3000X</h3>",
+      "code": "HUND3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet hundkunskap på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Rasspecifika exteriöra överdrifter och andra hälsoproblem, samt förebyggande friskvårdande åtgärder.</li> <li>Användning av hundar samt utbildningsgång för olika typer av hundar och kvalitetssäkring.</li> <li>Olika hundorganisationer och deras verksamheter.</li> <li>Avelsplanering, avelsstrategier och avelsorganisation.</li> <li>Hundars anatomi och fysiologi. Sinnesorganens funktion och deras betydelse för hundens välfärd.</li> <li>Foderberäkning och utfodringsstrategier vid olika situationer, till exempel vid sjukdom eller övervikt.</li> <li>Hundars mentala egenskaper samt hur dessa framträder hos olika individer och raser.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Yrkesmässigt arbete med skötsel av hundar och anläggningar inom olika verksamheter samt planering och utvärdering av arbetet.</li> <li>Hygienrutiner i samband med aktuella arbetsuppgifter.</li> <li>Dokumentation och uppföljning av hundars hälsa med användning av relevanta begrepp.</li> <li>Djurvälfärd samt etiska bedömningar i samband med avel och uppfödning.</li> <li>Utbildning, fostran och träning av hundar av olika raser och i olika åldrar.</li> <li>Användning av begrepp och uttryck i samband med träning av hundar.</li> <li>Träning av hundar mot uppsatta mål.</li> <li>Olika inlärningsmetoder samt teorier om hundars inlärning.</li> <li>Analys av hundindividen och individuell anpassning av inlärningsmetoder.</li> <li>Beteendeproblem och problemlösning samt handledning av hundägare och hundförare.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Riskbedömning och riskförebyggande arbete i samband med hantering av hundar.</li> <li>Ergonomi och arbetsmiljöfrågor samband med aktuella arbetsuppgifter, däribland ljuddämpande åtgärder i hundmiljöer.</li> <li>Lagar och andra bestämmelser som rör yrkesmässigt arbete med hundar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för olika rasers utseende och egenskaper. Eleven beskriver på ett <strong>godtagbart</strong> sätt olika verksamhetsområden för olika typer av hundar. Eleven redogör <strong>översiktligt</strong> för olika metoder för avel och uppfödning av hundar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hundars anatomi och fysiologi samt om hundars näringsbehov och anpassning av foder. Eleven redogör <strong>översiktligt</strong> för hundars mentala egenskaper. Eleven observerar hundar och identifierar med <strong>viss säkerhet</strong> tecken på normalt och avvikande beteende.</p> <p>Eleven planerar och genomför arbetsuppgifter i hundstallar. I planeringen bedömer eleven med <strong>viss säkerhet</strong> när och hur arbetsuppgifterna ska genomföras. Eleven sköter och hanterar hundar med utgångspunkt i djurets välfärd och vidtar med <strong>viss säkerhet</strong> förebyggande hälsovårdsåtgärder.</p> <p>Eleven planerar och utför med <strong>viss säkerhet</strong> fostran och träning av hundar av olika raser för olika uppgifter samt handleder hundägare och hundförare. I arbetet bemöter och hanterar eleven vanliga hundbeteenden med <strong>delvis</strong> anpassade strategier.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för olika rasers utseende och egenskaper. Eleven beskriver på ett <strong>utvecklat</strong> sätt olika verksamhetsområden för olika typer av hundar. Eleven redogör <strong>utförligt</strong> för olika metoder för avel och uppfödning av hundar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hundars anatomi och fysiologi samt om hundars näringsbehov och anpassning av foder. Eleven redogör <strong>utförligt</strong> för hundars mentala egenskaper. Eleven observerar hundar och identifierar med <strong>säkerhet</strong> tecken på normalt och avvikande beteende.</p> <p>Eleven planerar och genomför arbetsuppgifter i hundstallar. I planeringen bedömer eleven med <strong>säkerhet</strong> när och hur arbetsuppgifterna ska genomföras. Eleven sköter och hanterar hundar med utgångspunkt i djurets välfärd och vidtar med <strong>säkerhet</strong> förebyggande hälsovårdsåtgärder.</p> <p>Eleven planerar och utför med <strong>säkerhet</strong> fostran och träning av hundar av olika raser för olika uppgifter samt handleder hundägare och hundförare. I arbetet bemöter och hanterar eleven vanliga hundbeteenden med <strong>väl</strong> anpassade strategier.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika rasers utseende och egenskaper. Eleven beskriver på ett <strong>välutvecklat</strong> sätt olika verksamhetsområden för olika typer av hundar. Eleven redogör <strong>utförligt och nyanserat</strong> för olika metoder för avel och uppfödning av hundar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hundars anatomi och fysiologi samt om hundars näringsbehov och anpassning av foder. Eleven redogör <strong>utförligt och nyanserat</strong> för hundars mentala egenskaper. Eleven observerar hundar och identifierar med <strong>god säkerhet</strong> tecken på normalt och avvikande beteende.</p> <p>Eleven planerar och genomför arbetsuppgifter i hundstallar. I planeringen bedömer eleven med <strong>god säkerhet</strong> när och hur arbetsuppgifterna ska genomföras. Eleven sköter och hanterar hundar med utgångspunkt i djurets välfärd och vidtar med <strong>god säkerhet</strong> förebyggande hälsovårdsåtgärder.</p> <p>Eleven planerar och utför med <strong>god säkerhet</strong> fostran och träning av hundar av olika raser för olika uppgifter samt handleder hundägare och hundförare. I arbetet bemöter och hanterar eleven vanliga hundbeteenden med <strong>mycket väl</strong> anpassade strategier.</p> <p>Eleven arbetar på ett säkert och miljömässigt hållbart sätt samt i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.020Z"
+}

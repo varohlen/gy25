@@ -1,0 +1,143 @@
+{
+  "code": "WES",
+  "name": "Webbserverprogrammering",
+  "englishName": "Web server programming",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2017:50",
+  "skolfsAndring": "2022:330",
+  "nameHeading": "<h2>Webbserverprogrammering</h2>",
+  "description": "<p>Ämnet webbserverprogrammering behandlar funktionalitet för webblösningar och samspelet mellan beställare, användare, formgivare och utvecklare.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet webbserverprogrammering ska syfta till att eleverna utvecklar färdigheter i att skapa funktionalitet för webbplattformer. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt samspelet mellan olika typer av applikationslogik. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder samt riktlinjer för god praxis och säkerhet.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och testa framställning av den mjukvara som driver webbplatser eller applikationer. Eleverna ska också ges möjlighet att utveckla färdigheter i administration av webbservrar och databaser.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform.</p><h4>Undervisningen i ämnet webbserverprogrammering ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer inklusive datalagring samt dessa teknikers vidgade roll inom annan mjukvaruutveckling.</li> <li>Förmåga att planera, genomföra, kvalitetssäkra, dokumentera och utvärdera utvecklingsprojekt för webbplatser rörande funktionalitet för webbplattformen.</li> <li>Förmåga att utveckla webbapplikationer som fungerar oberoende av användarens val och konfiguration av plattform.</li> <li>Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.</li> <li>Förmåga att utveckla applikationer enligt standarder och riktlinjer för god praxis.</li> <li>Förmåga att utveckla applikationslogik för såväl server- som klientsidan.</li> <li>Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker genom effektiva åtgärder.</li> <li>Förmåga att kommunicera med andra och färdigheter i att använda fackspråk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Webbserverprogrammering 1, 100 poäng, som bygger på kursen webbutveckling 1 och kursen programmering 1.</li> <li>Webbserverprogrammering 2, 100 poäng, som bygger på kursen webbserverprogrammering 1.</li> <li>Webbtjänster, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: WESWEB01</h3>",
+      "code": "WESWEB01",
+      "nameHeading": "<h2>Webbserverprogrammering 1, 100 poäng</h2>",
+      "name": "Webbserverprogrammering 1",
+      "englishName": "Web server programming 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen webbserverprogrammering 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkt 1.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Webbserverns och dynamiska webbplatsers funktionalitet.</li> <li>Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning samt driftsättning.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt.</li> <li>En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.</li> <li>Grundfunktionen i ett programspråk för dynamiska webbplatser.</li> <li>Teknisk orientering om webbens protokoll, adresser, säkerhet samt samspelet mellan klient och server.</li> <li>Datalagring i relationsdatabas eller med annan teknik.</li> <li>Teckenkodning. Begrepp, standarder och handhavande.</li> <li>Kodning och dokumentation enligt vedertagen praxis för vald teknik.</li> <li>Applikationsarkitektur och separation av olika slags logik.</li> <li>Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.</li> <li>Grundläggande säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.</p><p>Eleven gör en <strong>enkel</strong> projektplan för en tänkt webbapplikation. I projektplanen beskriver eleven <strong>översiktligt </strong>applikationens funktion. Utifrån projektplanen utvecklar eleven <strong>i samråd </strong>med handledare applikationen där presentations­logiken <strong>i begränsad utsträckning </strong>är skild från applikationens övriga logik. I arbetet utvecklar eleven kod som <strong>i begränsad utsträckning </strong>är<strong> läsbar </strong>och<strong> översiktligt </strong>kommenterad. Applikationen uppvisar <strong>enkel</strong> funktionalitet med ett språk för webbserver­programmering och tillhandahåller en<strong> enkel</strong> lösning för<strong> datapersistens mellan sidvisningar</strong>. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av de moment som har utförts samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat. Eleven identifierar ett<strong> fåtal</strong> sårbarheter eller hot och vidtar <strong>enkla </strong>åtgärder för att förhindra att produkten utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet enkel</strong> terminologi.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation. I projektplanen beskriver eleven <strong>utförligt </strong>applikationens funktion <strong>och arkitektur</strong>. Utifrån projektplanen utvecklar eleven <strong>efter samråd </strong>med handledare applikationen där presentations­logiken är skild från applikationens övriga logik. I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är<strong> översiktligt </strong>kommenterad. Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en <strong>enkel</strong> lösning för<strong> permanent datalagring</strong>. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av</strong> <strong>några tester.</strong></p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat. Eleven identifierar sårbarheter eller hot och vidtar åtgärder för att förhindra att produkten utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation. <strong>Vid behov reviderar eleven planen.</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat </strong>applikationens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>. Utifrån projektplanen utvecklar eleven <strong>efter samråd </strong>med handledare applikationen där presentations­logiken är skild från applikationens övriga logik. I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är<strong> utförligt </strong>kommenterad. Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering <strong>för att driva en helt databaserad webbplats eller en jämförbart avancerad produkt</strong> och tillhandahåller en lösning<strong> med viss komplexitet </strong>för<strong> permanent datalagring</strong>. Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med hjälp av</strong> <strong>flera </strong><strong>tester,</strong> <strong>även manuella.</strong></p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven identifierar <strong>flera</strong> sårbarheter eller hot och vidtar <strong>avancerade</strong> åtgärder för att förhindra att produkten utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: WESWEB02</h3>",
+      "code": "WESWEB02",
+      "nameHeading": "<h2>Webbserverprogrammering 2, 100 poäng</h2>",
+      "name": "Webbserverprogrammering 2",
+      "englishName": "Web server programming 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen webbserverprogrammering 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Webbserverns och dynamiska webbplatsers funktionalitet.</li> <li>Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Systemering, kodning, optimering, testning och driftsättning.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt inklusive kod och mjukvarugränssnitt.</li> <li>Funktionen i ett eller flera programspråk för dynamiska webbplatser.</li> <li>Datalagring i relationsdatabas eller med annan teknik.</li> <li>Standardiserade datautbytesformat, till exempel XML och JSON.</li> <li>Kodning och dokumentation enligt vedertagen praxis för vald teknik.</li> <li>Applikationsarkitektur och separation av olika slags logik.</li> <li>Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.</li> <li>Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster.</p><p>Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt. I projektplanen beskriver eleven <strong>översiktligt </strong>produktens funktion. Utifrån projektplanen utvecklar eleven <strong>i samråd </strong>med handledare produkten där presentations­logiken <strong>huvudsakligen </strong>är skild från produktens övriga logik. I arbetet utvecklar eleven kod som är <strong>läsbar </strong>och <strong>översiktligt </strong>kommenterad. Produkten uppvisar <strong>enkel</strong> funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett <strong>enkelt</strong> informations­hanterings­system som också hämtar eller lämnar data via <strong>någon</strong> webbtjänst. Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>begränsade </strong>tester.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av de moment som har utförts samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat. Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>någon </strong>åtgärd för att förhindra att denna utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet enkel</strong> terminologi.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. I projektplanen beskriver eleven <strong>utförligt </strong>produktens funktion <strong>och arkitektur</strong>. Utifrån projektplanen utvecklar eleven <strong>efter samråd </strong>med handledare produkten där presentations­logiken är skild från produktens övriga logik. <strong>Produkten är i begränsad utsträckning skapad med objektorienterad eller funktionell programmering.</strong> I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard </strong>och är <strong>utförligt </strong>kommenterad. Produkten uppvisar funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett <strong>enkelt</strong> informations­hanterings­system som också hämtar eller lämnar data via <strong>några</strong> webbtjänster. Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring <strong>och eleven utför en enkel optimering av denna</strong>. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>automatiserade </strong>tester.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat. Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några</strong> åtgärder för att förhindra att dessa utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet </strong>terminologi.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen.</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat </strong>produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>. Utifrån projektplanen utvecklar eleven <strong>efter samråd </strong>med handledare produkten där presentations­logiken är skild från produktens övriga logik. <strong>Produkten är i <strong>omfattande</strong></strong><strong> utsträckning skapad med objektorienterad eller funktionell programmering</strong> <strong>och uppvisar användning av ett eller flera enkla designmönster.</strong> I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard </strong>och är <strong>utförligt och nyanserat </strong>kommenterad. Produkten uppvisar funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett informations­hanterings­system som också hämtar eller lämnar data via <strong>flera</strong> webbtjänster. Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring <strong>och eleven utför en optimering av denna</strong>. Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med<strong> omfattande automatiserade och manuella </strong>tester.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>. Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera</strong> åtgärder för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med några tester. </strong>När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet</strong> terminologi.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: WESWET3</h3>",
+      "code": "WESWET3",
+      "nameHeading": "<h2>Webbtjänster, 100 poäng</h2>",
+      "name": "Webbtjänster",
+      "englishName": "Web services",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen webbtjänster omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Applikationsserverns funktionalitet.</li> <li>Kodning och dokumentation enligt vedertagen praxis för vald teknik.</li> <li>Utvecklingsprocessen för att skapa webbtjänster med målsättningar, planering, systemering, kodning, optimering, skalbarhet, dokumentation och uppföljning.</li> <li>Design av API:er enligt vedertagen praxis.</li> <li>Arkitektur för kommunikation med databashanterare, till exempel RESTful.</li> <li>Tekniker för att hantera full-duplex kommunikation.</li> <li>Hämta data från externa webbtjänster.</li> <li>Datalagring med och utan ORM-lager eller motsvarande teknik.</li> <li>Protokoll vid överföring av data, till exempel http.</li> <li>Autentisering och säkerhet vid överföring av data, till exempel asynkron kryptering.</li> <li>Uppnående av interoperabilitet mellan server och klient genom att följa standarder.</li> <li>Applikationsarkitektur och separation av olika slags logik, till exempel MVC.</li> <li>Kvalitetssäkring och testning av webbtjänsters funktionalitet och säkerhet, till exempel med stresstester.</li> <li>Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster.</p><p>Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt. I projektplanen beskriver eleven <strong>översiktligt </strong>produktens funktion. Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten där olika sorters logik <strong>huvudsakligen </strong>är skild från varandra. I arbetet utvecklar eleven kod som är <strong>läsbar</strong> och <strong>översiktligt</strong> kommenterad. Produkten uppvisar <strong>begränsad </strong>funktionalitet med ett språk för webbtjänster och tillhandahåller ett <strong>enkelt</strong> informationshanteringssystem som också hämtar eller lämnar data via någon <strong>enkel</strong> webbtjänst. Dessutom tillhandahåller produkten <strong>någon</strong> lösning för en permanent datalagring. I arbetet redogör eleven också <strong>översiktligt </strong>för vanliga problem som kan uppstå vid datakommunikation mellan server och klient. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. Detta kontrollerar eleven med <strong>någon </strong>test.</p><p>När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat. Eleven identifierar <strong>något</strong> hot eller sårbarhet mot produkten och vidtar <strong>någon</strong> åtgärd för att förhindra att den utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet enkel</strong> terminologi.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. I projektplanen beskriver eleven <strong>utförligt </strong>produktens funktion. Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där olika sorters logik är skilda från varandra. I arbetet utvecklar eleven kod som <strong>följer en given kodkonvention och är utförligt kommenterad</strong>. Produkten uppvisar funktionalitet med ett språk för webbtjänster och tillhandahåller ett informationshanteringssystem som också hämtar eller lämnar data via någon webbtjänst. Dessutom tillhandahåller produkten<strong> lösning för att läsa, skriva, uppdatera och ta bort data </strong><strong>mot</strong> en permanent datalagring. I arbetet redogör eleven också <strong>utförligt </strong>för vanliga problem som kan uppstå vid datakommunikation mellan server och klient. Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis. Detta kontrollerar eleven med<strong> några </strong>tester.</p><p>När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.<strong> I utvärderingen gör eleven välgrundade reflektioner över hur beslut har tagits i arbetet. </strong>Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några åtgärder</strong> för att förhindra att dessa utnyttjas. När eleven kommunicerar med andra använder hon eller han <strong>med viss säkerhet</strong> terminologi.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster.</p><p>Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt. <strong>Vid behov reviderar eleven planen.</strong> I projektplanen beskriver eleven <strong>utförligt och nyanserat </strong>produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>. Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där olika sorters logik är skilda från varandra. I arbetet utvecklar eleven kod som <strong>följer en given kodkonvention</strong> och är <strong>utförligt och nyanserat </strong>kommenterad med <strong>teknisk dokumentation</strong>. Produkten uppvisar <strong>omfattande</strong> funktionalitet med ett språk för webbtjänster och tillhandahåller ett informationshanteringssystem som också hämtar eller lämnar data via någon <strong>avancerad</strong> webbtjänst. Dessutom tillhandahåller produkten en <strong>avancerad </strong>lösning för<strong> att läsa, skriva, uppdatera och ta bort data mot</strong> en permanent datalagring. I arbetet redogör eleven också <strong>utförligt och nyanserat </strong>för vanliga problem som kan uppstå vid datakommunikation mellan server och klient. Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis. <strong>Detta kontrollerar eleven med omfattande manuella och automatiserade tester.</strong></p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>. <strong>I utvärderingen gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över hur beslut har tagits i arbetet.</strong> Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera åtgärder</strong> för att förhindra att dessa utnyttjas. <strong>Dessutom kontrollerar eleven produktens säkerhet med <strong>flera </strong>tester.</strong> När eleven kommunicerar med andra använder hon eller han <strong>med säkerhet </strong>terminologi.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.201Z"
+}

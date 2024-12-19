@@ -1,0 +1,78 @@
+{
+  "code": "HANL",
+  "name": "Handledning i vård och omsorg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:258",
+  "nameHeading": "<h2>Handledning i vård och omsorg</h2>",
+  "description": "<p>Ämnet handledning i vård och omsorg har sin vetenskapliga grund i pedagogik, vårdvetenskap och psykologi. Ämnet behandlar handledning inom hälso- och sjukvård samt mötet och relationen mellan patient eller brukare och personal.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet handledning i vård och omsorg ska syfta till att eleverna utvecklar kunskaper om handledning, dess process och betydelse inom vård och omsorg samt om yrkesroller och metoder vid handledning. Dessutom ska eleverna ges möjlighet att utveckla pedagogisk och kommunikativ förmåga. Eleverna ska också ges möjlighet att utveckla förmåga att avgöra vilken vägledning som krävs i olika vård- och omsorgssituationer. Undervisningen ska leda till att eleverna utvecklar kunskaper om hur människan samspelar med sin omgivning. Den ska också bidra till att eleverna utvecklar intresse för hur andra människor tänker och agerar.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera, genomföra och dokumentera handledning på ett pedagogiskt, jämställt och yrkesetiskt sätt. Genom medverkan i olika verksamheter ska eleverna ges möjlighet till inblick i och erfarenhet av olika pedagogiska sammanhang. Därigenom ska eleverna ges möjlighet att utveckla förmåga att praktiskt tillämpa kunskaper om handledning. Eleverna ska också ges möjlighet att utveckla förmåga att följa upp och utvärdera handledningen samt utveckla förståelse av kvalitetsarbetets betydelse för utveckling och ökad kvalitet i handledningsprocessen.</p> <p>Undervisningen ska ge eleverna möjlighet att reflektera över och diskutera egna och andras handlingar och attityder. Vidare ska användning av it för information, dokumentation och kommunikation inom verksamheten ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet handledning i vård och omsorg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om pedagogik och handledning inom vård och omsorg.</li> <li>Förmåga att använda kommunikation och samtalsmetodik som verktyg vid handledning.</li> <li>Förmåga att planera, genomföra och dokumentera uppgifter inom handledning.</li> <li>Förmåga att arbeta med kvalitetsarbete i syfte att kontinuerligt utveckla handledningsprocessen inom vård och omsorg.</li> </ul><h3>Nivåer i ämnet handledning i vård och omsorg</h3><ul><li>Nivå 1, 50 poäng. </li> <li>Nivå 2, 50 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HANL1000X</h3>",
+      "code": "HANL1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet handledning i vård och omsorg på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Handledningen och dess process.</li> <li>Den egna yrkesrollen samt rollen som handledare och pedagog.</li> <li>Pedagogiska metoder vid handledning.</li> <li>Vikten av underlag för att kunna ge ett rättvist omdöme.</li> <li>Samverkan mellan skola och verksamhet.</li> <li>Kommunikationens och samtalsmetodikens grunder och betydelse, till exempel mellan patient, brukare, närstående, studerande och olika yrkesgrupper.</li> <li>Hur kommunikation och samtalsmetodik kan användas för att uppfatta och tolka olika mottagares behov.</li> <li>Språkets och kulturella förutsättningars betydelse i handledningsprocessen.</li> <li>Hur återkoppling genom lärande- och bedömningssamtal kan genomföras samt hur lärandet kan medvetandegöras.</li> <li>Motivering, planering, genomförande och dokumentation av handledning.</li> <li>Genomförande av kontinuerliga reflektionssamtal med berörda parter.</li> <li>Genomgång av verksamhetens mål, normer och värderingar samt information om rutiner säkerhetsfrågor och arbetsmiljö.</li> <li>Systematiskt kvalitetsarbete.</li> <li>Uppföljning från målgrupperna studerande, patienter, brukare och närstående.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: HANL2000X</h3>",
+      "code": "HANL2000X",
+      "nameHeading": "<h2>Nivå 2, 50 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet handledning i vård och omsorg på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Innebörden av olika begrepp och teorier inom området handledning och pedagogik.</li> <li>Olika handledningsmodeller och deras användningsområden.</li> <li>Handledningsprocessen, däribland självreflektion över rollen som handledare och frågor om elevers olika förutsättningar.</li> <li>Valideringsprocessen och valideringshandledarrollen.</li> <li>Samverkan mellan skola och verksamhet för gemensam kompetensutveckling inom handledning.</li> <li>Kommunikationens påverkan och betydelse, till exempel vid konflikthantering och reflektionssamtal.</li> <li>Hur kommunikation och samtalsmetodik kan användas för att uppfatta och tolka olika mottagares förutsättningar och behov.</li> <li>Språkets och kulturella förutsättningars betydelse i handledningsprocessen.</li> <li>Olika samtalsmetoders och samtalssituationers betydelse för ett ömsesidigt och gott resultat.</li> <li>Motivering, planering, genomförande, dokumentation och utvärdering av handledning.</li> <li>Genomförande av kontinuerliga reflektionssamtal samt bedömningssamtal med berörda parter.</li> <li>Genomgång av verksamhetens mål, normer och värderingar samt information om och utveckling av rutiner, säkerhetsfrågor och arbetsmiljö för systematiskt kvalitetsarbete.</li> <li>Uppföljning och tillvarandetagande av utvecklingsbehov från olika målgrupper, till exempel studerande, patienter, brukare, närstående och yrkesgrupper inom verksamheten.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om handledningsprocessens olika delar samt rollen som pedagog och handledare.</p> <p>Eleven kommunicerar och interagerar med <strong>viss säkerhet</strong> med andra samt använder på ett <strong>godtagbart</strong> sätt samtalsmetodik som verktyg vid handledning.</p> <p>Eleven planerar och genomför handledningsuppgifter med <strong>godtagbart</strong> resultat. Dessutom dokumenterar eleven arbetet på ett <strong>enkelt</strong> sätt.</p> <p>Eleven bedriver systematiskt kvalitetsarbete gällande handledningsprocessen med <strong>godtagbart</strong> resultat samt gör <strong>enkla</strong> tolkningar av kvalitetsarbetets betydelse för personal, patienter och brukare.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om handledningsprocessens olika delar samt rollen som pedagog och handledare.</p> <p>Eleven kommunicerar och interagerar med <strong>säkerhet</strong> med andra samt använder på ett <strong>gott</strong> sätt samtalsmetodik som verktyg vid handledning.</p> <p>Eleven planerar och genomför handledningsuppgifter med <strong>gott</strong> resultat. Dessutom dokumenterar eleven arbetet på ett <strong>utvecklat</strong> sätt.</p> <p>Eleven bedriver systematiskt kvalitetsarbete gällande handledningsprocessen med <strong>gott</strong> resultat samt gör <strong>utvecklade</strong> tolkningar av kvalitetsarbetets betydelse för personal, patienter och brukare.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om handledningsprocessens olika delar samt rollen som pedagog och handledare.</p> <p>Eleven kommunicerar och interagerar med <strong>god säkerhet</strong> med andra samt använder på ett <strong>mycket gott</strong> sätt samtalsmetodik som verktyg vid handledning.</p> <p>Eleven planerar och genomför handledningsuppgifter med <strong>mycket gott</strong> resultat. Dessutom dokumenterar eleven arbetet på ett <strong>välutvecklat</strong> sätt.</p> <p>Eleven bedriver systematiskt kvalitetsarbete gällande handledningsprocessen med <strong>mycket gott</strong> resultat samt gör <strong>välutvecklade</strong> tolkningar av kvalitetsarbetets betydelse för personal, patienter och brukare.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.014Z"
+}

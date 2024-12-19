@@ -1,0 +1,78 @@
+{
+  "code": "TEXT",
+  "name": "Textkommunikation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:223",
+  "nameHeading": "<h2>Textkommunikation</h2>",
+  "description": "<p>Ämnet textkommunikation behandlar hur text används i kommunikation inom olika typer av medier och reklam. I ämnet ingår texten som uttrycksmedel samt produktion och analys av olika typer av texter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet textkommunikation ska syfta till att eleverna utvecklar förmåga att skriva texter med anpassning till syfte och mottagare inom områdena journalistik, reklam, information, sociala medier samt inom ljud- och filmproduktion. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda journalistiska arbetsmetoder samt metoder för att formulera effektiva budskap inom reklam och information. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att skriva manus till ljud- och filmproduktioner inom medieområdet. I undervisningen ska eleverna ges möjlighet att använda relevant teknik i produktionen av olika typer av texter.</p> <p>Eleverna ska genom undervisningen få möjlighet att utveckla ett analytiskt förhållningssätt till olika typer av texter. Undervisningen ska också bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga för att utföra arbetsuppgifter i såväl det individuella arbetet som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet textkommunikation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att producera journalistiska texter.</li> <li>Förmåga att producera reklam- och informationstexter med budskap anpassade till olika syften och mottagare.</li> <li>Förmåga att analysera olika typer av texter.</li> <li>Förmåga att skriva manus för ljud- och filmproduktion.</li> </ul><h3>Nivåer i ämnet textkommunikation</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TEXT1000X</h3>",
+      "code": "TEXT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet textkommunikation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Normer för språkriktighet.</li> <li>Hur personer, miljöer och händelser kan gestaltas och förmedlas i journalistiska texter.</li> <li>Analys av olika typer av texter.</li> <li>Journalistikens arbetssätt och principer, däribland intervjuteknik, research, etik och källkritik.</li> <li>Skrivande av journalistiska texter grundade på fakta och saklighet samt på journalistikens arbetssätt och principer.</li> <li>Skrivande av reklamtexter och enklare informationstexter utifrån branschernas arbetssätt och principer, däribland användning av retorik, bildspråk och etik.</li> <li>Skrivande av interaktiv text för sociala medier med anpassning till olika syften och mottagare.</li> <li>Ljud- och filmproduktioners dramaturgi samt skrivande av enklare manus, till exempel nyhetsinslag och reklam.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TEXT2000X</h3>",
+      "code": "TEXT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet textkommunikation på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Språk och uttryck i textproduktioner mot olika målgrupper, till exempel hur dramaturgi används när budskap formuleras.</li> <li>Analys av och respons på andras texter.</li> <li>Skrivande av journalistiska texter, däribland reportage samt gestaltningar av personer och miljöer.</li> <li>Skrivande av reklamtexter och texter för organisationers interna och externa kommunikation med anpassning till olika syften och mottagare.</li> <li>Skrivande av manus för längre ljud- och filmproduktioner som personporträtt eller reportage.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven producerar olika typer av journalistiska texter av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven producerar reklam- och informationstexter av <strong>godtagbar</strong> kvalitet med budskap anpassade till olika syften och mottagare.</p> <p>Eleven gör <strong>enkla</strong> analyser av olika typer av texter.</p> <p>Eleven skriver manus för ljud- eller filmproduktion av <strong>godtagbar</strong> kvalitet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven producerar olika typer av journalistiska texter av <strong>god</strong> kvalitet.</p> <p>Eleven producerar reklam- och informationstexter av <strong>god</strong> kvalitet med budskap anpassade till olika syften och mottagare.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av olika typer av texter.</p> <p>Eleven skriver manus för ljud- eller filmproduktion av <strong>god</strong> kvalitet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven producerar olika typer av journalistiska texter av <strong>mycket god</strong> kvalitet.</p> <p>Eleven producerar reklam- och informationstexter av <strong>mycket god</strong> kvalitet med budskap anpassade till olika syften och mottagare.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av olika typer av texter.</p> <p>Eleven skriver manus för ljud- eller filmproduktion av <strong>mycket god</strong> kvalitet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.091Z"
+}

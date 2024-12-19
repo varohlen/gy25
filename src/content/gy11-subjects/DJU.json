@@ -1,0 +1,257 @@
+{
+  "code": "DJU",
+  "name": "Djur",
+  "englishName": "Animals",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:184",
+  "skolfsAndring": "2022:74",
+  "nameHeading": "<h2>Djur</h2>",
+  "description": "<p>Ämnet djur behandlar skötsel av djur och anläggningar. I ämnet behandlas djur för livsmedelsproduktion och landskapsvård samt hästar, hundar och sällskapsdjur. Ämnet omfattar också de djurarter som förekommer inom zoohandeln. Det ökade intresset för djur i olika sammanhang skapar nya verksamhetsområden och arbetstillfällen inom naturbruket. Ämnet behandlar också djurens betydelse i ekosystemen. Centralt i ämnet är hantering av djur, djurens behov, djuretik samt lagar och andra bestämmelser som reglerar djurhållning av olika slag.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet djur ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med djur. Den ska leda till att eleverna utvecklar förmåga att sköta djur med utgångspunkt i djurs behov och naturliga beteende samt med vetenskapligt beprövade metoder som grund. Eleverna ska ges möjlighet att utveckla förmåga att följa fasta rutiner och ta ansvar i arbetet med djur samt kunskaper om foder och foderhantering. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur man förebygger skador och sjukdomar hos djur samt hur man minimerar påverkan på miljön. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med djurhållning av olika slag. </p><p>Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta djur och anläggningar samt teknisk utrustning. Genom stallturer och fältstudier i olika djurmiljöer ska eleverna ges möjlighet att följa djurs utveckling, hälsa och välbefinnande. Genom observationer och fältstudier ska eleverna ges möjlighet att utveckla kunskaper om etologi.</p><h4>Undervisningen i ämnet djur ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om djurarter och artgrupper, om djurens betydelse i ekosystemen samt om djurens betydelse för människan och i olika verksamheter.</li> <li>Kunskaper om etologi i samband med djurhållning.</li> <li>Kunskaper om näringsfysiologi, utfodring och foderhantering.</li> <li>Förmåga att sköta och hantera djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav.</li> <li>Förmåga att sköta och hantera utrustning och anläggningar på ett säkert sätt.</li> <li>Förmåga att arbeta ergonomiskt och med hänsyn till miljön.</li> <li>Kunskaper om hygien och smittskydd samt förmåga att följa hygienrutiner och förebygga ohälsa hos djuren.</li> <li>Kunskaper om lagar och andra bestämmelser som rör djurhållning.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Djuren i naturbruket, 100 poäng, som bygger på kursen naturbruk.</li> <li>Djurhållning, 100 poäng, som bygger på kursen naturbruk.</li> <li>Sällskapsdjur 1, 100 poäng. </li> <li>Sällskapsdjur 2, 100 poäng, som bygger på kursen sällskapsdjur 1.</li> <li>Djur i zoohandel, 200 poäng, som bygger på kursen sällskapsdjur 2.</li> <li>Djur – specialisering, 100 poäng, som bygger på kursen sällskapsdjur 1 eller kursen lantbruksdjur 2. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: DJUDJR0</h3>",
+      "code": "DJUDJR0",
+      "nameHeading": "<h2>Djuren i naturbruket, 100 poäng</h2>",
+      "name": "Djuren i naturbruket",
+      "englishName": "Animals in natural resource use",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen djuren i naturbruket omfattar punkterna 1 och 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 5.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Djuren i naturbruket</strong> </p><ul> <li>Djurslag inom naturbruket, olika djurslags ursprung samt domesticering av djur. </li> <li>Djurens betydelse i naturbruket och i ekosystemen samt för den biologiska mångfalden.</li> <li>Djurens användningsområden för produktion, inom sport samt för miljö och livskvalitet.</li> <li>Produkter och tjänster från djur.</li> <li>Djurens ekonomiska betydelse inom naturbruket.</li> <li>Fodrets näringsinnehåll och kvalitet.</li> </ul><p> <strong>Arbetsuppgifter</strong> </p><ul> <li>Hantering av naturbrukets djur med utgångspunkt i djurens behov och i etiska ställningstaganden. </li> <li>Utfodring och foderhantering med adekvat teknisk utrustning.</li> <li>Hantering av strömedel och gödsel med adekvat teknisk utrustning och med utgångspunkt från djurens behov och miljölagstiftning. </li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor samt lagar och andra bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur.</li> <li>Djurskyddslagstiftning som rör djuren i naturbruket.</li> <li>Miljölagstiftning i samband med djurhållning och gödselhantering.</li> <li>Livsmedelslagstiftning som reglerar produktion av livsmedel.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden. Dessutom redogör eleven <strong>översiktligt </strong>för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>i samråd </strong>med handledare utrustning och anläggningar på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden. Dessutom redogör eleven <strong>utförligt</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning och anläggningar på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika djurslag inom naturbruket, djurens betydelse i naturbruket och i ekosystemen samt för djurens betydelse för den biologiska mångfalden. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning och anläggningar på ett säkert sätt. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DJUDJH0</h3>",
+      "code": "DJUDJH0",
+      "nameHeading": "<h2>Djurhållning, 100 poäng</h2>",
+      "name": "Djurhållning",
+      "englishName": "Animal management",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen djurhållning omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 4–5 och 7.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Biologisk grund</strong> </p><ul> <li>Olika djurgrupper och deras beteende i samband med tillsyn och skötsel.</li> <li>Djurens krav på stallklimat innefattande värme, ventilation, luftfuktighet och ljus.</li> <li>Olika fodermedel och fodersmältning hos olika djurslag.</li> <li>Djurens krav på vattentillgång och vattenkvalitet.</li> <li>Hygien och smittskydd.</li> </ul><p> <strong>Arbetsuppgifter</strong> </p><ul> <li>Arbetsrutiner vid skötsel av djur, till exempel vid utfodring, gödselhantering och tillsyn.</li> <li>Hantering av djur i djurstallar, rasthagar och betesdrift med utgångspunkt i djurens beteende och behov.</li> <li>Utfodring och foderhantering med utgångspunkt i djurens behov och med aktuell teknisk utrustning. Kontroll av kvalitet och foderhygien. </li> <li>Skötsel av byggnader och djuranläggningar samt hantering och underhåll av aktuell teknisk utrustning.</li> <li>Funktionskontroll av teknisk utrustning. Användning av fordon i samband med arbetsuppgifter inom djurhållning.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och andra bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur.</li> <li>Djurskyddslagstiftning som rör djuren i naturbruket.</li> <li>Miljölagstiftning i samband med djurhållning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för olika djurgrupper och deras beteende. Eleven redogör också <strong>översiktligt</strong> för stallklimatets betydelse för djurens välbefinnande. Dessutom redogör eleven <strong>översiktligt </strong>för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet. I redogörelsen förklarar eleven <strong>översiktligt </strong>sambandet mellan typ av fodersmältning och val av foder.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd </strong>med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav. I arbetet kontrollerar eleven <strong>i samråd </strong>med handledare stallklimatet. Eleven sköter och hanterar också <strong>i samråd </strong>med handledare utrustning, byggnader och anläggningar på ett säkert sätt. Dessutom kör eleven <strong>i samråd </strong>med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för olika djurgrupper och deras beteende. Eleven redogör också <strong>utförligt</strong> för stallklimatets betydelse för djurens välbefinnande. Dessutom redogör eleven <strong>utförligt</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet. I redogörelsen förklarar eleven <strong>utförligt</strong> sambandet mellan typ av fodersmältning och val av foder.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav. I arbetet kontrollerar eleven <strong>efter samråd </strong>med handledare stallklimatet. Eleven sköter och hanterar också <strong>efter samråd </strong>med handledare utrustning, byggnader och anläggningar på ett säkert sätt. Dessutom kör eleven <strong>efter samråd </strong>med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt</strong> för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika djurgrupper och deras beteende. Eleven redogör också <strong>utförligt och nyanserat</strong> för stallklimatets betydelse för djurens välbefinnande. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika fodermedel, deras användningsområden och olika djurarters val av föda samt för djurens krav på vattentillgång och vattenkvalitet. I redogörelsen förklarar eleven <strong>utförligt och nyanserat</strong> sambandet mellan typ av fodersmältning och val av foder.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt, med aktuella metoder samt utifrån djurens behov och verksamhetens krav. I arbetet kontrollerar eleven <strong>efter samråd </strong>med handledare stallklimatet. Eleven sköter och hanterar också <strong>efter samråd </strong>med handledare utrustning, byggnader och anläggningar på ett säkert sätt. Dessutom kör eleven <strong>efter samråd </strong>med handledare fordon på ett säkert sätt när hon eller han arbetar med skötsel av djur och anläggningar. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DJUSÄL01</h3>",
+      "code": "DJUSÄL01",
+      "nameHeading": "<h2>Sällskapsdjur 1, 100 poäng</h2>",
+      "name": "Sällskapsdjur 1",
+      "englishName": "Pets 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen sällskapsdjur 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4–5.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Biologisk grund</strong> </p><ul> <li>Identifiering och namngivning av ett begränsat antal djurarter med vetenskapliga och yrkesmässiga termer. </li> <li>Sällskapsdjurens historik och betydelse för människan.</li> <li>Djurarternas naturliga beteenden och naturliga livsmiljö. Arternas egenskaper och särskilda behov.</li> <li>Djurarternas olika vistelsemiljöer vad gäller till exempel temperatur, ljus, bomaterial och tillgång på vatten. </li> <li>Rutiner för att upptäcka beteendeförändringar hos sällskapsdjur. Orsaker till beteendeförändringar som följd av skador och sjukdomar.</li> <li>Vanliga sjukdomar och förebyggande hälsovård samt vård av sjuka djur.</li> </ul><p> <strong>Arbetsuppgifter och utrustning</strong> </p><ul> <li>Daglig skötsel av olika sällskapsdjur vad gäller till exempel utfodring, tillsyn, kontroll av utrustning och rengöring.</li> <li>Hantering av vanligt förekommande sällskapsdjur.</li> <li>Återkommande rutinåtgärder, till exempel visitation, hälsokontroll, pälsvård och kloklippning.</li> <li>Hantering av djurfoder.</li> <li>Olika typer av vistelseutrymmen, till exempel hundgårdar, hundboxar, burar, akvarier, terrarier och bolådor samt djurens behov, vistelseutrymmens utformning och materialval.</li> <li>Strömedel, till exempel kutterspån, torv och halm.</li> <li>Skötsel och underhåll av vistelseutrymmen.</li> <li>Underhåll, skötsel och hantering av aktuell teknisk utrustning.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med sällskapsdjur.</li> <li>Lagar och andra bestämmelser i samband med arbete med sällskapsdjur.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>översiktligt </strong>för de olika sällskapsdjurens betydelse för människan. I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>översiktligt</strong> tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel. Eleven redogör <strong>översiktligt </strong>för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa. Dessutom redogör eleven <strong>översiktligt </strong>för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>i samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>i samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>utförligt </strong>för de olika sällskapsdjurens betydelse för människan. I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>utförligt </strong>tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel. Eleven redogör <strong>utförligt </strong>för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa. Dessutom redogör eleven <strong>utförligt </strong>för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar <strong>med säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer några av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för de olika sällskapsdjurens betydelse för människan. I samband med praktiskt arbete med djur observerar eleven djurens beteende samt beskriver <strong>utförligt och nyanserat </strong>tecken på välmående och tecken som kan tyda på ohälsa eller vantrivsel. Eleven redogör <strong>utförligt och nyanserat </strong>för djurens miljö, de faktorer som påverkar djurens hälsa och de åtgärder som bidrar till god djurhälsa. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för utfodring och foderhantering samt för fodrets näringsinnehåll och kvalitet.</p><p>Eleven följer arbetsinstruktioner och sköter och hanterar <strong>efter samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DJUSÄL02</h3>",
+      "code": "DJUSÄL02",
+      "nameHeading": "<h2>Sällskapsdjur 2, 100 poäng</h2>",
+      "name": "Sällskapsdjur 2",
+      "englishName": "Pets 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen sällskapsdjur 2 omfattar punkterna 1–8 under Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Biologisk grund</strong> </p><ul> <li>Identifiering och namngivning av ett flertal djurarter med vetenskapliga och yrkesmässiga termer.</li> <li>Djurarternas naturliga beteenden och naturliga livsmiljö. Arternas egenskaper och särskilda behov samt deras naturliga livsmiljö vad gäller till exempel temperatur, ljus, bottenmaterial och tillgång på vatten. </li> <li>Djurs påverkan av miljöomställningar och stress.</li> <li>Klimatkontroll i djurmiljön.</li> <li>Miljöberikning för att stimulera djurens naturliga beteende.</li> <li>Reproduktion och avel innefattande till exempel könsbestämning, dräktighetstid och avvänjningsålder.</li> <li>Avlivning och hantering av döda djur.</li> <li>Foder och foderberäkning, fodrets näringsinnehåll och kvalitet samt artspecifika foderbehov.</li> </ul><p> <strong>Arbetsuppgifter och utrustning</strong> </p><ul> <li>Utarbetande av planer för skötsel av sällskapsdjur. Arbetsuppgifter utifrån uppgjord plan samt uppföljning och rapportering.</li> <li>Hantering av vanligt förekommande sällskapsdjur.</li> <li>Val av vistelseutrymme för olika djurarter.</li> <li>Rutiner för att upptäcka beteendeförändringar hos sällskapsdjur. Orsaker till beteendeförändringar som följd av skador och sjukdomar samt lämpliga åtgärder.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med sällskapsdjur.</li> <li>Lagar och andra bestämmelser i samband med arbete med sällskapsdjur.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>översiktligt </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>enkla </strong>bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven redogör <strong>översiktligt </strong>för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till. Eleven redogör också <strong>översiktligt </strong>för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt. Dessutom redogör eleven <strong>översiktligt </strong>för olika fodermedel och deras egenskaper samt gör <strong>i samråd </strong>med handledare<strong> enkla</strong> foderberäkningar för olika djurarter.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>i samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>i samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>utförligt </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade </strong>bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven redogör <strong>utförligt </strong>för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till. Eleven redogör också <strong>utförligt </strong>för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt. Dessutom redogör eleven <strong>utförligt </strong>för olika fodermedel och deras egenskaper samt gör <strong>efter samråd </strong>med handledare foderberäkningar för olika djurarter.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>efter samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar <strong>med säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett flertal av de djurarter som används som sällskapsdjur. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade och nyanserade </strong>bedömningar av sina observationer och föreslår <strong>avancerade</strong> åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för sällskapsdjurens reproduktionsbiologi samt för hur avelsarbete går till. Eleven redogör också <strong>utförligt och nyanserat </strong>för när och hur sällskapsdjur bör avlivas samt för hur döda djur bör hanteras på ett etiskt sätt. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för olika fodermedel och deras egenskaper samt gör <strong>efter samråd </strong>med handledare<strong> avancerade</strong> foderberäkningar för olika djurarter.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>efter samråd </strong>med handledare sällskapsdjur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DJUDJI0</h3>",
+      "code": "DJUDJI0",
+      "nameHeading": "<h2>Djur i zoohandel, 200 poäng</h2>",
+      "name": "Djur i zoohandel",
+      "englishName": "Animals in pet shops",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen djur i zoohandel omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 4.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><p><strong>Information vid försäljning av djur</strong> </p><ul> <li>Djurart och släkt med svenskt och vetenskapligt namn.</li> <li>Djurets kön.</li> <li>Djurartens storlek och livslängd.</li> <li>Djurartens aktivitetsmönster och sociala organisation i naturen.</li> <li>Djurartens behov av utrymme, inredning, klimat och ljus.</li> <li>Rymningssäkert utrymme.</li> <li>Miljöomställning.</li> <li>Näringsbehov.</li> <li>Vintervila.</li> <li>Djurens hälsa och vanliga sjukdomar hos aktuell djurart.</li> </ul><p> <strong>Arbetsuppgifter</strong> </p><ul> <li>Planering och genomförande av dagliga skötselrutiner av djur i zoohandel, till exempel utfodring och städning av burar.</li> <li>Planering och genomförande av fasta rutiner, till exempel visitering, kloklippning och klimatkontroll i lokaler.</li> <li>Planering och genomförande av rengöring, iordningställande och miljöberikning av burar, akvarier och terrarier.</li> <li>Könsbestämning av djur i zoohandel.</li> <li>Uppfödning och avel av djur i zoohandel.</li> <li>Hygien, desinficering och avfallshantering.</li> <li>Hantering av djurflöden med hänsyn till smittskyddsaspekter.</li> <li>Hantering av butiksvaror.</li> <li>Försäljning av djur, foder och tillbehör samt rådgivning i samband med det.</li> <li>Information om djur och produkter i samband med kundmöten.</li> <li>Skriftlig information vid försäljning av djur enligt bestämmelser som gäller inom området. </li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur i zoohandel.</li> <li>Lagar och andra bestämmelser som rör arbete med djur i zoohandel vad gäller till exempel djurskydd, handel med djur, införsel och hotade arter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln. Dessutom redogör eleven <strong>översiktligt </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>enkla </strong>bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>i samråd </strong>med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>i samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>Inför försäljning av djur sammanställer eleven <strong>i samråd </strong>med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas. Dessutom informerar eleven muntligt vid försäljning av djur och svarar på <strong>enkla </strong>frågor.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven identifierar <strong>med viss säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln. Dessutom redogör eleven <strong>utförligt </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade </strong>bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>efter samråd </strong>med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>Inför försäljning av djur sammanställer eleven <strong>efter samråd </strong>med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas. Dessutom informerar eleven muntligt vid försäljning av djur och svarar på frågor.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven identifierar <strong>med säkerhet </strong>och namnger med vetenskapliga och yrkesmässiga termer ett brett sortiment av djurarter som säljs i zoohandeln. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för de olika djurarternas naturliga beteende. När eleven observerar djurens beteende identifierar hon eller han <strong>med säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade och nyanserade </strong>bedömningar av sina observationer och föreslår <strong>avancerade </strong>åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete samt sköter och hanterar <strong>efter samråd </strong>med handledare djur i zoohandeln på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>Inför försäljning av djur sammanställer eleven <strong>efter samråd </strong>med handledare skriftlig information om djuren och i vilken miljö djuren kan vistas. Dessutom informerar eleven muntligt vid försäljning av djur och svarar på <strong>avancerade </strong>frågor.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DJUDJU00S</h3>",
+      "code": "DJUDJU00S",
+      "nameHeading": "<h2>Djur – specialisering, 100 poäng</h2>",
+      "name": "Djur – specialisering",
+      "englishName": "Animals – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen djur – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom vald specialisering.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Fördjupning inom vald specialisering.</li> <li>Djurarter och djurraser inom vald specialisering.</li> <li>Etologi inom vald specialisering.</li> <li>Foder, utfodring och djurens näringsbehov inom vald specialisering.</li> <li>Arbetsplanering och genomförande av arbetsuppgifter inom vald specialisering.</li> <li>Skötsel och hantering av djur inom vald specialisering.</li> <li>Skötsel och hantering av anläggningar och utrustning inom vald specialisering.</li> <li>Ergonomi, arbetsmiljö och säkerhet.</li> <li>Hygien, smittskydd och förebyggande hälsoarbete.</li> <li>Lagar och andra bestämmelser inom vald specialisering, vad gäller till exempel djurskydd, handel med djur, införsel och hotade arter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven observerar djurs beteende och identifierar i samband med det <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>enkla </strong>bedömningar av sina observationer och föreslår <strong>enkla</strong> åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>i samråd </strong>med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>i samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>i samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>översiktligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven observerar djurs beteende och identifierar i samband med det <strong>med viss säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade </strong>bedömningar av sina observationer och föreslår åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven observerar djurs beteende och identifierar i samband med det <strong>med säkerhet </strong>tecken som tyder på ohälsa eller vantrivsel. Eleven gör <strong>välgrundade och nyanserade </strong>bedömningar av sina observationer och föreslår <strong>avancerade </strong>åtgärder för att förbättra djurens hälsa och närmiljö.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare sitt arbete inom vald specialisering samt sköter och hanterar <strong>efter samråd </strong>med handledare djur på ett etiskt och säkert sätt samt utifrån djurens behov och verksamhetens krav. Dessutom sköter och hanterar eleven <strong>efter samråd </strong>med handledare utrustning, anläggningar och vistelsemiljöer på ett säkert sätt. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar ergonomiskt och tar hänsyn till miljön. I arbetet följer eleven aktuella hygienrutiner och förebygger ohälsa hos djuren samt redogör <strong>utförligt och nyanserat </strong>för hygien och smittskydd. Dessutom redogör eleven <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör djurhållning.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.973Z"
+}

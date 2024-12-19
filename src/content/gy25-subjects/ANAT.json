@@ -1,0 +1,92 @@
+{
+  "code": "ANAT",
+  "name": "Anatomi och fysiologi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:130",
+  "nameHeading": "<h2>Anatomi och fysiologi</h2>",
+  "description": "<p>Ämnet anatomi och fysiologi har sin grund i anatomi, fysiologi, mikrobiologi och farmakologi. Ämnet behandlar människokroppens uppbyggnad och funktion, vanliga mikroorganismer och deras spridningsvägar samt läkemedel och läkemedelshantering.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet anatomi och fysiologi ska syfta till att eleverna utvecklar grundläggande kunskaper om människokroppens uppbyggnad och funktion samt om människans normala fysiska utveckling från befruktning till livets slut. Undervisningen ska också stimulera elevernas nyfikenhet och lust till fortsatt lärande inom området.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om medicinsk terminologi och förmåga att använda denna på olika sätt och i olika sammanhang. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om vanliga mikroorganismer och hur de sprids samt hur smittspridning kan förhindras. Undervisningen ska även ge eleverna möjlighet att utveckla grundläggande kunskaper om hur kroppens försvarssystem fungerar.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla de grundläggande kunskaper om läkemedel och deras användningsområden som behövs för att utföra enklare läkemedelsberäkningar och rimlighetsbedömningar av resultaten. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller läkemedel och läkemedelsanvändning. Undervisningen ska bidra till att eleverna utvecklar förmåga att lösa problem, ta eget ansvar och samarbeta. Eleverna ska också ges möjlighet att reflektera över sina erfarenheter för att dra lärdom av dem.</p> <h5><em>Undervisningen i ämnet anatomi och fysiologi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om människokroppens uppbyggnad, fysiska utveckling och funktion samt om relevant medicinsk terminologi.</li> <li>Kunskaper om mikroorganismer och hur de sprids samt om smittförebyggande åtgärder och kroppens försvarssystem.</li> <li>Kunskaper om användningsområden och administreringssätt för vanliga läkemedel samt om enklare läkemedelsberäkning.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller för läkemedelshantering.</li> </ul><h3>Nivåer i ämnet anatomi och fysiologi</h3><ul><li>Nivå 1a1, 50 poäng. Betyg i anatomi och fysiologi som omfattar nivå 1a1 kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1b.</li> <li>Nivå 1a2, 50 poäng, som bygger på nivå 1a1. Betyg i anatomi och fysiologi som omfattar nivå 1a2 kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1b.</li> <li>Nivå 1b, 100 poäng. Betyg i anatomi och fysiologi som omfattar nivå 1b kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1a1 eller 1a2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ANAT1A10X</h3>",
+      "code": "ANAT1A10X",
+      "nameHeading": "<h2>Nivå 1a1, 50 poäng</h2>",
+      "name": "Nivå 1a1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet anatomi och fysiologi på nivå 1a1 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande om människokroppens uppbyggnad, funktion och fysiska utveckling.</li> <li>Grundläggande medicinsk terminologi.</li> <li>Vanliga mikroorganismer och hur de sprids samt åtgärder för att förebygga smitta.</li> <li>Grundläggande om läkemedel och läkemedelshantering, däribland olika administreringssätt samt halveringstid, terapeutisk bredd och vanliga biverkningar.</li> <li>Rimlighetsbedömningar vid läkemedelshantering.</li> <li>Ansvarsfull antibiotikahantering.</li> <li>Enkel läkemedelsberäkning.</li> <li>Lagar och andra bestämmelser som gäller delegering av och personligt ansvar för läkemedelshantering.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ANAT1A20X</h3>",
+      "code": "ANAT1A20X",
+      "nameHeading": "<h2>Nivå 1a2, 50 poäng</h2>",
+      "name": "Nivå 1a2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet anatomi och fysiologi på nivå 1a2 ska behandla följande centrala innehåll:</p> <ul> <li>Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.</li> <li>Kroppens vätske-, elektrolyt- och näringsbalans.</li> <li>Människans utveckling från barn till äldre.</li> <li>Den fysiologiska processen vid människans fortplantning, från befruktning till förlossning.</li> <li>Medicinsk terminologi.</li> <li>Kroppens försvarssystem mot mikroorganismer och virus.</li> <li>Vanliga läkemedel, deras verkningssätt och användningsområden samt vilka biverkningar de kan ha.</li> <li>Hur antibiotika fungerar.</li> <li>Enklare läkemedelsberäkningar samt rimlighetsbedömningar av resultaten från beräkningarna.</li> <li>Lagar och andra bestämmelser som gäller för läkemedelsanvändning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ANAT1B00X</h3>",
+      "code": "ANAT1B00X",
+      "nameHeading": "<h2>Nivå 1b, 100 poäng</h2>",
+      "name": "Nivå 1b",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet anatomi och fysiologi på nivå 1b ska behandla följande centrala innehåll:</p> <ul> <li>Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.</li> <li>Kroppens vätske-, elektrolyt- och näringsbalans.</li> <li>Människans utveckling från barn till äldre.</li> <li>Den fysiologiska processen vid människans fortplantning, från befruktning till förlossning.</li> <li>Medicinsk terminologi.</li> <li>Vanliga mikroorganismer och hur de sprids samt hur kroppens försvarssystem mot mikroorganismer och virus fungerar.</li> <li>Vanliga läkemedel, deras verkningssätt och användningsområden samt vilka biverkningar de kan ha.</li> <li>Hur antibiotika fungerar och vad som kännetecknar en ansvarsfull antibiotikaanvändning.</li> <li>Läkemedels olika administreringssätt, halveringstid och terapeutisk bredd.</li> <li>Enklare läkemedelsberäkningar samt rimlighetsbedömningar av resultaten från beräkningarna.</li> <li>Lagar och andra bestämmelser som gäller för läkemedelsanvändning, däribland bestämmelser om delegering av och personligt ansvar för läkemedelshantering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur människokroppen är uppbyggd, utvecklas och fungerar. Eleven använder med <strong>viss säkerhet</strong> medicinsk terminologi.</p> <p>Eleven ger exempel på vanliga mikroorganismer och redogör <strong>översiktligt</strong> för hur de sprids samt hur smitta kan förebyggas.</p> <p>Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel och deras hantering, verkningssätt och biverkningar. Dessutom gör eleven rimlighetsbedömningar av resultat utifrån läkemedelsberäkningar med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller för användning och hantering av läkemedel.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur människokroppen är uppbyggd, utvecklas och fungerar. Eleven använder med <strong>säkerhet</strong> medicinsk terminologi.</p> <p>Eleven ger exempel på vanliga mikroorganismer och redogör <strong>utförligt</strong> för hur de sprids samt hur smitta kan förebyggas.</p> <p>Eleven beskriver <strong>utförligt</strong> vanliga läkemedel och deras hantering, verkningssätt och biverkningar. Dessutom gör eleven rimlighetsbedömningar av resultat utifrån läkemedelsberäkningar med <strong>säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller för användning och hantering av läkemedel.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur människokroppen är uppbyggd, utvecklas och fungerar. Eleven använder med <strong>god säkerhet</strong> medicinsk terminologi.</p> <p>Eleven ger exempel på vanliga mikroorganismer och redogör <strong>utförligt och nyanserat</strong> för hur de sprids samt hur smitta kan förebyggas.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel och deras hantering, verkningssätt och biverkningar. Dessutom gör eleven rimlighetsbedömningar av resultat utifrån läkemedelsberäkningar med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller för användning och hantering av läkemedel.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.958Z"
+}

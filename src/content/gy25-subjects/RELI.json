@@ -1,0 +1,78 @@
+{
+  "code": "RELI",
+  "name": "Religionskunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2023-12-13",
+  "version": "gy25",
+  "versionInfo": "Första version",
+  "skolfsGrund": "2023:130",
+  "nameHeading": "<h2>Religionskunskap</h2>",
+  "description": "<p>Ämnet religionskunskap har sin vetenskapliga förankring främst i religionsvetenskapen, men är till sin karaktär tvärvetenskapligt. Det behandlar hur religioner och andra livsåskådningar kommer till uttryck i ord och handling samt hur människor formulerar och förhåller sig till etiska och existentiella frågor. I ämnet behandlas trons och etikens betydelse för individers upplevelse av mening och tillhörighet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet religionskunskap ska syfta till att eleverna breddar, fördjupar och utvecklar kunskaper om olika religioner, livsåskådningar och etiska förhållningssätt. Kunskaper om samt förståelse för kristendomen och dess traditioner har särskild betydelse då denna tradition förvaltat den värdegrund som ligger till grund för det svenska samhället. Undervisningen ska ta sin utgångspunkt i en samhällssyn som präglas av öppenhet i fråga om livshållningar och människors olikheter i ett samhälle präglat av mångfald.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att resonera om religion och livsåskådning i relation till människors identitet. Eleverna ska ges möjlighet att reflektera över och analysera människors värderingar och trosföreställningar och därigenom utveckla respekt för människor och förståelse för olika sätt att tänka och leva men undervisningen ska också belysa religiösa tolkningar som inte är förenliga med mänskliga rättigheter och demokratiska värderingar.</p> <p>Undervisningen ska ge eleverna möjlighet att kritiskt granska hur religion och livsåskådning både påverkar och påverkas av förhållanden och skeenden i samhället. Det innebär bland annat att eleverna ska ges möjlighet att diskutera kristendomens roll i det svenska samhället samt hur relationen mellan religion och vetenskap kan tolkas och uppfattas. Undervisningen ska också ge eleverna möjlighet att resonera om hur religion kan förhålla sig till frågor om bland annat kön och sexualitet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att diskutera och analysera etiska och existentiella frågor utifrån religion och livsåskådning samt utifrån etiska begrepp och modeller. Därigenom ska undervisningen ge verktyg för självständiga reflektioner och ställningstaganden i frågor som har betydelse för eleverna.</p> <h5><em>Undervisningen i ämnet religionskunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om religioner och andra livsåskådningar samt om olika tolkningar och varierande praktiker inom dessa.</li> <li>Kunskaper om människors identitet i relation till religion och livsåskådning.</li> <li>Förmåga att resonera om relationen mellan religion och samhälle.</li> <li>Förmåga att analysera och reflektera över etiska och existentiella frågor.</li> </ul><h3>Nivåer i ämnet religionskunskap</h3><ul><li>Nivå 1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande.</li> <li>Nivå 2, 50 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RELI1000X</h3>",
+      "code": "RELI1000X",
+      "nameHeading": "<h2>Nivå 1, 50 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet religionskunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Tolkningar och varierande praktiker inom kristendom samt islam, judendom, hinduism och buddhism, i Sverige och i omvärlden, med betoning på samtida förhållanden. Kännetecken för dessa religioner samt jämförande perspektiv inom och mellan religioner och andra livsåskådningar, till exempel på människosyn och gudsuppfattningar.</li> <li>Hur individers och gruppers identitet kan formas i förhållande till religion och livsåskådning. Rätten till religionsfrihet.</li> <li>Hur religion och livsåskådning kan påverka och påverkas av förhållanden och skeenden i samhället. Frågor om religion och vetenskap i förhållande till olika sätt att förstå världen samt frågor om religion i relation till kön och sexualitet.</li> <li>Analys av och reflektion över etiska och existentiella frågor utifrån religioner och andra livsåskådningar samt utifrån relevanta begrepp och modeller. Etiska och moraliska föreställningar om vad ett gott liv och ett gott samhälle kan vara.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: RELI2000X</h3>",
+      "code": "RELI2000X",
+      "nameHeading": "<h2>Nivå 2, 50 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "50",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet religionskunskap på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Privatreligiositet i relation till religioner och andra livsåskådningar. Nyreligiösa rörelser och strömningar och deras relation till andra religioner.</li> <li>Religiösa föreställningar och praktiker hos urfolk i Sverige och i omvärlden. Jämförande perspektiv, även i förhållande till andra religioner, till exempel avseende människosyn och gudsuppfattningar.</li> <li>Hur människors identitet, tillhörigheter, gemenskaper och syn på till exempel frihet och ansvar kan formas i förhållande till religion och livsåskådning.</li> <li>Historiska och aktuella händelser och debatter som rör relationen mellan religion och samhälle, däribland frågor om religion och vetenskap samt jämlikhet och jämställdhet.</li> <li>Etiska och existentiella frågor som är relevanta för utbildningens karaktär. Analys och reflektion utifrån relevanta begrepp och modeller samt i förhållande till olika föreställningar inom religioner och andra livsåskådningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om religioner och andra livsåskådningar. Eleven för <strong>enkla</strong> resonemang om varierande tolkningar och praktiker inom och mellan olika religioner och andra livsåskådningar.</p> <p>Eleven för <strong>enkla</strong> resonemang om hur människors identitet kan formas i relation till religion och livsåskådning.</p> <p>Eleven för <strong>enkla</strong> resonemang om frågor som rör relationen mellan religion och samhälle.</p> <p>Eleven gör <strong>enkla</strong> analyser av och reflektioner över etiska och existentiella frågor.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om religioner och andra livsåskådningar. Eleven för <strong>utvecklade</strong> resonemang om varierande tolkningar och praktiker inom och mellan olika religioner och andra livsåskådningar.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om hur människors identitet kan formas i relation till religion och livsåskådning.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om frågor som rör relationen mellan religion och samhälle.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av och reflektioner över etiska och existentiella frågor.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om religioner och andra livsåskådningar. Eleven för <strong>utvecklade och nyanserade</strong> resonemang om varierande tolkningar och praktiker inom och mellan olika religioner och andra livsåskådningar.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om hur människors identitet kan formas i relation till religion och livsåskådning.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om frågor som rör relationen mellan religion och samhälle.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser av och reflektioner över etiska och existentiella frågor.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.070Z"
+}

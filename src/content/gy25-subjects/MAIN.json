@@ -1,0 +1,78 @@
+{
+  "code": "MAIN",
+  "name": "Marin el",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:317",
+  "nameHeading": "<h2>Marin el</h2>",
+  "description": "<p>Ämnet marin el behandlar elinstallationer och elsystem i fritidsbåtar och på mindre fartyg i yrkestrafik. Skador på fartygets elinstallationer och elektriska system kan leda till att människor utsätts för fara. Korrekt utfört installations- och underhållsarbete är därför avgörande för säkerheten både till sjöss och iland.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marin el ska syfta till att eleverna utvecklar kunskaper om elsystem ombord på fritidsbåtar och mindre fartyg i yrkestrafik samt förmåga att installera, driftsätta och underhålla dessa system. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera arbetsuppgifter i relation till uppsatta mål för kvalitet, säkerhet, ekonomi och miljö. Produkt- och teknikutvecklingen inom arbetsområdet ställer krav på anpassning och flexibilitet. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>Arbete inom de marintekniska områdena innebär flera olika risker. Arbetsmiljö- och säkerhetsfrågor ska därför ha en central plats i undervisningen och eleverna ska ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som reglerar yrkesområdet. Undervisningen ska leda till att eleverna utvecklar förmåga att etablera en arbetsplats utifrån uppsatta mål för säkerhet och kvalitet samt med hänsyn till arbetsmiljö och ergonomi. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att identifiera, förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om yrkesrollen och vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk. På så sätt ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i olika yrkessammanhang. Eleverna ska även ges möjlighet att utveckla förmåga att föra värderande diskussioner om arbetsprocess och resultat.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Arbetsuppgifterna ska vara konstruerade med utgångspunkt i situationer som eleverna kan komma att möta i sin yrkesutövning. På så sätt ska undervisningen ge eleverna möjlighet att utveckla förståelse av arbetets komplexitet samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet marin el ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om marin elinstallation och marina elsystem.</li> <li>Förmåga att installera, driftsätta och underhålla marina elsystem på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> </ul><h3>Nivåer i ämnet marin el</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MAIN1000X</h3>",
+      "code": "MAIN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marin el på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Marin elinstallation och marina elsystem</em></p> <ul> <li>Vanligt förekommande marina elsystem.</li> <li>Batteri- och laddningssystem.</li> <li>Vanligt förekommande marin elinstallation.</li> <li>Förläggning och anslutningsteknik i elinstallationer.</li> <li>Dimensionering och fördelningsteknik i samband med svagströmsinstallationer i fritidsbåtar, däribland elektriska storheter och kapslingsklasser.</li> <li>Egenskaper och funktion hos resistorer, kondensatorer, spolar, dioder och transistorer.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet för elinstallationer i marin miljö.</li> <li>Auktorisationer för elinstallationer.</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt socialt, ekonomiskt och miljömässigt hållbart sätt.</li> <li>Beräkning och mätning av elektriska storheter, däribland i likströmsmiljö.</li> <li>Tolkning av kopplingsscheman och installationsbeskrivning.</li> <li>Ritning av enklare scheman.</li> <li>Val och säker hantering av material, verktyg och utrustning.</li> <li>Val och hantering av vanligt förekommande mätinstrument.</li> <li>Beräkning av materialåtgång i enlighet med ekonomisk och miljömässig hållbarhet.</li> <li>Enklare montering av elektrisk utrustning, till exempel lanternor.</li> <li>Enklare elinstallationer utifrån ritningar, scheman och instruktioner.</li> <li>Installation av enkla navigationsinstrument.</li> <li>Kontaktering, lödning och förbindning.</li> <li>Kontroll och driftsättning av marina elinstallationer och elsystem.</li> <li>Felsökning och åtgärder vid avvikelser.</li> <li>Dokumentation och utvärdering av resultat.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråkliga begrepp på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang, till exempel med kollegor och andra yrkesgrupper.</li> <li>Situationsanpassat bemötande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MAIN2000X</h3>",
+      "code": "MAIN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marin el på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Marin elinstallation och marina elsystem</em></p> <ul> <li>Traditionella, moderna och alternativa lösningar för marina elsystem i olika typer av fartyg.</li> <li>Galvaniska strömmar och isolation.</li> <li>Traditionella, moderna och alternativa lösningar för marin elinstallation i olika typer av fartyg.</li> <li>Dimensionering och fördelning enligt installationskrav på anläggningar upp till 400 V systemspänning i fartyg.</li> <li>Principer för selektivitet.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom området, däribland elsäkerhetslagen och starkströmsförordningen.</li> <li>CE-märkning som gäller marin el.</li> </ul> <p><em>Installation, driftsättning och underhåll</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt socialt, ekonomiskt och miljömässigt hållbart sätt.</li> <li>Beräkning och mätning av elektriska storheter i likströms- och växelströmsanläggningar, till exempel för dimensionering och fördelning.</li> <li>Tolkning av kopplingsscheman och installationsbeskrivning.</li> <li>Schemaritning med symboler och funktionsbeskrivning.</li> <li>Val och säker hantering av material, verktyg och utrustning.</li> <li>Val och hantering av mätinstrument och specialutrustning.</li> <li>Beräkning av material- och tidsåtgång samt av övriga kostnader i enlighet med ekonomisk och miljömässig hållbarhet.</li> <li>Avfallsförebyggande åtgärder i arbetet.</li> <li>Montering av elektrisk utrustning, till exempel inkoppling av instrumentpanel.</li> <li>Installation av marina elsystem.</li> <li>Kontaktering, förläggning och förbindning.</li> <li>Utförande av landströmsinstallationer och landströmscentraler.</li> <li>Kontroll och driftsättning av marina elinstallationer och elsystem.</li> <li>Systematisk felsökning och åtgärder vid avvikelser.</li> <li>Dokumentation och utvärdering av resultat.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråk med begrepp på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang, till exempel kollegor och andra yrkesgrupper.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om marin elinstallation och marina elsystem.</p> <p>Eleven utför arbetsuppgifter inom området marin el med <strong>godtagbart</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>visst</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om marin elinstallation och marina elsystem.</p> <p>Eleven utför arbetsuppgifter inom området marin el med <strong>gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om marin elinstallation och marina elsystem.</p> <p>Eleven utför arbetsuppgifter inom området marin el med <strong>mycket gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>mycket gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.036Z"
+}

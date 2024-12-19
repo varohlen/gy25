@@ -1,0 +1,105 @@
+{
+  "code": "TRV",
+  "name": "Travkunskap",
+  "englishName": "Trotting",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2014:74",
+  "skolfsAndring": "2022:306",
+  "nameHeading": "<h2>Travkunskap</h2>",
+  "description": "<p>Ämnet travkunskap behandlar träning i att köra travhästar. I arbetet som hästskötare ingår att motionera och träna hästar och därför behandlar ämnet den träning som behövs för att kunna köra hästar i samband med hästskötsel. Ämnet behandlar också hästars reaktion och beteende vid körning samt kommunikation med hästar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet travkunskap ska syfta till att eleverna utvecklar färdigheter i körning av travhästar. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utrusta och köra travhästar med hästarnas välbefinnande i centrum. Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om sambandet mellan ändamålsenlig utrustning, träning och hästars hälsa. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utbildning.</p><p>Genom körövningar ska eleverna ges möjlighet att utveckla förmåga att köra travhästar samt att tyda hästars reaktioner. Genom observationer ska eleverna ges möjlighet att utveckla kunskaper om hästars rörelse.</p><h4>Undervisningen i ämnet travkunskap ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om körlära samt om hästars olika gångarter.</li> <li>Kunskaper om faktorer som påverkar hästars prestation och hållbarhet samt förmåga att tolka hästars reaktion på träning och bedöma dessa faktorer.</li> <li>Förmåga att bedöma hästars allmäntillstånd samt kunskaper om träningsrelaterade skador och sjukdomar.</li> <li>Kunskaper om hästars utbildning.</li> <li>Förmåga att visitera, utrusta och hantera hästar för olika typer av arbete.</li> <li>Förmåga att köra hästar under kontroll och i ett bestämt tempo.</li> <li>Förmåga att sköta och vårda utrustning.</li> <li>Förmåga att arbeta säkert och ergonomiskt.</li> <li>Kunskaper om lagar och andra bestämmelser som rör arbete med hästar.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Trav 1, 100 poäng, som bygger på kursen ridning och körning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen körning 1.</li> <li>Trav 2, 100 poäng, som bygger på kursen trav 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: TRVTRA01</h3>",
+      "code": "TRVTRA01",
+      "nameHeading": "<h2>Trav 1, 100 poäng</h2>",
+      "name": "Trav 1",
+      "englishName": "Trotting 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen trav 1 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på kunskaper om hästars olika gångarter samt punkterna 2 och 6.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Hästars gångarter och rörelsemekanik.</li> <li>Bedömning av hästars hälsa och kondition i samband med olika typer av arbete.</li> <li>Motionsträning och grundläggande intervallträning.</li> <li>Körning av skolade travhästar efter hästarnas individuella förutsättningar.</li> <li>Selning och anpassning av utrustning för travhästar för olika typer av arbete.</li> <li>Skötsel och vård av utrustning, vagnar och redskap.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.</li> <li>Lagar och andra bestämmelser som rör arbete med hästar.</li> <li>Bestämmelser om körning på väg samt i skog och mark.</li> <li>Travsportens organisation och regler.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för hästars olika gångarter och rörelsemekanik. Eleven redogör också <strong>översiktligt</strong> för faktorer som påverkar hästars prestation, hälsa och kondition i samband med träning. Dessutom redogör eleven <strong>översiktligt</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven redogör <strong>översiktligt </strong>för utbildningsgången och olika träningsmetoder för travhästar.</p><p>Eleven visiterar och utrustar <strong>i samråd </strong>med handledare travhästar för körning. Eleven kör <strong>i samråd </strong>med handledare skolade travhästar med kontroll och säker position. Eleven kör också <strong>i samråd </strong>med handledare olika typer av travhästar i ändamålsenlig form utifrån hästens individuella förutsättningar. Elevens körning är <strong>tillfredsställande</strong>. I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet. Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för hästars olika gångarter och rörelsemekanik. Eleven redogör också <strong>utförligt</strong> för faktorer som påverkar hästars prestation, hälsa och kondition i samband med träning. Dessutom redogör eleven <strong>utförligt</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven redogör <strong>utförligt</strong> för utbildningsgången och olika träningsmetoder för travhästar.</p><p>Eleven visiterar och utrustar <strong>efter samråd </strong>med handledare travhästar för körning. Eleven kör <strong>efter samråd </strong>med handledare skolade travhästar med kontroll och säker position. Eleven kör också <strong>efter samråd </strong>med handledare olika typer av travhästar i ändamålsenlig form utifrån hästens individuella förutsättningar. Elevens körning är <strong>tillfredsställande</strong>. I körningen tolkar eleven <strong>med viss säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet. Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>rörelsemekanik. Eleven redogör också <strong>utförligt och nyanserat</strong> för faktorer som påverkar hästars prestation, hälsa och kondition i samband med träning. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven redogör <strong>utförligt och nyanserat</strong> för utbildningsgången och olika träningsmetoder för travhästar.</p><p>Eleven visiterar och utrustar <strong>efter samråd </strong>med handledare travhästar för körning. Eleven kör <strong>efter samråd </strong>med handledare skolade travhästar med kontroll och säker position. Eleven kör också <strong>efter samråd </strong>med handledare olika typer av travhästar i ändamålsenlig form utifrån hästens individuella förutsättningar. Elevens körning är <strong>god</strong>. I körningen tolkar eleven <strong>med säkerhet </strong>hästens reaktioner på arbetet. Dessutom tar eleven hänsyn till de faktorer som påverkar hästens prestation och hållbarhet. Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt i samband med körning av travhästar. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: TRVTRA02</h3>",
+      "code": "TRVTRA02",
+      "nameHeading": "<h2>Trav 2, 100 poäng</h2>",
+      "name": "Trav 2",
+      "englishName": "Trotting 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen trav 2 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Travhästars rörelsemekanik och avvikelser från normalt rörelsemönster.</li> <li>Travhästars hälsa och kondition.</li> <li>Träningsrelaterade skador på travhästar.</li> <li>Träningsmetoder och träningsprogram för olika typer av travhästar.</li> <li>Träning av travhästar för tävling.</li> <li>Utbildningsgång för travhästar i olika åldrar.</li> <li>Hantering av travhästar i samband med träning och tävling.</li> <li>Körning i grupp och individuellt.</li> <li>Tempobedömning och tidtagarövningar på rak- och rundbana.</li> <li>Tempokörning med pulsmätning.</li> <li>Utrustning samt balansering och balanseringens inverkan på travhästar.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med arbete med travhästar.</li> <li>Lagar och andra bestämmelser som rör arbete med travhästar.</li> <li>Bestämmelser om körning på väg samt i skog och mark.</li> <li>Etik i samband med träning och tävling.</li> <li>Travsportens regler.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för travhästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster. Eleven redogör också <strong>översiktligt</strong> för travhästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar travhästars hälsa och kondition. Dessutom redogör eleven <strong>översiktligt</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven upprättar ett <strong>enkelt </strong>träningsprogram för travhästar samt för <strong>med viss säkerhet </strong>journal över arbete med och skötsel av travhästar.</p><p>Eleven organiserar, planerar och utför <strong>i samråd </strong>med handledare arbetsuppgifter med ett <strong>tillfredsställande </strong>resultat. Dessutom visiterar, utrustar och kör eleven <strong>i samråd </strong>med handledare olika typer av travhästar. Elevens körning är <strong>tillfredsställande</strong>. Eleven anpassar <strong>i samråd </strong>med handledare utrustning för aktuell travhäst och träning. I arbetet och körningen hanterar eleven hästarna och utrustningen på ett <strong>tillfredsställande </strong>sätt. Eleven genomför <strong>i samråd </strong>med handledare tömkörning av skolade travhästar. Eleven sköter och vårdar <strong>i samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för travhästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster. Eleven redogör också <strong>utförligt</strong> för travhästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar travhästars hälsa och kondition. Dessutom redogör eleven <strong>utförligt</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven upprättar ett <strong>genomarbetat </strong>träningsprogram för travhästar samt för <strong>med viss säkerhet </strong>journal över arbete med och skötsel av travhästar.</p><p>Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter med ett <strong>tillfredsställande </strong>resultat. Dessutom visiterar, utrustar och kör eleven <strong>efter samråd </strong>med handledare olika typer av travhästar. Elevens körning är <strong>tillfredsställande</strong>. Eleven anpassar <strong>efter samråd </strong>med handledare utrustning för aktuell travhäst och träning. I arbetet och körningen hanterar eleven hästarna och utrustningen på ett <strong>tillfredsställande </strong>sätt. Eleven genomför <strong>efter samråd </strong>med handledare tömkörning av skolade travhästar. Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för travhästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster. Eleven redogör också <strong>utförligt och nyanserat</strong> för travhästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar travhästars hälsa och kondition. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för träningsrelaterade skador på travhästar samt hur skadorna kan förebyggas. Eleven upprättar ett <strong>genomarbetat </strong>träningsprogram för travhästar samt för <strong>med säkerhet </strong>journal över arbete med och skötsel av travhästar.</p><p>Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter med ett <strong>gott </strong>resultat. Dessutom visiterar, utrustar och kör eleven <strong>efter samråd </strong>med handledare olika typer av travhästar. Elevens körning är <strong>god</strong>. Eleven anpassar <strong>efter samråd </strong>med handledare utrustning för aktuell travhäst och träning. I arbetet och körningen hanterar eleven hästarna och utrustningen på ett <strong>gott </strong>sätt. Eleven genomför <strong>efter samråd </strong>med handledare tömkörning av skolade travhästar. Eleven sköter och vårdar <strong>efter samråd </strong>med handledare aktuell utrustning. Eleven arbetar säkert och ergonomiskt med hästarna och utrustningen. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.188Z"
+}

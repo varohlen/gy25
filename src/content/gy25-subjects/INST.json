@@ -1,0 +1,92 @@
+{
+  "code": "INST",
+  "name": "Installationsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:14",
+  "nameHeading": "<h2>Installationsteknik</h2>",
+  "description": "<p>Samhället är beroende av en välfungerande elförsörjning för att upprätthålla funktionen i en stor mängd verksamheter. Ämnet installationsteknik behandlar hur nya elinstallationer utförs samt hur befintliga elanläggningar kan byggas om och utökas. Ämnet behandlar också felsökning och hur fel avhjälps i befintliga anläggningar. I ämnet är elsäkerhet centralt eftersom misstag kan orsaka stora skador både på personer och på egendom.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet installationsteknik ska syfta till att eleverna utvecklar förmåga att installera, underhålla och reparera elanläggningar på ett säkert och hållbart sätt. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur elinstallationer fungerar samt förmåga att tolka och använda ritningar och arbetsbeskrivningar. Undervisningen ska även leda till att eleverna utvecklar förmåga att välja och använda verktyg och andra hjälpmedel på ett för uppgiften säkert och yrkesmässigt sätt. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om olika materials egenskaper och deras miljöpåverkan.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet och standarder samt lagar och andra bestämmelser inom området. Undervisningen ska också leda till att eleverna utvecklar förmåga att lösa problem som uppkommer under arbetets gång samt att dokumentera och utvärdera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att samarbeta och kommunicera med fackspråk både i tal och skrift.</p> <p>I undervisningen ska eleverna ges tillfällen att söka information om installationer i befintlig dokumentation. Dessutom ska undervisningen stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete inom elområdet.</p> <h5><em>Undervisningen i ämnet installationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra olika elinstallationer i enlighet med standarder, lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda verktyg och andra hjälpmedel på ett ändamålsenligt och säkert sätt.</li> <li>Förmåga att kontrollera och driftsätta elinstallationer på ett säkert sätt.</li> <li>Förmåga att dokumentera och utvärdera arbetet.</li> <li>Förmåga att felsöka och reparera elinstallationer.</li> </ul><h3>Nivåer i ämnet installationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INST1000X</h3>",
+      "code": "INST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Förläggning och anslutning av ledningar.</li> <li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li> <li>Olika materials egenskaper och kapslingsklasser.</li> <li>Installation av enklare start- och kopplingsutrustning för elmotorer, däribland hållkrets och relästyrning.</li> <li>TN-, IT- och TT-system däribland TN-C- och TN-S-systemens uppbyggnad och funktion samt skyddsledarens funktion och verkan.</li> <li>Anslutning, losskoppling och funktionsprovning av apparater och utrustning i befintlig gruppledning.</li> <li>Standarder, lagar och andra bestämmelser inom området samt krav för olika auktorisationer.</li> <li>Personligt skydd och tillvägagångssätt vid arbete med olika elanläggningar.</li> <li>Kontroll före idrifttagning.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Tolkning och användning av ritningar och scheman inom området.</li> <li>Felsökning och underhåll av befintlig elutrustning.</li> <li>Återvinning av olika elmaterial.</li> <li>Hållbarhetsarbete inom branschen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INST2000X</h3>",
+      "code": "INST2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Förläggning av ledare på vanligt förekommande underlag samt i mark och kanalisation.</li> <li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li> <li>Olika materials egenskaper samt infästning på vanligt förekommande material.</li> <li>Installation, felsökning och felavhjälpning av startutrustning för asynkronmotorer.</li> <li>Olika elsystems uppbyggnad, funktion och användning samt skyddsledarens funktion och verkan i dessa, däribland TN-, och TT-system.</li> <li>Installation av kraft- och belysningsanläggningar i nya och befintliga gruppledningar samt provning av dessa.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Dokumentation och anvisningar vid elinstallationsarbete, till exempel gällande standard.</li> <li>Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.</li> <li>Kontroll före idrifttagning.</li> <li>Begreppen förimpedans och utlösningsvillkor samt kortslutningsströmmars inverkan på materialval och elsystemet.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Tolkning, användning och konstruktion av ritningar, scheman och andra relevanta underlag med hjälp av digitala program.</li> <li>Felsökning och underhåll i utrustning och elanläggningar.</li> <li>Återvinning och sortering av olika elmaterial.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INST3000X</h3>",
+      "code": "INST3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Förläggning och montering av ledare och apparater på ett för uppgiften lämpligt sätt, däribland infälld och utanpåliggande kabel- och trådstege, kanalisation och i mark.</li> <li>Arbete inom renovering samt om- och tillbyggnad på ett yrkesmässigt sätt, däribland kabelskarv.</li> <li>Olika materials egenskaper samt korrekt infästning på flera olika underlag.</li> <li>Installation, felsökning och felavhjälpning av olika styrningar för elmotorer och andra anläggningar, däribland apparatskåp.</li> <li>Elsystemets uppbyggnad från generator till last samt skyddsledarens- och neutralledarens funktion och verkan, däribland reservkraft, avbrottsfri kraft och ledningsburna störningar.</li> <li>Arbete i kraft- och belysningsanläggningar i nya och befintliga gruppledningar samt provning och dokumentation av dessa, däribland en- och trefasanläggningar samt förnyelsebara energianläggningar.</li> <li>Lagar och andra bestämmelser inom området, däribland om personligt skydd vid arbete på olika elanläggningar och arbetsplatser.</li> <li>Dokumentation och anvisningar vid elinstallationsarbete, däribland dimensionering av elinstallationer med hjälp av standard och digitala hjälpmedel.</li> <li>Kontroll före idrifttagning av olika elanläggningar samt dokumentation av provningen.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Tolkning, användning och konstruktion av ritningar och andra underlag för området, till exempel med hjälp av cad-baserade digitala hjälpmedel.</li> <li>Belysningsberäkningar, till exempel med hjälp av cad-baserade digitala hjälpmedel.</li> <li>Felsökning och underhåll i utrustning, elanläggningar och olika styrningar, däribland kraft och belysning.</li> <li>Återvinning och sorteringens betydelse av olika elmaterial samt val av elmaterial utifrån ett hållbarhetsperspektiv.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur elinstallationer fungerar. Eleven utför elinstallationer med <strong>visst</strong> handlag utifrån ritningar samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder verktyg och andra hjälpmedel på ett säkert sätt och med <strong>visst</strong> handlag.</p> <p>Eleven kontrollerar och driftsätter elinstallationer på ett säkert sätt. Resultatet av arbetet är av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>enkla</strong> omdömen.</p> <p>Eleven felsöker och åtgärdar med <strong>viss säkerhet</strong> fel i elinstallationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur elinstallationer fungerar. Eleven utför elinstallationer med <strong>gott</strong> handlag utifrån ritningar samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder verktyg och andra hjälpmedel på ett säkert sätt och med <strong>gott</strong> handlag.</p> <p>Eleven kontrollerar och driftsätter elinstallationer på ett säkert sätt. Resultatet av arbetet är av <strong>god</strong> kvalitet.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>utvecklade</strong> omdömen.</p> <p>Eleven felsöker och åtgärdar med <strong>säkerhet</strong> fel i elinstallationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur elinstallationer fungerar. Eleven utför elinstallationer med <strong>mycket gott</strong> handlag utifrån ritningar samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder verktyg och andra hjälpmedel på ett säkert sätt och med <strong>mycket gott</strong> handlag.</p> <p>Eleven kontrollerar och driftsätter elinstallationer på ett säkert sätt. Resultatet av arbetet är av <strong>mycket god</strong> kvalitet.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven felsöker och åtgärdar med <strong>god säkerhet</strong> fel i elinstallationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.024Z"
+}

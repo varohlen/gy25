@@ -1,0 +1,64 @@
+{
+  "code": "RATT",
+  "name": "Rättspsykiatri",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:105",
+  "nameHeading": "<h2>Rättspsykiatri</h2>",
+  "description": "<p>Ämnet rättspsykiatri är tvärvetenskapligt och behandlar överlappningen mellan vetenskapsområdena psykiatri och juridik. Ämnet behandlar psykiatrins tillämpning inom rättsväsendet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet rättspsykiatri ska syfta till att eleverna utvecklar kunskaper om hur den rättspsykiatriska verksamheten fungerar och vilka lagar och andra bestämmelser som gäller inom rättspsykiatrin samt om rättspsykiatrins samhällsskyddande funktion. Eleverna ska ges möjlighet att utveckla förmåga att planera vårdinsatser samt utföra, dokumentera och utvärdera vård- och omsorgsuppgifter inom den slutna eller öppna rättspsykiatrin.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att möta och kommunicera med patienter på ett lyhört, respektfullt och empatiskt sätt. Undervisningen ska bidra till elevernas förståelse av egna och andras livsvillkor samt kopplingen mellan psykisk störning och kriminalitet. Undervisningen ska även göra eleverna uppmärksamma på de fördomar som finns om psykiska funktionsnedsättningar.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hur vård, omsorg och omvårdnad ska utformas för patienter med psykiska störningar samt hur ett väl utvecklat samarbete påverkar patienters återhämtning positivt. Eleverna ska också ges möjlighet att utveckla förmåga att samarbeta och kommunicera på ett yrkesetiskt och ansvarsfullt sätt utifrån alla människors lika värde. Undervisningen ska även bidra till att eleverna blir medvetna om de fördomar som finns om psykiska funktionsnedsättningar.</p> <p>Initiativförmåga, självständighet, personligt ansvarstagande, problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av arbetsuppgifter kopplade till rättspsykiatrin. Undervisningen ska också ge eleverna möjlighet att granska och värdera ny kunskap inom området.</p> <h5><em>Undervisningen i ämnet rättspsykiatri ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om lagar och andra bestämmelser som gäller inom rättspsykiatrin samt om rättspsykiatrins samhällsskyddande funktion.</li> <li>Förmåga att planera, genomföra och dokumentera vård- och omsorgsinsatser samt att delta i förbättrings- och kvalitetsarbete.</li> <li>Förmåga att möta och kommunicera med patienter och närstående på ett yrkesetiskt sätt samt att reflektera över sitt förhållningssätt.</li> <li>Kunskaper om hur samarbete med huvudmän, yrkesgrupper och närstående påverkar patienters återhämtning.</li> </ul><h3>Nivåer i ämnet rättspsykiatri</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet psykiatri.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: RATT1000X</h3>",
+      "code": "RATT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet rättspsykiatri på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Lagar och andra bestämmelser som gäller inom öppen och sluten rättspsykiatrisk vård.</li> <li>Samarbete med Kriminalvården samt Kriminalvårdens olika restriktioner.</li> <li>Riskbedömningar utifrån dynamisk och statisk säkerhet.</li> <li>Rättigheter och skyldigheter för patienten.</li> <li>Rättspsykiatrisk vård och omvårdnad utifrån samhällets värdegrund och humanistiska människosyn.</li> <li>Balansen mellan närhet och distans i arbetet inom rättspsykiatrin.</li> <li>Program för patientrehabilitering, till exempel missbruksprogram.</li> <li>Läkemedelsbehandling inom rättspsykiatrin, däribland etiska aspekter.</li> <li>Förebyggande arbete och rutiner för hantering av hot- och våldssituationer.</li> <li>Arbete med förbättrings- och kvalitetsarbete i den praktiska verksamheten.</li> <li>Hur kommunikation med patienter och närstående kan ske på ett respektfullt, lyhört och empatiskt sätt.</li> <li>Metoder för att reflektera över sitt eget förhållningssätt i mötet med patienter.</li> <li>Sambandet mellan psykisk störning och kriminalitet samt människan bakom brottet.</li> <li>Stigmatisering av dömda inom rättspsykiatrin.</li> <li>Arbete med att återanpassa patienten till ett liv i frihet.</li> <li>Förebyggande åtgärder, till exempel genom samhälls- och familjeinsatser.</li> <li>Samverkan mellan olika myndigheter och verksamhetsområden, yrkesgrupper och närstående vid utslussning och eftervård.</li> <li>Hur en samordnad vårdplanering kan bidra till patienters återhämtning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller inom öppen och sluten rättspsykiatrisk vård samt om rättspsykiatrins samhällsskyddande funktion.</p> <p>Eleven planerar och genomför vård- och omsorgsinsatser på ett <strong>godtagbart</strong> sätt. Dessutom dokumenterar eleven insatserna och deltar i förbättrings- och kvalitetsarbete på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven möter och kommunicerar med andra på ett yrkesetiskt sätt med <strong>viss säkerhet</strong>. Eleven gör också <strong>enkla</strong> reflektioner över sitt förhållningssätt i mötet med patienter och närstående.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för hur en samordnad vårdplanering kan bidra till patienters återhämtning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller inom öppen och sluten rättspsykiatrisk vård samt om rättspsykiatrins samhällsskyddande funktion.</p> <p>Eleven planerar och genomför vård- och omsorgsinsatser på ett <strong>gott</strong> sätt. Dessutom dokumenterar eleven insatserna och deltar i förbättrings- och kvalitetsarbete på ett <strong>fungerande</strong> sätt.</p> <p>Eleven möter och kommunicerar med andra på ett yrkesetiskt sätt med <strong>säkerhet</strong>. Eleven gör också <strong>utvecklade</strong> reflektioner över sitt förhållningssätt i mötet med patienter och närstående.</p> <p>Eleven redogör på ett <strong>gott</strong> sätt för hur en samordnad vårdplanering kan bidra till patienters återhämtning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller inom öppen och sluten rättspsykiatrisk vård samt om rättspsykiatrins samhällsskyddande funktion.</p> <p>Eleven planerar och genomför vård- och omsorgsinsatser på ett <strong>mycket gott</strong> sätt. Dessutom dokumenterar eleven insatserna och deltar i förbättrings- och kvalitetsarbete på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven möter och kommunicerar med andra på ett yrkesetiskt sätt med <strong>god säkerhet</strong>. Eleven gör också <strong>välutvecklade</strong> reflektioner över sitt förhållningssätt i mötet med patienter och närstående.</p> <p>Eleven redogör på ett <strong>mycket gott</strong> sätt för hur en samordnad vårdplanering kan bidra till patienters återhämtning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.068Z"
+}

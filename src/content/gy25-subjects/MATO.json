@@ -1,0 +1,92 @@
+{
+  "code": "MATO",
+  "name": "Matematik – fortsättning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen, inkluderar föreskrift om ändring SKOLFS 2024:583",
+  "skolfsGrund": "2024:186",
+  "nameHeading": "<h2>Matematik – fortsättning</h2>",
+  "description": "<p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Matematik – fortsättning behandlar derivator, integraler, komplexa tal och trigonometri. Derivator och integraler har varit avgörande för utveckling inom fysik och spelar i dag en viktig roll inom flera olika vetenskaper. Även komplexa tal och trigonometri spelar en viktig roll inom fysik och matematik. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet matematik – fortsättning ska syfta till att eleverna utvecklar och fördjupar sina kunskaper i matematik, främst gällande derivata och integraler. Det innefattar att utveckla förståelse av begrepp och metoder som ger en grund för matematikintensiva studier på högskolenivå samt olika strategier för att lösa problem och använda matematik i olika sammanhang. Undervisningen ska innehålla hantering av avancerade uttryck samt bevisföring. I undervisningen ska eleverna ges möjlighet att fördjupa och bredda sina kunskaper i matematik samt utveckla sin nyfikenhet och kreativitet. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att föra och följa matematiska resonemang och att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digitala verktyg för att lösa problem samt fördjupa sitt matematikkunnande och utvidga de områden där matematikkunnandet kan användas.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del.</p> <h5><em>Undervisningen i ämnet matematik – fortsättning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och utföra rutinuppgifter utan och med verktyg.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att tillämpa, formulera och utvärdera matematiska modeller.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ul><h3>Nivåer i ämnet matematik – fortsättning</h3><ul><li>Nivå 1b, 100 poäng, som bygger på nivå 2a, nivå 2b eller nivå 2c i ämnet matematik. Betyg i matematik – fortsättning som omfattar nivå 1b kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1c.</li> <li>Nivå 1c, 100 poäng, som bygger på nivå 2a, nivå 2b eller nivå 2c i ämnet matematik. Betyg i matematik – fortsättning som omfattar nivå 1c kan inte ingå i elevens examen tillsammans med betyg som omfattar nivå 1b.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1b eller nivå 1c.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATO1B00X</h3>",
+      "code": "MATO1B00X",
+      "nameHeading": "<h2>Nivå 1b, 100 poäng</h2>",
+      "name": "Nivå 1b",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matematik – fortsättning på nivå 1b ska behandla följande centrala innehåll:</p> <p><em>Aritmetik, algebra och funktioner</em></p> <ul> <li>Begreppet rationella uttryck. Hantering av rationella uttryck.</li> <li>Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.</li> <li>Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.</li> <li>Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.</li> <li>Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.</li> <li>Begreppen bestämd integral och primitiv funktion och sambandet mellan dessa.</li> <li>Grafiska och digitala metoder för att bestämma integraler.</li> <li>Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.</li> <li>Formulering och beräkning av integraler i enkla situationer.</li> <li>Metoder för linjär optimering.</li> <li>Begreppet geometrisk summa. Metoder för att bestämma geometriska summor.</li> </ul> <p><em>Digitala verktyg</em></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering, hantering av algebraiska uttryck och problemlösning.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> </ul> <p><em>Problemlösning och tillämpningsområden</em></p> <ul> <li>Problemlösning med särskild utgångspunkt i utbildningens karaktär och samhällsliv, däribland frågeställningar som berör hållbar utveckling och hur matematik kan användas för kritisk granskning av fakta och påståenden.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Orientering om något ur matematikens historia, till exempel hur ett matematiskt begrepp utvecklats, matematikens roll i något historiskt skeende, en betydande person inom matematiken eller ett historiskt matematiskt problem.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATO1C00X</h3>",
+      "code": "MATO1C00X",
+      "nameHeading": "<h2>Nivå 1c, 100 poäng</h2>",
+      "name": "Nivå 1c",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matematik – fortsättning på nivå 1c ska behandla följande centrala innehåll:</p> <p><em>Aritmetik, algebra och funktioner</em></p> <ul> <li>Begreppet absolutbelopp.</li> <li>Begreppet rationella uttryck. Hantering av rationella uttryck.</li> <li>Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.</li> <li>Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.</li> <li>Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.</li> <li>Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.</li> <li>Begreppen bestämd integral och primitiv funktion och sambandet mellan dessa.</li> <li>Grafiska och digitala metoder för att bestämma integraler.</li> <li>Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.</li> <li>Formulering och beräkning av integraler i enkla situationer.</li> </ul> <p><em>Trigonometri</em></p> <ul> <li>Begreppet enhetscirkeln. Definition av trigonometriska begrepp utifrån enhetscirkeln.</li> <li>Bevis och användning av cosinus-, sinus- och areasatsen.</li> </ul> <p><em>Digitala verktyg</em></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering, hantering av algebraiska uttryck och problemlösning.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> </ul> <p><em>Problemlösning och tillämpningsområden</em></p> <ul> <li>Problemlösning med särskild utgångspunkt i utbildningens karaktär och samhällsliv, däribland frågeställningar som berör hållbar utveckling och hur matematik kan användas för kritisk granskning av fakta och påståenden.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Orientering om något ur matematikens historia, till exempel hur ett matematiskt begrepp utvecklats, matematikens roll i något historiskt skeende, en betydande person inom matematiken eller ett historiskt matematiskt problem.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MATO2000X</h3>",
+      "code": "MATO2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet matematik – fortsättning på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Aritmetik, algebra och funktioner</em></p> <ul> <li>Begreppen imaginära enheten, komplexa tal och komplexa talplanet. Representation av komplexa tal i rektangulär och polär form. Metoder för beräkningar med komplexa tal, däribland beräkning av konjugat och absolutbelopp.</li> <li>Metoder för att faktorisera polynom. Användning av faktorsatsen för att lösa polynomekvationer.</li> <li>Metoder för att bestämma även komplexa lösningar till andragradsekvationer, potensekvationer och polynomekvationer.</li> <li>Fördjupning av funktionsbegreppet, däribland sammansatta funktioner, logaritmfunktioner, linjära asymptoter och skissning av grafer för hand.</li> <li>Motivering och hantering av deriveringsregler för logaritmfunktioner, sammansatta funktioner samt produkt och kvot av funktioner.</li> <li>Användning av integraler i mer komplexa sammanhang, till exempel täthetsfunktioner, sannolikhetsfördelning, rotationsvolymer och beräkning av storheter.</li> </ul> <p><em>Trigonometri</em></p> <ul> <li>Hantering av trigonometriska uttryck. Bevis och hantering av trigonometriska identiteter, däribland trigonometriska ettan och additionsformler.</li> <li>Egenskaper hos trigonometriska funktioner, däribland period, amplitud och fasförskjutning. Metoder för att bestämma trigonometriska funktioner. Metoder för att lösa trigonometriska ekvationer.</li> <li>Begreppet radian.</li> <li>Motivering och hantering av deriveringsregler för sinus-, cosinus- och tangensfunktioner.</li> <li>Motivering och hantering av metoder för att bestämma integraler för sinus- och cosinusfunktioner.</li> </ul> <p><em>Digitala verktyg</em></p> <ul> <li>Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering, hantering av algebraiska uttryck och problemlösning.</li> <li>Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.</li> </ul> <p><em>Problemlösning och tillämpningsområden</em></p> <ul> <li>Problemlösning med särskild utgångspunkt i utbildningens karaktär och samhällsliv, däribland frågeställningar som berör hållbar utveckling och hur matematik kan användas för kritisk granskning av fakta och påståenden.</li> <li>Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.</li> <li>Orientering om något ur matematikens historia, till exempel hur ett matematiskt begrepp utvecklats, matematikens roll i något historiskt skeende, en betydande person inom matematiken eller ett historiskt matematiskt problem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>godtagbar</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>godtagbar</strong> bredd och säkerhet, både utan och med digitala verktyg.</p> <p>Eleven löser <strong>enkla</strong> problem inom nivåns olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>enkla</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>delvis</strong> underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med viss säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa</strong> problem inom nivåns olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>relativt väl</strong> underbyggda matematiska resonemang, <strong>genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>mycket god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>mycket god</strong> bredd och säkerhet, både utan och med digitala verktyg. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem inom nivåns olika områden och bedömer resultatens rimlighet.</p> <p>Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar.</p> <p>Eleven för <strong>väl</strong> underbyggda matematiska resonemang, <strong>genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.041Z"
+}

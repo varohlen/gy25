@@ -1,0 +1,64 @@
+{
+  "code": "LITT",
+  "name": "Litteratur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:42",
+  "nameHeading": "<h2>Litteratur</h2>",
+  "description": "<p>Litteratur är såväl konst i sig som ett uttryck för samlad mänsklig erfarenhet. På så sätt fungerar litteraturen både som en källa till upplevelser och som en dokumentation över vad det innebär att vara människa. Genom historien har litteraturen stimulerat, roat och utmanat människan, men också bidragit till att forma idéer och föreställningar. Ämnet litteratur ger samtida och historiska perspektiv på litteratur.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet litteratur ska syfta till att eleverna utvecklar kunskaper om litteratur, litteraturhistoria och litterär analys. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att läsa och analysera skönlitteratur utifrån litteraturvetenskapliga begrepp och teorier. Undervisningen ska även vidga elevernas litterära referensram genom att lyfta fram texter från olika tider och kulturer och därigenom främja elevernas bildning. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att sätta litterära verk och författarskap i ett estetiskt och historiskt sammanhang. Vidare ska undervisningen ge eleverna möjlighet att reflektera över litteraturens roll i samhället samt över aktuella debatter om litteraturens värden och funktion. Undervisningen ska också belysa litteraturens villkor, historiskt och i nutid.</p> <p>Undervisningen ska stimulera elevernas läsintresse samt ge eleverna rikliga tillfällen att läsa och samtala om såväl samtida som äldre skönlitteratur. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda skönlitteratur som källa till förståelse av egna och andras erfarenheter, livsvillkor och perspektiv.</p> <h5><em>Undervisningen i ämnet litteratur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att läsa och analysera skönlitteratur.</li> <li>Förmåga att sätta litterära verk i ett sammanhang.</li> </ul><h3>Nivåer i ämnet litteratur</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet svenska eller nivå 1 i ämnet svenska som andraspråk.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LITT1000X</h3>",
+      "code": "LITT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet litteratur på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Skönlitterära verk från olika tider och olika delar av världen, författade av såväl kvinnor som män.</li> <li>Läsning av och samtal om samt analys och tolkning av skönlitterära verk ur genrerna epik, lyrik och dramatik.</li> <li>Litteraturvetenskapliga begrepp som behövs för att på ett strukturerat sätt tala om och analysera form och innehåll i skönlitterära verk. Litterära verkningsmedel och sätt att gestalta.</li> <li>Hur skönlitteratur kan analyseras utifrån olika litteraturvetenskapliga teorier. Analys av skönlitteratur med utgångspunkt i några litteraturvetenskapliga teorier, till exempel nykritik, genusteori och ekokritisk teori.</li> <li>Litterära epoker och litteraturens samband med andra konstarter. Litteraturens huvudgenrer epik, lyrik och dramatik samt exempel på andra genreindelningar.</li> <li>Jämförande analys av skönlitterära verk från olika tider och delar av världen. Hur författare och verk har påverkats av sitt samhälle, sin kultur och av rådande estetiska ideal samt hur författare och verk har påverkat den samhälleliga och estetiska utvecklingen.</li> <li>Litteraturens roll i samhället. Aktuella debatter om litteraturens värden och funktion.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven analyserar skönlitteratur med <strong>i huvudsak fungerande</strong> användning av litteraturvetenskapliga begrepp och teorier.</p> <p>Eleven redogör <strong>översiktligt</strong> för samband mellan litterära verk och de sammanhang de tillkommit i.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven analyserar skönlitteratur med <strong>fungerande</strong> användning av litteraturvetenskapliga begrepp och teorier.</p> <p>Eleven redogör <strong>utförligt</strong> för samband mellan litterära verk och de sammanhang de tillkommit i.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven analyserar skönlitteratur med <strong>väl fungerande</strong> användning av litteraturvetenskapliga begrepp och teorier.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för samband mellan litterära verk och de sammanhang de tillkommit i.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.035Z"
+}

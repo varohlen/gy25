@@ -1,0 +1,92 @@
+{
+  "code": "KORN",
+  "name": "Körning med häst",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:27",
+  "nameHeading": "<h2>Körning med häst</h2>",
+  "description": "<p>Ämnet körning med häst behandlar träning i att köra olika typer av hästar i olika åldrar och utbildningsstadier. Ämnet behandlar också hästars reaktion och beteende vid körning samt kommunikation med hästar. I arbetet som hästskötare ingår att motionera och träna hästar och därför behandlar ämnet körning med häst den träning som behövs för att kunna köra hästar i samband med hästskötsel.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet körning med häst ska syfta till att eleverna utvecklar färdigheter i körning av hästar. Undervisningen ska leda till att eleverna utvecklar kunskaper om hästars gångarter och rörelsemekanik samt om sambandet mellan hållbara träningsmetoder och hästars hälsa. Undervisningen ska också leda till att eleverna utvecklar kunskaper om hästars mentala och kroppsliga utveckling. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att sköta, hantera och köra hästar med hästarnas välbefinnande i centrum. Eleverna ska också ges möjlighet att utveckla förmåga att utrusta hästar för olika typer av arbeten samt att sköta och underhålla utrustningen. Undervisningen ska leda till att eleverna utvecklar förmåga att samspela med hästar samt att köra hästar under kontroll i olika typer av arbeten. Eleverna ska också ges möjlighet att reflektera över arbetsmiljörisker för att utveckla såväl riskmedvetenhet som förmåga att välja och använda arbetsmetoder som främjar en god hälsa och ett hållbart arbetsliv. Eleverna ska dessutom ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller arbete med hästar.</p> <p>Genom övningar ska eleverna ges möjlighet att utveckla förmåga att köra hästar i olika åldrar och utbildningsstadier samt att tyda hästars reaktioner. Undervisningen ska även ge eleverna möjlighet att genom observationer utveckla kunskaper om hästars rörelse.</p> <h5><em>Undervisningen i ämnet körning med häst ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hästens rörelsemekanik och om faktorer som påverkar hästars prestation och hållbarhet.</li> <li>Kunskaper om körhästars utbildning och utveckling.</li> <li>Förmåga att sköta, hantera och träna hästar med utgångspunkt i djurets välfärd.</li> <li>Förmåga att utrusta hästar för olika typer av arbete samt att sköta och vårda utrustning.</li> <li>Förmåga att köra hästar under kontroll i olika typer av arbeten samt att tolka hästars reaktion på arbete och träning.</li> <li>Förmåga att arbeta hållbart och säkert samt i enlighet med lagar och andra bestämmelser som gäller arbete med hästar.</li> </ul><h3>Nivåer i ämnet körning med häst</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KORN1000X</h3>",
+      "code": "KORN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet körning med häst på nivå 1 ska behandla följande centrala innehål<em>l:</em></p> <ul> <li>Hästars gångarter, renhet och takt med variationer av tempo.</li> <li>Sjukdomar och skador hos hästar i samband med körning.</li> <li>Hästens arbete, träning och återhämtning.</li> <li>Grundläggande körlära.</li> <li>Visitering av hästar med blick och hand.</li> <li>Observation och tolkning av hästars beteende i samband med arbete och träning.</li> <li>Hantering, skötsel och träning av hästar i samband med körning.</li> <li>Visning vid hand av skolad häst.</li> <li>Val och användning av utrustning för aktuella arbeten.</li> <li>Skötsel och vård av utrustning i samband med körning.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Körning av skolad häst på bana samt i skog och mark.</li> <li>Kuskens följsamhet och inverkan på hästen.</li> <li>Motions- och konkörning av skolad häst.</li> <li>Grundläggande tekniker för tömkörning.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar, till exempel djurskyddslagen.</li> <li>Bestämmelser om körning på väg samt i skog och mark.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KORN2000X</h3>",
+      "code": "KORN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet körning med häst på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Hästars gångarter och rörelsemekanik.</li> <li>Avvikelser från normalt rörelsemönster.</li> <li>Hållbar belastning avseende variation, kontinuitet och vila.</li> <li>Hästars utbildning och arbete i olika åldrar utifrån deras individuella förutsättningar.</li> <li>Körlära med betoning på avspänning, rakriktning, takt och balans.</li> <li>Bedömning av hästars hälsa och kondition i samband med aktuella arbeten.</li> <li>Hantering, skötsel och träning av hästar i samband med körning.</li> <li>Branschens etiska regler i samband med arbete med hästar.</li> <li>Selning och utrustning av hästar för körning och för olika typer av arbete.</li> <li>Skötsel och vård av aktuell utrustning, vagnar och redskap.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Motionsträning och intervallträning.</li> <li>Tempobedömning och tidtagarövningar inom körningens discipliner.</li> <li>Körning av hästar för olika användningsområden efter hästarnas individuella förutsättningar.</li> <li>Träning av tömfattningar, kuskens position, hjälper och inverkan.</li> <li>Tömkörning av skolade hästar.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar.</li> <li>Bestämmelser om körning på väg samt i skog och mark.</li> <li>Etik i samband med träning och tävling.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KORN3000X</h3>",
+      "code": "KORN3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet körning med häst på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Hästars rörelsemekanik och belastning i olika typer av arbeten.</li> <li>Avvikelser från normalt rörelsemönster, orsaker och förebyggande åtgärder.</li> <li>Hållbar belastning och samband mellan exteriör och prestation.</li> <li>Körhästars utbildning i olika åldrar och utvecklingsstadier.</li> <li>Arbetsplaner och träningsprogram inom olika arbetsområden för körhästar.</li> <li>Bedömning av hästars hälsa och kondition i samband med aktuella arbeten.</li> <li>Hantering och skötsel av hästar i samband med träning och tävling.</li> <li>Utrustning av hästar för olika arbete och anspänningar.</li> <li>Skötsel och vård av aktuell utrustning, vagnar och redskap.</li> <li>Val av klädsel och personlig utrustning för aktuella arbeten.</li> <li>Träning av hästar för arbetskörning.</li> <li>Tömkörning av skolade hästar efter deras individuella förutsättningar med betoning på hästarnas avspänning, rakriktning, takt och balans.</li> <li>Grunderna i parkörning.</li> <li>Resurseffektivitet och miljöhänsyn samt ergonomi, arbetsmiljö, riskbedömningar och förebyggande säkerhetsåtgärder i samband med aktuella arbeten.</li> <li>Lagar och andra bestämmelser som gäller arbete med hästar.</li> <li>Bestämmelser om körning på väg samt i skog och mark.</li> <li>Branschens etiska regler i samband med träning av och tävling med hästar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hästars rörelsemekanik samt för faktorer som påverkar hästars prestation, hälsa och kondition. Dessutom redogör eleven <strong>översiktligt</strong> för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om körhästars utbildning och olika träningsmetoder för körhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>visst</strong> handlag i samband med körning och träning samt tar med <strong>viss säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och kusk samt utrustar med <strong>visst</strong> handlag hästar för körning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>godtagbart</strong> resultat.</p> <p>Eleven kör med <strong>visst</strong> handlag hästar i ändamålsenlig form. Dessutom genomför eleven med <strong>viss säkerhet</strong> tömkörning av skolade hästar. I samband med körning och tömkörning tolkar eleven med <strong>viss säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hästars rörelsemekanik samt för faktorer som påverkar hästars prestation, hälsa och kondition. Dessutom redogör eleven <strong>utförligt</strong> för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.</p> <p>Eleven visar <strong>goda</strong> kunskaper om körhästars utbildning och olika träningsmetoder för körhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>gott</strong> handlag i samband med körning och träning samt tar med <strong>säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och kusk samt utrustar med <strong>gott</strong> handlag hästar för körning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>gott</strong> resultat.</p> <p>Eleven kör med <strong>gott</strong> handlag hästar i ändamålsenlig form. Dessutom genomför eleven med <strong>säkerhet</strong> tömkörning av skolade hästar. I samband med körning och tömkörning tolkar eleven med <strong>säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hästars rörelsemekanik samt för faktorer som påverkar hästars prestation, hälsa och kondition. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om körhästars utbildning och olika träningsmetoder för körhästar.</p> <p>Eleven sköter och hanterar hästar med <strong>mycket gott</strong> handlag i samband med körning och träning samt tar med <strong>god säkerhet</strong> hänsyn till faktorer som påverkar hästens välmående och hållbarhet.</p> <p>Eleven väljer lämplig utrustning för häst och kusk samt utrustar med <strong>mycket gott</strong> handlag hästar för körning. Dessutom sköter och vårdar eleven aktuell utrustning med <strong>mycket gott</strong> resultat.</p> <p>Eleven kör med <strong>mycket gott</strong> handlag hästar i ändamålsenlig form. Dessutom genomför eleven med <strong>god säkerhet</strong> tömkörning av skolade hästar. I samband med körning och tömkörning tolkar eleven med <strong>god säkerhet</strong> hästens reaktioner på arbetet.</p> <p>Eleven väljer och använder ergonomiskt och miljömässigt hållbara arbetsmetoder och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.031Z"
+}

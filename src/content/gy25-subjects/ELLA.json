@@ -1,0 +1,64 @@
+{
+  "code": "ELLA",
+  "name": "Ellära",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:209",
+  "nameHeading": "<h2>Ellära</h2>",
+  "description": "<p>Samhället är beroende av en fungerande elförsörjning för att upprätthålla funktionen i en stor mängd verksamheter. Ämnet ellära behandlar likström-, enfas- och trefassystem med belastningar av olika slag. Det behandlar också sambanden mellan olika storheter samt hur dessa mäts och beräknas.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar kunskaper om elnät och kretsar samt förmåga att mäta och beräkna elektriska storheter i likström-, enfas- och trefassystem. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om olika elmaskiner och grundläggande komponenter. Den ska även ge eleverna möjlighet att utveckla kunskaper om elektriska och magnetiska fält.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett fackspråk. Dessutom ska eleverna ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området, på ett sätt som är säkert för eleven och för andra.</p> <p>I undervisningen ska eleverna även ges möjlighet att samverka med andra samt praktiskt utföra mätningar och beräkningar. Vidare ska undervisningen stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att utveckla elevernas intresse för teknisk utveckling och hållbarhetsarbete inom elområdet.</p> <h5><em>Undervisningen i ämnet ellära ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika kretsar samt elnätets uppbyggnad och funktion.</li> <li>Förmåga att mäta elektriska storheter i likström-, enfasväxelström- och trefasväxelströmkretsar med belastningar av olika slag.</li> <li>Förmåga att beräkna elektriska storheter i likström-, enfasväxelström- och trefasväxelströmkretsar med belastningar av olika slag.</li> <li>Kunskaper om olika grundläggande komponenters egenskaper och funktion.</li> <li>Kunskaper om olika elmaskiner och deras funktion.</li> <li>Kunskaper om elektriska och magnetiska fält.</li> <li>Förmåga att arbeta säkert i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</li> </ul><h3>Nivåer i ämnet ellära</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELLA1000X</h3>",
+      "code": "ELLA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ellära på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Elnätets uppbyggnad och funktion, från generator till belastning.</li> <li>Elektriska storheter och samband i likström-, enfasväxelström- och trefasväxelströmkretsar.</li> <li>Mätning i likström-, enfasväxelström- och trefasväxelströmkretsar med resistiv, induktiv och kapacitiv belastning.</li> <li>Utförande och tolkning av mätningar med olika instrument och metoder av vanligt förekommande storheter.</li> <li>Beräkningar på elektrisk serie- och parallellkoppling, fasförskjutning samt olika kopplingar för trefassystem.</li> <li>Beräkningar i symmetriska och osymmetriska trefassystem samt neutralledarens funktion i elsystemet.</li> <li>Ekvationslösning med formler inom ämnesområdet samt relevanta trigonometriska beräkningar.</li> <li>Elektriska material och komponenter, till exempel ledare, halvledare, isolatorer och vanligt förekommande komponenter.</li> <li>Funktionen i olika elmaskiner och hur elmaskiner påverkar elsystemet samt överföring av elenergi, till exempel gällande generatorer, transformatorer och elmotorer.</li> <li>Hur elektriska och magnetiska fält uppstår och verkar samt övertoner och faskompensering vid olika laster.</li> <li>Säkerhet inom elområdet, däribland standarder samt lagar och andra bestämmelser.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> olika elektriska kretsar samt hur elnätet är uppbyggt och fungerar.</p> <p>Eleven utför på ett säkert sätt <strong>enkla</strong> mätningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven utför <strong>enkla</strong> beräkningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika grundläggande komponenters egenskaper och funktion.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika elmaskiner och hur de fungerar.</p> <p>Eleven redogör <strong>översiktligt</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och för andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> olika elektriska kretsar samt hur elnätet är uppbyggt och fungerar.</p> <p>Eleven utför på ett säkert sätt <strong>relativt avancerade</strong> mätningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven utför <strong>relativt avancerade</strong> beräkningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika grundläggande komponenters egenskaper och funktion.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika elmaskiner och hur de fungerar.</p> <p>Eleven redogör <strong>utförligt</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och för andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika elektriska kretsar samt hur elnätet är uppbyggt och fungerar.</p> <p>Eleven utför på ett säkert sätt <strong>avancerade</strong> mätningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven utför <strong>avancerade</strong> beräkningar inom likström-, enfas- och trefasväxelströmkretsar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika grundläggande komponenters egenskaper och funktion.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika elmaskiner och hur de fungerar.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för elektriska och magnetiska fält.</p> <p>Eleven arbetar på ett sätt som är säkert för eleven själv och för andra i enlighet med standarder, lagar och andra bestämmelser inom elområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.987Z"
+}

@@ -1,0 +1,106 @@
+{
+  "code": "ELC",
+  "name": "El- och hybridfordonsteknik",
+  "englishName": "Electric and hybrid electric vehicle technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:5",
+  "skolfsAndring": "2022:81",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>El- och hybridfordonsteknik</h2>",
+  "description": "<p>Ämnet el- och hybridfordonsteknik behandlar funktion samt felsökning och enklare reparationer av el- och hybridfordons elektriska framdrivningssystem. Ämnet behandlar även elsäkerhet vid arbete på eller i närheten av högvoltssystem i el- och hybridfordon.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet el- och hybridfordonsteknik ska syfta till att eleverna utvecklar kunskaper om olika el- och hybridfordons framdrivningssystem samt om elarbete och elsäkerhet. Eleverna ska även ges möjlighet att utveckla förmåga att genomföra felsökning och enklare reparationer. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda manualer och relevanta informationssystem. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett kvalitetsmässigt sätt utifrån lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom.</p> <p>Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kommer att möta i yrkeslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h4>Undervisningen i ämnet el- och hybridfordonsteknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om elarbete och elsäkerhet samt de risker som finns i samband med arbete på eller i närheten av högvoltssystem i el- och hybridfordon.</li> <li>Kunskaper om olika el- och hybridfordonssystem samt deras olika komponenter och hur de samverkar.</li> <li>Förmåga att genomföra service och underhåll av olika el- och hybridfordonssystem.</li> <li>Förmåga att genomföra felsökning och diagnostisering av samt enklare reparationer i olika el- och hybridfordonssystem.</li> <li>Förmåga att använda specialverktyg samt verktyg och övrig utrustning.</li> <li>Förmåga att använda manualer, scheman och digitala informationssystem i samband med felsökning och enklare komponentbyten.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ol><h3>Kurser i ämnet</h3><ul><li>El- och hybridfordon 1, 100 poäng. </li> <li>El- och hybridfordon 2, 100 poäng, som bygger på kursen el- och hybridfordon 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ELCELO01</h3>",
+      "code": "ELCELO01",
+      "nameHeading": "<h2>El- och hybridfordon 1, 100 poäng</h2>",
+      "name": "El- och hybridfordon 1",
+      "englishName": "Electric and hybrid electric vehicles 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen el- och hybridfordon 1 omfattar punkterna 1–2 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Rutiner för elarbete, elsäkerhet och risker samt branschstandard i samband med service, underhåll och reparationer i el- och hybridfordons högvoltssystem.</li> <li>Olika högvoltsbatterier, deras användning och grundkonstruktion samt åtgärd vid brand.</li> <li>Metoder för att göra högvoltssystem spänningslöst samt rutiner för att säkerhetsställa att systemet är spänningslöst.</li> <li>Olika el- och hybridfordons konstruktion av framdrivningssystemet samt deras grundläggande funktion och olika komponenter.</li> <li>Olika system för intern och extern batteriladdning i el- och hybridfordon samt deras funktion och olika komponenter.</li> <li>Olika typer av elmotorer, bland annat synkrona och asynkrona växelströmsmotorer samt likströmsmotorer.</li> <li>Digitala informationssystem, mätutrustningar och specialverktyg.</li> <li>Metoder för användning av specialverktyg på ett kvalitetsmässigt sätt samt vård av dessa.</li> <li>Fordonstillverkares anvisningar och teknisk information på svenska och engelska.</li> <li>Metoder för att använda arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Yrkesmässigt språk och kommunikation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> rutiner för elarbete och elsäkerhet samt för risker i samband med arbete på eller i närheten av högvoltssystem i el- och hybridfordon. Eleven beskriver även <strong>översiktligt</strong> olika el- och hybridfordons framdrivningssystem och motorer samt deras grundläggande funktion och olika komponenter. Dessutom beskriver eleven <strong>översiktligt</strong> olika system för batteriladdning. Eleven beskriver även <strong>översiktligt</strong> olika högvoltsbatterier, deras användning och grundkonstruktion samt åtgärd vid brand.</p> <p>Eleven genomför, <strong>i samråd</strong> med handledare, i bekanta situationer rutiner för att göra högvoltssystem och deras olika komponenter strömlösa. I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag specialverktyg, verktyg och utrustning på ett sätt som är säkert för eleven och andra. Eleven använder <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är<strong> tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> rutiner för elarbete och elsäkerhet samt för risker i samband med arbete på eller i närheten av högvoltssystem i el- och hybridfordon. Eleven beskriver även <strong>utförligt</strong> olika el- och hybridfordons framdrivningssystem och motorer samt deras grundläggande funktion och olika komponenter. Dessutom beskriver eleven <strong>utförligt</strong> olika system för batteriladdning. Eleven beskriver även <strong>utförligt</strong> olika högvoltsbatterier, deras användning och grundkonstruktion samt åtgärd vid brand.</p> <p>Eleven genomför, <strong>efter samråd</strong> med handledare, i bekanta situationer rutiner för att göra högvoltssystem och deras olika komponenter strömlösa. I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med<strong> gott</strong> handlag specialverktyg, verktyg och utrustning på ett sätt som är säkert för elever och andra. Eleven använder <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> rutiner för elarbete och elsäkerhet samt för risker i samband med arbete på eller i närheten av högvoltssystem i el- och hybridfordon. Eleven beskriver även <strong>utförligt och nyanserat</strong> olika el- och hybridfordons framdrivningssystem och motorer samt deras grundläggande funktion och olika komponenter. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika system för batteriladdning. Eleven beskriver även <strong>utförligt och nyanserat</strong> olika högvoltsbatterier, deras användning och grundkonstruktion samt åtgärd vid brand.</p> <p>Eleven genomför, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer rutiner för att göra högvoltssystem och deras olika komponenter strömlösa. I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag specialverktyg, verktyg och utrustning på ett sätt som är säkert för eleven och andra. Eleven använder <strong>med säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ELCELO02</h3>",
+      "code": "ELCELO02",
+      "nameHeading": "<h2>El- och hybridfordon 2, 100 poäng</h2>",
+      "name": "El- och hybridfordon 2",
+      "englishName": "Electric and hybrid electric vehicles 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen el- och hybridfordon 2 omfattar punkterna 3–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder för att göra högvoltssystem spänningslöst samt återaktivering enligt fordonstillverkares krav.</li> <li>Metoder för mätning av batterikapacitet i olika högvoltsbatterier.</li> <li>Elscheman och symboler samt märkning av kablar och komponenter.</li> <li>Metoder för och genomförande av service och underhåll av el- och hybridfordon samt deras elektriska framdrivningssystem och olika komponenter.</li> <li>Metoder för och genomförande av felsökning, diagnostisering och reparationer av enklare fel i olika el- och hybridfordonssystem samt deras komponenter.</li> <li>Metoder för och genomförande av demontering, montering samt justering av komponenter i samband med reparationer.</li> <li>Metoder för användning av specialverktyg på ett kvalitetsmässigt sätt samt vård av dessa.</li> <li>Fordonstillverkares anvisningar, scheman och teknisk information på svenska och engelska.</li> <li>Metoder för att använda arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Yrkesmässigt språk, kommunikation och målgruppsanpassning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven utför, <strong>i samråd</strong> med handledare, rutinmässigt arbete för att göra högvoltssystem och deras olika komponenter spänningslösa samt för återaktivering enligt fordonstillverkares anvisningar.</p> <p>Eleven utför även,<strong> i samråd</strong> med handledare, i bekanta situationer service och underhåll av el- och hybridfordon. Dessutom utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer felsökning, diagnostisering och reparationer av enklare fel i el- och hybridfordonssystem samt mätning av batterikapacitet i olika högvoltsbatterier. Vid reparationer utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag specialverktyg, verktyg och utrustning. Eleven använder <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p> <p> </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven utför, <strong>efter samråd</strong> med handledare, rutinmässigt arbete för att göra högvoltssystem och deras olika komponenter spänningslösa samt för återaktivering enligt fordonstillverkares anvisningar.</p> <p>Eleven utför även, <strong>efter samråd</strong> med handledare, i bekanta situationer service och underhåll av el- och hybridfordon. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer felsökning, diagnostisering och reparationer av enklare fel i el- och hybridfordonssystem samt mätning av batterikapacitet i olika högvoltsbatterier. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag specialverktyg, verktyg och utrustning. Eleven använder <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven utför, <strong>efter samråd</strong> med handledare, rutinmässigt arbete för att göra högvoltssystem och deras olika komponenter spänningslösa samt för återaktivering enligt fordonstillverkares anvisningar.</p> <p>Eleven utför även, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer service och underhåll av el- och hybridfordon. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer felsökning, diagnostisering och reparationer av enklare fel i el- och hybridfordonssystem samt mätning av batterikapacitet i olika högvoltsbatterier. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag specialverktyg, verktyg och utrustning. Eleven använder<strong> med säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.978Z"
+}

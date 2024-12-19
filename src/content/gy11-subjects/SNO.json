@@ -1,0 +1,219 @@
+{
+  "code": "SNO",
+  "name": "Snöfordonsteknik",
+  "englishName": "Snow vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:170",
+  "skolfsAndring": "2022:281",
+  "nameHeading": "<h2>Snöfordonsteknik</h2>",
+  "description": "<p>Ämnet snöfordonsteknik behandlar funktion hos samt handhavande och framförande av snöfordon. Det behandlar också tillsyn, felsökning, service och reparation av snöfordon. Ämnet behandlar vidare olika användningsområden för snöfordon.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet snöfordonsteknik ska syfta till att eleverna utvecklar förmåga att framföra samt att genomföra diagnos, service, underhåll och reparationer av snöfordon. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de system och komponenter som förekommer i snöfordon samt förståelse av hur dessa samverkar. Undervisningen ska leda till att eleverna utvecklar tekniskt kunnande inom området snöfordon samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra.</p><p>Undervisningen ska bidra till att stimulera elevernas intresse för snöfordon, deras utrustning och teknik. Undervisningen ska även leda till att eleverna utvecklar förmåga att hantera och framföra olika typer av snöfordon. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet snöfordonsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om snöfordon samt om deras utrustning och användningsområden.</li> <li>Kunskaper om snöfordons komponenter och system, samt förståelse av hur de samverkar.</li> <li>Förmåga att utföra diagnos, service, underhåll och reparation av snöfordon.</li> <li>Förmåga att utföra funktions- och säkerhetskontroll.</li> <li>Förmåga att välja och använda arbetsmetoder och utrustning.</li> <li>Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att köra och manövrera pistmaskin i skiftande skidområden med rätt nyttjande av pistmaskinens kapacitet.</li> <li>Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.</li> <li>Förmåga att använda ett yrkesmässigt språk.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Pistmaskinkörning, 100 poäng. </li> <li>Reparation av snöfordon, 300 poäng. </li> <li>Reparation av snöskoter, 100 poäng, som bygger på kursen reparation av snöfordon, kursen reparation av lastbilar och mobila maskiner eller reparation av personbilar och lätta transportfordon.</li> <li>Snöfordon – introduktion, 200 poäng, som bygger på kursen fordonsteknik – introduktion.</li> <li>Pistmaskiner och utrustning, 200 poäng, som bygger på kursen snöfordon – introduktion samt kursen reparation av snöfordon.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SNOPIS0</h3>",
+      "code": "SNOPIS0",
+      "nameHeading": "<h2>Pistmaskinkörning, 100 poäng</h2>",
+      "name": "Pistmaskinkörning",
+      "englishName": "Piste machine operations",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen pistmaskinkörning omfattar punkterna 1–2, 4–5 och 7–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika typer av snöfordon, deras utrustning och användningsområden.</li> <li>Funktions- och säkerhetskontroll samt vård och underhåll av pistmaskin och utrustning.</li> <li>Användning av olika informationssystem för färdplanering och vägval samt planering av körtider.</li> <li>Körning och manövrering av pistmaskin i skiftande prepareringsområden med rätt nyttjande av pistmaskinens kapacitet.</li> <li>Val av inställningar och motorvarvtal samt användning av övriga tekniska funktioner för ökad framkomlighet i olika terrängförhållanden och väderlek.</li> <li>Avancerad körteknik och köruppträdande med hög säkerhetsnivå i prepareringsområden.</li> <li>Användning av mobil kommunikationsutrustning under färd.</li> <li>Ergonomi i förarmiljön.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>några användningsområden för olika pistmaskiner. Dessutom beskriver eleven <strong>översiktligt </strong>några pistningstekniker som kräver extra planering före genomförande.</p><p>Eleven planerar <strong>i samråd </strong>med handledare <strong>enkel </strong>pistning i bekanta prepareringsområden. I planeringen väljer eleven <strong>med viss säkerhet </strong>arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll. Eleven färdigställer och förbereder i bekanta situationer pistmaskinen med utrustning för genomförandet av arbetet. Dessutom planerar eleven <strong>i samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.</p><p>Eleven genomför <strong>i samråd</strong> med handledare pistning i bekanta prepareringsområden. I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet. Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>några användningsområden för olika pistmaskiner. Dessutom beskriver eleven <strong>utförligt </strong>några pistningstekniker som kräver extra planering före genomförande.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare pistning i bekanta <strong>och delvis nya </strong>prepareringsområden. I planeringen väljer eleven <strong>med viss säkerhet </strong>arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll. Eleven färdigställer och förbereder i bekanta situationer pistmaskinen med utrustning för genomförandet av arbetet. Dessutom planerar eleven <strong>efter samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.</p><p>Eleven genomför <strong>efter samråd</strong> med handledare pistning i bekanta <strong>och delvis nya </strong>prepareringsområden. I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet. Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>några användningsområden för olika pistmaskiner. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>några pistningstekniker som kräver extra planering före genomförande.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare <strong>avancerad </strong>pistning i bekanta<strong> och nya </strong>prepareringsområden. I planeringen väljer eleven <strong>med säkerhet </strong>arbetsmetod, utrustning och tillvägagångssätt inför uppdraget samt utför i bekanta<strong> och nya </strong>situationer funktionstillsyn och säkerhetskontroll. Eleven färdigställer och förbereder i bekanta<strong> och nya </strong>situationer pistmaskinen med utrustning för genomförandet av arbetet. Dessutom planerar eleven <strong>efter samråd</strong> med handledare färdväg utifrån pistmaskinens kapacitet och anläggningens förutsättningar.</p><p>Eleven genomför <strong>efter samråd</strong> med handledare <strong>avancerad </strong>pistning i bekanta<strong> och nya </strong>prepareringsområden. I pistningen följer eleven de yrkesmässiga kvalitetskrav som styr arbetet. Eleven tar ansvar för anläggningens egendom samt för pistmaskin och utrustning.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet </strong>för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SNOREP0</h3>",
+      "code": "SNOREP0",
+      "nameHeading": "<h2>Reparation av snöfordon, 300 poäng</h2>",
+      "name": "Reparation av snöfordon",
+      "englishName": "Repair of snow vehicles",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen reparation av snöfordon omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Elsystemets konstruktion och funktion samt dess huvudkomponenter inklusive schemasymboler, till exempel ISO, SIS och DIN.</li> <li>Bromssystemets konstruktion och funktion samt dess huvudkomponenter.</li> <li>Drivlinans konstruktion och funktion samt dess huvudkomponenter.</li> <li>Ramars, chassiers, axlars och fjädringssystems konstruktion och funktion samt deras huvudkomponenter.</li> <li>Styrsystems konstruktion och funktion samt deras huvudkomponenter.</li> <li>Demontering, montering och justering av komponenter i samband med service och reparationsarbeten.</li> <li>Svetsning av icke bärande konstruktioner.</li> <li>Underhåll, reparationsarbete samt kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med snöfordon.</li> <li>Lyft och transporter av tunga komponenter.</li> <li>Användning av branschrelaterad diagnosutrustning.</li> <li>Användning av branschrelaterad verkstadsutrustning.</li> <li>Rengöring och vård samt kontroll och reparation av verktyg och verkstadsutrustning.</li> <li>Bestämmelser om hur man får förändra egenskaper som påverkar handhavande och säkerhet.</li> <li>Bestämmelser och anvisningar om sammanfogningstekniker för snöfordon.</li> <li>Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.</li> <li>Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.</li> <li>Yrkesmässig dokumentation av service och reparationsarbeten.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt </strong>funktionsprinciper för och konstruktioner av snöfordon. Dessutom beskriver eleven <strong>översiktligt</strong> funktion hos och konstruktion av snöfordons olika komponenter.</p><p>Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt </strong>underhåll på snöfordon. Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer byten av komponenter, detaljer och kringutrustning på snöfordon. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt </strong>funktionsprinciper för och konstruktioner av snöfordon. Dessutom beskriver eleven <strong>utförligt </strong>funktion hos och konstruktion av snöfordons olika komponenter.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer, diagnos, service och reparation samt underhåll på snöfordon. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer byten av komponenter, detaljer och kringutrustning på snöfordon. I arbetet <strong>väljer och </strong>använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat </strong>funktionsprinciper för och konstruktioner av snöfordon. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>funktion hos och konstruktion av snöfordons olika komponenter.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer, <strong>avancerad </strong>diagnos, service och reparation samt <strong>avancerat </strong>underhåll på snöfordon. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer byten av komponenter, detaljer och kringutrustning på snöfordon. I arbetet <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SNOREE0</h3>",
+      "code": "SNOREE0",
+      "nameHeading": "<h2>Reparation av snöskoter, 100 poäng</h2>",
+      "name": "Reparation av snöskoter",
+      "englishName": "Repair of snow scooters",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen reparation av snöskoter omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion hos och konstruktion av ottomotor i snöskoter samt motorns inre komponenter, detaljer och kringutrustning.</li> <li>Funktion hos och konstruktion av tvåtaktsmotor i snöskoter samt motorns inre komponenter, detaljer och kringutrustning.</li> <li>Alternativa bränslen.</li> <li>Funktion hos och konstruktion av manuella växellådor samt deras inre komponenter och kringutrustning.</li> <li>Funktion hos och konstruktion av variatorer samt deras komponenter och övrig utrustning.</li> <li>Funktion hos och konstruktion av kraftöverföring samt dess komponenter, detaljer och övrig utrustning.</li> <li>Funktion hos och konstruktion av framvagn, styrning och fjädring.</li> <li>Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll samt reparation av motor och kraftöverföring.</li> <li>Demontering, montering och justering av komponenter i samband med reparationsarbeten.</li> <li>Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt </strong>funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.</p><p>Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel</strong> diagnos, service och reparation samt <strong>enkelt </strong>underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. Dessutom utför eleven, <strong>i samråd</strong> med handledare och i bekanta situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt </strong>funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer, diagnos, service och reparation samt underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. I arbetet <strong>väljer och </strong>använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt och nyanserat </strong>funktionsprinciper för och konstruktioner av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer, <strong>avancerad </strong>diagnos, service och reparation samt <strong>avancerat </strong>underhåll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer, byten av komponenter, detaljer och kringutrustning, samt utför funktions- och säkerhetskontroll av motor, kraftöverföring, framvagn, styrning och fjädring i snöskotrar. I arbetet <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SNOSNO0</h3>",
+      "code": "SNOSNO0",
+      "nameHeading": "<h2>Snöfordon – introduktion, 200 poäng</h2>",
+      "name": "Snöfordon – introduktion",
+      "englishName": "Snow vehicles – introduction",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen snöfordon – introduktion omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Konstruktionsprinciper för snöfordon.</li> <li>Funktionsprinciper för fordons system och deras huvudkomponenter samt hur komponenter och system samverkar med varandra.</li> <li>Konsekvenser av eftersatt underhåll, beträffande ekonomi, miljö och driftstörningar.</li> <li>Faktorer som påverkar kostnader för drift och underhåll.</li> <li>Felsökning, underhåll och reparation i samband med funktions- och säkerhetskontroll.</li> <li>Funktions- och säkerhetskontroll.</li> <li>Regler för handhavande, vård och tillsyn av snöfordon och tillbehör.</li> <li>Begrepp i samband med teknisk information om handhavande, kontroll och vård av snöfordon och tillbehör.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt </strong>olika användningsområden och egenskaper hos snöfordon. Dessutom beskriver eleven <strong>översiktligt </strong>snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.</p><p>Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, <strong>enkel </strong>service och reparation samt funktions- och säkerhetskontroll av snöforfordon. I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ger <strong>flera</strong> exempel på och beskriver <strong>utförligt </strong>olika användningsområden och egenskaper hos snöfordon. Dessutom beskriver eleven <strong>utförligt </strong>snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer, service och reparation samt funktions- och säkerhetskontroll av snöfordon. I arbetet <strong>väljer och </strong>använder eleven <strong>med viss säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ger <strong>flera </strong>exempel på och beskriver <strong>utförligt och nyanserat </strong>olika användningsområden och egenskaper hos snöfordon. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>snöfordons system och deras huvudkomponenter samt hur komponenter och system samverkar.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer, <strong>avancerad </strong>service och reparation samt funktions- och säkerhetskontroll av snöfordon. I arbetet <strong>väljer och </strong>använder eleven <strong>med säkerhet</strong> relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med säkerhet </strong>svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med säkerhet</strong> tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SNOPIM0</h3>",
+      "code": "SNOPIM0",
+      "nameHeading": "<h2>Pistmaskiner och utrustning, 200 poäng</h2>",
+      "name": "Pistmaskiner och utrustning",
+      "englishName": "Piste machinery and equipment",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen pistmaskiner och utrustning omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion hos och konstruktion av bromssystem.</li> <li>Funktion hos och konstruktion av elsystem.</li> <li>Funktion hos och konstruktion av hydraulsystem.</li> <li>Funktion hos och konstruktion av drivlina och kringutrustning.</li> <li>Funktion hos och konstruktion av styrsystem.</li> <li>Funktion hos och konstruktion av schakt- och fräsaggregat.</li> <li>Funktion hos och konstruktion av pendlande axlar.</li> <li>Funktion hos och konstruktion av olika servosystem, till exempel proportional och on-off.</li> <li>Funktion hos och konstruktion av pistmaskiners utrustning, till exempel vinsch, snöslunga och parkutrustning.</li> <li>Funktion hos och konstruktion av kraftuttagsdrivna maskiner.</li> <li>Metoder och bestämmelser för reparation av pistmaskiner och utrustning.</li> <li>Demontering, montering och justering av komponenter i samband med reparationsarbeten.</li> <li>Reparationsarbeten, kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med pistmaskiner och utrustning.</li> <li>Användning av branschrelaterad diagnosutrustning i samband med arbetsmoment.</li> <li>Rengöring och vård samt kontroll och reparation av verktyg och verkstadsutrustning.</li> <li>Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.</li> <li>Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.</li> <li>Yrkesmässig dokumentation av reparationsarbeten.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven ger <strong>några</strong> exempel på och beskriver <strong>översiktligt </strong>funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning. Dessutom beskriver eleven <strong>översiktligt</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.</p><p>Eleven utför, <strong>i samråd</strong> med handledare och i bekanta situationer, besiktning och <strong>enkla </strong>reparationer samt byten av komponenter på pistmaskiner och monterad utrustning. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven ger <strong>flera </strong>exempel på och beskriver <strong>utförligt </strong>funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning. Dessutom beskriver eleven <strong>utförligt</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer, besiktning och reparationer samt byten av komponenter på pistmaskiner och monterad utrustning. I arbetet <strong>väljer och </strong>använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven ger <strong>flera </strong>exempel på och beskriver <strong>utförligt och nyanserat </strong>funktionsprinciper för och konstruktioner av pistmaskiner och monterad utrustning. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktion hos och konstruktion av pistmaskiners olika komponenter.</p><p>Eleven utför, <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer, besiktning och <strong>avancerade </strong>reparationer samt byten av komponenter på pistmaskiner och monterad utrustning. I arbetet <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>relevanta arbetsmetoder och relevant utrustning samt arbetar säkert och följer lagar, andra bestämmelser och kvalitetsnormer som gäller för arbetet.</p><p>Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem. I kommunikation med andra använder eleven <strong>med säkerhet </strong>tekniska begrepp. Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.162Z"
+}

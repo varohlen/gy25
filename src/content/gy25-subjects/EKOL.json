@@ -1,0 +1,64 @@
+{
+  "code": "EKOL",
+  "name": "Ekologi i naturbruksmiljöer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:204",
+  "nameHeading": "<h2>Ekologi i naturbruksmiljöer</h2>",
+  "description": "<p>Ämnet ekologi i naturbruksmiljöer behandlar samspelet mellan levande organismer och deras omvärld samt hur naturbrukets verksamheter kan bidra till en ekologiskt baserad och hållbar samhällsutveckling. Ämnet behandlar också ekosystemtjänster som ett sätt att synliggöra vårt beroende av fungerande ekosystem. Centralt i ämnet är kunskaper om mark, växter och djur samt naturvård och betydelsen av biologisk mångfald.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ekologi i naturbruksmiljöer ska syfta till att eleverna utvecklar kunskaper om ekologi och ekologiska samband i olika biotoper och ekosystem. Den ska leda till att eleverna utvecklar förståelse av hur verksamheter inom naturbruk inverkar på olika organismer och deras livsmiljö, värdet av biologisk mångfald samt betydelsen av natur- och landskapsvård.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av biologiska samband i naturen. I detta ingår kunskaper om växter och djur, livsprocesser i marken, mikrobiologiska processer och om kretslopp i mark, vatten och luft. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om ekosystemtjänster samt förmåga att reflektera över ekosystemens bärkraft, människans roll i ekosystemen och hur verksamheter inom naturbruk kan bidra till att främja hållbar utveckling.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att identifiera, namnge och beskriva olika växt- och djurarter samt deras naturliga habitat och livsmiljöer. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om växternas och djurens byggnad, livsprocesser och utvecklingsfaser samt om olika djurarters behov och naturliga beteenden. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om kulturmiljöernas betydelse för den biologiska mångfalden samt förvaltnings- och bevarandefrågor i samband med naturbruksverksamheter.</p> <p>Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt tänkande och en biologisk förståelse av djur och växter. I undervisningen ska eleverna genom praktiska övningar, observationer och fältstudier ges möjlighet att studera växter och djur i deras naturliga miljöer och därigenom ges möjlighet att utveckla förståelse av ekosystem och ekosystemtjänster. Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, göra systematiska observationer, planera och utföra experiment och fältstudier samt bearbeta, tolka och kritiskt granska resultat och information.</p> <h5><em>Undervisningen i ämnet ekologi i naturbruksmiljöer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om växternas och djurens biologi.</li> <li>Kunskaper om kretslopp i mark, vatten och luft.</li> <li>Förmåga att reflektera över människans roll i ekosystemen.</li> <li>Förmåga att identifiera, beskriva och namnge växt- och djurarter inom naturbruket.</li> <li>Kunskaper om biologisk mångfald och bevarande av hotade arter.</li> </ul><h3>Nivåer i ämnet ekologi i naturbruksmiljöer</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: EKOL1000X</h3>",
+      "code": "EKOL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ekologi i naturbruksmiljöer på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Mark, mineral, berggrund, jordarter och jordmån.</li> <li>Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.</li> <li>Växtnäringsämnena och deras kretslopp.</li> <li>Kolets kretslopp.</li> <li>Fotosyntes, andning och energiomsättning hos växter.</li> <li>Mikroorganismer, svampar, bakterier och övriga organismer av betydelse för markens näringsomsättning och kväveförsörjning.</li> <li>Ekosystem och ekosystemtjänster inom naturbruket.</li> </ul> <p><em>Växter och djur</em></p> <ul> <li>Olika djurslags behov och naturliga beteenden samt biotopkrav.</li> <li>Identifiering och klassificering av djurarter, växtarter och vattenlevande organismer i olika biotoper.</li> <li>Träd och växter samt deras egenskaper, kännetecken och ståndortskrav.</li> <li>Fältstudier för biotopinventeringar samt studier av och informationssökning om växter och djur.</li> </ul> <p><em>Natur- och kulturmiljö</em></p> <ul> <li>Naturbrukets påverkan på ekosystemen kopplat till frågor om bärkraft och hållbar utveckling.</li> <li>Estetiska och upplevelsemässiga värden i landskapet.</li> <li>Kulturmiljöers betydelse för den biologiska mångfalden.</li> <li>Förvaltnings- och bevarandefrågor i samband med naturbruksverksamhet.</li> <li>Natur- och kulturmiljövård samt metoder för att bevara utrotningshotade arter.</li> <li>Metoder för biotopvård och biotoprestaurering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för växternas och djurens biologi.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om kretslopp i mark, vatten och luft. Eleven beskriver <strong>översiktligt</strong> kretsloppens betydelse på lokal och global nivå.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika biotopers sammansättning och karaktär. Eleven drar <strong>enkla</strong> slutsatser om hur naturbrukets verksamheter påverkar ekosystemen.</p> <p>Eleven identifierar och namnger med <strong>viss säkerhet</strong> djur och växter i samband med fältstudier och grupperar dem med <strong>viss säkerhet</strong> efter vetenskapliga system.</p> <p>Eleven beskriver <strong>översiktligt</strong> olika metoder för att bevara och restaurera biotoper samt redogör för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven diskuterar <strong>översiktligt</strong> etiska frågor inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för växternas och djurens biologi.</p> <p>Eleven visar <strong>goda</strong> kunskaper om kretslopp i mark, vatten och luft. Eleven beskriver <strong>utförligt</strong> kretsloppens betydelse på lokal och global nivå.</p> <p>Eleven redogör <strong>utförligt</strong> för olika biotopers sammansättning och karaktär. Eleven drar <strong>välgrundade</strong> slutsatser om hur naturbrukets verksamheter påverkar ekosystemen.</p> <p>Eleven identifierar och namnger med <strong>säkerhet</strong> djur och växter i samband med fältstudier och grupperar dem med <strong>säkerhet</strong> efter vetenskapliga system.</p> <p>Eleven beskriver <strong>utförligt</strong> olika metoder för att bevara och restaurera biotoper samt redogör för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven diskuterar <strong>utförligt</strong> etiska frågor inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för växternas och djurens biologi.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om kretslopp i mark, vatten och luft. Eleven beskriver <strong>utförligt och nyanserat</strong> kretsloppens betydelse på lokal och global nivå.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika biotopers sammansättning och karaktär. Eleven drar <strong>välgrundade och nyanserade</strong> slutsatser om hur naturbrukets verksamheter påverkar ekosystemen.</p> <p>Eleven identifierar och namnger med <strong>god säkerhet</strong> djur och växter i samband med fältstudier och grupperar dem med <strong>god säkerhet</strong> efter vetenskapliga system.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika metoder för att bevara och restaurera biotoper samt redogör för hur naturbruket kan bidra till att bevara den biologiska mångfalden. Eleven diskuterar <strong>utförligt och nyanserat</strong> etiska frågor inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.986Z"
+}

@@ -1,0 +1,106 @@
+{
+  "code": "FORS",
+  "name": "Försäljning och kundservice",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:244",
+  "nameHeading": "<h2>Försäljning och kundservice</h2>",
+  "description": "<p>Inom handels- och tjänstesektorn är sälj- och servicefunktionerna viktiga för företagens lönsamhet och utveckling. Ämnet försäljning och kundservice behandlar hur goda och hållbara kundrelationer skapas och vårdas. I ämnet ingår även delar om ekonomiskt ansvar samt vikten av långsiktigt, målmedvetet och hållbart arbete.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet försäljning och kundservice ska syfta till att eleverna utvecklar kunskaper om och färdigheter i personlig försäljning och kundservice. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säljpsykologi, säljetik och vad som kännetecknar ett kundorienterat och målinriktat försäljningsarbete. På så sätt ska eleverna ges möjlighet att utveckla förmåga att kommunicera med och möta kunder samt att samarbeta och samverka med kollegor på ett yrkesetiskt, jämställt, professionellt och målgruppsanpassat sätt.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera och utföra arbetsuppgifter inom området försäljning och kundservice på ett hållbart sätt. De ska också ges möjlighet att bedriva arbetet med utgångspunkt i lagar och andra bestämmelser inom området. Undervisningen ska stimulera elevernas kunskapssökande, kreativitet, innovationstänkande och lust att anta utmaningar. På så vis ska undervisningen bidra till elevernas personliga utveckling.</p> <p>Genom praktiska övningar och ett problemlösande arbetssätt ska eleverna ges möjlighet att använda olika arbetsmetoder inom området försäljning och kundservice. Därigenom ska eleverna ges möjlighet att finna lösningar på olika typer av problem och situationer som kan uppstå i yrkesrollen. Undervisningen ska lämna utrymme för yrkesetiska frågor och olika handlingsalternativ i försäljnings- och kundservicesituationer. I undervisningen ska eleverna även ges möjlighet att använda digitala verktyg för att söka information från olika källor samt att granska och värdera dessa.</p> <h5><em>Undervisningen i ämnet försäljning och kundservice ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om ett kundorienterat och målinriktat försäljnings- och kundservicearbete.</li> <li>Förmåga att skapa och utveckla goda kundrelationer.</li> <li>Förmåga att utföra sälj- och kundservicearbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera och samverka i olika sälj- och kundservicesituationer på ett yrkesetiskt sätt.</li> </ul><h3>Nivåer i ämnet försäljning och kundservice</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 100 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FORS1000X</h3>",
+      "code": "FORS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet försäljning och kundservice på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Avgörande faktorer vid målinriktad och kundanpassad service samt hur servicen kan planeras och genomföras.</li> <li>Hur egna och andras attityder, förhållningssätt, kommunikationsmönster och värderingar kan påverka kundmöten och kundrelationer.</li> <li>Service och anpassning till kunden samt lämpliga arbetsmetoder och tekniker vid olika servicesituationer.</li> <li>Ekonomisk, social och miljömässig hållbarhet inom försäljnings- och kundserviceområdet.</li> <li>Lagar och andra bestämmelser inom försäljnings- och kundserviceområdet.</li> <li>Hur kundservicearbete kan utvärderas.</li> <li>Samarbete med kollegor och olika yrkesgrupper, till exempel tillverkare och leverantörer.</li> <li>Service vid olika typer av kundmöten i digitala och fysiska försäljningskanaler.</li> <li>Interaktion och kommunikation i olika kund- och servicesituationer.</li> <li>Yrkesetik inom försäljning och kundservice.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORS2000X</h3>",
+      "code": "FORS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet försäljning och kundservice på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Målinriktad och kundorienterad service som leder till god försäljning samt strategier för god service med anpassning till olika kundtyper och kundbeteenden.</li> <li>Hur anpassning till olika målgruppers attityder, värderingar, kommunikationsmönster och förhållningssätt kan påverka kundmöten och kundrelationer.</li> <li>Service och kundsupport med anpassning till olika kundtyper och kundbeteenden i försäljnings- och servicesituationer.</li> <li>Hantering av klagomål och reklamationer i enlighet med lagar och andra bestämmelser inom området.</li> <li>Hur utvärdering och utveckling av kundens upplevelse av en servicesituation kan genomföras.</li> <li>Hur interaktion, kommunikation och kulturella kommunikationsmönster fungerar i olika säljsituationer och försäljningskanaler samt vikten av god yrkesetik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORS3000X</h3>",
+      "code": "FORS3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet försäljning och kundservice på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Strategier för kundorienterat, målinriktat och framgångsrikt försäljningsarbete samt innebörden av kundens totala köpupplevelse.</li> <li>Kundservice och upplevelser mellan kund och företag.</li> <li>Kund- och säljpsykologi, däribland hur attityder, förhållningssätt och värderingar kan påverka försäljningssituationer.</li> <li>Metoder för ökad försäljning, till exempel genom merförsäljning eller snittköp.</li> <li>Praktisk säljkommunikation, till exempel produktdemonstrationer.</li> <li>Lagar och andra bestämmelser samt avtal inom området.</li> <li>Hur utvärdering av försäljningsarbete kan genomföras.</li> <li>Retorik och presentationsteknik inom försäljning.</li> <li>Kommunikation och yrkesetiska förhållningssätt genom olika medier i sälj- och kundservicesituationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FORS4000X</h3>",
+      "code": "FORS4000X",
+      "nameHeading": "<h2>Nivå 4, 100 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet försäljning och kundservice på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Olika affärsmodeller, däribland marknadsanalys, affärsprocess, kundkrets- och intäktsanalys samt hur dessa kan utgöra grund för ett kundorienterat och målinriktat försäljningsarbete.</li> <li>Kund- och säljpsykologi, den egna säljstilen samt fördjupning i kundmönster och kundbeteenden.</li> <li>Säljarbete via säljstyrning och säljledning.</li> <li>Strategier för att utvecklas som säljare, däribland förhandlingstekniker och projektledning.</li> <li>Lagar och andra bestämmelser samt avtal inom området. Orientering om lagar och andra bestämmelser i andra länder och internationellt inom området, till exempel inom EU.</li> <li>Hur utvärdering och utveckling av försäljningsarbete kan genomföras.</li> <li>Retorik och presentationsteknik för säljbudskap i olika försäljningskanaler samt kommunikation och yrkesetik i olika affärskulturer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur ett kundanpassat och målinriktat försäljnings- och kundservicearbete kan genomföras.</p> <p>Eleven skapar och utvecklar goda kundrelationer med <strong>viss säkerhet</strong>.</p> <p>Eleven utför med <strong>viss</strong> skicklighet sälj- och kundservicearbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika sälj- och kundservicesituationer på ett kundanpassat och yrkesetiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur ett kundanpassat och målinriktat försäljnings- och kundservicearbete kan genomföras.</p> <p>Eleven skapar och utvecklar goda kundrelationer med <strong>säkerhet</strong>.</p> <p>Eleven utför med <strong>god</strong> skicklighet sälj- och kundservicearbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika sälj- och kundservicesituationer på ett kundanpassat och yrkesetiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur ett kundanpassat och målinriktat försäljnings- och kundservicearbete kan genomföras.</p> <p>Eleven skapar och utvecklar goda kundrelationer med <strong>god säkerhet</strong>.</p> <p>Eleven utför med <strong>mycket god</strong> skicklighet sälj- och kundservicearbete i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika sälj- och kundservicesituationer på ett kundanpassat och yrkesetiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.002Z"
+}

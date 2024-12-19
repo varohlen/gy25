@@ -1,0 +1,106 @@
+{
+  "code": "GLAF",
+  "name": "Glasförädling",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:299",
+  "nameHeading": "<h2>Glasförädling</h2>",
+  "description": "<p>Ämnet glasförädling behandlar teknik och arbetsprocess vid förädling och dekorering av glashantverk. I ämnet behandlas även färg, form och design samt service, försäljning och marknadsföring.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet glasförädling ska syfta till att eleverna utvecklar förmåga att utföra glasdekorering och glasförädling. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera arbetet samt att välja lämpliga verktyg, maskiner och material. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att välja och använda olika tekniker i det skapande arbetet. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att arbeta säkert och hållbart samt att utveckla kunskaper om ergonomi, arbetsmiljö och säkerhet inom området.</p> <p>Undervisningen ska stimulera elevernas initiativförmåga, självständighet och skaparglädje. Eleverna ska dessutom ges möjlighet att använda sin kreativitet samt att utveckla kunskaper om färg, formgivning och design i arbetet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att samarbeta och kommunicera i olika situationer samt att använda facktermer. Eleverna ska även ges rikliga möjligheter att diskutera och resonera om hållbarhet i branschen.</p> <h5><em>Undervisningen i ämnet glasförädling ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och utföra glasarbete.</li> <li>Förmåga att underhålla arbetsplats, verktyg och annan utrustning.</li> <li>Förmåga att välja och använda lämpliga verktyg, material och tekniker.</li> <li>Förmåga att arbeta säkert och hållbart samt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att dokumentera och utvärdera arbetsprocess och resultat.</li> <li>Förmåga att kommunicera i olika servicesituationer samt att använda facktermer inom glastillverkning.</li> </ul><h3>Nivåer i ämnet glasförädling</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet glasarbete.</li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GLAF1000X</h3>",
+      "code": "GLAF1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet glasförädling på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetsprocessen, däribland färdigställande av arbetsplats.</li> <li>Enklare tillverkning, förädling och dekorering av glas.</li> <li>Underhåll av arbetsplats, maskiner, verktyg och annan utrustning.</li> <li>Val och användning av lämpliga verktyg, material och tekniker.</li> <li>Grundläggande produkt- och materialkunskap.</li> <li>Orientering om färg, formgivning och design inom glasarbete.</li> <li>Graveringstekniker, däribland linjegravering och kastning.</li> <li>Blästringstekniker, däribland helblästring och utskuren dekor.</li> <li>Grundläggande sliptekniker.</li> <li>Enklare efterbearbetning av glashantverk.</li> <li>Tillverkning av pärlor med tekniken lamparbete.</li> <li>Ergonomiskt och säkert arbete.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och riskbedömning i arbetet, däribland användning av skyddsutrustning.</li> <li>Nödlägesrutiner och första hjälpen vid krissituationer och olycksfall, däribland L-ABC (livsfarligt läge – andning, blödning, cirkulation) och HLR (hjärt-lungräddning).</li> <li>Ekonomisk och miljömässig hållbarhet inom glasarbete, däribland återvinning och återanvändning av material.</li> <li>Enklare presentationer av produkter.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Facktermer inom glastillverkning.</li> <li>Samarbete, kommunikation och assistering vid glasarbete.</li> <li>Kommunikation i olika servicesituationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GLAF2000X</h3>",
+      "code": "GLAF2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet glasförädling på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetsprocessen, däribland beräkning av materialåtgång. Enklare ekonomiska kalkyler.</li> <li>Tillverkning, förädling och dekorering av glas.</li> <li>Underhåll av arbetsplats, maskiner, verktyg och annan utrustning.</li> <li>Val och användning av lämpliga verktyg, material och tekniker.</li> <li>Produkt- och materialkunskap.</li> <li>Färg, formgivning och design vid dekorering och förädling av glashantverk.</li> <li>Graveringstekniker, däribland djupgravering med flera djup.</li> <li>Blästringstekniker, däribland relief med flera djup och tonad blästring.</li> <li>Sliptekniker, däribland djupslipning av korsande skär, blomslipning av grunda och lagda skär samt facettslipning på massivt glas.</li> <li>Enklare ugnsarbete.</li> <li>Tillverkning av produkt med kopparfolieteknik.</li> <li>Efterbearbetning av glashantverk, däribland kapning, borrning och limning.</li> <li>Säkra och ergonomiska arbetssätt.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och riskbedömning i arbetet, däribland användning av skyddsutrustning.</li> <li>Ekonomisk och miljömässig hållbarhet inom glasarbete, däribland återvinning och återanvändning av material.</li> <li>Säljande presentationer av produkter.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Facktermer inom glastillverkning.</li> <li>Samarbete och kommunikation vid glasarbete.</li> <li>Kommunikation och bemötande i vanliga servicesituationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GLAF3000X</h3>",
+      "code": "GLAF3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet glasförädling på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetsprocessen, däribland material-, tids- och kostnadsberäkning.</li> <li>Tillverkning, förädling och dekorering av glas.</li> <li>Underhåll av arbetsplats, maskiner, verktyg och annan utrustning.</li> <li>Val och användning av lämpliga verktyg, material och tekniker.</li> <li>Produkt- och materialkunskap.</li> <li>Färg, formgivning och design vid dekorering och förädling av glashantverk.</li> <li>Kombinerade tekniker vid produktion av glashantverk på olika råglas.</li> <li>Graveringstekniker, däribland djupgravering med flera djup, bakgrundsgravering och punktgravering.</li> <li>Blästringstekniker och kombination av flera blästringstekniker.</li> <li>Sliptekniker, till exempel djupslipning av dekorkanter, blomslipning av figurer och slipning av rundade facetter.</li> <li>Efterbearbetning av glashantverk, däribland sprängning och polering av kant och botten.</li> <li>Säkra och ergonomiska arbetssätt.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och riskbedömning i arbetet, däribland användning av skyddsutrustning.</li> <li>Ekonomisk och miljömässig hållbarhet inom glasarbete, däribland återvinning och återanvändning av material.</li> <li>Säljande presentationer och metoder för marknadsföring.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Facktermer inom glastillverkning.</li> <li>Samarbete och kommunikation vid glasarbete.</li> <li>Kommunikation och bemötande i olika servicesituationer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GLAF4000X</h3>",
+      "code": "GLAF4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet glasförädling på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetsprocessen, däribland material-, tids- och kostnadsberäkning.</li> <li>Tillverkning, förädling och dekorering av glas.</li> <li>Underhåll av arbetsplats, maskiner, verktyg och annan utrustning.</li> <li>Val och användning av lämpliga verktyg, material och tekniker.</li> <li>Produkt- och materialkunskap.</li> <li>Färg, formgivning och design vid dekorering och förädling av glashantverk.</li> <li>Kombinerade tekniker på olika råglas.</li> <li>Fördjupning i en eller flera dekoreringstekniker, till exempel slipning, blästring eller gravering.</li> <li>Efterbearbetning av glas.</li> <li>Säkra och ergonomiska arbetssätt.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och riskbedömning i arbetet, däribland användning av skyddsutrustning.</li> <li>Ekonomisk och miljömässig hållbarhet inom glasarbete, däribland återvinning och återanvändning av material.</li> <li>Säljande presentationer och metoder för marknadsföring.</li> <li>Dokumentation och utvärdering av arbetsprocess och resultat.</li> <li>Facktermer inom glastillverkning.</li> <li>Samarbete och kommunikation vid glasarbete.</li> <li>Kommunikation och bemötande på ett yrkesmässigt sätt i olika servicesituationer.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför glasarbete med <strong>viss säkerhet</strong>.</p> <p>Eleven underhåller arbetsplats, verktyg och annan utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven väljer och använder lämpliga verktyg, material och tekniker med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar säkert och hållbart samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven dokumenterar och utvärderar med <strong>viss säkerhet</strong> arbetsprocess och resultat.</p> <p>Eleven kommunicerar i olika servicesituationer och använder facktermer inom glastillverkning med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför glasarbete med <strong>säkerhet</strong>.</p> <p>Eleven underhåller arbetsplats, verktyg och annan utrustning med <strong>säkerhet</strong>.</p> <p>Eleven väljer och använder lämpliga verktyg, material och tekniker med <strong>säkerhet</strong>.</p> <p>Eleven arbetar säkert och hållbart samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven dokumenterar och utvärderar med <strong>säkerhet</strong> arbetsprocess och resultat.</p> <p>Eleven kommunicerar i olika servicesituationer och använder facktermer inom glastillverkning med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför glasarbete med <strong>god säkerhet</strong>.</p> <p>Eleven underhåller arbetsplats, verktyg och annan utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven väljer och använder lämpliga verktyg, material och tekniker med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar säkert och hållbart samt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven dokumenterar och utvärderar med <strong>god säkerhet</strong> arbetsprocess och resultat.</p> <p>Eleven kommunicerar i olika servicesituationer och använder facktermer inom glastillverkning med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.006Z"
+}

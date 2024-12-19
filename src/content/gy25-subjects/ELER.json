@@ -1,0 +1,78 @@
+{
+  "code": "ELER",
+  "name": "Elektronik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:207",
+  "nameHeading": "<h2>Elektronik</h2>",
+  "description": "<p>Elektroniksystem återfinns i en stor mängd produkter som används både i yrkeslivet och till vardags. Ämnet elektronik behandlar hur elektronik för inbyggnad i produkter fungerar och programmeras samt gränssnitt mellan analog och digital teknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om elektroniksystem för inbyggnad i produkter. Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur mikrodatorer med tillhörande elektronik fungerar och hur systemen programmeras på ett ändamålsenligt sätt. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om analog och digital teknik med tillhörande binär representation och logik.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om de vanligaste elektronikkomponenterna med symboler samt hur dessa används i elektronikkretsar. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om hur elektronikkomponenter utvecklas med ny teknik och därmed ger mer hållbara system avseende energiförbrukning och annan miljöpåverkan. Vidare ska eleverna ges möjlighet att utveckla kunskaper om störningar och problem som kan uppstå i eller runt ett elektroniksystem. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att tolka och använda relevanta dokument på både svenska och engelska.</p> <p>Genom ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla såväl teoretiska som praktiska kunskaper om elektronik. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt ge eleverna möjlighet att samverka med andra.</p> <h5><em>Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om begrepp och funktioner hos elektronik- och mikrodatorsystem.</li> <li>Förmåga att programmera en mikrodator.</li> <li>Kunskaper om analog och digital teknik.</li> <li>Kunskaper om vanliga typer av elektronikkomponenter och deras symboler i ett elektroniksystem.</li> <li>Kunskaper om elektriska egenskaper som påverkar energiförbrukningen hos ett elektroniksystem.</li> <li>Kunskaper om störningar som kan uppstå i eller runt ett elektroniksystem.</li> <li>Förmåga att tolka och använda manualer och andra tekniska dokument inom området.</li> </ul><h3>Nivåer i ämnet elektronik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELER1000X</h3>",
+      "code": "ELER1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elektronik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Elektronik för inbyggnad i produkter med in-enheter för mätdata, mikrodator med programvara för insamling och analys samt ut-enheter för information.</li> <li>Utvecklingsmiljön och dess terminologi samt verktyg för att programmera, beskriva, utveckla och simulera program innan nerladdning av körbar kod.</li> <li>Analog och digital teknik med tillämpningar på mikrodatorer för inbyggnad och programmering.</li> <li>Komponenter som resistorer, kondensatorer och halvledare med egenskaper och symboler i elektronikscheman.</li> <li>Grundläggande elektroniska kretsar med tillämpningar på gränssnitt mot inbyggda system.</li> <li>Komponenter och system med ny teknik samt den nya teknikens betydelse för hållbar utveckling.</li> <li>Risker med ESD (elektrostatisk urladdning) samt skyddsåtgärder vid arbete med elektronikkomponenter.</li> <li>Tolkning och användning av manualer och andra relevanta dokument på både svenska och engelska.</li> <li>Kommunikation och samarbete i arbetsprocessen.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ELER2000X</h3>",
+      "code": "ELER2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elektronik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Elektroniksystem för inbyggnad med enheter och funktioner som ingår i gränssnitt mot sensorer och ställdon. Mikrodatorns centrala delar med program för hantering och analys av mätdata.</li> <li>Tillämpning av metoder för planering av program där utvecklingsmiljön stödjer djupare kunskap och analys av programmet.</li> <li>Hårdvarunära programmering med experiment på sensorer och ställdon samt deras gränssnitt vid anslutning till ett inbyggt system.</li> <li>Komponenter för olika effektutveckling med exempel och enklare beräkningar.</li> <li>Enheter med olika systemspänningar och effekter samt deras anpassning i produkter.</li> <li>Val av strömförsörjning för ett elektroniksystem utifrån ett energi- och användarperspektiv.</li> <li>EMC (elektromagnetisk kompatibilitet) samt exempel på direktiv och krav för området.</li> <li>Tolkning och användning av manualer och andra relevanta dokument på både svenska och engelska.</li> <li>Kommunikation med leverantörer och kunder i värdekedjan.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om grundläggande begrepp och funktioner inom elektronikområdet.</p> <p>Eleven programmerar med <strong>viss säkerhet</strong> en mikrodator.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om analog och digital teknik.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för vanliga typer av elektronikkomponenter och deras symboler.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för elektriska egenskaper som påverkar energiförbrukningen hos ett system och resonerar om energiförbrukning ur ett hållbarhetsperspektiv.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för de störningar som kan uppstå i eller runt ett elektroniksystem.</p> <p>Eleven använder manualer och andra tekniska dokument inom området med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om grundläggande begrepp och funktioner inom elektronikområdet.</p> <p>Eleven programmerar med <strong>säkerhet</strong> en mikrodator.</p> <p>Eleven visar <strong>goda</strong> kunskaper om analog och digital teknik.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för vanliga typer av elektronikkomponenter och deras symboler.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för elektriska egenskaper som påverkar energiförbrukningen hos ett system och resonerar om energiförbrukning ur ett hållbarhetsperspektiv.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för de störningar som kan uppstå i eller runt ett elektroniksystem.</p> <p>Eleven använder manualer och andra tekniska dokument inom området med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om grundläggande begrepp och funktioner inom elektronikområdet.</p> <p>Eleven programmerar med <strong>god säkerhet</strong> en mikrodator.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om analog och digital teknik.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för vanliga typer av elektronikkomponenter och deras symboler.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för elektriska egenskaper som påverkar energiförbrukningen hos ett system och resonerar om energiförbrukning ur ett hållbarhetsperspektiv.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för de störningar som kan uppstå i eller runt ett elektroniksystem.</p> <p>Eleven använder manualer och andra tekniska dokument inom området med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.987Z"
+}

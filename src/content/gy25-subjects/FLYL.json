@@ -1,0 +1,64 @@
+{
+  "code": "FLYL",
+  "name": "Flygplansteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:295",
+  "nameHeading": "<h2>Flygplansteknik</h2>",
+  "description": "<p>Ämnet flygplansteknik behandlar yrkesmässigt arbete med service och underhåll av flygplan. Ämnet behandlar även felsökning och avhjälpning av fel samt verktyg, utrustning och teknisk information som används i arbetet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet flygplansteknik ska syfta till att eleverna utvecklar kunskaper om flygplan och deras tekniska konstruktioner. Eleverna ska ges möjlighet att utveckla förmåga att underhålla, felsöka och åtgärda fel i flygplan. Eleverna ska även ges möjlighet att utveckla förmåga att använda verktyg, utrustning och teknisk information i samband med service och underhåll.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetsformer och arbetssätt som främjar ekonomisk och miljömässig hållbarhet inom service och underhåll av flygplan samt om branschens ansvar för hållbar utveckling.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning både självständigt och med andra. Genom undervisningen ska eleverna ges möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med både arbetskamrater och kunder. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som de kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet flygplansteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad av och funktion hos flygplan, deras instrument, komponenter och system samt om propellrar och aerodynamik.</li> <li>Förmåga att utföra service, underhåll, felsökning och reparation av flygplan och propellrar.</li> <li>Förmåga att använda digitala informationssystem och teknisk information samt verktyg och övrig utrustning i samband med underhållsåtgärder.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda ett yrkesmässigt språk på svenska och engelska samt att anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet flygplansteknik</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FLYL1000X</h3>",
+      "code": "FLYL1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet flygplansteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Flygplans aerodynamik och styrorgan samt hur flygplan påverkas vid flygning i hög hastighet.</li> <li>Skrovstrukturer och flygkropp, däribland vingar, stabilisatorer, roderytor, gondoler och pyloner.</li> <li>Luftförsörjning, luftkonditionering och trycksättning av kabin samt säkerhets- och varningsanordningar.</li> <li>Instrument- och avioniksystem, däribland flygburna underhållssystem, integrerad modulär avionik, kabinsystem och informationssystem.</li> <li>Luftfartygs system, däribland för elkraft, hydraulisk kraft, bränsle, brandskydd syrgas och styrning.</li> <li>Utrustning och inventarier, till exempel instigningsanordningar och nödutrustning.</li> <li>Is- och regnskydd för flygplan och propeller.</li> <li>Landställ och tillhörande landställssystem.</li> <li>Ljus, strålkastare och belysning i luftfartyg.</li> <li>Pneumatik, vatten- och avloppssystem i luftfartyg.</li> <li>Propellerns grundprinciper samt propellerkonstruktion och reglering av propellerbladvinkel.</li> <li>Metoder för och genomförande av enklare propellerunderhåll, förvaring och konservering.</li> <li>Planering och genomförande av enklare service och underhållsåtgärder enligt luftfartygstillverkarens anvisningar.</li> <li>Planering och genomförande av felsökning, enklare reparationer och komponentbyten enligt luftfartygstillverkarens anvisningar.</li> <li>Arbete med problemlösning både självständigt och tillsammans med andra.</li> <li>Användning av testutrustning, digitala informationssystem, verktyg och utrustning i samband med service, underhållsåtgärder och enklare reparationer enligt luftfartygs- och utrustningstillverkarens anvisningar.</li> <li>Underhåll och kalibrering av verktyg och utrustning.</li> <li>Luftfartygstillverkares anvisningar, krav, scheman och övrig teknisk information på svenska och engelska.</li> <li>Riskbedömning och säkerhetsmedvetet arbete för att förebygga person- och egendomsskador med hänsyn till mänskliga faktorer.</li> <li>Arbete enligt metoder för struktur, ordning och effektiv arbetsmiljö på arbetsplatsen samt med hänsyn till miljön.</li> <li>Dokumentation av arbetsåtgärder enligt lagar och andra bestämmelser samt luftfartygsverkarens krav.</li> <li>Utvärdering av arbetsprocess och utfört arbete.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om uppbyggnad av och funktion hos flygplan, deras instrument, komponenter och system samt om propellrar och aerodynamik.</p> <p>Eleven utför med <strong>viss säkerhet</strong> arbetsuppgifter i <strong>bekanta</strong> situationer enligt material- och luftfartygstillverkarens anvisningar.</p> <p>Eleven använder med <strong>viss säkerhet</strong> digitala informationssystem och teknisk information. Dessutom använder eleven med <strong>visst</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om uppbyggnad av och funktion hos flygplan, deras instrument, komponenter och system samt om propellrar och aerodynamik.</p> <p>Eleven utför med <strong>säkerhet</strong> arbetsuppgifter i <strong>bekanta</strong> situationer enligt material- och luftfartygstillverkarens anvisningar.</p> <p>Eleven använder med <strong>säkerhet</strong> digitala informationssystem och teknisk information. Dessutom använder eleven med <strong>gott</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om uppbyggnad av och funktion hos flygplan, deras instrument, komponenter och system samt om propellrar och aerodynamik.</p> <p>Eleven utför med <strong>god säkerhet</strong> arbetsuppgifter i <strong>bekanta men även nya</strong> situationer enligt material- och luftfartygstillverkarens anvisningar.</p> <p>Eleven använder med <strong>god säkerhet</strong> digitala informationssystem och teknisk information. Dessutom använder eleven med <strong>mycket gott</strong> handlag verktyg och övrig utrustning.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt luftfartygstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.998Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "MARK",
+  "name": "Marknadsföring",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:184",
+  "nameHeading": "<h2>Marknadsföring</h2>",
+  "description": "<p>Företagande och ett konkurrenskraftigt näringsliv är grundläggande förutsättningar för länders ekonomiska utveckling. Ämnet marknadsföring behandlar marknadsföringens betydelse för företagens utveckling, lönsamhet och varaktighet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marknadsföring ska syfta till att eleverna utvecklar kunskaper om marknadsföring av varor och tjänster samt om hur marknadsföring kan utformas utifrån analys av marknaden och ett företags förutsättningar. Framgångsrik marknadsföring är en viktig del i företagens utveckling och lönsamhet. Undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om metoder inom marknadsföring. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om lagar och andra bestämmelser som gäller för företagens marknadsföring.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur marknadsföring kan utformas med hänsyn tagen till etik och demokratiska värderingar samt till ekonomisk, miljömässig och social hållbarhet. Eleverna ska även ges möjlighet att reflektera över etiska frågor och över vad som är ett etiskt och omdömesgillt handlande inom marknadsföring. Kreativitet och idérikedom är av stor betydelse när det handlar om att utforma framgångsrik marknadsföring. Undervisningen ska därför stimulera elevernas kunskapssökande, kreativitet och vilja att omsätta idéer i praktisk handling. Därigenom ska undervisningen också bidra till elevernas personliga utveckling.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att använda relevant teknik som ett redskap för marknadsföring, presentation och dokumentation i företagsekonomiska sammanhang.</p> <h5><em>Undervisningen i ämnet marknadsföring ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om marknadsföring av varor och tjänster samt om hur marknadsföring kan utformas utifrån analys av marknaden och ett företags förutsättningar.</li> <li>Kunskaper om lagar och andra bestämmelser som gäller för företagens marknadsföring.</li> <li>Kunskaper om hur marknadsföring kan utformas med hänsyn tagen till etik och hållbarhet.</li> <li>Förmåga att använda metoder och teknik inom marknadsföring.</li> </ul><h3>Nivåer i ämnet marknadsföring</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet företagsekonomi.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MARK1000X</h3>",
+      "code": "MARK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marknadsföring på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande begrepp inom marknadsföring, däribland sökmotormarknadsföring och sökmotoroptimering.</li> <li>Teorier och tendenser inom området marknadsföring.</li> <li>Marknads- och omvärldsanalys. Metoder och analysverktyg för marknadsinformation.</li> <li>Marknadsplanens funktion och dess ingående delar.</li> <li>Marknadsstrategier och kommunikationsstrategier.</li> <li>Marknadsföring av varor och tjänster. I samband med det behandlas den betydelse som varaktiga relationer med kunder, leverantörer, anställda och andra intressenter har för ett företags affärsutveckling.</li> <li>Intern och extern marknadskommunikation.</li> <li>Lagar och andra bestämmelser som gäller för företags marknadsföring.</li> <li>Hur marknadsföring kan utformas med hänsyn till etik och demokratiska värderingar samt till ekonomisk, social och miljömässig hållbarhet. Reflektion över frågor inom marknadsföring som rör etik, demokratiska värderingar och hållbarhet.</li> <li>Informationssökning och kritisk granskning av information från olika typer av källor.</li> <li>Vanligt förekommande kanaler, metoder och verktyg för digital och annan marknadsföring.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MARK2000X</h3>",
+      "code": "MARK2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marknadsföring på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Begrepp inom marknadsföring.</li> <li>Interna och externa faktorer som påverkar ett företags marknadsföringsstrategi nationellt och internationellt.</li> <li>Marknads- och omvärldsanalys. Metoder och analysverktyg för marknadsinformation.</li> <li>Marknadsplanens funktion och dess ingående delar.</li> <li>Faktorer bakom kundmönster och kundbeteenden. Hur en analys av dessa faktorer kan ligga till grund för beslut inom marknadsföring, däribland val av marknadsföringskanaler och utformning av marknadsföringsinsatser.</li> <li>Marknadssegmentering i syfte att identifiera målgrupper att bearbeta för att därigenom kunna anpassa marknadsföring och försäljning och öka verksamhetens lönsamhet.</li> <li>Lagar och andra bestämmelser som gäller för företags marknadsföring.</li> <li>Hur affärsidé, affärsmål, affärsstrategier, marknads- och säljplaner kan utformas utifrån analys av marknaden, målgruppen, kundbehoven och ett företags förutsättningar med hänsyn tagen till etik, hållbar utveckling och demokratiska värderingar. Reflektion över frågor inom marknadsföring som rör etik, demokratiska värderingar och hållbarhet.</li> <li>Informationssökning och kritisk granskning av information från olika typer av källor.</li> <li>Kanaler, metoder och verktyg för digital och annan marknadsföring samt hur resultaten av marknadsföring kan mätas och utvärderas.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om marknadsföring av varor och tjänster samt beskriver på ett <strong>godtagbart</strong> sätt hur marknadsföring kan utformas utifrån analys av marknaden och ett företags förutsättningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller för företags marknadsföring.</p> <p>Eleven redogör <strong>översiktligt</strong> för hur marknadsföring kan utformas med hänsyn tagen till etik och hållbarhet.</p> <p>Eleven använder metoder och teknik inom marknadsföring med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om marknadsföring av varor och tjänster samt beskriver på ett <strong>utvecklat</strong> sätt hur marknadsföring kan utformas utifrån analys av marknaden och ett företags förutsättningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller för företags marknadsföring.</p> <p>Eleven redogör <strong>utförligt</strong> för hur marknadsföring kan utformas med hänsyn tagen till etik och hållbarhet.</p> <p>Eleven använder metoder och teknik inom marknadsföring med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om marknadsföring av varor och tjänster samt beskriver på ett <strong>välutvecklat</strong> sätt hur marknadsföring kan utformas utifrån analys av marknaden och ett företags förutsättningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller för företags marknadsföring.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur marknadsföring kan utformas med hänsyn tagen till etik och hållbarhet.</p> <p>Eleven använder metoder och teknik inom marknadsföring med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.038Z"
+}

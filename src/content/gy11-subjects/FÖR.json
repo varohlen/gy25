@@ -1,0 +1,295 @@
+{
+  "code": "FÖR",
+  "name": "Företagsekonomi",
+  "englishName": "Business economics",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-04-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:89",
+  "skolfsAndring": "2022:124",
+  "nameHeading": "<h2>Företagsekonomi</h2>",
+  "description": "<p>Ämnet företagsekonomi behandlar företagande i vid bemärkelse och belyser såväl ekonomiska som sociala och miljömässiga aspekter. I ämnet ingår marknadsföring, ledarskap och organisation, redovisning och kalkylering. Ämnet omfattar även entreprenörskap, som inbegriper metoder och förhållningssätt för att kunna starta, driva och vidareutveckla verksamheter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet företagsekonomi ska syfta till att eleverna utvecklar förståelse av företagens roll och villkor i samhället från lokal till global nivå. Här ingår företagens ansvar för bland annat hållbar utveckling.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper i företagsekonomiska teorier, modeller och metoder samt förståelse av sambanden mellan olika funktioner inom ett företag. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur man förverkligar en affärsidé samt stimulera deras kreativitet och lust att omsätta idéer i praktisk verksamhet. Företagsekonomi handlar om ekonomiska strategier som på olika sätt påverkar våra liv. Undervisningen ska därför ge eleverna möjlighet att utveckla intresse för ekonomiska frågor och förmåga att kritiskt granska, analysera och diskutera företagsekonomiska frågeställningar. </p><p>I undervisningen ska eleverna ges möjlighet att problematisera, diskutera, argumentera och pröva källor kritiskt. Genom fältstudier och arbete med autentiska exempel ska eleverna ges möjlighet att utveckla förståelse av företagande. Eleverna ska även ges möjlighet att befästa sina teoretiska kunskaper genom praktisk tillämpning.</p><h4>Undervisningen i ämnet företagsekonomi ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om företagens roll i samhällsutvecklingen, i nutiden och ur ett historiskt perspektiv. Förmåga att reflektera över företagens ansvar för en hållbar utveckling samt över demokratiska värderingar, etik och genus i samband med ekonomiskt beslutsfattande.</li> <li>Kunskaper om olika typer av företag samt deras villkor i form av lagar och andra bestämmelser och andra förutsättningar som påverkar företagens verksamhet.</li> <li>Kunskaper om hur man startar och driver företag och hur olika funktioner inom företagen samverkar för att förverkliga en affärsidé.</li> <li>Kunskaper om företagsekonomiska begrepp, metoder, teorier och modeller samt förmåga att använda dessa.</li> <li>Förmåga att med källkritisk medvetenhet identifiera och analysera företagsekonomiska frågeställningar samt att reflektera över resultatet.</li> <li>Förmåga att leda processer samt att omvandla idéer och teoretiska kunskaper till praktiska och målinriktade aktiviteter. Förmåga att utvärdera arbetsprocesser och resultat.</li> <li>Förmåga att använda relevant teknik som ett redskap för kommunikation, beräkning, informationssökning, presentation och dokumentation i företagsekonomiska sammanhang.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Företagsekonomi 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen redovisning 1.</li> <li>Företagsekonomi 2, 100 poäng, som bygger på kursen företagsekonomi 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen redovisning 1.</li> <li>Företagsekonomi – specialisering, 100 poäng, som bygger på kursen företagsekonomi 2. Kursen kan läsas flera gånger med olika innehåll.</li> <li>Entreprenörskap och företagande, 100 poäng, som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap.</li> <li>Marknadsföring, 100 poäng, som bygger på kursen företagsekonomi 1 eller kursen entreprenörskap och företagande.</li> <li>Redovisning 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen företagsekonomi 1 och kursen företagsekonomi 2.</li> <li>Redovisning 2, 100 poäng, som bygger på kursen företagsekonomi 2 eller kursen redovisning 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: FÖRFÖR01</h3>",
+      "code": "FÖRFÖR01",
+      "nameHeading": "<h2>Företagsekonomi 1, 100 poäng</h2>",
+      "name": "Företagsekonomi 1",
+      "englishName": "Business economics 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen företagsekonomi 1 omfattar punkterna 1–4 och 6–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Företagens roll och villkor i samhället i fråga om samhällsnytta och samhällsansvar, i nutiden och ur ett historiskt perspektiv.</li> <li>Olika typer av företag och företagsformer. I samband med det behandlas hur man startar ett företag samt affärsidéns utformning och betydelse.</li> <li>Grundläggande företagsekonomiska begrepp och modeller samt kalkylering.</li> <li>Grundläggande budgeteringsformer, bokföring och bokslut.</li> <li>Grundläggande metoder i marknadsföring. I samband med det behandlas företagens etiska ansvar samt lagar och andra bestämmelser som styr företagens marknadsföring.</li> <li>Grundläggande projektmetodik i samband med enkla företagsekonomiska projekt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>översiktligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>översiktligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven beskriver <strong>översiktligt</strong> olika funktioner i ett företag samt redogör <strong>översiktligt </strong>för hur man startar och driver ett företag. Dessutom redogör eleven <strong>översiktligt </strong>för affärsidéns utformning samt dess betydelse för företagets verksamhet. Eleven redogör <strong>översiktligt </strong>för innebörden av företagsekonomiska begrepp. Vidare använder eleven <strong>med viss säkerhet enkla </strong>företagsekonomiska metoder. Med hjälp av <strong>enkla</strong> modeller förklarar eleven företagsekonomiska företeelser och sammanhang.</p><p>Eleven upprättar <strong>i samråd </strong>med handledare en <strong>enkel</strong> projektplan inom det företagsekonomiska kunskapsområdet. Eleven tar eget ansvar samt genomför projektet <strong>i samråd </strong>med handledare och med <strong>tillfredsställande</strong> resultat. Dessutom utvärderar eleven arbetsprocessen och resultatet med <strong>enkla </strong>omdömen.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven beskriver <strong>utförligt</strong> olika funktioner i ett företag samt redogör <strong>utförligt </strong>för hur man startar och driver ett företag. Dessutom redogör eleven <strong>utförligt </strong>för affärsidéns utformning samt dess betydelse för företagets verksamhet. Eleven redogör <strong>utförligt </strong>för innebörden av företagsekonomiska begrepp. Vidare använder eleven <strong>med viss säkerhet </strong>företagsekonomiska metoder. Med hjälp av modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med enkla omdömen modellernas användbarhet</strong>.</p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en projektplan inom det företagsekonomiska kunskapsområdet. Eleven tar eget ansvar samt genomför projektet <strong>efter samråd </strong>med handledare, <strong>inom givna tidsramar </strong>och med <strong>tillfredsställande</strong> resultat. Dessutom utvärderar eleven arbetsprocessen och resultatet med <strong>nyanserade </strong>omdömen.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt och nyanserat </strong>företagens villkor, med utgångspunkt i grundläggande lagar och andra bestämmelser <strong>samt utifrån politiska och samhällsekonomiska förutsättningar</strong>.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika funktioner i ett företag <strong>och hur de samordnas för att man ska nå uppställda mål</strong> samt redogör <strong>utförligt och nyanserat </strong>för hur man startar och driver ett företag. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för affärsidéns utformning samt dess betydelse för företagets verksamhet. Eleven redogör <strong>utförligt och nyanserat </strong>för innebörden av företagsekonomiska begrepp. Vidare <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>företagsekonomiska metoder. Med hjälp av<strong> </strong>modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med nyanserade omdömen modellernas användbarhet</strong>.</p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en <strong>genomarbetad </strong>projektplan inom det företagsekonomiska kunskapsområdet. Eleven tar eget ansvar samt genomför projektet <strong>efter samråd </strong>med handledare, <strong>inom givna tidsramar </strong>och med <strong>gott</strong> resultat. Dessutom utvärderar eleven arbetsprocessen och resultatet med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetsprocessen kan förbättras</strong>.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRFÖR02</h3>",
+      "code": "FÖRFÖR02",
+      "nameHeading": "<h2>Företagsekonomi 2, 100 poäng</h2>",
+      "name": "Företagsekonomi 2",
+      "englishName": "Business economics 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen företagsekonomi 2 omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Företagens roll och villkor i samhället ur ett historiskt och internationellt perspektiv. I samband med det behandlas företagens samhällsnytta och samhällsansvar utifrån begreppet hållbar utveckling.</li> <li>Grundläggande lagar och andra bestämmelser som styr företagens agerande inom olika områden.</li> <li>Affärsidéns utformning och betydelse. I samband med det behandlas affärsplanens uppbyggnad och funktion.</li> <li>Marknadsföring i form av omvärldsanalys och olika verktyg för värdeskapande processer.</li> <li>Metoder, teorier och modeller som används i företagens interna styrning och planering i form av budgetering och kalkylering.</li> <li>Bokföring och bokslut med enkla periodiseringar och enkel räkenskapsanalys. I samband med det behandlas revisionens funktion i en verksamhet.</li> <li>Begrepp, teorier och modeller som förklarar hur människor och arbetsgrupper fungerar i organisatoriska sammanhang samt hur ledarskap fungerar. I samband med det behandlas frågor om etik och jämställdhet i arbetslivet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>översiktligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>översiktligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>översiktligt </strong>för innebörden av företagsekonomiska begrepp. Vidare använder eleven <strong>med viss säkerhet enkla </strong>företagsekonomiska metoder. Med hjälp av <strong>enkla</strong> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang.</p><p>Eleven formulerar <strong>med viss säkerhet enkla </strong>företagsekonomiska frågeställningar, samlar <strong>i samråd </strong>med handledare in information från olika källor och gör en <strong>enkel</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>enkla</strong> resonemang och drar <strong>enkla</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar och ger <strong>enkla</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>utförligt </strong>för innebörden av företagsekonomiska begrepp. Vidare använder eleven <strong>med viss säkerhet </strong>företagsekonomiska metoder. Med hjälp av teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med enkla omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med viss säkerhet </strong>företagsekonomiska frågeställningar, samlar <strong>efter samråd </strong>med handledare in information från olika källor och gör en <strong>välgrundad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>välgrundade</strong> resonemang och drar <strong>välgrundade</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar och ger <strong>välgrundade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt och nyanserat </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser <strong>samt utifrån politiska och samhällsekonomiska förutsättningar</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för innebörden av företagsekonomiska begrepp. Vidare <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>företagsekonomiska metoder. Med hjälp av <strong>komplexa </strong>teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med nyanserade omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med säkerhet </strong><strong>komplexa </strong>företagsekonomiska frågeställningar, samlar <strong>efter samråd </strong>med handledare in information från olika, <strong>även mer avancerade</strong>, källor och gör en <strong>välgrundad och nyanserad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen <strong>på ett strukturerat sätt</strong>, för <strong>välgrundade och nyanserade</strong> resonemang och drar <strong>välgrundade och nyanserade</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar, <strong>diskuterar dem ur olika perspektiv</strong> och ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRFÖR00S</h3>",
+      "code": "FÖRFÖR00S",
+      "nameHeading": "<h2>Företagsekonomi – specialisering, 100 poäng</h2>",
+      "name": "Företagsekonomi – specialisering",
+      "englishName": "Business economics – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen företagsekonomi – specialisering omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte. Beroende på val av specialiseringsområde kan även punkt 3 eller 6 omfattas av kursen. I kursen behandlas fördjupade kunskaper inom valt eller valda områden.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Behandling av ett eller flera områden i företagsekonomi, till exempel finansiering, kalkylering, intern och extern redovisning och internationell handel.</li> <li>Begrepp, teorier och modeller inom valt område.</li> <li>Grundläggande undersökningsmetodik: hur man formulerar, planerar och genomför en undersökande uppgift på ett vetenskapsliknande sätt samt hur man dokumenterar, utvärderar och redovisar arbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>översiktligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>översiktligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>översiktligt </strong>för innebörden av företagsekonomiska begrepp inom kunskapsområdet. Vidare använder eleven <strong>med viss säkerhet enkla </strong>företagsekonomiska metoder. Med hjälp av <strong>enkla</strong> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang.</p><p>Eleven formulerar <strong>med viss säkerhet enkla </strong>företagsekonomiska frågeställningar, samlar <strong>i samråd </strong>med handledare in information från olika källor och gör en <strong>enkel</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>enkla</strong> resonemang och drar <strong>enkla</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar och ger <strong>enkla</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>utförligt </strong>för innebörden av företagsekonomiska begrepp inom kunskapsområdet. Vidare använder eleven <strong>med viss säkerhet </strong>företagsekonomiska metoder. Med hjälp av teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med enkla omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med viss säkerhet </strong>företagsekonomiska frågeställningar, samlar <strong>efter samråd </strong>med handledare in information från olika källor och gör en <strong>välgrundad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>välgrundade</strong> resonemang och drar <strong>välgrundade</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar och ger <strong>välgrundade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>företagens roll i samhället med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat</strong> sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt och nyanserat </strong>företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser <strong>samt utifrån politiska och samhällsekonomiska förutsättningar</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för innebörden av företagsekonomiska begrepp inom kunskapsområdet. Vidare <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>företagsekonomiska metoder. Med hjälp av <strong>komplexa </strong>teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang. <strong>Eleven värderar med nyanserade omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med säkerhet komplexa </strong>företagsekonomiska frågeställningar, samlar <strong>efter samråd </strong>med handledare in information från olika, <strong>även mer avancerade</strong>, källor och gör en <strong>välgrundad och nyanserad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen <strong>på ett strukturerat sätt</strong>, för <strong>välgrundade och nyanserade</strong> resonemang och drar <strong>välgrundade och nyanserade</strong> slutsatser. Dessutom deltar eleven i samtal om andra företagsekonomiska frågeställningar, <strong>diskuterar dem ur olika perspektiv</strong> och ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRENT0</h3>",
+      "code": "FÖRENT0",
+      "nameHeading": "<h2>Entreprenörskap och företagande, 100 poäng</h2>",
+      "name": "Entreprenörskap och företagande",
+      "englishName": "Entrepreneurship and business",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen entreprenörskap och företagande omfattar punkterna 2–4 och 6 under rubriken Ämnets syfte, med särskild betoning på förmåga att starta, driva, avsluta och utvärdera ett fiktivt företag.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Några viktiga lagar och andra bestämmelser som styr företagens verksamhet. I samband med det behandlas hur produkter och idéer skyddas genom lagstiftning.</li> <li>Vägen från idé till att starta företag. I samband med det behandlas hur man identifierar, skapar och samverkar i olika former av nätverk. Affärsidéns utformning och betydelse.</li> <li>Produktutvecklingsprocessens olika faser och deras innehåll.</li> <li>Affärsplanens innehåll och uppbyggnad. I samband med det användning av grundläggande metoder för marknadsundersökning, omvärldsanalys och omvärldsbevakning. Finansieringsfrågor.</li> <li>Affärsmässig presentationsteknik i marknadsföringssyfte anpassad till mottagare och situation.</li> <li>Försäljningsteknik och argumentation.</li> <li>Företagsekonomiska begrepp och metoder inom kunskapsområdena kalkylering, marknadsföring och redovisning.</li> <li>Mötesteknik i olika sammanhang och med olika syften samt dokumentation. I samband med det behandlas olika metoder för att lösa problem och fatta beslut.</li> <li>Ledarskap och organisation. I samband med det behandlas konflikthantering.</li> <li>Utvärdering av det fiktiva företagets verksamhet med uppföljning av ekonomiskt resultat. I samband med det utvärdering av gruppens eller den egna arbetsprocessen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för enklare avtal, lagar och andra bestämmelser som styr företagens verksamhet samt <strong>översiktligt </strong>för hur idéer och produkter skyddas genom lagstiftning. Dessutom redogör eleven <strong>översiktligt </strong>för vad man bör tänka på när man startar ett företag.</p><p>Eleven upprättar <strong>i samråd </strong>med handledare en <strong>enkel </strong>affärsplan. Dessutom presenterar eleven <strong>med viss säkerhet </strong>sitt företag affärsmässigt i marknadsföringssyfte och anpassar presentationen till mottagare och situation.</p><p>Eleven tar ansvar för och genomför <strong>i samråd </strong>med handledare arbetet på ett <strong>tillfredsställande</strong> sätt enligt affärsplanen. I arbetet följer eleven <strong>med viss säkerhet </strong>rutiner för företagets administration, dokumentation, kommunikation och samarbeten. Dessutom identifierar och löser eleven <strong>i samråd </strong>med handledare problem som uppstår. Eleven för <strong>enkla</strong> resonemang om hur en grupprocess fungerar, vilken betydelse ledarskapet har för gruppens arbetsprocess och hur konflikter kan lösas. Vidare redogör eleven <strong>översiktligt </strong>för vilken betydelse nätverk har inom olika företag.</p><p>Eleven utvärderar med <strong>enkla </strong>omdömen företagets verksamhet samt gör en ekonomisk uppföljning. Dessutom utvärderar eleven med <strong>enkla </strong>omdömen gruppens eller sin egen arbetsprocess.</p><p>Eleven använder <strong>med viss säkerhet</strong> relevanta företagsekonomiska begrepp och metoder för företagets arbetsområde.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för enklare avtal, lagar och andra bestämmelser som styr företagens verksamhet samt <strong>utförligt </strong>för hur idéer och produkter skyddas genom lagstiftning. Dessutom redogör eleven <strong>utförligt </strong>för vad man bör tänka på när man startar ett företag.</p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en <strong>enkel </strong>affärsplan. Dessutom presenterar eleven <strong>med viss säkerhet </strong>sitt företag affärsmässigt i marknadsföringssyfte och anpassar presentationen till mottagare och situation. <strong>Eleven använder även med viss säkerhet försäljningsteknik och argumentation som är anpassad till produkten, mottagare och situation.</strong></p><p>Eleven tar ansvar för och genomför <strong>efter samråd </strong>med handledare arbetet på ett <strong>tillfredsställande</strong> sätt enligt affärsplanen. I arbetet följer eleven <strong>med viss säkerhet </strong>rutiner för företagets administration, dokumentation, kommunikation och samarbeten. Dessutom identifierar och löser eleven <strong>efter samråd </strong>med handledare problem som uppstår. Eleven för <strong>välgrundade</strong> resonemang om hur en grupprocess fungerar, vilken betydelse ledarskapet har för gruppens arbetsprocess och hur konflikter kan lösas. Vidare <strong>identifierar </strong>eleven<strong> nätverk för företaget samt </strong>redogör <strong>utförligt </strong>för vilken betydelse nätverk har inom olika företag.</p><p>Eleven utvärderar med <strong>nyanserade </strong>omdömen företagets verksamhet samt gör en ekonomisk uppföljning. Dessutom utvärderar eleven med <strong>nyanserade </strong>omdömen gruppens eller sin egen arbetsprocess.</p><p>Eleven använder <strong>med viss säkerhet</strong> relevanta företagsekonomiska begrepp och metoder för företagets arbetsområde.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt </strong>för enklare avtal, lagar och andra bestämmelser som styr företagens verksamhet samt <strong>utförligt </strong>för hur idéer och produkter skyddas genom lagstiftning. Eleven redogör även <strong>utförligt och nyanserat </strong>för vad man bör tänka på när man startar ett företag.</p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en <strong>genomarbetad </strong>affärsplan<strong> samt reviderar vid behov planen under arbetets gång</strong>. Dessutom presenterar eleven <strong>med säkerhet </strong>sitt företag affärsmässigt i marknadsföringssyfte och anpassar presentationen till mottagare och situation. <strong>Eleven använder även med säkerhet försäljningsteknik och argumentation som är anpassad till produkten, mottagare och situation.</strong></p><p>Eleven tar ansvar för och genomför <strong>efter samråd </strong>med handledare arbetet på ett <strong>gott</strong> sätt enligt affärsplanen. I arbetet följer eleven <strong>med säkerhet </strong>rutiner för företagets administration, dokumentation, kommunikation och samarbeten. Dessutom identifierar och löser eleven <strong>efter samråd </strong>med handledare problem som uppstår. Eleven för <strong>välgrundade och nyanserade</strong> resonemang om hur en grupprocess fungerar, vilken betydelse ledarskapet har för gruppens arbetsprocess och hur konflikter kan lösas. Vidare <strong>identifierar </strong>eleven<strong> nätverk för företaget, skapar och samverkar i dessa samt </strong>redogör <strong>utförligt </strong>för vilken betydelse nätverk har inom olika företag.</p><p>Eleven utvärderar med <strong>nyanserade </strong>omdömen företagets verksamhet, <strong>ger förslag på hur verksamheten kan förbättras</strong> samt gör en ekonomisk uppföljning. Dessutom utvärderar eleven med <strong>nyanserade </strong>omdömen gruppens eller sin egen arbetsprocess <strong>samt ger förslag på hur arbetsprocessen kan förbättras</strong>.</p><p>Eleven använder <strong>med säkerhet</strong> relevanta företagsekonomiska begrepp och metoder för företagets arbetsområde.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRMAD0</h3>",
+      "code": "FÖRMAD0",
+      "nameHeading": "<h2>Marknadsföring, 100 poäng</h2>",
+      "name": "Marknadsföring",
+      "englishName": "Marketing",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen marknadsföring omfattar punkterna 1–2, 4–5 och 7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Lagar och andra bestämmelser som styr marknadsföring. I samband med det behandlas etik och hållbar utveckling inom marknadsföring.</li> <li>Teorier och tendenser inom området marknadsföring.</li> <li>Marknads- och omvärldsanalys. I samband med det behandlas metoder och analysverktyg för marknadsinformation.</li> <li>Marknadsstrategier och marknadsplanens innehåll och funktion.</li> <li>Marknadsföring av varor och tjänster. I samband med det behandlas den betydelse som varaktiga relationer med kunder, leverantörer, anställda och andra intressenter har för ett företags affärsutveckling.</li> <li>Intern och extern marknadskommunikation.</li> <li>Internationell marknadsföring.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> marknadsföringens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>översiktligt </strong>sambandet mellan företagens marknadsföring och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>översiktligt </strong>villkoren för företagens marknadsföring med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>översiktligt </strong>för innebörden av begrepp inom marknadsföring. Vidare använder eleven <strong>med viss säkerhet enkla </strong>marknadsföringstekniska metoder. Med hjälp av <strong>enkla</strong> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till marknadsföring.</p><p>Eleven formulerar <strong>med viss säkerhet enkla </strong>frågeställningar inom marknadsföring, samlar <strong>i samråd </strong>med handledare in information från olika källor och gör en <strong>enkel</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>enkla</strong> resonemang och drar <strong>enkla</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom marknadsföring och ger <strong>enkla</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> marknadsföringens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt </strong>sambandet mellan företagens marknadsföring och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt </strong>villkoren för företagens marknadsföring med utgångspunkt i grundläggande lagar och andra bestämmelser.</p><p>Eleven redogör <strong>utförligt </strong>för innebörden av begrepp inom marknadsföring. Vidare använder eleven <strong>med viss säkerhet </strong>marknadsföringstekniska metoder. Med hjälp av teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till marknadsföring. <strong>Eleven värderar med enkla omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med viss säkerhet </strong>frågeställningar inom marknadsföring, samlar <strong>efter samråd </strong>med handledare in information från olika källor och gör en <strong>välgrundad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>välgrundade</strong> resonemang och drar <strong>välgrundade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom marknadsföring och ger <strong>välgrundade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> marknadsföringens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat </strong>sambandet mellan företagens marknadsföring och deras samhällsansvar. Med hjälp av några exempel beskriver eleven <strong>utförligt och nyanserat </strong>villkoren för företagens marknadsföring med utgångspunkt i grundläggande lagar och andra bestämmelser <strong>samt utifrån politiska och samhällsekonomiska förutsättningar</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för innebörden av begrepp inom marknadsföring. Vidare <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>marknadsföringstekniska metoder. Med hjälp av <strong>komplexa </strong>teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till marknadsföring. <strong>Eleven värderar med nyanserade omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med säkerhet komplexa </strong>frågeställningar inom marknadsföring, samlar <strong>efter samråd </strong>med handledare in information från olika, <strong>även mer avancerade</strong>, källor och gör en <strong>välgrundad och nyanserad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen <strong>på ett strukturerat sätt</strong>, för <strong>välgrundade och nyanserade</strong> resonemang och drar <strong>välgrundade och nyanserade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom marknadsföring, <strong>diskuterar dem ur olika perspektiv</strong> och ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRRED01</h3>",
+      "code": "FÖRRED01",
+      "nameHeading": "<h2>Redovisning 1, 100 poäng</h2>",
+      "name": "Redovisning 1",
+      "englishName": "Accounting 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen redovisning 1 omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika typer av företag och företagsformer.</li> <li>Grundläggande lagar och andra bestämmelser som styr företagens redovisning.</li> <li>Grundläggande företagsekonomiska begrepp med särskild betoning på redovisning.</li> <li>Budgeteringens syfte, innehåll och utformning.</li> <li>Vanligt förekommande affärshändelser med tillhörande verifikationer samt registrering av affärshändelser med hjälp av kontoplan och adekvat teknik.</li> <li>Bokslut med enkla periodiseringar och enkel räkenskapsanalys. I samband med det behandlas revisionens funktion i en verksamhet.</li> <li>Ekonomiska rapporter och blanketter, till exempel företags årsredovisning och momsdeklaration.</li> <li>Datorbaserat redovisningssystem. I samband med det behandlas säkerhets- och kontrollfrågor förknippade med databehandling.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>översiktligt </strong>sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>översiktligt </strong>för grundläggande lagar och andra bestämmelser som påverkar utformningen av företagens redovisning.</p><p>Eleven redogör <strong>översiktligt </strong>för innebörden av begrepp inom redovisning. Vidare använder eleven <strong>med viss säkerhet enkla </strong>redovisningstekniska metoder.</p><p>Eleven formulerar <strong>med viss säkerhet enkla</strong> frågeställningar inom redovisning, samlar <strong>i samråd </strong>med handledare in information från olika källor och gör en <strong>enkel</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>enkla</strong> resonemang och drar <strong>enkla</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning samt ger <strong>enkla</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt </strong>sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>utförligt </strong>för grundläggande lagar och andra bestämmelser som påverkar utformningen av företagens redovisning.</p><p>Eleven redogör <strong>utförligt </strong>för innebörden av begrepp inom redovisning. Vidare använder eleven <strong>med viss säkerhet </strong>redovisningstekniska metoder.</p><p>Eleven formulerar <strong>med viss säkerhet </strong>frågeställningar inom redovisning, samlar <strong>efter samråd </strong>med handledare in information från olika källor och gör en <strong>välgrundad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>välgrundade</strong> resonemang och drar <strong>välgrundade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning samt ger <strong>välgrundade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat </strong>sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för grundläggande lagar och andra bestämmelser som påverkar utformningen av företagens redovisning. <strong>I redogörelsen reflekterar eleven över lagarnas och bestämmelsernas syfte och effekter</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för innebörden av begrepp inom redovisning. Vidare <strong>väljer och </strong>använder eleven <strong>med säkerhet </strong>redovisningstekniska metoder.</p><p>Eleven formulerar <strong>med säkerhet komplexa </strong>frågeställningar inom redovisning, samlar <strong>efter samråd </strong>med handledare in information från olika, <strong>även mer avancerade</strong>, källor och gör en <strong>välgrundad och nyanserad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen <strong>på ett strukturerat sätt</strong>, för <strong>välgrundade och nyanserade</strong> resonemang och drar <strong>välgrundade och nyanserade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning, <strong>diskuterar dem ur olika perspektiv</strong> samt ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FÖRRED02</h3>",
+      "code": "FÖRRED02",
+      "nameHeading": "<h2>Redovisning 2, 100 poäng</h2>",
+      "name": "Redovisning 2",
+      "englishName": "Accounting 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 7,
+      "description": "<p>Kursen redovisning omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Redovisningsprinciper samt lagar, normer och praxis som styr redovisningens utformning.</li> <li>Registrering av olika typer av affärshändelser med hjälp av kontoplan.</li> <li>Värdering av tillgångar och skulder.</li> <li>Olika typer av periodiseringar samt resultatregleringar med hjälp av bokslutsdispositioner.</li> <li>Bokslut, beskattning och revision i olika företagsformer samt räkenskapsanalys.</li> <li>Årsredovisningens innehåll och funktion.</li> <li>Identifiering och analys av redovisningsproblem. Metoder för att strukturera och lösa redovisningsproblem.</li> <li>Datorbaserat redovisningssystem. I samband med det behandlas säkerhets- och kontrollfrågor förknippade med databehandling.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>översiktligt </strong>sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>översiktligt </strong>för lagar, normer och praxis som påverkar utformningen av företagens redovisning.</p><p>Eleven redogör <strong>översiktligt </strong>för innebörden av begrepp inom redovisning, revision och beskattning. Eleven använder <strong>med viss säkerhet enkla </strong>redovisningstekniska metoder. Dessutom genomför eleven <strong>enkla </strong>räkenskapsanalyser samt diskuterar <strong>översiktligt </strong>resultaten. Med hjälp av <strong>enkla</strong> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till redovisning, revision och beskattning.</p><p>Eleven formulerar <strong>med viss säkerhet enkla</strong> frågeställningar inom redovisning, revision och beskattning, samlar <strong>i samråd </strong>med handledare in information från olika källor och gör en <strong>enkel</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>enkla</strong> resonemang och drar <strong>enkla</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning, revision och beskattning samt ger <strong>enkla</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>i samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt</strong> sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>utförligt</strong> för lagar, normer och praxis som påverkar utformningen av företagens redovisning.</p><p>Eleven redogör <strong>utförligt</strong> för innebörden av begrepp inom redovisning, revision och beskattning. Eleven använder <strong>med viss säkerhet </strong>redovisningstekniska metoder. Dessutom genomför eleven räkenskapsanalyser samt diskuterar <strong>utförligt </strong>resultaten. Med hjälp av teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till redovisning, revision och beskattning. <strong>Eleven värderar med enkla omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med viss säkerhet </strong>frågeställningar inom redovisning, revision och beskattning, samlar <strong>efter samråd </strong>med handledare in information från olika källor och gör en <strong>välgrundad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen, för <strong>välgrundade</strong> resonemang och drar <strong>välgrundade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning, revision och beskattning samt ger <strong>välgrundade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> redovisningens och revisionens funktion i företaget med hjälp av några exempel. Eleven diskuterar <strong>utförligt och nyanserat</strong> sambandet mellan företagens redovisning och deras samhällsansvar. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för lagar, normer och praxis som påverkar utformningen av företagens redovisning. <strong>I redogörelsen reflekterar eleven över lagarnas och bestämmelsernas syfte och effekter</strong>.</p><p>Eleven redogör <strong>utförligt och nyanserat</strong> för innebörden av begrepp inom redovisning, revision och beskattning. Eleven <strong>väljer och </strong>använder <strong>med säkerhet </strong>redovisningstekniska metoder. Dessutom genomför eleven <strong>komplexa </strong>räkenskapsanalyser samt diskuterar <strong>utförligt och nyanserat </strong>resultaten. Med hjälp av <strong>komplexa</strong> teorier och modeller förklarar eleven företagsekonomiska företeelser och sammanhang knutna till redovisning, revision och beskattning. <strong>Eleven värderar med nyanserade omdömen teoriernas och modellernas användbarhet</strong>.</p><p>Eleven formulerar <strong>med säkerhet komplexa </strong>frågeställningar inom redovisning, revision och beskattning, samlar <strong>efter samråd </strong>med handledare in information från olika, <strong>även mer avancerade</strong>, källor och gör en <strong>välgrundad och nyanserad</strong> bedömning av informationens trovärdighet. Eleven sammanställer informationen <strong>på ett strukturerat sätt</strong>, för <strong>välgrundade och nyanserade</strong> resonemang och drar <strong>välgrundade och nyanserade</strong> slutsatser. Dessutom deltar eleven i samtal om andra frågeställningar inom redovisning, revision och beskattning, <strong>diskuterar dem ur olika perspektiv</strong> samt ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter.</p><p>Eleven använder <strong>efter samråd </strong>med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.995Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "FOET",
+  "name": "Företagsekonomi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:158",
+  "nameHeading": "<h2>Företagsekonomi</h2>",
+  "description": "<p>Företagande och ett konkurrenskraftigt näringsliv är grundläggande förutsättningar för länders ekonomiska utveckling och välstånd. Ämnet företagsekonomi behandlar företagande i vid bemärkelse och belyser såväl ekonomiska som sociala och miljömässiga aspekter. I ämnet ingår marknadsföring, ledarskap och organisation, redovisning och kalkylering samt entreprenörskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet företagsekonomi ska syfta till att eleverna utvecklar förståelse av företagens roll och villkor i samhället, historiskt och i nutid. Här ingår företagens ansvar för hållbar utveckling samt ekonomiskt beslutsfattande i relation till demokratiska värderingar, etik och jämställdhet. Demokratiska rättsstater och socialt ansvarstagande företag är grundläggande för en socialt hållbar utveckling. Klimat- och miljöpåverkan samt snabb teknisk utveckling ställer krav på åtgärder som främjar en grön omställning. I detta skifte har företagen en nyckelroll. Undervisningen ska därför bidra till att eleverna utvecklar kunskaper om hållbart företagande.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förståelse av företagande samt kunskaper om lagar och andra bestämmelser som påverkar företagens verksamhet. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om företagens styrning och ledning samt om företagsekonomiska teorier och metoder. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om hur affärsidéer kan förverkligas samt om hur företag kan startas och drivas. Vidare ska undervisningen stimulera elevernas kreativitet, innovationstänkande och lust att omsätta idéer i praktisk verksamhet.</p> <p>Företagsekonomi handlar om ekonomiska strategier som på olika sätt påverkar våra liv. Undervisningen ska därför ge eleverna möjlighet att utveckla intresse för ekonomiska frågor och vilja att söka ny kunskap inom området. Dessutom ska undervisningen ge eleverna möjlighet att analysera och diskutera företagsekonomiska frågeställningar.</p> <h5><em>Undervisningen i ämnet företagsekonomi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om företagens roll i samhällsutvecklingen samt om hållbart företagande.</li> <li>Kunskaper om lagar och andra bestämmelser som styr företagens verksamhet.</li> <li>Kunskaper om företagande.</li> <li>Förmåga att använda metoder inom kalkylering och redovisning.</li> <li>Kunskaper om företagens styrning, ledning och organisation.</li> </ul><h3>Nivåer i ämnet företagsekonomi</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FOET1000X</h3>",
+      "code": "FOET1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet företagsekonomi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Företagens roll och villkor i samhället i fråga om samhällsnytta och samhällsansvar, däribland företagens roll och ansvar i arbetet för hållbar utveckling samt principer för enskilda företags ansvarstagande. Grundläggande begrepp inom området hållbar utveckling.</li> <li>Introduktion till lagar och andra bestämmelser som styr företagens agerande inom olika områden.</li> <li>Hur företag kan startas och drivas samt affärsidéns utformning och betydelse.</li> <li>Grundläggande metoder inom marknadsföring.</li> <li>Hur ett företag kan finansiera sin verksamhet. Olika finansieringsformer.</li> <li>Grundläggande kalkylering och lönsamhetsberäkning.</li> <li>Grundläggande budgeteringsformer och bokföring.</li> <li>Digitala verktyg för kalkylering och redovisning.</li> <li>Olika metoder för att leda och organisera en verksamhet för att nå uppsatta mål. Hur verksamheten kan ledas och organiseras med etisk medvetenhet och demokratiska värderingar som grund. Hur jämställdhet i arbetslivet kan främjas.</li> <li>Olika typer av företag och företagsformer.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FOET2000X</h3>",
+      "code": "FOET2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet företagsekonomi på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Företagens roll och villkor i samhället i fråga om samhällsnytta och samhällsansvar i nutiden samt ur ett historiskt perspektiv. Betydelsen av hållbart företagande för miljö, samhälle och företag.</li> <li>Internationella målsättningar och överenskommelser inom området hållbar utveckling.</li> <li>Lagar och andra bestämmelser som styr företagens agerande inom olika områden.</li> <li>Affärsidéns utformning och betydelse samt affärsplanens funktion.</li> <li>Metoder för att marknadsföra ett företags varor eller tjänster.</li> <li>Budgetering, kalkylering och lönsamhetsberäkning. Ett företags olika typer av kapitalbehov med utgångspunkt i affärsplanens mål och strategier samt hur ett företag kan finansiera sin verksamhet. Att identifiera och värdera olika alternativ för finansiering av kapitalbehov samt bedöma hur vald finansiering påverkar företagets lönsamhet och finansiella balans.</li> <li>Redovisning, räkenskapsanalys och bokslut.</li> <li>Digitala verktyg för kalkylering och redovisning.</li> <li>Hur olika funktioner inom ett företag kan styras, organiseras och samordnas för att nå uppsatta mål. Ledarskap och organisation med demokratiska värderingar och etisk medvetenhet som grund samt med fokus på jämställdhet i arbetslivet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FOET3000X</h3>",
+      "code": "FOET3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet företagsekonomi på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Företagens roll och villkor i samhället i fråga om samhällsnytta och samhällsansvar med fokus på betydelsen av hållbart företagande för miljö- och klimatpåverkan, människors levnadsvillkor och mänskliga rättigheter samt för företagens utveckling och lönsamhet.</li> <li>Internationella målsättningar och överenskommelser inom området hållbar utveckling.</li> <li>Lagar och andra bestämmelser som styr företagens agerande inom olika områden.</li> <li>Affärsplanens funktion och uppbyggnad.</li> <li>Hur affärsidéer, marknads- och säljplaner kan utformas utifrån en analys av marknad, målgrupp och ett företags förutsättningar.</li> <li>Metoder för marknadsföring av ett företags varor eller tjänster.</li> <li>Budgetering och kalkylering med utgångspunkt i affärsplanens mål och strategi genom formulering av konkreta och mätbara mål som kan följas upp. Att välja kalkylmetod och relevant information som underlag för kalkyler samt att bedöma kalkylresultatens användbarhet i en beslutssituation.</li> <li>Redovisning, räkenskapsanalys och bokslut.</li> <li>Digitala verktyg för kalkylering och redovisning.</li> <li>Hur ett företag kan finansiera sin verksamhet. Beräkning av kapitalbehov utifrån analys av olika finansiella nyckeltal, däribland soliditet och likviditet. Digital teknik för beräkning, simulering och uppbyggnad av kalkylmodeller.</li> <li>De finansiella marknaderna och de finansiella institutionerna samt deras roll och funktion.</li> <li>Metoder och teorier som används i företagens ledning, styrning och organisation. Ledarskap och organisation med demokratiska värderingar, jämställdhet och etisk medvetenhet som grund.</li> <li>Hur företagsekonomiska problem kan identifieras och analyseras. Analys av ett företagsekonomiskt problem med utgångspunkt i individens, företagets eller samhällets perspektiv och med hjälp av företagsekonomiska teorier.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för företagens roll i samhällsutvecklingen och deras ansvar för hållbar utveckling.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som styr företagens verksamhet.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om företagande.</p> <p>Eleven använder metoder inom kalkylering och redovisning på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om företagens styrning, ledning och organisation.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för företagens roll i samhällsutvecklingen och deras ansvar för hållbar utveckling.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som styr företagens verksamhet.</p> <p>Eleven visar <strong>goda</strong> kunskaper om företagande.</p> <p>Eleven använder metoder inom kalkylering och redovisning på ett <strong>fungerande</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om företagens styrning, ledning och organisation.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för företagens roll i samhällsutvecklingen och deras ansvar för hållbar utveckling.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som styr företagens verksamhet.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om företagande.</p> <p>Eleven använder metoder inom kalkylering och redovisning på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om företagens styrning, ledning och organisation.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.000Z"
+}

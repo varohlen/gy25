@@ -1,0 +1,144 @@
+{
+  "code": "HAO",
+  "name": "Hälso- och sjukvård",
+  "englishName": "Health and medical care",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:23",
+  "skolfsAndring": "2022:154",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Hälso- och sjukvård</h2>",
+  "description": "<p>Ämnet hälso- och sjukvård har sin grund i praktiskt hälso- och sjukvårdsarbete men också i de vetenskapliga ämnesområdena vårdvetenskap, pedagogik, medicin och etik. Ämnet behandlar hälso- och sjukvård på vårdinrättning och i hemmet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet hälso- och sjukvård ska syfta till att eleverna utvecklar kunskaper om hälsofrämjande arbete och medicinskt omhändertagande. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra hälso- och sjukvårdsuppgifter på ett etiskt, hygieniskt, ergonomiskt, hälsobefrämjande, rehabiliterande, habiliterande och pedagogiskt sätt. Undervisningen ska även leda till att eleverna utvecklar förmåga att uppmärksamma, rapportera och dokumentera förändringar i människors hälsotillstånd.</p> <p>Undervisningen ska även leda till att eleverna utvecklar kunskaper om olika former av hälsofrämjande arbete samt förmåga att arbeta på ett hälsofrämjande sätt, vilket innebär att förstärka det friska hos människan och se individen som en resurs för sitt eget välbefinnande.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra, utvärdera och dokumentera vård- och omsorgsuppgifter vid sjukdomar utifrån lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hjärt-lungräddning, omhändertagande vid olycksfall samt om olycksplatsarbetets organisation. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda digitala hjälpmedel och annan teknisk utrustning samt att utföra medicintekniska uppgifter. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera med andra människor med respekt för allas lika värde.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sjukvårdsuppgifter som är vanliga inom hälso- och sjukvården. Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.</p> <h4>Undervisningen i ämnet hälso- och sjukvård ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om människors hälsa och om hälsorelaterade levnadsvanor och livsvillkor ur ett helhetsperspektiv och vilka konsekvenser de får för hälsan.</li> <li>Kunskaper om hälso- och sjukvård och medicinska åtgärder samt kunskaper om smärta och smärtbehandling.</li> <li>Kunskaper om människan fysiskt, psykiskt, socialt och existentiellt vid ohälsa och i krissituationer samt förmåga att uppfatta och resonera kring etiska frågeställningar.</li> <li>Förmåga att planera egna arbetsinsatser samt att utföra hälso- och sjukvårds- och medicintekniska uppgifter vid sjukdomar och olycksfall utifrån lagar och andra bestämmelser på sjukhus och i hemmet.</li> <li>Förmåga att uppmärksamma symtom och förändringar i människors hälsotillstånd samt förmåga att utvärdera, rapportera och dokumentera sitt arbete och resultat med och utan digitala hjälpmedel på sjukhus och i hemmet.</li> <li>Förmåga att använda medicinteknisk utrustning utifrån gällande säkerhetsföreskrifter och avvikelser.</li> <li>Förmåga att pedagogiskt inspirera och motivera patienter till rehabiliterande eller habiliterande åtgärder samt egenvård.</li> <li>Förmåga att bemöta, kommunicera och samarbeta med patienter, närstående och övrig personal.</li> <li>Förmåga att ge första hjälpen och hjärt-lungräddning.</li> <li>Kunskaper om samhällets organisation och hjälpinsatser vid krig och katastrofer samt kunskaper om arbete i samband med farligt gods.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Hälso- och sjukvård 1, 100 poäng, som bygger på kurserna anatomi och fysiologi 1, omvårdnad 1 och social omsorg 1.</li> <li>Hälso- och sjukvård 2, 100 poäng, som bygger på kursen hälso- och sjukvård 1.</li> <li>Räddningsmedicin, 100 poäng, som bygger på kursen hälso- och sjukvård 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: HAOHAL01</h3>",
+      "code": "HAOHAL01",
+      "nameHeading": "<h2>Hälso- och sjukvård 1, 100 poäng</h2>",
+      "name": "Hälso- och sjukvård 1",
+      "englishName": "Health and medical care 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen hälso- och sjukvård 1 omfattar punkterna 1–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Folkhälsoarbete och hur det kan bedrivas på individ-, grupp- och samhällsnivå.</li> <li>Frisk- och riskfaktorer och deras påverkan på människors hälsa och livskvalitet, däribland motion, rekreation och kost, samt droger och stress.</li> <li>Hälso- och sjukvård samt medicinska åtgärder som kan utföras på vårdinrättning eller i hemmet.</li> <li>Etiska frågeställningar inom hälso- och sjukvård.</li> <li>Människors reaktioner i kris och hur de kan hanteras.</li> <li>Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, däribland blodprovstagning och sårvård.</li> <li>Riskfaktorer för trycksår och åtgärder för att förhindra eller minimera risken för trycksår.</li> <li>Rehabilitering, habilitering och egenvård enligt vårdplanering på vårdinrättning eller i hemmet.</li> <li>Uppmärksammande och rapportering av förändringar i människors hälsotillstånd.</li> <li>System och rutiner för rapportering och dokumentation av gjorda åtgärder.</li> <li>Vårdplanering, dess syfte och innehåll.</li> <li>It som hjälpmedel inom hälso- och sjukvård.</li> <li>Medicinteknisk och annan utrustning.</li> <li>Bemötande och kommunikation med hänsyn till individ och kultur.</li> <li>Personcentrerad vård och interprofessionella samarbeten.</li> <li>Första hjälpen vid skador och akuta sjukdomar.</li> <li>Vuxen-HLR (Hjärt-lungräddning) med larm, åtgärder vid luftvägsstopp, stabilt sidoläge.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.</p> <p>Eleven redogör <strong>översiktligt </strong>för vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Eleven redogör också <strong>översiktligt</strong> för människans reaktioner vid ohälsa och i krissituationer. Dessutom diskuterar eleven <strong>översiktligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven utför, <strong>i samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar. Arbetet utförs med ett <strong>tillfredställande </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd </strong>med handledare, symtom och förändringar i människors tillstånd. Dessutom använder eleven, <strong>i samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård. Eleven bemöter, kommunicerar och samarbetar med andra med <strong>tillfredställande</strong> resultat.</p> <p>Eleven utför första hjälpen och hjärt-lungräddning på vuxna med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.</p> <p>Eleven redogör <strong>utförligt </strong>för vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Eleven redogör också <strong>utförligt</strong> för människans reaktioner vid ohälsa och i krissituationer. Dessutom diskuterar eleven <strong>utförligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar. Arbetet utförs med ett <strong>tillfredställande </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd </strong>med handledare, symtom och förändringar i människors tillstånd. Dessutom använder eleven, <strong>efter samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Dessutom inspirerar och motiverar eleven <strong>med viss säkerhet</strong> patienter till rehabilitering eller habilitering samt egenvård. Eleven bemöter, kommunicerar och samarbetar med andra med <strong>tillfredställande</strong> resultat.</p> <p>Eleven utför första hjälpen och hjärt-lungräddning på vuxna med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> människors hälsa, hälsorelaterade levnadsvanor och livsvillkor ur olika perspektiv och aspekter.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Eleven redogör också <strong>utförligt och nyanserat</strong> för människans reaktioner vid ohälsa och i krissituationer. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar. Arbetet utförs med ett <strong>gott </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd </strong>med handledare, symtom och förändringar i människors tillstånd. Dessutom använder eleven, <strong>efter samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Dessutom inspirerar och motiverar eleven <strong>med säkerhet </strong>patienter till rehabilitering eller habilitering samt egenvård. Eleven bemöter, kommunicerar och samarbetar med andra med <strong>gott</strong> resultat.</p> <p>Eleven utför första hjälpen och hjärt-lungräddning på vuxna med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: HAOHAL02</h3>",
+      "code": "HAOHAL02",
+      "nameHeading": "<h2>Hälso- och sjukvård 2, 100 poäng</h2>",
+      "name": "Hälso- och sjukvård 2",
+      "englishName": "Health and medical care 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen hälso- och sjukvård 2 omfattar punkterna 2–6 och 8–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.</li> <li>Smärta samt farmakologisk och annan smärtbehandling.</li> <li>Etiska frågeställningar i samband med akuta och andra sjukdomar och rätten till en värdig död.</li> <li>Kriser, existentiella frågor, reaktioner och psykosocialt stöd.</li> <li>Hantering av dränage, stomi, kvarliggande respektive intermittent kateter.</li> <li>Assistans vid undersökning och behandling.</li> <li>Pre- och postoperativ vård.</li> <li>Energi-, närings- och vätskebehov vid sjukdom.</li> <li>Vårdplanering, dess syfte, innehåll och genomförande.</li> <li>Symtomlindring vid illamående, kramper, andnöd, oro och ångest.</li> <li>Utvärdering, rapportering och dokumentation av gjorda insatser.</li> <li>Medicinteknisk utrustning.</li> <li>Mobilisering, dess betydelse och effekter samt åtgärder som minskar risken för komplikationer.</li> <li>Betydelsen av bemötande samt kommunikation och samarbete i krissituationer med respekt för individ och kultur.</li> <li>Barn-HLR och S-HLR vuxen.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Dessutom diskuterar eleven <strong>översiktligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven planerar och utför, <strong>i samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar utifrån lagar och andra bestämmelser. Arbetet utförs med ett <strong>tillfredställande </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Dessutom använder eleven, <strong>i samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar med andra med <strong>tillfredställande</strong> resultat.</p> <p>Eleven utför hjärt-lungräddning för barn och hjärt-lungräddning för sjukvårdspersonal med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Dessutom diskuterar eleven <strong>utförligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar utifrån lagar och andra bestämmelser. Arbetet utförs med ett <strong>tillfredställande </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Dessutom använder eleven, <strong>efter samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar med andra med <strong>tillfredställande</strong> resultat.</p> <p>Eleven utför hjärt-lungräddning för barn och hjärt-lungräddning för sjukvårdspersonal med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>vård- och omsorgsuppgifter samt medicinska åtgärder vid akuta och andra sjukdomar. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar utifrån lagar och andra bestämmelser. Arbetet utförs med ett <strong>gott </strong>resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Dessutom använder eleven, <strong>efter samråd</strong> med handledare, teknisk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar med andra med <strong>gott </strong>resultat.</p> <p>Eleven utför hjärt-lungräddning för barn och hjärt-lungräddning för sjukvårdspersonal med godkänt resultat.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: HAORAD0</h3>",
+      "code": "HAORAD0",
+      "nameHeading": "<h2>Räddningsmedicin, 100 poäng</h2>",
+      "name": "Räddningsmedicin",
+      "englishName": "Emergency medicine",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen räddningsmedicin omfattar punkterna 2–6 och 8–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar.</li> <li>Fysiska och psykiska reaktioner vid olycksfall och akuta sjukdomar hos de drabbade men även hos närstående.</li> <li>Psykiska reaktioner hos insatspersonal och hur dessa kan förebyggas.</li> <li>Etiska frågeställningar i samband med akuta skador och sjukdomar, däribland prioritering av skadade.</li> <li>Vård och omsorg samt medicinskt omhändertagande vid akuta skador och sjukdomar.</li> <li>Lagar och bestämmelser som reglerar prehospital vård.</li> <li>Uppmärksammande och rapportering av förändringar i människors hälsotillstånd.</li> <li>System och rutiner för rapportering och dokumentation av gjorda åtgärder.</li> <li>Teknisk och annan utrustning vid prehospitalt omhändertagande.</li> <li>Betydelsen av kommunikation och samarbete i den prehospitala vården.</li> <li>Bemötande av människor som befinner sig i svåra situationer.</li> <li>Första hjälpen vid olycksfall och akut insjuknande, läge, andning, blödning och chock.</li> <li>Räddningstjänstens och den prehospitala vårdens organisation och verksamhetsområden.</li> <li>Organisationer och myndigheter som hanterar olyckor och katastrofer, deras insatser samt hur de samverkar.</li> <li>Risker med transporter av farligt gods samt lagar och andra bestämmelser som reglerar transporter av farligt gods samt agerande vid olyckor där farligt gods är inblandat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar. Eleven redogör även <strong>översiktligt</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för vanliga reaktioner hos närstående och hos insatspersonal. Dessutom diskuterar eleven <strong>översiktligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar.</p> <p>Eleven planerar och utför, <strong>i samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta skador och sjukdomar. När arbetet är utfört utvärderar eleven sitt arbete och resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Eleven använder, <strong>i samråd </strong>med handledare, teknisk och medicinsk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet </strong>med andra.</p> <p>Eleven utför första hjälpen med godkänt resultat.</p> <p>Eleven beskriver räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten. Dessutom beskriver eleven <strong>översiktligt </strong>hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar. Eleven redogör även <strong>utförligt</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för vanliga reaktioner hos närstående och hos insatspersonal. Dessutom diskuterar eleven <strong>utförligt </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta skador och sjukdomar. När arbetet är utfört utvärderar eleven sitt arbete och resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Eleven använder, <strong>efter samråd </strong>med handledare, teknisk och medicinsk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet </strong>med andra.</p> <p>Eleven utför första hjälpen med godkänt resultat.</p> <p>Eleven beskriver räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten. Dessutom beskriver eleven <strong>utförligt </strong>hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> medicinskt omhändertagande och vård och omsorg vid akuta skador och sjukdomar. Eleven redogör även <strong>utförligt och nyanserat</strong> för människans fysiska och psykiska reaktioner vid akuta skador och sjukdomar samt för vanliga reaktioner hos närstående och hos insatspersonal. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>etiska frågeställningar av betydelse för människor som är drabbade av akuta skador och sjukdomar.</p> <p>Eleven planerar och utför, <strong>efter samråd </strong>med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta skador och sjukdomar. När arbetet är utfört utvärderar eleven sitt arbete och resultat. I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i människors hälsotillstånd. Eleven använder, <strong>efter samråd </strong>med handledare, teknisk och medicinsk utrustning utifrån gällande säkerhetsföreskrifter.</p> <p>Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet </strong>med andra.</p> <p>Eleven utför första hjälpen med godkänt resultat.</p> <p>Eleven beskriver räddningstjänstens organisation samt ger några exempel på lagar och andra bestämmelser som reglerar verksamheten. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>hur organisationer och myndigheter samverkar vid olyckor och katastrofer samt vilka insatser de bidrar med.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.002Z"
+}

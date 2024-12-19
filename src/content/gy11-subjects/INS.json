@@ -1,0 +1,257 @@
+{
+  "code": "INS",
+  "name": "Installationsteknik",
+  "englishName": "Installations",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:249",
+  "skolfsAndring": "2022:168",
+  "nameHeading": "<h2>Installationsteknik</h2>",
+  "description": "<p>Ämnet installationsteknik handlar om hur man bygger nya elinstallationer samt hur man bygger om och utökar befintliga elanläggningar. Ämnet behandlar också felsökning och hur man avhjälper fel i befintliga elanläggningar. I ämnet betonas elsäkerhet eftersom misstag kan orsaka stora skador både på personer och på egendom.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet installationsteknik ska syfta till att eleverna utvecklar kunskaper i att installera, underhålla och reparera elanläggningar. För att installera elanläggningar krävs förmåga att bilda sig en uppfattning om hur installationen kommer att se ut och fungera. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att läsa och tolka ritningar och arbetsbeskrivningar. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om olika materials egenskaper och om hur verktyg ska användas.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och bestämmelser samt att söka information om installationer i befintlig dokumentation. Undervisningen ska också leda till att eleverna utvecklar förmåga att lösa problem som uppkommer under arbetets gång samt att dokumentera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att kommunicera både i tal och i skrift, för att kunna upprätthålla elsäkerheten.</p><h4>Undervisningen i ämnet installationsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika elinstallationer.</li> <li>Färdigheter i att planera och genomföra arbetet utifrån lagar och andra bestämmelser samt standarder inom området.</li> <li>Förmåga att arbeta på ett säkert sätt samt använda verktyg och andra hjälpmedel på ett säkert sätt.</li> <li>Förmåga att kontrollera och driftsätta elinstallationer på ett säkert och yrkesmässigt sätt.</li> <li>Förmåga att dokumentera och utvärdera arbetet.</li> <li>Färdigheter i att felsöka och reparera elinstallationer.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Belysningsteknik, 100 poäng, som bygger på kursen elkraftteknik, kursen ellära 2 eller kursen praktisk ellära.</li> <li>Elinstallationer, 200 poäng, som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.</li> <li>Elmotorstyrning, 100 poäng, som bygger på kursen elkraftteknik. Dessutom bygger den på kursen ellära 2 eller kursen praktisk ellära.</li> <li>Kommunikationsnät 1, 100 poäng. </li> <li>Kommunikationsnät 2, 100 poäng, som bygger på kursen kommunikationsnät 1.</li> <li>Kommunikationsnät 3, 100 poäng, som bygger på kursen kommunikationsnät 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: INSBES0</h3>",
+      "code": "INSBES0",
+      "nameHeading": "<h2>Belysningsteknik, 100 poäng</h2>",
+      "name": "Belysningsteknik",
+      "englishName": "Lighting technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen belysningsteknik omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika typer av ljuskällor för olika miljöer. Installation av olika ljuskällor.</li> <li>Lagar och andra bestämmelser om säkerhet inom området. Standarder.</li> <li>Enklare ljusberäkningar med hjälp av olika hjälpmedel, till exempel datorprogrammet Dialux.</li> <li>Val av ledningar med hänsyn till störningar och olika miljöer.</li> <li>Installation av styrutrustning och styrsystem.</li> <li>Driftsättning och underhåll av belysningsinstallationer. </li> <li>Dokumentation inom belysningsområdet.</li> <li>Felsökning och felavhjälpning av belysningsinstallationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare installationer av vanligt förekommande belysning utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande belysningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare installationer av vanligt förekommande belysning utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> gott </strong>handlag vanligt förekommande belysningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.<strong> Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare installationer av vanligt förekommande belysning utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande belysningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag. <strong>Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INSELI0</h3>",
+      "code": "INSELI0",
+      "nameHeading": "<h2>Elinstallationer, 200 poäng</h2>",
+      "name": "Elinstallationer",
+      "englishName": "Electrical installation",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen elinstallationer omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Installationer av kraft- och belysningsanläggningar.</li> <li>Elmaterials olika egenskaper och användningsområden.</li> <li>Apparaters kapslingsklass och placering i olika miljöer. </li> <li>Lagar och andra bestämmelser om säkerhet inom området. Standarder.</li> <li>Val av ledningssystem och förläggningssätt med hänsyn till ledningsburna störningar.</li> <li>Förläggning av kabel på olika underlag och i mark samt installation av rör och kanalisation.</li> <li>Installation av kopplingsutrustning med tillhörande skydd.</li> <li>Dokumentation och anvisningar rörande elinstallationsarbete, till exempel Allmän material- och arbetsbeskrivning för elektriska arbeten (AMA EL). </li> <li>Avbrottsfri krafts (UPS-systemens) användning och funktion.</li> <li>Säkerhet vid elinstallationsarbete.</li> <li>Ergonomins betydelse vid elinstallationsarbete.</li> <li>Kontroll inför drifttagning och elarbetsansvar.</li> <li>Dokumentation inom belysningsområdet.</li> <li>Felsökning och reparation av befintliga elinstallationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare installationer av vanligt förekommande kraft- och belysningsanläggningar utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och <strong>med visst </strong><strong>handlag</strong> vanligt förekommande kraft- och belysningsanläggningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen samt i vilken grad arbetet genomförts ergonomiskt. </p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare installationer av vanligt förekommande kraft- och belysningsanläggningar utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt fungera.</p><p>Eleven utför i olika miljöer och med <strong>gott </strong>handlag vanligt förekommande kraft- och belysningsanläggningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag. <strong>Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen samt i vilken grad arbetet genomförts ergonomiskt. </p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare installationer av vanligt förekommande kraft- och belysningsanläggningar utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott </strong>handlag vanligt förekommande kraft- och belysningsanläggningsinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag. <strong>Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven värderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen samt i vilken grad arbetet genomförts ergonomiskt. <strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INSELS0</h3>",
+      "code": "INSELS0",
+      "nameHeading": "<h2>Elmotorstyrning, 100 poäng</h2>",
+      "name": "Elmotorstyrning",
+      "englishName": "Electric motor control",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen elmotorstyrning omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Installation av elmotorer med tillhörande skyddsanordningar.</li> <li>Installation av styrutrustning för styrning av elmotorer.</li> <li>Installation av varvtalsreglering och mjukstartare.</li> <li>Lagar och andra bestämmelser om säkerhet inom området. Standarder.</li> <li>Val av ledningar med hänsyn till störningar och olika miljöer.</li> <li>Driftsättning och underhåll av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar.</li> <li>Dokumentation gällande elmotorer, styrutrustningar och automatikutrustningar.</li> <li>Felsökning och felavhjälpning av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare vanligt förekommande motorinstallationer utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>visst </strong>handlag vanligt förekommande motorinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen. </p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande motorinstallationer utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> gott</strong> handlag vanligt förekommande motorinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.<strong> Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen. </p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande motorinstallationer utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande motorinstallationer på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag.<strong> Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INSKOM01</h3>",
+      "code": "INSKOM01",
+      "nameHeading": "<h2>Kommunikationsnät 1, 100 poäng</h2>",
+      "name": "Kommunikationsnät 1",
+      "englishName": "Communication networks 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen kommunikationsnät 1 omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Kabel-tv-nätens uppbyggnad, komponenter, signaler och arbetssätt.</li> <li>Data- och medienätens uppbyggnad, komponenter, signaler och arbetssätt.</li> <li>Planering, installation och driftsättning av kommunikationsnät för tele, data och media.</li> <li>Installation och funktionskontroll av ett mindre kabel-tv-nät.</li> <li>Installation och funktionskontroll av ett mindre data- och medienät med fiberkabel.</li> <li>Kontaktering av fiberkabel, partvinnad kabel och koaxialkabel.</li> <li>Andra applikationer för kommunikationsnät, till exempel larm och övervakning. </li> <li>Lagar och andra bestämmelser om säkerhet för kommunikationsnät. Standarder för kommunikationsnät.</li> <li>Val av förläggningssätt med hänsyn till ledningsburna störningar vid samförläggning av kablar.</li> <li>Överlämningspunkter och ansvar på kommunikationsnät för tele-, data- och mediesignaler.</li> <li>Inmätningsteknik och registrering av mätdata.</li> <li>Registrering och dokumentation av arbetet.</li> <li>Enklare felsökning och reparation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare vanligt förekommande enkla installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> visst </strong>handlag vanligt förekommande enkla installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen. </p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande enkla installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> gott </strong>handlag vanligt förekommande enkla installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.<strong> Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen. </p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande enkla <strong>och avancerade</strong> installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande enkla <strong>och avancerade </strong>installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag.<strong> Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INSKOM02</h3>",
+      "code": "INSKOM02",
+      "nameHeading": "<h2>Kommunikationsnät 2, 100 poäng</h2>",
+      "name": "Kommunikationsnät 2",
+      "englishName": "Communication networks 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen kommunikationsnät 2 omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Registreringssystems uppbyggnad samt registrering av telenät enligt olika standarder.</li> <li>Uppbyggnad av och arbetssätt hos komponenter och system i fastighetsnät med fiber och koppar.</li> <li>Uppbyggnad av och arbetsätt hos telefonanläggningar med telefonväxlar samt Telias nät.</li> <li>Planering, installation, driftsättning och registrering av datanät, fastighetsnät och bredbandsnät, med till exempel kopparkabel, fiberkabel och koaxialkabelsystem, samt med hjälp av ritningar och anvisningar.</li> <li>Planering, installation, driftsättning och registrering av enklare teleanläggningar med gemensamt 01-nät med RWC, kallelse och tidsdistribution med hjälp av ritningar och anvisningar.</li> <li>Planering, installation, driftsättning och registrering av säkerhetssystem med brandlarm, inbrottslarm, CCTV och passersystem med hjälp av ritningar och anvisningar.</li> <li>Installation och registrering av anläggningar med korskoppling.</li> <li>Allmän installationsteknik samt vilka konsekvenser felaktiga installationer kan få, till exempel hur signaler påverkas om koaxialkabeln monteras med för liten böjradie.</li> <li>Inmätningsmetoder och mätutrustningar för till exempel fiber- och kopparnät.</li> <li>Anläggningar och metoder för distribution av ljud och tid.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> visst </strong>handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> gott </strong>handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.<strong> Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande <strong>och avancerade</strong> installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande, <strong>även</strong><strong> avancerade</strong>, installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag.<strong> Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INSKOM03</h3>",
+      "code": "INSKOM03",
+      "nameHeading": "<h2>Kommunikationsnät 3, 100 poäng</h2>",
+      "name": "Kommunikationsnät 3",
+      "englishName": "Communication networks 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen kommunikationsnät 3 omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Funktion och arbetssätt hos nätverkskomponenter, till exempel brygga, switch, router och gateway.</li> <li>Ip-adressering och tcp/ip-protokoll.</li> <li>Fiberoptiska nät till slutanvändare, FTTX-nät (<i>fiber to the X</i>).</li> <li>Optofiber, optokabel och kontakter samt kanalisation för FTTX-nät.</li> <li>Installation, driftsättning och inmätning samt registrering av LAN (local area network) med till exempel switch, router och gateway och med hjälp av ritningar och anvisningar.</li> <li>Planering, installation, driftsättning och registrering av ip-nätverk med ip-tv och ip-telefoni med hjälp av ritningar och anvisningar.</li> <li>Installation och driftsättning av trådlösa WLAN med switch och router samt konfigurering av säkerheten i nätet med hjälp av ritningar och anvisningar.</li> <li>Planering, installation, driftsättning och registrering av trådlösa fastighetsnät för DECT-telefoni (<i>digital enhanced cordless telephony</i>) med hjälp av ritningar och anvisningar.</li> <li>Säkerhetsrisker och kryptering av trådlösa nät.</li> <li>Utrustningar och protokoll som används i nätverk för ip-tv.</li> <li>Teknik och utrustning för ip-telefoni.</li> <li>Metoder och utrustning för inmätning enligt mätkrav och specifikationer samt utskrift av provningsprotokoll.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven planerar <strong>i samråd </strong>med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>översiktligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>visst </strong>handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>i samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>enkel </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>Eleven söker och reparerar <strong>i samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med<strong> gott </strong>handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med viss säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.<strong> Eleven motiverar utförligt sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven planerar <strong>efter samråd </strong>med handledare vanligt förekommande och <strong>avancerade</strong> installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur installationen är tänkt att fungera.</p><p>Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande, <strong>även avancerade</strong>, installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven <strong>efter samråd </strong>med handledare material avsedda för uppgiften. Under arbetet väljer eleven <strong>med säkerhet </strong>verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag.<strong> Eleven motiverar utförligt och nyanserat sina val</strong>. Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd </strong>med handledare. Eleven kontrollerar säkerheten och driftsätter installationen. Efter utfört arbete gör eleven en <strong>noggrann och utförlig </strong>dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>Eleven söker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer på såväl nya som befintliga installationer. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.052Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "DATR",
+  "name": "Dator- och kommunikationsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:192",
+  "nameHeading": "<h2>Dator- och kommunikationsteknik</h2>",
+  "description": "<p>Samhällets digitalisering påverkar en mängd olika verksamheter, funktioner och aktiviteter, vilket förutsätter fungerande dator- och kommunikationsutrustning. Ämnet dator- och kommunikationsteknik behandlar olika delar inom informationsteknik, bland annat hård- och mjukvara samt nätverk och kringutrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dator- och kommunikationsteknik ska syfta till att eleverna utvecklar förmåga att arbeta med vanligt förekommande system och komponenter inom olika dator- och kommunikationsområden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om system, enheter, komponenter, metoder och arbetssätt som används när datorer är uppkopplade i befintliga nätverk. Undervisningen ska också bidra till att eleverna utvecklar förmåga att tolka och använda instruktioner, manualer, topologier och andra dokument på både svenska och engelska.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att lösa problem, utföra felsökningar och åtgärda fel, både självständigt och i samverkan med andra. Undervisningen ska även leda till att eleverna utvecklar kunskaper om datorsäkerhet och it-produkters kretslopp samt förmåga att arbeta med hänsyn till hållbar utveckling. Den ska även bidra till att eleverna utvecklar förmåga att möta och kommunicera med uppdragsgivare och användare på ett serviceinriktat och situationsanpassat sätt. Vidare ska undervisningen stimulera elevernas nyfikenhet och intresse för den tekniska utvecklingen inom dator- och kommunikationsteknik. Eleverna ska också ges möjlighet att utveckla förmåga att använda yrkesområdets fackspråk muntligt och skriftligt samt att dokumentera sitt arbete.</p> <p>Undervisningen ska varva praktiska och laborativa moment med teoretiska moment. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att hantera teknisk utrustning.</p> <h5><em>Undervisningen i ämnet dator- och kommunikationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad och funktion hos datorer, dator- och kommunikationssystem samt olika typer av nätverk.</li> <li>Förmåga att planera och utföra arbete i datorer samt i dator- och kommunikationssystem.</li> <li>Förmåga att optimera och administrera dator- och kommunikationssystem.</li> <li>Förmåga att identifiera och åtgärda fel i dator- och kommunikationssystem.</li> <li>Förmåga att tolka och använda tekniska dokument samt att dokumentera sitt arbete.</li> <li>Förmåga att ge stöd och support till användare.</li> </ul><h3>Nivåer i ämnet dator- och kommunikationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 150 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 150 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DATR1000X</h3>",
+      "code": "DATR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dator- och kommunikationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Datorsystems uppbyggnad, komponenter och kringutrustningar.</li> <li>Begreppen filer, filformat, komprimering och kryptering.</li> <li>Referensmodeller och gällande standarder för datorkommunikation.</li> <li>Vanligt förekommande operativsystem.</li> <li>Enklare rit- och simuleringsprogram.</li> <li>Installation och konfigurering av datorer i befintliga nätverk.</li> <li>Installation av enheter både lokalt och i nätverk.</li> <li>Enklare typer av systemintegration.</li> <li>Installation och konfigurering av applikationsprogram.</li> <li>ESD-säker hantering av mikroprocessorer och minnen.</li> <li>Kontroll och optimering av datorers och datorsystems prestanda och funktion.</li> <li>Installation och konfiguration av mindre eller enkelt SOHO (small office home office) och LAN (local area network).</li> <li>Grundläggande felsökningsmetodik.</li> <li>Rutiner för säkerhetskopiering och installation av virusskydd.</li> <li>Olika nätverkstopologier.</li> <li>Tolkning och användning av tekniska dokument på både svenska och engelska, däribland instruktioner och manualer.</li> <li>Dokumentation av eget arbete.</li> <li>Rådgivning om utrustning utifrån användares behov.</li> <li>Produktion av enklare guider, till exempel installationsguide.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATR2000X</h3>",
+      "code": "DATR2000X",
+      "nameHeading": "<h2>Nivå 2, 150 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "150",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dator- och kommunikationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika processortyper och deras användningsområden.</li> <li>Prestanda för olika datalagringsmedia.</li> <li>Protokoll för dataöverföring via nätverk.</li> <li>Referensmodeller och standarder för datakommunikation.</li> <li>Uppbyggnad av och arbetssätt i lokala nätverk.</li> <li>Begreppen switching och routing.</li> <li>Begreppet virtuella nät.</li> <li>Skillnader mellan vanligt förekommande operativsystem och deras egenskaper.</li> <li>Användande av rit- och simuleringsprogram.</li> <li>Produkter och tekniker för presentationssystem, till exempel multimedia eller videokonferens.</li> <li>Installation av utrustning och uppgradering av drivrutiner.</li> <li>Planering, montering, konfigurering och driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning, dokumentation, presentation eller kommunikation.</li> <li>Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.</li> <li>Anpassning av moln- och internetbaserade tjänster.</li> <li>Hantering av it-produkter på ett säkert och hållbart sätt.</li> <li>Hård- och mjukvaruinstallation samt uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.</li> <li>Datorns start- och bootsekvenser samt inställning och uppgradering av dess UEFI (unified extensible firmware interface) och BIOS (basic input/output system) eller firmware.</li> <li>Installation och konfigurering av switchar, routrar och gateways.</li> <li>Installation och konfigurering av SOHO (small office home office) och WLAN (wireless local area network).</li> <li>Felsökning i datorer och datorsystem.</li> <li>Säkerhetskopiering och virusskydd.</li> <li>Produktion av skisser över olika typer av nätverkstopologier, både fysiskt och logiskt.</li> <li>Tolkning och användning av tekniska dokument på både svenska och engelska, däribland instruktioner och manualer.</li> <li>Dokumentation av eget arbete.</li> <li>Analys av användarkrav och förslag på konkreta lösningar.</li> <li>Utvärdering och val av it-produkter på marknaden.</li> <li>Produktion av manualer och annan hjälpdokumentation för användare, till exempel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DATR3000X</h3>",
+      "code": "DATR3000X",
+      "nameHeading": "<h2>Nivå 3, 150 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "150",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet dator- och kommunikationsteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Teknisk dokumentation av datorsystem.</li> <li>Internets uppbyggnad.</li> <li>Byggande, konfigurering och administrering av simulerade nät.</li> <li>Installation och konfigurering av trådlösa enheter och kommunikationssystem i olika miljöer.</li> <li>Konfigurering av trådlösa accesspunkter.</li> <li>Inställning av trådlösa nätverkskort.</li> <li>Konfigurering, anpassning och sammankoppling av olika enheter till ett fungerande multimedia- eller videokonferenssystem.</li> <li>Installation och konfigurering av IoT (internet of things) och molntjänster.</li> <li>It-produkters kretslopp och miljöpåverkan.</li> <li>Praktiskt arbete med referensmodeller, protokoll och standarder inom datakommunikation.</li> <li>Antennteknik och antenner för trådlösa nät.</li> <li>Kommunikationsnät för mobila datorutrustningar.</li> <li>Integritetsaspekter och säkerhet vid användning av trådlösa enheter.</li> <li>Licenstyper, licenshantering och upphovsrättsskydd.</li> <li>Konfigurering av operativsystem.</li> <li>Kontroll och uppmätning av överföringshastigheter och signalstyrkor.</li> <li>Konfigurering av UEFI (unified extensible firmware interface).</li> <li>Administrering och konfigurering av företags avancerade eller större WLAN (wireless local area network) och bryggor.</li> <li>Metoder för diagnostisering, spårning och felsökning.</li> <li>Felsökning i trådlösa lokala nätverk och utrustningar.</li> <li>Systematisk felsökning och åtgärdande av fel.</li> <li>Konfigurering av säkerhetsfunktioner och kryptering.</li> <li>Tolkning och användning av tekniska dokument på både svenska och engelska, däribland topologier, instruktioner och manualer.</li> <li>Dokumentation av eget arbete.</li> <li>Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem samt principer för hantering av it-tjänster.</li> <li>Tekniker för pedagogisk handledning av it-system, till exempel fjärrstyrning av muspekare.</li> <li>Konsumenttjänstlagen vid support och hemservice.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur datorer, dator- och kommunikationssystem samt olika typer av nätverk är uppbyggda och fungerar.</p> <p>Eleven planerar och utför vanligt förekommande arbete i datorer samt i dator- och kommunikationssystem med <strong>visst</strong> handlag.</p> <p>Eleven optimerar och administrerar dator- och kommunikationssystem med <strong>viss</strong> skicklighet.</p> <p>Eleven identifierar och åtgärdar fel i dator- och kommunikationssystem med <strong>viss säkerhet</strong>.</p> <p>Eleven använder sig av tekniska dokument i det praktiska arbetet med <strong>viss säkerhet</strong> samt gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven ger med <strong>viss säkerhet</strong> stöd och support till användare.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur datorer, dator- och kommunikationssystem samt olika typer av nätverk är uppbyggda och fungerar.</p> <p>Eleven planerar och utför vanligt förekommande arbete i datorer samt i dator- och kommunikationssystem med <strong>gott</strong> handlag.</p> <p>Eleven optimerar och administrerar dator- och kommunikationssystem med <strong>god</strong> skicklighet.</p> <p>Eleven identifierar och åtgärdar fel i dator- och kommunikationssystem med <strong>säkerhet</strong>.</p> <p>Eleven använder sig av tekniska dokument i det praktiska arbetet med <strong>säkerhet</strong> samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven ger med <strong>säkerhet</strong> stöd och support till användare.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur datorer, dator- och kommunikationssystem samt olika typer av nätverk är uppbyggda och fungerar.</p> <p>Eleven planerar och utför vanligt förekommande arbete i datorer samt i dator- och kommunikationssystem med <strong>mycket gott</strong> handlag.</p> <p>Eleven optimerar och administrerar dator- och kommunikationssystem med <strong>mycket god</strong> skicklighet.</p> <p>Eleven identifierar och åtgärdar fel i dator- och kommunikationssystem med <strong>god säkerhet</strong>.</p> <p>Eleven använder sig av tekniska dokument i det praktiska arbetet med <strong>god säkerhet</strong> samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven ger med <strong>god säkerhet</strong> stöd och support till användare.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

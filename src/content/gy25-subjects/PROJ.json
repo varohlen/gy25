@@ -1,0 +1,63 @@
+{
+  "code": "PROJ",
+  "name": "Projektering – järnväg",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:563",
+  "nameHeading": "<h2>Projektering – järnväg</h2>",
+  "description": "<p>Ämnet projektering – järnväg behandlar järnvägens tekniska system och dess uppbyggnad. Ämnet behandlar även projektering, systemintegration, säkerhet, underhåll och interoperabilitet mellan olika länders järnvägssystem. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet projektering – järnväg ska syfta till att eleverna utvecklar kunskaper om projektering och de olika tekniska delsystemen bana, el, signal och tele. Eleverna ska även ges möjlighet att utveckla förståelse av hur delsystemen samverkar till en helhet. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta med projektering av järnvägens delsystem samt att dokumentera projekteringen med branschmässiga digitala verktyg i enlighet med lagar och andra bestämmelser.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur den nationella järnvägen förvaltas, utvecklas och underhålls. Undervisningen ska bidra till att eleverna utvecklar kunskaper om vilka myndigheter som utövar tillsyn och vilka aktörer som är involverade i järnvägen samt om lagar och andra bestämmelser som gäller inom området. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om hur den nationella järnvägen samverkar genom interoperabilitet med övriga Europa. Dessutom ska eleverna ges möjlighet att utveckla förståelse av hur järnvägens signalteknik är uppbyggd samt förmåga att skapa och planera trafiksäkra situationer.</p> <p>I undervisningen ska eleverna ges möjlighet att möta verklighetsnära projekt och situationer samt att reflektera över järnvägens betydelse för hållbar utveckling. Undervisningen ska också lämna utrymme för diskussion om etiska frågor, den egna rollen och olika handlingsalternativ inom arbete med projektering av järnväg.</p> <h5><em>Undervisningen i ämnet projektering – järnväg ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur den nationella och europeiska järnvägen är uppbyggd och kan utvecklas.</li> <li>Kunskaper om hur tekniska delsystem inom järnvägsteknik samverkar.</li> <li>Kunskaper om tillsyn och underhåll av järnvägen samt om lagar och andra bestämmelser som reglerar järnvägssäkerheten.</li> <li>Förmåga att tillämpa tekniker och metoder för felsäkring av signalsystem.</li> <li>Förmåga att utföra projektering och dokumentation inom järnväg.</li> </ul><h3>Nivåer i ämnet projektering – järnväg</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROJ100TX</h3>",
+      "code": "PROJ100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet projektering – järnväg på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Järnvägssystem</em></p> <ul> <li>Den nationella järnvägens framväxt och framtidens järnvägssatsningar.</li> <li>Interoperabilitet mellan olika järnvägssystem, nationellt och internationellt.</li> <li>Europeiska unionens järnvägsbyrå och dess roll för interoperabilitet.</li> <li>Uppbyggnaden av delsystemen BEST (banteknik, elkraftteknik, signalteknik och teleteknik) och hur de samverkar för att säkerställa driften av järnvägen.</li> </ul> <p><em>Tillsyn, underhåll och säkerhet</em></p> <ul> <li>Myndigheter som beställare och förvaltare av infrastrukturen inom järnväg.</li> <li>Myndigheter som tillsynsutövare och tillståndsgivare inom järnväg samt de lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Entreprenad- och konsultrollen vid utveckling och underhåll av järnvägen.</li> <li>Säkerhetssystem inom signalteknik, till exempel ERTMS (european rail traffic management system) och ATC (automatic train control).</li> <li>Blocksträckor och säkerhetsprinciper vid signallogik, till exempel vid vägskydd och mötesspår.</li> </ul> <p><em>Projektering</em></p> <ul> <li>Tolkning och framställning av specifika ritningar, tekniska underlag och övrig dokumentation.</li> <li>Vanligt förekommande digitala verktyg, till exempel cad-program.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven för <strong>övergripande</strong> resonemang om hur den nationella och europeiska järnvägen är uppbyggd och kan utvecklas.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur tekniska delsystem inom järnvägsteknik samverkar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur tillsyn och underhåll av järnvägen sker samt om de lagar och andra bestämmelser som reglerar järnvägssäkerheten.</p> <p>Eleven tillämpar med <strong>viss säkerhet</strong> tekniker och metoder för felsäkring av signalsystem.</p> <p>Eleven utför med <strong>viss säkerhet</strong> projektering och dokumentation inom järnväg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven för <strong>utförliga</strong> resonemang om hur den nationella och europeiska järnvägen är uppbyggd och kan utvecklas.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur tekniska delsystem inom järnvägsteknik samverkar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur tillsyn och underhåll av järnvägen sker samt om de lagar och andra bestämmelser som reglerar järnvägssäkerheten.</p> <p>Eleven tillämpar med <strong>säkerhet</strong> tekniker och metoder för felsäkring av signalsystem.</p> <p>Eleven utför med <strong>säkerhet</strong> projektering och dokumentation inom järnväg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven för <strong>utförliga och nyanserade</strong> resonemang om hur den nationella och europeiska järnvägen är uppbyggd och kan utvecklas.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur tekniska delsystem inom järnvägsteknik samverkar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur tillsyn och underhåll av järnvägen sker samt om de lagar och andra bestämmelser som reglerar järnvägssäkerheten.</p> <p>Eleven tillämpar med <strong>god säkerhet</strong> tekniker och metoder för felsäkring av signalsystem.</p> <p>Eleven utför med <strong>god säkerhet</strong> projektering och dokumentation inom järnväg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.065Z"
+}

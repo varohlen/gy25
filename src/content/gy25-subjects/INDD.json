@@ -1,0 +1,77 @@
+{
+  "code": "INDD",
+  "name": "Industriell design",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:540",
+  "nameHeading": "<h2>Industriell design</h2>",
+  "description": "<p>Ämnet industriell design handlar om att ta fram produkter som är avsedda att tillverkas i industriell produktion samt anpassade till både människa och miljö. Ämnet är tvärvetenskapligt och belyser design ur ett tekniskt och konstnärligt perspektiv. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell design ska syfta till att eleverna utvecklar ingenjörsmässig förmåga att använda kreativa och problemlösande arbetssätt där faktorer som nytta, funktion, teknik, material, miljö, säkerhet, ekonomi, ergonomi och estetik samverkar i den industriella designprocessen. Undervisningen ska också ge eleverna möjlighet att utveckla förståelse av designprocessens olika delar. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utifrån teoretiska kunskaper praktiskt framställa industriellt anpassade designförslag. De ska också ges möjlighet att utveckla förmåga att ta fram, testa och utvärdera prototyper. Därigenom ska eleverna ges möjlighet att utveckla förmåga att prioritera och välja mellan olika designaspekter hos en produkt samt att motivera sina val. Eleverna ska också ges möjlighet att utveckla förståelse av hur detaljnivå och helhetsnivå påverkar varandra i designprocessen.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om hur industriell design har påverkat och påverkar samhället på olika sätt, både historiskt och i nutid. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av sambandet mellan modern industriell design och hållbar utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta i projektform och presentera sina projekt både muntligt och skriftligt genom att använda sig av manuella metoder, digitala verktyg och medier inom området. Undervisningen ska dessutom lämna utrymme för diskussion om och reflektion över etiska frågor om hur industriell design utformas och anpassas efter faktorer som exempelvis material, säkerhet, ekonomi och ergonomi.</p> <h5><em>Undervisningen i ämnet industriell design ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om industriell design och den industriella designprocessen.</li> <li>Förmåga att genomföra designprojekt anpassat till industrin.</li> <li>Förmåga att skapa och visualisera designförslag.</li> <li>Förmåga att framställa prototyper för simulering och testning.</li> </ul><h3>Nivåer i ämnet industriell design</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDD100TX</h3>",
+      "code": "INDD100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell design på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Historisk och samtida industriell design.</li> <li>Den industriella designprocessens olika delar från problemformulering till presentation och utvärdering.</li> </ul> <p><em>Design</em></p> <ul> <li>Planering, strukturering och genomförande av designprojekt, däribland utformning av ett designkoncept utifrån syfte, målgrupp och industriella förutsättningar.</li> <li>Dokumentation, redovisning och presentation av eget arbete och resultat.</li> <li>Formulering av designkriterier.</li> <li>Materialegenskaper och deras betydelse för designen av industriella produkter.</li> <li>Sambandet mellan design, konstruktion, produktion och hållbar utveckling.</li> <li>Normer, standarder och bestämmelser som gäller designen.</li> </ul> <p><em>Visualisering och testning</em></p> <ul> <li>Två- och tredimensionell visualisering, med både analoga och digitala tekniker, anpassat till målgrupp och syfte.</li> <li>Material och verktyg för modellarbete samt hur dessa används.</li> <li>Digitala och manuella verktyg för framställning av prototyper samt hur prototyper simuleras och testas.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDD200TX</h3>",
+      "code": "INDD200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell design på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Historisk och samtida industriell design och dess relation till social, ekonomisk, teknisk och samhällelig utveckling.</li> <li>Tillämpning av den industriella designprocessen.</li> </ul> <p><em>Design</em></p> <ul> <li>Utformning av designkoncept anpassat till syfte, målgrupp och industriella förutsättningar.</li> <li>Projektmetodik för planering, strukturering och genomförande av ett industriellt anpassat designprojekt, till exempel projektplan och visuella flödesscheman.</li> <li>Dokumentation, redovisning och presentation av eget arbete och resultat med användning av termer och begrepp inom området.</li> <li>Formulering och utvärdering av designkriterier.</li> <li>Designens påverkan på konstruktionen och produktionen av industriellt framställda produkter samt samband mellan design och hållbar utveckling.</li> </ul> <p><em>Visualisering och testning</em></p> <ul> <li>Avancerad två- och tredimensionell visualisering, med både analoga och digitala tekniker, anpassat till målgrupp och syfte.</li> <li>Framtagande, simulering och testning av prototyper samt analys av designen utifrån testresultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om industriell design och den industriella designprocessens olika delar.</p> <p>Eleven genomför designprojekt på ett <strong>i huvudsak fungerande</strong> sätt och väljer med <strong>viss säkerhet</strong> material och industriell produktionsmetod.</p> <p>Eleven skapar med <strong>viss säkerhet</strong> designförslag och visualiserar förslaget med <strong>godtagbart</strong> resultat.</p> <p>Eleven framställer <strong>i huvudsak fungerande</strong> prototyper för simulering och testning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om industriell design och den industriella designprocessens olika delar.</p> <p>Eleven genomför designprojekt på ett <strong>fungerande</strong> sätt och väljer med <strong>säkerhet</strong> material och industriell produktionsmetod.</p> <p>Eleven skapar med <strong>säkerhet</strong> designförslag och visualiserar förslaget med <strong>gott</strong> resultat.</p> <p>Eleven framställer <strong>fungerande</strong> prototyper för simulering och testning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om industriell design och den industriella designprocessens olika delar.</p> <p>Eleven genomför designprojekt på ett <strong>väl fungerande</strong> sätt och väljer med <strong>god säkerhet</strong> material och industriell produktionsmetod.</p> <p>Eleven skapar med <strong>god säkerhet</strong> designförslag och visualiserar förslaget med <strong>mycket gott</strong> resultat.</p> <p>Eleven framställer <strong>väl fungerande</strong> prototyper för simulering och testning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}

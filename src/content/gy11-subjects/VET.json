@@ -1,0 +1,218 @@
+{
+  "code": "VET",
+  "name": "Ventilationsteknik",
+  "englishName": "Ventilation technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:81",
+  "skolfsAndring": "2022:321",
+  "nameHeading": "<h2>Ventilationsteknik</h2>",
+  "description": "<p>Ämnet ventilationsteknik behandlar vikten av ett väl fungerande inomhusklimat och hur ett sådant kan uppnås när det gäller temperatur och ventilation. Det behandlar också på vilket sätt och med vilka hjälpmedel man optimerar driften av klimatanläggningar. Ämnet bygger till viss del på naturvetenskap eftersom mekaniska och termodynamiska faktorer är viktiga för luftbehandling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ventilationsteknik ska syfta till att eleverna utvecklar kunskaper om vad som avses med fungerande ventilation och hur den uppnås. Dessutom ska ämnet leda till att eleverna utvecklar kunskaper om anläggningars uppbyggnad, funktion och konstruktion samt färdigheter i drift och underhåll av olika anläggningstyper. Eleverna ska ges möjlighet att använda lämplig utrustning på ett arbetsmiljöriktigt och ergonomiskt sätt. Vidare ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i enlighet med de krav som arbetslivet ställer. Undervisningen ska leda till att eleverna utvecklar servicekänsla samt kunskaper i den terminologi som gäller inom området.</p><p>Eleverna ska utifrån ritningar och anläggningsdokumentation ges möjlighet att utföra underhålls- och injusteringsarbeten med avsedd utrustning. I undervisningen ska verkliga ventilationsanläggningar eller anläggningar i laborativ miljö användas så att praktiska och teoretiska kunskaper sammankopplas.</p><h4>Undervisningen i ämnet ventilationsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika ventilationstekniska system.</li> <li>Förmåga att planera, organisera och utföra arbetsuppgifter inom området.</li> <li>Förmåga att välja, använda och vårda verktyg, utrustning och material samt att välja och använda arbetsmetoder.</li> <li>Förmåga att använda arbetsbeskrivningar och ritningar.</li> <li>Förmåga att följa lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.</li> <li>Förmåga att samarbeta med andra och använda fackspråk.</li> <li>Förmåga att dokumentera och utvärdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Luftbehandling, 100 poäng. </li> <li>Luftströmning, 200 poäng, som bygger på kursen luftbehandling.</li> <li>Luftbehandlingssystem, 100 poäng, som bygger på kursen luftströmning.</li> <li>Luftbehandlingsanläggningar, 200 poäng, som bygger på kursen luftbehandlingssystem.</li> <li>Ventilationsteknik – injustering, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: VETLUF0</h3>",
+      "code": "VETLUF0",
+      "nameHeading": "<h2>Luftbehandling, 100 poäng</h2>",
+      "name": "Luftbehandling",
+      "englishName": "Air treatment",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen luftbehandling omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Ventilationsteknikens historia och utveckling.</li> <li>Grundläggande principer och förutsättningar för ventilationsteknik och luftbehandling samt grundläggande underhållsrutiner. </li> <li>Luftens egenskaper på en grundläggande nivå.</li> <li>Användning av verktyg, utrustning och material.</li> <li>Ritningsläsning och arbetsbeskrivningar.</li> <li>Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> <li>Metoder för dokumentation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika luftbehandlingssystem. I beskrivningen redogör eleven även <strong>översiktligt</strong> för ventilationsteknikens utveckling. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>visst </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika luftbehandlingssystem. I beskrivningen redogör eleven även <strong>utförligt</strong> för ventilationsteknikens utveckling. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika luftbehandlingssystem. I beskrivningen redogör eleven även <strong>utförligt och nyanserat</strong> för ventilationsteknikens utveckling. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla <strong>och även mer avancerade</strong> arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>mycket gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VETLUS0</h3>",
+      "code": "VETLUS0",
+      "nameHeading": "<h2>Luftströmning, 200 poäng</h2>",
+      "name": "Luftströmning",
+      "englishName": "Air flow",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen luftströmning omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Luftströmning i lokaler.</li> <li>Grundläggande energioptimering.</li> <li>Grundläggande styr- och reglerteknik.</li> <li>Felsökning av ventilationstekniska anläggningar.</li> <li>Ritningsläsning och arbetsbeskrivningar.</li> <li>Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning.</li> <li>Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för luftströmning i lokaler. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>visst </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för luftströmning i lokaler. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för luftströmning i lokaler. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla <strong>och även mer avancerade</strong> arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>mycket gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VETLUE0</h3>",
+      "code": "VETLUE0",
+      "nameHeading": "<h2>Luftbehandlingssystem, 100 poäng</h2>",
+      "name": "Luftbehandlingssystem",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen luftbehandlingssystem omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisning i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Energieffektiva luftbehandlingssystem. </li> <li>Grundläggande drift och underhåll.</li> <li>Fysikaliska begrepp, konstanter och beräkningar.</li> <li>Systemkomponenter i luftbehandlingsanläggningar.</li> <li>Ritningsläsning och arbetsbeskrivningar.</li> <li>Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, EU-direktiv och bestämmelser för brandsäkerhet. Behörigheter för ett säkert arbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika luftbehandlingssystem. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p> <p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>visst </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p> <p>Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika luftbehandlingssystem. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p> <p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p> <p>Eleven samarbetar med andra och använder fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika luftbehandlingssystem. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p> <p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla <strong>och även mer avancerade</strong> arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>mycket gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p> <p>Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och</strong> <strong>utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VETLUT0</h3>",
+      "code": "VETLUT0",
+      "nameHeading": "<h2>Luftbehandlingsanläggningar, 200 poäng</h2>",
+      "name": "Luftbehandlingsanläggningar",
+      "englishName": "Air handling facilities",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen luftbehandlingsanläggningar omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Drift och underhåll av luftbehandlingsanläggningar.</li> <li>Luftflödes- och ljudmätningar av luftbehandlingsanläggningar.</li> <li>Luftbehandlingsanläggningars optimering efter byggnadens energi- och klimatbehov.</li> <li>Mätningar av verkningsgrad för värmeåtervinning samt specifik fläkteffekt, SFP.</li> <li>Ritningsläsning och arbetsbeskrivningar.</li> <li>Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter och EU-direktiv. Behörigheter för ett säkert arbete.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika luftbehandlingsanläggningar samt byggnaders energibehov. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>visst </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika luftbehandlingsanläggningar samt byggnaders energibehov. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika luftbehandlingsanläggningar samt byggnaders energibehov. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla <strong>och även mer avancerade</strong> arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>mycket gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och</strong> <strong>utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: VETVEL0</h3>",
+      "code": "VETVEL0",
+      "nameHeading": "<h2>Ventilationsteknik – injustering, 100 poäng</h2>",
+      "name": "Ventilationsteknik – injustering",
+      "englishName": "Ventilation technology – adjusting",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen ventilationsteknik – injustering omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 2.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande injustering av luftbehandlingssystem.</li> <li>Grundläggande temperatur- och luftflödesmätningar.</li> <li>Kanalsystem, kanaler och kanaldetaljer.</li> <li>Fläktar på en grundläggande nivå.</li> <li>Tryckfall och strömningsförluster.</li> <li>Ritningsläsning och arbetsbeskrivningar.</li> <li>Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning.</li> <li>Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> grundläggande principer för olika injusteringsmetoder. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>i samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>enkel</strong> riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>visst </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>i samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>enkelt </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>enkel</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>enkla </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> grundläggande principer för olika injusteringsmetoder. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla arbetsuppgifter. Inför arbetsuppgiften gör eleven en riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med viss säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> grundläggande principer för olika injusteringsmetoder. Dessutom beskriver eleven översiktligt ventilationsyrkets olika krav och villkor.</p><p>Eleven planerar och organiserar <strong>efter samråd </strong>med handledare enkla <strong>och även mer avancerade</strong> arbetsuppgifter. Inför arbetsuppgiften gör eleven en <strong>välgrundad </strong>riskbedömning och anpassar sin planering vid behov. Vidare väljer eleven <strong>med säkerhet </strong>arbetsmetoder, verktyg, utrustning och material som passar för uppgiften med hänsyn till arbetsbeskrivningar och ritningar. Eleven utför arbetsuppgiften med <strong>mycket gott </strong>handlag och med ett resultat som uppfyller fastställda kvalitetskrav. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt följer lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling. Under arbetet upptäcker eleven eventuella problem som uppkommer och löser dem <strong>efter samråd </strong>med handledare.</p><p>Eleven samarbetar med andra och använder <strong>nyanserat </strong>fackspråk. När arbetsuppgiften är utförd gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Dessutom utvärderar eleven sitt arbete och resultat med <strong>nyanserade </strong>omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.198Z"
+}

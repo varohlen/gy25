@@ -1,0 +1,92 @@
+{
+  "code": "INDE",
+  "name": "Industritekniska processer",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:9",
+  "nameHeading": "<h2>Industritekniska processer</h2>",
+  "description": "<p>Det industritekniska området är under ständig utveckling och har betydelse för stora delar av samhällets utveckling. Ämnet industritekniska processer behandlar arbete i produktionsprocesser och hur produktionsutrustning kopplas samman till produktionslinjer inom industriteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industritekniska processer ska syfta till att eleverna utvecklar förmåga att utföra vanliga arbetsuppgifter inom industritekniska processer i enlighet med gällande säkerhetsföreskrifter. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om hur produktionsutrustning kopplas ihop till produktionslinjer. Inom industriteknisk produktion är det viktigt att undvika driftstopp och att säkerställa kvalitet på utfört arbete. Därför ska undervisningen bidra till att eleverna utvecklar kunskaper om kvalitetssäkring i den industritekniska processen samt förmåga att utföra enklare underhåll av utrustning. Den ska också ge eleverna möjlighet att utveckla kunskaper om råvaror och material.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att ta ställning i frågor om miljöpåverkan kopplat till industritekniska processer. Eleverna ska också ges möjlighet att utveckla kunskaper om begrepp som används inom ämnesområdet samt förmåga att kommunicera och samarbeta med människor i alla led i den industritekniska processen.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla färdigheter i att hantera produktionsutrustning i produktionslinjerna, och därför ska praktiska övningar ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet industritekniska processer ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att utföra arbetsuppgifter inom industritekniska processer.</li> <li>Förmåga att utföra enklare underhåll på industriteknisk processutrustning.</li> <li>Förmåga att arbeta på ett säkert sätt utifrån rutiner och i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utvärdera utfört arbete.</li> <li>Kunskaper om kvalitet och provtagning i den industritekniska processen.</li> <li>Kunskaper om råvaror och material samt hur de förädlas till färdiga produkter i den industritekniska processen.</li> </ul><h3>Nivåer i ämnet industritekniska processer</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet produktionsutrustning.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDE1000X</h3>",
+      "code": "INDE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industritekniska processer på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Industritekniska processer och underhåll</em></p> <ul> <li>Planering av arbete i industritekniska processer.</li> <li>Grundläggande övervakning, styrning och reglering av utrustning i industritekniska processer samt tolkning av processcheman.</li> <li>Sammankoppling av produktionsutrustning till produktionslinjer samt vilka de olika enheterna är och vad som händer i dem.</li> <li>Korrigering av fel i produktionen.</li> <li>Driftsäkerhet samt förebyggande och avhjälpande underhåll i industritekniska processer.</li> <li>Tillvägagångssätt vid provtagningar samt i vilket skede i processen de görs.</li> <li>Faktorer som påverkar val och användning av lämpliga mätmetoder.</li> <li>Grundläggande analysmetoder inom industritekniska processer.</li> <li>Lagar och andra bestämmelser om arbetsmiljö och säkerhet inom området.</li> <li>Säkert och miljömässigt arbete i enlighet med säkerhetsrutiner och säkerhetsföreskrifter.</li> </ul> <p><em>Kvalitet och resultat</em></p> <ul> <li>Definition av kvalitet och dess innebörd för industritekniska processer och produktionsresultat.</li> <li>Bedömning av kvaliteten och resultatet på det utförda arbetet.</li> <li>Grundläggande begrepp och uttryck inom området för att kommunicera om arbetsprocesser och resultat.</li> </ul> <p><em>Råvaror, material och miljö</em></p> <ul> <li>Vägen för råvaror och material till färdiga produkter genom olika förädlingssteg.</li> <li>Uppbyggnad och egenskaper hos råvaror, färdiga produkter och restprodukter, hur de hanteras samt relaterade hälsorisker.</li> <li>Industritekniska processers påverkan på miljön samt åtgärder för att minimera miljöpåverkan.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDE2000X</h3>",
+      "code": "INDE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industritekniska processer på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Industritekniska processer och underhåll</em></p> <ul> <li>Planering av arbete i industritekniska processer.</li> <li>Övervakning, styrning och reglering av utrustning i industritekniska processer samt tolkning av processcheman.</li> <li>Sammankoppling av produktionsutrustning till produktionslinjer, vilka de olika enheterna är, vad som händer i dem, varför de olika enheterna behövs och varför de kommer i en viss ordning.</li> <li>Enheternas funktioner och flöden samt deras sammankoppling och hur material förflyttas mellan enheterna.</li> <li>Journalföring samt felsökning och korrigering av fel i produktionen.</li> <li>Driftsäkerhet samt förebyggande, avhjälpande och korrigerande underhåll i industritekniska processer.</li> <li>Tillvägagångssätt vid provtagningar samt i vilket skede i processen de görs.</li> <li>Faktorer som påverkar val och användning av mätmetoder.</li> <li>Analysmetoder och dokumentationskrav inom industritekniska processer.</li> <li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området, däribland säkerhetsrutiner och säkerhetsföreskrifter. Riskbedömning i samband med arbetsuppgifter.</li> </ul> <p><em>Kvalitet och resultat</em></p> <ul> <li>Kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat.</li> <li>Bedömning av kvaliteten och resultatet på det utförda arbetet.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocesser och resultat.</li> </ul> <p><em>Råvaror, material och miljö</em></p> <ul> <li>Vägen för råvaror och material till färdiga produkter genom olika förädlingssteg.</li> <li>Uppbyggnad och egenskaper hos råvaror, färdiga produkter, restprodukter och halvfabrikat, hur de hanteras samt relaterade hälsorisker.</li> <li>Miljölagstiftning och dess påverkan på specifika processer.</li> <li>Åtgärder för att minimera produktionsprocessens påverkan på miljön.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDE3000X</h3>",
+      "code": "INDE3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industritekniska processer på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Industritekniska processer och underhåll</em></p> <ul> <li>Planering av arbete i industritekniska processer.</li> <li>Övervakning, styrning och reglering av utrustning i industritekniska processer samt tolkning av processcheman inom valt industritekniskt område.</li> <li>Sammankoppling av vald produktionsutrustning till produktionslinjer, vilka de olika enheterna är, vad som händer i dem, varför de olika enheterna behövs, varför de kommer i en viss ordning, hur de är sammankopplade och hur materialet förflyttas mellan dem.</li> <li>Enheternas funktioner och flöden samt optimering av processen.</li> <li>Journalföring samt felsökning, redovisning och korrigering av fel i produktionen.</li> <li>Provtagning och omarbetning i den industritekniska processen.</li> <li>Driftsäkerhet samt förebyggande, avhjälpande och korrigerande underhåll i industritekniska processer.</li> <li>Underhållets betydelse för industritekniska processer.</li> <li>Tillvägagångssätt vid provtagningar samt i vilket skede i processen de görs.</li> <li>Faktorer som påverkar val och användning av mätmetoder.</li> <li>Analysmetoder och dokumentationskrav inom industritekniska processer.</li> <li>Hantering och bedömning av provresultat enligt bestämmelser för toleransvärden.</li> <li>Förädlingsvärden inom industritekniska processer.</li> <li>Säkert och miljömässigt arbete i enlighet med lagar och andra bestämmelser inom området, däribland säkerhetsrutiner och säkerhetsföreskrifter.</li> <li>Riskbedömning samt analys av konsekvenser vid bristande arbetsmiljö.</li> </ul> <p><em>Kvalitet och resultat</em></p> <ul> <li>Systematiskt kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat.</li> <li>Bedömning av kvaliteten och resultatet på det utförda arbetet samt förbättringar i arbetsprocessen.</li> <li>Kommunikation och samarbete mellan människor i olika led i den industritekniska processen för att kommunicera om arbetsprocesser och resultat.</li> </ul> <p><em>Råvaror, material och miljö</em></p> <ul> <li>Vägen för råvaror och material till färdiga produkter genom olika förädlingssteg.</li> <li>Uppbyggnad och egenskaper hos råvaror, färdiga produkter, restprodukter, halvfabrikat och alternativa råvaror, hur de hanteras samt relaterade hälsorisker.</li> <li>Miljölagstiftningens påverkan på specifika processer.</li> <li>Åtgärder för att minimera produktionsprocessens påverkan på miljön samt alternativa produktionsmetoder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och utför övervakning, styrning och reglering av industritekniska processer med <strong>viss säkerhet</strong>.</p> <p>Eleven genomför underhållsarbeten på industriteknisk processutrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om kvalitet och provtagning i industritekniska processer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om råvarors och restprodukters egenskaper och hälsorisker. Dessutom beskriver eleven vägen för råvaror och material till färdiga produkter på ett <strong>godtagbart</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och utför övervakning, styrning och reglering av industritekniska processer med <strong>säkerhet</strong>.</p> <p>Eleven genomför underhållsarbeten på industriteknisk processutrustning med <strong>säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om kvalitet och provtagning i industritekniska processer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om råvarors och restprodukters egenskaper och hälsorisker. Dessutom beskriver eleven vägen för råvaror och material till färdiga produkter på ett <strong>gott</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och utför övervakning, styrning och reglering av industritekniska processer med <strong>god säkerhet</strong>.</p> <p>Eleven genomför underhållsarbeten på industriteknisk processutrustning med <strong>god säkerhet</strong>.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven utvärderar sitt arbete med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om kvalitet och provtagning i industritekniska processer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om råvarors och restprodukters egenskaper och hälsorisker. Dessutom beskriver eleven vägen för råvaror och material till färdiga produkter på ett <strong>mycket gott</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}

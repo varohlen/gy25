@@ -1,48 +1,81 @@
-# Astro Starter Kit: Basics
+# GY25 - Utforska den nya gymnasiereformen
 
-```sh
-npm create astro@latest -- --template basics
+En webbapplikation för att utforska och förstå den nya gymnasiereformen GY25. Projektet är byggt med [Astro](https://astro.build) och hämtar data direkt från Skolverkets API.
+
+## Funktioner
+
+- **Ämnesöversikt**: Bläddra genom alla ämnen i GY25
+- **Nivåöversikt**: Se alla nivåer (tidigare kurser) listade
+- **Sökfunktion**: Sök bland ämnen och nivåer
+- **Jämförelse**: Jämför ämnen mellan GY11 och GY25
+- **Automatisk uppdatering**: Data hämtas direkt från Skolverket
+
+## Teknisk översikt
+
+Projektet använder följande teknologier:
+
+- [Astro](https://astro.build) - Web framework
+- [Tailwind CSS](https://tailwindcss.com) - Styling
+- [TypeScript](https://www.typescriptlang.org) - Type safety
+- Skolverkets API - Data source
+
+## Utveckling
+
+### Förutsättningar
+
+- Node.js 18 eller senare
+- npm
+
+### Installation
+
+1. Klona repot
+```bash
+git clone https://github.com/varohlen/gy25.git
+cd gy25
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+2. Installera dependencies
+```bash
+npm install
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+3. Starta utvecklingsservern
+```bash
+npm run dev
+```
 
-## 🧞 Commands
+### Kommandon
 
-All commands are run from the root of the project, from a terminal:
+| Kommando                  | Funktion                                         |
+| :----------------------- | :----------------------------------------------- |
+| `npm install`            | Installera dependencies                          |
+| `npm run dev`            | Starta utvecklingsserver på `localhost:4321`     |
+| `npm run build`          | Bygg produktionsversion till `./dist/`           |
+| `npm run preview`        | Förhandsgranska byggd sida lokalt               |
+| `npm run fetch-data`     | Uppdatera data från Skolverkets API             |
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Bidra
 
-## 👀 Want to learn more?
+Bidrag är välkomna! Om du vill bidra:
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+1. Forka repot
+2. Skapa en feature branch (`git checkout -b feature/AmazingFeature`)
+3. Committa dina ändringar (`git commit -m 'Add some AmazingFeature'`)
+4. Pusha till branchen (`git push origin feature/AmazingFeature`)
+5. Öppna en Pull Request
+
+## Licens
+
+Detta projekt är licensierat under MIT License - se [LICENSE](LICENSE) filen för detaljer.
+
+## Skapare
+
+**Viktor Arohlén**
+
+- Webbsida: [arohlen.se](https://arohlen.se)
+- GitHub: [@varohlen](https://github.com/varohlen)
+
+## Relaterade projekt
+
+- [Summor.se](https://summor.se) - Sammanfattningar i gymnasiekurser
+- [Tallinje.se](https://tallinje.se) - Interaktiv tallinje för matematikundervisning

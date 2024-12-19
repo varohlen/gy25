@@ -1,0 +1,78 @@
+{
+  "code": "CAMA",
+  "name": "Cam",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:187",
+  "nameHeading": "<h2>Cam</h2>",
+  "description": "<p>Det industrialiserade samhället förutsätter fungerandeteknisk utrustning vid tillverkning av produkter. Ämnet cam (computer aided manufacturing) behandlar teknik och metoder för datorstödd tillverkning, från generering av programkod till kontroll av datorstödd utrustning och bedömning av slutprodukten.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cam ska syfta till att eleverna utvecklar förmåga att tillverka produkter med hjälp av datorstödd utrustning. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att generera programkod för datorstödd tillverkning och föra över cam-resultatet till datorstyrd utrustning. Undervisningen ska bidra till att stimulera elevernas intresse för den datorstödda produktionens utveckling.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att utföra kontroller och bedöma avvikelser i den datorstyrda utrustningen. Att tillverka produkter med rätt kvalitet är viktigt inom industriteknisk produktion och undervisningen ska därför leda till att eleverna utvecklar förmåga att kvalitetsbedöma slutprodukten. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur olika faktorer påverkar produktens kvalitet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt med säkerhet utifrån säkerhetsföreskrifter. Undervisningen ska dessutom bidra till att eleverna utvecklar förståelse för vikten av att arbeta strukturerat, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion. Undervisningen ska ge eleverna möjlighet att samverka och kommunicera med människor i alla led i produktionen.</p> <h5><em>Undervisningen i ämnet cam ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att arbeta med datorstödd tillverkning.</li> <li>Förmåga att utföra kontroller i datorstyrd utrustning.</li> <li>Förmåga att bedöma kvaliteten på slutprodukten samt att dokumentera arbetsprocess och resultat.</li> <li>Förmåga att arbeta säkert i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet cam</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CAMA1000X</h3>",
+      "code": "CAMA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cam på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Datorstödd tillverkning</em></p> <ul> <li>Generering av koder och överföring av cam-resultat till datorstyrd utrustning.</li> <li>Iordningställande av utrustning för bearbetning.</li> <li>Tolkning av instruktioner, kravspecifikationer och tillverkningsunderlag.</li> <li>Kontroll och bedömning av eventuella avvikelser från specifikationen.</li> <li>Förebyggande åtgärder i tillverkningen som säkerställer slutresultatets kvalitet.</li> </ul> <p><em>Resultat och dokumentation</em></p> <ul> <li>Faktorer som påverkar produktens kvalitet, till exempel utrustning och material.</li> <li>Kontroll och bedömning av slutproduktens funktion och kvalitet.</li> <li>Grundläggande begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> <li>Enkel dokumentation av arbetsprocessen och resultatet.</li> </ul> <p><em>Säkerhet och bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och instruktioner.</li> <li>Tillämpning av ergonomiska arbetsmetoder.</li> <li>Metoder för struktur, ordning och effektiv arbetsmiljö.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: CAMA2000X</h3>",
+      "code": "CAMA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cam på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Datorstödd tillverkning</em></p> <ul> <li>Generering av koder, överföring av cam-resultat till datorstyrd utrustning och anpassning av programmet.</li> <li>Iordningställande av utrustning för bearbetning.</li> <li>Justering och komplettering av program och inställningar, till exempel inför implementering av programkod i utrustningen.</li> <li>Tolkning av instruktioner, kravspecifikationer och tillverkningsunderlag.</li> <li>Kontroll, bedömning och dokumentation av eventuella avvikelser från specifikationen.</li> <li>Rotorsaksanalys på kvalitetsdefekter.</li> <li>Förebyggande åtgärder i tillverkningen som säkerställer slutresultatets kvalitet.</li> </ul> <p><em>Resultat och dokumentation</em></p> <ul> <li>Faktorer som påverkar produktens kvalitet, till exempel arbetsmetoder och tekniker.</li> <li>Kontroll, bedömning och dokumentation av slutproduktens funktion och kvalitet.</li> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> <li>Dokumentation av arbetsprocessen och resultatet.</li> </ul> <p><em>Säkerhet och bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland säkerhetsföreskrifter och instruktioner.</li> <li>Tillämpning av ergonomiska arbetsmetoder.</li> <li>Metoder för struktur, ordning och effektiv arbetsmiljö.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven arbetar med datorstödd tillverkning med <strong>viss säkerhet</strong>.</p> <p>Eleven utför kontroller i datorstyrd utrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven bedömer produktens kvalitet med <strong>viss säkerhet</strong>. Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven arbetar med datorstödd tillverkning med <strong>säkerhet</strong>.</p> <p>Eleven utför kontroller i datorstyrd utrustning med <strong>säkerhet</strong>.</p> <p>Eleven bedömer produktens kvalitet med <strong>säkerhet</strong>. Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven arbetar med datorstödd tillverkning med <strong>god säkerhet</strong>.</p> <p>Eleven utför kontroller i datorstyrd utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven bedömer produktens kvalitet med <strong>god säkerhet</strong>. Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.979Z"
+}

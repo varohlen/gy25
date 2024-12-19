@@ -1,0 +1,78 @@
+{
+  "code": "ELET",
+  "name": "Elektronikproduktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:208",
+  "nameHeading": "<h2>Elektronikproduktion</h2>",
+  "description": "<p>Elektronik är centralt för att viktiga funktioner i samhället ska fungera, bland annat transporter, banker och medicinsk utrustning. Elektronik kan produceras genom manuella och automatiserade moment och metoder. Ämnet elektronikproduktion behandlar tillverkning av elektronik från beredning till slutlig produkt. I ämnet behandlas även de moment som ingår i processen samt de skydd mot elektrostatisk urladdning (ESD-skydd) som gäller vid arbetet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar förmåga att utföra de olika momenten inom elektronikproduktion. I detta ingår planering och beredning av produktionsmoment samt montering och lödning av komponenter. Undervisningen ska bidra till att eleverna utvecklar färdigheter i att testa färdiga kretskort och system samt förmåga att felsöka och utföra mätningar. Eleverna ska också ges möjlighet att utveckla kunskaper om utrustning och klädsel som utgör förutsättningar för ett säkert och hållbart arbetssätt. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om standarder, lagar och andra bestämmelser inom området. Även dokumentation, analys och uppföljning ingår, liksom terminologi för utrustning och komponenter i systemet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda mätinstrument samt tolka och använda manualer och andra relevanta dokument på både svenska och engelska. Dessutom ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom elektronikproduktion.</p> <p>Genom ett undersökande arbetssätt med praktiska övningar ska eleverna ges möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet elektronikproduktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om produktionsmetoder för tillverkning av kretskort.</li> <li>Förmåga att planera och bereda produktionsmoment vid tillverkning av kretskort.</li> <li>Förmåga att montera och löda komponenter i elektronikenheter.</li> <li>Förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller i en miljö med ESD-skydd.</li> <li>Förmåga att använda mätinstrument med tillhörande mätmetod samt dokumentera och analysera mätresultat.</li> <li>Förmåga att tolka och använda manualer och andra dokument som används vid elektronikproduktion.</li> </ul><h3>Nivåer i ämnet elektronikproduktion</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet ellära.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ELET1000X</h3>",
+      "code": "ELET1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elektronikproduktion på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Grundläggande moment och metoder som ingår vid produktion av kretskort.</li> <li>Begrepp och metoder samt komponenter och utrustning vid beredning och planering av manuella moment vid produktion av kretskort.</li> <li>Standarder, lagar och andra bestämmelser inom området samt kvalitetsarbete som gäller manuell produktion.</li> <li>Manuell lödning för montering och reparation av elektronik.</li> <li>Utrustning och klädsel i en miljö med ESD-skydd.</li> <li>Olika typer av mätinstrument för manuell testning och kontroll av kretskort eller elektronikenhet.</li> <li>Provning och kontroll av kretskort eller elektronikenheter.</li> <li>Specifikation av test där instruktioner och schemaunderlag ingår i anvisningarna.</li> <li>Metodik vid testning och felsökning.</li> <li>Underhåll av testutrustning som utsätts för slitage vid testning.</li> <li>Elsäkerhet vid testningar och mätningar på ett elektroniksystem.</li> <li>Analys och dokumentation av mätresultat.</li> <li>Dokumentation och standarder vid mätning, testning och analys av mätresultat.</li> <li>Tolkning och användning av manualer och andra dokument på både svenska och engelska.</li> <li>Miljömässig hållbarhet inom elektronikproduktion.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ELET2000X</h3>",
+      "code": "ELET2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet elektronikproduktion på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Automation och maskiner som används vid produktion av kretskort.</li> <li>Begrepp, metoder och komponenter vid planering och beredning av maskiner för manuell och automatiserad produktion av kretskort.</li> <li>Standarder, lagar och andra bestämmelser inom området samt kvalitetsarbete som gäller manuell och automatiserad produktion.</li> <li>Manuell lödning för montering och reparation av elektronik samt metoder för lödning i maskiner med automatisk förbindningsteknik. Material som är tillåtna vid lödprocessen.</li> <li>Risker och konsekvenser med bristande ESD-skydd.</li> <li>Mätinstrument och metoder samt maskiner för automatiska test, automatisk mätning och automatisk avsyning av kretskort.</li> <li>Automatisk testning och mätning av kretskort.</li> <li>Analys och dokumentation av mätresultat.</li> <li>Automatiska moment, däribland hur testprogramvara används för kontroll av ett elektroniksystem.</li> <li>Dokumentöversikt och hantering av revisioner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för produktionsmetoder vid tillverkning av kretskort.</p> <p>Eleven planerar och bereder med <strong>viss säkerhet</strong> olika produktionsmoment.</p> <p>Eleven utför med <strong>viss skicklighet</strong> montering och lödning av komponenter.</p> <p>Eleven utför praktiskt arbete i enlighet med de lagar och andra bestämmelser som reglerar en miljö med ESD-skydd.</p> <p>Eleven använder mätinstrument med <strong>viss säkerhet</strong> och gör en <strong>enkel</strong> dokumentation av mätresultatet. Dessutom gör eleven en <strong>enkel</strong> analys av mätresultatet.</p> <p>Eleven använder manualer och andra dokument inom området med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för produktionsmetoder vid tillverkning av kretskort.</p> <p>Eleven planerar och bereder med <strong>säkerhet</strong> olika produktionsmoment.</p> <p>Eleven utför med <strong>god skicklighet</strong> montering och lödning av komponenter.</p> <p>Eleven utför praktiskt arbete i enlighet med de lagar och andra bestämmelser som reglerar en miljö med ESD-skydd.</p> <p>Eleven använder mätinstrument med <strong>säkerhet</strong> och gör en <strong>noggrann</strong> dokumentation av mätresultatet. Dessutom gör eleven en <strong>utvecklad</strong> analys av mätresultatet.</p> <p>Eleven använder manualer och andra dokument inom området med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för produktionsmetoder vid tillverkning av kretskort.</p> <p>Eleven planerar och bereder med <strong>god säkerhet</strong> olika produktionsmoment.</p> <p>Eleven utför med <strong>mycket god skicklighet</strong> montering och lödning av komponenter.</p> <p>Eleven utför praktiskt arbete i enlighet med de lagar och andra bestämmelser som reglerar en miljö med ESD-skydd.</p> <p>Eleven använder mätinstrument med <strong>god säkerhet</strong> och gör en <strong>noggrann och utförlig</strong> dokumentation av mätresultatet. Dessutom gör eleven en <strong>välutvecklad</strong> analys av mätresultatet.</p> <p>Eleven använder manualer och andra dokument inom området med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.987Z"
+}

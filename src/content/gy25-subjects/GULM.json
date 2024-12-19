@@ -1,0 +1,92 @@
+{
+  "code": "GULM",
+  "name": "Guldsmed – specialteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:302",
+  "nameHeading": "<h2>Guldsmed – specialteknik</h2>",
+  "description": "<p>Guldsmedsyrket är ett hantverksyrke med lång tradition. Ämnet guldsmed – specialteknik behandlar specialtekniker vid tillverkning av smycken.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet guldsmed – specialteknik ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i processen för tillverkning av smycken. Det innebär att visualisera genom teknisk ritning, planera arbetet, välja lämpliga material och tekniker, utföra arbetet samt att utvärdera arbetsprocessen och analysera resultatet. Undervisningen ska stimulera elevernas självständighet samt utveckla deras idérikedom, personliga ansvarstagande, egna drivkraft och skaparglädje. Undervisningen ska ge eleverna möjlighet att utveckla konstnärlighet och noggrannhet i arbetet.</p> <p>Genom undervisningen ska eleverna ges rika möjlighet att träna olika specialtekniker vid tillverkning av smycken. Eleverna ska också ges möjlighet att använda sina teoretiska kunskaper om arbetsprocess, tekniker, verktyg och material i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet guldsmed – specialteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att genomföra guldsmedsarbete med användning av specialtekniker.</li> <li>Förmåga att använda tekniker för juvelfattning.</li> <li>Kunskaper om ädelstenar.</li> <li>Förmåga att utföra tekniska ritningar.</li> <li>Förmåga att utvärdera och analysera resultatet av arbetet.</li> </ul><h3>Nivåer i ämnet guldsmed – specialteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet guldsmed – fördjupning.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GULM1000X</h3>",
+      "code": "GULM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – specialteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetet och utförande av varierade yrkesmässiga specialtekniker vid tillverkning av smycken i egen design, till exempel granulering, formning, inpassning, smide, bockning och charner.</li> <li>Tillverkning av smycken i egen design.</li> <li>Reparation av smycken med användning av lasersvets.</li> <li>Formgivning av egna smycken, däribland med användning av cad (computer aided design).</li> <li>Tillverkning av vaxmodeller som används för gjutning, till exempel med användning av cad och 3D-skrivare.</li> <li>Juvelfattning, till exempel riven fattning.</li> <li>Gemmologi. Olika stenars hårdhet samt deras användningsområden inom guldsmide.</li> <li>Skapande av tekniska ritningar.</li> <li>Betydelsen av rätt prissättning av guldsmedsarbeten.</li> <li>Utvärdering och analys av arbetsprocessen med förslag på hur arbetet kan förbättras.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULM2000X</h3>",
+      "code": "GULM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – specialteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetet och utförande av varierade yrkesmässiga specialtekniker vid tillverkning av smycken i egen design, till exempel gravyr, hårdlödning och trådarbete.</li> <li>Tillverkning av smycken i egen design.</li> <li>Formgivning av egna smycken, däribland med användning av cad (computer aided design).</li> <li>Tillverkning av vaxmodeller som används för gjutning, till exempel med användning av cad och 3D-skrivare.</li> <li>Juvelfattning, till exempel stjärnstick.</li> <li>Gemmologi. Vanliga ädelstenar, samt deras värde i relation till storlek och kvalitet.</li> <li>Skapande av detaljerade tekniska ritningar.</li> <li>Betydelsen av rätt prissättning av guldsmedsarbeten.</li> <li>Utvärdering och analys av arbetsprocess.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GULM3000X</h3>",
+      "code": "GULM3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet guldsmed – specialteknik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Planering av arbetet och utförande av varierade yrkesmässiga specialtekniker vid tillverkning av smycken i egen komplex design, till exempel colorit, emaljering och trådarbete.</li> <li>Tillverkning av smycken i egen komplex design.</li> <li>Formgivning av egna smycken, däribland med användning av cad (computer aided design).</li> <li>Tillverkning av vaxmodeller som används för gjutning, till exempel med användning av cad och 3D-skrivare.</li> <li>Juvelfattning, till exempel faden och carré.</li> <li>Gemmologi. Odlade pärlor och sötvattenspärlor samt deras värde i relation till kvalitet och storlek.</li> <li>Skapande av detaljerade tekniska ritningar för vidareutveckling av idéer.</li> <li>Betydelsen av rätt prissättning av guldsmedsarbeten.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven genomför guldsmedsarbete med <strong>godtagbart</strong> resultat samt använder med <strong>viss</strong> skicklighet specialtekniker.</p> <p>Eleven använder tekniker för juvelfattning med <strong>viss säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ädelstenar.</p> <p>Eleven utför tekniska ritningar med <strong>viss säkerhet</strong>.</p> <p>Eleven utvärderar och analyserar resultatet av arbetet med <strong>enkla</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven genomför guldsmedsarbete med <strong>gott</strong> resultat samt använder med <strong>god</strong> skicklighet specialtekniker.</p> <p>Eleven använder tekniker för juvelfattning med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ädelstenar.</p> <p>Eleven utför tekniska ritningar med <strong>säkerhet</strong>.</p> <p>Eleven utvärderar och analyserar resultatet av arbetet med <strong>välgrundade</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven genomför guldsmedsarbete med <strong>mycket gott</strong> resultat samt använder med <strong>mycket god</strong> skicklighet specialtekniker.</p> <p>Eleven använder tekniker för juvelfattning med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ädelstenar.</p> <p>Eleven utför tekniska ritningar med <strong>god säkerhet</strong>.</p> <p>Eleven utvärderar och analyserar resultatet av arbetet med <strong>välgrundade och nyanserade</strong> omdömen samt ger förslag på hur arbetet kan förbättras.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.010Z"
+}

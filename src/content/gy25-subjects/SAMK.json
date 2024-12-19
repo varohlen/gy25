@@ -1,0 +1,92 @@
+{
+  "code": "SAMK",
+  "name": "Samiskt hantverk",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:343",
+  "nameHeading": "<h2>Samiskt hantverk</h2>",
+  "description": "<p>Ämnet samiskt hantverk behandlar tillverkning av redskap, bruksföremål och konsthantverk. Det behandlar traditionella och moderna hantverkstekniker, material, verktyg, maskiner och annan utrustning inom det hantverksområde som eleven har valt. Det behandlar också yrkesetik under arbetsprocessen och resultatets kvalitet. Ämnet behandlar även hantverkets betydelse som näring, binäring, kulturbärare och identitetsskapare i det samiska samhället samt av dess symbolvärde för den samiska identiteten, livsstilen och levnadssättet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet samiskt hantverk ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i hantverksprocessen från idé till färdig produkt. Undervisningen ska bidra till att eleverna utvecklar förmåga att planera med skiss eller ritning, välja lämpliga material och tekniker samt att utvärdera resultatet av arbetet. Undervisningen ska stimulera elevernas initiativförmåga, idérikedom, självständighet, personliga ansvarstagande, samarbetsförmåga, egen drivkraft och skaparglädje. Genom undervisningen ska eleverna ges möjlighet att utveckla ett kreativt tänkande, ett estetiskt förhållningssätt och känsla för form. Undervisningen ska därför bidra till att eleverna utvecklar såväl kunskaper om färg och form som färdigheter i design och formgivning.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att använda traditionella och nya material och tekniker inom valt hantverksområde samt färdigheter i att använda verktyg och maskiner. Den ska också bidra till att eleverna utvecklar förmåga att sköta och underhålla verktyg, material och maskiner. Eleverna ska därigenom ges möjlighet att utveckla förståelse av sambandet mellan regelbundet underhåll utifrån säkerhetsaspekter och hög kvalitet i hantverket. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda ergonomiska och miljömässigt hållbara arbetssätt samt att värdera risker och vidta förebyggande säkerhetsåtgärder.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av värdet i att bevara och utveckla det samiska hantverket samt av hantverkets betydelse för samiskt kultur- och näringsliv. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda fackspråk och samisk terminologi som ett hjälpmedel för att förstå och beskriva det samiska hantverket både i nutid och i historisk tid.</p> <p>I undervisningen ska eleverna ges rikligt med tillfällen till färdighetsträning inom valt hantverksområde. Vidare ska eleverna ges möjlighet att reflektera över och samtala om det valda hantverksområdet samt att använda fackspråk och samisk terminologi.</p> <h5><em>Undervisningen i ämnet samiskt hantverk ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om färg- och formlära samt om samiska ortskaraktärer och symboler.</li> <li>Förmåga att välja och använda lämpliga material, tekniker, verktyg och maskiner.</li> <li>Förmåga att planera arbetet samt att utvärdera och dokumentera arbetsprocess och resultat.</li> <li>Förmåga att sköta och underhålla material, verktyg och maskiner.</li> <li>Förmåga att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet.</li> <li>Förmåga att använda fackspråk och samisk terminologi.</li> </ul><h3>Nivåer i ämnet samiskt hantverk</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SAMK1000X</h3>",
+      "code": "SAMK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet samiskt hantverk på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Traditionella produkter och deras utformning i olika delar av Sápmi.</li> <li>Färg och form.</li> <li>Grundläggande materialkunskap inom valt hantverksområde.</li> <li>Traditionella redskap, arbetsmetoder, maskiner och tekniker.</li> <li>Materialberäkning och organisering samt planering av tidsåtgång.</li> <li>Skisser och mönster till olika samiska hantverksprodukter inom valt hantverksområde.</li> <li>Utvärdering av arbetsprocess och resultat.</li> <li>Hantering, underhåll och skötsel av maskiner och verktyg.</li> <li>Grundläggande hantering och vård av slöjdmaterial.</li> <li>Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning.</li> <li>Miljöhänsyn i arbetet, till exempel återbruk och materialåtervinning.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet.</li> <li>Fackspråk och samisk terminologi inom området.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAMK2000X</h3>",
+      "code": "SAMK2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet samiskt hantverk på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Färgers, formers och proportioners betydelse vid planering av produkter.</li> <li>Samiskt symbolspråk.</li> <li>Materialinsamling samt hantering och kvalitetsbedömning av material.</li> <li>Materialets ursprung, uppbyggnad och tillväxt.</li> <li>Planering och organisation av slöjdande enligt traditionella former, skisser och tekniker.</li> <li>Kreativt tänkande och arbetsmetodik i samiskt hantverk.</li> <li>Bedömning av produktens kvalitet och estetiska värde.</li> <li>Beskrivning och dokumentation av idéer och arbetsprocesser med hjälp av fackspråk och samisk terminologi.</li> <li>Ekonomiska beräkningar.</li> <li>Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.</li> <li>Hantering och bearbetning av slöjdmaterial.</li> <li>Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning i samband med aktuella arbetsuppgifter.</li> <li>Miljöhänsyn i arbetet, till exempel återbruk och materialåtervinning.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet.</li> <li>Traditionella samiska måttenheter samt internationella måttenheter och standarder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SAMK3000X</h3>",
+      "code": "SAMK3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet samiskt hantverk på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Analys av färg, form och proportioner samt konstnärliga överväganden vad gäller uttryck, stil och funktion.</li> <li>Val av traditionellt material till samiskt hantverk och metoder för insamling med hänsyn till natur och miljö.</li> <li>Materialkunskap i samband med framställning, förädling och skötsel med utgångspunkt i materialets egenskaper och användningsområden.</li> <li>Val av form, färg, material och metoder samt verktyg, maskiner och redskap till egna samiska hantverksprodukter.</li> <li>Slöjd enligt traditionella former, skisser och tekniker i enlighet med normer och kvalitetskriterier.</li> <li>Organisering och produktionsplanering, däribland material-, tids- och kostnadskalkyler.</li> <li>Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer.</li> <li>Utvärdering och analys av arbetsprocess och resultat.</li> <li>Digitala tekniker för dokumentation av arbetsprocess och resultat.</li> <li>Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.</li> <li>Hantering, förvaring och bearbetning av slöjdmaterial.</li> <li>Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning i samband med aktuella arbetsuppgifter.</li> <li>Miljöhänsyn i arbetet, till exempel återbruk och materialåtervinning.</li> <li>Ansvarsfullt uppträdande i yrkesutövandet.</li> <li>Samisk terminologi utifrån ortskaraktärer.</li> <li>Fackspråk med anpassning efter situation och mottagare.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven diskuterar färg och form och beskriver <strong>översiktligt</strong> estetiska uttryck i olika delar av Sápmi.</p> <p>Eleven väljer med <strong>viss säkerhet</strong> material, tekniker och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. I arbetet hanterar eleven verktyg och maskiner med <strong>visst</strong> handlag.</p> <p>Eleven planerar och organiserar sitt arbete. I planeringen använder eleven <strong>enkla</strong> skisser, ritningar och beräkningar. Dessutom beskriver eleven sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>enkla</strong> omdömen.</p> <p>Eleven sköter och underhåller med <strong>visst handlag</strong> material, verktyg och maskiner.</p> <p>Eleven arbetar ergonomiskt och säkert samt använder lämplig skyddsutrustning. Eleven väljer arbetsmetoder med hänsyn till miljö och arbetsmiljö.</p> <p>Eleven använder med <strong>viss säkerhet</strong>fackspråk och samisk terminologi inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven diskuterar färg och form och beskriver <strong>utförligt</strong> estetiska uttryck i olika delar av Sápmi.</p> <p>Eleven väljer med <strong>säkerhet</strong> material, tekniker och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. I arbetet hanterar eleven verktyg och maskiner med <strong>gott</strong> handlag.</p> <p>Eleven planerar och organiserar sitt arbete. I planeringen använder eleven <strong>genomarbetade</strong> skisser, ritningar och beräkningar. Dessutom beskriver eleven sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>utvecklade</strong> omdömen.</p> <p>Eleven sköter och underhåller med <strong>gott handlag</strong> material, verktyg och maskiner.</p> <p>Eleven arbetar ergonomiskt och säkert samt använder lämplig skyddsutrustning. Eleven väljer arbetsmetoder med hänsyn till miljö och arbetsmiljö.</p> <p>Eleven använder med <strong>säkerhet</strong> fackspråk och samisk terminologi inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven diskuterar färg och form och beskriver <strong>utförligt och nyanserat</strong> estetiska uttryck i olika delar av Sápmi.</p> <p>Eleven väljer med <strong>god säkerhet</strong> material, tekniker och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. I arbetet hanterar eleven verktyg och maskiner med <strong>mycket gott</strong> handlag.</p> <p>Eleven planerar och organiserar sitt arbete. I planeringen använder eleven <strong>väl genomarbetade</strong> skisser, ritningar och beräkningar. Dessutom beskriver eleven sin arbetsprocess och sitt resultat samt värderar dessa faktorer med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven sköter och underhåller med <strong>mycket gott handlag</strong> material, verktyg och maskiner.</p> <p>Eleven arbetar ergonomiskt och säkert samt använder lämplig skyddsutrustning. Eleven väljer arbetsmetoder med hänsyn till miljö och arbetsmiljö.</p> <p>Eleven använder med <strong>god säkerhet</strong> fackspråk och samisk terminologi inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.076Z"
+}

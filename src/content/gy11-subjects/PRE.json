@@ -1,0 +1,104 @@
+{
+  "code": "PRE",
+  "name": "Processteknik – kemi",
+  "englishName": "Process Engineering – Chemistry",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2018:19",
+  "skolfsAndring": "2022:252",
+  "nameHeading": "<h2>Processteknik – kemi</h2>",
+  "description": "<p>Ämnet processteknik – kemi behandlar de tekniker som används inom kemisk processindustri. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner.</p> <h4>Undervisningen i ämnet processteknik – kemi ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.</li> <li>Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.</li> <li>Kunskaper om kvalitetsarbete i produktionsprocesser samt kunskaper om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.</li> <li>Förståelse av hur kemisk produktion påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.</li> <li>Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.</li> <li>Förmåga att reglera och optimera processer inom kemisk produktion.</li> <li>Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter inom det processtekniska området.</li> <li>Förmåga att tolka och upprätta processteknisk dokumentation.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Processteknik – kemi 1, 100 poäng. </li> <li>Processteknik – kemi 2, 100 poäng, som bygger på kursen processteknik – kemi 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PREKEM31</h3>",
+      "code": "PREKEM31",
+      "nameHeading": "<h2>Processteknik – kemi 1, 100 poäng</h2>",
+      "name": "Processteknik – kemi 1",
+      "englishName": "Process Engineering – Chemistry 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen processteknik – kemi 1 omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4> <ul> <li>Metoder och utrustning för att testa och kalibrera mätningar av, till exempel temperatur, tryck, nivå, flöde och pH.</li> <li>Metoder för mätning av varvtal och krafter.</li> <li>Reglerteknik, speciellt reglerprocesser inom petrokemi, pappers- och massaindustri.</li> <li>Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.</li> <li>Arbetsmiljöfrågor och säkerhetsföreskrifter.</li> <li>Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.</li> <li>Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.</li> <li>Processindustri nationellt och internationellt.</li> <li>Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.</li> <li>Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.</li> <li>Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.</li> <li>Systematiserade dokumentationsmetoder och kvalitetsteknik.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4> <p>Eleven redogör <strong>övergripande</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>övergripande</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>övergripande</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar <strong>med säkerhet</strong> resultatet. Dessutom utför eleven<strong> efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>utförligt</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>utförligt </strong>för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet. Dessutom utför eleven <strong>självständigt efter samråd </strong>med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för funktionen hos processtekniska komponenter och kopplar dessa <strong>utförligt</strong> <strong>och nyanserat</strong> till de fysikaliska och kemiska samband som förekommer inom processindustrin. Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området. Vidare utgår eleven <strong>med mycket god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten.</p> <p>Eleven genomför <strong>med god säkerhet komplexa</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet. Dessutom utför eleven <strong>självständigt</strong> <strong>avancerade</strong> konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> <strong>avancerad </strong>styrning och avläsning av processteknisk utrustning.</p> <p>Eleven läser och tolkar <strong>med god säkerhet</strong> <strong>avancerade </strong>scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet komplex</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PREKEM32</h3>",
+      "code": "PREKEM32",
+      "nameHeading": "<h2>Processteknik – kemi 2, 100 poäng</h2>",
+      "name": "Processteknik – kemi 2",
+      "englishName": "Process Engineering – Chemistry 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen processteknik – kemi 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4> <ul> <li>Standarder och föreskrifter inom området kemisk industri och pappersindustri.</li> <li>Tekniker för pappersindustri och petrokemi.</li> <li>Reaktorfysik och förbränningsteknik.</li> <li>Processens påverkan på miljön. Åtgärder för att minimera miljöpåverkan.</li> <li>Processreglering och distribuerade styrsystem.</li> <li>Störstorheter som påverkar reglerprocessen.</li> <li>Styrning och mätning av olika förlopp i produktionsutrustning.</li> <li>Organisk kemi med tillämpning i kemisk processindustri.</li> <li>Kvalitativa och kvantitativa metoder för kemisk analys.</li> <li>Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.</li> <li>Kontroll av råvara, mellanprodukt och färdigprodukt med hjälp av mät- och analysinstrument.</li> <li>Kvalitetskrav gentemot den kemiska processindustrin samt gällande säkerhets- och miljökrav.</li> <li>Händelseförloppet mot kemiska tillverkningsprocesser, materialhantering, kontroll och underhållsrutiner.</li> <li>Mätmetoder och mätdon.</li> <li>Styrdon och deras karakteristik. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4> <p>Eleven redogör <strong>övergripande</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade</strong> kopplingar till naturvetenskapliga principer. Eleven resonerar <strong>övergripande </strong>om olika typer av styrdon och deras karakteristik. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven använder <strong>med säkerhet</strong> metoder för kemisk analys och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften och förbättra processen samt resonerar <strong>övergripande</strong> om processens inverkan på miljön. Eleven genomför <strong>med säkerhet och efter samråd</strong> med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.</p> <p>Eleven redogör <strong>övergripande</strong> för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner <strong>med säkerhet</strong>. Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning. I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> med andra.</p> <p>Eleven resonerar <strong>övergripande</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4> <p>Eleven redogör <strong>utförligt</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade</strong> <strong>och nyanserade</strong> kopplingar till naturvetenskapliga principer. Eleven resonerar<strong> utförligt</strong> om olika typer av styrdon och deras karakteristik. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven använder <strong>med god säkerhet</strong> metoder för kemisk analys och ger utifrån dem <strong>välgrundade och nyanserade </strong>förslag för att optimera driften och förbättra processen samt resonerar <strong>utförligt</strong> om processens inverkan på miljön. Eleven genomför <strong>med god säkerhet</strong> <strong>och</strong> <strong>självständigt</strong> <strong>efter samråd </strong>med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.</p> <p>Eleven redogör<strong> utförligt </strong>för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner <strong>med god säkerhet</strong>. Eleven planerar <strong>självständigt</strong> <strong>efter samråd </strong>med handledare vanligt förekommande arbetsuppgifter i en anläggning. I arbetet samverkar och kommunicerar eleven <strong>med god säkerhet</strong> med andra.</p> <p>Eleven resonerar <strong>utförligt</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör <strong>välgrundade och nyanserade</strong> kopplingar till naturvetenskapliga principer. Eleven resonerar <strong>utförligt och nyanserat</strong> om olika typer av styrdon och deras karakteristik. I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området.</p> <p>Eleven genomför <strong>med mycket god säkerhet </strong>metoder för kemisk analys och ger utifrån dem <strong>välgrundade och nyanserade </strong>förslag för att optimera driften och förbättra processen samt resonerar <strong>utförligt och nyanserat </strong>om processens inverkan på miljön. Eleven genomför <strong>med mycket god säkerhet</strong> <strong>självständigt</strong> laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar <strong>avancerade </strong>underhållsrutiner <strong>med</strong> <strong>mycket god säkerhet</strong>. Eleven planerar <strong>självständigt </strong>vanligt förekommande praktiska arbetsuppgifter i en anläggning. I arbetet samverkar och kommunicerar eleven <strong>med mycket god säkerhet</strong> med andra.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.131Z"
+}

@@ -1,0 +1,143 @@
+{
+  "code": "FIS",
+  "name": "Fiske",
+  "englishName": "Fishery",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2011:50",
+  "skolfsAndring": "2022:108",
+  "nameHeading": "<h2>Fiske</h2>",
+  "description": "<p>Ämnet fiske behandlar yrkesmässigt arbete med fiske. I ämnet ingår kunskaper om fångstplatser, fångstmetoder, redskap och annan teknisk utrustning som används inom fiske. Kunskaper om de förhållanden som påverkar förekomsten av vattenlevande organismer och hur fisket påverkar miljön och den ekologiska balansen ingår också i ämnet. Dessutom ingår kunskaper om ett uthålligt nyttjande av fiskbestånd på naturens villkor samt om åtgärder som bevarar den biologiska mångfalden. Ämnet behandlar också hantering, förvaring, beredning och transport av fisk samt skötsel och underhåll av redskap och annan teknisk utrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fiske ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom fiske. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om förutsättningar för fiske i olika vattenmiljöer samt om hur olika vattenmiljöer kan nyttjas på ett ekologiskt hållbart sätt. Undervisningen ska bidra till att eleverna utvecklar förmåga att bedöma olika fiskarters värde som livsmedel. Den ska också bidra till att eleverna utvecklar förmåga att hantera och sköta teknisk utrustning och fiskeredskap på ett ändamålsenligt sätt. Eleverna ska ges möjlighet att utveckla förmåga att planera och genomföra arbetsuppgifter inom yrkesmässigt fiske på ett säkert och ergonomiskt sätt och med hänsyn till miljö och kretsloppstänkande. </p><p>Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen. Genom observationer och fältstudier ska eleverna ges möjlighet att utveckla förståelse av ekologiska samband vid kust och i sjöar och vattendrag.</p><h4>Undervisningen i ämnet fiske ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om ekologiska samband och om de förhållanden som påverkar förekomsten av fisk samt om hur naturresursen fisk förvaltas på ett ekologiskt hållbart sätt.</li> <li>Kunskaper om olika fångstmetoder.</li> <li>Förmåga att organisera, planera och utföra arbetsuppgifter inom fiske.</li> <li>Förmåga att använda metoder, redskap, teknisk utrustning, verktyg och material i samband med fiske.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt att bedöma olycksrisker och vidta åtgärder vid olycksfall och tillbud.</li> <li>Kunskaper om lagar och andra bestämmelser som rör yrkesmässigt fiske.</li> <li>Kunskaper om olika fiskarter samt om skador och sjukdomar på fisk.</li> <li>Kunskaper om olika fiskarters konsumtionsvärde samt om hur färsk fisk ska hanteras och förvaras.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Fiske 1, 100 poäng, som bygger på biologi i vattenmiljöer 1.</li> <li>Fiske 2, 200 poäng, som bygger på kursen fiske 1.</li> <li>Fiske 3, 100 poäng, som bygger på kursen fiske 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: FISFIS01</h3>",
+      "code": "FISFIS01",
+      "nameHeading": "<h2>Fiske 1, 100 poäng</h2>",
+      "name": "Fiske 1",
+      "englishName": "Fishery 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen fiske 1 omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte, med särskild betoning på förmåga att utföra arbetsuppgifter.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Arbetsuppgifter</strong> </p><ul> <li>Arbete med fiske samt fångstmetoder och metoder för att hitta fångstplatser.</li> <li>Användning av fiskeredskap och teknisk utrustning för arbetsuppgifter inom fiske.</li> <li>Loggbok för att redovisa fångst. </li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiske.</li> <li>Säkerhetsföreskrifter, till exempel för säkerhet på sjön.</li> <li>Lagar och andra bestämmelser som rör fiske, till exempel miljölagstiftning och bestämmelser som reglerar rätt till fiske, tidpunkt för fångst, minimimått och redskapens utformning och antal.</li> </ul><p> <strong>Biologisk grund</strong> </p><ul> <li>Förekomst av fisk i olika vattenmiljöer samt hur fisket påverkar miljön och den ekologiska balansen.</li> <li>Vattenmiljöer och klimatets inverkan på artsammansättning och tillgång på fisk.</li> <li>Fiskarter som används för konsumtion.</li> <li>Vanliga skador och sjukdomar på fisk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för förekomsten av fisk i olika vattenmiljöer och för hur fisket påverkar miljön och den ekologiska balansen.</p><p>Eleven utför <strong>i samråd </strong>med handledare arbetsuppgifter inom fiske. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet väljer, använder och vårdar eleven <strong>i samråd </strong>med handledare teknisk utrustning, verktyg och material för de olika arbetsuppgifterna. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppstår. Eleven arbetar säkert, gör en <strong>enkel </strong>bedömning av olycksrisker samt vidtar <strong>i samråd </strong>med handledare åtgärder vid olycksfall och tillbud. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör yrkesmässigt fiske.</p><p>I samband med fiske identifierar eleven <strong>med viss säkerhet </strong>skador och sjukdomar på fisken samt redogör <strong>översiktligt</strong> för möjliga orsaker till skadorna och sjukdomarna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för förekomsten av fisk i olika vattenmiljöer och för hur fisket påverkar miljön och den ekologiska balansen.</p><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom fiske. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet väljer, använder och vårdar eleven <strong>efter samråd </strong>med handledare teknisk utrustning, verktyg och material för de olika arbetsuppgifterna. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar säkert, gör en <strong>välgrundad </strong>bedömning av olycksrisker samt vidtar <strong>efter samråd </strong>med handledare åtgärder vid olycksfall och tillbud. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör yrkesmässigt fiske.</p><p>I samband med fiske identifierar eleven <strong>med viss säkerhet </strong>skador och sjukdomar på fisken samt redogör <strong>utförligt</strong> för möjliga orsaker till skadorna och sjukdomarna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för förekomsten av fisk i olika vattenmiljöer och för hur fisket påverkar miljön och den ekologiska balansen.</p><p>Eleven utför <strong>efter samråd </strong>med handledare arbetsuppgifter inom fiske. Resultatet av arbetet är <strong>gott</strong>. I arbetet väljer, använder och vårdar eleven <strong>efter samråd </strong>med handledare teknisk utrustning, verktyg och material för de olika arbetsuppgifterna. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår. Eleven arbetar säkert, gör en <strong>välgrundad </strong><strong>och nyanserad </strong>bedömning av olycksrisker samt vidtar <strong>efter samråd </strong>med handledare åtgärder vid olycksfall och tillbud. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör yrkesmässigt fiske.</p><p>I samband med fiske identifierar eleven <strong>med säkerhet </strong>skador och sjukdomar på fisken samt redogör <strong>utförligt och nyanserat</strong> för möjliga orsaker till skadorna och sjukdomarna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FISFIS02</h3>",
+      "code": "FISFIS02",
+      "nameHeading": "<h2>Fiske 2, 200 poäng</h2>",
+      "name": "Fiske 2",
+      "englishName": "Fishery 2",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen fiske 2 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkt 3.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></p><p><strong>Arbetsuppgifter</strong> </p><ul> <li>Planering av arbete med fiske samt olika fångstmetoder och metoder för att hitta fångstplatser. Bedömning av hur och när olika arbetsuppgifter ska genomföras samt organisation, planering och genomförande av yrkesmässigt fiske.</li> <li>Användning, skötsel och underhåll av redskap och teknisk utrustning, till exempel för att laga nät, splitsa och knopa.</li> <li>Loggbok för att redovisa fångst. </li> <li>Försäljning och marknadsföring av fisk och fiskprodukter.</li> <li>Fältstudier för uppföljning av fiske, fiskbestånd och fiskens kondition.</li> <li>Hantering, förvaring och transport av färsk fisk i samband med fiske.</li> </ul><p> <strong>Arbetsmiljö, säkerhetsfrågor och bestämmelser</strong> </p><ul> <li>Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiske.</li> <li>Säkerhetsföreskrifter.</li> <li>Lagar och andra bestämmelser som rör fiske, till exempel miljölagstiftning och bestämmelser som reglerar rätt till fiske, tidpunkter för fångst, minimimått och redskapens utformning och antal.</li> </ul><p> <strong>Biologisk grund</strong> </p><ul> <li>Bedömning av förekomst av fisk i olika vattenmiljöer samt hur fisket påverkar miljön och den ekologiska balansen.</li> <li>Bedömning av vattenmiljöer och klimatets inverkan på artsammansättning och tillgång på fisk.</li> <li>Ett brett sortiment av fiskarter som används för konsumtion.</li> <li>Parasitangrepp och andra skador. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för hur fisket påverkar miljön och den ekologiska balansen. Redogörelsen innehåller <strong>enkla </strong>förklaringar till ekologiska samband och förekomsten av fisk i olika vattenmiljöer.</p><p>Eleven upprättar en <strong>enkel</strong> plan för fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>översiktligt</strong> sina val i planen. I planen beskriver eleven <strong>översiktligt </strong>lämpliga fångstmetoder. Eleven bedömer <strong>i samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på aktuella förutsättningar. Eleven organiserar, planerar och utför <strong>i samråd </strong>med handledare aktuella arbetsuppgifter och använder redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske. När arbetet är utfört vårdar eleven <strong>i samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>i samråd </strong>med handledare en loggbok för redovisning av aktuell fångst.</p><p>I samband med fiske beskriver eleven <strong>översiktligt</strong> resultatet av genomförda fångstmetoder. Beskrivningen innehåller <strong>enkla </strong>bedömningar av fiskarnas storlek och utseende samt<strong> enkla </strong>förklaringar av biologiska och ekonomiska samband. Eleven identifierar <strong>med viss säkerhet </strong>de organismer som förekommer i aktuell fångst. Dessutom redogör eleven <strong>översiktligt</strong> för de parasitangrepp och skador som kan förekomma i en fångst samt för lämpliga åtgärder mot angreppen och skadorna. Eleven redogör <strong>översiktligt</strong> för vilka fiskarter som kan användas för konsumtion samt för olika sätt att marknadsföra och sälja fiskprodukter. Eleven redogör också <strong>översiktligt</strong> för hur den aktuella fångsten ska hanteras och förvaras.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för hur fisket påverkar miljön och den ekologiska balansen. Redogörelsen innehåller <strong>välgrundade </strong>förklaringar till ekologiska samband och förekomsten av fisk i olika vattenmiljöer.</p><p>Eleven upprättar en <strong>genomarbetad</strong> plan för fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>utförligt </strong>sina val i planen. I planen beskriver eleven <strong>utförligt </strong>lämpliga fångstmetoder. Eleven bedömer <strong>efter samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på aktuella förutsättningar. Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare aktuella arbetsuppgifter och använder redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske. När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>efter samråd </strong>med handledare en loggbok för redovisning av aktuell fångst.</p><p>I samband med fiske beskriver eleven <strong>utförligt </strong>resultatet av genomförda fångstmetoder. Beskrivningen innehåller <strong>välgrundade </strong>bedömningar av fiskarnas storlek och utseende samt<strong> välgrundade </strong>förklaringar av biologiska och ekonomiska samband. Eleven identifierar <strong>med viss säkerhet </strong>de organismer som förekommer i aktuell fångst. Dessutom redogör eleven <strong>utförligt </strong>för de parasitangrepp och skador som kan förekomma i en fångst samt för lämpliga åtgärder mot angreppen och skadorna. Eleven redogör <strong>utförligt </strong>för vilka fiskarter som kan användas för konsumtion samt för olika sätt att marknadsföra och sälja fiskprodukter. Eleven redogör också <strong>utförligt </strong>för hur den aktuella fångsten ska hanteras och förvaras.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för hur fisket påverkar miljön och den ekologiska balansen. Redogörelsen innehåller <strong>välgrundade </strong><strong>och nyanserade </strong>förklaringar till ekologiska samband och förekomsten av fisk i olika vattenmiljöer.</p><p>Eleven upprättar en <strong>genomarbetad</strong> plan för fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>utförligt och nyanserat </strong>sina val i planen. I planen beskriver eleven <strong>utförligt och nyanserat </strong>lämpliga fångstmetoder. Eleven bedömer <strong>efter samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på aktuella förutsättningar. Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare aktuella arbetsuppgifter och använder redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som rör fiske. När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>efter samråd </strong>med handledare en loggbok för redovisning av aktuell fångst.</p><p>I samband med fiske beskriver eleven <strong>utförligt och nyanserat </strong>resultatet av genomförda fångstmetoder. Beskrivningen innehåller <strong>välgrundade </strong><strong>och nyanserade </strong>bedömningar av fiskarnas storlek och utseende samt<strong> välgrundade </strong><strong>och nyanserade</strong> förklaringar av biologiska och ekonomiska samband. Eleven identifierar <strong>med säkerhet </strong>de organismer som förekommer i aktuell fångst. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för de parasitangrepp och skador som kan förekomma i en fångst samt för lämpliga åtgärder mot angreppen och skadorna. Eleven redogör <strong>utförligt och nyanserat </strong>för vilka fiskarter som kan användas för konsumtion samt för olika sätt att marknadsföra och sälja fiskprodukter. Eleven redogör också <strong>utförligt </strong>för hur den aktuella fångsten ska hanteras och förvaras.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FISFIS03</h3>",
+      "code": "FISFIS03",
+      "nameHeading": "<h2>Fiske 3, 100 poäng</h2>",
+      "name": "Fiske 3",
+      "englishName": "Fishery 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen fiske 3 omfattar punkterna 1, 3–6 och 8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialområde inom fiske.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Planering, genomförande och uppföljning av fiske inom specialområdet. Ekonomiska kalkyler.</li> <li>Verksamhetsplaner inom specialområdet.</li> <li>Miljöaspekter och produktkvalitet.</li> <li>Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiske inom specialområdet.</li> <li>Lagar och andra bestämmelser inom specialområdet.</li> <li>Förutsättningar för fiske, marknad och arbetsmarknad inom specialområdet.</li> <li>Utvecklingsmöjligheter inom specialområdet, nya fångstplatser, nya fiskarter, ny teknik och nya användningsområden för de fångade produkterna.</li> <li>Informationssökning och presentationer inom specialområdet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för förutsättningar för fiske inom specialområdet samt beskriver <strong>översiktligt</strong> vilka faktorer som påverkar det ekonomiska resultatet. </p><p>Eleven upprättar <strong>i samråd </strong>med handledare en plan för ett specialområde inom fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>översiktligt</strong> sina val i planen. Planen innehåller en <strong>enkel </strong>ekonomisk kalkyl utifrån krav på produktkvalitet och försäljningsmöjligheter. Eleven bedömer <strong>i samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras för ett optimalt fiske. Eleven organiserar, planerar och utför <strong>i samråd </strong>med handledare arbetsuppgifter enligt planen och använder yrkesmässiga metoder, redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>i samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört vårdar eleven <strong>i samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>i samråd </strong>med handledare en loggbok.</p><p>I samband med fiske beskriver eleven <strong>översiktligt </strong>vilka försäljningsmöjligheter som finns för olika fiskprodukter. Dessutom beskriver eleven <strong>översiktligt </strong>olika fångstplatser, fångade produkter och utvecklingsmöjligheter inom specialområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för förutsättningar för fiske inom specialområdet samt beskriver <strong>utförligt </strong>vilka faktorer som påverkar det ekonomiska resultatet. </p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en plan för ett specialområde inom fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>utförligt </strong>sina val i planen. Planen innehåller en ekonomisk kalkyl utifrån krav på produktkvalitet och försäljningsmöjligheter. Eleven bedömer <strong>efter samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras för ett optimalt fiske. Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter enligt planen och använder yrkesmässiga metoder, redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>tillfredsställande</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>efter samråd </strong>med handledare en loggbok.</p><p>I samband med fiske beskriver eleven <strong>utförligt </strong>vilka försäljningsmöjligheter som finns för olika fiskprodukter. Dessutom beskriver eleven <strong>utförligt </strong>olika fångstplatser, fångade produkter och utvecklingsmöjligheter inom specialområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för förutsättningar för fiske inom specialområdet samt beskriver <strong>utförligt och nyanserat </strong>vilka faktorer som påverkar det ekonomiska resultatet. </p><p>Eleven upprättar <strong>efter samråd </strong>med handledare en plan för ett specialområde inom fiske med utgångspunkt i aktuella förutsättningar samt motiverar <strong>utförligt och nyanserat </strong>sina val i planen. Planen innehåller en <strong>avancerad </strong>ekonomisk kalkyl utifrån krav på produktkvalitet och försäljningsmöjligheter. Eleven bedömer <strong>efter samråd </strong>med handledare när och hur de planerade arbetsuppgifterna ska genomföras för ett optimalt fiske. Eleven organiserar, planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter enligt planen och använder yrkesmässiga metoder, redskap och annan teknisk utrustning. Resultatet av arbetet är <strong>gott</strong>. I arbetet löser eleven <strong>efter samråd </strong>med handledare de problem som uppstår.</p><p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen. Eleven redogör <strong>utförligt </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer. När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare aktuella redskap och teknisk utrustning. Dessutom upprättar eleven <strong>efter samråd </strong>med handledare en loggbok.</p><p>I samband med fiske beskriver eleven <strong>utförligt och nyanserat </strong>vilka försäljningsmöjligheter som finns för olika fiskprodukter. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>olika fångstplatser, fångade produkter och utvecklingsmöjligheter inom specialområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.989Z"
+}

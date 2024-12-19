@@ -1,0 +1,181 @@
+{
+  "code": "FAS",
+  "name": "Fastighetsservice",
+  "englishName": "Property service",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:76",
+  "skolfsAndring": "2022:105",
+  "nameHeading": "<h2>Fastighetsservice</h2>",
+  "description": "<p>Ämnet fastighetsservice behandlar de faktorer som påverkar behovet av fortlöpande och effektivt underhåll av fastighetsbestånd. Det behandlar också hur fastighetsunderhåll planeras, genomförs och dokumenteras. I ämnet behandlas dessutom ergonomiska, miljömässiga, säkerhetsmässiga och sociala aspekter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fastighetsservice ska syfta till att eleverna utvecklar kunskaper om fastighetsområdet så att hyresgäster i alla typer av fastigheter får service av god kvalitet. Undervisningen ska också leda till att eleverna utvecklar kunskaper om och färdigheter i rationellt underhåll inom fastighetsbranschen. Eleverna ska ges möjlighet att utveckla kunskaper om fastigheters konstruktion och hur yttre och inre faktorer påverkar underhållsbehovet. Undervisningen ska leda till att eleverna utvecklar kunskaper om vanligt förekommande utrustning och maskiner, deras användningsområden och underhållsbehov. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om underhållets tekniska, organisatoriska, miljömässiga och ekonomiska roll inom fastighetsbranschen samt om utvecklingen inom fastighetstekniken. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om systematiskt säkerhetsarbete, riskhantering samt om brandrisk och brandskydd.</p><p>Genom ett problemlösande arbetssätt och praktiskt laborativa övningar med planering, utförande och dokumentation i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra. Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman.</p><h4>Undervisningen i ämnet fastighetsservice ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om olika byggnaders konstruktion, byggmaterials egenskaper samt lagar och andra bestämmelser. Kunskaper om vanliga byggskador och underhålls- och reparationsåtgärder.</li> <li>Kunskaper om underhållsrutiner för fastigheter och fastighetsutrustning samt om säkerhetsfrågor, riskhantering och lagar och andra bestämmelser.</li> <li>Kunskaper om inredningars, utrustningars och maskintypers uppbyggnad och funktion samt om reservdelshållning.</li> <li>Förmåga att planera och utföra service, underhåll och reparation av fastigheter och av ytor, inredning och utrustning på och i fastigheter.</li> <li>Förmåga att välja och använda metoder, material, verktyg och tekniker.</li> <li>Förmåga att tolka och använda ritningar, underhållsscheman, manualer och innehållsdeklarationer. </li> <li>Förmåga att utföra felsökning och vidta lämpliga åtgärder.</li> <li>Förmåga att dokumentera och utvärdera sitt arbete och resultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Fastighetsservice – byggnader, 100 poäng. </li> <li>Fastighetsservice – elarbeten, 100 poäng. </li> <li>Fastighetsservice – VVS, 100 poäng. </li> <li>Fastighetsservice – ytor, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: FASFAS0</h3>",
+      "code": "FASFAS0",
+      "nameHeading": "<h2>Fastighetsservice – byggnader, 100 poäng</h2>",
+      "name": "Fastighetsservice – byggnader",
+      "englishName": "Property service – buildings",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen fastighetsservice – byggnader omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.</li> <li>Vanliga byggskador, hur de kan förebyggas och åtgärdas.</li> <li>Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete.</li> <li>Underhållsrutiner, regler, bestämmelser och besiktningsplaner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner.</li> <li>Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.</li> <li>Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd.</li> <li>Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter, utrustning och aktuella maskiner.</li> <li>Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.</li> <li>Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel.</li> <li>Metoder för dokumentation av utförda åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven redogör också <strong>översiktligt </strong>för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. Dessutom redogör eleven <strong>översiktligt </strong>för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>i samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>i samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>i samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven redogör också <strong>utförligt</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. Dessutom redogör eleven <strong>utförligt</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven redogör också <strong>utförligt och nyanserat</strong> för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>gott </strong>resultat. I arbetet tolkar och använder eleven <strong>med säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FASFAH0</h3>",
+      "code": "FASFAH0",
+      "nameHeading": "<h2>Fastighetsservice – elarbeten, 100 poäng</h2>",
+      "name": "Fastighetsservice – elarbeten",
+      "englishName": "Property service – electricity work",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen fastighetsservice – elarbeten omfattar punkterna 2–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Underhållsrutiner, regler, bestämmelser, besiktningsplaner, säkerhetskontroller och serviceåtgärder för olika hisstyper och annan transportutrustning. Hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.</li> <li>Köks- och tvättutrustningar samt deras uppbyggnad och funktion. Transportutrustningar, till exempel hissar, rulltrappor och transportband samt deras uppbyggnad och funktion. Hur man planerar för reservdelshållning.</li> <li>Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av i fastigheter befintlig utrustning och aktuella maskiner.</li> <li>Serviceåtgärder på porttelefoner, övervakningssystem, lås- och larmsystem, kabel-tv-nät och andra system i fastigheter.</li> <li>Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.</li> <li>Felsökning, mätning och felavhjälpning av konstruktionsfel, slitage, mekaniska fel och elfel, till exempel i belysningsutrustning.</li> <li>Metoder för dokumentation av utförda åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen. Eleven redogör också <strong>översiktligt </strong>för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>översiktligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>i samråd </strong>med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>i samråd </strong>med handledare service-, underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>i samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen. Eleven redogör också <strong>utförligt</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>utförligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare service-, underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> den tekniska utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med utrustningen. Eleven redogör också <strong>utförligt och nyanserat</strong> för de vanligast förekommande fel som kan uppstå i utrustningen, underhållsrutiner för denna samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande service, underhåll och reparation av eldriven maskinell utrustning i fastigheter. I planeringen väljer eleven <strong>med säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare service-, underhålls- och reparationsarbetet med <strong>gott </strong>resultat. I arbetet tolkar och använder eleven <strong>med säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FASFAE0</h3>",
+      "code": "FASFAE0",
+      "nameHeading": "<h2>Fastighetsservice – VVS, 100 poäng</h2>",
+      "name": "Fastighetsservice – VVS",
+      "englishName": "Property service – HVS",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen fastighetsservice – VVS omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Övergripande bygglagstiftning för byggnaders konstruktion och material.</li> <li>Byggnaders tekniska konstruktion och byggmaterials egenskaper. Hur fuktskador kan förebyggas, lokaliseras och åtgärdas.</li> <li>Underhållsrutiner, regler, bestämmelser och besiktningsplaner för utrustning och inredning i kök, tvättstugor och badrum samt för till exempel sprinkler-, dricksvatten-, dagvatten- och avloppssystem i fastigheter.</li> <li>Säkerhetskontroller avseende vattenskador, mikrobiell tillväxt, brännskador och återströmning av vatten som inte uppfyller kraven för dricksvattenkvalitet. Hur arbetet kan utföras på ett säkert och ergonomiskt sätt och med miljöhänsyn.</li> <li>Uppbyggnad, konstruktion och funktion av komponenter och utrustning för fastigheters vatten- och avloppssystem, samt reservdelshållning.</li> <li>Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll och för reparationer av komponenter och utrustning i vatten- och avloppssystem i fastigheter samt av utrustning och inredning i kök, tvättstugor och badrum.</li> <li>Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.</li> <li>Felsökning och felavhjälpning av konstruktionsfel, slitage, mekaniska fel och elfel.</li> <li>Metoder för dokumentation av utförda åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Dessutom redogör eleven <strong>översiktligt </strong>för hur fuktskador kan förebyggas och åtgärdas.</p><p>Eleven beskriver <strong>översiktligt</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen. Eleven redogör också <strong>översiktligt </strong>för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>översiktligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>i samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>i samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>i samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Dessutom redogör eleven <strong>utförligt</strong> för hur fuktskador kan förebyggas och åtgärdas.</p><p>Eleven beskriver <strong>utförligt</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen. Eleven redogör också <strong>utförligt</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>utförligt</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur fuktskador kan förebyggas och åtgärdas.</p><p>Eleven beskriver <strong>utförligt och nyanserat</strong> den VVS-tekniska inredning och utrustning som är vanlig i fastigheter samt lagar och andra bestämmelser som gäller vid arbete med inredningen och utrustningen. Eleven redogör också <strong>utförligt och nyanserat</strong> för de vanligast förekommande fel som kan uppstå i inredningen och utrustningen, underhållsrutiner för dessa samt hur man arbetar på ett sätt som är säkert för en själv och andra. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> de vanligaste maskintypernas uppbyggnad och funktion samt hur man planerar för reservdelshållning.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av VVS-teknisk utrustning i fastigheter. I planeringen väljer eleven <strong>med säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>gott </strong>resultat. I arbetet tolkar och använder eleven <strong>med säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: FASFAV0</h3>",
+      "code": "FASFAV0",
+      "nameHeading": "<h2>Fastighetsservice – ytor, 100 poäng</h2>",
+      "name": "Fastighetsservice – ytor",
+      "englishName": "Property service – surfaces",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen fastighetsservice – ytor omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.</li> <li>Vanliga byggskador, hur de kan förebyggas och åtgärdas.</li> <li>Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete. Förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan.</li> <li>Underhållsrutiner, regler, bestämmelser och besiktningsplaner för våtutrymmen, ytor och nödöppningar.</li> <li>Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.</li> <li>Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter och utrustning.</li> <li>Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.</li> <li>Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel på olika ytor.</li> <li>Metoder för dokumentation av utförda åtgärder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven beskriver också <strong>översiktligt </strong>hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. I beskrivningen redogör eleven <strong>översiktligt </strong>för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan. Dessutom redogör eleven <strong>översiktligt </strong>för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>i samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>i samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>i samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>enkel </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven beskriver också <strong>utförligt</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. I beskrivningen redogör eleven <strong>utförligt</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan. Dessutom redogör eleven <strong>utförligt</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med viss säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>tillfredsställande </strong>resultat. I arbetet tolkar och använder eleven <strong>med viss säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med viss säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika byggnaders konstruktion och byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser. Eleven beskriver också <strong>utförligt och nyanserat</strong> hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling. I beskrivningen redogör eleven <strong>utförligt och nyanserat</strong> för förutsättningar för ytbehandling och olika ytbehandlingars kvalitet, användningsområden och miljöpåverkan. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för underhållsrutiner för våtutrymmen, ytor, hisstyper och nödöppningar samt hur man arbetar på ett sätt som är säkert för en själv och andra.</p><p>Eleven planerar <strong>efter samråd </strong>med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter. I planeringen väljer eleven <strong>med säkerhet </strong>metod, material, verktyg och teknik. Eleven utför <strong>efter samråd </strong>med handledare underhålls- och reparationsarbetet med <strong>gott </strong>resultat. I arbetet tolkar och använder eleven <strong>med säkerhet </strong>ritningar, underhållsscheman, manualer och innehållsdeklarationer. Dessutom använder eleven <strong>med säkerhet </strong>lämpliga metoder, material, verktyg och tekniker. Eleven utför <strong>efter samråd </strong>med handledare felsökning och vidtar lämpliga åtgärder.</p><p>När arbetet är utfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av utförda åtgärder samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.986Z"
+}

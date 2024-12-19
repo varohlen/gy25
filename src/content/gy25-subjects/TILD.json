@@ -1,0 +1,77 @@
+{
+  "code": "TILD",
+  "name": "Tillämpad elteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:568",
+  "nameHeading": "<h2>Tillämpad elteknik</h2>",
+  "description": "<p>Ämnet tillämpad elteknik behandlar elteknik, elsäkerhet och arbete med fokus på elanläggningar, elsystem och elektrisk utrustning. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpad elteknik ska syfta till att eleverna utvecklar specialiserade kunskaper om elteknik och arbete med elektriska anläggningar. Undervisningen ska bidra till att eleverna utvecklar kunskaper om elanläggningars, elsystems och elektrisk utrustnings uppbyggnad och funktion vid olika driftfall. Eleverna ska även ges möjlighet att utveckla kunskaper om elsäkerhet, lagar och andra bestämmelser samt om standarder inom elteknik.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra och analysera beräkningar, mätningar och simuleringar. Eleverna ska även ges möjlighet att utveckla förmåga att utföra arbete inom elteknik, bland annat kopplingar, provning, felsökning, avställning och återställning. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att välja och hantera verktyg, instrument, utrustning och programvara.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ingenjörsmässig förmåga att planera, utföra och dokumentera arbete inom elteknik med hänsyn till kvalitetskrav, arbetsmiljö och säkerhet. Förmåga att tolka och använda teknisk dokumentation, instruktioner och säkerhetsanvisningar är av yttersta vikt vid arbete inom elteknik. Eleverna ska därför ges möjlighet att utveckla förmåga att arbeta systematiskt och säkert genom att använda teknisk dokumentation samt att följa instruktioner och säkerhetsanvisningar.</p> <p>Undervisningen ska varva teoretiska och praktiska moment. Genom ett problemlösande arbetssätt ska undervisningen stimulera elevernas nyfikenhet och lust till fortsatt lärande och yrkesmässig utveckling inom elområdet. Dessutom ska undervisningen lämna utrymme för etiska diskussioner om och reflektioner över kopplingen mellan elteknik och hållbar utveckling samt olika handlingsalternativ i arbete med elteknik.</p> <h5><em>Undervisningen i ämnet tillämpad elteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om anläggningar, system och utrustning inom elteknik.</li> <li>Kunskaper om lagar och andra bestämmelser samt standarder inom området.</li> <li>Förmåga att utföra och analysera beräkningar, mätningar och simuleringar.</li> <li>Förmåga att välja och hantera verktyg, instrument, utrustning och programvara.</li> <li>Förmåga att planera, utföra och dokumentera arbeten inom elteknik med hänsyn till gällande krav på utförande och resultat.</li> <li>Förmåga att använda teknisk dokumentation, instruktioner och säkerhetsanvisningar.</li> </ul><h3>Nivåer i ämnet tillämpad elteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILD100TX</h3>",
+      "code": "TILD100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad elteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Elanläggningar, elsystem och elektrisk utrustning</em></p> <ul> <li>Elsystemets uppbyggnad och funktion vid normala driftfall, från generator till belastning.</li> <li>Begrepp inom ellära, däribland likström, enfas och trefas växelström samt samband mellan dem.</li> <li>Lagar och andra bestämmelser samt standarder som gäller basskydd, felskydd och tilläggsskydd.</li> <li>Elektriska kretsar med olika kopplingar innehållande resistiva, induktiva och kapacitiva laster.</li> <li>Generatorer med fokus på synkrongeneratorn, deras reglering och styrning.</li> <li>Transformatorer med tillhörande jordnings- och eldistributionssystem.</li> <li>Motorer med fokus på asynkronmotorn, däribland motorernas startmetoder och varvtalsstyrning.</li> </ul> <p><em>Elarbete, elsäkerhet och dokumentation</em></p> <ul> <li>Praktiska övningar inom tillämpad elteknik där beräkningar, mätningar och simuleringar ingår, till exempel kopplingar, provning, enklare felsökning, avställning och återställning.</li> <li>Elsäkerhet med fokus på arbetsmetoder.</li> <li>Analys av beräkningar, mätningar och simuleringar.</li> <li>Val och hantering av vanligt förekommande verktyg, instrument, utrustning och programvara.</li> <li>Planering, genomförande och dokumentation av arbeten inom elteknik med hänsyn till kvalitetskrav, arbetsmiljö och säkerhet.</li> <li>Användning av teknisk dokumentation inom elteknik, till exempel ritningar, scheman, symboler, standarder samt system-, komponent-, och funktionsbeskrivningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TILD200TX</h3>",
+      "code": "TILD200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad elteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Elanläggningar, elsystem och elektrisk utrustning</em></p> <ul> <li>Elsystemets stabilitet utifrån spänning och frekvens, vid både normal och störd drift.</li> <li>Begrepp och samband inom ellära, däribland användning av j-omega-metoden.</li> <li>Lagar och andra bestämmelser samt standarder som gäller dimensionering och val av basskydd, felskydd och tilläggsskydd.</li> <li>Elektriska kretsar med olika kopplingar, belastningar och mätmetoder för ökad elkvalitet.</li> <li>Olika generatorers uppbyggnad, funktion, skyddsutrustning och kylning.</li> <li>Dimensionering och krav vid val av elmotorer och tillhörande kopplingar och styrning.</li> </ul> <p><em>Elarbete, elsäkerhet och dokumentation</em></p> <ul> <li>Praktiskt ingenjörsarbete inom tillämpad elteknik där beräkningar, mätningar och simuleringar ingår, till exempel kopplingar, provning, felsökning, avställning och återställning.</li> <li>Elsäkerhet med fokus på arbetsmetoder vid högspänning.</li> <li>Analys av beräkningar, mätningar och simuleringar.</li> <li>Hantering av verktyg, instrument, utrustning och programvara för specialiserade uppgifter.</li> <li>Planering, genomförande och dokumentation av tekniskt ingenjörsarbete inom elteknik med hänsyn till kvalitetskrav, arbetsmiljö och säkerhet.</li> <li>Användning av teknisk dokumentation inom elteknik, till exempel tabell- och formelsamling, diagram, ritningar, scheman, symboler, standarder samt system-, komponent- och funktionsbeskrivningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>övergripande</strong> elanläggningars, elsystems och elektrisk utrustnings uppbyggnad och funktion.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser samt standarder inom området.</p> <p>Eleven utför och analyserar <strong>enkla</strong> beräkningar, mätningar och simuleringar.</p> <p>Eleven väljer och hanterar med <strong>säkerhet</strong> verktyg, instrument, utrustning och programvara.</p> <p>Eleven planerar, utför och dokumenterar arbeten inom elteknik på ett <strong>godtagbart</strong> sätt i enlighet med gällande krav och säkerhetsföreskrifter.</p> <p>Eleven använder med <strong>säkerhet</strong> teknisk dokumentation, instruktioner och säkerhetsanvisningar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> elanläggningars, elsystems och elektrisk utrustnings uppbyggnad och funktion.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser samt standarder inom området.</p> <p>Eleven utför och analyserar <strong>relativt avancerade</strong> beräkningar, mätningar och simuleringar.</p> <p>Eleven väljer och hanterar med <strong>god säkerhet</strong> verktyg, instrument, utrustning och programvara.</p> <p>Eleven planerar, utför och dokumenterar arbeten inom elteknik på ett <strong>gott</strong> sätt i enlighet med gällande krav och säkerhetsföreskrifter.</p> <p>Eleven använder med <strong>god säkerhet</strong> teknisk dokumentation, instruktioner och säkerhetsanvisningar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> elanläggningars, elsystems och elektrisk utrustnings uppbyggnad och funktion.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser samt standarder inom området.</p> <p>Eleven utför och analyserar <strong>avancerade</strong> beräkningar, mätningar och simuleringar.</p> <p>Eleven väljer och hanterar med <strong>mycket god säkerhet</strong> verktyg, instrument, utrustning och programvara.</p> <p>Eleven planerar, utför och dokumenterar arbeten inom elteknik på ett <strong>mycket gott</strong> sätt i enlighet med gällande krav och säkerhetsföreskrifter.</p> <p>Eleven använder med <strong>mycket god säkerhet</strong> teknisk dokumentation, instruktioner och säkerhetsanvisningar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.092Z"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "DRIT",
+  "name": "Driftteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:203",
+  "nameHeading": "<h2>Driftteknik</h2>",
+  "description": "<p>Samhället är beroende av en fungerande energiförsörjning för att tillgodose energibehoven i byggnader, industrier och transporter. Därför måste samhällets energisystem ha både en god tillgänglighet vid normal drift och en beredskap inför störd drift. Ämnet driftteknik behandlar drift och underhåll av energitekniska anläggningar, system och komponenter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet driftteknik ska syfta till att eleverna utvecklar förmåga att arbeta med drift och underhåll av energitekniska anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur energitekniska system, komponenter och utrustning är uppbyggda, fungerar och används samt hur de kan styras och regleras.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla system- och processförståelse samt förmåga att identifiera, hantera och undersöka system och komponenter. Undervisningen ska även leda till att eleverna utvecklar förmåga att planera, dokumentera och utvärdera sitt arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom energiteknik.</p> <p>Undervisningen ska förbereda eleverna för tekniskt arbete inom industriella miljöer med höga säkerhetskrav och där god ordning på arbetsplatsen är viktig. Därför ska eleverna ges möjlighet att utveckla förmåga att arbeta på ett säkert och hållbart sätt med hjälp av teknisk dokumentation och i enlighet med instruktioner, lagar och andra bestämmelser inom området. Undervisningen ska även bidra till att eleverna utvecklar ett fackspråk.</p> <p>Eleverna ska ges möjlighet att utveckla ett systematiskt och problemlösande arbetssätt och förmåga att arbeta både självständigt och i grupp. Genom praktiska och teoretiska övningar ska undervisningen ge eleverna möjlighet att utveckla förmåga att använda verktyg, instrument och utrustning.</p> <h5><em>Undervisningen i ämnet driftteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om energitekniska anläggningar, system och komponenter.</li> <li>Förmåga att identifiera system och komponenter med hjälp av teknisk dokumentation.</li> <li>Förmåga att planera, utföra, dokumentera och utvärdera vanligt förekommande arbetsuppgifter inom drift och underhåll.</li> <li>Förmåga att hantera och sköta verktyg, instrument och utrustning inom drift och underhåll.</li> <li>Förmåga att arbeta på ett säkert sätt i enlighet med instruktioner och säkerhetsföreskrifter inom området.</li> </ul><h3>Nivåer i ämnet driftteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet automationsteknik och nivå 1 i ämnet energiteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DRIT1000X</h3>",
+      "code": "DRIT1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet driftteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Energitekniska system och komponenter</em></p> <ul> <li>Uppbyggnad av och funktion hos vanligt förekommande energitekniska system och komponenter, till exempel motorer, pannor, elmaskiner, fläktar, pumpar, ventiler, värmeväxlare, filter och kompressorer.</li> <li>Maskinelement, material, verktyg, instrument och utrustning samt deras användningsområden.</li> </ul> <p><em>Drift och underhåll av energitekniska system</em></p> <ul> <li>Planering och genomförande av vanligt förekommande arbetsuppgifter inom drift och underhåll, till exempel avställning, återställning, driftomläggning, funktionskontroll, idrifttagning, provning och rondering. Beräkningar och grundläggande begrepp inom drift och underhåll.</li> <li>Förebyggande och avhjälpande underhåll, till exempel användning och åtdragning av skruvförband med momentverktyg. Demontering, montering och funktionsprovning av vanligt förekommande komponenter, till exempel pumpar, ventiler och värmeväxlare.</li> <li>Hantering och skötsel av verktyg, instrument och utrustning som förekommer inom drift och underhåll.</li> <li>Dokumentation och utvärdering av eget arbete.</li> </ul> <p><em>Teknisk dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom drift och underhåll, till exempel instruktioner, ritningar, scheman, symboler, standarder samt system-, komponent- och funktionsbeskrivningar.</li> <li>Instruktioner, lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom drift och underhåll, däribland olika säkerhetsföreskrifter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DRIT2000X</h3>",
+      "code": "DRIT2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet driftteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Energitekniska system och komponenter</em></p> <ul> <li>Automatiserade system, komponenter och utrustning för operativ anläggningsdrift.</li> <li>Systemens användningsområden, uppbyggnad och funktion från objekt till användare.</li> <li>Mätteknik, till exempel olika typer av givare för läge, varvtal, temperatur, tryck, flöde och nivå.</li> <li>Mättekniska laborationer, till exempel mätning, kalibrering, test och mätosäkerhet.</li> </ul> <p><em>Drift och underhåll av energitekniska system</em></p> <ul> <li>Övervakning och styrning av processer med hjälp av datorstyrd drift och användargränssnitt.</li> <li>Metoder och utrustning inom styr- och reglerteknik, till exempel programmerbara styrsystem och regulatorer med proportionell förstärkning och integrerande och deriverande verkan.</li> <li>Styr- och reglertekniska laborationer, till exempel inställning av styrsystem och regulatorer.</li> <li>Metoder för att identifiera, förebygga och avhjälpa fel i system och anläggningar.</li> <li>Användning av verktyg, instrument och utrustning för styrning och reglering av system.</li> <li>Dokumentation och utvärdering av eget arbete.</li> </ul> <p><em>Teknisk dokumentation, arbetsmiljö och säkerhet</em></p> <ul> <li>Teknisk dokumentation inom styr- och reglerteknik, till exempel instruktioner, ritningar, krets- och logikscheman, symboler, standarder samt system- och funktionsbeskrivningar.</li> <li>Instruktioner, lagar och andra bestämmelser som gäller arbetsmiljö och säkerhet inom drift och underhåll av valda system och anläggningar, däribland olika säkerhetsföreskrifter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om energitekniska anläggningar, system och komponenter.</p> <p>Eleven identifierar med <strong>viss säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven planerar och utför <strong>enkla</strong> arbetsuppgifter inom drift och underhåll. Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>enkla</strong> omdömen.</p> <p>Eleven hanterar och sköter med <strong>visst</strong> handlag verktyg, instrument och utrustning.</p> <p>Eleven utför praktiskt arbete i enlighet med instruktioner och säkerhetsföreskrifter inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om energitekniska anläggningar, system och komponenter.</p> <p>Eleven identifierar med <strong>säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven planerar och utför <strong>relativt komplexa</strong> arbetsuppgifter inom drift och underhåll. Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>utvecklade</strong> omdömen.</p> <p>Eleven hanterar och sköter med <strong>gott</strong> handlag verktyg, instrument och utrustning.</p> <p>Eleven utför praktiskt arbete i enlighet med instruktioner och säkerhetsföreskrifter inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om energitekniska anläggningar, system och komponenter.</p> <p>Eleven identifierar med <strong>god säkerhet</strong> system och komponenter med hjälp av teknisk dokumentation.</p> <p>Eleven planerar och utför <strong>komplexa</strong> arbetsuppgifter inom drift och underhåll. Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och utvärderar arbetet med <strong>välutvecklade</strong> omdömen.</p> <p>Eleven hanterar och sköter med <strong>mycket gott</strong> handlag verktyg, instrument och utrustning.</p> <p>Eleven utför praktiskt arbete i enlighet med instruktioner och säkerhetsföreskrifter inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.986Z"
+}

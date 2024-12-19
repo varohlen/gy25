@@ -1,0 +1,78 @@
+{
+  "code": "WEBS",
+  "name": "Webbserverprogrammering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:262",
+  "nameHeading": "<h2>Webbserverprogrammering</h2>",
+  "description": "<p>Ämnet webbserverprogrammering behandlar skapandet av dynamiska lösningar för webben. Webben som plattform har en stor samhällspåverkan och har revolutionerat interaktionen mellan individer, myndigheter, företag och andra organisationer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet webbserverprogrammering ska syfta till att eleverna utvecklar färdigheter i att skapa funktionalitet för dynamiska webbplatser. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt om samspelet mellan olika typer av applikationslogik. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder och riktlinjer för god praxis och säkerhet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och testa framställning av den mjukvara som driver webbplatser eller applikationer. Eleverna ska också ges möjlighet att utveckla färdigheter i programmering av serversideskript, användning av externa datakällor och administration av webbservrar och databaser.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform. I undervisningen ska eleverna även ges möjlighet till praktiskt arbete med utveckling av dynamiska webbplatser. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom webbserverprogrammering.</p> <h5><em>Undervisningen i ämnet webbserverprogrammering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om tekniker som används för att bygga dynamiska webbplatser.</li> <li>Förmåga att skapa dynamiska webbplatser enligt standarder och riktlinjer för god praxis.</li> <li>Förmåga att planera, genomföra och utvärdera utvecklingsprojekt för dynamiska webbplatser.</li> <li>Förmåga att identifiera och förebygga säkerhetsbrister vid utvecklingen av dynamiska webbplatser.</li> </ul><h3>Nivåer i ämnet webbserverprogrammering</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet webbutveckling och nivå 1 i ämnet programmering.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: WEBS1000X</h3>",
+      "code": "WEBS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet webbserverprogrammering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Några vanliga lösningar och språk för att skapa dynamiska webbplatser.</li> <li>Webbserverns och dynamiska webbplatsers grundläggande funktionalitet, installation och handhavande samt enklare administration.</li> <li>Programmering av mindre och avgränsade lösningar för att skapa dynamiska webbplatser enligt god praxis, med fokus på serversidan.</li> <li>Enklare användning av lösningar för att lagra data under och mellan sessioner.</li> <li>Enklare permanent datalagring och åtkomst på serversidan, till exempel relationsdatabas, textfiler eller annan teknik.</li> <li>Vanligt förekommande applikationsarkitektur och separation av olika slags logik.</li> <li>Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning och driftsättning.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt.</li> <li>Grundläggande principer för kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.</li> <li>Grundläggande principer för säkerhet och sätt att identifiera hot och sårbarheter samt grundläggande åtgärder för att motverka attacker.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: WEBS2000X</h3>",
+      "code": "WEBS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet webbserverprogrammering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Vanliga lösningar och språk för att skapa dynamiska webbplatser.</li> <li>Webbserverns och dynamiska webbplatsers funktionalitet, installation, handhavande och konfiguration.</li> <li>Programmering på server- och klientsida för att skapa dynamiska webbplatser enligt god praxis.</li> <li>Lösningar för att lagra data under och mellan sessioner.</li> <li>Permanent datalagring i relationsdatabas och även med annan teknik.</li> <li>Applikationsarkitektur och separation av olika slags logik samt standardiserade datautbytesformat.</li> <li>Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Systemering, kodning, optimering, testning och driftsättning.</li> <li>Dokumentation av utvecklingsprocess och färdig produkt, däribland kod och mjukvarugränssnitt.</li> <li>Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.</li> <li>Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> tekniker som används för att bygga dynamiska webbplatser.</p> <p>Eleven skapar <strong>enkla</strong> dynamiska webbplatser. I arbetet följer eleven standarder och riktlinjer för god praxis.</p> <p>Eleven planerar, genomför och utvärderar med <strong>viss säkerhet</strong> utvecklingsprojekt för dynamiska webbplatser.</p> <p>Eleven identifierar och förebygger säkerhetsbrister med <strong>godtagbart</strong> resultat vid utveckling av dynamiska webbplatser.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> tekniker som används för att bygga dynamiska webbplatser.</p> <p>Eleven skapar <strong>relativt komplexa</strong> dynamiska webbplatser. I arbetet följer eleven standarder och riktlinjer för god praxis.</p> <p>Eleven planerar, genomför och utvärderar med <strong>säkerhet</strong> utvecklingsprojekt för dynamiska webbplatser.</p> <p>Eleven identifierar och förebygger säkerhetsbrister med <strong>gott</strong> resultat vid utveckling av dynamiska webbplatser.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> tekniker som används för att bygga dynamiska webbplatser.</p> <p>Eleven skapar <strong>komplexa</strong> dynamiska webbplatser. I arbetet följer eleven standarder och riktlinjer för god praxis.</p> <p>Eleven planerar, genomför och utvärderar med <strong>god säkerhet</strong> utvecklingsprojekt för dynamiska webbplatser.</p> <p>Eleven identifierar och förebygger säkerhetsbrister med <strong>mycket gott</strong> resultat vid utveckling av dynamiska webbplatser.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.102Z"
+}

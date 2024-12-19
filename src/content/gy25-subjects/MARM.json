@@ -1,0 +1,92 @@
+{
+  "code": "MARM",
+  "name": "Marin motorteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:318",
+  "nameHeading": "<h2>Marin motorteknik</h2>",
+  "description": "<p>Ämnet marin motorteknik behandlar marina motorers uppbyggnad, funktion och användningsområden samt bakomliggande principer för deras mekanik. Skador på fartyget eller fartygets utrustning kan leda till att människor, fartyg eller miljö utsätts för fara. Korrekt utfört underhålls- och reparationsarbete är därför avgörande för både säkerhet och hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet marin motorteknik ska syfta till att eleverna utvecklar kunskaper om marina motorer, deras drivlinor och huvudkomponenter samt förmåga att utföra underhåll, monterings- och demonteringsarbete på marina motorer och deras framdriftssystem. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra och utvärdera arbetsuppgifter i relation till uppsatta mål för kvalitet, säkerhet, ekonomi och miljö. Eleverna ska dessutom ges möjlighet att utveckla förmåga att hantera material, verktyg och utrustning samt de informationssystem som används för att lösa arbetsuppgifterna. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla kännedom om branschens ansvar för hållbar utveckling. Produkt- och teknikutvecklingen inom arbetsområdet ställer krav på anpassning och flexibilitet. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>Arbete inom de marintekniska områdena innebär flera olika risker. Arbetsmiljö och personlig säkerhet ska därför ha en central plats i undervisningen och eleverna ska ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området. Eleverna ska ges möjlighet att utveckla förmåga att arbeta med hänsyn till ergonomi, hälsa och säkerhet samt att identifiera, förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till attityder och värderingar på arbetsplatsen. Eleverna ska ges rikligt med tillfällen att använda fackspråk. Därigenom ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i olika yrkessammanhang. Eleverna ska även ges möjlighet att utveckla förmåga att föra värderande diskussioner om arbetsprocess och resultat.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Arbetsuppgifterna ska vara konstruerade med utgångspunkt i situationer som eleverna kan komma att möta i sin yrkesutövning. På så sätt ska undervisningen ge eleverna möjlighet att utveckla förståelse av arbetets komplexitet samt problemlösnings- och initiativförmåga. Undervisningen ska organiseras så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet marin motorteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om marina motorers uppbyggnad, funktion och användningsområden.</li> <li>Förmåga att utföra arbete på marina motorer och drivlinor på ett säkert och hållbart sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att samverka och kommunicera i yrkessammanhang.</li> </ul><h3>Nivåer i ämnet marin motorteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MARM1000X</h3>",
+      "code": "MARM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marin motorteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Marina motorer</em></p> <ul> <li>Funktioner, egenskaper och användningsområden för olika motorkonstruktioner.</li> <li>Motorns huvudkomponenter och hur de samverkar.</li> <li>Motorns kyl-, el-, tänd-, bränsle- och smörjsystem.</li> <li>Olika framdrivningssystem och deras energikällor, däribland el- och förbränningsmotorer.</li> <li>Olika typer av drivlinor.</li> <li>Kommunikations- och styrsystem mellan motor, reglage, instrument och övrig utrustning.</li> <li>Övergripande om motorns övervakningssystem, till exempel givare och vakt.</li> <li>Diagnosutrustning och specialverktyg, till exempel för kompressionsprov.</li> <li>Konsekvenser för miljö och driftssäkerhet som följd av eftersatt underhåll.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Miljökrav på arbetet och branschens ansvar för att främja hållbar utveckling.</li> <li>Säkerhet på arbetsplatsen och åtgärder för att förebygga person- och egendomsskador.</li> <li>Övergripande om lagar och andra bestämmelser inom området, däribland bestämmelser som gäller brandsäkerhet, arbetsmiljö och säkerhet.</li> </ul> <p><em>Arbete på marina motorer och drivlinor</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt ekonomiskt, socialt och miljömässigt hållbart sätt.</li> <li>Tolkning av verkstadshandböcker med arbetsinstruktioner och servicemanualer.</li> <li>Val och hantering av material för arbetsuppgiften med hänsyn till kvalitetskrav, kostnader samt hälso- och miljöaspekter.</li> <li>Val och säker hantering av verktyg och utrustning.</li> <li>Beräkning av material- och tidsåtgång. Samband mellan resursanvändning och hållbar utveckling.</li> <li>Felsökning av marina motorers komponenter.</li> <li>Enklare demonterings- och monteringsmoment.</li> <li>Funktionskontroll samt utvärdering och dokumentation av arbetsprocess och resultat.</li> <li>Källsortering och återvinning av material i enlighet med lagar och andra bestämmelser inom området.</li> <li>Ergonomiskt säkra och skadeförebyggande arbetssätt.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråkliga begrepp.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Vägledning av kund utifrån strategier för gott kundbemötande.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MARM2000X</h3>",
+      "code": "MARM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marin motorteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Marina motorer</em></p> <ul> <li>Olika marina motorers funktion.</li> <li>Olika framdrivningstekniker beroende på energikälla. Traditionella och moderna energikällor.</li> <li>Drivlinors huvudkomponenter samt deras funktion och samverkan.</li> <li>Kontroll och övervakningssystem för marina motorer, däribland felkoder.</li> <li>Diagnossystem för service, underhåll och felsökning.</li> <li>Konsekvenser för ekonomi och driftssäkerhet på grund av eftersatt underhåll.</li> <li>Motorunderhåll och service utifrån faktorer som påverkar miljön.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som reglerar arbetet, däribland bestämmelser om arbetsmiljö, säkerhet och konsumentjuridik.</li> </ul> <p><em>Arbete på marina motorer och drivlinor</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt ekonomiskt, socialt och miljömässigt hållbart sätt.</li> <li>Användning av arbetsinstruktioner, installationsbeskrivningar och servicelitteratur samt informationssystem i digitala miljöer.</li> <li>Val och hantering av material på ett säkert och hållbart sätt.</li> <li>Val, säker hantering och underhåll av verktyg och utrustning.</li> <li>Reservdelshantering.</li> <li>Beräkning av kostnader, material- och tidsåtgång. Samband mellan kostnader, kvalitet och hållbar utveckling.</li> <li>Analytisk felsökning på marina motorer och drivlinor.</li> <li>Demontering, montering och justering av komponenter i samband med servicearbete.</li> <li>Intervallservice på motor och drivlina enligt motortillverkarens instruktioner.</li> <li>Funktionskontroll samt utvärdering och dokumentation av utförd service.</li> <li>Avfallsförebyggande åtgärder.</li> <li>Arbeten inför långtids- eller vinterförvaring av motorer.</li> <li>Ergonomiskt säkra och skadeförebyggande arbetssätt.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråk med begrepp på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Vägledning av kund utifrån ekonomiska underlag.</li> <li>Situationsanpassat och yrkesetiskt bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MARM3000X</h3>",
+      "code": "MARM3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet marin motorteknik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Marina motorer och arbetsområdets metoder</em></p> <ul> <li>Olika marina motorers inre konstruktion med komponenters funktion och samband.</li> <li>Reparationsutrustning och reparationstekniker utifrån olika marina motorers framdrivning.</li> <li>Drivlinors funktion samt dimensionering av propellrar.</li> <li>Funktion och samband i motorns styrsystem.</li> <li>Yttre faktorer som påverkar motorns driftförhållanden.</li> <li>Metoder för diagnos och funktionskontroll.</li> <li>Konsekvenser av eftersatt underhåll kopplat till social, ekonomisk och miljömässig hållbarhet.</li> </ul> <p><em>Lagar och andra bestämmelser</em></p> <ul> <li>Lagar och andra bestämmelser som reglerar arbetet.</li> <li>Yrkesetiska principer gentemot kund.</li> </ul> <p><em>Arbete på marina motorer och drivlinor</em></p> <ul> <li>Arbetsplanering och etablering av arbetsplats på ett säkert samt ekonomiskt, socialt och miljömässigt hållbart sätt.</li> <li>Användning av arbetsinstruktioner, installationsbeskrivningar och servicelitteratur samt informationssystem i digitala miljöer.</li> <li>Val och hantering av material på ett säkert och hållbart sätt.</li> <li>Val, säker hantering och underhåll av verktyg och utrustning.</li> <li>Reservdelshantering.</li> <li>Beräkning av arbetet som underlag för offert, order och faktura. Samband mellan kvalitet, yrkesetiska principer, kundpris och hållbar utveckling.</li> <li>Demontering, montering och justering av komponenter i samband med reparationsarbete.</li> <li>Felsökning, underhåll och reparation av marina motorer och drivlinor enligt motortillverkarens instruktioner.</li> <li>Installation av marina motorer, till exempel inombords- eller utombordsmotorer.</li> <li>Funktionskontroll samt utvärdering och dokumentation av arbete och resultat.</li> <li>Avfallsförebyggande åtgärder.</li> <li>Ergonomiskt säkra och skadeförebyggande arbetssätt.</li> </ul> <p><em>Samverkan och kommunikation</em></p> <ul> <li>Användning av fackspråk med begrepp på svenska och engelska.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Vägledning av kund utifrån teknisk och ekonomisk värdering.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, däribland attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om marina motorers uppbyggnad, funktion och användningsområden.</p> <p>Eleven utför arbete på marina motorer och drivlinor med <strong>godtagbart</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>visst</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>godtagbar</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om marina motorers uppbyggnad, funktion och användningsområden.</p> <p>Eleven utför arbete på marina motorer och drivlinor med <strong>gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>utvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>utvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om marina motorers uppbyggnad, funktion och användningsområden.</p> <p>Eleven utför arbete på marina motorer och drivlinor med <strong>mycket gott</strong> resultat. I arbetet hanterar eleven material, verktyg och utrustning med <strong>mycket gott</strong> handlag. Eleven utvärderar arbetsprocess och resultat samt ger <strong>välutvecklade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området samt använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven samverkar och kommunicerar i yrkessammanhang med <strong>välutvecklad</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.038Z"
+}

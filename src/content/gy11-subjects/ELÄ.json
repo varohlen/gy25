@@ -1,0 +1,105 @@
+{
+  "code": "ELÄ",
+  "name": "Elmätteknik",
+  "englishName": "Electricity metering technologies",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:155",
+  "skolfsAndring": "2022:95",
+  "nameHeading": "<h2>Elmätteknik</h2>",
+  "description": "<p>Ämnet elmätteknik handlar om hur olika instrument för att mäta elektriska storheter används. Även mätning av icke-elektriska storheter behandlas efter att de omvandlats med mätomvandlare till elektriska storheter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet elmätteknik ska syfta till att eleverna utvecklar kunskaper om mätning av elektriska storheter. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande mätgivare och om metoder för att samla in mätvärden. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om analys av mätresultat och av de fel och störningar som kan kan påverka mätresultatet.</p> <p>Genom experiment, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla sådana kunskaper i praktisk problemlösning som krävs vid arbete med mätgivare och mätinstrument.</p> <h4>Undervisningen i ämnet elmätteknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om begrepp inom mätteknik.</li> <li>Färdigheter i att använda oscilloskop och multimeter.</li> <li>Färdigheter i att använda spektrumanalysator.</li> <li>Förmåga att välja och använda mätgivare.</li> <li>Kunskaper om elektriska störningar.</li> <li>Förmåga att analysera mätresultat.</li> <li>Förmåga att dokumentera mätresultat.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Elmätteknik 1, 100 poäng. </li> <li>Elmätteknik 2, 100 poäng, som bygger på kursen elmätteknik 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ELÄELM01</h3>",
+      "code": "ELÄELM01",
+      "nameHeading": "<h2>Elmätteknik 1, 100 poäng</h2>",
+      "name": "Elmätteknik 1",
+      "englishName": "Electrical metering technology 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen elmätteknik 1 omfattar punkterna 1–2, 4 och 6–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande mättekniska begrepp, till exempel definitioner av måttenheter.</li> <li>Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning samt resistans med fokus på storlek och fasläge.</li> <li>Olika typer av mätgivare. Grundläggande egenskaper och användningsområden. Val av mätgivare.</li> <li>Metoder för analys av mätresultat samt mätresultats osäkerhet.</li> <li>Grundläggande standarder och metoder för dokumentation av mätresultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>i samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>tillfredsställande </strong>resultat dessa storheters variation i tiden enligt gällande standarder. Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>. Dessutom motiverar eleven <strong>översiktligt </strong>sitt val av mätgivare.</p><p>Eleven gör en <strong>enkel </strong>tolkning av sina mätresultat samt en <strong>enkel </strong>dokumentation av dem.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>efter samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>tillfredsställande </strong>resultat dessa storheters variation i tiden enligt gällande standarder. Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>. Dessutom motiverar eleven <strong>utförligt </strong>sitt val av mätgivare.</p><p>Eleven gör en tolkning av sina mätresultat samt en <strong>noggrann </strong>dokumentation av dem.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>efter samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med <strong>gott </strong>resultat dessa storheters variation i tiden enligt gällande standarder. Eleven väljer mätgivare och använder den <strong>med säkerhet</strong>. Dessutom motiverar eleven <strong>utförligt och nyanserat </strong>sitt val av mätgivare.</p><p>Eleven gör en <strong>komplex</strong> tolkning av sina mätresultat samt en <strong>noggrann och utförlig </strong>dokumentation av dem.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ELÄELM02</h3>",
+      "code": "ELÄELM02",
+      "nameHeading": "<h2>Elmätteknik 2, 100 poäng</h2>",
+      "name": "Elmätteknik 2",
+      "englishName": "Electrical metering technology 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen elmätteknik 2 omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Mättekniska begrepp, särskilt hur spårbarhet skapas.</li> <li>Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av ström, spänning och impedans samt dessa storheters variation i tiden.</li> <li>Spektrumanalysatorer för att mäta olika egenskaper hos elektriska mätobjekt genom att analysera tidssignalen och signalens spektrum.</li> <li>Fysikaliska funktioner hos olika mätgivare samt användningsområden för dessa. Val av mätgivare.</li> <li>Orsaker till att elektriska störningar uppstår, hur de fortplantas och hur de kan reduceras.</li> <li>Metoder för analys av mätresultat. Mätresultats osäkerhet.</li> <li>Standarder och metoder för dokumentation av mätresultat.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>i samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med</strong><strong> tillfredsställande </strong><strong>resultat</strong> dessa storheters variation i tiden enligt gällande standarder. Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med viss säkerhet</strong>. Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>. Eleven beskriver <strong>översiktligt</strong> hur mätgivare fungerar och när de ska användas. Dessutom motiverar eleven <strong>översiktligt </strong>sitt val av mätgivare.</p><p>Eleven gör en <strong>enkel </strong>tolkning av sina mätresultat. I samband med tolkningen redogör eleven <strong>översiktligt</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras. Eleven gör en <strong>enkel </strong>dokumentation av mätresultaten.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>efter samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med</strong><strong> tillfredsställande </strong><strong>resultat</strong> dessa storheters variation i tiden enligt gällande standarder. Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med viss säkerhet</strong>. Eleven väljer mätgivare och använder den <strong>med viss säkerhet</strong>. Eleven beskriver <strong>utförligt</strong> hur mätgivare fungerar och när de ska användas. Dessutom motiverar eleven <strong>utförligt </strong>sitt val av mätgivare.</p><p>Eleven gör en tolkning av sina mätresultat. I samband med tolkningen redogör eleven <strong>utförligt</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras. Eleven gör en <strong>noggrann </strong>dokumentation av mätresultaten.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande begrepp inom området mätteknik.</p><p>Eleven använder <strong>efter samråd </strong>med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar <strong>med</strong><strong> gott </strong><strong>resultat </strong>dessa storheters variation i tiden enligt gällande standarder. Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa <strong>med säkerhet</strong>. Eleven väljer mätgivare och använder den <strong>med säkerhet</strong>. Eleven beskriver <strong>utförligt och nyanserat</strong> hur mätgivare fungerar och när de ska användas. Dessutom motiverar eleven <strong>utförligt och nyanserat </strong>sitt val av mätgivare.</p><p>Eleven gör en <strong>komplex </strong>tolkning av sina mätresultat. I samband med tolkningen redogör eleven <strong>utförligt och nyanserat</strong> för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras. Eleven gör en <strong>noggrann och utförlig </strong>dokumentation av mätresultaten.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.981Z"
+}

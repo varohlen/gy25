@@ -1,0 +1,64 @@
+{
+  "code": "PSYO",
+  "name": "Psykologi – fördjupning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:199",
+  "nameHeading": "<h2>Psykologi – fördjupning</h2>",
+  "description": "<p>Ämnet psykologi – fördjupning behandlar olika sätt att förstå och förklara mänskliga tankar, känslor och beteenden utifrån psykologiska teorier.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet psykologi – fördjupning ska syfta till att eleverna utvecklar fördjupade kunskaper om psykologiska teorier och hur dessa kan relateras till olika mänskliga sammanhang. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om psykologins historiska framväxt, utveckling och vetenskapliga placering. Undervisningen ska behandla en eller flera av de mer övergripande psykologiska skolorna som till exempel psykodynamisk, humanistisk eller behavioristisk psykologi eller mer fenomenspecifika förklaringsmodeller som till exempel anknytnings-, motivations- eller intelligensteorier.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om en eller flera psykologiska teorier och om de begrepp, frågeställningar, förklaringsmodeller och samband som dessa innefattar. Genom undervisningen ska eleverna även ges möjlighet att kontextualisera olika typer av psykologiska frågeställningar i mötet med en eller flera psykologiska skolor eller fenomenspecifika förklaringsmodeller.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av både människans och ämnets komplexitet samt hur psykologiska teorier kan avspeglas i såväl vardagsliv och arbetsliv som i en större samhällelig kontext och i globala sammanhang. Undervisningen ska också ge eleverna möjlighet att möta olika uppfattningar och synsätt samt att själva formulera, uttrycka och pröva ställningstaganden. Därigenom ska eleverna stimuleras till nyfikenhet, engagemang och deltagande i öppna diskussioner med utgångspunkt i psykologiska frågeställningar.</p> <p>I undervisningen ska ett sokratiskt och reflekterande arbetssätt betonas. Eleverna ska även ges möjlighet att utföra enkla experiment eller observationer med koppling till de studerade teorierna och att reflektera över resultaten.</p> <h5><em>Undervisningen i ämnet psykologi – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om psykologins historiska framväxt och dess vetenskapliga placering.</li> <li>Kunskaper om mänskliga tankar, känslor och beteenden utifrån valda psykologiska teorier.</li> <li>Förmåga att relatera valda psykologiska teorier till individnära och samhällelig kontext.</li> <li>Förmåga att undersöka och besvara psykologiska frågeställningar.</li> </ul><h3>Nivåer i ämnet psykologi – fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet psykologi.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PSYO1000X</h3>",
+      "code": "PSYO1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet psykologi – fördjupning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Psykologins historiska framväxt som en grund för de studerade teoriernas kontextuella placering, både ur ett samhälleligt och ett vetenskapligt perspektiv. Samband mellan framväxten av olika psykologiska teorier och samhällsutveckling.</li> <li>En eller flera av de mer övergripande psykologiska skolorna, till exempel dynamisk, humanistisk och behavioristisk psykologi eller fenomenspecifika förklaringsmodeller, till exempel anknytnings-, motivations- eller intelligensteorier.</li> <li>Användning av psykologiska teorier för att förklara mänskliga tankar, känslor och beteenden på individuell och kontextuell nivå.</li> <li>Hur psykologiska teorier kan avspeglas i olika situationer, till exempel i vardagsliv, arbetsliv och samhällsliv.</li> <li>Kvalitativa och kvantitativa forskningsmetoder inom psykologin.</li> <li>Utförande av enkla experiment, undersökningar eller observationer samt reflektion över metod och resultat.</li> <li>Presentation av resultat med hjälp av olika uttrycksformer, både muntligt och skriftligt.</li> <li>Källkritisk reflektion över psykologiska frågeställningar, psykologiska teorier och deras tillämpning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om psykologins historiska framväxt och för <strong>enkla</strong> resonemang om psykologins vetenskapliga placering.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om mänskliga tankar, känslor och beteenden utifrån valda psykologiska teorier.</p> <p>Eleven relaterar valda psykologiska teorier till individnära och samhällelig kontext med <strong>delvis</strong> underbyggda resonemang.</p> <p>Eleven genomför <strong>enkla</strong> experiment, undersökningar eller observationer med utgångspunkt i de valda teorierna och gör <strong>enkla</strong> reflektioner över resultaten.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om psykologins historiska framväxt och för <strong>välgrundade</strong> resonemang om psykologins vetenskapliga placering.</p> <p>Eleven visar <strong>goda</strong> kunskaper om mänskliga tankar, känslor och beteenden utifrån valda psykologiska teorier.</p> <p>Eleven relaterar valda psykologiska teorier till individnära och samhällelig kontext med <strong>väl</strong> underbyggda resonemang.</p> <p>Eleven genomför <strong>genomarbetade</strong> experiment, undersökningar eller observationer med utgångspunkt i de valda teorierna och gör <strong>välgrundade</strong> reflektioner över resultaten.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om psykologins historiska framväxt och för <strong>välgrundade och nyanserade</strong> resonemang om psykologins vetenskapliga placering.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om mänskliga tankar, känslor och beteenden utifrån valda psykologiska teorier.</p> <p>Eleven relaterar valda psykologiska teorier till individnära och samhällelig kontext med <strong>mycket väl</strong> underbyggda resonemang.</p> <p>Eleven genomför <strong>väl genomarbetade</strong> experiment, undersökningar eller observationer med utgångspunkt i de valda teorierna och gör <strong>välgrundade och nyanserade</strong> reflektioner över resultaten.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.068Z"
+}

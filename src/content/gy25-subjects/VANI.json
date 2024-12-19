@@ -1,0 +1,78 @@
+{
+  "code": "VANI",
+  "name": "Våningsservice",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:255",
+  "nameHeading": "<h2>Våningsservice</h2>",
+  "description": "<p>Ämnet våningsservice omfattar städning, inredning och underhåll av rum och utrymmen inom besöksnäringens olika former av logi för privat-, grupp- och affärsrelaterat resande. Det behandlar även målgruppernas olika förväntningar på standard, servicenivå och tjänsteutbud.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet våningsservice ska syfta till att eleverna utvecklar förmåga att utföra våningsservice (housekeeping) inom besöksnäringens olika former av logi, till exempel camping, kryssningsfartyg och olika sorters hotell. Undervisningen ska leda till att eleverna utvecklar förmåga att kommunicera så att mötet med gästen blir yrkesmässigt och serviceinriktat. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om systematisk städning och underhåll och planering samt om inredning och dess påverkan på gästens upplevelse.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området våningsservice. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att arbeta på ett säkert och arbetsmiljöriktigt sätt. Eleverna ska ges möjlighet att diskutera ansvarsfrågor vad gäller etik och miljö inom verksamhetsområdet. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att utvärdera arbetsinsats och resultat. Vidare ska undervisningen stimulera elevernas nyfikenhet och lust till fortsatt lärande inom området.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att bemöta gäster med olika behov och förväntningar samt att hantera klagomål på ett sätt som är förenligt med verksamhetens mål. Genom kontakter med olika former av logi ska eleverna ges möjlighet att utveckla förståelse av både den stora variation av standard och servicenivå som finns inom området och av olika målgruppers önskemål.</p> <h5><em>Undervisningen i ämnet våningsservice ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika yrkesroller och arbetsuppgifter inom våningsservice.</li> <li>Förmåga att planera, genomföra och utvärdera arbetsuppgifter och resultat inom verksamhetsområdet.</li> <li>Förmåga att arbeta med hänsyn till ergonomi, miljö, ekonomi och säkerhet i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att i arbetet agera serviceinriktat och ansvarsfullt utifrån målgruppers och gästers olika behov.</li> <li>Förmåga att samarbeta och kommunicera samt att anpassa sitt agerande utifrån olika situationer.</li> </ul><h3>Nivåer i ämnet våningsservice</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet logi och värdskap.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VANI1000X</h3>",
+      "code": "VANI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet våningsservice på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Yrkesroller, arbetsuppgifter och organisation inom våningsservice.</li> <li>Metoder för systematisk och säker städning.</li> <li>Utrustning och maskiner för städning.</li> <li>Ergonomiska arbetssätt.</li> <li>Design, färg och form i inredning samt dess påverkan på upplevelsen.</li> <li>Inredning i gästrum och övriga lokaler, med hänsyn till säkerhet, ekonomi och miljö.</li> <li>Bedömning av kvalitet och resultat på utfört arbete.</li> <li>Miljömärkningar inom våningsservice.</li> <li>Arbetsmiljö och säkerhet i enlighet med lagar och andra bestämmelser inom området.</li> <li>Gästens integritet och säkerhet utifrån företagets policy.</li> <li>Service och bemötande, däribland omtanke om gästen inför ankomst och under vistelse.</li> <li>Olika målgrupper och deras skiftande behov.</li> <li>Klagomålshantering.</li> <li>Kommunikation och samverkan på individuell nivå, både inom och mellan olika avdelningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: VANI2000X</h3>",
+      "code": "VANI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet våningsservice på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering och genomförande av arbetsuppgifter inom våningsservice, till exempel upprättande av arbetstidsschema.</li> <li>Systematisk och säker städning samt underhåll. Kontroll av utfört arbete efter checklista.</li> <li>Utrustning och maskiner för städning och underhåll av rum och övriga utrymmen.</li> <li>Inköp av material och externa tjänster.</li> <li>Blommor, dekorationer och annat som förhöjer gästens upplevelse.</li> <li>Inredning med tanke på tillgänglighet för alla.</li> <li>Bedömning av kvalitet och resultat på utfört arbete.</li> <li>Betydelsen av ergonomiska arbetssätt för både individ och verksamhet.</li> <li>Certifieringar inom våningsservice, till exempel inom arbetsmiljö och hållbarhet.</li> <li>Arbetsmiljö och säkerhet i enlighet med lagar och andra bestämmelser inom området.</li> <li>Gästens integritet och säkerhet i enlighet med föreskrifter och företagets policy.</li> <li>Service och bemötande, däribland omtanke om gästen inför ankomst och under vistelse.</li> <li>Olika målgrupper och deras skiftande behov.</li> <li>Klagomålshantering, både fysiskt och digitalt.</li> <li>Kommunikation och samverkan både inom och mellan olika avdelningar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika yrkesroller och arbetsuppgifter.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> varierande arbetsuppgifter inom verksamhetsområdet. Dessutom utvärderar eleven sitt arbete och resultat.</p> <p>Eleven tar i arbetet hänsyn till ergonomi, miljö, ekonomi och säkerhet på ett <strong>godtagbart</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven agerar med <strong>viss säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt med hänsyn till olika målgrupper och gäster med särskilda behov.</p> <p>Eleven samarbetar och kommunicerar med andra samt anpassar med <strong>viss säkerhet</strong> sitt agerande efter situationen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika yrkesroller och arbetsuppgifter.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> varierande arbetsuppgifter inom verksamhetsområdet. Dessutom utvärderar eleven sitt arbete och resultat.</p> <p>Eleven tar i arbetet hänsyn till ergonomi, miljö, ekonomi och säkerhet på ett <strong>gott</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven agerar med <strong>säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt med hänsyn till olika målgrupper och gäster med särskilda behov.</p> <p>Eleven samarbetar och kommunicerar med andra samt anpassar med <strong>säkerhet</strong> sitt agerande efter situationen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika yrkesroller och arbetsuppgifter.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> varierande arbetsuppgifter inom verksamhetsområdet. Dessutom utvärderar eleven sitt arbete och resultat.</p> <p>Eleven tar i arbetet hänsyn till ergonomi, miljö, ekonomi och säkerhet på ett <strong>mycket gott</strong> sätt. Dessutom arbetar eleven i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven agerar med <strong>god säkerhet</strong> på ett serviceinriktat och ansvarsfullt sätt med hänsyn till olika målgrupper och gäster med särskilda behov.</p> <p>Eleven samarbetar och kommunicerar med andra samt anpassar med <strong>god säkerhet</strong> sitt agerande efter situationen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.098Z"
+}

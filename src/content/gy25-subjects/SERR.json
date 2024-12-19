@@ -1,0 +1,120 @@
+{
+  "code": "SERR",
+  "name": "Servering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:210",
+  "nameHeading": "<h2>Servering</h2>",
+  "description": "<p>Ämnet servering behandlar yrkesmässigt serveringsarbete i olika restaurangverksamheter. Ämnet behandlar presentation, försäljning och servering av mat och dryck samt gästbemötande. Det behandlar också utformning och organisation av olika typer av matsalar samt bestämmelser om hygien och arbetsmiljö inom området. Dessutom behandlar ämnet olika drycker.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet servering ska syfta till att eleverna utvecklar förmåga att utföra serveringsarbete samt att presentera och sälja mat och dryck. Därför ska undervisningen ge eleverna möjlighet att använda serveringsmetoder och bärtekniker samt att arbeta ergonomiskt. Undervisningen ska dessutom ge eleverna möjlighet att utveckla förmåga att utforma menyer, göra uppdukningar och bordsdekorationer samt att hantera och vårda redskap och annan utrustning. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om drycker och dryckesservering samt om ansvarsfull alkoholservering.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att utöva värdskap och ge god service. Eleverna ska dessutom ges möjlighet att utveckla förmåga att bemöta gäster samt att ta hänsyn till olika önskemål och behov. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller hygien, arbetsmiljö, hållbarhet och säkerhet inom yrkesområdet.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kreativitet och problemlösningsförmåga samt de kunskaper som behövs för att kunna situationsanpassa arbetet. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att kommunicera och använda fackspråk samt att samarbeta med andra. Undervisningen ska stimulera elevernas nyfikenhet och lust att lära samt ge dem möjlighet att reflektera över bemötande, faktorer som skapar en inbjudande måltidsmiljö, hållbarhet och etiska frågor kopplat till yrket.</p> <p><em>Undervisningen i ämnet servering ska ge eleverna förutsättningar att utveckla följande:</em></p> <ul> <li>Förmåga att planera och organisera arbetet efter situationens krav.</li> <li>Förmåga att utföra serveringsarbete samt att presentera och sälja mat och dryck.</li> <li>Förmåga att bemöta samt samarbeta och kommunicera med andra i samband med servering.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> <li>Kunskaper om drycker.</li> </ul><h3>Nivåer i ämnet servering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li> <li>Nivå 4, 200 poäng, som bygger på nivå 3.</li> <li>Nivå 5, 200 poäng, som bygger på nivå 4.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SERR1000X</h3>",
+      "code": "SERR1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet servering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Förberedelse inför servering, däribland iordningställande av matsal efter givna instruktioner.</li> <li>Vanliga mat- och dryckesmenyer.</li> <li>Utformning av enklare menyer utifrån anvisningar.</li> <li>Allergi- och specialkost samt olika kostval.</li> <li>Enklare servering av mat samt av varma och kalla drycker.</li> <li>Enklare dukningar och dekorationer utifrån givna instruktioner.</li> <li>Utrustning och material vid serveringsarbete.</li> <li>Enklare kassahantering och betalningsmoment.</li> <li>Grundläggande gästbemötande samt hur mat och dryck kan presenteras på ett enkelt sätt.</li> <li>Grundläggande fackspråk.</li> <li>Samarbete och kommunikation vid servering.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och livsmedelslagen.</li> <li>Alkoholservering.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Hållbarhets- och miljömärkningar.</li> <li>Vanliga kalla och varma drycker, däribland vin, öl, spritdrycker och alkoholfria drycker. Deras karaktär utifrån grundsmakerna. Provningsmetoder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERR2000X</h3>",
+      "code": "SERR2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet servering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Förberedelse inför servering, däribland iordningställande av matsal anpassat till olika serveringssätt.</li> <li>Mat- och dryckesmenyers uppbyggnad.</li> <li>Utformning av enklare menyer, till exempel efter säsong eller tillgång på råvaror.</li> <li>Anpassning av måltid till allergier och önskemål om specialkost och andra kostval.</li> <li>Etiska och miljömässiga frågor som rör mat och dryck.</li> <li>Servering av mat samt av kalla och varma drycker.</li> <li>Vanliga dukningar och dekorationer.</li> <li>Vanligt förekommande kassahantering och betalningsmoment.</li> <li>Gästbemötande. Hur mat och dryck kan presenteras på ett säljande sätt.</li> <li>Samarbete och kommunikation i arbetet.</li> <li>Lagar och andra bestämmelser inom området, däribland arbetsmiljölagen och alkohollagen.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Vanliga kalla och varma drycker, deras karaktär, tillverkning och användning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERR3000X</h3>",
+      "code": "SERR3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet servering på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Förberedelse inför servering, däribland iordningställande av matsal. Dukning efter situationens krav och för att skapa en inbjudande måltidsmiljö.</li> <li>Mat- och dryckesmenyers uppbyggnad ur ett historiskt och nutida perspektiv.</li> <li>Utformning av menyer anpassade för situationens krav, däribland ekonomisk och ekologisk hållbarhet samt efter säsong och tillfälle.</li> <li>Anpassning av måltid till allergier och önskemål om specialkost och andra kostval.</li> <li>Etiska och miljömässiga frågor som rör livsmedel och livsmedelshantering.</li> <li>Vanligt förekommande serveringsarbete, däribland tallriksservering, fatservering och bufféservering.</li> <li>Serveringsmetoder för olika måltidsdrycker, däribland vin, öl och spritdrycker.</li> <li>Kassahantering och betalningsmoment utifrån situationens krav.</li> <li>Säljande presentation av mat och dryck till gäst.</li> <li>Hur gästfrågor kan hanteras samt hur bemötandet av gästen kan påverka försäljningen.</li> <li>Samarbete och kommunikation i arbetet.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Nyanser i olika dryckers karaktär och hur dessa kan beskrivas.</li> <li>Historia, tradition och trender vad gäller drycker.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERR4000X</h3>",
+      "code": "SERR4000X",
+      "nameHeading": "<h2>Nivå 4, 200 poäng</h2>",
+      "name": "Nivå 4",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet servering på nivå 4 ska behandla följande centrala innehåll:</p> <ul> <li>Förberedelse inför servering, däribland iordningställande av matsal anpassat till gästantal, tidsramar och personalförutsättningar.</li> <li>Dukning efter tema, koncept och beställningsarrangemang.</li> <li>Utformning av en inbjudande måltidsmiljö anpassad till situationens krav.</li> <li>Mat- och dryckesmenyer för restaurang och beställningsarrangemang, däribland prissättning.</li> <li>Utformning av matsedel till beställningsarrangemang, till exempel utifrån traditioner, trender och teman med hänsyn tagen till ekonomiska och ekologiska aspekter.</li> <li>Anpassning av måltid till allergier samt önskemål om specialkost och andra kostval.</li> <li>Etiska, miljömässiga och ekonomiska val i arbetet.</li> <li>Serveringsarbete, däribland uppläggning och servering framför gäst utifrån situationens krav.</li> <li>Kassahantering och betalningsmoment utifrån situationens krav samt kassaredovisning.</li> <li>Serviceinriktat gästbemötande samt säljande presentation av mat och dryck till gäst utifrån situationens krav.</li> <li>Samarbete och kommunikation i arbetet.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Olika dryckers karaktär i kombination med mat utifrån sensorik.</li> <li>Några drycker, deras historiska utveckling och betydelse i dag.</li> <li>Fördjupning inom dryckesområdet, till exempel avseende kaffe, öl, champagne, barteknik eller vinprovning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SERR5000X</h3>",
+      "code": "SERR5000X",
+      "nameHeading": "<h2>Nivå 5, 200 poäng</h2>",
+      "name": "Nivå 5",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet servering på nivå 5 ska behandla följande centrala innehåll:</p> <ul> <li>Yrkesmässig förberedelse inför servering, däribland iordningställande av matsal.</li> <li>Olika sätt att skapa en helhetsupplevelse för gästen.</li> <li>Hur måltidsmiljö kan skapas på ett yrkesmässigt sätt och hur den kan påverka restaurangens försäljning.</li> <li>Yrkesmässig planering av mat- och dryckesmenyer samt utformning av menyer för offerter med hänsyn till ekonomisk och ekologisk hållbarhet.</li> <li>Anpassning av måltid till allergier och önskemål om specialkost och andra kostval.</li> <li>Yrkesmässig servering. Simultana moment kopplade till utsatta tidsramar.</li> <li>Traditionella och moderna matsalshantverk.</li> <li>Vanligt förekommande hantverksmässiga metoder vid servering och hantering av drycker, däribland dekantering.</li> <li>Dukning till fest, ceremoniella måltider, högtider och tematiska beställningsarrangemang.</li> <li>Yrkesmässig hantering av kassasystem och olika betalningsmoment samt kassaredovisning.</li> <li>Yrkesmässigt gästbemötande och yrkesmässig presentation av mat och dryck.</li> <li>Serviceinriktad och säljande kommunikation med gäst.</li> <li>Yrkesmässig försäljning och merförsäljning.</li> <li>Samarbete och kommunikation i arbetet.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Säkerhet och ergonomi i arbetet.</li> <li>Alkoholens konsekvenser och skadeverkningar. Ansvarsfull alkoholservering.</li> <li>Fördjupad beskrivning av dryckers karaktär utifrån sensorik. Hur olika drycker kan kombineras med mat. Hur ursprung och tillverkning påverkar dryckers karaktär. Rådgivning vid dryckesval.</li> <li>Fördjupning inom dryckesområdet, till exempel avseende kaffe, öl, champagne, barteknik eller vinprovning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven utför serveringsarbete samt presenterar och säljer mat och dryck med <strong>viss säkerhet</strong>.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>godtagbart</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om drycker.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>gott</strong> sätt.</p> <p>Eleven utför serveringsarbete samt presenterar och säljer mat och dryck med <strong>säkerhet</strong>.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>goda</strong> kunskaper om drycker.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och organiserar arbetet på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven utför serveringsarbete samt presenterar och säljer mat och dryck med <strong>god säkerhet</strong>.</p> <p>Eleven bemöter samt samarbetar och kommunicerar med andra på ett <strong>mycket gott</strong> sätt.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om drycker.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.079Z"
+}

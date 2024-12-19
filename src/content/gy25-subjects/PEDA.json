@@ -1,0 +1,64 @@
+{
+  "code": "PEDA",
+  "name": "Pedagogiskt arbete",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:86",
+  "nameHeading": "<h2>Pedagogiskt arbete</h2>",
+  "description": "<p>Ämnet pedagogiskt arbete har sin grund i pedagogik och didaktik med fokus på lärandets praktik och tar sin utgångspunkt i den pedagogiska yrkesverksamheten. Ämnet behandlar arbetsuppgifter och yrkesroller inom pedagogiska verksamheter samt verksamheternas roll i samhället.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pedagogiskt arbete ska syfta till att eleverna utvecklar kunskaper om olika pedagogiska verksamheter och aktiviteter samt förmåga att arbeta utifrån en demokratisk värdegrund. Eleverna ska också ges möjlighet att utveckla kunskaper om samspelets och skapandets betydelse för människors lärande. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera och genomföra olika aktiviteter på ett pedagogiskt, säkert och ergonomiskt sätt samt att utvärdera och dokumentera aktiviteterna. Undervisningen ska dessutom leda till att eleverna utvecklar kunskaper om hur intresse för hållbar utveckling kan stimuleras i olika aktiviteter.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka för att möta och pedagogiskt leda människor utifrån ett etiskt, jämställt och inkluderande förhållningssätt. Undervisningen ska bidra till att eleverna förbereds för ett aktivt deltagande i samhället genom att utveckla deras förmåga att göra underbyggda ställningstaganden och bemöta andras åsikter. Eleverna ska också ges möjlighet att utveckla förmåga att skapa goda villkor för människors lärande och växande samt att på ett pedagogiskt sätt stödja och stimulera språkutveckling. Undervisningen ska leda till att eleverna utvecklar kunskaper om förebyggande arbete för säkerhet samt om åtgärder vid olycksfall. Dessutom ska eleverna ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</p> <p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen och eleverna ska vid olika tillfällen ges möjlighet att välja både arbetsformer och innehåll i pedagogiska verksamheter. Undervisningen ska lägga en grund för elevernas förmåga att yrkesmässigt och lösningsfokuserat utföra arbetsuppgifter. Därigenom ska deras kreativitet, innovationstänkande och lust att omsätta idéer i praktisk handling stimuleras. Genom fältstudier och medverkan i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av pedagogiska sammanhang. Eleverna ska också ges möjlighet att reflektera över och diskutera ämnesinnehållet och centrala begrepp samt egna och andras handlingar och attityder i olika pedagogiska sammanhang.</p> <h5><em>Undervisningen i ämnet pedagogiskt arbete ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika pedagogiska verksamheter och aktiviteter samt om samspelets och skapandets betydelse för människors lärande och växande.</li> <li>Förmåga att planera, genomföra, dokumentera och utvärdera olika aktiviteter inom området.</li> <li>Förmåga att arbeta på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera och samverka för att bemöta och pedagogiskt leda människor i olika situationer.</li> </ul><h3>Nivåer i ämnet pedagogiskt arbete</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PEDA1000X</h3>",
+      "code": "PEDA1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pedagogiskt arbete på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Människors olikheter samt förutsättningar och möjligheter för lärande och deltagande i olika situationer och aktiviteter. Innebörden av ett inkluderande arbetssätt.</li> <li>Lekens och samspelets betydelse för lärande och växande.</li> <li>Skapande verksamheters betydelse för lärande och växande.</li> <li>Pedagogers och andra vuxnas roll och betydelse för lärande och utveckling.</li> <li>Olika pedagogiska yrkesroller.</li> <li>Planering, genomförande, utvärdering och dokumentation av pedagogiska verksamheter och aktiviteter.</li> <li>Metoder för att utvärdera på vilket sätt olika pedagogiska verksamheter tillgodoser människors möjligheter att utvecklas och lära utifrån läroplanens mål och intentioner.</li> <li>Användning av bild, form, drama, dans och musik som redskap i pedagogiska sammanhang.</li> <li>Olika berättaraktiviteter, till exempel med hjälp av digitala verktyg och bilder.</li> <li>Olika metoder, tekniker och material för skapande aktiviteter.</li> <li>Utveckling av fantasi och föreställningsförmåga genom dramapedagogiska övningar.</li> <li>Hur människors olika val i vardagen kan bidra till en hållbar utveckling.</li> <li>Hur människor, natur och samhälle påverkar varandra.</li> <li>Olika konflikthanteringsmetoder, till exempel genom drama och rollspel.</li> <li>Förebyggande arbete för barnsäkerhet samt åtgärder vid olycksfall.</li> <li>Första hjälpen med HLR (hjärt-lungräddning).</li> <li>Ergonomiskt och säkert utförande av arbete i olika situationer.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Hur språk och kommunikation kan användas som pedagogiskt redskap.</li> <li>Hur språkutveckling kan stödjas och stimuleras genom olika aktiviteter och arbetssätt, till exempel genom dialoger, öppna frågor och följdfrågor.</li> <li>Kommunikation och pedagogiskt ledarskap samt ett yrkesetiskt förhållningssätt.</li> <li>Samarbete i arbetslag.</li> <li>Samverkan med andra yrkesgrupper och verksamheter samt med vårdnadshavare.</li> <li>Metoder och former för utvecklingssamtal i pedagogiska verksamheter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika pedagogiska verksamheter och aktiviteter och redogör <strong>översiktligt</strong> för samspelets och skapandets roll och betydelse för lärande och växande.</p> <p>Eleven planerar och genomför olika pedagogiska aktiviteter med <strong>godtagbart</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>enkelt</strong> sätt samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven arbetar på ett sätt som är säkert för sig själv och andra i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar samt leder andra på ett pedagogiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika pedagogiska verksamheter och aktiviteter och redogör <strong>utförligt</strong> för samspelets och skapandets roll och betydelse för lärande och växande.</p> <p>Eleven planerar och genomför olika pedagogiska aktiviteter med <strong>gott</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>utvecklat</strong> sätt samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven arbetar på ett sätt som är säkert för sig själv och andra i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar samt leder andra på ett pedagogiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika pedagogiska verksamheter och aktiviteter och redogör <strong>utförligt och nyanserat</strong> för samspelets och skapandets roll och betydelse för lärande och växande.</p> <p>Eleven planerar och genomför olika pedagogiska aktiviteter med <strong>mycket gott</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>välutvecklat</strong> sätt samt ger förslag på hur arbetet kan utvecklas.</p> <p>Eleven arbetar på ett sätt som är säkert för sig själv och andra i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar samt leder andra på ett pedagogiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.058Z"
+}

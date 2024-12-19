@@ -1,0 +1,78 @@
+{
+  "code": "GRAN",
+  "name": "Gränssnittsdesign",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:253",
+  "nameHeading": "<h2>Gränssnittsdesign</h2>",
+  "description": "<p>Gränssnittsdesign behandlar interaktionen mellan människa och digital teknik samt designaspekterna i utvecklingen av användbara, tillgängliga och estetiskt tilltalande gränssnitt. Ämnet gränssnittsdesign behandlar metoder för att skapa en positiv och inkluderande användarupplevelse till nytta för både individer och samhället i stort.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet gränssnittsdesign ska syfta till att eleverna utvecklar kunskaper om principerna bakom olika gränssnitt. Eleverna ska ges möjlighet att utveckla förmåga att skapa användbara, estetiskt tilltalande och tillgängliga användargränssnitt för interaktion med exempelvis webbplatser, mjukvaruapplikationer eller inbyggda system. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om formspråk och de element som ett gränssnitt utgörs av samt om hur grafik och ljud anpassas inom gränssnittsutveckling. Undervisningen ska även bidra till att eleverna utvecklar förmåga att använda terminologi inom området. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om de lagar och andra bestämmelser samt principer en gränssnittsdesigner behöver förhålla sig till.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om och färdigheter i projektmetodik för gränssnittsdesign, från förstudie och målbeskrivning till färdig prototyp och stilguide. Eleverna ska också ges möjlighet att utveckla förmåga att använda metoder för användbarhetstestning.</p> <p>Undervisningen ska betona ett problemlösande arbetssätt där eleverna får möjlighet att omsätta sina kunskaper till omdömesgilla och praktiska handlingar med utgångspunkt i verklighetsnära situationer. Vidare ska undervisningen lämna utrymme för diskussion om och reflektion över frågor om hur användbarhet och tillgänglighet utformas i gränssnitt.</p> <h5><em>Undervisningen i ämnet gränssnittsdesign ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera, genomföra och utvärdera projekt med utformning av användargränssnitt utifrån användares behov och förutsättningar.</li> <li>Förmåga att utifrån tekniska förutsättningar skapa en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.</li> <li>Kunskaper om hur grafik och ljud anpassas inom gränssnittsutveckling.</li> <li>Kunskaper om lagar och andra bestämmelser inom området och hur de påverkar utformningen av digitala system.</li> </ul><h3>Nivåer i ämnet gränssnittsdesign</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GRAN1000X</h3>",
+      "code": "GRAN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet gränssnittsdesign på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Utvecklingsprocessen för ett gränssnitts olika delar, till exempel idégenerering, skisser, prototyp, testning och dokumentation.</li> <li>Förstudier och kravformulering utifrån identifikation av målgrupper och typanvändare samt kartläggning av liknande gränssnitt.</li> <li>Undersökningsverktyg för gränssnittsdesign.</li> </ul> <p><em>Användbarhet</em></p> <ul> <li>Principer för ett inkluderande gränssnitt. Riktlinjer, principer, tekniker och testning för tillgänglighet.</li> <li>Informationsarkitektur samt användbar och tillgänglig navigation.</li> <li>Principer för användbarhet samt metoder för att testa användbarhet.</li> <li>Faktorer som skapar en god användarupplevelse.</li> <li>Undersökning och beskrivning av användarresan inom och mellan system.</li> </ul> <p><em>Design</em></p> <ul> <li>Vanligt förekommande gränssnittselement och hur gränssnittet anpassas till olika enheter.</li> <li>Faktorer som möjliggör kommunikation av specifika budskap.</li> <li>Redigering och anpassning av grafik och ljud till ett gränssnitt.</li> <li>Typsnitt, färgscheman och principer för layout av gränssnitt.</li> <li>Kommunikationsteknik och textbearbetning för effektiv anpassning till relevant medium.</li> </ul> <p><em>Lagar</em></p> <ul> <li>Lagar och andra bestämmelser inom området, till exempel gällande personuppgifter och upphovsrätt.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: GRAN2000X</h3>",
+      "code": "GRAN2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet gränssnittsdesign på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Process</em></p> <ul> <li>Utvecklingsprocessen för ett gränssnitts olika delar, däribland idégenerering, skisser, återkoppling till beställare, prototyp, testning, dokumentation och överlämnande för implementering.</li> <li>Förstudier och kravformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare.</li> <li>Tekniska förutsättningar kopplat till utveckling av ett gränssnitt samt formulering av målsättningar och framgångskriterier.</li> <li>Val av lämpliga verktyg och prototyper.</li> </ul> <p><em>Användbarhet</em></p> <ul> <li>Krav på ett inkluderande gränssnitt. Riktlinjer, principer, tekniker och testning för tillgänglighet.</li> <li>Utveckling av gränssnitt utifrån människans förutsättningar och begränsningar vid interaktion med komplexa system.</li> <li>Informationsarkitektur, testning och principer för användbarhet inom valt område.</li> </ul> <p><em>Design</em></p> <ul> <li>Gränssnittselement inom valt område och hur gränssnittet anpassas utifrån olika enheter och olika tillämpningsområden.</li> <li>Produktion, redigering och anpassning av grafik till ett gränssnitt, till exempel 3D-modellering eller virtuella miljöer.</li> <li>Kreativt skapande av gränssnitt utifrån principer för layout.</li> </ul> <p><em>Lagar</em></p> <ul> <li>Utformning av digitala system i enlighet med lagar och andra bestämmelser inom området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar och genomför med <strong>viss</strong> skicklighet gränssnittsprojekt anpassade utifrån användare och gör <strong>enkla</strong> utvärderingar.</p> <p>Eleven utgår från principer för användbarhet och skapar med <strong>viss</strong> skicklighet en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur grafik och ljud anpassas för layout av gränssnitt.</p> <p>Eleven resonerar <strong>översiktligt</strong> om hur principer, lagar och andra bestämmelser påverkar utformningen av digitala system.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar och genomför med <strong>god</strong> skicklighet gränssnittsprojekt anpassade utifrån användare och gör <strong>genomarbetade</strong> utvärderingar.</p> <p>Eleven utgår från principer för användbarhet och skapar med <strong>god</strong> skicklighet en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur grafik och ljud anpassas för layout av gränssnitt.</p> <p>Eleven resonerar <strong>utförligt</strong> om hur principer, lagar och andra bestämmelser påverkar utformningen av digitala system.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar och genomför med <strong>mycket god</strong> skicklighet gränssnittsprojekt anpassade utifrån användare och gör <strong>väl genomarbetade</strong> utvärderingar.</p> <p>Eleven utgår från principer för användbarhet och skapar med <strong>mycket god</strong> skicklighet en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur grafik och ljud anpassas för layout av gränssnitt.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om hur principer, lagar och andra bestämmelser påverkar utformningen av digitala system.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.009Z"
+}

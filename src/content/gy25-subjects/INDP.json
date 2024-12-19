@@ -1,0 +1,78 @@
+{
+  "code": "INDP",
+  "name": "Industriell produktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:4",
+  "nameHeading": "<h2>Industriell produktion</h2>",
+  "description": "<p>Tillverknings- och processindustrin består av olika led där råvaror förädlas till produkter. Den tekniska utvecklingen skapar nya förutsättningar för konkurrenskraft och hållbar utveckling i varje led av den industritekniska processen. Ämnet industriell produktion behandlar den process där produktionsidéer utvecklas till ett tillverkningssystem.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell produktion ska syfta till att eleverna utvecklar kunskaper om hur en produktionsidé utvecklas samt om metoder och tekniker som bidrar till en hållbar, driftsäker och konkurrenskraftig produktion. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om kundorienterad tillverkning, olika roller inom tillverkning och vikten av en god arbetsmiljö.</p> <p>Undervisningen ska bidra till att stimulera elevernas intresse för produktionens utveckling samt alternativa produktionstekniker. På så vis ska eleverna ges möjlighet att möta framtidens behov av ett digitaliserat och hållbart samhälle. Eleverna ska även ges möjlighet att utveckla kunskaper om logistik, effektiviseringar, produktionsekonomi, marknadsföring och resurseffektivitet.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att tolka och följa instruktioner och anvisningar. Inom det industritekniska området är det viktigt att undvika driftstopp och att säkerställa kvalitet på utfört arbete. Därför ska undervisningen bidra till att eleverna utvecklar förståelse av driftsäkerhetens betydelse samt förmåga att tillämpa metoder för att kvalitetssäkra och driftsäkra tillverkningssystem.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla ett innovativt förhållningssätt och förståelse av sambandet mellan praktiskt arbete och yrkesteori. Undervisningen ska ge eleverna möjlighet att arbeta tillsammans med andra, betona ett problemlösande arbetssätt och ta sin utgångspunkt i situationer i produktionsmiljön. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor och vad som är ett klokt handlande inom industriell produktion.</p> <h5><em>Undervisningen i ämnet industriell produktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur en produktionsidé utvecklas samt funktioner, metoder och ansvarsområden i ett tillverkningssystem.</li> <li>Kunskaper om faktorer som främjar en konkurrenskraftig och miljömässigt hållbar produktion.</li> <li>Förmåga att arbeta med tillverkningssystem på ett säkert sätt genom att följa instruktioner och säkerhetsanvisningar.</li> <li>Förmåga att tillämpa metoder för att kvalitetssäkra, driftsäkra och effektivisera tillverkningssystem.</li> </ul><h3>Nivåer i ämnet industriell produktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDP1000X</h3>",
+      "code": "INDP1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell produktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen och tillverkningssystem</em></p> <ul> <li>Hur en produktionsidé utvecklas.</li> <li>Metoder för att arbeta i projekt.</li> <li>Organisation och roller inom olika verksamhetsområden inom industrin.</li> <li>Introduktion till material, utrustning och produktionsmetoder utifrån något industritekniskt område.</li> </ul> <p><em>Produktion, hållbar utveckling och säkerhet</em></p> <ul> <li>Sambanden mellan kundens behov, produktens funktion och produktionens lönsamhet.</li> <li>Hur fasta, rörliga, direkta och indirekta kostnader påverkar produktionen.</li> <li>Introduktion till produktionens påverkan på miljön, till exempel vad gäller råvarumaterial, resursanvändning och återvinning.</li> <li>Logistik i industriteknisk produktion, till exempel orderingång, transporter och leveransprecision.</li> <li>Säkert och miljömässigt arbete i enlighet med rutiner, lagar och andra bestämmelser som gäller inom industriell produktion.</li> <li>Samarbetets betydelse för en fungerande, effektiv och hållbar produktion.</li> </ul> <p><em>Systematisk kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Definition av kvalitet och dess innebörd för produktionen och produktionsresultatet.</li> <li>Driftsäkerhet och dess betydelse för tillverkningssystemet.</li> <li>Systematiskt förbättringsarbete, till exempel faktainsamling, motåtgärder och utvärdering.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDP2000X</h3>",
+      "code": "INDP2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell produktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Produktionsprocessen och tillverkningssystem</em></p> <ul> <li>Hur förändringar i en produktionsidé, till exempel vad gäller design, funktion, kvalitet och hållbarhet, påverkar befintlig produktion.</li> <li>Metoder för att organisera och arbeta i projekt inom industriell produktion.</li> <li>Metoder för att planera och välja material, utrustning och produktionsmetod.</li> <li>Processtyrning och informationssystem inom industriell produktion.</li> </ul> <p><em>Produktion, hållbar utveckling och säkerhet</em></p> <ul> <li>Anpassning av produktionen utifrån förändringar i kundens behov och produktens funktion.</li> <li>Planering av industriell produktion utifrån kostnader som påverkar produktionen.</li> <li>Metoder och tekniker som bidrar till en hållbar utveckling, till exempel val av produktionsmetoder och energianvändning.</li> <li>Logistik i industriell produktion, till exempel råvaruinköp, produktionsplanering, planeringssystem och lagerföring.</li> <li>Säkert och miljömässigt arbete i enlighet med rutiner, lagar och andra bestämmelser som gäller valt tillverkningssystem.</li> <li>Samarbetets betydelse för en fungerande, effektiv och hållbar produktion.</li> </ul> <p><em>Systematisk kvalitetssäkring och driftsäkerhet</em></p> <ul> <li>Provtagning och analys inom kvalitetsarbete.</li> <li>Driftsäkerhet utifrån valt tillverkningssystem.</li> <li>Systematiskt förbättringsarbete, till exempel detaljerad problemdefiniering, rotorsaksanalyser och uppföljningssystem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>enkelt</strong> sätt för hur en produktionsidé utvecklas till ett tillverkningssystem. Eleven visar <strong>godtagbara</strong> kunskaper om funktioner, metoder och ansvarsområden inom ett tillverkningssystem.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om faktorer som främjar en konkurrenskraftig och miljömässigt hållbar produktion.</p> <p>Eleven följer instruktioner och säkerhetsföreskrifter och arbetar på ett <strong>i huvudsak fungerande</strong> sätt med tillverkningssystem.</p> <p>Eleven tillämpar med <strong>viss säkerhet</strong> metoder inom kvalitetssäkring, driftsäkring och logistik.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>utvecklat</strong> sätt för hur en produktionsidé utvecklas till ett tillverkningssystem. Eleven visar <strong>goda</strong> kunskaper om funktioner, metoder och ansvarsområden inom ett tillverkningssystem.</p> <p>Eleven visar <strong>goda</strong> kunskaper om faktorer som främjar en konkurrenskraftig och miljömässigt hållbar produktion.</p> <p>Eleven följer instruktioner och säkerhetsföreskrifter och arbetar på ett <strong>fungerande</strong> sätt med tillverkningssystem.</p> <p>Eleven tillämpar med <strong>säkerhet</strong> metoder inom kvalitetssäkring, driftsäkring och logistik.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för hur en produktionsidé utvecklas till ett tillverkningssystem. Eleven visar <strong>mycket goda</strong> kunskaper om funktioner, metoder och ansvarsområden inom ett tillverkningssystem.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om faktorer som främjar en konkurrenskraftig och miljömässigt hållbar produktion.</p> <p>Eleven följer instruktioner och säkerhetsföreskrifter och arbetar på ett <strong>väl fungerande</strong> sätt med tillverkningssystem.</p> <p>Eleven tillämpar med <strong>god säkerhet</strong> metoder inom kvalitetssäkring, driftsäkring och logistik.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

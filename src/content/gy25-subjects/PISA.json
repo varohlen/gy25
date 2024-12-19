@@ -1,0 +1,78 @@
+{
+  "code": "PISA",
+  "name": "Pistmaskiner – reparations- och systemteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:332",
+  "nameHeading": "<h2>Pistmaskiner – reparations- och systemteknik</h2>",
+  "description": "<p>Ämnet pistmaskiner – reparations- och systemteknik behandlar felsökning och reparationer av fordonskomponenter och system i pistmaskiner och deras tilläggsutrustningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pistmaskiner – reparations- och systemteknik ska syfta till att eleverna utvecklar kunskaper om pistmaskiners motorer, drivlinor, system och komponenter samt olika tilläggsutrustningar. Undervisningen ska leda till att eleverna utvecklar förmåga att utföra reparationer av system och komponenter i pistmaskiner och deras tilläggsutrustningar. Eleverna ska dessutom ges möjlighet att utveckla förståelse av hur ett effektivt resursutnyttjande påverkar både driftsäkerhet och ekonomi. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda utrustning och teknisk information i samband med felsökning och reparationer.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra utfört arbete samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet. Dessa arbetsuppgifter ska ge eleverna möjlighet att både självständigt och tillsammans med andra arbeta med problemlösning under laborativa former.</p> <h5><em>Undervisningen i ämnet pistmaskiner – reparations- och systemteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om motorer, drivlinor och system samt deras olika komponenter i pistmaskiner och tilläggsutrustningar.</li> <li>Kunskaper om system för arbetshydraulik och kraftöverföring, deras uppbyggnad, komponenter, scheman och symboler.</li> <li>Kunskaper om specialverktyg, mät- och diagnosutrustning, teknisk information och digitala informationssystem.</li> <li>Förmåga att utföra felsökning och reparationer av pistmaskiners och tilläggsutrustningars olika system och komponenter.</li> <li>Förmåga att använda specialverktyg, digitala informationssystem, teknisk information och övrig utrustning i samband med felsökning och reparationer.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet pistmaskiner – reparations- och systemteknik</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PISA1000X</h3>",
+      "code": "PISA1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pistmaskiner – reparations- och systemteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Motorers grundkonstruktion och funktion, deras olika delsystem och komponenter samt hur de samverkar.</li> <li>Metoder för enklare felsökning och reparationer av motorer samt av deras olika system och komponenter.</li> <li>Orientering om delsystem och komponenter i olika el- och hybridfordons drivlinor.</li> <li>Orientering om maskinstyrnings- och snömätningssystem, deras grundläggande uppbyggnad och komponenter samt hur de samverkar och kommunicerar.</li> <li>Orientering om hydrauliska begrepp samt hydraulikscheman och deras symboler.</li> <li>Orientering om pistmaskiners olika typer av system för arbetshydraulik och kraftöverföring, deras uppbyggnad och vanligt förekommande komponenter.</li> <li>Olika typer av tilläggsutrustningar samt orientering om enklare felsökning och reparationer av deras hydrauliska system och komponenter, däribland av styrsystem för elektrohydrauliska system.</li> <li>Vanligt förekommande specialverktyg som används i samband med felsökning och reparationer av olika typer av fordon, däribland av elektrifierade fordon.</li> <li>Orientering om hur mät- och diagnosinstrument, teknisk information och digitala informationssystem används vid komponent- och kretsmätningar i samband med felsökning och reparationer av el- och elektroniksystem.</li> <li>Enklare felsökning och reparationer av system och komponenter i motorer och drivlinor.</li> <li>Enklare felsökning och reparationer av olika typer av redskap och tilläggsutrustningar för snöpreparering, till exempel av schaktblad, snöfräsar, spårslädar och vinschar.</li> <li>Enklare felsökning och reparationer av hydrauliska system och deras komponenter i pistmaskiner och tilläggsutrustningar.</li> <li>Användning av specialverktyg och skyddsutrustning enligt fordonstillverkarens anvisningar och branschens krav vid felsökning och reparationer av olika typer av fordon, däribland elektrifierade fordon.</li> <li>Användning av mät- och diagnosinstrument samt tolkning och analys av olika testresultat med stöd av teknisk information och digitala informationssystem på svenska och engelska.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Åtgärder för att förhindra person- och egendomsskador.</li> <li>Riskbedömning vid arbete i hydraulsystem samt miljömässig och säker hantering av hydraulolja.</li> <li>Riskbedömning i samband med felsökning och reparationer av elektrifierade fordon, deras högvoltssystem och olika komponenter enligt fordonstillverkarens anvisningar.</li> <li>Vanligt förekommande tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med arbetskamrater och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PISA2000X</h3>",
+      "code": "PISA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pistmaskiner – reparations- och systemteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Motorers system och komponenter, hur de samverkar och kommunicerar samt olika metoder för felsökning och reparationer av dessa.</li> <li>El- och hybridfordons energilagringssystem, komponenter, batterikapacitet och externa laddningsmetoder.</li> <li>Olika maskinstyrnings- och snömätningssystem samt olika metoder för felsökning och funktionskontroll av system och komponenter.</li> <li>Metoder för komponent- och kretsmätningar med stöd av teknisk information och digitala informationssystem i samband med felsökning och reparationer av olika el- och elektroniksystem.</li> <li>Pistmaskiners olika typer av system för arbetshydraulik och kraftöverföring, deras systemuppbyggnad, komponenter och funktioner samt hydraulikscheman.</li> <li>Olika metoder för felsökning och reparationer i olika typer av hydrauliska system och komponenter i tilläggsutrustningar, däribland av styrsystem för elektrohydrauliska system.</li> <li>Olika typer av specialverktyg som används i samband med felsökning och reparationer av olika typer av fordon, däribland elektrifierade fordon.</li> <li>Planering och genomförande av felsökning och reparationer av motorer, system och komponenter.</li> <li>Felsökning och reparationer av olika typer av redskap och tilläggsutrustningar för snöpreparering, till exempel av schaktblad, snöfräsar, spårslädar och vinschar.</li> <li>Felsökning och reparationer av hydrauliska system och deras komponenter i pistmaskiner och tilläggsutrustningar, däribland av styrsystem för elektrohydrauliska system.</li> <li>Funktionskontroll av maskinstyrnings- och snömätningssystem samt av deras komponenter.</li> <li>Användning av specialverktyg och skyddsutrustning enligt fordonstillverkarens anvisningar och branschens krav vid felsökning och reparationer av olika typer av fordon, däribland elektrifierade fordon.</li> <li>Användning av mät- och diagnosinstrument samt tolkning och analys av olika testresultat med stöd av teknisk information och digitala informationssystem på svenska och engelska.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete både självständigt och tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser.</li> <li>Åtgärder för att förhindra person- och egendomsskador.</li> <li>Riskbedömning vid arbete i hydraulsystem samt miljömässig och säker hantering av hydraulolja.</li> <li>Riskbedömning i samband med felsökning och reparationer av elektrifierade fordon, deras högvoltssystem och olika komponenter enligt fordonstillverkarens anvisningar.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om motorer, drivlinor, system och deras olika komponenter i pistmaskiner och tilläggsutrustningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om system för arbetshydraulik och kraftöverföring, deras uppbyggnad, komponenter, scheman och symboler.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om specialverktyg samt om hur mät- och diagnosutrustning, teknisk information och digitala informationssystem används i samband med felsökning och reparationer.</p> <p>Eleven utför med <strong>viss säkerhet</strong> felsökning och reparationer av pistmaskiners och tilläggsutrustningars olika system och komponenter enligt fordonstillverkarens anvisningar.</p> <p>Eleven använder med <strong>viss säkerhet</strong> specialverktyg, digitala informationssystem, teknisk information och övrig utrustning i samband med felsökning och reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om motorer, drivlinor, system och deras olika komponenter i pistmaskiner och tilläggsutrustningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om system för arbetshydraulik och kraftöverföring, deras uppbyggnad, komponenter, scheman och symboler.</p> <p>Eleven visar <strong>goda</strong> kunskaper om specialverktyg samt om hur mät- och diagnosutrustning, teknisk information och digitala informationssystem används i samband med felsökning och reparationer.</p> <p>Eleven utför med <strong>säkerhet</strong> felsökning och reparationer av pistmaskiners och tilläggsutrustningars olika system och komponenter enligt fordonstillverkarens anvisningar.</p> <p>Eleven använder med <strong>säkerhet</strong> specialverktyg, digitala informationssystem, teknisk information och övrig utrustning i samband med felsökning och reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om motorer, drivlinor, system och deras olika komponenter i pistmaskiner och tilläggsutrustningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om system för arbetshydraulik och kraftöverföring, deras uppbyggnad, komponenter, scheman och symboler.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om specialverktyg samt om hur mät- och diagnosutrustning, teknisk information och digitala informationssystem används i samband med felsökning och reparationer.</p> <p>Eleven utför med <strong>god säkerhet</strong> felsökning och reparationer av pistmaskiners och tilläggsutrustningars olika system och komponenter enligt fordonstillverkarens anvisningar.</p> <p>Eleven använder med <strong>god säkerhet</strong> specialverktyg, digitala informationssystem, teknisk information och övrig utrustning i samband med felsökning och reparationer.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt fordonstillverkarens krav. Dessutom arbetar eleven både självständigt och tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.061Z"
+}

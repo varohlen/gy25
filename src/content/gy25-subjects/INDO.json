@@ -1,0 +1,77 @@
+{
+  "code": "INDO",
+  "name": "Industriell automationsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:539",
+  "nameHeading": "<h2>Industriell automationsteknik</h2>",
+  "description": "<p>Ämnet industriell automationsteknik behandlar olika komponenters samverkan i ett automatiserat system. Automatiserade system är de processer med självstyrande funktioner som används i tillverknings- och processindustrin, men också i samhällstjänster som vatten- och energiförsörjning. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell automationsteknik ska syfta till att eleverna utvecklar kunskaper om olika former av automation som används i samhället och industrin. Genom programmering och felsökning i automatiserade system ska eleverna ges möjlighet att utveckla förmåga att arbeta systematiskt och problemlösande. Undervisningen ska även bidra till att eleverna utvecklar ingenjörsmässig förmåga att planera, genomföra och utvärdera arbete i industriella automatiserade system. Eleverna ska också ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt tekniskt område samt färdigheter i att använda olika former av systemdokumentation.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika begrepp och metoder inom industriell automation, samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att programmera och driftsätta industriella automatiserade system samt att förebygga och avhjälpa fel och föreslå förbättringar.</p> <p>Eleverna ska ges möjlighet att utveckla kunskaper om maskinsäkerhet och hur arbete inom industriautomation kan utföras på ett säkert sätt. Eleverna ska även ges möjlighet att utveckla kunskaper om hur automationen i industrin har utvecklats över tid. Undervisningen ska stimulera elevernas nyfikenhet och lust att lära mer om industriautomation samt bidra till att eleverna utvecklar kunskaper om olika samband mellan automation och hållbar utveckling.</p> <p>Undervisningen ska ge eleverna möjlighet att arbeta i projektform och kombinera teoretiska och praktiska moment i verklighetsnära industritillämpningar. Dessutom ska undervisningen ge utrymme för diskussion om och reflektion över etiska frågor som har med automatiseringen av industrin att göra.</p> <h5><em>Undervisningen i ämnet industriell automationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om automatiserade systems konstruktion, funktion och delkomponenter.</li> <li>Kunskaper om samband mellan automation och hållbar utveckling.</li> <li>Förmåga att planera, programmera, driftsätta och dokumentera automatiserade processer i enlighet med säkerhetsföreskrifter.</li> <li>Förmåga att felsöka och åtgärda fel i en automatiserad anläggning samt att ge förslag på förbättringar.</li> </ul><h3>Nivåer i ämnet industriell automationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDO100TX</h3>",
+      "code": "INDO100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell automationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Automatiserade anläggningar</em></p> <ul> <li>Uppbyggnad och funktion hos, samt principer för, olika typer av automatiserade system, däribland samband mellan sensor, styrenhet och aktuator.</li> <li>Begrepp inom industriautomation, till exempel PLC (programmable logic controller).</li> <li>Talsystem och logiska grundsymboler.</li> <li>Samband mellan industriell automatisering och hållbar utveckling.</li> </ul> <p><em>Programmering, driftsättning och felsökning i automatiserade anläggningar</em></p> <ul> <li>Introduktion till maskinsäkerhet.</li> <li>Arbetsmiljö och säkerhet vid arbete med automatiserade system i enlighet med lagar och andra bestämmelser, däribland säkerhetsföreskrifter.</li> <li>Installation, programmering och driftsättning av styrutrustningar med sensorer, styrenheter och aktuatorer.</li> <li>Användning av HMI (human-machine interface) i industriautomation.</li> <li>Simulering av program för automatiserade processer.</li> <li>Metoder för felsökning med hjälp av scheman, manualer och annan dokumentation i en automatiserad anläggning.</li> <li>Förebyggande underhåll samt felsökning och reparation av automatiserade system.</li> </ul> <p><em>Analys och dokumentation</em></p> <ul> <li>Analys av befintligt automatiserad process och förslag på förbättringar och optimeringar.</li> <li>Dokumentation av utfört arbete samt utvärdering av arbetsprocess och slutresultat.</li> <li>Tolkning av scheman, manualer, ritningar och annan dokumentation som används i automatiserade system.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDO200TX</h3>",
+      "code": "INDO200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell automationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Automatiserade anläggningar</em></p> <ul> <li>Standarder, begrepp och hierarkier som används inom industriautomation.</li> <li>Överordnade systems funktion, uppbyggnad och samverkan med andra enheter.</li> <li>Fältbussars användning i automatiserade system.</li> <li>Samband mellan industriell automatisering och hållbar utveckling i ett lokalt och globalt perspektiv.</li> </ul> <p><em>Programmering, driftsättning och felsökning i automatiserade anläggningar</em></p> <ul> <li>Maskinsäkerhet med riskbedömning, riskanalys och riskreducering.</li> <li>Arbetsmiljö och säkerhet vid arbete med automatiserade system i enlighet med lagar och andra bestämmelser, däribland säkerhetsföreskrifter.</li> <li>Programmering och driftsättning av PLC-system med distribuerade kontrollenheter eller I/O (input/output) med både digitala och analoga signaler.</li> <li>Programmering av HMI (human-machine interface) för att styra och övervaka ett automatiserat system.</li> <li>Metoder för felsökning med hjälp av scheman, manualer och annan dokumentation i anläggningar med distribuerade styrsystem.</li> <li>Simulering av PLC-program i en virtuell modell.</li> <li>Reglertekniska tillämpningar i PLC (programmable logic controller) med inställning av olika parametrar i en PID-regulator.</li> </ul> <p><em>Analys och dokumentation</em></p> <ul> <li>Analys av befintlig automatiserad process och förslag på förbättringar och optimeringar.</li> <li>Tolkning och framställning av scheman, ritningar och annan dokumentation till distribuerade system.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>övergripande</strong> automatiserade anläggningars konstruktion och funktion. I beskrivningen använder eleven relevanta begrepp med <strong>säkerhet</strong>.</p> <p>Eleven resonerar <strong>övergripande</strong> om samband mellan automation och hållbar utveckling.</p> <p>Eleven planerar arbetet i en automatiserad anläggning på ett <strong>systematiskt</strong> sätt samt programmerar och driftsätter med <strong>viss</strong> skicklighet automatiserade processer i enlighet med säkerhetsföreskrifter inom området. Dessutom gör eleven en <strong>i huvudsak strukturerad</strong> dokumentation av arbetet.</p> <p>Eleven felsöker och åtgärdar med <strong>viss säkerhet</strong> fel i en automatiserad anläggning samt ger <strong>enkla</strong> förslag på förbättringar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> automatiserade anläggningars konstruktion och funktion. I beskrivningen använder eleven relevanta begrepp med <strong>god säkerhet</strong>.</p> <p>Eleven resonerar <strong>utförligt</strong> om samband mellan automation och hållbar utveckling.</p> <p>Eleven planerar arbetet i en automatiserad anläggning på ett <strong>systematiskt och genomarbetat</strong> sätt samt programmerar och driftsätter med <strong>god</strong> skicklighet automatiserade processer i enlighet med säkerhetsföreskrifter inom området. Dessutom gör eleven en <strong>strukturerad</strong> dokumentation av arbetet.</p> <p>Eleven felsöker och åtgärdar med <strong>säkerhet</strong> fel i en automatiserad anläggning samt ger <strong>utvecklade</strong> förslag på förbättringar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> automatiserade anläggningars konstruktion och funktion. I beskrivningen använder eleven relevanta begrepp med <strong>mycket god säkerhet</strong>.</p> <p>Eleven resonerar <strong>utförligt och nyanserat</strong> om samband mellan automation och hållbar utveckling.</p> <p>Eleven planerar arbetet i en automatiserad anläggning på ett <strong>systematiskt och effektivt</strong> sätt samt programmerar och driftsätter med <strong>mycket god</strong> skicklighet automatiserade processer i enlighet med säkerhetsföreskrifter inom området. Dessutom gör eleven en <strong>välstrukturerad</strong> dokumentation av arbetet.</p> <p>Eleven felsöker och åtgärdar med <strong>god säkerhet</strong> fel i en automatiserad anläggning samt ger <strong>välutvecklade</strong> förslag på förbättringar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

@@ -1,0 +1,64 @@
+{
+  "code": "TILM",
+  "name": "Tillämpad psykologi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:227",
+  "nameHeading": "<h2>Tillämpad psykologi</h2>",
+  "description": "<p>Ämnet tillämpad psykologi behandlar mänskliga tankar, känslor och beteenden med särskilt fokus på ett eller flera psykologiska områden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpad psykologi ska syfta till att eleverna utvecklar kunskaper om ett eller flera psykologiska områden och deras praktiska tillämpning.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med områdesspecifika psykologiska frågeställningar. Eleverna ska ges möjlighet att reflektera över och analysera psykologiska samband i relation till sin omvärld. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda begrepp, teorier och metoder inom valt område.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om mänskliga tankar, känslor och beteenden och hur dessa kan påverka individer, grupper och verksamheter i vardagsnära såväl som större samhälleliga och globala sammanhang. Därigenom ska eleverna ges möjlighet att utveckla förståelse av både människans och ämnesområdets komplexitet. Genom undervisningen ska eleverna ges möjlighet att ta del av aktuell och ny kunskap inom ett eller flera psykologiska områden. Eleverna ska ges möjlighet att utveckla sin förmåga att göra underbyggda ställningstaganden och bemöta andras åsikter. På så vis ska undervisningen bidra till att eleverna förbereds för ett aktivt deltagande i samhället.</p> <p>I undervisningen ska ett sokratiskt och reflekterande arbetssätt betonas. Eleverna ska ges möjlighet att utföra enkla experiment, undersökningar, intervjuer och observationer in situ i linje med vetenskaplig tradition.</p> <h5><em>Undervisningen i ämnet tillämpad psykologi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om mänskliga tankar, känslor och beteenden.</li> <li>Förmåga att reflektera över områdesspecifik psykologi.</li> <li>Förmåga att tillämpa begrepp, teorier och metoder inom ett eller flera psykologiska områden.</li> </ul><h3>Nivåer i ämnet tillämpad psykologi</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILM1000X</h3>",
+      "code": "TILM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad psykologi på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Människan som tänkande, kännande, handlande, biologisk och social varelse med särskild anknytning till det områdesspecifika innehållet.</li> <li>Fördjupning inom ett eller flera psykologiska områden som är relevanta för elevernas utbildning, till exempel idrottspsykologi, rättspsykologi, politisk psykologi, genuspsykologi, teknisk psykologi, arbets- och organisationspsykologi samt missbruks- och beroendepsykologi.</li> <li>Hur områdesspecifik psykologi kan tillämpas i en samhällelig och global kontext.</li> <li>Områdesspecifika psykologiska begrepp och teorier.</li> <li>Formulering av psykologiska frågeställningar utifrån någon psykologisk teori och modell.</li> <li>Praktiska övningar inom ett eller flera psykologiska områden och tillämpning av områdesspecifika teorier genom utförande av enkla experiment eller observationer, reflektion över resultaten samt presentation av dessa.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om psykologiska förklaringar till mänskliga tankar, känslor och beteenden inom valt psykologiskt område.</p> <p>Eleven reflekterar på ett <strong>enkelt</strong> sätt över hur områdesspecifik psykologi kan tillämpas.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om områdesspecifika begrepp, teorier och metoder. Eleven formulerar <strong>enkla</strong> psykologiska frågeställningar utifrån någon psykologisk teori och modell. Eleven prövar frågeställningarna, för <strong>enkla</strong> resonemang om resultatet och drar <strong>enkla</strong> slutsatser.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om psykologiska förklaringar till mänskliga tankar, känslor och beteenden inom valt psykologiskt område.</p> <p>Eleven reflekterar på ett <strong>utförligt</strong> sätt över hur områdesspecifik psykologi kan tillämpas.</p> <p>Eleven visar <strong>goda</strong> kunskaper om områdesspecifika begrepp, teorier och metoder. Eleven formulerar <strong>välgrundade</strong> psykologiska frågeställningar utifrån någon psykologisk teori och modell. Eleven prövar frågeställningarna, för <strong>välgrundade</strong> resonemang om resultatet och drar <strong>välgrundade</strong> slutsatser.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om psykologiska förklaringar till mänskliga tankar, känslor och beteenden inom valt psykologiskt område.</p> <p>Eleven reflekterar på ett <strong>utförligt och nyanserat</strong> sätt över hur områdesspecifik psykologi kan tillämpas.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om områdesspecifika begrepp, teorier och metoder. Eleven formulerar <strong>välgrundade och nyanserade</strong> psykologiska frågeställningar utifrån någon psykologisk teori och modell. Eleven prövar frågeställningarna, för <strong>välgrundade och nyanserade</strong> resonemang om resultatet och drar <strong>välgrundade och nyanserade</strong> slutsatser.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.092Z"
+}

@@ -1,0 +1,92 @@
+{
+  "code": "LJUD",
+  "name": "Ljudproduktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:45",
+  "nameHeading": "<h2>Ljudproduktion</h2>",
+  "description": "<p>Ljudproduktion omfattar olika radiogenrer, podcaster, film- och tv-ljud, interaktiva medier, dataspel, ljudböcker och ljudinstallationer i offentliga miljöer. Ljud används även inom andra konst- och kulturområden och som redskap för att informera. Ämnet ljudproduktion behandlar processen för ljudproduktion, olika användningsområden och målgruppsanpassning i berättarkonsten.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ljudproduktion ska syfta till att eleverna utvecklar kunskaper om berättartekniker för olika typer av ljudproduktioner. Den ska leda till att eleverna utvecklar kunskaper om vad ljud är och färdigheter i hur det skapas, spelas in, bearbetas och distribueras. Eleverna ska därigenom ges möjlighet att utveckla förmåga att kreativt skapa ljudproduktioner som är anpassade till olika målgrupper och olika produktioners användningsområden. Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i ljudproduktion aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera sitt arbete, samarbeta, lösa problem, hålla tidsramar, se alternativa lösningar och ta ansvar för förbättringar. Genom estetisk, innehållsmässig och etisk analys ska eleverna i undervisningen ges möjlighet att utveckla ett kritiskt förhållningssätt till ljudproduktioner. Eleverna ska även ges möjlighet att utveckla kunskaper om arbetsmiljö och säkerhet samt om lagar och andra bestämmelser inom ljudproduktion.</p> <p>Undervisningen ska stimulera elevernas nyfikenhet och lust att utvecklas inom ljudproduktion. Eleverna ska ges möjlighet att använda aktuell teknik för att gestalta och genomföra en ljudproduktion från idé till färdig produktion. I undervisningen ska eleverna ges möjlighet att arbeta med olika produktionsmetoder beroende på produktionens karaktär. Genom undervisningen ska eleverna även ges möjlighet att använda analys, diskussion och källkritisk prövning.</p> <h5><em>Undervisningen i ämnet ljudproduktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att skapa, spela in och bearbeta ljud.</li> <li>Förmåga att planera, genomföra och distribuera ljudproduktioner från idé till färdig produktion.</li> <li>Förmåga att samarbeta och arbeta inom givna ramar.</li> <li>Kunskaper om dramaturgiska grepp som används i ljudproduktioner.</li> <li>Förmåga att analysera olika typer av ljudproduktioner.</li> <li>Kunskaper om arbetsmiljö och säkerhet samt om lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet ljudproduktion</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: LJUD1000X</h3>",
+      "code": "LJUD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ljudproduktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknik och skapande</em></p> <ul> <li>Orientering om olika typer av ljudproduktioner.</li> <li>Ljudlära och ljud vid olika ljudproduktioner.</li> <li>Intervjuteknik, grundläggande mikrofonteknik och röstfunktion.</li> <li>Introduktion till efterbearbetning.</li> <li>Orientering om distributionsplattformar och hur de fungerar.</li> <li>Planering för manus samt genomförande och distribution av ljudproduktion, enskilt och tillsammans med andra.</li> <li>Enklare dramaturgi och berättargrepp.</li> <li>Orientering om målgrupper och målgruppsanpassning.</li> <li>Orientering om olika genrer och stilar genom ljudmediernas historia.</li> </ul> <p><em>Samarbete och ramar</em></p> <ul> <li>Arbete inom givna ramar, däribland kostnadsberäkning av ljudproduktion.</li> <li>Digital samverkan, till exempel utbyte av olika typer av material.</li> <li>Lagar och andra bestämmelser samt arbetsmiljö och säkerhet, vid olika ljudproduktioner.</li> </ul> <p><em>Analys</em></p> <ul> <li>Modeller för analys av olika ljudproduktioner.</li> <li>Enkla analyser av ljudproduktioner, utifrån estetiska, innehållsmässiga och etiska aspekter.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: LJUD2000X</h3>",
+      "code": "LJUD2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ljudproduktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Teknik och skapande</em></p> <ul> <li>Inspelnings- och redigeringsteknikens funktioner, såväl automatiska som manuella.</li> <li>Mikrofonteknik för olika ändamål.</li> <li>Metoder för efterbearbetning.</li> <li>Research, produktionsplanering och planering för postproduktion och distribution.</li> <li>Publicering på olika distributionsplattformar.</li> <li>Olika ljudformat.</li> <li>Orientering om digital musikproduktion.</li> <li>Berättande med ljud, däribland hur dramaturgi, berättarteknik och berättarkomponenter används för att berätta en historia eller förmedla en känsla.</li> </ul> <p><em>Samarbete och ramar</em></p> <ul> <li>Samarbete vid planering, produktion och postproduktion, till exempel körschema vid radioproduktion samt funktionen A-ljud, B-ljud och tramp vid filmproduktion.</li> <li>Arbete inom givna tidsramar.</li> <li>Upprättande av budget.</li> <li>Samarbetets påverkan på den tekniska och den konstnärliga kvaliteten inom olika typer av ljudproduktioner.</li> <li>Lagar och andra bestämmelser i samband med ljudproduktioner, däribland yttrandefrihetslagen och marknadsföringslagen.</li> <li>Säkerhet och ergonomi vid olika typer av ljudproduktioner.</li> </ul> <p><em>Analys</em></p> <ul> <li>Analys av hur estetiska och etiska perspektiv påverkar form och innehåll i ljudproduktioner.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: LJUD3000X</h3>",
+      "code": "LJUD3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ljudproduktion på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Teknik och skapande</em></p> <ul> <li>Hur ljud i olika film- och interaktiva produktioner, radio och podcast produceras, distribueras och publiceras på olika distributionsplattformar med specifik mikrofonteknik för olika typer av ljudinspelning.</li> <li>Specifik ljudredigering, ljudbearbetning och mastring.</li> <li>Specifik distribuering och publicering, däribland livesändningar.</li> <li>Research, planering och budget gällande olika typer av ljudproduktioner, till exempel film- och interaktiva ljudproduktioner, radio och podcast.</li> <li>Utformning av arbetsprover.</li> <li>Dramaturgi och berättartekniska funktioner.</li> </ul> <p><em>Samarbete och ramar</em></p> <ul> <li>Samarbete vid planering, genomförande, produktion, postproduktion och distribution.</li> <li>Vad det innebär att arbeta inom givna tidsramar tillsammans med andra och på vilket sätt det påverkar den tekniska och den konstnärliga kvaliteten.</li> <li>Lagar och andra bestämmelser samt överenskommelser relevanta för ljudproduktion.</li> <li>Avtal och kontrakt.</li> <li>Säkerhet och ergonomi vid ljudproduktioner.</li> </ul> <p><em>Analys</em></p> <ul> <li>Analys av innehåll och målgruppsanpassning i olika typer av ljudproduktioner ur ett estetiskt, tekniskt och etiskt perspektiv.</li> <li>Utvärdering av olika ljudproduktioner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven skapar, spelar in och bearbetar ljud med <strong>viss</strong> skicklighet.</p> <p>Eleven planerar, producerar och distribuerar ljudproduktioner med <strong>godtagbar</strong> kvalitet. Dessutom resonerar eleven <strong>översiktligt</strong> om de val som gjorts under arbetsprocessens gång.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven redogör <strong>enkelt</strong> för dramaturgin i olika ljudproduktioner.</p> <p>Eleven gör <strong>enkla</strong> analyser av olika typer av ljudproduktioner.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om arbetsmiljö och säkerhet samt om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven skapar, spelar in och bearbetar ljud med <strong>god</strong> skicklighet.</p> <p>Eleven planerar, producerar och distribuerar ljudproduktioner med <strong>god</strong> kvalitet. Dessutom resonerar eleven <strong>utförligt</strong> om de val som gjorts under arbetsprocessens gång.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>fungerande</strong> sätt.</p> <p>Eleven redogör <strong>utförligt</strong> för dramaturgin i olika ljudproduktioner.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av olika typer av ljudproduktioner.</p> <p>Eleven visar <strong>goda</strong> kunskaper om arbetsmiljö och säkerhet samt om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven skapar, spelar in och bearbetar ljud med <strong>mycket god</strong> skicklighet.</p> <p>Eleven planerar, producerar och distribuerar ljudproduktioner med <strong>mycket god</strong> kvalitet. Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> om de val som gjorts under arbetsprocessens gång.</p> <p>Eleven arbetar och samarbetar med andra inom givna ramar på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för dramaturgin i olika ljudproduktioner.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser av olika typer av ljudproduktioner.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om arbetsmiljö och säkerhet samt om lagar och andra bestämmelser inom området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.036Z"
+}

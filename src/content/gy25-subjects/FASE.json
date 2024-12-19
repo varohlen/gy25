@@ -1,0 +1,78 @@
+{
+  "code": "FASE",
+  "name": "Fastighetssystem",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:149",
+  "nameHeading": "<h2>Fastighetssystem</h2>",
+  "description": "<p>Moderna fastigheter innehåller en stor mängd automatiserade system som upprätthåller olika funktioner. Ämnet fastighetssystem behandlar olika systemfunktioner i större och mindre fastigheter, bland annat värme, ventilation, klimat och belysning. Ämnet behandlar även olika byggnadstekniska lösningar ur ett hållbarhetsperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fastighetssystem ska syfta till att eleverna utvecklar förmåga att planera och utföra arbete på olika system i fastigheter med hjälp av systemdokumentation. Undervisningen ska leda till att eleverna utvecklar kunskaper om hur automatiserade system i fastigheter är uppbyggda och fungerar. Dessutom ska eleverna ges möjlighet att utveckla förmåga att installera och driftsätta automatiserade system.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om säkerhet och standarder inom området samt förmåga att tillämpa dessa i praktiskt arbete på ett hållbart och kvalitetsmedvetet sätt. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av begrepp, teorier, symboler och metoder. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i olika system i större och mindre fastigheter. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att de utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom branschen.</p> <p>Genom både praktiskt och teoretiskt arbete ska eleverna ges möjlighet att öva sig i att arbeta i enlighet med yrkespraxis. Undervisningen ska även ge eleverna möjlighet att arbeta med verktyg och utrustning inom området. Dessutom ska undervisningen ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk.</p> <h5><em>Undervisningen i ämnet fastighetssystem ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad, funktion och principer för automatiserade system i fastigheter.</li> <li>Kunskaper om standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</li> <li>Förmåga att tolka och använda scheman, ritningar och annan teknisk dokumentation över automatiserade system i fastigheter.</li> <li>Förmåga att installera och driftsätta automatiserade system i fastigheter.</li> <li>Förmåga att felsöka och avhjälpa fel i automatiserade system i fastigheter.</li> </ul><h3>Nivåer i ämnet fastighetssystem</h3><ul><li>Nivå 1, 100 poäng. Betyg i fastighetssystem som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i fastighetsautomation som omfattar nivå 1.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1. Betyg i fastighetssystem som omfattar nivå 2 kan inte ingå i elevens examen tillsammans med betyg i fastighetsautomation som omfattar nivå 2. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FASE1000X</h3>",
+      "code": "FASE1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fastighetssystem på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Vanligt förekommande automatiserade system samt deras uppbyggnad och funktion.</li> <li>Vanligt förekommande standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</li> <li>Grundläggande systemfunktioner för värme och ventilation i större och mindre fastigheter.</li> <li>Vanligt förekommande komponenter inom fastighetssystem samt deras funktion.</li> <li>Vanligt förekommande systemlösningar för olika funktioner i fastigheter samt hur dessa kan samverka med varandra.</li> <li>Byggnadstekniska lösningar för mindre fastigheter ur ett miljö- och energiperspektiv.</li> <li>Krav på god standard, säkerhet och arbetsmiljö i större och mindre fastigheter.</li> <li>Tolkning och användning av dokumentation i olika fastighetstekniska system. Symboler, beskrivningar och schema.</li> <li>Planering av arbete med vanligt förekommande automatiska fastighetssystem.</li> <li>Installation och driftsättning av vanligt förekommande automatiska fastighetssystem.</li> <li>Felsökning och felavhjälpning av vanligt förekommande fastighetstekniska system.</li> <li>Hållbarhetsfrågor i arbete med fastighetssystem.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FASE2000X</h3>",
+      "code": "FASE2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fastighetssystem på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Systemfunktioner för värme, ventilation och andra system i större och mindre fastigheter samt offentliga lokaler.</li> <li>Vanligt förekommande standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</li> <li>Komponenter inom fastighetssystem samt deras funktion.</li> <li>Olika värmekällor och deras enskilda funktion, däribland pannor, fjärrvärme och värmeväxlare.</li> <li>Systemlösningar för olika funktioner i fastigheter samt hur dessa samverkar med varandra.</li> <li>Byggnadstekniska lösningar för större fastigheter ur ett miljö- och energiperspektiv.</li> <li>Krav på god standard, säkerhet och arbetsmiljö i större och mindre fastigheter.</li> <li>Tolkning, användning och framställning av dokumentation i olika fastighetstekniska system. Symboler, beskrivningar och schema.</li> <li>Planering av arbete med automatiska fastighetssystem.</li> <li>Installation och driftsättning av automatiska fastighetssystem, till exempel ventilation, värme och belysning.</li> <li>Felsökning och felavhjälpning av fastighetstekniska system.</li> <li>Hållbarhetsfrågor i arbete med fastighetssystem.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hur automatiserade system i fastigheter är uppbyggda, fungerar och samverkar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</p> <p>Eleven använder scheman, ritningar och annan teknisk dokumentation med <strong>viss säkerhet</strong>.</p> <p>Eleven installerar och driftsätter med <strong>viss säkerhet</strong> automatiserade system i fastigheter i enlighet med säkerhetsföreskrifter.</p> <p>Eleven felsöker automatiserade system och åtgärdar <strong>enkla</strong> fel i enlighet med säkerhetsföreskrifter.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hur automatiserade system i fastigheter är uppbyggda, fungerar och samverkar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</p> <p>Eleven använder scheman, ritningar och annan teknisk dokumentation med <strong>säkerhet</strong>.</p> <p>Eleven installerar och driftsätter med <strong>säkerhet</strong> automatiserade system i fastigheter i enlighet med säkerhetsföreskrifter.</p> <p>Eleven felsöker automatiserade system och åtgärdar <strong>relativt komplexa</strong> fel i enlighet med säkerhetsföreskrifter.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur automatiserade system i fastigheter är uppbyggda, fungerar och samverkar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om standarder, säkerhetsföreskrifter och begrepp som används vid arbete med automatiserade system i fastigheter.</p> <p>Eleven använder scheman, ritningar och annan teknisk dokumentation med <strong>god säkerhet</strong>.</p> <p>Eleven installerar och driftsätter med <strong>god säkerhet</strong> automatiserade system i fastigheter i enlighet med säkerhetsföreskrifter.</p> <p>Eleven felsöker automatiserade system och åtgärdar <strong>komplexa</strong> fel i enlighet med säkerhetsföreskrifter.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.992Z"
+}

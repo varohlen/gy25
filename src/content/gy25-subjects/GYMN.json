@@ -1,0 +1,63 @@
+{
+  "code": "GYMN",
+  "name": "Gymnasieingenjören i praktiken",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:537",
+  "nameHeading": "<h2>Gymnasieingenjören i praktiken</h2>",
+  "description": "<p>Ämnet gymnasieingenjören i praktiken behandlar ingenjörsmässiga arbetsmetoder, färdigheter och förhållningssätt. Ämnet är till sin karaktär tvärvetenskapligt och förenar kunskapsområden från teknikvetenskap och samhällsvetenskap. Ämnet har en central roll i vidareutbildningen och ska genomsyra de ämnen som eleverna läser inom vald profil. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet gymnasieingenjören i praktiken ska syfta till att eleverna utvecklar kunskaper om gymnasieingenjörsrollen och ingenjörens etiska ansvar. I gymnasieingenjörsrollen ingår att planera, leda och genomföra projekt. Undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om olika modeller för styrning av projekt samt förmåga att arbeta i grupp och att leda grupprocesser. Undervisningen ska vidare ge eleverna möjlighet att utveckla kunskaper om ekonomi, arbetsmiljö och juridik i arbetslivet med fokus på vald profil.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hållbar teknikutveckling och förmåga att tillämpa dessa i olika projekt inom vald profil. Problemlösning är en del av gymnasieingenjörsrollen och eleverna ska genom undervisningen ges möjlighet att utveckla förmåga att utifrån givna förutsättningar skapa lösningar som tillgodoser verklighetsnära behov.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att kommunicera med människor i olika roller och från olika grupper och kulturer. Eleverna ska ges möjlighet att utveckla förmåga att presentera både sina egna och arbetsgruppens tekniska lösningar, såväl internt som för tänkta kunder och uppdragsgivare. Undervisningen ska dessutom ge eleverna möjlighet att utveckla förmåga att dokumentera och utvärdera genomförda projekt.</p> <p>Eleverna ska ges möjlighet att i verklighetsnära situationer öva på att skapa, genomföra, driva och förvalta tekniska lösningar, vilket ger beredskap för att agera konstruktivt på olika nivåer i en arbetsorganisation och i mötet med andra organisationer.</p> <h5><em>Undervisningen i ämnet gymnasieingenjören i praktiken ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om gymnasieingenjörsrollen och ingenjörens etiska ansvar.</li> <li>Kunskaper om företagande, ekonomi och juridik inom vald profil.</li> <li>Förmåga att planera, leda och kommunicera projekt.</li> <li>Förmåga att använda ingenjörsmässiga metoder och verktyg.</li> </ul><h3>Nivåer i ämnet gymnasieingenjören i praktiken</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: GYMN100TX</h3>",
+      "code": "GYMN100TX",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet gymnasieingenjören i praktiken på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Ingenjörsrollen</em></p> <ul> <li>Etiska, sociala och historiska aspekter av ingenjörens roll.</li> <li>System och begrepp som är gemensamma för det ingenjörsmässiga arbetet.</li> <li>Hur ingenjörens arbete påverkas av krav på hållbarhet, till exempel i form av miljöcertifieringar och livscykelanalyser.</li> </ul> <p><em>Projektledning</em></p> <ul> <li>Entreprenörskap och företagande utifrån yrkesroller inom vald profil med fokus på villkor, förutsättningar och behov.</li> <li>Målstyrning.</li> <li>Teorier om ledarskap och organisation, till exempel hur beslutsfattande sker i en organisation.</li> <li>Olika företagskulturer med betoning på ledarskap, jämställdhet och arbetsmiljö.</li> <li>Företagsekonomiska verktyg och begrepp som används vid kalkylering, budgetering och projektekonomi.</li> <li>Lagar och andra bestämmelser relevanta för vald profil, till exempel avtals-, arbetsmarknads-, upphandlings- och arbetsmiljörätt.</li> </ul> <p><em>Metod och kommunikation</em></p> <ul> <li>Hur en projektplan upprättas, genomförs, utvärderas och följs upp.</li> <li>Grupprocesser och gruppdynamik.</li> <li>Kommunikationsstrategier för att förmedla teknik och information till olika målgrupper.</li> <li>Hur dokumentation hanteras och upprätthålls inom ett projekt.</li> <li>Ingenjörsmässiga metoder eller modeller, till exempel CDIO (concieve, design, implement, operate).</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven resonerar <strong>övergripande</strong> om gymnasieingenjörsrollen och ingenjörens etiska ansvar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om företagande, ekonomi och juridik inom vald profil.</p> <p>Eleven planerar, leder och kommunicerar projekt med <strong>viss säkerhet</strong>.</p> <p>Eleven använder på ett <strong>systematiskt</strong> sätt ingenjörsmässiga metoder och verktyg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven resonerar <strong>utförligt</strong> om gymnasieingenjörsrollen och ingenjörens etiska ansvar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om företagande, ekonomi och juridik inom vald profil.</p> <p>Eleven planerar, leder och kommunicerar projekt med <strong>säkerhet</strong>.</p> <p>Eleven använder på ett <strong>systematiskt och genomarbetat</strong> sätt ingenjörsmässiga metoder och verktyg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven resonerar <strong>utförligt och nyanserat</strong> om gymnasieingenjörsrollen och ingenjörens etiska ansvar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om företagande, ekonomi och juridik inom vald profil.</p> <p>Eleven planerar, leder och kommunicerar projekt med <strong>god säkerhet</strong>.</p> <p>Eleven använder på ett <strong>systematiskt och effektivt</strong> sätt ingenjörsmässiga metoder och verktyg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.011Z"
+}

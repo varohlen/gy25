@@ -1,0 +1,78 @@
+{
+  "code": "TILL",
+  "name": "Tillämpad programmering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:226",
+  "nameHeading": "<h2>Tillämpad programmering</h2>",
+  "description": "<p>Ämnet tillämpad programmering möjliggör en tvärvetenskaplig fördjupning inom något kunskapsområde. I ämnet tillämpas ett datavetenskapligt perspektiv på valt kunskapsområde, till exempel ekonomi, humaniora, konst och kultur, medicin, naturvetenskap, pedagogik, samhällsvetenskap eller teknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet tillämpad programmering ska syfta till att eleverna breddar eller fördjupar sina kunskaper och färdigheter inom programmering, tillämpat på ett valt område. Undervisningen ska bidra till att eleverna utvecklar förståelse av programmeringens betydelse inom det valda tillämpningsområdet. Undervisningen ska också leda till att eleverna utvecklar förmåga att använda relevanta begrepp, teorier, modeller och metoder i syfte att behandla frågeställningar inom det valda området. Dessutom ska undervisningen bidra till att eleverna utvecklar nyfikenhet för programmering, ett datavetenskapligt perspektiv på omvärlden och en förståelse av programmeringens betydelse i samhället. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om hur sociala normer och strukturer kan påverka möjligheten att utveckla och tillämpa programmering inom olika områden.</p> <p>Undervisningen ska leda till att aktuell och relevant praxis och forskning samt elevernas egna erfarenheter tas till vara. Dessutom ska undervisningen ge eleverna möjlighet att relatera de breddade eller fördjupade kunskaperna inom programmering till valt tillämpningsområde samt bidra till att eleverna utvecklar förmåga att omsätta kunskaperna i handling. Genom undervisningen ska eleverna dessutom ges möjlighet att utveckla ett vetenskapligt och professionellt förhållningssätt.</p> <p>I undervisningen ska eleverna ges möjlighet att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom valda tillämpningsområden. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom tillämpad programmering i valt område.</p> <h5><em>Undervisningen i ämnet tillämpad programmering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om begrepp, modeller, teorier och arbetsmetoder vid programmering.</li> <li>Kunskaper om utvecklingsprocesser inom programmering och samband mellan processers olika delar.</li> <li>Förmåga att tillämpa programmering på ett valt område.</li> <li>Förmåga att analysera vilka konsekvenser programmering har för individ, samhälle och teknisk utveckling.</li> </ul><h3>Nivåer i ämnet tillämpad programmering</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: TILL1000X</h3>",
+      "code": "TILL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad programmering på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Processer och modeller</em></p> <ul> <li>Grundläggande begrepp, teorier, modeller och metoder inom programmering som är relevant för valt tillämpningsområde.</li> <li>Relevanta arbets- och utvecklingsprocesser inom valt tillämpningsområde.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Problemlösning av enkla problem med hjälp av programmering i avgränsade problemsituationer. Programmeringens möjligheter och begränsningar.</li> <li>Någon eller några tillämpningar inom valt område, till exempel industriell programmering, spelprogrammering, utveckling av administrativa system eller pedagogiska program, applikationsutveckling eller som hjälpmedel för att skapa eller bearbeta bild, ljud och film.</li> </ul> <p><em>Analys</em></p> <ul> <li>Reflektion över och värdering av valda strategier, metoder och resultat.</li> <li>Några konsekvenser av tillämpad programmering för individ, samhälle och teknisk utveckling avseende hållbar utveckling, etik och genus inom valt område.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: TILL2000X</h3>",
+      "code": "TILL2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet tillämpad programmering på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Processer och modeller</em></p> <ul> <li>Begrepp, teorier, modeller och metoder inom programmering som är relevant för valt tillämpningsområde.</li> <li>Relevanta processer inom valt tillämpningsområde.</li> </ul> <p><em>Problemlösning</em></p> <ul> <li>Problemlösning av enkla och sammansatta problem med programmering i en tillämpad kontext. Programmeringens möjligheter och begränsningar.</li> <li>Flera och olika tillämpningar av programmering inom valt område.</li> </ul> <p><em>Analys</em></p> <ul> <li>Reflektion över och värdering av valda strategier, metoder och resultat samt förslag till förbättringar.</li> <li>Konsekvenser av tillämpad programmering för individ, samhälle och teknisk utveckling avseende hållbar utveckling, etik och genus inom valt området.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om begrepp, modeller, teorier och arbetsmetoder vid programmering.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om programmeringens utvecklingsprocesser och resonerar om sambanden mellan delarna i en process.</p> <p>Eleven tillämpar med <strong>viss säkerhet</strong> programmering på det valda området.</p> <p>Eleven analyserar med <strong>enkla</strong> omdömen programmeringens konsekvenser för individ, samhälle och teknisk utveckling.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om begrepp, modeller, teorier och arbetsmetoder vid programmering.</p> <p>Eleven visar <strong>goda</strong> kunskaper om programmeringens utvecklingsprocesser och resonerar om sambanden mellan delarna i en process.</p> <p>Eleven tillämpar med <strong>säkerhet</strong> programmering på det valda området.</p> <p>Eleven analyserar med <strong>utvecklade</strong> omdömen programmeringens konsekvenser för individ, samhälle och teknisk utveckling.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om begrepp, modeller, teorier och arbetsmetoder vid programmering.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om programmeringens utvecklingsprocesser och resonerar om sambanden mellan delarna i en process.</p> <p>Eleven tillämpar med <strong>god säkerhet</strong> programmering på det valda området.</p> <p>Eleven analyserar med <strong>välutvecklade</strong> omdömen programmeringens konsekvenser för individ, samhälle och teknisk utveckling.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.092Z"
+}

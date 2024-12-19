@@ -1,0 +1,78 @@
+{
+  "code": "FASH",
+  "name": "Fastighetsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:221",
+  "nameHeading": "<h2>Fastighetsteknik</h2>",
+  "description": "<p>Ämnet fastighetsteknik behandlar de faktorer som påverkar resurseffektivt underhåll av fastighetsbestånd. Ämnet behandlar hur drift och underhåll planeras och genomförs för att bibehålla och utveckla termisk komfort och hållbara miljöer för fastigheter och byggnader.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fastighetsteknik ska syfta till att eleverna utvecklar kunskaper om arbetsprocesser och arbetsmetoder inom området fastighetsteknik samt förmåga att genomföra rationellt underhåll av byggnader för att upprätthålla hållbar drift av systemen i dessa. Eleverna ska ges möjlighet att utveckla kunskaper om byggnaders konstruktion och hur yttre och inre faktorer påverkar dels underhållsbehovet hos byggnader och system, dels människors hälsa och välbefinnande. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar social, ekonomisk och miljömässig hållbarhet samt kunskaper om branschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom branschen ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Undervisningen ska leda till att eleverna utvecklar förmåga att välja och hantera verktyg, utrustning och material på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Dessutom ska eleverna ges möjlighet att utveckla förmåga att läsa bygghandlingar och manualer. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>Undervisningen ska bedrivas så att eleverna ges möjlighet att utveckla förmåga att omsätta teoretiska kunskaper i praktisk handling, liksom att utveckla teoretiska kunskaper utifrån praktiskt arbete. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och godkända i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra.</p> <h5><em>Undervisningen i ämnet fastighetsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika byggnaders tekniska konstruktion och förekommande system samt om lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att utföra fastighetstekniska arbetsuppgifter, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att välja och hantera material, verktyg och teknisk utrustning.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet fastighetsteknik</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FASH1000X</h3>",
+      "code": "FASH1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fastighetsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika byggnaders tekniska konstruktion.</li> <li>Byggmaterials egenskaper och användningsområden.</li> <li>System i byggnader, däribland ventilationssystem, värmesystem, kylsystem, sanitetssystem och el.</li> <li>Vanligt förekommande utrustning och tekniska installationer, deras användningsområden och underhållsbehov, till exempel lås- och larmsystem.</li> <li>Olika skador i byggnader och system samt hur de kan lokaliseras och förebyggas.</li> <li>Material- och produktflöden inom bygg- och fastighetssektorn kopplat till cirkulär omställning.</li> <li>Introduktion till lagar och andra bestämmelser för inomhus- och utomhusanläggningar samt riktlinjer för ekonomisk och miljömässig hållbar utveckling.</li> <li>Tolkning av ritningar, drift- och underhållsscheman samt manualer.</li> <li>Besiktning av ytskikt och tekniska installationer inomhus och utomhus.</li> <li>Grundläggande injustering av luftbehandlingssystem.</li> <li>Dokumentation av utförda åtgärder.</li> <li>Utvärdering av arbetsuppgiften.</li> <li>Avfallsförebyggande åtgärder kopplat till arbetsuppgiften, till exempel minimering av spill vid beställning och utförande.</li> <li>Val och säker hantering av material, verktyg och teknisk utrustning för olika ändamål.</li> <li>Egenkontroller och riskbedömningar.</li> <li>Säkra arbetssätt och användning av personlig skyddsutrustning.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Systematiskt brandskyddsarbete.</li> <li>Kommunikation med facktermer i relation till arbetsuppgiften.</li> <li>Situationsanpassat bemötande och agerande. Faktorer som påverkar den sociala arbetsmiljön, till exempel attityder och värderingar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FASH2000X</h3>",
+      "code": "FASH2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fastighetsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Drift av system i byggnader, däribland ventilationssystem, värmesystem, kylsystem, sanitetssystem och el.</li> <li>Olika skador i byggnader och system samt hur de kan åtgärdas.</li> <li>Resurshushållning inom bygg- och fastighetssektorn kopplat till cirkulär omställning.</li> <li>Lagar och andra bestämmelser för arbete med inomhus- och utomhusanläggningar samt riktlinjer för ekonomisk och miljömässig hållbar utveckling.</li> <li>Tolkning av ritningar, drift- och underhållsscheman samt manualer.</li> <li>Tolkning av ritnings- och anläggningshandlingar, till exempel för vatten, avlopp och el i mark.</li> <li>Planering för underhåll av tekniska installationer inomhus och utomhus.</li> <li>Periodiskt förebyggande och avhjälpande underhåll samt reparationer av byggnader och i system som förekommer i dessa.</li> <li>För- och efterbehandling vid reparations- och underhållsarbete.</li> <li>Drift av fastighetssystem.</li> <li>Dokumentation av utförda åtgärder.</li> <li>Utvärdering av arbetsprocessen.</li> <li>Avfallsförebyggande åtgärder kopplat till arbetsuppgiften, till exempel vid förvaring samt källsortering och återvinning.</li> <li>Hantering av farligt avfall, till exempel vid filterbyte.</li> <li>Val och säker hantering av material, verktyg och teknisk utrustning för olika ändamål.</li> <li>Egenkontroller och riskbedömningar.</li> <li>Säkra arbetssätt och användning av personlig skyddsutrustning.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Systematiskt brandskyddsarbete.</li> <li>Kommunikation med facktermer på svenska och engelska i relation till arbetsuppgiften.</li> <li>Kommunikation med fackspråk i tal och skrift i relation till arbetsuppgiften.</li> <li>Samverkan och kommunikation med mottagaranpassning utifrån olika syften och i olika yrkessammanhang.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> byggnaders tekniska konstruktion samt förekommande system. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som reglerar verksamheten.</p> <p>Eleven utför med <strong>visst</strong> handlag fastighetstekniska arbetsuppgifter. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material utifrån givna instruktioner. Eleven hanterar med <strong>visst</strong> handlag verktyg och teknisk utrustning.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> byggnaders tekniska konstruktion samt förekommande system. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som reglerar verksamheten.</p> <p>Eleven utför med <strong>gott</strong> handlag fastighetstekniska arbetsuppgifter. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material utifrån givna instruktioner. Eleven hanterar med <strong>gott</strong> handlag verktyg och teknisk utrustning.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> byggnaders tekniska konstruktion samt förekommande system. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som reglerar verksamheten.</p> <p>Eleven utför med <strong>mycket gott</strong> handlag fastighetstekniska arbetsuppgifter. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven hanterar material utifrån givna instruktioner. Eleven hanterar med <strong>mycket gott</strong> handlag verktyg och teknisk utrustning.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.993Z"
+}

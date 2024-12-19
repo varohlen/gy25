@@ -1,0 +1,78 @@
+{
+  "code": "KEMI",
+  "name": "Kemi",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:175",
+  "nameHeading": "<h2>Kemi</h2>",
+  "description": "<p>Kemi är ett naturvetenskapligt ämne som har sitt ursprung i människans nyfikenhet och behov av att förstå sin omvärld. Det är till sin karaktär både undersökande och analytiskt. Kemin beskriver materiens uppbyggnad, egenskaper och reaktioner, från den minsta atom till den största makromolekyl. Kunskaper i kemi kan bidra till såväl utveckling av nya material som hållbar resursanvändning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kemi ska syfta till att eleverna utvecklar kunskaper om kemins begrepp, modeller, teorier och arbetsmetoder samt om kemiska samband och tillämpningar. Undervisningen ska också bidra till att eleverna utvecklar ett naturvetenskapligt perspektiv på omvärlden och förståelse av vad som kan förklaras med naturvetenskap. Eleverna ska även ges möjlighet att lära sig att skilja mellan vetenskapliga och icke-vetenskapliga påståenden. Undervisningen ska stimulera elevernas nyfikenhet, kreativitet och handlingsberedskap att påverka sitt liv och samhället.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att analysera och tolka kemiska samband. Eleverna ska ges möjlighet att granska information och reflektera över frågor om hållbar utveckling, kemiteknik och människokroppen. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra välgrundade val och diskutera samhälleliga och etiska frågor utifrån en naturvetenskaplig utgångspunkt. Undervisningen ska även ge eleverna möjlighet att kommunicera kunskaper, slutsatser och ställningstaganden på olika sätt med hjälp av kemins begrepp och uttrycksformer.</p> <p>Undervisningen ska behandla aktuell forskning och historisk utveckling inom kemin och eleverna ska få reflektera över kemins betydelse inom olika yrkesområden, för människors levnadsvillkor och samhället i stort.</p> <p>Genom praktiskt arbete med experiment och laborationer ska eleverna ges möjlighet att utveckla förmåga att genomföra systematiska naturvetenskapliga undersökningar utifrån olika frågeställningar. På så sätt ska eleverna ges möjlighet att utveckla förståelse av naturvetenskapens karaktär och av hur naturvetenskaplig kunskap växer fram. I det praktiska arbetet ska eleverna få använda naturvetenskapliga metoder och olika typer av utrustning samt utveckla förmåga att arbeta på ett säkert sätt.</p> <h5><em>Undervisningen i ämnet kemi ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om kemins begrepp, modeller och teorier samt om kemiska samband.</li> <li>Förmåga att använda kunskaper i kemi för att analysera och tolka samband, granska information och kommunicera med ett naturvetenskapligt språk.</li> <li>Förmåga att genomföra systematiska undersökningar med naturvetenskapliga arbetsmetoder.</li> <li>Kunskaper om kemins betydelse för utveckling inom vetenskap och samhälle.</li> </ul><h3>Nivåer i ämnet kemi</h3><ul><li>Nivå 1, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KEMI1000X</h3>",
+      "code": "KEMI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kemi på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Materia och energi</em></p> <ul> <li>Grundämnens egenskaper och trender i det periodiska systemet.</li> <li>Några organiska ämnesklasser, däribland alkaner, alkoholer och karboxylsyror.</li> <li>Kemiska bindningar och deras inverkan på organiska och oorganiska ämnens kemiska och fysikaliska egenskaper.</li> <li>Materiens och energins oförstörbarhet i kemiska reaktioner.</li> <li>Energiomsättningar vid endoterma och exoterma reaktioner samt vid fasövergångar.</li> </ul> <p><em>Reaktioner och jämvikt</em></p> <ul> <li>Kemiska reaktioner, däribland syrabasreaktioner, redoxreaktioner och fällningsreaktioner.</li> <li>Elektrokemi, däribland galvaniska element och elektrolys.</li> <li>Formler för att beskriva kemiska föreningar och reaktioner. Beräkningar av substansmängdförhållanden och koncentrationer. Begränsande reaktanter och utbyte.</li> </ul> <p><em>Kemisk analys</em></p> <ul> <li>Kvalitativa och kvantitativa metoder för kemisk analys, till exempel kromatografi och titrering.</li> </ul> <p><em>Kemin i omvärlden</em></p> <ul> <li>Kemins betydelse för vetenskap, individ och samhälle med exempel från historiska och aktuella händelser.</li> <li>Frågor om etik och hållbar utveckling med koppling till kemi.</li> <li>Kemitekniska tillämpningar inom energi- och miljöområden.</li> </ul> <p><em>Kemins arbetsmetoder</em></p> <ul> <li>Laborationer och experiment. Insamling av data från observationer, mätningar och simuleringar. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li> <li>Modeller som beskrivning av verkligheten. Modellers och teoriers giltighet samt det experimentella arbetets betydelse för deras utveckling över tid.</li> <li>Granskning av information och argumentation som rör kemi. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KEMI2000X</h3>",
+      "code": "KEMI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kemi på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Materia och energi</em></p> <ul> <li>Olika organiska ämnesklasser samt deras egenskaper, struktur och reaktivitet.</li> <li>Oorganiska ämnens betydelse för hållbar utveckling.</li> <li>Materiens och energins oförstörbarhet i kemiska reaktioner, däribland beräkning av entalpiändringar. Gibbs fria energi.</li> </ul> <p><em>Reaktioner och jämvikt</em></p> <ul> <li>Reaktionshastighet och olika faktorers inverkan på den.</li> <li>Reaktionsmekanismer, däribland additions- och substitutionsreaktioner.</li> <li>Redoxreaktioner inom organisk kemi och biokemi.</li> <li>Jämvikter och jämviktskonstanter samt faktorer som påverkar dessa. Jämviktssystem i olika miljöer.</li> <li>Syrabasjämvikter, buffertverkan och pH-beräkningar.</li> </ul> <p><em>Livets kemi</em></p> <ul> <li>Biomolekylernas struktur, egenskaper och funktion i levande organismer.</li> <li>Ämnesomsättning på molekylär nivå, däribland proteinsyntes och cellandning.</li> </ul> <p><em>Kemisk analys</em></p> <ul> <li>Kvalitativa och kvantitativa metoder för kemisk analys, till exempel spektrofotometri och masspektrometri.</li> </ul> <p><em>Kemin i omvärlden</em></p> <ul> <li>Kemins betydelse för vetenskap, individ och samhälle med exempel från historiska och aktuella händelser.</li> <li>Frågor om etik och hållbar utveckling med koppling till kemi.</li> <li>Kemitekniska tillämpningar, till exempel inom livsmedels-, material- och läkemedelsområdena.</li> </ul> <p><em>Kemins arbetsmetoder</em></p> <ul> <li>Laborationer och experiment. Insamling av data från observationer, mätningar och simuleringar. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li> <li>Analys av prover och felkällor, till exempel detektionsnivå, riktighet och precision samt systematiska och slumpmässiga fel.</li> <li>Modeller som beskrivningar av verkligheten. Modellers och teoriers giltighet samt det experimentella arbetes betydelse för deras utveckling över tid.</li> <li>Granskning av information och argumentation som rör kemi. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om kemins begrepp, modeller och teorier och ger <strong>enkla</strong> förklaringar av kemiska samband.</p> <p>Eleven gör <strong>enkla</strong> analyser av kemiska frågeställningar och samband. Dessutom kommunicerar eleven i frågor som rör kemi med <strong>godtagbar</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>i huvudsak systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>enkla</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>enkla</strong> resonemang om kemin som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om kemins begrepp, modeller och teorier och ger <strong>utvecklade</strong> förklaringar av kemiska samband.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av kemiska frågeställningar och samband. Dessutom kommunicerar eleven i frågor som rör kemi med <strong>god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>utvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om kemin som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om kemins begrepp, modeller och teorier och ger <strong>välutvecklade</strong> förklaringar av kemiska samband.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av kemiska frågeställningar och samband. Dessutom kommunicerar eleven i frågor som rör kemi med <strong>mycket god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet, <strong>systematiskt och ändamålsenligt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>välutvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om kemin som vetenskap och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.026Z"
+}

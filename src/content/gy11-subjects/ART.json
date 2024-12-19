@@ -1,0 +1,101 @@
+{
+  "code": "ART",
+  "name": "Artificiell intelligens",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2024-07-01",
+  "modifiedDate": "2023-12-12",
+  "version": "gy11",
+  "versionInfo": "Första version",
+  "skolfsGrund": "2023:136",
+  "nameHeading": "<h2>Artificiell intelligens</h2>",
+  "description": "<p>Artificiell intelligens (AI) är förmågan hos datorprogram och robotar att efter­likna mänsklig intelligens. AI tillämpas inom olika områden och används i arbete, utbildning och vardagsliv. Ämnet artificiell intelligens behandlar AI-utvecklingen framför allt ur ett samhällsperspektiv och utforskar vilka konse­kvenser det kan ha för det dagliga livet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet artificiell intelligens ska syfta till att eleverna utvecklar kunskaper om centrala begrepp och tekniker inom AI och ge en introduk­tion till och överblick av AI och dess tillämpningar.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förståelse av hur AI påverkar det dagliga livet och vår bild av omvärlden. Undervisningen ska därför ge eleverna möjlighet att utveckla kunskaper om AI och dess bakomliggande funktionssätt, primära beståndsdelar och uppbyggnad. Eleverna ska även ges möjlighet att utveckla kunskaper om för AI relevanta lagar och andra bestämmelser. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra juridiska, etiska, ekonomiska och säkerhetsmässiga överväganden inom ämnet.</p> <p>Undervisningen ska belysa tänkbara möjligheter med och konsekvenser av teknikens användning och hur den kan bidra till hållbar utveckling. AI skapas för att efterlikna mänsklig intelligens och därför ska undervisningen ge elev­erna möjlighet att utveckla kunskaper om likheter och skillnader mellan den mänskliga intelligensen och den artificiella.</p> <p>Undervisningen ska varva teoretiska moment med praktiska och ge elev­erna möjlighet att använda olika digitala verktyg och programvaror samt att programmera. På så vis ska eleverna ges möjlighet att utveckla förståelse av hur AI kan användas i problemlösning och förmåga att omsätta sina kunskaper till praktiska handlingar. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom artificiell intelligens.</p> <h4><em>Undervisningen i ämnet artificiell intelligens ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ol> <li>Kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</li> <li>Förmåga att använda AI i problemlösning.</li> <li>Kunskaper om skillnader och likheter mellan mänsklig och artificiell intelligens.</li> <li>Kunskaper om lagar och andra bestämmelser relevanta för AI.</li> <li>Förmåga att resonera om möjligheter och risker med AI och dess konsekvenser för samhället.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Artificiell intelligens 1, 100 poäng. </li> <li>Artificiell intelligens 2, 100 poäng, som bygger på kursen artificiell intelligens 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ARTART01</h3>",
+      "code": "ARTART01",
+      "nameHeading": "<h2>Artificiell intelligens 1, 100 poäng</h2>",
+      "name": "Artificiell intelligens 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen artificiell intelligens 1 omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></h4><p>Artificiell intelligens</p> <ul> <li>Definition av AI samt centrala begrepp inom området.</li> <li>Vikten av data, datakvalitet för AI och val av data.</li> <li>Drivkrafter bakom utvecklingen av AI.</li> <li>Översikt över användningen av AI, däribland prediktion, robotik, vision och generativ AI samt olika tekniker och metoder som ligger bakom dessa.</li> <li>Översikt av tekniker för AI, däribland sökning, klassificering och objekt­igenkänning.</li> <li>Översikt av metoder och algoritmer inom AI, däribland beslutsträd, re­gression samt övervakat och oövervakat lärande.</li> </ul> <p>Praktisk användning av AI</p> <ul> <li>Översikt över processen för problemlösning med AI.</li> <li>Enklare typ av problemlösning med hjälp av AI, till exempel klassificering, objektigenkänning, prediktion, tolkning och bearbetning av naturligt språk (NLP), enklare maskininlärning och användning av spelagent.</li> <li>Principer för, och tillämpningar av, vanliga tekniker inom AI, däribland maskininlärning och robotik.</li> <li>Metoder för enklare träning av AI.</li> </ul> <p>Förhållningssätt till AI</p> <ul> <li>Jämförelse mellan hur enklare lösningar med AI fungerar och hur en människa löser samma problem.</li> <li>Några situationer där AI är överlägsen människan och tvärtom.</li> <li>Normer samt lagar och andra bestämmelser som gäller AI och dess användning.</li> <li>Etiska dilemman med användandet av AI, däribland transparens.</li> <li>Demokratiska, sociala, ekonomiska, miljömässiga och säkerhetsmässiga möjligheter och risker med AI-användning samt dess konsekvenser för samhället.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>viss säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>enkla</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>enkla</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>välgrundade</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>god säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ARTART02</h3>",
+      "code": "ARTART02",
+      "nameHeading": "<h2>Artificiell intelligens 2, 100 poäng</h2>",
+      "name": "Artificiell intelligens 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen artificiell intelligens 2 omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4><i>Undervisningen i kursen ska behandla följande centrala innehåll:</i></h4><p>Artificiell intelligens</p> <ul> <li>Användningsområden och arbetssätt för AI inom något område, till exempel sociala medier, sjukvård eller transport.</li> <li>Tekniker, metoder och algoritmer inom AI.</li> <li>Tillämpningar inom AI.</li> </ul> <p>Praktisk användning av AI</p> <ul> <li>Processen för problemlösning med AI, däribland kvalitetssäkring, idrifttagande och underhåll av lösningen.</li> <li>Problemlösning av mer omfattande karaktär med hjälp av AI, till exempel klassificering, objektigenkänning, prediktion, bearbetning av naturligt språk (NLP) och användning av spelagent.</li> <li>Algoritmer för problemlösning baserad på AI, till exempel för användning av maskininlärning, spelagent, prediktion och robotik.</li> <li>Olika metoders styrkor och svagheter, däribland inom sökning, klassificering och maskininlärning.</li> <li>Byggstenar för artificiella neuronnät.</li> <li>Metoder för träning av maskininlärningssystem, däribland märkt och omärkt data samt tränings- och testdata.</li> <li>Användning och konfigurering av djupa neuronnät.</li> </ul> <p>Förhållningssätt till AI</p> <ul> <li>Värdering av problemlösning gjord av AI, i jämförelse med hur en människa löser samma problem.</li> <li>Konsekvenser av lagar och andra bestämmelser för AI och dess användning.</li> <li>Möjligheter med och konsekvenser av AI-användning inom valt område utifrån såväl demokratiska, etiska, sociala, ekonomiska och miljömässiga som säkerhetsmässiga aspekter.</li> <li>Riskbedömning av AI-användning i olika situationer.</li> <li>Svagheter i maskininlärning med avseende på transparens, logiska förklaringar på resultatmängd av data, val av data och kvalitet på data.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>viss säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>enkla</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>godtagbart</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>enkla</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>välgrundade</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>utvecklat</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om AI, dess tillämpningar, tekniker och beståndsdelar.</p> <p>Eleven använder med <strong>god säkerhet</strong> AI för att lösa enkla problem.</p> <p>Eleven gör <strong>välgrundade och nyanserade</strong> jämförelser av mänsklig och artificiell intelligens.</p> <p>Eleven redogör på ett <strong>välutvecklat</strong> sätt för lagar och andra bestämmelser som gäller för AI.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om möjligheter och risker med AI samt dess konsekvenser för samhället.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.941Z"
+}

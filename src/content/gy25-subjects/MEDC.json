@@ -1,0 +1,77 @@
+{
+  "code": "MEDC",
+  "name": "Medicinsk teknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:550",
+  "nameHeading": "<h2>Medicinsk teknik</h2>",
+  "description": "<p>Inom området medicinsk teknik används teknik och naturvetenskap för att ta fram nya behandlingar och diagnostik för sjukvården. Ämnet medicinsk teknik behandlar hur material, produkter och hjälpmedel inom sjukvården används och utvecklas samt hur människa och maskin samverkar. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet medicinsk teknik ska syfta till att eleverna utvecklar kunskaper om medicinteknisk utrustning samt förmåga att installera, driftsätta, underhålla och reparera medicinteknisk utrustning. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om hur medicinsk teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället. Eleverna ska ges möjlighet att utveckla förståelse av vilka olika förutsättningar människor har att använda medicinsk teknik utifrån kön, tillgänglighet eller kulturella skillnader.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om samspelet mellan maskin och människa. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om medicintekniska begrepp och hur medicintekniska underlag tolkas samt förmåga att kommunicera om medicinsk teknik. Undervisningen ska även ge eleverna möjlighet att utveckla medicintekniska färdigheter i att arbeta med mätningar, observationer, experiment, tekniska beräkningar, matematiska modelleringar, risk- och rimlighetsbedömningar samt felsökning.</p> <p>Undervisningen ska varva teoretiska moment med praktiska och ge eleverna möjlighet att arbeta i verklighetsnära projekt. På så vis ska eleverna ges möjlighet att omsätta sina kunskaper i omdömesgilla och praktiska handlingar. Undervisningen ska dessutom lämna utrymme för diskussion om och reflektion över etiska val samt olika handlingsalternativ inom medicinsk teknik.</p> <h5><em>Undervisningen i ämnet medicinsk teknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika medicintekniska utrustningar.</li> <li>Förmåga att installera, driftsätta och underhålla medicinteknisk utrustning.</li> <li>Förmåga att tolka medicintekniska underlag och kommunicera med användare.</li> <li>Färdigheter i att utföra mätningar och felsökningar av medicinteknisk utrustning.</li> </ul><h3>Nivåer i ämnet medicinsk teknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MEDC100TX</h3>",
+      "code": "MEDC100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medicinsk teknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Utrustning</em></p> <ul> <li>Medicinteknisk utrustning av olika slag, till exempel elektromedicinsk, gas- och vätsketeknisk och radiologisk utrustning, samt deras funktioner.</li> <li>Hur etiska värderingar och sociala strukturer påverkar medicinteknisk utveckling, användning och tillgänglighet.</li> </ul> <p><em>Installation och underhåll</em></p> <ul> <li>Medicintekniska produkters användningsområden.</li> <li>Installation och drift av medicinteknisk utrustning, till exempel elektromedicinsk, gas- och vätsketeknisk och radiologisk utrustning.</li> <li>Säkerhetsföreskrifter, funktionskrav och rutiner.</li> <li>Reparation, underhåll och säkerhetskontroll av medicinteknisk utrustning.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Tolkning av ritningar, tekniska instruktioner, kopplingsscheman och manualer relevanta för området.</li> <li>Medicintekniska begrepp.</li> <li>Kommunikation med olika kategorier av sjukvårdspersonal.</li> <li>Användning av relevanta it-system för information och kommunikation.</li> <li>Patientsäkerhet och hantering av känslig information.</li> </ul> <p><em>Mätteknik och felsökning</em></p> <ul> <li>Mätteknik, schemaläsning och mätinstrument relevanta för olika typer av medicinteknisk utrustning.</li> <li>Systematisk felsökning.</li> <li>Dokumentation av utförda åtgärder och administrativa rutiner.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MEDC200TX</h3>",
+      "code": "MEDC200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet medicinsk teknik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Utrustning</em></p> <ul> <li>Fördjupning inom någon eller några medicintekniska utrustningar och deras användningsområden utifrån tekniska, medicinska och sociala aspekter.</li> </ul> <p><em>Installation och underhåll</em></p> <ul> <li>Fördjupning inom någon eller några medicintekniska utrustningars installation, drift och underhåll i enlighet med säkerhetsföreskrifter, funktionskrav och för området etablerade rutiner.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Användning av medicintekniska underlag samt kommunikation utifrån behov och säkerhet med olika målgrupper, däribland sjukvårdspersonal och brukare.</li> </ul> <p><em>Mätteknik och felsökning</em></p> <ul> <li>Metoder och tekniker för olika typer av mätteknisk utrustning.</li> <li>Felsökningar, funktions- och säkerhetskontroller samt dokumentation av utförda åtgärder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>övergripande</strong> för funktion och användning av medicintekniska utrustningar.</p> <p>Eleven installerar, driftsätter och underhåller medicinteknisk utrustning med <strong>säkerhet</strong>.</p> <p>Eleven använder och kommunicerar medicintekniska underlag med <strong>viss</strong> skicklighet.</p> <p>Eleven utför mätningar och felsöker medicinskteknisk utrustning med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för funktion och användning av medicintekniska utrustningar.</p> <p>Eleven installerar, driftsätter och underhåller medicinteknisk utrustning med <strong>god säkerhet</strong>.</p> <p>Eleven använder och kommunicerar medicintekniska underlag med <strong>god</strong> skicklighet.</p> <p>Eleven utför mätningar och felsöker medicinskteknisk utrustning med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för funktion och användning av medicintekniska utrustningar.</p> <p>Eleven installerar, driftsätter och underhåller medicinteknisk utrustning med <strong>mycket god säkerhet</strong>.</p> <p>Eleven använder och kommunicerar medicintekniska underlag med <strong>mycket god</strong> skicklighet.</p> <p>Eleven utför mätningar och felsöker medicinskteknisk utrustning med <strong>mycket god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.042Z"
+}

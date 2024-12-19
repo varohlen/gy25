@@ -1,0 +1,105 @@
+{
+  "code": "INR",
+  "name": "Industriautomation",
+  "englishName": "Industrial automation",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2014:61",
+  "skolfsAndring": "2022:157",
+  "nameHeading": "<h2>Industriautomation</h2>",
+  "description": "<p>Ämnet industriautomation behandlar byggnation och underhåll av industriella automatiserade system. Automatiserade system är processer med funktioner som verkar av sig själv. De kan styras av i förväg beskrivna program men också av händelser som sker i eller i anslutning till aktuella funktioner. Automatiserade system används bland annat i tillverkningsindustrin och i processindustrin.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på industriella automatiserade system med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med industriella automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.</p><p>Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella automatiserade system. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.</p><p>Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis.</p><h4>Undervisningen i ämnet industriautomation ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med industriella automatiserade system.</li> <li>Kunskaper om standarder och begrepp som används vid arbete med industriella automatiserade system.</li> <li>Förmåga att planera och på ett säkert sätt utföra arbete i industriella automatiserade system.</li> <li>Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över industriella automatiserade system.</li> <li>Förmåga att installera, programmera och driftsätta industriella automatiserade system.</li> <li>Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av industriella automatiserade system.</li> <li>Förmåga att förebygga och avhjälpa fel i industriella automatiserade system.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Industriautomation, 100 poäng, som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen allmän automationsteknik.</li> <li>Robotteknik, 100 poäng, som bygger på kursen programmerbara styrsystem eller på kurserna datorstyrd produktion 1 och datorstyrd produktion 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: INRIND0</h3>",
+      "code": "INRIND0",
+      "nameHeading": "<h2>Industriautomation, 100 poäng</h2>",
+      "name": "Industriautomation",
+      "englishName": "Industrial automation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen industriautomation omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Uppbyggnad av samt funktion och principer för produktionsceller.</li> <li>Uppbyggnad av samt funktion och principer för ingående utrustning i produktionsceller.</li> <li>Industriella tillverkningsprocesser ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning. Framtida perspektiv på hållbar utveckling och teknikens roll i den.</li> <li>Begrepp och standarder inom automatiserad produktion, till exempel informationstekniska standarder.</li> <li>Montering av den utrustning som ingår i en produktionscell.</li> <li>Ritningsläsning vid arbete i en produktionscell.</li> <li>Kabeldragning mellan utrustningar som ingår i en produktionscell.</li> <li>Driftsättning av produktionsceller.</li> <li>Styrning, programmering och kontroll av produktionsceller.</li> <li>Förebyggande och avhjälpande underhåll av produktionsceller.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad av samt funktion och principer för olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom industriautomation. Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med industriella automatiserade system.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med viss säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>i samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd </strong>med handledare de fel som uppstår samt genomför en <strong>enkel </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med<strong> visst </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> i samråd </strong>med handledare fel och optimerar med<strong> visst </strong>handlag anläggningen. I arbetet beskriver eleven <strong>översiktligt </strong>hur de olika delarna fungerar och samverkar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad av samt funktion och principer för olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom industriautomation. Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med industriella automatiserade system.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med viss säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>efter samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd </strong>med handledare de fel som uppstår samt genomför en <strong>noggrann </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med<strong> gott </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> efter samråd </strong>med handledare fel och optimerar med<strong> gott </strong>handlag anläggningen. I arbetet beskriver eleven <strong>utförligt </strong>hur de olika delarna fungerar och samverkar <strong>samt föreslår enkla förbättringar i anläggningen</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad av samt funktion och principer för olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom industriautomation. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med industriella automatiserade system.</p><p>Eleven planerar och utför<strong> efter samråd </strong>med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>efter samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd </strong>med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> efter samråd </strong>med handledare fel och optimerar med <strong>mycket gott </strong>handlag anläggningen. I arbetet beskriver eleven <strong>utförligt och nyanserat </strong>hur de olika delarna fungerar och samverkar <strong>samt föreslår välgrundade förbättringar i anläggningen</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: INRROB0</h3>",
+      "code": "INRROB0",
+      "nameHeading": "<h2>Robotteknik, 100 poäng</h2>",
+      "name": "Robotteknik",
+      "englishName": "Robotics",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen robotteknik omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Industrirobotens principiella uppbyggnad och användningsområden.</li> <li>Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</li> <li>Vanligt förekommande standarder inom robotteknik, till exempel standarder för informationsteknik och säkerhet.</li> <li>Kontroll före drifttagning samt provkörning av program på ett säkert sätt vad gäller både person och utrustning.</li> <li>Tillämpning av gällande säkerhetsföreskrifter vid arbete i robotcellen.</li> <li>Val av gripdon.</li> <li>Kommunikation mellan robotsystemet och yttre enheter i robotcellen.</li> <li>Metoder för skriftlig och muntlig dokumentation av robotcellens funktion, uppbyggnad och program.</li> <li>Programskrivning bestående av huvudrutin och underrutin samt ändring och definition av systemparametrar.</li> <li>Felsökning i robotcellen.</li> <li>Förebyggande och avhjälpande underhåll av industrirobotar.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik. Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik.</p><p>Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med viss säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>i samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd </strong>med handledare de fel som uppstår samt genomför en <strong>enkel </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med<strong> visst </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> i samråd </strong>med handledare fel och optimerar med<strong> visst </strong>handlag anläggningen. I arbetet beskriver eleven <strong>översiktligt </strong>hur de olika delarna fungerar och samverkar.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt </strong>för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik. Dessutom redogör eleven <strong>utförligt </strong>för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik.</p><p>Eleven planerar och utför<strong> efter samråd </strong>med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med viss säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>efter samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd </strong>med handledare de fel som uppstår samt genomför en <strong>noggrann </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> efter samråd </strong>med handledare fel och optimerar med<strong> gott </strong>handlag anläggningen. I arbetet beskriver eleven <strong>utförligt </strong>hur de olika delarna fungerar och samverkar <strong>samt föreslår enkla förbättringar av anläggningen</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott </strong>sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven <strong>med säkerhet </strong>manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven <strong>efter samråd </strong>med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd </strong>med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete. Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott </strong>handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven<strong> efter samråd </strong>med handledare fel och optimerar med<strong> mycket gott </strong>handlag anläggningen. I arbetet beskriver eleven <strong>utförligt och nyanserat </strong>hur de olika delarna fungerar och samverkar <strong>samt föreslår välgrundade förbättringar av anläggningen</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.051Z"
+}

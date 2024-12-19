@@ -1,0 +1,78 @@
+{
+  "code": "FLYG",
+  "name": "Flygplatsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:225",
+  "nameHeading": "<h2>Flygplatsteknik</h2>",
+  "description": "<p>Ämnet flygplatsteknik behandlar flygplatsen som arbetsplats och de olika verksamheter som förekommer på en flygplats. I ämnet behandlas även olika arbetsområden och arbetsuppgifter samt säkerhets- och miljöaspekter.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet flygplatsteknik ska syfta till att eleverna utvecklar kunskaper om flygplatser och de olika verksamheter och arbetsområden som finns på flygplatser samt om den betydelse flygplatser har för effektiv och säker flygtrafik. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om luftfartyg samt om de fordon och den utrustning som används inom de olika verksamheterna och arbetsområdena. Undervisningen ska leda till att eleverna utvecklar förmåga att framföra de fordon som används på flygplatser på det sätt som arbetet kräver. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att planera och genomföra olika arbetsuppgifter som förekommer på en flygplats.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom de olika verksamheterna och arbetsområdena som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunder och kunders egendom. Vidare ska undervisningen bidra till att utveckla elevernas förmåga att ta initiativ och lösa problem.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet.</p> <h5><em>Undervisningen i ämnet flygplatsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om flygplatser, deras uppbyggnad och funktion samt om deras olika verksamheter och arbetsområden.</li> <li>Kunskaper om luftfartyg samt om de fordon och utrustningar som används inom olika verksamhetsområden och arbetsområden på flygplatser.</li> <li>Förmåga att köra och manövrera transportfordon och servicefordon.</li> <li>Förmåga att planera och genomföra arbetsuppgifter på en flygplats.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet flygplatsteknik</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FLYG1000X</h3>",
+      "code": "FLYG1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet flygplatsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Flygplatsers uppbyggnad och funktion samt hur säkerhet upprätthålls på och runt flygplatser.</li> <li>Orientering om flygplatsen som arbetsplats och de olika verksamheter, arbetsområden och arbetsuppgifter som förekommer, däribland räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.</li> <li>Orientering om lagar och andra bestämmelser som reglerar flygplatsers verksamheter.</li> <li>Orientering om svensk och engelsk terminologi som används på flygplatser samt metoder för dokumentation enligt rutiner, lagar och andra bestämmelser.</li> <li>Metoder för att beräkna lastmängd och viktfördelning för säker och effektiv flygtransport.</li> <li>Marktrafikregler på och i anslutning till flygplatsen.</li> <li>Orientering om trafikledning, dess funktion och betydelse för säkerhet och effektivitet.</li> <li>Orientering om tekniska system som förekommer på flygplatser, däribland system för kommunikation, trafikledning och biljett-, gods- och bagagehantering.</li> <li>Nationella och internationella organisationer och intressenter inom området.</li> <li>Risker vid arbete på flygplatser, såväl för den övergripande arbetsmiljön som vid olika specifika arbetsmoment.</li> <li>Ergonomiska arbetsmetoder samt metoder för riskbedömning vid olika arbetsuppgifter.</li> <li>Olika typer av avvikelser som kan förekomma på flygplatser och metoder för att hantera dessa, däribland hantering av olyckor, hot eller andra oförutsedda händelser.</li> <li>Flygplatsens brandredskap och utrymningsvägar samt hur personer som vistas i flygplatsområdet ska agera vid brand.</li> <li>Orientering om farliga ämnen och metoder för att hantera dessa på ett säkert och miljövänligt sätt.</li> <li>Metoder för kvalitets- och miljömässigt arbete på flygplatsen.</li> <li>Orientering om luftfartygs konstruktion och uppbyggnad.</li> <li>Hur luftfartygs aerodynamik påverkas av regn och is samt metoder för avisning.</li> <li>Olika typer av fordon och utrustningar som används vid arbete på flygplatser samt deras olika användningsområden.</li> <li>Metoder för säkerhetskontroll och tillsyn av fordon och utrustning som används på flygplatser.</li> <li>Manövrering och framförande av transportfordon och servicefordon på ett riskmedvetet och säkert sätt.</li> <li>Genomförande av vanligt förekommande arbetsuppgifter inom områdena räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.</li> <li>Genomförande av säkerhetskontroll samt tillsyn av fordon och utrustning som används på flygplatser.</li> <li>Beräkning av lastmängd och viktfördelning för säker och effektiv flygtransport.</li> <li>Hantering av farliga ämnen på ett säkert och miljövänligt sätt.</li> <li>Användning av instruktioner och manualer på svenska och engelska samt dokumentation enligt rutiner, lagar och andra bestämmelser.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser samt för att förhindra person- och egendomsskador.</li> <li>Användning av enklare områdesspecifika begrepp och uttryck på svenska och engelska samt kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FLYG2000X</h3>",
+      "code": "FLYG2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet flygplatsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Flygplatsers struktur och funktion samt arbetsområden och metoder för olika arbetsuppgifter, däribland arbetsuppgifter inom räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst enligt de rutiner, lagar och andra bestämmelser som tillämpas på flygplatser.</li> <li>Nationella och internationella lagar och andra bestämmelser som reglerar flygplatsers verksamheter.</li> <li>Metoder för användning av tekniska system som förekommer på flygplatser, däribland system för kommunikation, trafikledning samt biljett-, gods- och bagagehantering.</li> <li>Metoder för olika typer av riskbedömning samt för hantering av olika typer av avvikelser.</li> <li>Luftfartygs konstruktion och deras olika system samt luftfartygs strukturella begränsningar och skaderisker.</li> <li>Funktioner hos fordon och utrustningar som används på flygplatser samt metoder för till- och frånkoppling av utrustning till respektive fordon.</li> <li>Metoder för säkerhetskontroll, tillsyn och enklare underhåll av fordon och utrustning samt konsekvenser av bristande tillsyn och underhåll avseende ekonomi, driftstörningar och trafiksäkerhet.</li> <li>Manövrering och framförande av transportfordon, servicefordon, fälthållningsfordon och fordonskombinationer för sommar- och vinterväghållning på ett riskmedvetet och säkert sätt.</li> <li>Planering och genomförande av olika arbetsuppgifter inom områdena räddningstjänst, ramptjänst, fälttjänst och säkerhetstjänst.</li> <li>Genomförande av säkerhetskontroll, tillsyn och enklare underhåll av fordon och utrustning som används på flygplatser.</li> <li>Användning av olika tekniska system som förekommer på flygplatser, däribland system för kommunikation och trafikledning samt biljett-, gods- och bagagehantering.</li> <li>Användning av instruktioner och manualer på svenska och engelska samt dokumentation enligt rutiner, lagar och andra bestämmelser.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser samt för att förhindra person- och egendomsskador.</li> <li>Användning av områdesspecifika begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om flygplatser, deras uppbyggnad och funktion samt om deras olika verksamheter och arbetsområden.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om luftfartyg samt om de fordon och utrustningar som används vid arbete på flygplatser.</p> <p>Eleven kör och manövrerar transportfordon och servicefordon på ett säkert, riskmedvetet och miljömässigt sätt.</p> <p>Eleven planerar och genomför med <strong>viss säkerhet</strong> arbetsuppgifter på en flygplats.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om flygplatser, deras uppbyggnad och funktion samt om deras olika verksamheter och arbetsområden.</p> <p>Eleven visar <strong>goda</strong> kunskaper om luftfartyg samt om de fordon och utrustningar som används vid arbete på flygplatser.</p> <p>Eleven kör och manövrerar transportfordon och servicefordon på ett säkert, riskmedvetet och miljömässigt sätt.</p> <p>Eleven planerar och genomför med <strong>säkerhet</strong> arbetsuppgifter på en flygplats.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om flygplatser, deras uppbyggnad och funktion samt om deras olika verksamheter och arbetsområden.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om luftfartyg samt om de fordon och utrustningar som används vid arbete på flygplatser.</p> <p>Eleven kör och manövrerar transportfordon och servicefordon på ett säkert, riskmedvetet och miljömässigt sätt.</p> <p>Eleven planerar och genomför med <strong>god säkerhet</strong> arbetsuppgifter på en flygplats.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.997Z"
+}

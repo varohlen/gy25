@@ -1,0 +1,257 @@
+{
+  "code": "KAR",
+  "name": "Karosseriteknik",
+  "englishName": "Bodywork",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-09",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:220",
+  "skolfsAndring": "2022:172",
+  "nameHeading": "<h2>Karosseriteknik</h2>",
+  "description": "<p>Ämnet karosseriteknik omfattar området bilskadeteknik och behandlar materiallära, arbetsmetoder, verktyg och andra hjälpmedel för reparation av skadade fordon.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet karosseriteknik ska syfta till att eleverna utvecklar kunskaper i att mäta, diagnostisera och reparera skadade fordon med hjälp av den teknik och utrustning som krävs. Eleverna ska också ges möjlighet att utveckla förståelse av de olika material som finns i ett modernt fordon. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om olika chassi- och karosserikonstruktioners uppbyggnad och funktion samt vilka krav på säkerhet och komfort det finns på dem.</p><p>Eleverna ska ges möjlighet att utveckla förmåga att hämta den information som behövs för att utföra reparationer enligt tillverkarens krav och att tillägna sig det teknikspråk som krävs för att kommunicera med medarbetare och kunder på ett yrkesmässigt sätt. Undervisningen ska bidra till att eleverna utvecklar kvalitetsmedvetande och förståelse av branschens ekonomiska villkor. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om yrkets arbetsuppgifter och villkor, säkerhet och miljö. Undervisningen ska också ge eleverna möjlighet att utveckla yrkesidentitet och yrkesetik.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa uppgifter ska utgå från ett problemlösande och laborativt arbetssätt.</p><h4>Undervisningen i ämnet karosseriteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om yrkets förutsättningar och om branschens verksamhetsvillkor.</li> <li>Kunskaper om chassi- och karosserikonstruktioners uppbyggnad och funktion samt om de olika material som finns i ett fordon.</li> <li>Förmåga att utföra olika reparationsarbeten, monteringsarbeten och justeringsarbeten.</li> <li>Förmåga att utföra funktionskontroll, diagnostik och kostnadsberäkningar samt måttriktning på olika chassi- och karosserikomponenter.</li> <li>Förmåga att utföra chassi- och karosserimätning med olika typer av mätutrustning samt att optimera produktionsflödet.</li> <li>Förmåga att utföra byte och skarvning av olika chassi- och karosserikomponenter med hjälp av de sammanfognings- och bearbetningsmetoder som används inom karosseriteknik.</li> <li>Förmåga att använda och underhålla verktyg och utrustning.</li> <li>Förmåga att använda informationsmaterial, såväl svenska som engelska manualer samt digitala informationssystem.</li> <li>Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> <li>Förmåga att samarbeta med andra och kommunicera med medarbetare och kunder samt att använda begrepp och uttryck som är relevanta för ämnesområdet.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Riktningsteknik – introduktion, 200 poäng. </li> <li>Karosserikonstruktioner och inredning, 200 poäng, som bygger på kursen riktningsteknik – introduktion. </li> <li>Riktbänkssystem, 200 poäng, som bygger på kursen riktningsteknik – introduktion.</li> <li>Skadebesiktning och produktionsflöde, 100 poäng, som bygger på kursen riktningsteknik – introduktion. </li> <li>Skarvnings- och sammanfogningsteknik, 300 poäng, som bygger på kursen riktningsteknik – introduktion.</li> <li>Småreparationer – karosseri, 100 poäng, som bygger på kursen riktningsteknik – introduktion.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: KARRIT0</h3>",
+      "code": "KARRIT0",
+      "nameHeading": "<h2>Riktningsteknik – introduktion, 200 poäng</h2>",
+      "name": "Riktningsteknik – introduktion",
+      "englishName": "Alignment techniques – introduction",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen riktningsteknik – introduktion omfattar punkterna 1–4 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Verksamhetsområden inom karosseriteknik.</li> <li>Grunderna i karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.</li> <li>Introduktion till olika reparationsmetoder och sammanfogningstekniker för de olika material som ingår i en fordonskaross.</li> <li>Metoder för ytriktning med handverktyg och måttriktning med lös hydraulik.</li> <li>Mätningsteknik för karosseri, chassi och hjulvinklar.</li> <li>Introduktion till analys och diagnos av skador som underlag för val av reparationsmetod samt kostnadsberäkning.</li> <li>Verktyg och utrustning som används vid bilskadereparationer.</li> <li>Informationsmaterial från olika fordonstillverkare och fordonsdatabaser, verkstadshandböcker samt manualer på svenska och engelska.</li> <li>Begränsningar av det arbete som får utföras ur säkerhetssynpunkt. Skyddsutrustning, faror, olyckssamband och riskbedömning av egen och omgivande verksamhet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>yrkesområdet bilskadereparation samt en arbetssituation som är vanligt förekommande för bilskadereparatören. Dessutom beskriver eleven <strong>översiktligt </strong>karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.</p><p>Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkla</strong> skadereparationsarbeten. Dessutom utför eleven <strong>i samråd </strong>med handledare och i bekanta situationer <strong>enkel</strong> diagnostik och <strong>enkla </strong>kostnadsberäkningar. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med <strong>viss </strong>hänsyn till miljö och säkerhet samt med <strong>viss </strong>hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>yrkesområdet bilskadereparation samt en arbetssituation som är vanligt förekommande för bilskadereparatören. Dessutom beskriver eleven <strong>utförligt </strong>karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer <strong>enkla</strong> skadereparationsarbeten. Dessutom utför eleven <strong>efter samråd </strong>med handledare och i bekanta <strong>och delvis nya </strong>situationer <strong>enkel</strong> diagnostik och <strong>enkla </strong>kostnadsberäkningar. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>yrkesområdet bilskadereparation samt en arbetssituation som är vanligt förekommande för bilskadereparatören. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>karosserikonstruktioners uppbyggnad och funktion samt olika skadors påverkan på olika fordonstyper.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer skadereparationsarbeten. Dessutom utför eleven <strong>efter samråd </strong>med handledare och i bekanta <strong>och nya </strong>situationer diagnostik och kostnadsberäkningar. I arbetet använder eleven <strong>med säkerhet </strong>relevanta arbetsmetoder och verktyg samt relevant utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KARKAR0</h3>",
+      "code": "KARKAR0",
+      "nameHeading": "<h2>Karosserikonstruktioner och inredning, 200 poäng</h2>",
+      "name": "Karosserikonstruktioner och inredning",
+      "englishName": "Body construction and interior fittings",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen karosserikonstruktioner och inredning omfattar punkterna 2–4 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Karosseri- och chassikonstruktioners påverkan på krocksäkerhet, väghållning, rostbenägenhet och reparationsmöjligheter.</li> <li>Aktiva säkerhetssystem som kan påverkas av föraren.</li> <li>Passiva säkerhetssystem som är inbyggda i bilens konstruktion samt arbetsmetoder och bestämmelser som gäller för hantering av dem.</li> <li>Materiallära och olika sammanfogningstekniker som används för arbetet.</li> <li>Återställande av karossens olika egenskaper i samband med reparation.</li> <li>Demontering och montering samt injustering av svetsade, skruvade och limmade karosseri- och chassidetaljer och komponenter, till exempel skärmar, dörrar, hjulupphängning och stötfångare.</li> <li>Demontering och montering av motor och drivlina samt de inredningsdetaljer och komponenter som krävs i samband med reparation av skadade fordon.</li> <li>Funktionskontroll av olika system, återställande av felkoder, kontroll och eventuell justering av hjulvinklar.</li> <li>Klimatanläggningar, deras konstruktion och funktion, reparationsmetoder för klimatanläggningar samt föreskrifter för kylmedia.</li> <li>Rekonditionering och polering av lackerade ytor inför leverans av reparerade fordon.</li> <li>Informationsmaterial rörande biltillverkarens anvisningar och krav.</li> <li>Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt bestämmelser som gäller för arbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>olika chassi- och karosserikonstruktioners säkerhetssystem.</p><p>Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer demontering, montering och reparationsarbeten av olika komponenter. Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> funktionskontroll. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper gällande säkerhet och reparationsmöjligheter. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med <strong>viss </strong>hänsyn till miljö och säkerhet samt med <strong>viss </strong>hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>olika chassi- och karosserikonstruktioners säkerhetssystem.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer demontering, montering och reparationsarbeten av olika komponenter. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer funktionskontroll. I arbetet använder eleven <strong>med viss säkerhet </strong>relevanta arbetsmetoder och utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper gällande säkerhet och reparationsmöjligheter. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>olika chassi- och karosserikonstruktioners säkerhetssystem.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer demontering, montering och reparationsarbeten av olika komponenter. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer <strong>avancerad </strong>funktionskontroll. I arbetet använder eleven <strong>med säkerhet </strong>relevanta arbetsmetoder och utrustning enligt praxis.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper gällande säkerhet och reparationsmöjligheter. Eleven använder <strong>med säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KARRIK0</h3>",
+      "code": "KARRIK0",
+      "nameHeading": "<h2>Riktbänkssystem, 200 poäng</h2>",
+      "name": "Riktbänkssystem",
+      "englishName": "Alignment jig systems",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen riktbänkssystem omfattar punkterna 2–4 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Riktbänkssystems konstruktion och funktion samt olika riktbänkssystem med tillhörande mätsystem.</li> <li>Reparation och byte av olika chassi- och karosserikomponenter med användning av riktbänksutrustningens olika gigg- och mätsystem.</li> <li>Bedömning av skador för val av reparationsmetod utifrån olika typer av chassi- och karosserikonstruktioner.</li> <li>Metoder för måttriktning med hjälp av riktbänksutrustning och lös hydraulik.</li> <li>Riktbänkstillverkarens fordonsdatabas och biltillverkarens anvisningar och krav.</li> <li>Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt regler som gäller för riktbänksarbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>konstruktion och funktion hos olika riktbänkssystem. Dessutom beskriver eleven <strong>översiktligt </strong>lagar och andra bestämmelser som gäller för arbete med riktbänk.</p><p>Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer skadereparationsarbeten med hjälp av riktbänkssystem. Eleven utför också <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel </strong>bedömning av skador och väljer reparationsmetod. Dessutom använder eleven olika metoder för <strong>enkel</strong> måttriktning.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt </strong>med hjälp av det olika reparationsmetoder, olika materials funktion och egenskaper samt fordonstillverkarens anvisningar och krav. Eleven använder <strong>med</strong> <strong>viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med <strong>viss </strong>hänsyn till miljö och säkerhet samt med<strong> viss </strong>hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>konstruktion och funktion hos olika riktbänkssystem. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som gäller för arbete med riktbänk.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer skadereparationsarbeten med hjälp av riktbänkssystem. Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer <strong>enkel </strong>bedömning av skador och väljer reparationsmetod. Dessutom använder eleven olika metoder för måttriktning.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt </strong>med hjälp av det olika reparationsmetoder, olika materials funktion och egenskaper och fordonstillverkarens anvisningar och krav. Eleven använder <strong>med</strong> <strong>viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>konstruktion och funktion hos olika riktbänkssystem. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som gäller för arbete med riktbänk.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer skadereparationsarbeten med hjälp av riktbänkssystem. Eleven utför också <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer bedömning av skador och väljer reparationsmetod. Dessutom använder eleven olika metoder för <strong>avancerad </strong>måttriktning.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat </strong>med hjälp av det olika reparationsmetoder, olika materials funktion och egenskaper och fordonstillverkarens anvisningar och krav. Eleven använder <strong>med</strong> <strong>säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KARSKA0</h3>",
+      "code": "KARSKA0",
+      "nameHeading": "<h2>Skadebesiktning och produktionsflöde, 100 poäng</h2>",
+      "name": "Skadebesiktning och produktionsflöde",
+      "englishName": "Damage inspection and production flow",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen skadebesiktning och produktionsflöde omfattar punkterna 1, 3–5 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Skadevärdering och kalkyl med och utan datorstöd.</li> <li>Chassi- och karosserikonstruktioner samt deras uppbyggnad och funktion. Olika plastmaterial, aluminium och olika stålkvaliteter samt deras sammanfogningsmetoder i syfte att utföra kalkyler.</li> <li>Friläggning av skada, skadediagnos och val av reparationsmetod med hänsyn till tekniska och ekonomiska villkor. Bedömning av direkt och indirekt skada.</li> <li>Mätning av chassi och karosseri med mekaniska och elektroniska mätsystem samt utvärdering av mätprotokoll.</li> <li>Arbetsplanering i skadeverkstaden i syfte att optimera produktionsflödet. Planering av reparationsarbete, beställning av reservdelar och samverkan mellan plåt och lack. Färdigställande av fordon efter lackering samt slutkontroll av reparation med utgångspunkt i att skapa ett bra flöde i skadeverkstaden. </li> <li>Samverkan och kommunikation på ett yrkesmässigt sätt mellan bilskadereparatör, verkstad, försäkringsbolag och försäkringstagare.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet.</p><p>Eleven planerar och utför <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> skadebesiktning och <strong>enkla </strong>kostnadsberäkningar. Dessutom planerar och utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer <strong>enkel</strong> skadediagnos och väljer reparationsmetod. I arbetet använder eleven <strong>med viss säkerhet </strong>olika mätsystem och mätprotokoll. Eleven arbetar <strong>till viss del </strong>systematiskt för att optimera produktionsflödet.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt </strong>med hjälp av det kostnader för olika reparationsmetoder och olika material. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med <strong>viss</strong> hänsyn till miljö och säkerhet samt med <strong>viss </strong>hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. Eleven anpassar <strong>med viss säkerhet </strong>sin kommunikation till situationen och mottagaren. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet.</p><p>Eleven planerar och utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer skadebesiktning och kostnadsberäkningar. Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya</strong> situationer skadediagnos och väljer reparationsmetod. I arbetet använder eleven <strong>med viss säkerhet </strong>olika mätsystem och mätprotokoll. Eleven arbetar systematiskt för att optimera produktionsflödet.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt </strong>med hjälp av det kostnader för olika reparationsmetoder och olika material. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. Eleven anpassar <strong>med viss säkerhet </strong>sin kommunikation till situationen och mottagaren. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>den samverkan mellan olika parter inom och utanför verkstaden som krävs för att optimera produktionsflödet.</p><p>Eleven planerar och utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer <strong>avancerad </strong>skadebesiktning och <strong>avancerade </strong>kostnadsberäkningar. Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya</strong> situationer <strong>avancerad </strong>skadediagnos och väljer reparationsmetod. I arbetet använder eleven <strong>med säkerhet </strong>olika mätsystem och mätprotokoll. Eleven arbetar systematiskt för att optimera produktionsflödet.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat </strong>med hjälp av det kostnader för olika reparationsmetoder och olika material. Eleven använder <strong>med säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. Eleven anpassar <strong>med säkerhet </strong>sin kommunikation till situationen och mottagaren. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KARSKR0</h3>",
+      "code": "KARSKR0",
+      "nameHeading": "<h2>Skarvnings- och sammanfogningsteknik, 300 poäng</h2>",
+      "name": "Skarvnings- och sammanfogningsteknik",
+      "englishName": "Splicing and joining",
+      "points": "300",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen skarvnings- och sammanfogningsteknik omfattar punkterna 2 och 6–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Chassi- och karosserikonstruktioner samt deras uppbyggnad och funktion. Olika plastmaterial, aluminium- och stålkvaliteter samt deras sammanfogningstekniker.</li> <li>MIG/MAG-svetsning, MIG-lödning och motståndssvetsning.</li> <li>Svetsutrustningarnas funktion och inställning.</li> <li>Svetsnings- och skarvningsövningar med olika metoder och utrustning.</li> <li>Byte och skarvning av olika chassi- och karosserikomponenter på mindre skador.</li> <li>Mätningsteknik för inpassning av komponenter vid byte och skarvning.</li> <li>Limning av olika karosserikomponenter tillsammans med nitning och motståndssvetsning av till exempel tak och skärmar.</li> <li>Bearbetning och tätning av fogar samt olika rostskyddande åtgärder i samband med reparation och skarvning.</li> <li>Lagar och andra bestämmelser som reglerar arbetet vid olika sammanfogningsmetoder.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>chassi- och karosserikomponenter, olika material, sammanfogningstekniker och svetsutrustningar. Dessutom beskriver eleven <strong>översiktligt </strong>lagar och andra bestämmelser som reglerar arbetet vid olika sammanfogningstekniker.</p><p>Eleven utför <strong>i samråd</strong> med handledare och i bekanta situationer byte och skarvning av olika chassi- och karosserikomponenter på mindre skador. Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer arbeten med olika sammanfogningstekniker. I arbetet använder eleven utrustning enligt praxis samt väljer i bekanta situationer rätt metod.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>översiktligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med <strong>viss </strong>hänsyn till miljö och säkerhet samt med <strong>viss </strong>hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>chassi- och karosserikomponenter, olika material, sammanfogningstekniker och svetsutrustningar. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som reglerar arbetet vid olika sammanfogningstekniker.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer byte och skarvning av olika chassi- och karosserikomponenter på mindre skador. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och delvis nya </strong>situationer arbeten med olika sammanfogningstekniker. I arbetet använder eleven utrustning enligt praxis samt väljer i bekanta <strong>och delvis nya </strong>situationer rätt metod.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med viss säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>chassi- och karosserikomponenter, olika material, sammanfogningstekniker och svetsutrustningar. Dessutom beskriver eleven <strong>utförligt </strong>lagar och andra bestämmelser som reglerar arbetet vid olika sammanfogningstekniker.</p><p>Eleven utför <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer byte och skarvning av olika chassi- och karosserikomponenter på mindre skador. Dessutom utför eleven <strong>efter samråd</strong> med handledare och i bekanta <strong>och nya </strong>situationer arbeten med olika sammanfogningstekniker. I arbetet använder eleven utrustning enligt praxis samt väljer i bekanta <strong>och nya </strong>situationer rätt metod.</p><p>Eleven hittar och använder det informationsmaterial som arbetet kräver samt beskriver <strong>utförligt och nyanserat </strong>med hjälp av det olika reparationsmetoder och olika materials funktion och egenskaper. Eleven använder <strong>med säkerhet </strong>både svenska och engelska manualer samt digitala informationssystem.</p><p>Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning. Eleven utför arbetet med hänsyn till miljö och säkerhet samt med hänsyn till kostnader vid åtgärd och stillestånd.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: KARSMA0</h3>",
+      "code": "KARSMA0",
+      "nameHeading": "<h2>Småreparationer – karosseri, 100 poäng</h2>",
+      "name": "Småreparationer – karosseri",
+      "englishName": "Minor repairs – bodywork",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen småreparationer – karosseri omfattar punkterna 2–4 samt 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Metoder och användningsområden för småreparationer inom karosseri.</li> <li>Bedömning av skador för val av reparationsmetod.</li> <li>Diagnostisering och kostnadsberäkning av skador för småreparationer.</li> <li>Reparation av olika fordonsdetaljer med användning av utrustning för småreparationer.</li> <li>Riktning av mindre plåtskador utan demontering och omlackering.</li> <li>Reparation och återställning av inredningsdetaljer av läder, plast och vinyl.</li> <li>Reparation av stenskott och skador på vindrutor.</li> <li>Manualer och digitala informationssystem.</li> <li>Facktermer.</li> <li>Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> olika metoder och användningsområden för småreparationer inom karosseri. Eleven utför <strong>i samråd</strong> med handledare i bekanta situationer riktning av mindre plåtskador utan demontering och omlackering. Eleven utför också <strong>i samråd</strong> med handledare i bekanta situationer andra småreparationer på olika chassi och inredningsdetaljer. Dessutom utför eleven <strong>i samråd</strong> med handledare och i bekanta situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador.</p><p>Eleven använder och underhåller <strong>med viss säkerhet</strong> verktyg och utrustning i reparationsarbetet. Eleven använder <strong>med viss säkerhet</strong> manualer samt digitala informationssystem i sitt arbete. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> olika metoder och användningsområden för småreparationer inom karosseri. Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya </strong>situationer riktning av mindre plåtskador utan demontering och omlackering. Eleven utför också <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya</strong> situationer andra småreparationer på olika chassi och inredningsdetaljer. Dessutom utför eleven <strong>efter samråd</strong> med handledare i bekanta <strong>och delvis nya </strong>situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador.</p><p>Eleven använder och underhåller <strong>med viss säkerhet</strong> verktyg och utrustning i reparationsarbetet. Eleven använder <strong>med viss säkerhet</strong> manualer samt digitala informationssystem i sitt arbete. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med viss säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med viss säkerhet </strong>tekniska begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> olika metoder och användningsområden för småreparationer inom karosseri. Eleven utför <strong>efter samråd</strong> med handledare i bekanta <strong>men även nya</strong> situationer riktning av mindre plåtskador utan demontering och omlackering. Eleven utför också <strong>efter samråd</strong> med handledare i bekanta <strong>men även nya</strong> situationer andra småreparationer på olika chassi och inredningsdetaljer. Dessutom utför eleven <strong>efter samråd</strong> med handledare i bekanta <strong>men även nya</strong> situationer bedömning av skador, väljer reparationsmetod samt diagnosticerar och kostnadsberäknar olika typer av skador.</p><p>Eleven använder och underhåller <strong>med säkerhet</strong> verktyg och utrustning i reparationsarbetet. Eleven använder <strong>med säkerhet</strong> manualer samt digitala informationssystem i sitt arbete. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Resultatet av elevens arbete är <strong>gott</strong>.</p><p>Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt kommunicerar <strong>med säkerhet </strong>med medarbetare och kunder. I kommunikationen använder eleven <strong>med säkerhet </strong>tekniska begrepp.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.059Z"
+}

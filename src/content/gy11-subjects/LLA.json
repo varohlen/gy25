@@ -1,0 +1,105 @@
+{
+  "code": "LLA",
+  "name": "Ellära – spårfordon",
+  "englishName": "Electricity theory – rail vehicles",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-27",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2016:23",
+  "skolfsAndring": "2022:92",
+  "nameHeading": "<h2>Ellära – spårfordon</h2>",
+  "description": "<p>Ämnet ellära – spårfordon behandlar lik- och enfasväxelströmskretsar samt trefassystem och belastningar som förekommer i spårbundna fordon. Det behandlar också ledningsburna störningar och säkerhetsfrågor.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ellära – spårfordon ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag inom spårfordon. Den ska också bidra till att eleverna utvecklar förmåga att felsöka för att avhjälpa fel i fordonets elsystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur och var ledningsbundna störningar uppkommer samt deras verkan på elektriska system för drift och fordonsfunktioner.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser och standarder för elektricitet inom spårfordon samt om vilka elektriska spänningar och frekvenser som förekommer i spårbundna fordon.</p><p>Undervisningen ska leda till att eleverna utvecklar kunskap om och förståelse för säkerhetsfaktorer, säkerhetsbestämmelser och skyddsanordningar gällande låg- och högspänningsanläggningar inom spårfordon och spårområden samt förmåga att arbeta i enlighet med dessa. Den ska även ge eleverna möjlighet att utveckla färdigheter i att arbeta ergonomiskt med hänsyn till hälsa och miljö.</p><p>Undervisningen ska leda till att eleverna utvecklar förmåga att använda relevanta elektriska mätinstrument. Den ska också leda till att eleverna utvecklar förmåga att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och relevanta verktyg.</p><h4>Undervisningen i ämnet ellära – spårfordon ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion i spårfordon och spårområden.</li> <li>Kunskaper om uppbyggnad av och funktion hos lik- och enfasväxelströmskretsar i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.</li> <li>Kunskaper om uppkomsten av störningar inom och mellan olika elssystem i spårfordon och spårområden.</li> <li>Färdighet i att felsöka och avhjälpa fel i lik- och enfasväxelströmskretsar i spårfordon.</li> <li>Kunskaper om uppbyggnad av och funktion hos trefassystem i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.</li> <li>Färdighet i att felsöka och avhjälpa fel i trefassystem i spårfordon.</li> <li>Kunskaper om bestämmelser och standarder för elektricitet.</li> <li>Färdighet i att arbeta säkert med underhåll på låg- och högspänningsanläggningar.</li> <li>Förmåga att arbeta ergonomiskt på ett sätt som förebygger ohälsa och personskador.</li> <li>Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Ellära – spårfordon 1, 100 poäng. </li> <li>Ellära – spårfordon 2, 100 poäng, som bygger på kursen ellära – spårfordon 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: LLAELL01</h3>",
+      "code": "LLAELL01",
+      "nameHeading": "<h2>Ellära – spårfordon 1, 100 poäng</h2>",
+      "name": "Ellära – spårfordon 1",
+      "englishName": "Electricity theory – rail vehicles 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen ellära – spårfordon 1 omfattar punkterna 1–4 och 7–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Ledare, halvledare och isolatorer.</li> <li>Grundläggande principer för motorer, generatorer, transformatorer och strömförsörjningsdon.</li> <li>Elektrisk serie- och parallellkoppling.</li> <li>Spänningskällors uppbyggnad, syfte och funktion.</li> <li>Resistiva, induktiva och kapacitiva kretsar.</li> <li>Elektriska storheter i lik- och enfasväxelströmskretsar.</li> <li>Lik- och enfasväxelström.</li> <li>Elektriska och magnetiska fälts uppkomst och verkan samt EMC (elektromagnetisk kompatibilitet).</li> <li>Mättekniker samt metoder för att analysera mätvärden, utföra felsökning och avhjälpa fel i spårfordon och spårområden.</li> <li>Standarder och bestämmelser för arbete med låg- och högspänning.</li> <li>Lågspänningsanläggningars komponenter och utrustningar i spårfordon.</li> <li>Högspänningsanläggningars komponenter och utrustningar i spårfordon och spårområden.</li> <li>Arbetsmiljö, riskanalys, brandskydd, första hjälpen och krishantering.</li> <li>Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.</li> <li>ESA (elsäkerhetsanvisningar).</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>översiktligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystem uppstår och vilken påverkan de har på elsystemet.</p><p>Eleven utför <strong>i samråd </strong>med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Vid arbete i <strong>bekanta</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>tillfredsställande </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <strong>i samråd </strong>med handledare <strong>enkla</strong> beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i <strong>bekanta</strong> situationer <strong>med säkerhet </strong>lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför <strong>i samråd </strong>med handledare dessa åtgärder.</p><p>Eleven redogör <strong>översiktligt</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>i samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar <strong>i samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>i samråd </strong>med handledare <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>utförligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystem uppstår och vilken påverkan de har på elsystemet.</p><p>Eleven utför <strong>efter samråd </strong>med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Vid arbete i <strong>nya</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>tillfredsställande </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <strong>efter samråd </strong>med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i<strong> nya</strong> situationer <strong>med säkerhet </strong>lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför <strong>efter samråd </strong>med handledare dessa åtgärder.</p><p>Eleven redogör <strong>utförligt</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar <strong>efter samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt </strong><strong>och nyanserat</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>utförligt </strong><strong>och nyanserat</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven <strong>utförligt</strong><strong> och nyanserat</strong> för hur störningar i elsystem uppstår och vilken påverkan de har på elsystemet.</p><p>Eleven utför <strong>efter samråd </strong>med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Vid arbete i <strong>nya</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>god </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför<strong> efter samråd </strong>med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i <strong>nya</strong> situationer <strong>med säkerhet </strong>lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför <strong>efter samråd </strong>med handledare dessa åtgärder.</p><p>Eleven redogör <strong>utförligt</strong><strong> och nyanserat</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar<strong> efter samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LLAELL02</h3>",
+      "code": "LLAELL02",
+      "nameHeading": "<h2>Ellära – spårfordon 2, 100 poäng</h2>",
+      "name": "Ellära – spårfordon 2",
+      "englishName": "Electricity theory – rail vehicles 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen ellära – spårfordon 2 omfattar punkterna 1, 3 och 5–10 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Symmetrisk och osymmetrisk belastning.</li> <li>TN-C-systemets och TN-S-systemets uppbyggnad, jordningsfunktioner och användning.</li> <li>Resistiva, induktiva och kapacitiva kretsar i trefasnät.</li> <li>Vagabonderande strömmars uppkomst och utbredning. Returströmmar vid spårdrift.</li> <li>Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar.</li> <li>Trefassystemets uppbyggnad och funktion.</li> <li>Mättekniker samt metoder för att analysera mätvärden, utföra felsökning och avhjälpa fel.</li> <li>Standarder och bestämmelser för arbete med låg- och högspänning.</li> <li>Kraftelektroniska utrustningar dess användning och funktion.</li> <li>Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.</li> <li>Skyddsanordningars funktion och verkan, återledningsdon och sugtransformatorer.</li> <li>ESA (elsäkerhetsanvisningar).</li> <li>Relevant terminologi, funktionsbeskrivningar och säkerhetsbestämmelser.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>översiktligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystem. Dessutom redogör eleven <strong>översiktligt </strong>för hur störningar i elsystem uppstår och vilken verkan de har på elsystemet.</p><p>Eleven utför <strong>i samråd </strong>med handledare elektriska mätningar på trefassystem. Vid arbete i <strong>bekanta</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>tillfredsställande </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <strong>i samråd </strong>med handledare <strong>enkla</strong> beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i<strong> bekanta</strong> situationer <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför i samråd med handledare dessa åtgärder.</p><p>Eleven redogör <strong>översiktligt</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>i samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar <strong>i samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>i samråd </strong>med handledare <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>utförligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystem. Dessutom redogör eleven <strong>utförligt </strong>för hur störningar i elsystem uppstår och vilken verkan de har på elsystemet.</p><p>Eleven utför <strong>efter</strong><strong> samråd </strong>med handledare elektriska mätningar på trefassystem. Vid arbete i <strong>nya</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>tillfredsställande </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <strong>efter samråd </strong>med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i <strong>nya</strong> situationer <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför i samråd med handledare dessa åtgärder.</p><p>Eleven redogör <strong>översiktligt</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar <strong>efter samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion. Eleven redogör även <strong>utförligt och nyanserat</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystem. Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystem uppstår och vilken verkan de har på elsystemet.</p><p>Eleven utför <strong>efter</strong><strong> samråd </strong>med handledare elektriska mätningar på trefassystem. Vid arbete i <strong>nya</strong> situationer väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en <strong>god </strong>riskbedömning och anpassar vid behov mätningen efter den. Eleven utför <strong>efter samråd </strong>med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven i<strong> nya</strong> situationer <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystem. Eleven utför i samråd med handledare dessa åtgärder.</p><p>Eleven redogör <strong>översiktligt</strong> för bestämmelser och standarder för låg- och högspänning.</p><p>Eleven utför <strong>efter samråd </strong>med handledare underhåll på låg- och högspänningsanläggningar. Eleven kontrollerar <strong>efter samråd </strong>med handledare säkerheten i anläggningar samt felsöker och reparerar <strong>efter samråd </strong>med handledare fel som uppkommer i såväl nya som befintliga anläggningar.</p><p>Eleven arbetar på ett säkert och ergonomiskt riktigt sätt samt använder skyddsutrustning och lämpliga arbetskläder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.076Z"
+}

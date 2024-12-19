@@ -1,0 +1,78 @@
+{
+  "code": "FRII",
+  "name": "Fritidsanläggningars skötsel och drift",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:239",
+  "nameHeading": "<h2>Fritidsanläggningars skötsel och drift</h2>",
+  "description": "<p>Ämnet fritidsanläggningars skötsel och drift behandlar arbetsuppgifter och yrkesroller kopplade till skötsel, drift och underhåll av fritidsanläggningar, arenor och friluftsmiljöer. Centralt i ämnet är också verksamheternas utrustning samt service och värdskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fritidsanläggningars skötsel och drift ska syfta till att eleverna utvecklar förmåga att arbeta med skötsel, drift och underhåll av olika anläggningar inom fritids- och friluftssektorn. Den ska leda till att eleverna utvecklar kunskaper om olika fritidsanläggningar och deras användning samt om anläggningarnas drift med avseende på ekonomi, funktion, säkerhet, tillgänglighet och miljömässig hållbarhet. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska även leda till att eleverna utvecklar förmåga att förebygga och hantera risker i arbetsmiljön.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, utföra, dokumentera och följa upp arbetsuppgifter både självständigt och tillsammans med andra. Eleverna ska också ges möjlighet att utveckla förmåga att kommunicera och samverka med andra på ett ändamålsenligt sätt. Dessutom ska de ges möjlighet att reflektera över kommunikationens betydelse för en inkluderande och hälsofrämjande arbetsmiljö. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att arbeta med service och värdskap.</p> <p>Initiativförmåga, självständighet, personligt ansvarstagande och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av hur olika anläggningar och miljöer inom fritids- och friluftsområdet drivs och underhålls. Undervisningen ska lämna utrymme för diskussion om och reflektion över yrkesetiska frågor samt om olika handlingsalternativ till problem och situationer som kan uppstå i yrkesrollen. Därigenom ska undervisningen stärka elevernas tilltro till den egna förmågan att använda problemlösning som både mål och medel. Eleverna ska också ges möjlighet att reflektera över och diskutera arbetsformer, ämnesinnehåll och centrala begrepp.</p> <h5><em>Undervisningen i ämnet fritidsanläggningars skötsel och drift ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om drift och underhåll av fritidsanläggningar, arenor och friluftsmiljöer.</li> <li>Förmåga att sköta och underhålla olika anläggningar inom fritids- och friluftssektorn samt att dokumentera och följa upp arbetet.</li> <li>Förmåga att arbeta på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera och samverka i arbetet samt att bemöta människor i olika situationer.</li> </ul><h3>Nivåer i ämnet fritidsanläggningars skötsel och drift</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FRII1000X</h3>",
+      "code": "FRII1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fritidsanläggningars skötsel och drift på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Driftformer och ekonomi för fritidsanläggningar, arenor och friluftsmiljöer.</li> <li>Affärs- och verksamhetsidéer för olika typer av anläggningar, arenor och friluftsområden.</li> <li>Krav på lokaler och utemiljöer avseende utrustning och redskap för träning.</li> <li>Planering, genomförande, dokumentation och uppföljning av arbetsuppgifter i samarbete med andra.</li> <li>Underhåll av fritidsanläggningar, arenor och friluftsmiljöer samt hur det kan genomföras på ett miljömässigt hållbart sätt.</li> <li>Städteknik samt hantering av redskap, maskiner, utrustning och kemiska produkter i arbetet.</li> <li>Handhavande, service och tillsyn av fordon, redskap och maskiner.</li> <li>Enklare snickerier, reparationer och underhåll.</li> <li>Vanligt förekommande arbetsuppgifter i enlighet med lagar och andra bestämmelser som gäller arbetsmiljö, säkerhet och yrkesetik.</li> <li>Genomförande av riskanalyser och egenkontroller.</li> <li>Kommunikation och samverkan i arbetet samt bemötande av kunder och gäster i enlighet med verksamhetens mål om service och värdskap.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FRII2000X</h3>",
+      "code": "FRII2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fritidsanläggningars skötsel och drift på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Verksamhetsmål och organisation samt ekonomi- och produktionsstyrning av olika verksamheter.</li> <li>Tekniska system för drift av anläggningar, arenor och friluftsmiljöer, till exempel säkerhetssystem, kyl- och värmeanläggningar, bevattningssystem eller ljud- och ljusanläggningar.</li> <li>Krav på lokaler och utemiljöer avseende utrustning och redskap för träning, tävling och evenemang.</li> <li>Planering, val och användning av utrustning och redskap med anpassning till arbetsuppgift.</li> <li>Genomförande, dokumentation och utvärdering av arbetsuppgifter, självständigt och i samarbete med andra.</li> <li>Underhåll av fritidsanläggningar, arenor och friluftsmiljöer samt hur det kan genomföras på ett miljömässigt hållbart sätt.</li> <li>Användande, hantering och val av redskap, maskiner, utrustning och kemiska produkter i arbetet.</li> <li>Funktionskontroll och skötsel i enlighet med skötselinstruktioner av fasta installationer.</li> <li>Vanligt förekommande arbetsuppgifter i enlighet med lagar och andra bestämmelser som gäller arbetsmiljö, säkerhet och yrkesetik.</li> <li>Dokumentation och uppföljning av riskanalyser och egenkontroller.</li> <li>Kommunikation och samverkan i arbetet samt med kunder och gäster i enlighet med verksamhetens mål.</li> <li>Yrkesmässigt bemötande.</li> <li>Hur kommunikation, service, värdskap och ledarskap kan anpassas i mötet med olika målgrupper och samarbetspartners.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om hur fritidsanläggningar, arenor och friluftsmiljöer drivs och underhålls.</p> <p>Eleven sköter och underhåller olika anläggningar inom fritids- och friluftssektorn på ett <strong>godtagbart</strong> sätt. Dessutom dokumenterar och följer eleven upp arbetet.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika situationer i enlighet med verksamhetens mål med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om hur fritidsanläggningar, arenor och friluftsmiljöer drivs och underhålls.</p> <p>Eleven sköter och underhåller olika anläggningar inom fritids- och friluftssektorn på ett <strong>gott</strong> sätt. Dessutom dokumenterar och följer eleven upp arbetet.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika situationer i enlighet med verksamhetens mål med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om hur fritidsanläggningar, arenor och friluftsmiljöer drivs och underhålls.</p> <p>Eleven sköter och underhåller olika anläggningar inom fritids- och friluftssektorn på ett <strong>mycket gott</strong> sätt. Dessutom dokumenterar och följer eleven upp arbetet.</p> <p>Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven kommunicerar och samverkar i olika situationer i enlighet med verksamhetens mål med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.004Z"
+}

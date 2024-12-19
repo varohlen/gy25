@@ -1,0 +1,77 @@
+{
+  "code": "BYGR",
+  "name": "Byggproduktionsledning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:533",
+  "nameHeading": "<h2>Byggproduktionsledning</h2>",
+  "description": "<p>Ämnet byggproduktionsledning behandlar hur byggproduktion organiseras och leds på en byggarbetsplats, från planering före byggstart till produktionsstyrning under byggskedet. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet byggproduktionsledning ska syfta till att eleverna utvecklar förmåga att planera och genomföra upphandlingsarbete och byggprojekt. Detta innefattar kunskaper om anbudsprocessen för en byggproduktion och hur ett byggprojekt genomförs. Undervisningen ska även bidra till att eleverna utvecklar förståelse av en verksamhets planering inför starten av ett byggprojekt och av hur upphandlingsarbete sker i ett byggentreprenadföretag.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om planering av hur en byggarbetsplats kan organiseras vid etablering av ett bygge. Undervisningen ska också leda till att eleverna utvecklar kunskaper om produktionsinriktad styrning av byggskedet samt om den planering och de delprocesser som hanteras på byggarbetsplatsen.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om, och tillämpningsområden för, ekonomistyrning och entreprenadjuridik för byggprojekt och byggarbetsplatser. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om hur organisation och ledarskap hänger samman med ett byggprojekts byggtekniska förutsättningar, kvalitetskrav, miljöhänsyn och arbetsmiljö.</p> <p>Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt. Undervisningen ska lämna utrymme för diskussion om och reflektion över etiska frågor, den egna rollen samt om olika handlingsalternativ i arbete med byggproduktionsledning.</p> <h5><em>Undervisningen i ämnet byggproduktionsledning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera, organisera och genomföra upphandlingsarbete i en byggentreprenad.</li> <li>Förmåga att planera, genomföra och följa upp ett byggprojekt.</li> <li>Kunskaper om ekonomistyrning och entreprenadjuridik för byggprojekt.</li> <li>Kunskaper om samband mellan organisation, ledarskap och ett byggprojekts förutsättningar.</li> </ul><h3>Nivåer i ämnet byggproduktionsledning</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BYGR100TX</h3>",
+      "code": "BYGR100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet byggproduktionsledning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Upphandlingsarbete, däribland förfrågan, anbudsberäkning, offertförfrågan, anbud, förhandling och beställning.</li> <li>Anbudskalkyl utifrån förfrågningsunderlag enligt vedertagen byggdelstabell. Mängdberäkningar med datorstöd utifrån ritningar samt ram- och rumsbeskrivningar. Produktionsbudget.</li> <li>Produktionsplanering och produktionsmetoder för framtagning av omkostnadskalkyler och produktionstidplaner.</li> <li>Produktionsplanering, till exempel med hjälp av gantt-schema, CPM (critical path method), byggnadsinformationsmodellering (BIM) och Lean.</li> <li>Utformning av arbetsplatsdispositionsplaner (APD-planer) för byggarbetsplatsen utifrån materiallogistik, transportvägar, byggnadsställningar, avfallshantering och tillfälliga installationer.</li> <li>Entreprenadformer och entreprenadkontrakt samt lagar och andra bestämmelser som styr detta.</li> <li>Ändringsarbete, tilläggsarbete och avgående arbete (ÄTA).</li> <li>Besiktningar och egenkontroller.</li> <li>Kvalitets-, miljö- och arbetsmiljöplan (KMA-plan).</li> <li>Arbetsmiljöarbete i byggprojekt.</li> <li>Bestämmelser som gäller byggarbetsmiljösamordnare för planering och projektering (Bas P).</li> <li>KMA-samordning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: BYGR200TX</h3>",
+      "code": "BYGR200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet byggproduktionsledning på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Upphandling av underentreprenörer samt planering och inköp av material till byggprojekt.</li> <li>Produktionskalkyl, däribland materialbeställningar och mängdberäkningar utifrån ritningar, ram- och rumsbeskrivningar.</li> <li>Uppföljning av omkostnader samt val av utrustning, verktyg och hjälpmedel för att genomföra produktionsaktiviteter.</li> <li>Löpande produktionsplanering, till exempel veckoplan. Uppföljning av aktiviteter och resurser i enlighet med tidplan.</li> <li>Uppföljning av arbetsplatsdispositionsplaner (APD-planer). Materialhantering på arbetsplatsen. Olika leveransvillkor.</li> <li>Kontrakthantering och entreprenadtvister.</li> <li>Fakturering och avstämning.</li> <li>Hantering av ÄTA-arbeten.</li> <li>Tillstånd och behörigheter under byggskedet.</li> <li>Rutiner för besiktningar och egenkontroller.</li> <li>Kvalitetsmätmetoder, till exempel för att mäta fukt i material eller lufttäthet hos byggnader samt täthetsprover.</li> <li>Arbetsberedningar utifrån tekniska krav, arbetsmiljö och miljökrav, däribland bestämmelser som gäller byggarbetsmiljösamordnare för utförande (Bas U).</li> <li>Gemensam planering för flera yrkeskategorier, till exempel med visuell planering och erfarenhetsdatabank eller arbetsinstruktioner.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar, organiserar och genomför på ett <strong>strukturerat</strong> sätt upphandlingsarbete i en byggentreprenad.</p> <p>Eleven planerar, genomför och följer upp byggprojekt med <strong>säkerhet</strong>.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om ekonomistyrning och entreprenadjuridik för byggprojekt.</p> <p>Eleven för <strong>enkla</strong> resonemang om sambanden mellan organisation, ledarskap och ett byggprojekts förutsättningar.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar, organiserar och genomför på ett <strong>välstrukturerat</strong> sätt upphandlingsarbete i en byggentreprenad.</p> <p>Eleven planerar, genomför och följer upp byggprojekt med <strong>god säkerhet</strong>.</p> <p>Eleven visar <strong>goda</strong> kunskaper om ekonomistyrning och entreprenadjuridik för byggprojekt.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om sambanden mellan organisation, ledarskap och ett byggprojekts förutsättningar.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar, organiserar och genomför på ett <strong>välstrukturerat och effektivt</strong> sätt upphandlingsarbete i en byggentreprenad.</p> <p>Eleven planerar, genomför och följer upp byggprojekt med <strong>mycket god säkerhet</strong>.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om ekonomistyrning och entreprenadjuridik för byggprojekt.</p> <p>Eleven för <strong>utvecklade och nyanserade</strong> resonemang om sambanden mellan organisation, ledarskap och ett byggprojekts förutsättningar.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.979Z"
+}

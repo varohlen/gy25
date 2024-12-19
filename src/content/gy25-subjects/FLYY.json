@@ -1,0 +1,64 @@
+{
+  "code": "FLYY",
+  "name": "Flyg – yrkesteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:294",
+  "nameHeading": "<h2>Flyg – yrkesteknik</h2>",
+  "description": "<p>Ämnet flyg – yrkesteknik behandlar hur naturlagar, internationella regelverk och kvalitetskrav styr all verksamhet inom flygsektorn. Ämnet behandlar även mötet mellan människa och maskin.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet flyg – yrkesteknik ska syfta till att eleverna utvecklar kunskaper om aerodynamiska och atmosfäriska tillstånd som är relevanta för luftfartyg. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om samspelet mellan maskin och människa samt om människans förutsättningar och begränsningar i samband med flygverksamhet. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller arbetsmiljön. På så vis kan arbetsskador förebyggas och tredje person skyddas mot skador förorsakade av flygverksamhet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur ett kvalitetsmässigt arbete kan utföras i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska bidra till att eleverna utvecklar förståelse av hur olika verksamheter och arbetsformer inom området kan främja hållbar utveckling. Undervisningen ska även bidra till att stimulera elevernas intresse för flygteknik. Dessutom ska undervisningen ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som förbereder för situationer som de kan komma att möta i arbetslivet.</p> <h5><em>Undervisningen i ämnet flyg – yrkesteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om atmosfärens fysik och aerodynamik relevant för luftfartyg.</li> <li>Kunskaper om faktorer som påverkar människan och om hur mänskliga misstag kan undvikas samt om tekniska systems anpassning till människan.</li> <li>Kunskaper om standarder, lagar och andra bestämmelser inom luftfarten.</li> <li>Kunskaper om säkert, miljö- och kvalitetsmässigt arbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda ett yrkesmässigt språk.</li> </ul><h3>Nivåer i ämnet flyg – yrkesteknik</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FLYY1000X</h3>",
+      "code": "FLYY1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet flyg – yrkesteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Atmosfärens fysik med tillämpning på aerodynamik, däribland internationell standardatmosfär.</li> <li>Aerodynamiska termer och begrepp relaterade till luftfartyg, däribland generering av lyftkraft och motstånd samt för flygning i hög fart.</li> <li>Flygteori som berör samband mellan krafter och faktorer som inverkar på lyftkraft och motstånd.</li> <li>Flygstabilitet och dynamik.</li> <li>Människans förutsättningar och begränsningar samt faktorer som påverkar mänskliga prestationer.</li> <li>Socialpsykologi och gruppdynamik i samband med luftfartygsunderhåll.</li> <li>Avvikelser som kan hänföras till mänskliga faktorer samt modeller och teorier om hur mänskliga misstag kan undvikas.</li> <li>Fysisk, organisatorisk och social arbetsmiljö samt arbetsplatsrisker.</li> <li>Kommunikation och kommunikationsmetoder i samband med luftfartygsunderhåll.</li> <li>Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel struktur, ordning, trivsel och yrkesroll.</li> <li>Luftfartens flygsäkerhetskultur.</li> <li>Orientering om olika luftfartsaktörers regelverk och roller enligt rådande luftfartsbestämmelser.</li> <li>Regelverk som styr flygunderhållspersonals kunskapskrav och flygverkstäders verksamhet enligt EASA Del 66 och Del 145.</li> <li>Operatörens ansvar för fortsatt luftvärdighet och underhåll.</li> <li>Regelverk som styr konstruktion, tillverkning och vidmakthållande av luftfartyg enligt EASA Del 21 och Del M.</li> <li>Regelverkens revisionsstatus samt återkommande förändringar.</li> <li>Cybersäkerhet inom luftfart.</li> <li>Olika tillvägagångssätt för arbete med problemlösning både självständigt och tillsammans med andra i enlighet med de rutiner, lagar och andra bestämmelser som gäller arbete i en luftfartygsverkstad.</li> <li>Metoder för struktur, ordning och effektiv arbetsmiljö samt för att upprätthålla säkerheten på arbetsplatsen.</li> <li>Åtgärder för att motverka person- och egendomsskador.</li> <li>Tekniska begrepp och uttryck på svenska och engelska samt metoder för god kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om atmosfärens betydelse för hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om faktorer som påverkar människan, om hur mänskliga misstag kan undvikas och om tekniska systems anpassning till människan.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om standarder, lagar och andra bestämmelser inom luftfarten och luftfartygstillverkares anvisningar.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om säkra och hållbara arbetssätt som är förenade med de rutiner, lagar och andra bestämmelser som gäller för luftfartygsverkstaden.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om atmosfärens betydelse för hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.</p> <p>Eleven visar <strong>goda</strong> kunskaper om faktorer som påverkar människan, om hur mänskliga misstag kan undvikas och om tekniska systems anpassning till människan.</p> <p>Eleven visar <strong>goda</strong> kunskaper om standarder, lagar och andra bestämmelser inom luftfarten och luftfartygstillverkares anvisningar.</p> <p>Eleven visar <strong>goda</strong> kunskaper om säkra och hållbara arbetssätt som är förenade med de rutiner, lagar och andra bestämmelser som gäller för luftfartygsverkstaden.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om atmosfärens betydelse för hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om faktorer som påverkar människan, om hur mänskliga misstag kan undvikas och om tekniska systems anpassning till människan.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om standarder, lagar och andra bestämmelser inom luftfarten och luftfartygstillverkares anvisningar.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om säkra och hållbara arbetssätt som är förenade med de rutiner, lagar och andra bestämmelser som gäller för luftfartygsverkstaden.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.999Z"
+}

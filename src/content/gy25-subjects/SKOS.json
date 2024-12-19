@@ -1,0 +1,92 @@
+{
+  "code": "SKOS",
+  "name": "Skogsproduktion",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:111",
+  "nameHeading": "<h2>Skogsproduktion</h2>",
+  "description": "<p>Ämnet skogsproduktion behandlar produktion av olika typer av virkesråvaror med hänsyn till skogens produktionsförmåga och en hållbar utveckling för skogen. Det behandlar också skötsel av ung och växande skog samt gallring och avverkning. I ämnet behandlas även virkets tekniska egenskaper och olika användningsområden samt klassning och mätning av virke.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet skogsproduktion ska syfta till att eleverna utvecklar kunskaper i skogsskötsel och virkeslära. Den ska leda till att eleverna utvecklar förståelse av biologiska samband i skogliga biotoper samt betydelsen av ett ekonomiskt och miljömässigt hållbart skogsbruk. Undervisningen ska bidra till att eleverna utvecklar kunskaper om trädens byggnad och utveckling samt om de inre och yttre faktorer som styr och påverkar tillväxten. I detta ingår kunskaper om kretslopp i mark, vatten och luft, om klimat och vattentillgångar samt om jordarter och jordmån. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika trädslag, deras egenskaper, ståndorter och användningsområden samt om skador som kan uppstå på växande träd och virke. Eleverna ska också ges möjlighet att utveckla förmåga att bedöma produktionsförmåga för olika typer av bestånd samt göra ekonomiska beräkningar och kalkyler för en långsiktigt hållbar skogsproduktion.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att planera och genomföra arbetsuppgifter inom skogsproduktion på ett hållbart och säkert sätt samt bedöma skogens tillstånd och behov av skötselåtgärder. Den ska också bidra till att eleverna utvecklar förmåga att hantera, mäta och klassa virke inom olika typer av produktion. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller arbete med skogsproduktion. I undervisningen ska eleverna ges möjlighet att reflektera över skogens natur- och kulturvärden och hur skogsbruket kan bidra till att främja en hållbar utveckling. Eleverna ska därigenom ges möjlighet att utveckla förståelse av skogens mångsidiga värden.</p> <p>Genom praktiska övningar ska eleverna ges möjlighet att arbeta med förvaltning och skötsel av skog. Fältstudier ska bidra till att eleverna utvecklar kunskaper om trädslag och ståndorter samt om skador och skadegörare på växande träd och virke. Genom exkursioner ska eleverna ges möjlighet att utveckla förståelse av skogens natur- och kulturvärden.</p> <h5><em>Undervisningen i ämnet skogsproduktion ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om trädens byggnad och utvecklingsfaser samt om marklära och biologiska samband i olika skogsbiotoper.</li> <li>Kunskaper om svenska trädslag, deras egenskaper, ståndorter och användningsområden samt om skador som kan uppstå på växande träd och virke.</li> <li>Förmåga att bedöma skogsbestånd samt att göra ekonomiska beräkningar för åtgärder inom skogsproduktion.</li> <li>Förmåga att planera och genomföra arbetsuppgifter inom skogsskötsel på ett hållbart och säkert sätt.</li> <li>Förmåga att utföra klassning, aptering och mätning av virke.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom skogsbruket samt skogens certifieringssystem.</li> </ul><h3>Nivåer i ämnet skogsproduktion</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet motor- och röjmotorsåg.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SKOS1000X</h3>",
+      "code": "SKOS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsproduktion på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Skogens biologi</em></p> <ul> <li>Identifiering, beskrivning och namngivning av svenska trädslag med vetenskapliga och fackspråkliga termer.</li> <li>Trädets utvecklingsstadier samt de yttre och inre faktorer som styr och påverkar utvecklingen.</li> <li>Vanliga jordmånstyper och jordarter i skogliga biotoper.</li> <li>Vanliga bergarter och mineraler i berggrunden.</li> <li>Fotosyntes, andning och energiomsättning hos växter.</li> <li>Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.</li> <li>Olika trädslags egenskaper, ståndorter, utbredning och användningsområden.</li> <li>Olika typer av skogsråvara.</li> <li>Skador på växande skog och dess orsaker, till exempel vind, snöbrott, frost, torka och viltangrepp.</li> <li>Vanliga skadegörare på växande träd och virke.</li> </ul> <p><em>Skogsförvaltning och hållbar produktion</em></p> <ul> <li>Metoder för skogsuppskattning samt användning av skogsuppskattningsinstrument och gallringsmallar.</li> <li>Ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder.</li> <li>Grundläggande metoder för tolkning av skogsbruksplaner.</li> <li>Natur- och kulturmiljövård i samband med skötselåtgärder.</li> <li>Lagar och andra bestämmelser som gäller skogsproduktion, till exempel skogsvårdslagen.</li> <li>Certifieringssystem inom skogsbruk.</li> </ul> <p><em>Arbetsuppgifter inom skogsskötsel</em></p> <ul> <li>Gallring enligt instruktion och grundläggande metoder för uppföljning av gallring.</li> <li>Säker hantering och användning av teknisk utrustning.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel, däribland kontroll av skyddsutrustning och brandförebyggande åtgärder.</li> <li>Planering för resurseffektivitet och miljöhänsyn.</li> </ul> <p><em>Virkeslära och virkesmätning</em></p> <ul> <li>Skogliga mått och omräkningstal.</li> <li>Aptering enligt instruktioner.</li> <li>Klassning av timmer.</li> <li>Identifiering av virkesskador samt bedömning av skadornas inverkan på slutprodukten.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOS2000X</h3>",
+      "code": "SKOS2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsproduktion på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Skogens biologi</em></p> <ul> <li>Trädets byggnad innefattande växtcellen och växtvävnader.</li> <li>Makro- och mikronäringsämnen.</li> <li>Klimat och väderlek.</li> <li>Trädens pollinering och spridning.</li> <li>Jordarternas och jordmånens egenskaper samt jordartsbildning och jordmånsbildande processer.</li> <li>Markens blockighet och dess påverkan på framkomlighet och produktion.</li> <li>Växtnäringsämnena och deras kretslopp.</li> <li>Kolets kretslopp.</li> <li>Ståndortskrav för olika trädslag.</li> <li>Ståndortsindex.</li> <li>Träets egenskaper, virkets förädling och användning samt sortiment.</li> <li>Skador på växande skog och virke.</li> <li>Träförstörande mikroorganismer och insekter.</li> </ul> <p><em>Skogsförvaltning och hållbar produktion</em></p> <ul> <li>Beräkning av virkesförråd med statistiska beräkningsmetoder.</li> <li>Bonitering med höjdutvecklingskurvor.</li> <li>Ekonomiska beräkningar för skötselåtgärder inom olika typer av produktion, till exempel volymproduktion och värdeproduktion.</li> <li>Skogens förräntning samt bestämning av tidpunkt för avverkning.</li> <li>Tolkning av skogsbruksplaner och planering av skogsskötselåtgärder.</li> <li>Särskilda krav inom skogsbruket, till exempel hänsyn till naturvärden, kulturvärden och sociala värden.</li> <li>Regler för avverkning samt olika föryngringsmetoder.</li> <li>Lagar och andra bestämmelser som gäller skogsproduktion, till exempel skogsvårdslagen och virkesmätningslagen.</li> <li>Krav på standard för och underhåll av skogsbilvägar.</li> <li>Certifieringssystem för natur- och kulturmiljövård.</li> <li>Skogsbruksstandarder.</li> <li>Gallringsformer och gallringsstyrka.</li> </ul> <p><em>Arbetsuppgifter inom skogsskötsel</em></p> <ul> <li>Skador på bestånd i samband med gallring, till exempel rötskador, väderskador och körskador samt förebyggande åtgärder.</li> <li>Arbete med gallring enligt traktdirektiv samt uppföljning av gallring.</li> <li>Ergonomi, samt riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul> <p><em>Virkeslära och virkesmätning</em></p> <ul> <li>Hantering, kvalitetsbedömning, volymberäkning och prissättning.</li> <li>Virkesmätning vid terminal och skogsarbetsplats.</li> <li>Användning av mätteknisk utrustning.</li> <li>Arbetsorganisation vid en mätstation.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: SKOS3000X</h3>",
+      "code": "SKOS3000X",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet skogsproduktion på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Skogens biologi</em></p> <ul> <li>Trädens egenskaper och ärftlighet.</li> <li>Grundämnen och kemiska föreningar i växter.</li> <li>Trädens vatten- och växtnäringsupptagning samt växtnäringsämnenas funktion.</li> <li>Hur skogsgödsling kan påverka tillväxten.</li> <li>Markens näringsvärde och kemiska egenskaper och dess betydelse för boniteten.</li> <li>Försurning i mark och vatten samt jordförbättrande åtgärder.</li> <li>Mikroorganismer, svampar, bakterier och övriga organismer av betydelse för markens näringsomsättning och kväveförsörjning.</li> <li>Förädling av trädslag för olika syften samt ekologiska och etiska aspekter.</li> <li>Träets tekniska egenskaper och kvalitetsklasser för olika typer av sortiment.</li> <li>Skador på växande skog och virke samt förebyggande åtgärder.</li> </ul> <p><em>Skogsförvaltning och hållbar produktion</em></p> <ul> <li>Yrkesmässiga beräkningar och kalkyler för hållbar skogsproduktion.</li> <li>Användning av digital teknik för bedömning av skogsbestånd.</li> <li>Virkesförsäljning och kontraktering samt uppföljning och virkesredovisning.</li> <li>Hur olika avverkningsmetoder används för olika syften.</li> <li>Lagar och andra bestämmelser som gäller skogsproduktion.</li> <li>Miljöbalkens bestämmelser om egenkontroll.</li> <li>Internationella certifieringssystem för träråvara.</li> </ul> <p><em>Arbetsuppgifter inom skogsskötsel</em></p> <ul> <li>Yrkesmässigt arbete med planering och genomförande av beståndsvård, föryngringsplanering, skogsgödsling och uttag av energiråvara.</li> <li>Åtgärder för bevarande av natur- och kulturmiljövärden i samband med aktuella arbeten.</li> <li>Ergonomi, samt riskbedömning och förebyggande säkerhetsåtgärder i samband med aktuella arbetsuppgifter.</li> <li>Resurseffektivitet och miljöhänsyn.</li> </ul> <p><em>Virkeslära och virkesmätning</em></p> <ul> <li>Statistiska beräkningsmetoder som används i samband med virkesmätning.</li> <li>Användning och skötsel av teknisk utrustning och andra hjälpmedel för mätning och redovisning.</li> <li>Virkesmätningsföreningens uppgift och organisation samt föreningens förhållande till virkesmarknadens parter.</li> <li>Ekonomisk aptering och prislistans uppbyggnad.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för trädens byggnad, utveckling och tillväxt. Eleven visar också <strong>godtagbara</strong> kunskaper om markens biologi och kretslopp.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika trädslag och deras ståndorter. Eleven redogör också på ett <strong>enkelt</strong> sätt för olika typer av skogsråvara samt deras förädling. Eleven beskriver dessutom <strong>översiktligt</strong> olika skador och deras effekter på växande träd och virke.</p> <p>Eleven bedömer med <strong>viss säkerhet</strong> virkesförråd och produktionsförmåga för olika typer av bestånd. Dessutom gör eleven <strong>enkla</strong> ekonomiska beräkningar för olika skötselåtgärder.</p> <p>Eleven planerar och genomför arbetsuppgifter inom skogsskötsel. I planeringen gör eleven <strong>enkla</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras. Resultatet av arbetet är <strong>godtagbart</strong>. Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar skyddsföreskrifter inom området.</p> <p>Eleven utför med <strong>viss säkerhet</strong> timmerklassning och beräknar virkesvolymer.</p> <p>Eleven arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller beståndsvård och virkeshantering.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för trädens byggnad, utveckling och tillväxt. Eleven visar också <strong>goda</strong> kunskaper om markens biologi och kretslopp.</p> <p>Eleven redogör <strong>utförligt</strong> för olika trädslag och deras ståndorter. Eleven redogör också på ett <strong>utvecklat</strong> sätt för olika typer av skogsråvara samt deras förädling. Eleven beskriver dessutom <strong>utförligt</strong> olika skador och deras effekter på växande träd och virke.</p> <p>Eleven bedömer med <strong>säkerhet</strong> virkesförråd och produktionsförmåga för olika typer av bestånd. Dessutom gör eleven <strong>välgrundade</strong> ekonomiska beräkningar för olika skötselåtgärder.</p> <p>Eleven planerar och genomför arbetsuppgifter inom skogsskötsel. I planeringen gör eleven <strong>välgrundade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras. Resultatet av arbetet är <strong>gott</strong>. Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar skyddsföreskrifter inom området.</p> <p>Eleven utför med <strong>säkerhet</strong> timmerklassning och beräknar virkesvolymer.</p> <p>Eleven arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller beståndsvård och virkeshantering.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för trädens byggnad, utveckling och tillväxt. Eleven visar också <strong>mycket goda</strong> kunskaper om markens biologi och kretslopp.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika trädslag och deras ståndorter. Eleven redogör också på ett <strong>välutvecklat</strong> sätt för olika typer av skogsråvara samt deras förädling. Eleven beskriver dessutom <strong>utförligt och nyanserat</strong> olika skador och deras effekter på växande träd och virke.</p> <p>Eleven bedömer med <strong>god säkerhet</strong> virkesförråd och produktionsförmåga för olika typer av bestånd. Dessutom gör eleven <strong>välgrundade och nyanserade</strong> ekonomiska beräkningar för olika skötselåtgärder.</p> <p>Eleven planerar och genomför arbetsuppgifter inom skogsskötsel. I planeringen gör eleven <strong>välgrundade och nyanserade</strong> bedömningar av när och hur olika arbetsuppgifter ska genomföras. Resultatet av arbetet är <strong>mycket gott</strong>. Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar skyddsföreskrifter inom området.</p> <p>Eleven utför med <strong>god säkerhet</strong> timmerklassning och beräknar virkesvolymer.</p> <p>Eleven arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som gäller beståndsvård och virkeshantering.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.080Z"
+}

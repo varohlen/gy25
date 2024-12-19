@@ -1,0 +1,64 @@
+{
+  "code": "CYKE",
+  "name": "Cykelteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:191",
+  "nameHeading": "<h2>Cykelteknik</h2>",
+  "description": "<p>Ämnet cykelteknik behandlar olika typer av cyklar, elcyklar och elsparkcyklar och deras tilläggsutrustningar samt service, underhåll och reparationer av dessa. Ämnet behandlar även cykelbranschens olika verksamheter och arbetsområden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet cykelteknik ska syfta till att eleverna utvecklar kunskaper om cykelbranschens olika verksamheter samt om cyklars betydelse för människors vardagsliv och som hållbara transportmedel. Undervisningen ska bidra till att utveckla elevernas kunskaper om olika typer av cyklar, elcyklar och elsparkcyklar, deras konstruktion och olika komponenter samt tilläggsutrustningar och olika användningsområden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om specialverktyg, teknisk information och övrig utrustning som används i arbetet. Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra service, underhåll och reparationer av olika typer av cyklar, elcyklar och elsparkcyklar med hjälp av specialverktyg, teknisk information och övrig utrustning.</p> <p>Undervisningen ska även bidra till att eleverna utvecklar förmåga att arbeta på ett säkert och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om arbetssätt inom service, underhåll och reparationer av cyklar som främjar ekonomisk och miljömässig hållbarhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kan komma att möta i arbetslivet. Dessa uppgifter ska ge eleverna möjlighet att, såväl självständigt som tillsammans med andra, arbeta med problemlösning. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <h5><em>Undervisningen i ämnet cykelteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om cykelbranschens olika verksamheter, arbetsområden och arbetsuppgifter.</li> <li>Kunskaper om olika typer av cyklar, elcyklar och elsparkcyklar, deras konstruktion, funktion och olika komponenter samt tilläggsutrustningar.</li> <li>Kunskaper om specialverktyg, diagnosutrustning, teknisk information och digitala informationssystem.</li> <li>Förmåga att genomföra service, underhåll och reparationer av cyklar, elcyklar, elsparkcyklar och deras tilläggsutrustningar.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt i enlighet med lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.</li> </ul><h3>Nivåer i ämnet cykelteknik</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: CYKE1000X</h3>",
+      "code": "CYKE1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet cykelteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Cykelbranschens olika verksamheter samt olika typer av cyklars betydelse för människors vardagsliv och som hållbara transportmedel.</li> <li>Vanligt förekommande arbetsområden och arbetsuppgifter, företagspolicyer och affärsidéer samt vikten av ett gott kundbemötande.</li> <li>Regelverk och avtal för garantiärenden och reklamationer samt metoder för hantering av dessa ärenden gentemot kunder och leverantörer.</li> <li>Verksamheternas lagerhållning och beställningsrutiner för reservdelar.</li> <li>Olika typer av cyklar och elcyklar, deras konstruktion, funktion och komponenter samt olika användningsområden, till exempel landsvägscyklar, terrängcyklar och tävlingscyklar.</li> <li>Olika typer av elsparkcyklar, deras konstruktion, funktion och komponenter, däribland system och komponenter för elektrisk drivning.</li> <li>System för styrning av olika funktioner via trådlösa reglage och systemapplikationer.</li> <li>Risker i samband med arbeten på elektrifierade cyklar.</li> <li>Olika typer av fjädrings- och dämpningssystem på cyklar samt metoder för att genomföra service, underhåll och reparationer av dessa, däribland hydrauliska och pneumatiska fjädrings- och dämpningssystem.</li> <li>Olika typer av tilläggsutrustningar, till exempel cykeldatorer och gps-utrustning.</li> <li>Olika däck och hjul, deras konstruktion, funktion och användningsområden samt deras klassificering och dimensionering.</li> <li>Metoder för att välja och byta olika typer av däck utifrån fälgtyp och användningsområde.</li> <li>Batteriladdare och olika typer av batterier för elcyklar och elsparkcyklar.</li> <li>Mekaniska vevpartier, bakväxlar, drevkassetter och reglage samt metoder för service, underhåll, justering och reparationer av dessa.</li> <li>Mekaniska, hydrauliska och ABS-styrda bromssystem samt metoder för service, underhåll, justering och reparationer av dessa.</li> <li>Metoder för injustering av elektriska drivsystem på elcyklar och elsparkcyklar.</li> <li>Specialverktyg, diagnosutrustning, teknisk information och digitala informationssystem.</li> <li>Metoder för användning av tillverkarens anvisningar och övrig teknisk information på svenska och engelska i samband med service, underhåll och reparationer.</li> <li>Metoder för användning av diagnosinstrument, verktyg och utrustning i samband med service, underhåll och reparationer enligt tillverkarens anvisningar, däribland felsökning och reparationer av elektriska drivenheter på vev- och hjulmotorer.</li> <li>Planering och genomförande av service och underhåll samt felsökning och reparationer av cyklar, elcyklar och elsparkcyklar, deras olika komponenter, system och tilläggsutrustningar.</li> <li>Konsekvensbedömning av eftersatt underhåll av cyklar, elcyklar och elsparkcyklar utifrån deras olika användningsområden, däribland konsekvensbedömningar utifrån trafiksäkerhet, ekonomi och driftstörningar.</li> <li>Användning av diagnosinstrument, specialverktyg och utrustning i samband med service, underhåll och reparationer av cyklar, elcyklar och elsparkcyklar.</li> <li>Säkert, miljö- och kvalitetsmässigt arbete såväl självständigt som tillsammans med andra i enlighet med rutiner, lagar och andra bestämmelser som gäller för verksamheten.</li> <li>Användning av tekniska begrepp och uttryck på svenska och engelska samt yrkesmässig kommunikation med medarbetare och kunder.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om cykelbranschens olika verksamheter, arbetsområden och arbetsuppgifter.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika typer av cyklar, elcyklar och elsparkcyklar, deras konstruktion, funktion och olika komponenter samt tilläggsutrustningar och användningsområden.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om specialverktyg, diagnosutrustning, teknisk information och digitala informationssystem samt om hur dessa används i samband med service, underhåll och reparationer.</p> <p>Eleven genomför med <strong>viss säkerhet</strong> service, underhåll, felsökning och reparationer av cyklar, elcyklar och elsparkcyklar enligt cykeltillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt cykeltillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>godtagbart</strong>.</p> <p>Eleven kommunicerar med <strong>viss</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om cykelbranschens olika verksamheter, arbetsområden och arbetsuppgifter.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika typer av cyklar, elcyklar och elsparkcyklar, deras konstruktion, funktion och olika komponenter samt tilläggsutrustningar och användningsområden.</p> <p>Eleven visar <strong>goda</strong> kunskaper om specialverktyg, diagnosutrustning, teknisk information och digitala informationssystem samt om hur dessa används i samband med service, underhåll och reparationer.</p> <p>Eleven genomför med <strong>säkerhet</strong> service, underhåll, felsökning och reparationer av cyklar, elcyklar och elsparkcyklar enligt cykeltillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt cykeltillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>Eleven kommunicerar med <strong>god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om cykelbranschens olika verksamheter, arbetsområden och arbetsuppgifter.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika typer av cyklar, elcyklar och elsparkcyklar, deras konstruktion, funktion och olika komponenter samt tilläggsutrustningar och användningsområden.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om specialverktyg, diagnosutrustning, teknisk information och digitala informationssystem samt om hur dessa används i samband med service, underhåll och reparationer.</p> <p>Eleven genomför med <strong>god säkerhet</strong> service, underhåll, felsökning och reparationer av cyklar, elcyklar och elsparkcyklar enligt cykeltillverkarens anvisningar.</p> <p>Eleven arbetar säkert, miljö- och kvalitetsmässigt i enlighet med lagar och andra bestämmelser samt cykeltillverkarens krav. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>mycket gott</strong>.</p> <p>Eleven kommunicerar med <strong>mycket god</strong> användning av fackspråk som är anpassat till målgruppen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.980Z"
+}

@@ -1,0 +1,295 @@
+{
+  "code": "SAM",
+  "name": "Samhällskunskap",
+  "englishName": "Social studies",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2023-04-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:261",
+  "skolfsAndring": "2022:12",
+  "nameHeading": "<h2>Samhällskunskap</h2>",
+  "description": "<p>Ämnet samhällskunskap är till sin karaktär tvärvetenskapligt. Det har sin bas inom statsvetenskap, sociologi och nationalekonomi, men även andra samhällsvetenskapliga och humanistiska discipliner ingår. Med hjälp av begrepp, teorier, modeller och metoder från alla dessa discipliner kan komplexa samhällsfrågor förstås och förklaras. Ämnet har även ett historiskt perspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet samhällskunskap ska syfta till att eleverna breddar, fördjupar och utvecklar kunskaper om människors livsvillkor med utgångspunkt i olika samhällsfrågor. Politiska, sociala och ekonomiska band sammanlänkar i dag människor i olika samhällen över hela världen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om frågor som berör makt, demokrati, jämställdhet och de mänskliga rättigheterna inklusive barns och ungdomars rättigheter i enlighet med konventionen om barnets rättigheter. Eleverna ska ges möjlighet att utveckla förståelse för frågor om arbetsliv, resurser och hållbar utveckling. Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur samhället påverkas av digitalisering.</p> <p>Eleverna ska ges möjlighet att utveckla ett vetenskapligt förhållningssätt till samhällsfrågor och en förståelse av det vetenskapliga arbetet med samhällsfrågor. Dessutom ska undervisningen bidra till att skapa förutsättningar för ett aktivt deltagande i samhällslivet. Ett komplext samhälle med stort informationsflöde och snabb förändringstakt kräver ett kritiskt förhållningssätt och eleverna ska därför ges möjlighet att utveckla ett sådant. Det omfattar förmåga att söka, strukturera och värdera information från olika källor och medier samt förmåga att dra slutsatser utifrån informationen.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med olika metoder för att samla in och bearbeta information, bland annat med hjälp av digitala verktyg. Genom undervisningen ska eleverna även ges möjlighet att uttrycka kunskaper och uppfattningar såväl muntligt som skriftligt samt med hjälp av digitala verktyg.</p> <h4>Undervisningen i ämnet samhällskunskap ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om demokrati och de mänskliga rättigheterna, såväl de individuella som de kollektiva rättigheterna, samhällsfrågor, samhällsförhållanden samt olika samhällens organisation och funktion från lokal till global nivå utifrån olika tolkningar och perspektiv.</li> <li>Kunskaper om historiska förutsättningars betydelse för dagens samhälle samt om hur olika ideologiska, politiska, ekonomiska, sociala och miljömässiga förhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</li> <li>Förmåga att analysera samhällsfrågor och identifiera orsaker och konsekvenser med hjälp av samhällsvetenskapliga begrepp, teorier, modeller och metoder.</li> <li>Förmåga att söka, kritiskt granska och tolka information från olika källor samt värdera källornas relevans och trovärdighet.</li> <li>Förmåga att uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Samhällskunskap 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1b.</li> <li>Samhällskunskap 1a2, 50 poäng, som bygger på kursen samhällskunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1b.</li> <li>Samhällskunskap 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen samhällskunskap 1a1 eller kursen samhällskunskap 1a2.</li> <li>Samhällskunskap 2, 100 poäng, som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.</li> <li>Samhällskunskap 3, 100 poäng, som bygger på kursen samhällskunskap 2.</li> <li>Internationell ekonomi, 100 poäng, som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.</li> <li>Internationella relationer, 100 poäng, som bygger på kursen samhällskunskap 1a2 eller kursen samhällskunskap 1b.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SAMSAM01a1</h3>",
+      "code": "SAMSAM01a1",
+      "nameHeading": "<h2>Samhällskunskap 1a1, 50 poäng</h2>",
+      "name": "Samhällskunskap 1a1",
+      "englishName": "Social studies 1a1",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen samhällskunskap 1a1 omfattar punkterna 1–5 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån olika demokratimodeller och den digitala teknikens möjligheter. Digitalisering och mediers innehåll samt nyhetsvärdering när det gäller frågor om demokrati och politik.</li> <li>De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.</li> <li>Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.</li> <li>Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Digitaliseringens påverkan på arbetsmarknaden.</li> <li>Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.</li> <li>Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.</li> <li>Källkritik. Metoder för att söka, kritiskt granska, värdera och bearbeta information från källor i digital och annan form.</li> <li>Presentation i olika former, till exempel debatter och debattinlägg. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>översiktligt</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven dra <strong>enkla</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifiera <strong>någon</strong> orsak och konsekvens. I analysen diskuterar eleven<strong> översiktligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>enkla</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>översiktligt </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor samt göra <strong>enkla</strong> reflektioner om källornas relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>utförligt</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven samband och drar <strong>välgrundade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven dra <strong>välgrundade</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifierar <strong>några</strong> orsaker och konsekvenser. I analysen diskuterar eleven <strong>utförligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>välgrundade</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>utförligt </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor samt gör <strong>välgrundade</strong> reflektioner om källornas relevans och trovärdighet <strong>utifrån syftet</strong>. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>utförligt och nyanserat</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven <strong>komplexa</strong> samband och drar <strong>välgrundade och nyanserade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven dra <strong>välgrundade och nyanserade</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifierar <strong>flera </strong>orsaker och konsekvenser. I analysen diskuterar eleven <strong>utförligt och nyanserat</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter och värderar med <strong>nyanserade</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>utförligt och nyanserat </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor samt göra <strong>välgrundade och nyanserade</strong> reflektioner om källornas relevans och trovärdighet <strong>utifrån syftet</strong>. Eleven kan, <strong>med säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMSAM01a2</h3>",
+      "code": "SAMSAM01a2",
+      "nameHeading": "<h2>Samhällskunskap 1a2, 50 poäng</h2>",
+      "name": "Samhällskunskap 1a2",
+      "englishName": "Social studies 1a2",
+      "points": "50",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen samhällskunskap 1a2 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkt 3.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Politiska ideologier och deras koppling till samhällsbyggande och välfärdsteorier.</li> <li>Samhällsekonomi, till exempel ekonomiska strukturer och flöden i Sverige och internationellt. Försörjning, tillväxt och företagande, resursanvändning och resursfördelning utifrån olika förutsättningar.</li> <li>Mediers och informationsteknikens roll i samhället. Deras möjligheter att påverka människor och samhällsutvecklingen samt de möjligheter de ger människor att påverka.</li> <li>Samhällsvetenskapliga begrepp, teorier, modeller och metoder i samband med undersökningar av samhällsfrågor och samhällsförhållanden. Exempel på metoder för att samla in information är intervju, enkät och observation. Exempel på metoder för att bearbeta information är statistiska metoder, samhällsvetenskaplig textanalys, argumentationsanalys och källkritik.</li> <li>Presentation i olika former, till exempel debatter, debattinlägg och rapporter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. I sin analys förklarar eleven <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>översiktligt</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>enkla</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifiera <strong>någon</strong> orsak och konsekvens. I analysen använder eleven <strong>med</strong> <strong>viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder. Eleven diskuterar <strong>översiktligt</strong> orsaker och konsekvenser samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>enkla</strong> argument för sina ståndpunkter och värderar med <strong>enkla </strong>omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>enkla</strong> reflektioner om deras relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. I sin analys förklarar eleven samband och drar <strong>välgrundade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>utförligt</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>välgrundade </strong>slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifiera <strong>några</strong> orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med enkla omdömen</strong>. Eleven diskuterar <strong>utförligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>välgrundade</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>välgrundade</strong> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. I sin analys förklarar eleven <strong>komplexa</strong> samband och drar <strong>välgrundade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>utförligt och nyanserat</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>välgrundade och nyanserade</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifierar <strong>flera</strong> orsaker och konsekvenser. I analysen använder eleven <strong>med säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med nyanserade omdömen</strong>. Eleven diskuterar<strong> nyanserat </strong>orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter och värderar med<strong> nyanserade</strong> omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>välgrundade och nyanserade</strong> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMSAM01b</h3>",
+      "code": "SAMSAM01b",
+      "nameHeading": "<h2>Samhällskunskap 1b, 100 poäng</h2>",
+      "name": "Samhällskunskap 1b",
+      "englishName": "Social studies 1b",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen samhällskunskap 1b omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Demokrati och politiska system på lokal och nationell nivå samt inom EU. Internationella och nordiska samarbeten. Medborgarnas möjligheter att påverka politiska beslut på de olika nivåerna. Maktfördelning och påverkansmöjligheter i olika system och på olika nivåer utifrån grundläggande demokratimodeller. Möjligheter och utmaningar med digitaliseringen när de gäller frågor om demokrati och politik. Politiska ideologier och deras koppling till samhällsbyggande och välfärdsteorier.</li> <li>De mänskliga rättigheterna; vilka de är, hur de förhåller sig till stat och individ och hur man kan utkräva sina individuella och kollektiva mänskliga rättigheter.</li> <li>Folkrätten i väpnade konflikter. Den internationella humanitära rätten och skyddet för civila i väpnade konflikter.</li> <li>Arbetsmarknad, arbetsrätt och arbetsmiljö. Arbetsmarknadens parter, deras olika roller och betydelse för samhällsutvecklingen. Digitaliseringens påverkan på arbetsmarknaden.</li> <li>Gruppers och individers identitet, relationer och sociala livsvillkor med utgångspunkt i att människor grupperas utifrån kategorier som skapar både gemenskap och utanförskap.</li> <li>Samhällsekonomi, till exempel ekonomiska strukturer och flöden i Sverige och internationellt. Försörjning, tillväxt och företagande, resursanvändning och resursfördelning utifrån olika förutsättningar.</li> <li>Privatekonomi. Hushållets inkomster, utgifter, tillgångar och skulder. Konsumenträtt samt konsumtion i förhållande till behov och resurser. Hur privatekonomin påverkas av samhällsekonomiska förändringar.</li> <li>Mediers och informationsteknikens roll i samhället. Deras möjligheter att påverka människor och samhällsutvecklingen samt de möjligheter de ger människor att påverka. Mediers innehåll och nyhetsvärdering.</li> <li>Källkritik. Metoder för att söka, kritiskt granska, värdera och bearbeta information från källor i digital och annan form.</li> <li>Samhällsvetenskapliga begrepp, teorier, modeller och metoder i samband med undersökningar av samhällsfrågor och samhällsförhållanden. Exempel på metoder för att samla in information är intervju, enkät och observation. Exempel på metoder för att bearbeta information är statistiska metoder, samhällsvetenskaplig textanalys, argumentationsanalys.</li> <li>Presentation i olika former, till exempel debatter, debattinlägg och rapporter.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>översiktligt</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>översiktligt</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>enkla</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifiera <strong>någon</strong> orsak och konsekvens. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder. Eleven diskuterar <strong>översiktligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>enkla</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>översiktligt </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>enkla</strong> reflektioner om deras relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt</strong> redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>utförligt</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven samband och drar <strong>välgrundade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>utförligt</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>välgrundade</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifiera <strong>några</strong> orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med enkla omdömen</strong>. Eleven diskuterar <strong>utförligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>välgrundade</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>utförligt </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>välgrundade</strong> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat </strong>redogöra för och analysera olika samhällens organisation och samhällsförhållanden samt de bakomliggande idéerna. Eleven kan också <strong>utförligt och nyanserat</strong> redogöra för de mänskliga rättigheterna. I sin analys förklarar eleven <strong>komplexa</strong> samband och drar <strong>välgrundade</strong> slutsatser om likheter och skillnader mellan olika samhällens organisation. Dessutom kan eleven <strong>utförligt och nyanserat</strong> redogöra för de historiska förutsättningarnas betydelse och dra <strong>välgrundade och nyanserade</strong> slutsatser om hur nutida samhällsförhållanden påverkar och påverkas av individer, grupper och samhällsstrukturer.</p> <p>Eleven kan analysera samhällsfrågor och identifierar <strong>flera</strong> orsaker och konsekvenser. I analysen använder eleven <strong>med säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med nyanserade omdömen</strong>. Eleven diskuterar <strong>utförligt och nyanserat</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>nyanserade</strong> argument för sina ståndpunkter och värderar med <strong>nyanserade</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan <strong>utförligt och nyanserat </strong>redogöra för individens rättigheter och skyldigheter i rollen som konsument, förhållandet mellan hushållets inkomster och utgifter, tillgångar och skulder samt för sambanden mellan den privata ekonomin och samhällsekonomin.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor, redovisa sina källor samt göra <strong>välgrundade och nyanserade</strong> reflektioner om deras relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMSAM02</h3>",
+      "code": "SAMSAM02",
+      "nameHeading": "<h2>Samhällskunskap 2, 100 poäng</h2>",
+      "name": "Samhällskunskap 2",
+      "englishName": "Social studies 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen samhällskunskap 2 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 3. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Nationalekonomiska teoriers framväxt och genomslagskraft utifrån historiska villkor och motsättningar, till exempel merkantilism, ekonomisk liberalism, marxism, keynesianism och monetarism. Frågor om tillväxt, makt, inflytande, ett hållbart samhälle, digitalisering, miljö och resursfördelning i relation till de ekonomiska teorierna.</li> <li>Det nutida samhällets politiska utveckling utifrån historiska ideologiska villkor, till exempel mänskliga rättigheter, nationalism, kolonialism och jämställdhet, i relation till maktfördelning och ekonomiska villkor. Frågor om aktörens handlingsfrihet kontra strukturella villkor.</li> <li>Tematisk fördjupning i samhällsfrågor.</li> <li>Tillämpning av samhällsvetenskapliga begrepp, teorier, modeller och metoder i arbetet med komplexa samhällsfrågor.</li> <li>Källkritisk granskning, tolkning och värdering av information från olika källor och medier i digital och annan form i arbetet med komplexa samhällsfrågor. Källhänvisning enligt vanliga system.</li> <li>Muntlig och skriftlig presentation i olika former och med olika tekniker som är vanliga inom området, till exempel debatter, debattinlägg, rapporter och essäer. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt</strong> redogöra för några centrala teorier och <strong>översiktligt </strong>diskutera deras styrkor och svagheter. Dessutom kan eleven <strong>översiktligt </strong>redogöra för hur teorierna påverkar nutidens ekonomiska, politiska och sociala förhållanden samt hur dessa förhållanden kan förstås utifrån teorierna.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder. Eleven diskuterar <strong>översiktligt </strong>orsakerna samt politiska, ekonomiska och sociala konsekvenser av olika lösningar på samhällsfrågor. Eleven kan ge <strong>enkla</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>enkla </strong>reflektioner om källornas relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt</strong> redogöra för några centrala teorier och <strong>utförligt</strong> diskutera deras styrkor och svagheter. Dessutom kan eleven <strong>utförligt</strong> redogöra för hur teorierna påverkar nutidens ekonomiska, politiska och sociala förhållanden samt hur dessa förhållanden kan förstås utifrån teorierna.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med enkla omdömen</strong>. Eleven diskuterar <strong>utförligt </strong>orsakerna samt politiska, ekonomiska och sociala konsekvenser av olika lösningar på samhällsfrågor. Eleven kan ge <strong>välgrundade</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat</strong> redogöra för några centrala teorier och <strong>utförligt och nyanserat</strong> diskutera deras styrkor och svagheter. Dessutom kan eleven <strong>utförligt och nyanserat</strong> redogöra för hur teorierna påverkar nutidens ekonomiska, politiska och sociala förhållanden samt hur dessa förhållanden kan förstås utifrån teorierna.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <strong>med säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder <strong>samt värderar dem med nyanserade omdömen</strong>. Eleven diskuterar <strong>utförligt och nyanserat </strong>orsakerna samt politiska, ekonomiska och sociala konsekvenser av olika lösningar på samhällsfrågor. Eleven kan ge <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter och värderar med <strong>nyanserade</strong> omdömen andras ståndpunkter.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade och</strong> <strong>nyanserade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet </strong>och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMSAM03</h3>",
+      "code": "SAMSAM03",
+      "nameHeading": "<h2>Samhällskunskap 3, 100 poäng</h2>",
+      "name": "Samhällskunskap 3",
+      "englishName": "Social studies 3",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen samhällskunskap 3 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Globalisering och dess betydelse utifrån ett demokratiskt, ekonomiskt och politiskt perspektiv samt för individer, grupper och nationer. Analys av utmaningar som individen, nationen och jorden står inför i en globaliserad värld.</li> <li>Introduktion av vetenskapsteori.</li> <li>Hur vetenskapliga begrepp används i samhällsdebatten och påverkar individens syn på sig själv, på andra och på det omgivande samhället.</li> <li>Tillämpning av samhällsvetenskapliga begrepp, teorier, modeller och metoder i arbetet med komplexa samhällsfrågor.</li> <li>Källkritisk granskning, tolkning och värdering av information från olika källor och medier i digital och annan form i arbetet med komplexa samhällsfrågor. Källhänvisning enligt vanliga system.</li> <li>Muntlig och skriftlig presentation i utredande och andra former och med olika tekniker som är vanliga inom området, till exempel debatter, debattinlägg, rapporter och essäer. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt </strong>redogöra för centrala teorier utifrån olika perspektiv. Dessutom kan eleven <strong>översiktligt</strong> redogöra för hur olika faktorer och förhållanden skapar olika förutsättningar för individer, grupper och nationer.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifierar orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder samt diskuterar <strong>översiktligt </strong>deras styrkor och svagheter med hänvisning till såväl empiriska källor som någon vetenskapsteoretisk källa. Eleven diskuterar <strong>översiktligt </strong>orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven kan ge <strong>enkla</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan ge <strong>något</strong> exempel på hur vetenskapliga begrepp används i samhällsdebatten och <strong>översiktligt</strong> beskriva hur detta påverkar synen på samhällsfrågor.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>enkla </strong>reflektioner om källornas relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt</strong> redogöra för centrala teorier utifrån olika perspektiv. Dessutom kan eleven <strong>utförligt</strong> redogöra för hur olika faktorer och förhållanden skapar olika förutsättningar för individer, grupper och nationer.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <strong>med viss säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder samt diskuterar <strong>utförligt</strong> deras styrkor och svagheter med hänvisning till såväl empiriska källor som någon vetenskapsteoretisk källa. Eleven diskuterar <strong>utförligt</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven ger <strong>välgrundade</strong> argument för sina ståndpunkter och värderar med <strong>enkla</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan ge <strong>några</strong> exempel på hur vetenskapliga begrepp används i samhällsdebatten och <strong>utförligt</strong> beskriva hur detta påverkar synen på samhällsfrågor.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade</strong> reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat</strong> redogöra för centrala teorier utifrån olika perspektiv. Dessutom kan eleven <strong>utförligt och nyanserat</strong> redogöra för hur olika faktorer och förhållanden skapar olika förutsättningar för individer, grupper och nationer.</p> <p>Eleven kan analysera komplexa samhällsfrågor och identifiera orsaker och konsekvenser. I analysen använder eleven <strong>med säkerhet</strong> samhällsvetenskapliga begrepp, teorier, modeller och metoder samt diskuterar <strong>utförligt och nyanserat</strong> deras styrkor och svagheter med hänvisning till såväl empiriska källor som någon vetenskapsteoretisk källa. Eleven diskuterar <strong>utförligt och nyanserat</strong> orsakerna och konsekvenserna samt möjliga lösningar på samhällsfrågorna. Eleven ger <strong>välgrundade och nyanserade</strong> argument för sina ståndpunkter och värderar med <strong>nyanserade</strong> omdömen andras ståndpunkter.</p> <p>Eleven kan ge <strong>några</strong> exempel på hur vetenskapliga begrepp används i samhällsdebatten och <strong>utförligt och nyanserat</strong> beskriva hur detta påverkar synen på samhällsfrågor.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade och nyanserade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet </strong>och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMINE0</h3>",
+      "code": "SAMINE0",
+      "nameHeading": "<h2>Internationell ekonomi, 100 poäng</h2>",
+      "name": "Internationell ekonomi",
+      "englishName": "International economics",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen internationell ekonomi omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Internationella handelsrelationer och ekonomisk integration samt deras aktörer. Den internationella ekonomins och handelns utveckling med hjälp av ekonomiska teorier, utifrån både ett historiskt och ett nutida perspektiv. Den internationella ekonomins och handelns effekter för länders välfärd och för miljön.</li> <li>Kulturens betydelse för affärskontakter mellan företag i olika länder.</li> <li>Drivkrafter bakom och effekter av olika handels- och valutapolitiska ingrepp i internationella handelsrelationer. Finansiella marknader i den internationella ekonomin.</li> <li>Global resursfördelning. Relationen mellan produktionskostnader i olika delar av världen och företagens lokalisering och internationella handel. Förklaringar till uppkomsten av transnationella företag.</li> <li>Den ekonomiska integrationsprocessen inom EU och den fortsatta utvecklingen mot gemensamma marknader.</li> <li>Samhällsvetenskapliga begrepp, teorier, modeller och metoder.</li> <li>Källkritisk granskning, tolkning och värdering av information från olika källor och medier i digital och annan form. Källhänvisning enligt vanliga system.</li> <li>Muntlig och skriftlig presentation i olika former som är vanliga inom området, till exempel debatter, debattinlägg, rapporter och essäer. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt </strong>redogöra för handelskontakter och handelsrelationer utifrån olika perspektiv. Dessutom kan eleven <strong>översiktligt </strong>redogöra för hur olika förutsättningar och förhållanden påverkar och påverkas av olika aktörer. Eleven diskuterar också <strong>översiktligt </strong>några effekter av reglerande ingrepp i den internationella ekonomin.</p> <p>Eleven kan analysera orsaker till och konsekvenser av den internationella ekonomins och handelns utseende och utveckling. I analysen använder eleven <strong>med viss säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>översiktligt </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>översiktligt </strong>den internationella ekonomins betydelse för miljö och resursfördelning, kan ge <strong>enkla </strong>argument för olika ståndpunkter och värdera dem med <strong>enkla </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>enkla </strong>reflektioner om källornas relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt </strong>redogöra för handelskontakter och handelsrelationer utifrån olika perspektiv. Dessutom kan eleven <strong>utförligt </strong>redogöra för hur olika förutsättningar och förhållanden påverkar och påverkas av olika aktörer. Eleven diskuterar också <strong>utförligt </strong>några effekter av reglerande ingrepp i den internationella ekonomin.</p> <p>Eleven kan analysera orsaker till och konsekvenser av den internationella ekonomins och handelns utseende och utveckling. I analysen använder eleven <strong>med viss säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>utförligt </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>utförligt </strong>den internationella ekonomins betydelse för miljö och resursfördelning, kan ge <strong>välgrundade </strong>argument för olika ståndpunkter och värderar dem med <strong>enkla </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet</strong> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade </strong>reflektioner om källornas relevans och trovärdighet <strong>utifrån syftet</strong>. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat </strong>redogöra för handelskontakter och handelsrelationer utifrån olika perspektiv. Dessutom kan eleven <strong>utförligt och nyanserat </strong>redogöra för hur olika förutsättningar och förhållanden påverkar och påverkas av olika aktörer. Eleven diskuterar också <strong>utförligt och nyanserat </strong>några effekter av reglerande ingrepp i den internationella ekonomin.</p> <p>Eleven kan analysera orsaker till och konsekvenser av den internationella ekonomins och handelns utseende och utveckling. I analysen använder eleven <strong>med säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>utförligt och nyanserat </strong>den internationella ekonomins betydelse för miljö och resursfördelning, kan ge <strong>välgrundade och nyanserade </strong>argument för olika ståndpunkter och värdera dem med <strong>nyanserade </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet</strong> söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade och nyanserade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet </strong>och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SAMINR0</h3>",
+      "code": "SAMINR0",
+      "nameHeading": "<h2>Internationella relationer, 100 poäng</h2>",
+      "name": "Internationella relationer",
+      "englishName": "International relations",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 7,
+      "description": "<p>Kursen internationella relationer omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll: </h4><ul> <li>Olika aktörer, deras mål och medel samt hur dessa samspelar inom utrikes- och säkerhetspolitik. Den moderna nationalstatens utmaningar som en internationell aktör.</li> <li>Olika teoretiska perspektiv på internationella relationer.</li> <li>Världskrigens och efterkrigstidens betydelse för etableringen av internationella institutioner. Olika former av organiserat samarbete mellan länder och sambandet mellan detta samarbete och den politiska och ekonomiska utvecklingen.</li> <li>Orsaker till och följder av samarbeten och konflikter.</li> <li>Internationell rätt. Möjligheter och svårigheter med att säkerställa såväl staters som individers rättigheter och säkerhet. Grundläggande internationella konventioner om mänskliga fri- och rättigheter och olika aktörers möjlighet till tillämpning.</li> <li>Globaliseringens betydelse för individer, grupper och samhällen samt möjligheter och utmaningar för miljö och resursfördelning.</li> <li>Samhällsvetenskapliga begrepp, teorier, modeller och metoder.</li> <li>Källkritisk granskning, tolkning och värdering av informationen från olika källor och medier i digital och annan form. Källhänvisning enligt vanliga system.</li> <li>Muntlig och skriftlig presentation i olika former som är vanliga inom området, till exempel debatter, debattinlägg, vetenskapliga rapporter och essäer. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven kan <strong>översiktligt </strong>redogöra för hur olika nationella och internationella förutsättningar och förhållanden påverkar och påverkas av internationella aktörer. Dessutom diskuterar eleven <strong>översiktligt </strong>några teoretiska perspektiv på internationella relationer.</p> <p>Eleven kan analysera orsaker till och konsekvenser av samarbeten och konflikter. I analysen använder eleven <strong>med viss säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>översiktligt </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>översiktligt </strong>lösningar på internationella konflikter och problem, kan ge <strong>enkla </strong>argument för olika ståndpunkter om globaliseringens konsekvenser och betydelsen av internationella samarbeten samt värdera ståndpunkterna med <strong>enkla </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, gör adekvata källhänvisningar samt göra <strong>enkla </strong>reflektioner om källornas relevans och trovärdighet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven kan <strong>utförligt </strong>redogöra för hur olika nationella och internationella förutsättningar och förhållanden påverkar och påverkas av internationella aktörer. Dessutom diskuterar eleven <strong>utförligt </strong>några teoretiska perspektiv på internationella relationer.</p> <p>Eleven kan analysera orsaker till och konsekvenser av samarbeten och konflikter. I analysen använder eleven <strong>med viss säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>utförligt </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>utförligt </strong>lösningar på internationella konflikter och problem, kan ge <strong>välgrundade </strong>argument för olika ståndpunkter om globaliseringens konsekvenser och betydelsen av internationella samarbeten samt värdera ståndpunkterna med <strong>enkla </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med viss säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med viss säkerhet</strong> och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven kan <strong>utförligt och nyanserat </strong>redogöra för hur olika nationella och internationella förutsättningar och förhållanden påverkar och påverkas av internationella aktörer. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>några teoretiska perspektiv på internationella relationer.</p> <p>Eleven kan analysera orsaker till och konsekvenser av samarbeten och konflikter. I analysen använder eleven <strong>med säkerhet </strong>några relevanta begrepp, teorier, modeller och metoder. Dessutom diskuterar eleven <strong>utförligt och nyanserat </strong>deras styrkor och svagheter med hänvisning till olika källor.</p> <p>Eleven diskuterar <strong>utförligt och nyanserat </strong>lösningar på internationella konflikter och problem, kan ge <strong>välgrundade och nyanserade </strong>argument för olika ståndpunkter om globaliseringens konsekvenser och betydelsen av internationella samarbeten samt värderar ståndpunkterna med <strong>nyanserade </strong>omdömen.</p> <p>I arbetet med samhällsfrågor kan eleven <strong>med säkerhet </strong>söka, granska och tolka information från olika källor, göra adekvata källhänvisningar samt göra <strong>välgrundade och nyanserade </strong>reflektioner om källornas relevans och trovärdighet utifrån syftet. Eleven kan, <strong>med säkerhet </strong>och på ett strukturerat sätt, uttrycka sina kunskaper i samhällskunskap i olika presentationsformer <strong>samt formulera sig självständigt i förhållande till källorna</strong>. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.151Z"
+}

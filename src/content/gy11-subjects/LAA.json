@@ -1,0 +1,182 @@
+{
+  "code": "LAA",
+  "name": "Lastbilar och mobila maskiner – service och underhållsteknik",
+  "englishName": "Trucks and mobile machinery – service and maintenance technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-13",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:12",
+  "skolfsAndring": "2022:191",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Lastbilar och mobila maskiner – service och underhållsteknik</h2>",
+  "description": "<p>Ämnet lastbilar och mobila maskiner – service och underhållsteknik behandlar fordonsverkstaden som arbetsplats. Ämnet behandlar även funktion hos samt service och underhåll av lastbilar och mobila maskiner.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet lastbilar och mobila maskiner – service och underhållsteknik ska syfta till att eleverna utvecklar en förståelse för hela fordonsverkstaden som arbetsplats, dess verksamheter, arbetsmiljöer och risker. Eleverna ska även ges möjlighet att utveckla kunskaper om vanligt förekommande arbetsuppgifter samt färdigheter i att använda verktyg och utrustning i en fordonsverkstad inrättad för lastbilar eller mobila maskiner.</p> <p>Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om olika lastbilar och mobila maskiner samt deras användningsområden. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om lastbilars och mobila maskiners huvudkomponenter och deras funktion. Undervisningen ska även leda till att eleverna utveckla förmåga att genomföra service och underhåll.</p> <p>Vidare ska undervisningen leda till att eleverna utvecklar en förmåga att använda manualer, relevanta informationssystem och övrig utrustning. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett kvalitetsmässigt sätt utifrån lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska bidra till att stimulera elevernas intresse för lastbilar och mobila maskiner samt för utrustning och ny teknik. Undervisningen ska leda till att eleverna ges möjlighet att utveckla en yrkesidentitet och yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kommer att möta i yrkeslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h4>Undervisningen i ämnet lastbilar och mobila maskiner – service och underhållsteknik ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om olika arbetsprocesser och arbetsmetoder samt olika arbetsmiljöer och risker i en fordonsverkstad inrättad för lastbilar eller mobila maskiner.</li> <li>Kunskaper om digitala informationssystem, mätutrustning och teknisk information samt verktyg och övrig utrustning i en fordonsverkstad.</li> <li>Kunskaper om olika lastbilar och mobila maskiner samt deras olika huvudkomponenter och system.</li> <li>Förmåga att genomföra service, underhåll samt funktions- och säkerhetskontroll av lastbilar, mobila maskiner och deras tilläggsutrustning.</li> <li>Förmåga att använda verktyg och övrig utrustning.</li> <li>Förmåga att använda manualer, scheman och digitala informationssystem i samband med service och underhåll.</li> <li>Förmåga att arbeta och samarbeta på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt i kommunikationen med kunder anpassa språket efter målgruppen.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Lastbilar och mobila maskiner – verkstad och elteknik, 100 poäng, som bygger på kursen fordonsteknik – introduktion.</li> <li>Lastbilar och mobila maskiner – basteknik, 100 poäng, som bygger på kursen lastbilar och mobila maskiner – verkstad och elteknik.</li> <li>Lastbilar och mobila maskiner – service och underhåll 1, 100 poäng, som bygger på kursen lastbilar och mobila maskiner – basteknik.</li> <li>Lastbilar och mobila maskiner – service och underhåll 2, 100 poäng, som bygger på kursen lastbilar och mobila maskiner – service och underhåll 1</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: LAALAS0</h3>",
+      "code": "LAALAS0",
+      "nameHeading": "<h2>Lastbilar och mobila maskiner – verkstad och elteknik, 100 poäng</h2>",
+      "name": "Lastbilar och mobila maskiner – verkstad och elteknik",
+      "englishName": "Trucks and mobile machinery – repairs and electrical technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen lastbilar och mobila maskiner – verkstad och elteknik omfattar punkterna 1–2 och 5–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Mobil och fast verkstadsutrustning, deras olika användningsområden samt metoder för och genomförande av funktions- och säkerhetskontroll av dessa.</li> <li>Ergonomiska arbetsmetoder och riskbedömningar, till exempel vid olika lyft- och arbetsställningar samt vid användning av fordonslyftar som är inrättade för lastbilar eller mobila maskiner.</li> <li>Brandredskap, nödstopp, utrymningsvägar och brandceller.</li> <li>Metoder som tillämpas för struktur, ordning och effektiv arbetsmiljö på arbetsplatsen.</li> <li>Metoder för och hantering av farliga ämnen på ett säkert och miljövänligt sätt, däribland vätskor, oljor, gaser och tryckkärl.</li> <li>Kostnader för drift och underhåll av fordonsverkstadens lokaler och utrustning samt konsekvenser av driftsstörning och bristande underhåll.</li> <li>Metoder för användning av hand- och specialverktyg, branschanpassade mätinstrument och diagnosutrustningar samt användning, underhåll och kalibrering av dessa.</li> <li>Grundläggande el-, digital- och mätteknik i simulerad miljö samt kommunikationsprinciper, bland annat CAN bus, LIN och MOST.</li> <li>Elscheman, deras uppbyggnad och olika symboler samt vanligt förekommande elektriska komponenter i fordon, bland annat batteri, kablage, kontaktdon, givare, sensorer och styrenheter.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Brandförebyggande åtgärder och åtgärd vid brand.</li> <li>Lagar och andra bestämmelser som reglerar arbetet i en fordonsverkstad.</li> <li>Arbete med problemlösning och laborativa uppgifter såväl självständigt som tillsammans med andra.</li> <li>Tekniska begrepp och uttryck när det gäller utrustning och verktyg samt olika arbetsprocesser inom fordonsverkstaden.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanligt förekommande arbetsprocesser, arbetsmetoder och arbetsmiljöer. Eleven bedömer med säkerhet vilka risker olika arbetsprocesser och arbetsmetoder är förenade med samt handlar så att risker kan undvikas. Eleven redogör <strong>översiktligt</strong> för verktyg och utrustning som finns i en fordonsverkstad inrättad för lastbilar eller mobila maskiner samt vanligt förekommande digitala informationssystem och mätutrustning samt redogör för deras olika användningsområden.</p> <p>Eleven utför, <strong>i samråd</strong> med handledare, i bekanta situationer komponent- och kretsmätningar i samband med funktionskontroller och enklare felsökning av komponenter samt tolkar och utvärderar <strong>med viss säkerhet</strong> utlästa mätdata. Dessutom utför eleven, <strong>i samråd</strong> med handledare, underhåll och kalibrering av vanligt förekommande digital mätutrustning.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman, verktyg och utrustning samt utför vård och underhåll av dessa på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> vanligt förekommande arbetsprocesser, arbetsmetoder och arbetsmiljöer. Eleven bedömer med säkerhet vilka risker olika arbetsprocesser och arbetsmetoder är förenade med samt handlar så att risker kan undvikas. Eleven redogör <strong>utförligt</strong> för verktyg och utrustning som finns i en fordonsverkstad inrättad för lastbilar eller mobila maskiner samt vanligt förekommande digitala informationssystem och mätutrustning samt redogör för deras olika användningsområden.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta situationer komponent- och kretsmätningar i samband med funktionskontroller och enklare felsökning av komponenter samt tolkar och utvärderar <strong>med viss säkerhet</strong> utlästa mätdata. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, underhåll och kalibrering av vanligt förekommande digital mätutrustning.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman, verktyg och utrustning samt utför vård och underhåll av dessa på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanligt förekommande arbetsprocesser, arbetsmetoder och arbetsmiljöer. Eleven bedömer med säkerhet vilka risker olika arbetsprocesser och arbetsmetoder är förenade med samt handlar så att risker kan undvikas. Eleven redogör <strong>utförligt och nyanserat</strong> för verktyg och utrustning som finns i en fordonsverkstad inrättad för lastbilar eller mobila maskiner samt vanligt förekommande digitala informationssystem och mätutrustning samt redogör för deras olika användningsområden.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer komponent- och kretsmätningar i samband med funktionskontroller och enklare felsökning av komponenter samt tolkar och utvärderar <strong>med säkerhet</strong> utlästa mätdata. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, underhåll och kalibrering av vanligt förekommande digital mätutrustning.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman, verktyg och utrustning samt utför vård och underhåll av dessa på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAALAT0</h3>",
+      "code": "LAALAT0",
+      "nameHeading": "<h2>Lastbilar och mobila maskiner – basteknik, 100 poäng</h2>",
+      "name": "Lastbilar och mobila maskiner – basteknik",
+      "englishName": "Trucks and mobile machinery – basic technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen lastbilar och mobila maskiner – basteknik omfattar punkterna 3–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Olika lastbilars och mobila maskiners uppbyggnad och funktion i förhållande till deras användningsområden.</li> <li>Funktionsprinciper för huvudkomponenter och deras styrsystem samt hur dessa huvudkomponenter och styrsystem samverkar med varandra, däribland elektriska, hydrauliska och pneumatiska fordonssystem.</li> <li>Metoder för och genomförande av underhåll samt funktions- och säkerhetskontroll.</li> <li>Metoder för och genomförande av smörjning och vård av lastbilar och mobila maskiner.</li> <li>Konsekvenser av eftersatt underhåll beträffande ekonomi, driftstörningar och trafiksäkerhet.</li> <li>Metoder för och genomförande av felsökning och reparationer av enklare fel i samband med funktions- och säkerhetskontroll.</li> <li>Metoder för användning av verktyg och utrustning samt vård av dessa.</li> <li>Fordonstillverkares anvisningar, scheman och övrig teknisk information på svenska och engelska.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och laborativa uppgifter såväl självständigt som tillsammans med andra.</li> <li>Tekniska begrepp och uttryck när det gäller fordonens huvudkomponenter och styrsystem.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av olika lastbilar och mobila maskiner, deras olika huvudkomponenter och system samt deras olika användningsområden.</p> <p>Eleven utför,<strong> i samråd</strong> med handledare, underhåll samt funktions- och säkerhetskontroll av lastbilar och mobila maskiner, deras huvudkomponenter och tillhörande system. Dessutom utför eleven,<strong> i samråd</strong> med handledare, i bekanta situationer felsökning och reparationer av enklare fel i samband med funktions- och säkerhetskontroll.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag verktyg och utrustning. Eleven använder även <strong>med viss säkerhet</strong> manualer, scheman och digitala hjälpmedel. Dessutom arbetar eleven på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av olika lastbilar och mobila maskiner, deras olika huvudkomponenter och system samt deras olika användningsområden.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, underhåll samt funktions- och säkerhetskontroll av lastbilar och mobila maskiner, deras huvudkomponenter och tillhörande system. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer felsökning och reparationer av enklare fel i samband med funktions- och säkerhetskontroll.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag verktyg och utrustning. Eleven använder även <strong>med viss säkerhet</strong> manualer, scheman och digitala hjälpmedel. Dessutom arbetar eleven på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är<strong> tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av olika lastbilar och mobila maskiner, deras olika huvudkomponenter och system samt deras olika användningsområden.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, underhåll samt funktions- och säkerhetskontroll av lastbilar och mobila maskiner, deras huvudkomponenter och tillhörande system. Dessutom utför eleven,<strong> efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer felsökning och reparationer av enklare fel i samband med funktions- och säkerhetskontroll.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag verktyg och utrustning. Eleven använder även <strong>med säkerhet</strong> manualer, scheman och digitala hjälpmedel. Dessutom arbetar eleven på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>Eleven arbetar såväl självständigt som tillsammans med andra för att nå planerade resultat samt använder i sin kommunikation tekniska begrepp och uttryck. Resultatet av elevens arbete är<strong> gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAALAS01</h3>",
+      "code": "LAALAS01",
+      "nameHeading": "<h2>Lastbilar och mobila maskiner – service och underhåll 1, 100 poäng</h2>",
+      "name": "Lastbilar och mobila maskiner – service och underhåll 1",
+      "englishName": "Trucks and mobile machinery – service and maintenance 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen lastbilar och mobila maskiner – service och underhåll 1 omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Rutiner för tillsyn, service och underhåll.</li> <li>Tillsyn och service samt byte av servicedelar.</li> <li>Vård och underhåll, till exempel tvätt av motor, chassi och karosseri.</li> <li>Oljor och vätskor, deras olika viskositet och kvalitetsbeteckningar samt användningsområden.</li> <li>Startbatteriets funktion och underhåll samt starthjälp av olika fordon.</li> <li>Metoder för användning samt användning av gas- och MAG-svetsutrustning.</li> <li>Användning av verktyg och utrustning i samband med service och underhåll.</li> <li>Användning av diagnosutrustning för kontroll av felkoder i samband med service och underhåll.</li> <li>Service- och tillsynsprotokoll samt arbetsinstruktioner, servicelitteratur, scheman och system för reservdelsbeställning på svenska och engelska.</li> <li>Administrativa verkstadsfunktioner anpassade för fordonsbranschen.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Tekniska begrepp på svenska och engelska.</li> <li>Kundbemötande och språklig kommunikation i samband med praktiska tillsyns-, service- och underhållssituationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanligt förekommande rutiner för tillsyn, service och underhåll av lastbilar och mobila maskiner.</p> <p>Eleven utför, <strong>i samråd</strong> med handledare, service och underhåll av lastbilar och mobila maskiner samt byte av servicedelar. Dessutom utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer felsökning och reparationer av enklare fel i samband med service och underhåll.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag verktyg och utrustning. Eleven använder även <strong>med viss säkerhet</strong> manualer, scheman och digitala hjälpmedel. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> tekniska begrepp och uttryck. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver<strong> utförligt</strong> vanligt förekommande rutiner för tillsyn, service och underhåll av lastbilar och mobila maskiner.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service och underhåll av lastbilar och mobila maskiner samt byte av servicedelar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer felsökning och reparationer av enklare fel i samband med service och underhåll.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag verktyg och utrustning. Eleven använder även <strong>med viss säkerhet</strong> manualer, scheman och digitala hjälpmedel. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> tekniska begrepp och uttryck. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanligt förekommande rutiner för tillsyn, service och underhåll av lastbilar och mobila maskiner.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service och underhåll av lastbilar och mobila maskiner samt byte av servicedelar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer felsökning och reparationer av enklare fel i samband med service och underhåll.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag verktyg och utrustning. Eleven använder även <strong>med säkerhet</strong> manualer, scheman och digitala hjälpmedel. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> tekniska begrepp och uttryck. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: LAALAS02</h3>",
+      "code": "LAALAS02",
+      "nameHeading": "<h2>Lastbilar och mobila maskiner – service och underhåll 2, 100 poäng</h2>",
+      "name": "Lastbilar och mobila maskiner – service och underhåll 2",
+      "englishName": "Trucks and mobile machinery – service and maintenance 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen lastbilar och mobila maskiner – service och underhåll 2 omfattar punkterna 1 och 4–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Service, underhåll och tillsyn utifrån fordonstillverkares anvisningar, bland annat basservice, periodisk service och utökad service.</li> <li>Klimatsystemets komponenter och dess funktion.</li> <li>Metoder för samt genomförande av felsökning, tömning och fyllning av klimatsystem.</li> <li>Användning av diagnosutrustning i samband med service och underhållsåtgärder.</li> <li>Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska i samband med service och underhåll.</li> <li>Administrativa verkstadsfunktioner, bland annat bokning, arbetsorder och prisuppgift till kund.</li> <li>Miljöskydd och arbetsmiljö i samband med arbete på klimatsystem.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Kundbemötande och yrkesmässigt språk i samband med praktiska service- och underhållssituationer.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> vanliga rutiner för olika typer av service-, underhålls- och tillsynsåtgärder utifrån olika fordonstillverkares krav. Eleven beskriver även <strong>översiktligt</strong> olika klimatsystem, deras olika komponenter och dess funktion samt de lagar och regler som reglerar arbeten på klimatsystem.</p> <p>Eleven utför,<strong> i samråd</strong> med handledare, i bekanta situationer olika typer av service-, underhålls- och tillsynsåtgärder samt felsökning och reparationer på olika lastbilar och mobila maskiner. Dessutom utför eleven,<strong> i samråd</strong> med handledare, felsökning, tömning och fyllning av klimatsystem.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag verktyg och övrig utrustning. Dessutom använder eleven diagnosutrustningen samt tolkar och utvärderar utläst mätdata <strong>med viss säkerhet</strong> utifrån fordonstillverkares krav. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem i samband med olika typer av service-, underhålls- och tillsynsåtgärder. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är<strong> tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> vanliga rutiner för olika typer av service-, underhålls- och tillsynsåtgärder utifrån olika fordonstillverkares krav. Eleven beskriver även <strong>utförligt</strong> olika klimatsystem, deras olika komponenter och dess funktion samt de lagar och regler som reglerar arbeten på klimatsystem.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta situationer olika typer av service-, underhålls- och tillsynsåtgärder samt felsökning och reparationer på olika lastbilar och mobila maskiner. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, felsökning, tömning och fyllning av klimatsystem.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag verktyg och övrig utrustning. Dessutom använder eleven diagnosutrustningen samt tolkar och utvärderar utläst mätdata <strong>med viss säkerhet</strong> utifrån fordonstillverkares krav. Eleven använder <strong>med viss säkerhet</strong> svenska och engelska manualer samt digitala informationssystem i samband med olika typer av service-, underhålls- och tillsynsåtgärder. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är<strong> tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga rutiner för olika typer av service-, underhålls- och tillsynsåtgärder utifrån olika fordonstillverkares krav. Eleven beskriver även <strong>utförligt och nyanserat</strong> olika klimatsystem, deras olika komponenter och dess funktion samt de lagar och regler som reglerar arbeten på klimatsystem.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer olika typer av service-, underhålls- och tillsynsåtgärder samt felsökning och reparationer på olika lastbilar och mobila maskiner. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, felsökning, tömning och fyllning av klimatsystem.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag verktyg och övrig utrustning. Dessutom använder eleven diagnosutrustningen samt tolkar och utvärderar utläst mätdata <strong>med säkerhet</strong> utifrån fordonstillverkares krav. Eleven använder <strong>med säkerhet</strong> svenska och engelska manualer samt digitala informationssystem i samband med olika typer av service-, underhålls- och tillsynsåtgärder. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är<strong> gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.064Z"
+}

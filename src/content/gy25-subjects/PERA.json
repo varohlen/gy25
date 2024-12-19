@@ -1,0 +1,64 @@
+{
+  "code": "PERA",
+  "name": "Personaladministration",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:87",
+  "nameHeading": "<h2>Personaladministration</h2>",
+  "description": "<p>HR (human resources) är ett stöd till verksamheten i strategiska frågor om organisation, ledar- och medarbetarskap och kompetensförsörjning. Personaladministration har till uppgift att stödja, förvalta och sköta den administrativa delen inom HR. Ämnet personaladministration behandlar administrativt arbete inom HR på företag, offentlig förvaltning och organisation.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet personaladministration ska syfta till att eleverna utvecklar förmåga att utföra administrativt arbete inom personaladministration. Eleverna ska ges möjlighet att utveckla kunskaper om teknik och metoder som används inom personaladministration. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om arbetsgivarorganisationer och arbetstagarorganisationer. Vidare ska eleverna ges möjlighet att utveckla kunskaper om ledarskapets betydelse på individ- och gruppnivå samt om lagar och andra bestämmelser inom området.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i administrativa rutiner och funktioner vid rekrytering och personalplanering. Undervisningen ska också bidra till att eleverna utvecklar förmåga att arbeta på ett serviceinriktat och yrkesetiskt sätt. Därmed ska elevernas tilltro till den egna förmågan att utföra administrativa arbetsuppgifter stimuleras.</p> <p>Initiativförmåga, självständighet, personligt ansvarstagande, praktiskt arbete och ett problemlösande arbetssätt ska främjas i undervisningen. I undervisningen ska eleverna även ges möjlighet att reflektera över och samtala om personaladministrationens betydelse för verksamheten. Dessutom ska undervisningen lämna utrymme för diskussion om och reflektion över etiska frågor inom ämnesområdet.</p> <h5><em>Undervisningen i ämnet personaladministration ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om organisationer för arbetsgivare och arbetstagare.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Kunskaper om förändringsarbete, ledarskap och konflikthantering.</li> <li>Förmåga att använda teknik och metoder inom personaladministration.</li> <li>Förmåga att utföra administrativt arbete vid personalhantering på ett serviceinriktat och yrkesetiskt sätt.</li> </ul><h3>Nivåer i ämnet personaladministration</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PERA1000X</h3>",
+      "code": "PERA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet personaladministration på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Organisationer för arbetsgivare och arbetstagare.</li> <li>Lagar om arbetsrätt samt etik och sekretess inom personaladministration.</li> <li>Ledarskap och ledarskapets betydelse för en verksamhet.</li> <li>Förändringsarbete i verksamheter och olika teorier om hur det kan bedrivas.</li> <li>Grunderna i några gruppsykologiska teorier.</li> <li>Olika sätt att möta konflikter samt konflikthantering.</li> <li>Programvaror och programhantering, till exempel affärssystem, ordbehandlings- och kalkylprogram.</li> <li>Rekrytering och anställningsförfarande samt introduktion för nyanställda.</li> <li>Administrativt arbete vid kompetens- och personalplanering.</li> <li>Administrativa rutiner för personalvård.</li> <li>Administrativt arbete vid hantering av löner och personalkostnader.</li> <li>Personalhantering på ett serviceinriktat och yrkesetiskt sätt.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om arbetsgivarorganisationer och arbetstagarorganisationer.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om hur förändringsarbete kan bedrivas samt om ledarskap och konflikthantering.</p> <p>Eleven väljer och använder med <strong>viss säkerhet</strong> teknik och metoder i arbetet med personaladministration.</p> <p>Eleven planerar och utför administrativt arbete vid personalplanering, personalvård och personalekonomi på ett serviceinriktat och yrkesetiskt sätt med <strong>godtagbart</strong> resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om arbetsgivarorganisationer och arbetstagarorganisationer.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>goda</strong> kunskaper om hur förändringsarbete kan bedrivas samt om ledarskap och konflikthantering.</p> <p>Eleven väljer och använder med <strong>säkerhet</strong> teknik och metoder i arbetet med personaladministration.</p> <p>Eleven planerar och utför administrativt arbete vid personalplanering, personalvård och personalekonomi på ett serviceinriktat och yrkesetiskt sätt med <strong>gott</strong> resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om arbetsgivarorganisationer och arbetstagarorganisationer.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom området.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om hur förändringsarbete kan bedrivas samt om ledarskap och konflikthantering.</p> <p>Eleven väljer och använder med <strong>god säkerhet</strong> teknik och metoder i arbetet med personaladministration.</p> <p>Eleven planerar och utför administrativt arbete vid personalplanering, personalvård och personalekonomi på ett serviceinriktat och yrkesetiskt sätt med <strong>mycket gott</strong> resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.059Z"
+}

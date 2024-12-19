@@ -1,0 +1,79 @@
+{
+  "code": "INDA",
+  "name": "Industriautomation",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-20",
+  "version": "gy25",
+  "versionInfo": "Första versionen. Justerat mindre skrivfel.",
+  "skolfsGrund": "2024:1",
+  "skolfsAndring": "2024:1",
+  "nameHeading": "<h2>Industriautomation</h2>",
+  "description": "<p>I många branscher är arbetsuppgifter och tillverkningsled automatiserade, bland annat inom industri, fastighetsbransch och infrastruktur. Ämnet industriautomation behandlar tillverkningsindustrins automatiserade funktioner ur ett systemperspektiv samt mötet mellan elektro-, dator-, produktions-, drift- och underhållsteknik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriautomation ska syfta till att eleverna utvecklar förmåga att utföra vanligt förekommande arbetsuppgifter inom industriautomation. Undervisningen ska ge eleverna möjlighet att planera och utföra arbeten för transport eller för bearbetning av material, som en del av en automatiserad tillverkningsprocess. Undervisningen ska leda till att eleverna utvecklar ett ansvarsfullt, hållbart och säkert arbetssätt vad gäller drift och miljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur teoretiska samband inom industriautomation kan beskrivas. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om hur mekanisk struktur, elektronik, elektromekanik, datorteknik samt styr- och reglerteknik kan sammanföras till ett system. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda scheman, ritningar och manualer samt att följa lagar och andra bestämmelser inom området. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera eget arbete. Vidare ska undervisningen bidra till att eleverna utvecklar förmåga att upptäcka och avhjälpa fel i industriell automationsutrustning.</p> <p>I undervisningen ska både praktiska och teoretiska moment ingå för att eleverna ska ges möjlighet att förstå sambandet mellan praktiskt arbete och yrkesteori. I detta ingår kunskaper om säkerhetsbestämmelser som är relevanta för området. Undervisningen ska också ge eleverna möjlighet att arbeta med industriell automationsutrustning i nätverk samt att utveckla kunskaper om elmotordrivsystem. Dessutom ska eleverna ges möjlighet att samverka med andra och utveckla ett fackspråk. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom industriautomation.</p> <h5><em>Undervisningen i ämnet industriautomation ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera, installera och driftsätta automatiserade produktionsceller.</li> <li>Förmåga att programmera och konfigurera industriell automationsutrustning.</li> <li>Förmåga att underhålla, felsöka, åtgärda och optimera automatiserade produktionsanläggningar.</li> <li>Förmåga att tolka och använda ritningar och manualer samt att dokumentera olika arbeten inom industriautomation.</li> <li>Kunskaper om hur mekanisk struktur, elektromekanik, datorteknik samt styr- och reglerteknik kan sammanföras till ett system.</li> <li>Kunskaper om elmotordrivsystem.</li> <li>Kunskaper om risker och säkerhet i automatiserade produktionsceller.</li> <li>Förmåga att beskriva teoretiska samband inom industriautomation med matematiska begrepp och fysikaliska storheter eller egenskaper.</li> </ul><h3>Nivåer i ämnet industriautomation</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet automationsteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDA1000X</h3>",
+      "code": "INDA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriautomation på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Planering, montering, installation och driftsättning av styrskåp för vanligt förekommande delfunktioner i produktionsceller.</li> <li>Programmering och konfigurering av automationsenheter för delfunktion i produktionssystem, till exempel transportör.</li> <li>Mekanisk uppbyggnad, funktion och injusteringsmöjligheter av rörliga delar i produktionsceller. Underhållsplan för driftssäkerhet.</li> <li>Felsökning och åtgärder av mekanisk och elektrisk utrustning.</li> <li>Tolkning och användning av relevant dokumentation och manualer för vanligt förekommande delfunktioner i produktionsceller.</li> <li>Uppbyggnad och funktion av vanligt förekommande industrimaskiner, till exempel industrirobot och CNC (computer numerical control).</li> <li>Uppbyggnad och funktion av vanligt förekommande elmotordrifter inom industriautomation, till exempel transportörer, industrirobotar och CNC-maskiner.</li> <li>Skydds- och nödstoppsfunktioner. Säkerhetssystem och säkerhetsanordningar för maskiner. Säkerhetskategorier CAT. Lagar och andra bestämmelser inom området.</li> <li>Fysikaliska begrepp och matematik kopplat till elmotordrivsystem.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: INDA2000X</h3>",
+      "code": "INDA2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriautomation på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Planering, montering, installation och driftsättning av styrskåp för delfunktioner i produktionsceller.</li> <li>Planering, montering, installation och driftsättning av industriella kommunikationsenheter.</li> <li>Programmering, konfigurering och optimering av en mindre produktionscells automationsenheter. Programmering och konfigurering av övergripande programvara med datainsamling HMI (human-machine interface) och möjlighet till fjärrmanövrering.</li> <li>Felsökning och åtgärder av mekanisk och elektrisk utrustning.</li> <li>Komplettering och optimering av mekanik, programmeringsfunktioner och informationsöverföringar med hänsyn till driftsäkerhet. Planering av underhållsstopp.</li> <li>Dokumentation av genomförda arbeten för delfunktioner i produktionssystem.</li> <li>Handhavande och underhåll av vanligt förekommande industrimaskiner.</li> <li>Handhavande och underhåll av vanligt förekommande elmotordrifter.</li> <li>Riskanalys av delsystem i produktionssystem enligt PL (performance level) med avseende på säkerhetskategori och personsäkerhet. Lagar och andra bestämmelser inom området.</li> <li>Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven installerar och driftsätter automatiserade produktionsceller med <strong>visst</strong> handlag.</p> <p>Eleven programmerar och konfigurerar industriell automationsutrustning med <strong>viss säkerhet</strong>.</p> <p>Eleven underhåller och optimerar automatiserade produktionsanläggningar samt felsöker och åtgärdar <strong>enkla</strong> fel.</p> <p>Eleven använder ritningar och manualer med <strong>viss säkerhet</strong> och gör en <strong>enkel</strong> dokumentation av sitt arbete.</p> <p>Eleven beskriver <strong>översiktligt</strong> hur mekanisk struktur, elektromekanik, datorteknik samt styr- och reglerteknik kan föras samman till ett system.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om elmotordrivsystem.</p> <p>Eleven visar kunskaper om risker och säkerhet i automatiserade produktionsceller.</p> <p>Eleven beskriver på ett <strong>godtagbart</strong> sätt teoretiska samband för system inom industriautomation med matematiska begrepp och fysikaliska storheter eller egenskaper.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven installerar och driftsätter automatiserade produktionsceller med <strong>gott</strong> handlag.</p> <p>Eleven programmerar och konfigurerar industriell automationsutrustning med <strong>säkerhet</strong>.</p> <p>Eleven underhåller och optimerar automatiserade produktionsanläggningar samt felsöker och åtgärdar <strong>relativt komplexa</strong> fel.</p> <p>Eleven använder ritningar och manualer med <strong>säkerhet</strong> och gör en <strong>noggrann</strong> dokumentation av sitt arbete.</p> <p>Eleven beskriver <strong>utförligt</strong> hur mekanisk struktur, elektromekanik, datorteknik samt styr- och reglerteknik kan föras samman till ett system.</p> <p>Eleven visar <strong>goda</strong> kunskaper om elmotordrivsystem.</p> <p>Eleven visar kunskaper om risker och säkerhet i automatiserade produktionsceller.</p> <p>Eleven beskriver på ett <strong>utvecklat</strong> sätt teoretiska samband för system inom industriautomation med matematiska begrepp och fysikaliska storheter eller egenskaper.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven installerar och driftsätter automatiserade produktionsceller med <strong>mycket gott</strong> handlag.</p> <p>Eleven programmerar och konfigurerar industriell automationsutrustning med <strong>god säkerhet</strong>.</p> <p>Eleven underhåller och optimerar automatiserade produktionsanläggningar samt felsöker och åtgärdar <strong>komplexa</strong> fel.</p> <p>Eleven använder ritningar och manualer med <strong>god säkerhet</strong> och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur mekanisk struktur, elektromekanik, datorteknik samt styr- och reglerteknik kan föras samman till ett system.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om elmotordrivsystem.</p> <p>Eleven visar kunskaper om risker och säkerhet i automatiserade produktionsceller.</p> <p>Eleven beskriver på ett <strong>välutvecklat</strong> sätt teoretiska samband för system inom industriautomation med matematiska begrepp och fysikaliska storheter eller egenskaper.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}

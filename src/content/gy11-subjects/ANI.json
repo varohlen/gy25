@@ -1,0 +1,143 @@
+{
+  "code": "ANI",
+  "name": "Animation",
+  "englishName": "Animation",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-14",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:168",
+  "skolfsAndring": "2022:35",
+  "nameHeading": "<h2>Animation</h2>",
+  "description": "<p>Animation är en uttrycksform för att illustrera rörelse i bild och förekommer både som egen konstform och som verktyg för visualisering eller effekter i till exempel spelfilm, reklamfilm och musikvideor. Ämnet animation behandlar olika tekniker som klassisk animation med papper och penna och olika stopmotion-tekniker. I ämnet används flera uttrycksformer som rörliga bilder, ljud och grafisk form.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p> Undervisningen i ämnet animation ska syfta till att eleverna utvecklar kunskaper om planering, genomförande och publicering av animationer med aktuell teknik. Den ska ge eleverna möjlighet att utveckla färdigheter i flera former av berättande och gestaltning, där tyngdpunkten ska ligga på färg, form och modellering. Undervisningen ska leda till att eleverna utvecklar färdigheter i att arbeta med att utveckla karaktärer. Den ska också ge eleverna möjlighet att utveckla kunskaper om betydelsen av tempo, timing och rörelsemönster samt om betydelsen av relationen mellan karaktären och bakgrundsmiljön.</p><p>I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur val av rätt form och uttryck i relation till målgrupp och sammanhang samverkar. Eleverna ska också ges möjlighet att utveckla den egna kreativiteten och förmågan till analys, manusarbete och produktionsplanering. Vidare ska eleverna ges möjlighet att utveckla färdigheter i att arbeta i team under tidspress, planera och organisera arbetsuppgifter samt lösa problem. Undervisningen ska ge eleverna möjlighet att utveckla ett fackspråk för att kunna kommunicera i produktionsarbetet.</p><p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att bedöma kvaliteten av animationer när det gäller form, innehåll och teknik.</p><p>Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser samt om arbetsmiljö.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta med såväl digitala som traditionella produktionsmetoder. </p><h4>Undervisningen i ämnet animation ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Förmåga att kommunicera filmiskt med animation.</li> <li>Kunskaper om hela produktionsprocessen från idé till publicering.</li> <li>Kunskaper om såväl traditionell som ny teknik och förmåga att hantera den.</li> <li>Förmåga att analysera rörelse, rytm och tempo och omsätta det i animation.</li> <li>Förmåga att forma ett eget bildspråk.</li> <li>Förmåga att använda relevanta begrepp.</li> <li>Förmåga att samverka med andra samt planera, genomföra och publicera animationer.</li> <li>Förmåga att söka kunskap, ge alternativa lösningar och ta ansvar för sitt eget arbete samt att medverka till förbättringar.</li> <li>Kunskaper om animationens historia och användningsområden samt förmåga att bedöma kvaliteter i animationer.</li> <li>Kunskaper om etiska förhållningssätt, lagar och andra bestämmelser om upphovsrätt och arbetsmiljö som gäller för området.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Animation 1, 100 poäng. </li> <li>Animation 2, 100 poäng, som bygger på kursen animation 1.</li> <li>Animation – specialisering, 100 poäng, som bygger på kursen animation 2. Kursen kan läsas flera gånger med olika innehåll.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ANIANI01</h3>",
+      "code": "ANIANI01",
+      "nameHeading": "<h2>Animation 1, 100 poäng</h2>",
+      "name": "Animation 1",
+      "englishName": "Animation 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen animation 1 omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3–4 och 9–10.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning.</li> <li>Manus och storyboard.</li> <li>Klassisk animation med papper och penna.</li> <li>Stopmotion-tekniker, till exempel cutout och pixilation.</li> <li>Grundläggande hantering av tekniska verktyg för animation, till exempel programvara och fotolistor. </li> <li>Rörelse, rytm och tempo i animation.</li> <li>Fotolistor och tidslinjer.</li> <li>Färg, form och perspektiv.</li> <li>Animation utifrån givna och styrda förutsättningar och förlagor.</li> <li>Orientering om genrer och stilar genom animationshistorien såväl studioproduktioner som experimentell independentfilm. </li> <li>Etiska frågor, lagar och andra bestämmelser om upphovsrätt och arbetsmiljö som gäller för området.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar animationer med <strong>enkla </strong>berättarkomponenter och <strong>enkel </strong>dramaturgi. Dessutom genomför eleven<strong> i samråd</strong> med handledare produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med viss säkerhet </strong>både traditionell och ny teknik för att skapa rörliga bilder.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar ett eget bildspråk <strong>utifrån </strong>givna förlagor.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven redogör <strong>översiktligt </strong>för animationens historia och användningsområden samt gör <strong>enkla </strong>bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>översiktligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar animationer med berättarkomponenter och dramaturgi. Dessutom genomför eleven <strong>efter samråd </strong>med handledare produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med viss säkerhet </strong>både traditionell och ny teknik för att skapa rörliga bilder. <strong>Dessutom blandar eleven med viss säkerhet de olika teknikerna</strong>.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt hur detta kan uttryckas i animationer </strong>samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar ett eget bildspråk <strong>utifrån </strong>givna förlagor.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven redogör <strong>utförligt </strong>för animationens historia och användningsområden samt gör <strong>välgrundade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>utförligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. <strong>I sitt eget arbete följer eleven lagarna och bestämmelserna</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar animationer med <strong>genomtänkta </strong>berättarkomponenter och <strong>genomtänkt </strong>dramaturgi. Dessutom genomför eleven <strong>efter samråd med handledare </strong>produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med säkerhet </strong>både traditionell och ny teknik för att skapa rörliga bilder. <strong>Dessutom blandar eleven med säkerhet de olika teknikerna och väljer lämplig teknik utifrån vad animationen ska uttrycka</strong>.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt och nyanserat hur detta kan uttryckas i animationer </strong>samt omsätter det <strong>med säkerhet </strong>till animationer. I arbetet använder eleven <strong>med säkerhet </strong>fotolista och tidslinje. Eleven formar ett eget bildspråk <strong>utan </strong>givna förlagor.</p><p>Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>.</p><p>Eleven samverkar <strong>med säkerhet </strong>med andra vid planering och produktion av animationer. Eleven söker <strong>med säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade och nyanserade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för animationens historia och användningsområden samt gör <strong>välgrundade och nyanserade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. <strong>I sitt eget arbete följer eleven lagarna och bestämmelserna</strong>.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ANIANI02</h3>",
+      "code": "ANIANI02",
+      "nameHeading": "<h2>Animation 2, 100 poäng</h2>",
+      "name": "Animation 2",
+      "englishName": "Animation 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen animation 2 omfattar punkterna 1–10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Filmens berättarkomponenter och dramaturgi, till exempel tids- och rumsliga förflyttningar och olika former av klippning. </li> <li>Manus och storyboard.</li> <li>Grundläggande produktionsplanering.</li> <li>Klassisk animation med papper och penna.</li> <li>Kombination av olika tekniska verktyg för animation, till exempel olika programvaror.</li> <li>Rörelse, rytm och tempo i animation.</li> <li>Synkron animation till existerande ljud.</li> <li>Färg, form och perspektiv.</li> <li>Sceneri, bakgrundsdesign och ljussättning.</li> <li>Karaktärsdesign.</li> <li>Animation utifrån givna och styrda förutsättningar och förlagor.</li> <li>Analys och värdering av det egna och andras arbete.</li> <li>Lagar och andra bestämmelser om upphovsrätt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar animationer med <strong>enkla </strong>berättarkomponenter och <strong>enkel </strong>dramaturgi. Dessutom planerar och genomför eleven <strong>i samråd </strong>med handledare produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med viss säkerhet </strong>både traditionella och nya tekniker.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med viss säkerhet </strong>ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning. I arbetet designar eleven <strong>med viss säkerhet </strong>karaktärerna.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>översiktligt några</strong> kvalitativa aspekter samt gör <strong>enkla </strong>bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>översiktligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar animationer med berättarkomponenter och dramaturgi. Dessutom planerar och genomför eleven <strong>efter samråd </strong>med handledare produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med viss säkerhet och experimenterar med </strong>både traditionella och nya tekniker.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med viss säkerhet </strong>ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning. I arbetet designar eleven <strong>med viss säkerhet och på ett konsekvent sätt </strong>karaktärerna.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer <strong>samt diskuterar översiktligt olika arbetssätt med andra</strong>. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>utförligt flera </strong>kvalitativa aspekter samt gör <strong>välgrundade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>utförligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar animationer med <strong>genomtänkta </strong>berättarkomponenter och <strong>genomtänkt </strong>dramaturgi. Dessutom planerar och genomför eleven <strong>efter samråd </strong>med handledare produktionsprocessen från idé till färdig produkt. I arbetet använder eleven <strong>med säkerhet och experimenterar med </strong>både traditionella och nya tekniker. <strong>Dessutom väljer och blandar eleven olika tekniker</strong>.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, <strong>diskuterar utförligt och nyanserat hur detta kan uttryckas i animationer</strong> samt omsätter det <strong>med säkerhet </strong>till animationer. I arbetet använder eleven <strong>med säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med säkerhet </strong>ett eget bildspråk genom att använda sceneri, bakgrundsdesign och ljussättning. I arbetet designar eleven <strong>med säkerhet och på ett konsekvent sätt </strong>karaktärerna <strong>samt motiverar utförligt och nyanserat sina val</strong>.</p><p>Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>.</p><p>Eleven samverkar <strong>med säkerhet </strong>med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt olika arbetssätt med andra</strong>. Eleven söker <strong>med säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade och nyanserade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>utförligt och nyanserat flera </strong>kvalitativa aspekter samt gör <strong>välgrundade och nyanserade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: ANIANI00S</h3>",
+      "code": "ANIANI00S",
+      "nameHeading": "<h2>Animation – specialisering, 100 poäng</h2>",
+      "name": "Animation – specialisering",
+      "englishName": "Animation – specialisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen animation – specialisering omfattar punkterna 1–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 5 och 7–8. I kursen behandlas fördjupade kunskaper inom valt material.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Produktionsprocessen: idé, synopsis, manus och storyboard, genomförande, efterbearbetning och publicering.</li> <li>Dokumentation och värdering av den pågående processen.</li> <li>Kombination av olika tekniska verktyg för animation inom valt material.</li> <li>Effektanimation, till exempel vatten, rök och eld.</li> <li>Det egna bildspråket och hur man kan utveckla sitt bildspråk.</li> <li>Lagar och andra bestämmelser om upphovsrätt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven skapar animationer med berättarkomponenter och dramaturgi. Dessutom använder eleven <strong>med viss säkerhet </strong>synopsis, manus och storyboard, genomför produktionen med <strong>tillfredsställande </strong>resultat samt efterbearbetar och publicerar <strong>med viss säkerhet </strong>produktionen. I arbetet använder och blandar eleven <strong>med viss säkerhet </strong>både traditionella och nya tekniker. Dessutom använder eleven <strong>med viss säkerhet </strong>effektanimationer. När arbetet är genomfört gör eleven en <strong>enkel </strong>dokumentation av sitt arbete samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>översiktligt</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med viss säkerhet </strong>ett eget bildspråk och beskriver det <strong>översiktligt</strong>.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer <strong>samt diskuterar översiktligt olika arbetssätt med andra</strong>. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>enkla </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>översiktligt några</strong> kvalitativa aspekter samt gör <strong>enkla </strong>bedömningar av <strong>några</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.</p><p>Eleven redogör <strong>översiktligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven skapar animationer med <strong>genomtänkta </strong>berättarkomponenter och <strong>genomtänkt </strong>dramaturgi. Dessutom använder eleven <strong>med viss säkerhet </strong>synopsis, manus och storyboard, genomför produktionen med <strong>tillfredsställande </strong>resultat samt efterbearbetar och publicerar <strong>med viss säkerhet </strong>produktionen. I arbetet använder och blandar eleven <strong>med viss säkerhet </strong>både traditionella och nya tekniker. Dessutom använder eleven <strong>med viss säkerhet </strong>effektanimationer. När arbetet är genomfört gör eleven en <strong>noggrann </strong>dokumentation av sitt arbete samt utvärderar med <strong>enkla </strong>omdömen sitt arbete och resultat.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>utförligt</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med viss säkerhet </strong>till animationer. I arbetet använder eleven <strong>med viss säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med viss säkerhet </strong>ett eget bildspråk, beskriver det <strong>utförligt och utvecklar det i någon riktning</strong>.</p><p>Eleven använder relevanta begrepp för animation <strong>med viss säkerhet</strong>.</p><p>Eleven samverkar <strong>med viss säkerhet </strong>med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt olika arbetssätt med andra</strong>. Eleven söker <strong>med viss säkerhet </strong>kunskap, tar ansvar för sitt eget arbete och ger <strong>välgrundade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>utförligt flera</strong> kvalitativa aspekter samt gör <strong>välgrundade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.</p><p>Eleven redogör <strong>utförligt </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven skapar animationer med <strong>genomtänkta och tydliga </strong>berättarkomponenter och <strong>genomtänkt och tydlig </strong>dramaturgi. Dessutom använder eleven <strong>med säkerhet </strong>synopsis, manus och storyboard, genomför produktionen med <strong>gott </strong>resultat samt efterbearbetar och publicerar <strong>med säkerhet </strong>produktionen. I arbetet använder och blandar eleven <strong>med säkerhet </strong>både traditionella och nya tekniker. Dessutom använder eleven <strong>med säkerhet </strong>effektanimationer. När arbetet är genomfört gör eleven en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete samt utvärderar med <strong>nyanserade </strong>omdömen sitt arbete och resultat.</p><p>Eleven registrerar rörelse, rytm, tempo och kroppars fysiska egenskaper, diskuterar <strong>utförligt och nyanserat</strong> hur detta kan uttryckas i animationer samt omsätter det <strong>med säkerhet </strong>till <strong>detaljrika </strong>animationer. I arbetet använder eleven <strong>med säkerhet </strong>fotolista och tidslinje. Eleven formar <strong>med säkerhet </strong>ett eget bildspråk, beskriver det <strong>utförligt och nyanserat och utvecklar det i någon riktning</strong>.</p><p>Eleven använder relevanta begrepp för animation <strong>med säkerhet</strong>.</p><p>Eleven samverkar <strong>med säkerhet </strong>med andra vid planering och produktion av animationer <strong>samt diskuterar utförligt och nyanserat olika arbetssätt med andra</strong>. Eleven söker <strong>med säkerhet </strong>kunskap, tar ansvar för sitt eget arbete, <strong>presenterar egna idéer</strong> och ger <strong>välgrundade och nyanserade </strong>förslag på hur arbetet kan förbättras.</p><p>Eleven diskuterar <strong>utförligt och nyanserat flera</strong> kvalitativa aspekter samt gör <strong>välgrundade och nyanserade </strong>bedömningar av <strong>flera olika</strong> kvaliteter i såväl egna som andras animationer utifrån animationens historia och användningsområden.</p><p>Eleven redogör <strong>utförligt och nyanserat </strong>för etiska frågor, arbetsmiljöfrågor samt för lagar och andra bestämmelser om upphovsrätt. I sitt eget arbete följer eleven lagarna och bestämmelserna.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.938Z"
+}

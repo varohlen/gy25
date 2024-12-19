@@ -1,0 +1,91 @@
+{
+  "code": "KLAI",
+  "name": "Klassisk balett",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:574",
+  "nameHeading": "<h2>Klassisk balett</h2>",
+  "description": "<p>Ämnet klassisk balett är till sin karaktär scenkonstnärligt och speglar ett kulturarv som påverkas och förändras av det samhälle vi lever i. Med kontinuerlig kroppslig träning i klassisk balett och genom att möta konstnärliga utmaningar skapas den hållbara dansare som dansaryrket kräver. Ämnet får bara anordnas på yrkesdansarutbildningen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet klassisk balett ska syfta till att eleverna utvecklar danstekniska färdigheter i klassisk balett. Genom daglig kontinuerlig träning ska eleverna ges möjlighet att utveckla den kroppsliga medvetenheten, anatomiskt funktionell placering och danstekniska rörelsekvaliteter till en konstnärlig helhet. Dessutom ska undervisningen bidra till att eleverna utvecklar spatial och musikalisk lyhördhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att tolka och memorera klassisk balett. Undervisningen ska även bidra till att eleverna utvecklar tillit till sina danstekniska färdigheter samt förmåga att reflektera över det egna lärandet och att använda reflektionerna för den egna danstekniska utvecklingen.</p> <p>Undervisningen ska stimulera elevernas lust att lära och personliga utveckling. Dessutom ska eleverna ges möjlighet att utveckla ett kreativt och problemlösande arbetssätt som tar sin utgångspunkt i dansaryrket och den klassiska baletten.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla ett yrkesmässigt förhållningssätt till kontinuerlig träning samt förberedas för dansaryrkets olika krav. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda dansens begrepp och vokabulär inom yrkesområdet. Dessutom ska undervisningen betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <h4><em>Undervisningen i ämnet klassisk balett ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ul> <li>Färdigheter i att tillämpa dansteknik i klassisk balett.</li> <li>Förmåga att tolka, memorera och utföra klassisk balett.</li> <li>Förmåga att anpassa sin dansteknik i klassisk balett till musikaliska aspekter, olika rum och sammanhang.</li> <li>Förmåga att tillämpa den danstekniska träningsprocessens olika delar.</li> <li>Förmåga att reflektera över sin kunskapsutveckling och att använda reflektionerna för den egna dansutvecklingen.</li> <li>Förmåga att använda dansens begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</li> </ul><h3>Nivåer i ämnet klassisk balett</h3><ul><li>Nivå 1, 200 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KLAI100DX</h3>",
+      "code": "KLAI100DX",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet klassisk balett på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Praktik</em></p> <ul> <li>Grundläggande dansteknik i klassisk balett. I profilen klassisk balett ingår tåspetsteknik.</li> <li>Övningar som ingår i den klassiska balettens struktur med betoning på stil, form, anatomiskt funktionell placering och tillämpning av utåtrotation samt funktionella linjer.</li> <li>Skillnader i rörelsekvaliteter inom den klassiska balettens formspråk.</li> <li>Dansens relation till musik, både levande och inspelad.</li> <li>Dansens förhållningssätt till musikens puls, taktarter, fraser, rytm och dynamik.</li> <li>Träning av spatial förmåga i relation till kroppen, andra medverkande och rummet.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar, däribland förberedelse, uppvärmning, memorering av rörelser och återkoppling.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Metoder för reflektion samt för undersökande och problemlösande arbetssätt.</li> <li>Reflektion över den danstekniska utvecklingen i samband med den dagliga träningen.</li> <li>Grundläggande begrepp och vokabulär som används inom klassisk balett.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KLAI200DX</h3>",
+      "code": "KLAI200DX",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet klassisk balett på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Praktik</em></p> <ul> <li>Avancerad dansteknik i klassisk balett. Avancerad tåspetsteknik.</li> <li>Övningar inom den klassiska balettens struktur med betoning på stil, form och funktionella linjer samt fördjupat arbete med anatomiskt funktionell placering och utåtrotation.</li> <li>Nyanserade rörelsekvaliteter och konstnärliga rörelseuttryck inom den klassiska balettens formspråk.</li> <li>Variationer och solistisk träning som ingår i den klassiska balettens repertoar.</li> <li>Dansens relation till musik, både levande och inspelad musik.</li> <li>Rörelseuttryckets dynamik i relation till musikens fraser, dynamik, rytm och periodicitet.</li> <li>Träning av spatial förmåga i relation till kroppen, andra medverkande, rummet och sammanhanget.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Reflektion över den dagliga träningsprocessen och den danstekniska utvecklingen.</li> <li>Reflektion över det yrkesmässiga förhållningssätt som används vid den danstekniska träningen.</li> <li>Begrepp och vokabulär inom klassisk balett i kommunikation med andra inom yrkesområdet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KLAI300DX</h3>",
+      "code": "KLAI300DX",
+      "nameHeading": "<h2>Nivå 3, 200 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet klassisk balett på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Praktik</em></p> <ul> <li>Avancerad dansteknik i klassisk balett. Avancerad tåspetsteknik.</li> <li>Övningar inom den klassiska balettens struktur med betoning på stil, form och funktionella linjer samt fördjupat arbete med anatomiskt funktionell placering och utåtrotation.</li> <li>Nyanserade rörelsekvaliteter och konstnärligt rörelseuttryck inom den klassiska balettens formspråk i en helhet.</li> <li>Komplexa variationer och solistisk träning som ingår i den klassiska balettens repertoar.</li> <li>Dansens relation till och samspel med musik, både levande och inspelad, i komplexa situationer.</li> <li>Dansens förhållningssätt och rörelseuttryckets dynamik i relation till musikens helhet.</li> <li>Träning av spatial förmåga i relation till kroppen, andra medverkande, rummet och sammanhanget.</li> <li>Kontinuerlig träning.</li> <li>Den danstekniska träningsprocessens delar.</li> <li>Träning av fysisk och mental uthållighet, närvaro och koncentration.</li> <li>Undersökande och problemlösande arbetssätt.</li> </ul> <p><em>Teori och reflektion</em></p> <ul> <li>Reflektion över den dagliga träningsprocessen och den danstekniska utvecklingen.</li> <li>Reflektion över det yrkesmässiga förhållningssätt som används vid den danstekniska träningen.</li> <li>Begrepp och vokabulär inom klassisk balett i kommunikation med andra inom yrkesområdet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven tillämpar med <strong>viss säkerhet</strong> dansteknik i klassisk balett. I samband med detta visar eleven den klassiska balettens formspråk med <strong>godtagbart</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>viss säkerhet</strong> klassisk balett utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>viss säkerhet</strong> dansens frasering och uttryck till musik. Dessutom förhåller sig eleven spatialt med <strong>godtagbart</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>godtagbart</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>godtagbart</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>viss säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>viss säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven tillämpar med <strong>säkerhet</strong> dansteknik i klassisk balett. I samband med detta visar eleven den klassiska balettens formspråk med <strong>gott</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>säkerhet</strong> klassisk balett utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>säkerhet</strong> dansens frasering och uttryck till musik. Dessutom förhåller sig eleven spatialt med <strong>gott</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>gott</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>gott</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven tillämpar med <strong>god säkerhet</strong> dansteknik i klassisk balett. I samband med detta visar eleven den klassiska balettens formspråk med <strong>mycket gott</strong> resultat.</p> <p>Eleven tolkar, memorerar och utför med <strong>god säkerhet</strong> klassisk balett utifrån olika konstnärliga förhållningssätt.</p> <p>Eleven anpassar med <strong>god säkerhet</strong> dansens frasering och uttryck till musik. Dessutom förhåller sig eleven spatialt med <strong>mycket gott</strong> resultat till rum, riktningar och andra medverkande.</p> <p>Eleven tillämpar den danstekniska träningsprocessens olika delar samt anpassar och utvecklar sin dansteknik utifrån återkoppling med <strong>mycket gott</strong> resultat. I samband med detta löser eleven danstekniska utmaningar med <strong>mycket gott</strong> resultat.</p> <p>Eleven reflekterar över den egna kunskapsutvecklingen och arbetar med <strong>god säkerhet</strong> uthålligt och koncentrerat för att utveckla sin dansteknik.</p> <p>Eleven använder med <strong>god säkerhet</strong> grundläggande begrepp och vokabulär i kommunikation med andra inom yrkesområdet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.028Z"
+}

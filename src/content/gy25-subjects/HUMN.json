@@ -1,0 +1,64 @@
+{
+  "code": "HUMN",
+  "name": "Humanistisk och samhällsvetenskaplig specialisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:261",
+  "nameHeading": "<h2>Humanistisk och samhällsvetenskaplig specialisering</h2>",
+  "description": "<p>Ämnet humanistisk och samhällsvetenskaplig specialisering möjliggör fördjupning inom humaniora eller samhällsvetenskap, till exempel inom antropologi, filosofi, företagsekonomi, genusvetenskap, historia, idéhistoria, juridik, konstvetenskap, kriminologi, litteraturvetenskap, medier och kommunikation, nationalekonomi, religionsvetenskap, språkvetenskap och statsvetenskap.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet humanistisk och samhällsvetenskaplig specialisering ska syfta till att eleverna utvecklar fördjupade kunskaper om ett område inom humaniora eller samhällsvetenskap.</p> <p>Genom undervisningen om området ska eleverna ges möjlighet att närma sig ett vetenskapligt sätt att tänka och arbeta. Eleverna ska även ges möjlighet att utveckla förmåga att granska olika typer av material och källor. Därigenom ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt till olika frågor inom området. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda begrepp och metoder som används inom humaniora eller samhällsvetenskap.</p> <p>I undervisningen ska eleverna ges möjlighet att diskutera och analysera området ur olika perspektiv. Eleverna ska även ges möjlighet att relatera de fördjupade kunskaperna till andra områden. Praktiska inslag, till exempel fältstudier, rollspel och undersökningar kan ingå.</p> <h5><em>Undervisningen i ämnet humanistisk och samhällsvetenskaplig specialisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om valt område inom humaniora eller samhällsvetenskap.</li> <li>Förmåga att analysera och diskutera området ur olika perspektiv med användning av relevanta begrepp och metoder.</li> <li>Förmåga att söka, kritiskt granska och tolka olika typer av material och källor inom det valda området.</li> </ul><h3>Nivåer i ämnet humanistisk och samhällsvetenskaplig specialisering</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet historia, nivå 1 i ämnet samhällskunskap, nivå 1 i ämnet svenska eller nivå 1 i ämnet svenska som andraspråk.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: HUMN1000X</h3>",
+      "code": "HUMN1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet humanistisk och samhällsvetenskaplig specialisering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom ett valt humanistiskt eller samhällsvetenskapligt område.</li> <li>Begrepp och metoder som är relevanta för området.</li> <li>Sökning, granskning, värdering och tolkning av olika typer av material och källor.</li> <li>Formulering av frågeställningar inom området. Analys av och diskussion om området ur olika perspektiv.</li> <li>Hur området kan relateras till ett större sammanhang, till exempel genom utblickar mot närliggande kunskapsområden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om ett valt område inom humaniora eller samhällsvetenskap.</p> <p>Eleven analyserar frågor inom området på ett <strong>enkelt</strong> sätt och för <strong>enkla</strong> resonemang utifrån olika perspektiv. Dessutom använder eleven med <strong>viss säkerhet</strong> relevanta begrepp och metoder.</p> <p>Eleven söker, granskar och tolkar med <strong>viss säkerhet</strong> olika typer av material och källor inom det valda området.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om ett valt område inom humaniora eller samhällsvetenskap.</p> <p>Eleven analyserar frågor inom området på ett <strong>utvecklat</strong> sätt och för <strong>utvecklade</strong> resonemang utifrån olika perspektiv. Dessutom använder eleven med <strong>säkerhet</strong> relevanta begrepp och metoder.</p> <p>Eleven söker, granskar och tolkar med <strong>säkerhet</strong> olika typer av material och källor inom det valda området.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om ett valt område inom humaniora eller samhällsvetenskap.</p> <p>Eleven analyserar frågor inom området på ett <strong>välutvecklat</strong> sätt och för <strong>välutvecklade</strong> resonemang utifrån olika perspektiv. Dessutom använder eleven med <strong>god säkerhet</strong> relevanta begrepp och metoder.</p> <p>Eleven söker, granskar och tolkar med <strong>god säkerhet</strong> olika typer av material och källor inom det valda området.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.020Z"
+}

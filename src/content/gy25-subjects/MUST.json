@@ -1,0 +1,92 @@
+{
+  "code": "MUST",
+  "name": "Musikteori",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-03-13",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:329",
+  "nameHeading": "<h2>Musikteori</h2>",
+  "description": "<p>Musik finns i alla kulturer och berör oss såväl kroppsligt som tankemässigt och känslomässigt. Musik är en estetisk uttrycksform som har olika funktioner och betydelser för var och en av oss. Ämnet musikteori är läran om musikens uppbyggnad och behandlar musiklära, gehör och musikaliska former samt musikens notation, språk och begrepp. Kunskaper i musikteori bidrar till en musikalisk helhetssyn samt förstärker och utvecklar musikutövandet, musikskapandet och kommunikationen med andra musiker.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet musikteori ska syfta till att eleverna utvecklar kunskaper om musiklära och musikteoretiska begrepp. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera notskrift samt kunskaper om notationssystemet och olika musikaliska former. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om och färdigheter i harmonisering, arrangering och komposition. Undervisningen ska även leda till att eleverna utvecklar kunskaper om gehör och inre hörande. I undervisningen ska konstnärliga aspekter innefattas och inspirera till eget skapande och musikalisk utveckling. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om instrumentens och rösternas egenskaper och funktion i musiken. Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i musikämnen aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla färdigheter i att hantera olika verktyg och musikteknisk utrustning för såväl gehörsträning som arrangering eller komposition av musik. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om metoder för att notera klingande musik samt metoder för egen gehörsträning.</p> <p>I undervisningen ska eleverna ges möjlighet att analysera musik både teoretiskt och gehörsmässigt. Därigenom ska eleverna ges möjlighet att utveckla förståelse av olika musikaliska skeenden och strukturer. Genom undervisningen ska eleverna ges verktyg och metoder som de får möjlighet att omsätta praktiskt i musicerande och musikskapande samt vid träning och utveckling av gehör.</p> <h5><em>Undervisningen i ämnet musikteori ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om musiklära och musikens beståndsdelar samt hur de samverkar.</li> <li>Förmåga att tolka och läsa notskrift.</li> <li>Förmåga att omsätta musikteoretiska kunskaper i musikskapande och arrangering.</li> <li>Kunskaper om musikinstrument och röster, deras klang, funktion och användning.</li> <li>Förmåga att träna och använda gehöret.</li> <li>Förmåga att använda olika verktyg som hjälpmedel vid musikskapande, arrangering och gehörsträning.</li> </ul><h3>Nivåer i ämnet musikteori</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MUST1000X</h3>",
+      "code": "MUST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musikteori på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Musiklära</em></p> <ul> <li>Introduktion i musiklära. Musikteoretiska begrepp. Skalor, rytm, intervall och ackorduppbyggnad samt notation och notationspraxis.</li> <li>Funktions- och steganalys i en eller flera genrer. Jämförelse av olika genrers musikteoretiska begrepp.</li> <li>Notläsning och enkel a prima vista-träning, instrumentalt och vokalt.</li> </ul> <p><em>Arrangering och komposition</em></p> <ul> <li>Grundläggande satslära och harmonisk analys, däribland hur melodi förhåller sig till rytm, ackord och funktion samt enkel stämföring.</li> <li>Aktivt lyssnande och diskussion om musikverk, musikframförande och stämmors funktion.</li> <li>Notation av musik.</li> <li>Enkel harmonisering och melodibildning.</li> </ul> <p><em>Gehörsträning och musikverktyg</em></p> <ul> <li>Grundläggande gehörsträning av puls, rytm, melodi, harmoni och form.</li> <li>Introduktion i notation av klingande musik och instudering av musik på gehör.</li> <li>Användning av gehöret med och utan instrument.</li> <li>Hur olika verktyg används för notskrift och som stöd för gehörsträning.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MUST2000X</h3>",
+      "code": "MUST2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musikteori på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Musiklära</em></p> <ul> <li>Musiklära med föredragsbeteckningar, skalor, rytm, intervall, notation, notationspraxis och notationssystem samt ackordbeteckningssystem.</li> <li>Musikteoretiska begrepp och teoribildningar i en eller flera genrer. Utvecklad funktions- och steganalys.</li> <li>Notläsning och a prima vista-träning, instrumentalt och vokalt.</li> </ul> <p><em>Arrangering och komposition</em></p> <ul> <li>Satslära och harmonisk analys, däribland stämföring i flerstämmig sats, genomgångstoner, förhållningar och färgningar.</li> <li>Formlära.</li> <li>Analys av och diskussion om instrumentation i olika ensembleformer.</li> <li>Notation av musik.</li> <li>Melodibildning och enkla kompositionsprinciper.</li> <li>Harmonisering och stämföring i flerstämmig sats.</li> </ul> <p><em>Gehörsträning och musikverktyg</em></p> <ul> <li>Gehörsträning av puls, rytm, melodi, harmoni och form.</li> <li>Strategier och metoder för notation och instudering av klingande musik på gehör, med och utan instrument.</li> <li>Hur olika verktyg används i musikskapande och gehörsträning och för notation av klingande musik.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MUST3000X</h3>",
+      "code": "MUST3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet musikteori på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Musiklära</em></p> <ul> <li>Tillämpning av musiklära i kompositions- och arrangeringspraxis i för sammanhanget relevant innehåll, till exempel användning av begrepp och symboler.</li> <li>Notläsning i en eller flera musikgenrer, instrumentalt och vokalt.</li> </ul> <p><em>Arrangering och komposition</em></p> <ul> <li>Fördjupad satslära och harmonisk analys, till exempel modulationer, kontrapunkt och modala strukturer.</li> <li>Utvecklad melodisk, harmonisk, periodisk och rytmisk uppbyggnad av musik.</li> <li>Kompositionsprinciper och olika musikaliska strukturer.</li> <li>Musikinstruments och rösters klang, funktion och användning inom olika genrer och stilar.</li> <li>Ensembleformer och musikformer samt stildrag från olika tidsperioder och kulturer.</li> <li>Notation av musik.</li> <li>Arrangering och komposition av musik i olika genrer.</li> </ul> <p><em>Gehörsträning och musikverktyg</em></p> <ul> <li>Gehörsträning av puls, rytm, melodi, harmoni och form.</li> <li>Hur praktisk tillämpning av gehöret kan användas i olika sammanhang, till exempel vid kompositionsmässiga överväganden.</li> <li>Hur olika verktyg och musikteknisk utrustning kan användas vid arrangering och komposition av musik.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om musiklära och om musikens beståndsdelar samt hur de samverkar.</p> <p>Eleven läser noter med <strong>viss säkerhet</strong>.</p> <p>Eleven omsätter musikteoretiska kunskaper i sitt musikskapande på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om instruments eller rösters funktion och relation i musikalisk form och struktur.</p> <p>Eleven tränar och använder gehöret på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven hanterar med <strong>viss säkerhet</strong> olika verktyg i musikskapande och gehörsträning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om musiklära och om musikens beståndsdelar samt hur de samverkar.</p> <p>Eleven läser noter med <strong>säkerhet</strong>.</p> <p>Eleven omsätter musikteoretiska kunskaper i sitt musikskapande på ett <strong>fungerande</strong> sätt.</p> <p>Eleven visar <strong>goda</strong> kunskaper om instruments eller rösters funktion och relation i musikalisk form och struktur.</p> <p>Eleven tränar och använder gehöret på ett <strong>fungerande</strong> sätt.</p> <p>Eleven hanterar med <strong>säkerhet</strong> olika verktyg i musikskapande och gehörsträning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om musiklära och om musikens beståndsdelar samt hur de samverkar.</p> <p>Eleven läser noter med <strong>god säkerhet</strong>.</p> <p>Eleven omsätter musikteoretiska kunskaper i sitt musikskapande på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om instruments eller rösters funktion och relation i musikalisk form och struktur.</p> <p>Eleven tränar och använder gehöret på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven hanterar med <strong>god säkerhet</strong> olika verktyg i musikskapande och gehörsträning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.055Z"
+}

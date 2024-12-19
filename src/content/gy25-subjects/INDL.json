@@ -1,0 +1,64 @@
+{
+  "code": "INDL",
+  "name": "Industriell elmotorstyrning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:2",
+  "nameHeading": "<h2>Industriell elmotorstyrning</h2>",
+  "description": "<p>Elmotorer återfinns såväl inom industrin som i vår vardag där de kan driva fläktar, pumpar, kompressorer och fordon på ett energieffektivt sätt. Ämnet industriell elmotorstyrning behandlar uppbyggnad, funktion, installation och styrning av elmotorer.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell elmotorstyrning ska syfta till att eleverna utvecklar förmåga att utföra arbeten inom installation och underhåll av elmotorer med tillhörande utrustning. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om uppbyggnad av och funktion hos elmotorer och tillhörande utrustning. Eleverna ska också ges möjlighet att utveckla förståelse av elmotorers användningsområden samt hur elmotorer kan drivas på ett energieffektivt sätt.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att läsa och tolka ritningar och arbetsbeskrivningar samt att planera och utföra elmotorinstallationer på ett säkert sätt. Undervisningen ska också leda till att eleverna utvecklar förmåga att utföra felsökning och felavhjälpning av elmotorinstallationer samt att söka information om installationer i befintlig dokumentation. Vidare ska undervisningen leda till att eleverna utvecklar färdigheter i att använda verktyg och andra hjälpmedel på ett ändamålsenligt sätt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet samt lagar och andra bestämmelser inom området. Undervisningen ska också bidra till att eleverna utvecklar ett yrkesmässigt språk samt förmåga att dokumentera och utvärdera sitt arbete.</p> <p>Genom praktiskt arbete och informationssökning ska eleverna ges möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett yrkesmässigt sätt samt att ta ansvar och lösa problem.</p> <h5><em>Undervisningen i ämnet industriell elmotorstyrning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur olika elmotorer och kringutrustning är uppbyggda och fungerar.</li> <li>Färdigheter i att använda verktyg och andra hjälpmedel.</li> <li>Förmåga att utföra elmotorinstallationer samt felsökning och felavhjälpning på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att dokumentera och utvärdera utfört arbete.</li> </ul><h3>Nivåer i ämnet industriell elmotorstyrning</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDL1000X</h3>",
+      "code": "INDL1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell elmotorstyrning på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Elmotorer och verktyg</em></p> <ul> <li>Elmotorer och tillhörande kringutrustning med fokus på uppbyggnad, funktion och energieffektivitet.</li> <li>Elmotorers användningsområden.</li> <li>Uppbyggnad och funktion av servosystem.</li> <li>Användning av verktyg och andra hjälpmedel som används vid arbete med elmotorer.</li> </ul> <p><em>Elmotorinstallationer och säkerhet</em></p> <ul> <li>Installation av elmotorer med tillhörande skyddsanordningar.</li> <li>Läsning och tolkning av ritningar och arbetsbeskrivningar.</li> <li>Installation av styrutrustning för styrning av elmotorer.</li> <li>Installation av varvtalsreglering och mjukstartare.</li> <li>Driftsättning och underhåll av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar.</li> <li>Val av ledningar med hänsyn till störningar och olika miljöer.</li> <li>Felsökning och felavhjälpning av elmotorer med tillhörande skyddsanordningar, styrutrustningar och automatikutrustningar med hjälp av manualer och elritningar.</li> <li>Standarder samt lagar och andra bestämmelser som gäller säkerhet inom området.</li> <li>Arbete med elmotorer på ett säkert sätt.</li> </ul> <p><em>Dokumentation och utvärdering</em></p> <ul> <li>Begrepp och uttryck inom området för att kommunicera om arbetsprocess och resultat.</li> <li>Tolkning och användning av dokumentation gällande elmotorer, styrutrustningar och automatikutrustningar.</li> <li>Dokumentation och utvärdering av utfört arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för hur elmotorer och kringutrustning är uppbyggda och fungerar.</p> <p>Eleven använder verktyg och andra hjälpmedel med <strong>visst</strong> handlag.</p> <p>Eleven utför elmotorinstallationer, felsökning och felavhjälpning. Resultatet av arbetet är av <strong>godtagbar</strong> kvalitet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven gör en <strong>enkel</strong> dokumentation och utvärdering av sitt arbete.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för hur elmotorer och kringutrustning är uppbyggda och fungerar.</p> <p>Eleven använder verktyg och andra hjälpmedel med <strong>gott</strong> handlag.</p> <p>Eleven utför elmotorinstallationer, felsökning och felavhjälpning. Resultatet av arbetet är av <strong>god</strong> kvalitet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven gör en <strong>noggrann</strong> dokumentation och utvärdering av sitt arbete.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för hur elmotorer och kringutrustning är uppbyggda och fungerar.</p> <p>Eleven använder verktyg och andra hjälpmedel med <strong>mycket gott</strong> handlag.</p> <p>Eleven utför elmotorinstallationer, felsökning och felavhjälpning. Resultatet av arbetet är av <strong>mycket god</strong> kvalitet. Eleven arbetar på ett säkert sätt i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation och utvärdering av sitt arbete.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.022Z"
+}

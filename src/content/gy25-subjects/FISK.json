@@ -1,0 +1,78 @@
+{
+  "code": "FISK",
+  "name": "Fiske- och vattenvård",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:224",
+  "nameHeading": "<h2>Fiske- och vattenvård</h2>",
+  "description": "<p>Attraktiva fiskevatten är en del i utvecklingen av det rörliga friluftslivet och besöksnäringen. En samförvaltning av skogens och kulturlandskapets ekologiska, ekonomiska och sociala värden skapar förutsättningar för hållbar utveckling inom naturbrukets olika verksamheter. Ämnet fiske- och vattenvård behandlar vård av vattenmiljöer och förvaltning av fiskevatten.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet fiske- och vattenvård ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom förvaltning och vård av fiskevatten. Den ska leda till att eleverna utvecklar kunskaper om vatten och vattenlevande organismer samt om biologiska samband i olika biotoper. Fiskeförvaltning utgår från kartläggningar av fiskbestånd i sjöar och vattendrag samt fiskevårdande åtgärder. Vattenvård handlar om att upprätthålla fungerande ekosystem och att skapa förutsättningar för biologisk mångfald i vattenmiljöer. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och upprätta vattenvårdsplaner samt att sköta fiskevatten på ett ekologiskt hållbart sätt. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om fiske med olika metoder och redskap samt förmåga att använda och vårda fiskeutrustning på ett yrkesmässigt sätt. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att ta ställning i etiska frågor som gäller fiske- och vattenvård.</p> <p>I undervisningen ska eleverna ges möjlighet att upptäcka och reflektera över skogens och kulturlandskapets många olika värden. Undervisningen ska därigenom bidra till elevernas förståelse av ekologiska sammanhang och samspelet mellan natur och människa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ergonomiskt och säkert samt att använda arbetsmetoder som främjar en miljömässigt hållbar utveckling. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</p> <p>Genom fältstudier och ett undersökande arbetssätt ska eleverna ges möjlighet att studera vattenlevande organismer i olika biotoper samt tillämpa arbetsmetoder inom fiske- och vattenvård. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att hantera och vårda fiskeutrustning samt att tillvarata fisk.</p> <h5><em>Undervisningen i ämnet fiske- och vattenvård ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om vatten och vattenlevande organismer i olika biotoper.</li> <li>Förmåga att planera och utföra arbetsuppgifter inom fiske- och vattenvård på ett etiskt och hållbart sätt samt att hantera redskap och annan utrustning för fiske.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt med hänsyn till miljön.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet fiske- och vattenvård</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: FISK1000X</h3>",
+      "code": "FISK1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fiske- och vattenvård på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Vattenlevande organismer, till exempel fiskar, plankton och kräftdjur. Deras biologi och behov.</li> <li>Näringsvävar och ekologiska samband i vattenmiljöer.</li> <li>Vanliga fisksjukdomar.</li> <li>Vatten, vattenkvalitet och vattnets kretslopp.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Biotopinventeringar och kartläggning av fiskbestånd.</li> <li>Tolkning av vattenvårdsplaner och fiskevårdsplaner samt planering och utförande av arbetsuppgifter med hänsyn tagen till hållbara ekosystem.</li> <li>Arbete med fiske och tillvaratagande av fisk.</li> <li>Val av samt användning och vård av redskap och annan utrustning.</li> <li>Etiska ställningstaganden i samband med fiske- och vattenvård.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Arbetsmiljö, ergonomi och säkerhet i samband med aktuella arbetsuppgifter inom fiske- och vattenvård.</li> <li>Lagar och andra bestämmelser som gäller fiske- och vattenvård, däribland vattendirektivet.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: FISK2000X</h3>",
+      "code": "FISK2000X",
+      "nameHeading": "<h2>Nivå 2, 200 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet fiske- och vattenvård på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Fördjupning inom olika arter av fiskar och andra för fiske- och vattenvård relevanta arters egenskaper och miljökrav.</li> <li>Vattenlevande organismers biologi samt hur deras livsbetingelser kan påverkas.</li> <li>Vattnet som ekosystem och biologisk mångfald i sjöar och vattendrag samt dess betydelse för hållbar utveckling.</li> <li>Skogs- och lantbruksåtgärder som påverkar vattenmiljön.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Utarbetande av vattenvårdsplaner och ekonomiska kalkyler för förvaltning och tillsyn av fiskevatten.</li> <li>Planering, genomförande och utvärdering av vattenvård och fiskevårdande åtgärder, däribland biotoprestaurering.</li> <li>Yrkesmässig skötsel av fiskevatten med utgångspunkt i hållbara ekosystem.</li> <li>Arbetsuppgifter i samband med fiske och tillvaratagande av fisk.</li> <li>Val av samt användning och vård av redskap och annan utrustning.</li> <li>Etiska ställningstaganden i samband med planering och genomförande av olika åtgärder.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Arbetsmiljö, ergonomi och säkerhet i samband med aktuella arbetsuppgifter.</li> <li>Lagar och andra bestämmelser som gäller aktuella arbetsuppgifter inom området.</li> <li>Internationella förhållanden och överenskommelser beträffande fiske- och vattenvård.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för olika vattenlevande organismer och för deras miljökrav.</p> <p>Eleven planerar och genomför arbetsuppgifter inom fiske- och vattenvård på ett etiskt och hållbart sätt. I planeringen gör eleven en <strong>enkel</strong> bedömning av när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat. I arbetet väljer eleven med <strong>viss säkerhet</strong> metoder, redskap och annan relevant utrustning. Resultatet av arbetet är <strong>godtagbart</strong>.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller fiske, vattenvård och fiskevård.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för olika vattenlevande organismer och för deras miljökrav.</p> <p>Eleven planerar och genomför arbetsuppgifter inom fiske- och vattenvård på ett etiskt och hållbart sätt. I planeringen gör eleven en <strong>välgrundad</strong> bedömning av när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat. I arbetet väljer eleven med <strong>säkerhet</strong> metoder, redskap och annan relevant utrustning. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller fiske, vattenvård och fiskevård.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika vattenlevande organismer och för deras miljökrav.</p> <p>Eleven planerar och genomför arbetsuppgifter inom fiske- och vattenvård på ett etiskt och hållbart sätt. I planeringen gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat. I arbetet väljer eleven med <strong>god säkerhet</strong> metoder, redskap och annan relevant utrustning. Resultatet av arbetet är <strong>mycket gott</strong>.</p> <p>Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller fiske, vattenvård och fiskevård.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.996Z"
+}

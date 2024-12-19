@@ -1,0 +1,64 @@
+{
+  "code": "VVSI",
+  "name": "VVS-isolering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:253",
+  "nameHeading": "<h2>VVS-isolering</h2>",
+  "description": "<p>Ämnet VVS-isolering behandlar isolering av installationer inom kyla, värme, ventilation och sanitet. Samhällets ökade krav på minskad energiförbrukning och väl fungerande inomhusmiljöer tillsammans med branschens tekniska utveckling lyfter fram behovet av korrekt isolerade och optimalt fungerande VVS-tekniska installationer. Ämnet behandlar även branschens ansvar för främjandet av hållbar utveckling.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet VVS-isolering ska syfta till att eleverna utvecklar förmåga att utföra isolering av varma och kalla VVS-tekniska installationer och av luftbehandlingssystem samt isolering för att dämpa ljud. Därtill ska undervisningen leda till att eleverna utvecklar kunskaper om skydd mot brand- och brandgasspridning. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material för isolering och ytbeklädnad samt om arbetsmetoder vid isolering av VVS-tekniska installationer. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetssätt som främjar hållbarhet samt branschens ansvar för hållbar utveckling. Produkt- och teknikutveckling inom branschen ställer krav på proaktivitet och föränderliga arbetssätt. Undervisningen ska därför stimulera elevernas nyfikenhet och vilja till fortsatt lärande i arbetslivet.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Undervisningen ska leda till att eleverna utvecklar förmåga att hantera utrustning och material på ett yrkesmässigt sätt samt arbeta med hänsyn till ergonomi, hälsa och säkerhet. Därtill ska undervisningen ge eleverna möjlighet att utveckla förmåga att läsa och tolka bygghandlingar och annan dokumentation. Eleverna ska också ges möjlighet att utveckla förmåga att arbeta i enlighet med de lagar och andra bestämmelser som gäller för yrkesområdet samt förebygga och hantera risker i den egna arbetsmiljön. I undervisningen ska eleverna ges möjlighet att utveckla en känsla för installationernas estetiska utformning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av ansvarstagande samt förmåga att förhålla sig kritiskt granskande till rådande attityder och värderingar på arbetsplatsen. I undervisningen ska eleverna ges rikligt med tillfällen att använda fackspråk för att utveckla förmåga att kommunicera och samverka i olika sammanhang under arbetsutövning. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska teoretiska och praktiska kunskaper vävas samman till en helhet för eleverna. Undervisningen ska bedrivas med metoder och utrustning som är tidsenliga. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt bedrivas så att eleverna får möjlighet att utföra sina uppgifter både individuellt och i samarbete med andra.</p> <h5><em>Undervisningen i ämnet VVS-isolering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om isoleringsmaterials konstruktion, funktion och egenskaper samt om lagar och andra bestämmelser inom verksamhetsområdet.</li> <li>Förmåga att utföra arbetsuppgifter inom VVS-isolering, från planering till utvärdering och dokumentation, på ett säkert och hållbart sätt.</li> <li>Förmåga att samverka och kommunicera i olika yrkessammanhang samt använda fackspråk.</li> </ul><h3>Nivåer i ämnet VVS-isolering</h3><ul><li>Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet teknisk isolering.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: VVSI1000X</h3>",
+      "code": "VVSI1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet VVS-isolering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Olika typer av isoleringsmaterial och material för ytbeklädnad av VVS-tekniska installationer och för brand- och ljudisolering samt deras konstruktion, egenskaper och användningsområden.</li> <li>Äldre isoleringsmaterial och arbetsmetoder samt risker förknippade med dem.</li> <li>Isoleringsteori med produkt- och materiallära, ritningar, arbetsbeskrivningar och monteringsanvisningar.</li> <li>Isoleringsteknik med metoder och utrustning för VVS-installationer.</li> <li>Värmeisolering och värmekonduktivitet.</li> <li>Regler för bullernivå i byggnadsdelar.</li> <li>Problem som kan uppstå med kondens samt med värme- och fuktflöden vid kalla installationer.</li> <li>Uppkomst och transport av ljud i byggnadsdelar samt hur det dämpas.</li> <li>Brandceller och brandtekniska byggnadsklasser samt klassificering av byggnadsdelar.</li> <li>Brandkrav vid användning av cellgummi.</li> <li>Lagar och andra bestämmelser som gäller VVS-installationer, däribland om arbetsmiljö, hälsa och säkerhet samt bygglagstiftning och branschstandarder. Branschens ansvar för hållbar utveckling.</li> <li>Riskbedömning och säkra arbetssätt för såväl montör som för användare av installationen.</li> <li>Tolkning av beskrivningar och ritningar, däribland isometriska ritningar.</li> <li>Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av VVS-tekniska installationer på ett säkert samt ekonomiskt och miljömässigt hållbart sätt.</li> <li>Planering och organisering av arbetsplatser och arbetsuppgifter vid brand- och ljudisolering av installationer och byggnadsdelar.</li> <li>Måttsättning och mängdberäkning av material i relation till faktorer som mediatemperatur och brandrisk samt installationernas drifttid och belägenhet.</li> <li>Val och säker hantering av verktyg, maskiner och annan utrustning vid isolering av VVS-tekniska installationer samt vid brand- och ljudisolering.</li> <li>Montering av ytbeklädnader, till exempel plastplåt och tunn mönsterpräglad aluminiumplåt.</li> <li>Isolering med nätmatta och lamellmatta med hopfästning genom fästmetoder som syförfarande och kramling.</li> <li>Montering av brandskyddsisolering av installationer.</li> <li>Montering av brandskiva och aluminiumplåt på ventilationsrigg.</li> <li>Isolering vid genomdragningar av rörledningar samt cirkulära och rektangulära ventilationskanaler.</li> <li>Genomförande av ljudisolering, värmeisolering och kondensisolering.</li> <li>Anpassning av ytbeklädnad vid expansionsrörelser.</li> <li>Specialisolering, till exempel eldfast fiber, cellglas, spegelisolering och madrasser för svåråtkomliga detaljer och oregelbundna ytor.</li> <li>Kontroll, utvärdering och dokumentation av utförda åtgärder samt avvikelserapport.</li> <li>Ergonomiskt riktiga arbetssätt.</li> <li>Samverkan och kommunikation med anpassning till mottagare och i olika yrkessammanhang.</li> <li>Kommunikation med fackspråk i tal och skrift i arbetet.</li> <li>Situationsanpassat bemötande av kollegor, andra yrkesgrupper och uppdragsgivare på arbetsplatsen.</li> <li>Agerande utifrån faktorer som social arbetsmiljö, attityder och värderingar.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för isoleringsmaterials konstruktion, funktion och egenskaper. Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför arbetsuppgifter inom VVS-isolering med <strong>godtagbart</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>enkla</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>viss säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för isoleringsmaterials konstruktion, funktion och egenskaper. Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför arbetsuppgifter inom VVS-isolering med <strong>gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för isoleringsmaterials konstruktion, funktion och egenskaper. Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser inom verksamhetsområdet.</p> <p>Eleven utför arbetsuppgifter inom VVS-isolering med <strong>mycket gott</strong> resultat. Eleven utvärderar och dokumenterar arbetsprocessen och resultatet samt ger <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras. Eleven arbetar säkert och använder arbetsmetoder som främjar hållbar utveckling.</p> <p>Eleven använder fackspråk med <strong>god säkerhet</strong>. Eleven samverkar och kommunicerar i olika yrkessammanhang med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.102Z"
+}

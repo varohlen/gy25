@@ -1,0 +1,92 @@
+{
+  "code": "DESI",
+  "name": "Design",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:194",
+  "nameHeading": "<h2>Design</h2>",
+  "description": "<p>Ämnet design behandlar den arbetsprocess där produkter medvetet och innovativt utvecklas för att uppfylla en målgrupps funktionella och estetiska krav. Ibland är design ett led i att utveckla och ta fram ett föremål. I andra sammanhang handlar det om att pröva och utveckla en idé, upplevelse eller tjänst. Design utgår ofta från ett problem eller uppdrag, där produkten ska kunna tillverkas, distribueras och säljas samt vara etiskt, estetiskt och miljömässigt hållbar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet design ska syfta till att eleverna utvecklar kunskaper om de kreativa och problemlösande processer som används när nya produkter tas fram och gamla återanvänds samt när miljöer och tjänster utformas. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om de olika delarna i designprocessen och förståelse av hur delarna samverkar. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att utföra design som metod för att göra livet enklare, rikare och mer hållbart ur samhälleliga och mänskliga perspektiv.</p> <p>Undervisningen ska leda till att eleverna utvecklar kunskaper om hur designproblem har lösts historiskt utifrån olika förutsättningar och aspekter. Eleverna ska också ges möjlighet att utveckla kunskaper om hur design påverkar och påverkas av sin samtid. Undervisningen ska stimulera elevernas nyfikenhet och kreativitet och bidra till att eleverna utvecklar förmåga att med bilder och modeller gestalta sina idéer och förmedla sina resultat. För att kunna designa miljömässigt hållbara produkter ska eleverna ges möjlighet att utveckla förmåga att välja och använda lämpliga material. Undervisningen ska dessutom leda till att eleverna utvecklar förmåga att använda passande utrustning och verktyg.</p> <p>Designprocessen sker vanligen i projektarbetsform och därför ska eleverna ges möjlighet att utveckla förmåga att förbereda, driva och utvärdera designprojekt. Beroende på problemet eller uppdraget läggs tonvikten vid olika delar i designprocessen, där avgränsningar är viktiga. Designprocessen är en kreativ metod för att skapa medveten förändring och för att förstå samspelet mellan delar och helheter. Därför ska undervisningen ge eleverna möjlighet att öva sig i att kommunicera genom tal, skiss, ritning, modell och skrift. Undervisningen ska lämna utrymme för diskussion och reflektion över etiska frågor samt olika handlingsalternativ inom design.</p> <h5><em>Undervisningen i ämnet design ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera, genomföra och utvärdera designprojekt.</li> <li>Färdigheter i att visualisera och presentera designförslag.</li> <li>Förmåga att använda utrustning, verktyg och material.</li> <li>Kunskaper om design och designerns roll utifrån ett historiskt och samtida perspektiv.</li> <li>Kunskaper om hur människors behov och hållbarhetskrav påverkar design och produktutveckling.</li> </ul><h3>Nivåer i ämnet design</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DESI1000X</h3>",
+      "code": "DESI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet design på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Designprocessen</em></p> <ul> <li>Introduktion av designprocessens olika delar, från problemformulering till presentation och utvärdering.</li> <li>Projektarbetsmetodik, till exempel projektplan, metoder och redovisningsformer.</li> <li>Hur designarbete kan genomföras i projektform.</li> <li>Olika material samt deras egenskaper och miljömässiga påverkan.</li> <li>Användning av olika källor kopplat till delarna i ett designprojekt.</li> <li>Modeller för analys och värdering av egna och andras idéer.</li> </ul> <p><em>Visualisering</em></p> <ul> <li>Material, tekniker och verktyg för två- och tredimensionell visualisering av idéer, till exempel skisser och ritningar.</li> <li>Enklare modellarbete med fokus på estetik och material.</li> <li>Presentation av idéer med bild, ritning, modell, skrift och tal.</li> </ul> <p><em>Kontext</em></p> <ul> <li>Grundläggande design- och stilhistoria.</li> <li>Begrepp och uttryck som används inom design och produktutveckling.</li> <li>Design och designerns roll i samhället med fokus på hållbar utveckling samt människors olika behov och förutsättningar.</li> <li>Design och produktutveckling utifrån olika aspekter, till exempel målgruppers ekonomiska, ergonomiska, estetiska, funktionella och sociala behov samt de sammanhang där produkten används.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DESI2000X</h3>",
+      "code": "DESI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet design på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Designprocessen</em></p> <ul> <li>Designprocessens olika delar från problemformulering till presentation och utvärdering.</li> <li>Hur designarbete planeras, struktureras och genomförs.</li> <li>Val av passande projektarbetsmetod, till exempel projektplan och redovisningsform i ett eller flera designprojekt.</li> <li>Val av material utifrån deras egenskaper och miljöpåverkan.</li> <li>Användning och värdering av olika källor kopplat till delarna i ett designprojekt.</li> <li>Analys och värdering av egna och andras idéer och resultat.</li> </ul> <p><em>Visualisering</em></p> <ul> <li>Användning av analoga och digitala tekniker för två- och tredimensionell visualisering, till exempel ritning, skiss och modell.</li> <li>Verktyg och material för skiss och modellbyggande samt hur de används.</li> <li>Modellarbete med fokus på estetik, material och skalteknik.</li> <li>Presentation av designprocessens olika delar med hjälp av bild, ritning, modell, skrift och tal.</li> </ul> <p><em>Kontext</em></p> <ul> <li>Hur design och designerns roll i samhället har påverkats av föreställningar om kön samt social och kulturell tillhörighet.</li> <li>Design och produktutveckling med hänsyn till målgrupp och sammanhang.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: DESI3000X</h3>",
+      "code": "DESI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet design på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Designprocessen</em></p> <ul> <li>Planering, organisering och genomförande av designprojekt.</li> <li>Användning och värdering av olika källor kopplat till delarna i ett designprojekt samt källkritisk granskning.</li> <li>Analys och värdering av designprocessen och bedömning av det färdiga resultatet.</li> </ul> <p><em>Visualisering</em></p> <ul> <li>Tillämpning av lämpliga analoga och digitala tekniker för två- och tredimensionell visualisering.</li> <li>Verktyg och material för skisser och modellbyggande samt hur de väljs, används och vårdas.</li> <li>Modellarbete med fokus på estetik, material, skalteknik och hantverksmässigt utförande.</li> <li>Val av presentations- och redovisningsform relevant för designprojektet.</li> <li>Presentation av designprocessens olika delar med hjälp av bild, ritning, modell, skrift och tal.</li> </ul> <p><em>Kontext</em></p> <ul> <li>Val av designmodell med hänsyn till ekonomi, miljö och återanvändning.</li> <li>Analys av och reflektion över design och designhistoria samt designerns roll.</li> <li>Design och produktutveckling anpassad till målgrupp, varumärke och sammanhang.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven planerar, genomför och utvärderar designprojekt med <strong>godtagbar</strong> kvalitet.</p> <p>Eleven visualiserar med <strong>viss skicklighet</strong> designförslag och presenterar med <strong>viss säkerhet</strong> sitt resultat.</p> <p>Eleven använder med <strong>viss säkerhet</strong> utrustning, verktyg och material i designprocessen.</p> <p>Eleven för <strong>enkla</strong> resonemang om design och designerns roll.</p> <p>Eleven för <strong>enkla</strong> resonemang om hur design och produktutveckling har påverkats och påverkas av människors olika behov och hållbarhetskrav.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven planerar, genomför och utvärderar designprojekt med <strong>god</strong> kvalitet.</p> <p>Eleven visualiserar med <strong>god skicklighet</strong> designförslag och presenterar med <strong>säkerhet</strong> sitt resultat.</p> <p>Eleven använder med <strong>säkerhet</strong> utrustning, verktyg och material i designprocessen.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om design och designerns roll.</p> <p>Eleven för <strong>välgrundade</strong> resonemang om hur design och produktutveckling har påverkats och påverkas av människors olika behov och hållbarhetskrav.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven planerar, genomför och utvärderar designprojekt med <strong>mycket god</strong> kvalitet.</p> <p>Eleven visualiserar med <strong>mycket god skicklighet</strong> designförslag och presenterar med <strong>god säkerhet</strong> sitt resultat.</p> <p>Eleven använder med <strong>god säkerhet</strong> utrustning, verktyg och material i designprocessen.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om design och designerns roll.</p> <p>Eleven för <strong>välgrundade och nyanserade</strong> resonemang om hur design och produktutveckling har påverkats och påverkas av människors olika behov och hållbarhetskrav.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.982Z"
+}

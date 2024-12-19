@@ -1,0 +1,64 @@
+{
+  "code": "BEVK",
+  "name": "Bevakning",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:173",
+  "nameHeading": "<h2>Bevakning</h2>",
+  "description": "<p>Ämnet bevakning behandlar bevakningsverksamhet och är en del av grunden för arbete inom bevakningsområdet. Ämnet ingår som en del i utbildningen till väktare och följer de krav och regelverk som är kopplade till väktargrundutbildning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet bevakning ska syfta till att eleverna utvecklar kunskaper om bevakningsverksamhet och rättsvårdande myndigheter samt om deras organisation, roll och funktion. Eleverna ska också ges möjlighet att utveckla kunskaper om effekter av droger och läkemedelsmissbruk samt om förebyggande och åtgärdande arbete.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att handla med omdöme samt att planera, organisera och genomföra arbetsuppgifter inom en bevakningsverksamhet med hänsyn till säkerhet och arbetsmiljö. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att tillämpa lagar och andra bestämmelser som gäller för de olika verksamheterna. Därigenom ska eleverna stimuleras till ett aktivt deltagande i samhället och till ett ansvarsfullt agerande i arbetet inom bevakningsverksamheterna.</p> <p>Eleverna ska ges möjlighet att utveckla förmåga att arbeta med relevanta metoder och relevant utrustning. Undervisningen ska leda till att eleverna utvecklar förmåga att möta människor och hantera konflikter med utgångspunkt i ett etiskt förhållningssätt och alla människors lika värde.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin problemlösningsförmåga och handlingsberedskap. Genom att medverka i verksamheter och i fiktiva situationer ska eleverna ges möjlighet att få inblick i och erfarenhet av olika sammanhang inom bevakningsverksamhet. Eleverna ska också ges möjlighet att reflektera över egna och andras handlingar och attityder samt att diskutera frågor inom området.</p> <h5><em>Undervisningen i ämnet bevakning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om bevakningsverksamhet och rättsvårdande myndigheter.</li> <li>Kunskaper om olika droger och deras effekter samt om förebyggande åtgärder.</li> <li>Förmåga att utföra bevakningstjänstens arbete i enlighet med lagar och andra bestämmelser samt utifrån arbetsmiljö- och säkerhetskrav.</li> <li>Förmåga att använda metoder och utrustning inom bevakning.</li> <li>Förmåga att kommunicera och hantera konflikter utifrån ett yrkesetiskt förhållningssätt.</li> </ul><h3>Nivåer i ämnet bevakning</h3><ul><li>Nivå 1, 200 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: BEVK1000X</h3>",
+      "code": "BEVK1000X",
+      "nameHeading": "<h2>Nivå 1, 200 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "200",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet bevakning på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Rättsvårdande myndigheters organisation och roller i rättskedjan.</li> <li>Samhällets brottsbekämpande verksamhet, i relation till bevakningsverksamhet.</li> <li>Auktorisation av bevakningsverksamhet.</li> <li>Svensk narkotikapolitik.</li> <li>Preparatkännedom och symptom på droganvändning.</li> <li>Effekter av drog- och läkemedelsmissbruk samt förebyggande åtgärder.</li> <li>Olika former av bevakningsarbete som väktare normalt utför samt vad en väktare har att särskilt beakta vid utförandet av dessa.</li> <li>Bevakningsbranschens arbetsmiljöansvar i förhållande till kundens ansvar.</li> <li>Bevakningsjuridik – lagar och andra bestämmelser som gäller för bevakningsverksamhet.</li> <li>Yrkesetik, grundläggande demokratiska värderingar och etiska dilemman inom bevakningsområdet.</li> <li>Arbetsmiljö och säkerhetsaspekter i samband med ingripanden.</li> <li>Innebörden av ett säkerhetstänkande.</li> <li>Självskydd och metoder för självförsvar.</li> <li>Risker som följer med användandet av olika former av våld.</li> <li>Olaga diskriminering och mänskliga beteenden.</li> <li>Attityder och värderingar som kan påverka utförandet av arbetsuppgifter och ha betydelse vid ett ingripande.</li> <li>Förenklad handläggning av ärenden gällande ringa stöld.</li> <li>Val och användning av relevanta tekniska hjälpmedel, metoder, material och tekniker vid bevakningsarbete.</li> <li>Kommunikation och samarbete med människor utifrån ett yrkesetiskt förhållningssätt.</li> <li>Hur egna och andras attityder, värderingar och handlingar kan påverka samarbete och kommunikation.</li> <li>Konflikthantering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om samhällets rättsvårdande myndigheter, bevakningsarbete och yrkesroller samt om bevakningsverksamhetens organisation och innehåll.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om olika droger och deras effekter samt om förebyggande åtgärder.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter inom bevakningstjänsten på ett <strong>godtagbart</strong> sätt. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>viss säkerhet</strong> metoder och utrustning som passar för uppgiften inom bevakningsområdet.</p> <p>Eleven kommunicerar och hanterar konflikter med <strong>viss säkerhet</strong> utifrån ett yrkesetiskt förhållningssätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om samhällets rättsvårdande myndigheter, bevakningsarbete och yrkesroller samt om bevakningsverksamhetens organisation och innehåll.</p> <p>Eleven visar <strong>goda</strong> kunskaper om olika droger och deras effekter samt om förebyggande åtgärder.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter inom bevakningstjänsten på ett <strong>gott</strong> sätt. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>säkerhet</strong> metoder och utrustning som passar för uppgiften inom bevakningsområdet.</p> <p>Eleven kommunicerar och hanterar konflikter med <strong>säkerhet</strong> utifrån ett yrkesetiskt förhållningssätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om samhällets rättsvårdande myndigheter, bevakningsarbete och yrkesroller samt om bevakningsverksamhetens organisation och innehåll.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om olika droger och deras effekter samt om förebyggande åtgärder.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter inom bevakningstjänsten på ett <strong>mycket gott</strong> sätt. Eleven utför arbetet i enlighet med lagar och andra bestämmelser med hänsyn till arbetsmiljö och säkerhet.</p> <p>Eleven väljer och använder med <strong>god säkerhet</strong> metoder och utrustning som passar för uppgiften inom bevakningsområdet.</p> <p>Eleven kommunicerar och hanterar konflikter med <strong>god säkerhet</strong> utifrån ett yrkesetiskt förhållningssätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.972Z"
+}

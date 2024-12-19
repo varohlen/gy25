@@ -1,0 +1,67 @@
+{
+  "code": "BAN",
+  "name": "Banskötsel för hästsport",
+  "englishName": "Track maintenance for equestrian sports",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2019:11",
+  "skolfsAndring": "2022:42",
+  "nameHeading": "<h2>Banskötsel för hästsport</h2>",
+  "description": "<p>Ämnet banskötsel för hästsport behandlar skötsel av hästsportanläggningar samt yttre och inre miljöer i anslutning till dessa. Det behandlar också skötselplanering, arbetsorganisation, teknikanvändning och miljöhänsyn.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet banskötsel för hästsport ska syfta till att eleverna utvecklar förmåga att sköta hästsportanläggningar av olika slag. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika anläggningsmaterial som används inom området. I undervisningen ska eleverna ges möjlighet att utföra skötsel av banor och anläggningar såväl inom- som utomhus. Undervisningen ska också leda till att eleverna utvecklar kunskaper om skötselplaner och skötselnivåer för bedömning av skötselbehov och ekonomiska förutsättningar för ett hållbart resultat, och att teknisk utrustning används på ett säkert och ergonomiskt sätt. Undervisningen ska bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom praktiskt arbete ska eleverna ges möjlighet att dokumentera och utvärdera sin insats och utveckla ett yrkesspråk.</p> <h4>Undervisningen i ämnet banskötsel för hästsport ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om olika anläggningsmaterial och deras egenskaper.</li> <li>Kunskaper om olika skötselåtgärder med hänsyn till funktion, estetik och klimat.</li> <li>Förmåga att tolka skötselplaner som underlag för olika skötselmoment och för bedömning av skötselbehov och tidsåtgång samt att upprätta enkla skötselplaner.</li> <li>Förmåga att använda teknisk utrustning, handredskap och verktyg vid skötsel av underlag, grönytor och andra miljöer.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt kunskaper om säkerhetsrisker i arbetet.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Förmåga att utvärdera arbetsprocessen och resultatet samt att dokumentera sitt arbete.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Banskötsel för hästsport, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: BANBAN0</h3>",
+      "code": "BANBAN0",
+      "nameHeading": "<h2>Banskötsel för hästsport, 100 poäng</h2>",
+      "name": "Banskötsel för hästsport",
+      "englishName": "Track maintenance for equestrian sports",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen banskötsel för hästsport omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul style=\"list-style-type: disc;\"> <li>Olika anläggningsmaterials egenskaper, däribland hållfasthet, packningsförmåga och dräneringsegenskaper.</li> <li>Metoder för att planera arbetet samt beräkningar för att lösa arbetsuppgifter inom banskötsel.</li> <li>För banan specifika arbetsuppgifter utifrån banans konstruktion, användningsområde och funktion.</li> <li>Organisering, planering och genomförande av arbetsuppgifter i samband med banskötsel.</li> <li>Skötselplaner och kostnader kopplat till banskötsel.</li> <li>Arbete med handredskap och med relevant och modern teknisk utrustning.</li> <li>Ergonomi, arbetsmiljö och säkerhet i samband med banskötsel.</li> <li>Lagar och andra bestämmelser med koppling till hästsport och banskötsel, till exempel miljölagstiftning och djurskyddslagstiftning.</li> <li>Bedömning av resultatet, både funktionellt och estetiskt.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver<strong> översiktligt</strong> olika material och deras användning inom banskötsel. Eleven redogör <strong>översiktligt</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat. Dessutom upprättar eleven en <strong>enkel</strong> skötselplan och motiverar <strong>översiktligt </strong>sina förslag i den. I skötselplanen gör eleven också en <strong>enkel </strong>kostnadskalkyl.</p> <p>Eleven organiserar och genomför <strong>enkla</strong> arbetsuppgifter inom banskötsel. Dessutom löser eleven <strong>i samråd </strong>med handledare de problem som uppkommer. Resultatet av arbetet är <strong>tillfredsställande </strong>vad gäller utförande och estetik. I arbetet använder eleven <strong>med viss säkerhet </strong>material, teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>översiktligt </strong>säkerhetsrisker i arbetet. Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver<strong> utförligt</strong> olika material och deras användning inom banskötsel. Eleven redogör <strong>utförligt</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat. Dessutom upprättar eleven en skötselplan och motiverar <strong>utförligt </strong>sina förslag i den. I skötselplanen gör eleven också en<strong> välgrundad </strong>kostnadskalkyl.</p> <p>Eleven organiserar och genomför arbetsuppgifter inom banskötsel. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppkommer. Resultatet av arbetet är <strong>tillfredsställande </strong>vad gäller utförande och estetik. I arbetet använder eleven <strong>med viss säkerhet </strong>material, teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>utförligt </strong>säkerhetsrisker i arbetet. Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver<strong> utförligt och nyanserat</strong> olika material och deras användning inom banskötsel. Eleven redogör <strong>utförligt och nyanserat</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat. Dessutom upprättar eleven en <strong>avancerad</strong> skötselplan och motiverar <strong>utförligt och nyanserat </strong>sina förslag i den. I skötselplanen gör eleven också en <strong>välgrundad och nyanserad </strong>kostnadskalkyl.</p> <p>Eleven organiserar och genomför <strong>komplexa</strong> arbetsuppgifter inom banskötsel. Dessutom löser eleven <strong>efter samråd </strong>med handledare de problem som uppkommer. Resultatet av arbetet är <strong>gott </strong>vad gäller utförande och estetik. I arbetet använder eleven <strong>med säkerhet </strong>material, teknisk utrustning och handredskap.</p> <p>Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>utförligt och nyanserat </strong>säkerhetsrisker i arbetet. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.944Z"
+}

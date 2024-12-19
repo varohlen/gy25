@@ -1,0 +1,92 @@
+{
+  "code": "PEDG",
+  "name": "Pedagogik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:85",
+  "nameHeading": "<h2>Pedagogik</h2>",
+  "description": "<p>Pedagogik är en samhällsvetenskaplig disciplin som är nära knuten till psykologi, sociologi och filosofi. Ämnet pedagogik tar utgångspunkt i vetenskapen om människors lärande i olika miljöer och fokuserar på mötet mellan människor utifrån individ-, grupp- och ledarperspektiv.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet pedagogik ska syfta till att eleverna utvecklar kunskaper om hur människor lär och utvecklas samt om olika pedagogiska teorier om det. Eleverna ska ges möjlighet att utveckla kunskaper om hur synen på kunskap och lärande har varierat över tid och hur det i sin tur har påverkat undervisning i olika sammanhang. Eleverna ska också ges möjlighet att utveckla förståelse av människors växande i olika miljöer samt öppenhet i fråga om människors olikheter.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, genomföra, dokumentera och utvärdera olika aktiviteter samt att leda människor i olika aktiviteter. Eleverna ska även ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området. Undervisningen ska bidra till att eleverna utvecklar förmåga att leda och organisera en verksamhet utifrån olika metoder och teorier.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människors interaktion och kommunikation samt förmåga att på ett pedagogiskt sätt stödja och stimulera interaktion och kommunikation i samarbeten och möten. Undervisningen ska leda till att eleverna utvecklar förmåga att möta och pedagogiskt leda människor i olika situationer och skapa goda villkor för människors lärande och växande. Därigenom ska undervisningen ge en god grund för arbete inom pedagogiska verksamheter och bidra till elevernas personliga utveckling.</p> <p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen och eleverna ska vid olika tillfällen ges möjlighet att välja både former för och innehåll i pedagogiska verksamheter. Genom fältstudier eller medverkan i olika pedagogiska verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av pedagogiska sammanhang. Eleverna ska även ges möjlighet att reflektera över och diskutera ämnesinnehållet och centrala begrepp samt egna och andras handlingar och attityder i olika pedagogiska sammanhang. Undervisningen ska också ge eleverna möjlighet att värdera och använda information från olika källor.</p> <h5><em>Undervisningen i ämnet pedagogik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om människors lärande och växande samt om pedagogiska begrepp och teorier inom området.</li> <li>Förmåga att planera, genomföra, dokumentera och utvärdera samt pedagogiskt leda människor i olika aktiviteter i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att kommunicera och samverka för att möta människor i olika situationer.</li> </ul><h3>Nivåer i ämnet pedagogik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PEDG1000X</h3>",
+      "code": "PEDG1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pedagogik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Hur synen på kunskap, lärande, undervisning och utbildning har varierat över tid.</li> <li>Hur individer, roller och grupper utvecklas.</li> <li>Samband mellan pedagogiska förhållningssätt, arbetssätt och lärande.</li> <li>Orientering om begreppen kunskap, lärande, undervisning och utbildning.</li> <li>Introduktion till pedagogiska begrepp, teorier och teoretiska perspektiv.</li> <li>Stöd och stimulans för människors lärande, växande och deltagande i olika situationer.</li> <li>Planering, genomförande, dokumentation och utvärdering av olika aktiviteter.</li> <li>Pedagogiskt ledarskap utifrån olika metoder, redskap och teorier.</li> <li>Hur individer, grupper och det sociala sammanhanget påverkar och påverkas av ledaren.</li> <li>Lagar och andra bestämmelser som gäller pedagogiska verksamheter och pedagogiskt arbete, däribland bestämmelser och riktlinjer gällande sekretess.</li> <li>Demokratisk värdegrund.</li> <li>Samhällets mediekulturer och användningen av sociala medier ur ett etiskt perspektiv.</li> <li>Olika kommunikationsmönster och kommunikationshinder.</li> <li>Interaktion och kommunikation i samarbeten och möten med människor.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PEDG2000X</h3>",
+      "code": "PEDG2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pedagogik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Människors olika villkor för lärande och växande samt hur synen på normalitet och avvikelse påverkar detta.</li> <li>Det sociala sammanhanget och gruppens betydelse för lärande.</li> <li>Olika pedagogiska arbetssätt och lärmiljöer samt deras påverkan på lärandet.</li> <li>Centrala pedagogiska begrepp, teorier, modeller och metoder.</li> <li>Hur ledare kan planera, genomföra, dokumentera och utvärdera aktiviteter utifrån olika teorier, metoder och redskap.</li> <li>Pedagogiskt ledarskap och verksamhetsplanering utifrån olika teorier och metoder.</li> <li>Konflikter och olika metoder för konfliktlösning.</li> <li>Lagar och andra bestämmelser som gäller pedagogiska verksamheter och pedagogiskt arbete, däribland bestämmelser om likabehandling, diskriminering och sekretess.</li> <li>Demokratisk värdegrund samt genus- och jämställdhetsperspektiv.</li> <li>Integration och segregation.</li> <li>Samhällets mediekulturer och användningen av sociala medier samt hur det påverkar samhällsutvecklingen.</li> <li>Olika kommunikationsmönster och kommunikationshinder samt strategier för att förtydliga och uppfatta betydelsebärande ord, till exempel med hjälp av bilder och rörelser.</li> <li>Hur sociala och kulturella förhållanden kan påverka människors interaktion och kommunikation i samarbeten och möten.</li> <li>Användning av samtal som redskap i kommunikation.</li> <li>Användning av informationsteknik som redskap för kommunikation och information.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: PEDG3000X</h3>",
+      "code": "PEDG3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet pedagogik på nivå 3 ska behandla följande centrala innehåll:</p> <ul> <li>Människors lärande och utveckling i olika sammanhang och utifrån olika teorier.</li> <li>Hur den egna kunskapssynen påverkar lärande och olika handlingar i pedagogiska sammanhang.</li> <li>Hur kunskapssyn och värderingar konstrueras, lever kvar och förändras inom olika grupper av människor.</li> <li>Fördjupning i en eller flera pedagogiska teorier som ligger till grund för arbetet i pedagogiska verksamheter.</li> <li>Ledarens roll samt pedagogiska metoder för verksamhetens, gruppens och individens utveckling.</li> <li>Hur ledare kan planera, organisera, genomföra, dokumentera och utvärdera en aktivitet utifrån uppsatta mål och använda metoder och redskap anpassade för situationen.</li> <li>Pedagogiskt ledarskap vid konflikter och konflikthantering samt olika metoder för konfliktlösning.</li> <li>Lagar och andra bestämmelser som gäller pedagogiska verksamheter och pedagogiskt arbete samt systematiskt arbetsmiljöarbete och dess lagstiftning.</li> <li>Demokratisk värdegrund och internationella överenskommelser om mänskliga rättigheter.</li> <li>Samhällets mediekulturer och användningen av sociala medier samt deras betydelse för samhällsutvecklingen och lärandet.</li> <li>Hur rollspel och drama kan användas som pedagogiskt verktyg och metod för att utveckla kommunikation och samarbete.</li> <li>Strategier för att förtydliga och uppfatta betydelsebärande ord, i syfte att underlätta kommunikation och samtal, till exempel med hjälp av gester och frågor.</li> <li>Människors interaktion och kommunikation i olika sammanhang och utifrån olika teorier.</li> <li>Interaktion och kommunikation vid konflikter och konflikthantering.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör på ett <strong>godtagbart</strong> sätt för människors olika villkor för lärande och växande. Eleven använder centrala pedagogiska begrepp med <strong>viss säkerhet</strong> samt för <strong>delvis</strong> underbyggda resonemang om teorier som ligger till grund för pedagogiskt arbete.</p> <p>Eleven planerar, genomför och leder olika pedagogiska aktiviteter med <strong>godtagbart</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>enkelt</strong> sätt samt ger förslag på hur arbetet kan utvecklas. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar på ett pedagogiskt sätt med <strong>viss säkerhet</strong>.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör på ett <strong>gott</strong> sätt för människors olika villkor för lärande och växande. Eleven använder centrala pedagogiska begrepp med <strong>säkerhet</strong> samt för <strong>väl</strong> underbyggda resonemang om teorier som ligger till grund för pedagogiskt arbete.</p> <p>Eleven planerar, genomför och leder olika pedagogiska aktiviteter med <strong>gott</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>utvecklat</strong> sätt samt ger förslag på hur arbetet kan utvecklas. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar på ett pedagogiskt sätt med <strong>säkerhet</strong>.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör på ett <strong>mycket gott</strong> sätt för människors olika villkor för lärande och växande. Eleven använder centrala pedagogiska begrepp med <strong>god säkerhet</strong> samt för <strong>mycket väl</strong> underbyggda resonemang om teorier som ligger till grund för pedagogiskt arbete.</p> <p>Eleven planerar, genomför och leder olika pedagogiska aktiviteter med <strong>mycket gott</strong> resultat. Eleven dokumenterar och utvärderar aktiviteterna på ett <strong>välutvecklat</strong> sätt samt ger förslag på hur arbetet kan utvecklas. Eleven arbetar i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven bemöter, kommunicerar och samverkar på ett pedagogiskt sätt med <strong>god säkerhet</strong>.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.058Z"
+}

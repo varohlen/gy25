@@ -1,0 +1,64 @@
+{
+  "code": "UNGD",
+  "name": "Ungdomskunskap",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:243",
+  "nameHeading": "<h2>Ungdomskunskap</h2>",
+  "description": "<p>Ämnet ungdomskunskap är ett samhällsvetenskapligt ämne som tar sin utgångspunkt i samhällsfenomenet ungdom sett ur ett socialpsykologiskt och sociologiskt perspektiv. Det är ett teoretiskt och empiriskt förankrat ämne som studerar ungdomar i olika sociala sammanhang.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ungdomskunskap ska syfta till att eleverna utvecklar kunskaper om ungdomars villkor och förutsättningar i samhället. Eleverna ska också ges möjlighet att utveckla kunskaper om vad det innebär att vara ung i ett samhälle genom att studera hur olika socialpsykologiska processer och sociala faktorer påverkar ungas socialisering och möjligheter att forma identiteter. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om skillnader mellan att vara ung i dag och historiskt.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt och förmåga att använda samhällsvetenskapliga begrepp och teorier för att förstå empiri från olika källor och dra slutsatser utifrån dessa.</p> <p>Undervisningen ska vidare ge eleverna möjlighet att prova på metoder för insamling och bearbetning av kvalitativa och kvantitativa data.</p> <h5><em>Undervisningen i ämnet ungdomskunskap ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om villkor för att vara ung i samhället sett ur historiska, socialpsykologiska och sociologiska perspektiv.</li> <li>Kunskaper om ungdomars identitets- och socialiseringsprocesser.</li> <li>Förmåga att analysera sociala företeelser som berör ungdomar med hjälp av samhällsvetenskapliga begrepp, teorier och metoder.</li> </ul><h3>Nivåer i ämnet ungdomskunskap</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: UNGD1000X</h3>",
+      "code": "UNGD1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet ungdomskunskap på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Historiska förändringar av åldersstadieindelning, till exempel barndom, ungdom och vuxen.</li> <li>Ungdomars livssituation och sociala villkor i relation till hälsa samt olika typer av social stratifiering med utgångspunkt i till exempel genus, klass och etnicitet.</li> <li>Ungdomars tankar om livet och framtiden under olika tider och i olika sammanhang.</li> <li>Medialiseringens och globaliseringens konsekvenser för ungas liv, till exempel påverkan på sexuell reproduktiv hälsa och tankar om demokratiska rättigheter och skyldigheter.</li> <li>Identitets- och socialiseringsprocesser i gränslanden mellan barn, ungdomstid och vuxenliv utifrån behovet av tillhörighet och åtskillnad.</li> <li>Användning av sociologiska och socialpsykologiska begrepp och teorier i relation till sociala företeelser som berör unga.</li> <li>Användning av metoder för insamling och bearbetning av kvalitativa och kvantitativa data, till exempel intervjuer med enklare kodning och enkäter med grundläggande statistisk analys.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om ungas villkor i samhället och för <strong>enkla</strong> resonemang om dessa villkor sett ur olika perspektiv.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om identitets- och socialiseringsprocesser för ungdomar och för <strong>enkla</strong> resonemang om dessa processer.</p> <p>Eleven gör <strong>enkla</strong> analyser av sociala företeelser som berör ungdomar med hjälp av samhällsvetenskapliga begrepp, teorier och metoder.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om ungas villkor i samhället och för <strong>välgrundade</strong> resonemang om dessa villkor sett ur olika perspektiv.</p> <p>Eleven visar <strong>goda</strong> kunskaper om identitets- och socialiseringsprocesser för ungdomar och för <strong>välgrundade</strong> resonemang om dessa processer.</p> <p>Eleven gör <strong>utvecklade</strong> analyser av sociala företeelser som berör ungdomar med hjälp av samhällsvetenskapliga begrepp, teorier och metoder.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om ungas villkor i samhället och för <strong>välgrundade och nyanserade</strong> resonemang om dessa villkor sett ur olika perspektiv.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om identitets- och socialiseringsprocesser för ungdomar och för <strong>välgrundade och nyanserade</strong> resonemang om dessa processer.</p> <p>Eleven gör <strong>välutvecklade</strong> analyser av sociala företeelser som berör ungdomar med hjälp av samhällsvetenskapliga begrepp, teorier och metoder.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.097Z"
+}

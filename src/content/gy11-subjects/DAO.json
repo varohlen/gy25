@@ -1,0 +1,295 @@
+{
+  "code": "DAO",
+  "name": "Dator- och kommunikationsteknik",
+  "englishName": "Computers and ICT",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:148",
+  "skolfsAndring": "2022:68",
+  "nameHeading": "<h2>Dator- och kommunikationsteknik</h2>",
+  "description": "<p>Ämnet dator- och kommunikationsteknik ger en grund för yrkesmässig verksamhet med installationer och underhåll av hård- och mjukvara. Ämnet behandlar också grundläggande elektronikkunskaper eftersom dator- och kommunikationsteknikens utrustningar och apparater är uppbyggda med elektronik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet dator- och kommunikationsteknik ska syfta till att eleverna utvecklar förmåga att arbeta med vanligt förekommande system och komponenter inom dator- och kommunikationsområdena. Genom undervisningen ska eleverna därför ges möjlighet att utveckla kunskaper om system, enheter, komponenter, metoder och arbetssätt som används när datorer är uppkopplade i befintliga nätverk. Eleverna ska också ges möjlighet att utveckla förmåga att lösa problem, utföra felsökningar och åtgärda fel, både självständigt och i samarbete med andra. Undervisningen ska utveckla elevernas kunskaper om datorsäkerhet och förmåga att arbeta med hänsyn till hållbar utveckling. Den ska även bidra till att eleverna utvecklar förmåga att möta och kommunicera med uppdragsgivare och användare på ett serviceinriktat sätt. </p><p>Undervisningen ska varva praktiska och laborativa moment med teoretiska moment. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att hantera och behandla teknisk utrustning. Eleverna ska även ges möjlighet att uttrycka sig både skriftligt och muntligt genom att dokumentera sitt arbete.</p><h4>Undervisningen i ämnet dator- och kommunikationsteknik ska ge eleverna förutsättningar att utveckla följande:</h4><ol> <li>Kunskaper om uppbyggnad och funktion hos datorer, dator- och kommunikationssystem samt olika typer av nätverk.</li> <li>Färdigheter i att planera och utföra arbete i datorer samt i dator- och kommunikationssystem.</li> <li>Färdigheter i att utföra optimering, administration och diagnostisering av, samt åtgärda fel i, dator- och kommunikationssystem. </li> <li>Förmåga att använda instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt att dokumentera sitt arbete. </li> <li>Förmåga att ge stöd och support till användare på ett serviceinriktat sätt.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Datorteknik 1a, 100 poäng. </li> <li>Datorteknik 1b, 100 poäng. </li> <li>Dator- och nätverksteknik, 100 poäng. </li> <li>Datorsamordning och support, 100 poäng, som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.</li> <li>Digital kommunikationsteknik, 100 poäng, som bygger på kursen datorteknik 1a eller kursen dator- och nätverksteknik.</li> <li>Industriell informationsteknik, 100 poäng, som bygger på kursen datorteknik 1a.</li> <li>Multimediasystem, 100 poäng, som bygger på kursen datorteknik 1a.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: DAODAT01a</h3>",
+      "code": "DAODAT01a",
+      "nameHeading": "<h2>Datorteknik 1a, 100 poäng</h2>",
+      "name": "Datorteknik 1a",
+      "englishName": "Computer technology 1a",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen datorteknik 1a omfattar punkterna 1–2 och 4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Datorsystems uppbyggnad, komponenter och kringutrustningar.</li> <li>Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.</li> <li>Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.</li> <li>Enklare rit- och simuleringsprogram.</li> <li>Begreppen filer, filformat, komprimering och kryptering.</li> <li>Fältbussars användning inom till exempel industri-, el- och andra teknikområden.</li> <li>Rutiner för säkerhetskopiering och installation av virusskydd.</li> <li>ESD-säker hantering av mikroprocessorer och minnen (Electro Static Discharge).</li> <li>Planering, montering, konfigurering samt driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning eller dokumentation.</li> <li>Installation och konfigurering av applikationsprogram.</li> <li>Installation och konfigurering av datorer i ett befintligt nätverk.</li> <li>Installation av skrivare och andra enheter i nätverk.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>i samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med<strong> gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem. Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>efter samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med<strong> mycket gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla och även mer avancerade</strong> fel i datorer och datorsystem. Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>efter samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>mycket gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAODAT01b</h3>",
+      "code": "DAODAT01b",
+      "nameHeading": "<h2>Datorteknik 1b, 100 poäng</h2>",
+      "name": "Datorteknik 1b",
+      "englishName": "Computer technology 1b",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen datorteknik 1b omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Datorsystems uppbyggnad och arbetssätt.</li> <li>Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.</li> <li>Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.</li> <li>Begreppen filer, filformat, komprimering och kryptering.</li> <li>Rutiner för säkerhetskopiering och installation av virusskydd.</li> <li>Installation, konfigurering och driftsättning av datorsystem för till exempel administration, kommunikation, dokumentation och enklare affärssystem.</li> <li>Installation och konfigurering av applikationsprogram samt administration av behörigheter och lösenord.</li> <li>Installation och konfigurering av datorer i ett befintligt nätverk.</li> <li>Installation av skrivare och andra enheter i nätverk. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>i samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>visst </strong>handlag utrustning och programvaror samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>efter samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>gott </strong>handlag utrustning och programvaror samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket</strong> <strong>gott </strong>handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel och även mer avancerad</strong> administration i datorer och datorsystem. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar och konfigurerar eleven <strong>efter samråd </strong>med handledare datorer i ett befintligt nätverk. Eleven hanterar med <strong>mycket gott </strong>handlag utrustning och programvaror samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och </strong><strong>utförlig</strong> dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAODAC0</h3>",
+      "code": "DAODAC0",
+      "nameHeading": "<h2>Dator- och nätverksteknik, 100 poäng</h2>",
+      "name": "Dator- och nätverksteknik",
+      "englishName": "Computers and network technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen dator- och nätverksteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Hård- och mjukvaruinstallation, uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.</li> <li>Lokala nätverk, uppbyggnad och arbetssätt.</li> <li>Protokoll för dataöverföring via nätverk.</li> <li>Olika processortyper och deras användningsområden.</li> <li>Vanliga operativsystem och deras egenskaper.</li> <li>Prestanda för olika datalagringmedia. Lagring av data på optiska medier.</li> <li>Begreppen switchning och routning.</li> <li>Begreppet virtuella nät.</li> <li>Interna och externa bussar, deras användningsområden och prestanda.</li> <li>Säkerhetskopiering och virusskydd.</li> <li>Installation av kringutrustning och uppgradering av drivrutiner.</li> <li>Installation och underhåll av lokal skrivare.</li> <li>Konfigurering av grafikkort.</li> <li>Datorns start- och bootsekvenser samt inställning och uppgradering av dess BIOS (Basic Input/Output System) eller firmware.</li> <li>Kontroll och optimering av datorers och datorsystems prestanda och funktion.</li> <li>Felsökning i datorer och datorsystem.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar eleven <strong>i samråd </strong>med handledare datorer i lokala nätverk. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar eleven <strong>efter samråd </strong>med handledare datorer i lokala nätverk. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i nätverkets uppbyggnad</strong><strong>.</strong></p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket gott </strong>handlag <strong>avancerad </strong>hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Dessutom installerar eleven<strong> efter samråd </strong>med handledare datorer i lokala nätverk. Eleven hanterar med <strong>mycket gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAODAT0</h3>",
+      "code": "DAODAT0",
+      "nameHeading": "<h2>Datorsamordning och support, 100 poäng</h2>",
+      "name": "Datorsamordning och support",
+      "englishName": "Computer coordination and support",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 4,
+      "description": "<p>Kursen datorsamordning och support omfattar punkterna 2–5 under rubriken Ämnets syfte, med särskild betoning på punkt 5.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Grundläggande felsökningsmetodik.</li> <li>Systemintegration.</li> <li>Teknisk dokumentation av datorsystem.</li> <li>Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.</li> <li>Analysera användarkrav och översätta dem till konkreta lösningar. </li> <li>Pedagogisk handledning av it-system. Det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.</li> <li>Licenstyper och licenshantering.</li> <li>Utvärdering och val av it-produkter på marknaden i dagsläget.</li> <li>Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag felsökning samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem. Dessutom planerar och utför eleven <strong>i samråd </strong>med handledare och <strong>med</strong> <strong>viss säkerhet </strong>pedagogisk handledning och support till kund. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav. </p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag felsökning samt åtgärdar fel i datorer och datorsystem. Dessutom planerar och utför eleven <strong>efter samråd </strong>med handledare och <strong>med</strong> <strong>viss säkerhet </strong>pedagogisk handledning och support till kund. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav. </p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket gott </strong>handlag felsökning samt åtgärdar <strong>avancerade </strong>fel i datorer och datorsystem. Dessutom planerar och utför eleven <strong>efter samråd </strong>med handledare och <strong>med</strong> <strong>säkerhet </strong>pedagogisk handledning och support till kund. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>mycket gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete. </p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav. </p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAODIG0</h3>",
+      "code": "DAODIG0",
+      "nameHeading": "<h2>Digital kommunikationsteknik, 100 poäng</h2>",
+      "name": "Digital kommunikationsteknik",
+      "englishName": "Digital communication technology",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 5,
+      "description": "<p>Kursen digital kommunikationsteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Operativsystem för mobila enheter.</li> <li>Kommunikationsnät för mobila datorutrustningar.</li> <li>Datakommunikation via satellit.</li> <li>Referensmodeller och standarder för datakommunikation.</li> <li>Integritetsaspekter och säkerhet vid användning av trådlösa enheter.</li> <li>Installation och konfigurering av trådlösa enheter och kommunikationssystem i olika miljöer.</li> <li>Konfigurering, uppgradering och installation av applikationer i mobila enheter.</li> <li>Antennteknik och antenner för trådlösa nät.</li> <li>Konfigurering av trådlösa accesspunkter. </li> <li>Inställning av trådlösa nätverkskort.</li> <li>Installation och konfigurering av bryggor, routrar och gateways.</li> <li>Konfigurering av säkerhetsfunktioner och kryptering.</li> <li>Felsökning i trådlösa lokala nätverk och utrustningar.</li> <li>Kontroll och uppmätning av överföringshastigheter och signalstyrkor.</li> <li>Metoder för diagnostisering, spårning och felsökning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar <strong>enkla </strong>fel i digitala kommunikationssystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar fel i digitala kommunikationssystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i digitala kommunikationssystem.</strong></p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket </strong><strong>gott </strong>handlag <strong>avancerad </strong>installation, konfigurering, diagnostisering, spårning och felsökning samt åtgärdar <strong>avancerade </strong>fel i digitala kommunikationssystem. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>mycket </strong><strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAOINU0</h3>",
+      "code": "DAOINU0",
+      "nameHeading": "<h2>Industriell informationsteknik, 100 poäng</h2>",
+      "name": "Industriell informationsteknik",
+      "englishName": "Industrial ICT",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 6,
+      "description": "<p>Kursen industriell informationsteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Vanligt förekommande övergripande programvaror för kontroll, övervakning och datainsamling inom elkrafts- och energidistribution och i fastigheter, tillverknings- och processindustrin, till exempel SCADA (Supervisory Control and Data Acquisition).</li> <li>HMI (Human Machine Interface), dvs. användning av programvara för visualisering av data i realtid till ett säkert och lättolkat gränssnitt.</li> <li>Vanligt förekommande fältbussar och trådlös informationsteknik inom elkrafts- och energidistribution, i fastigheter samt i tillverknings- och processindustrin.</li> <li>Driftsäkerhet och spårbarhet inom industriell informationsteknik.</li> <li>Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglerteknisk applikation till persondator. Till exempel adresserad I/O-enhet (Input/Output), som kan läsa en mätgivares värde till datorn.</li> <li>Installation och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient (Open Connectivity).</li> <li>Analyser och bedömningar av insamlad data, med avseende på till exempel datakvalitet och funktion.</li> <li>Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.</li> <li>Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).</li> <li>Systematisk dokumentation, med hjälp av till exempel loggningsdata eller databashanterare.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data. Dessutom planerar och utför eleven <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete. Dessutom gör eleven en <strong>enkel</strong> bedömning av kvaliteten på insamlad data.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data. Dessutom planerar och utför eleven <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete. Dessutom gör eleven en <strong>välgrundad</strong> bedömning av kvaliteten på insamlad data.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket </strong><strong>gott </strong>handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data. Dessutom planerar och utför eleven <strong>efter samråd </strong>med handledare och med <strong>mycket </strong><strong>gott </strong>handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>mycket </strong><strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete. Dessutom gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kvaliteten på insamlad data.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: DAOMUL0</h3>",
+      "code": "DAOMUL0",
+      "nameHeading": "<h2>Multimediasystem, 100 poäng</h2>",
+      "name": "Multimediasystem",
+      "englishName": "Multimedia systems",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 7,
+      "description": "<p>Kursen multimediasystem omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Konfigurering, anpassning och sammankoppling av olika enheter till ett fungerande multimediasystem.</li> <li>Konfigurering av grafikkort mot bildskärmar, tv och projektorer samt installation av utrustning för videokonferenser.</li> <li>Konfigurering av mediaspelare och webbläsare.</li> <li>Nätverksfunktioner och konfigurering av tv-apparater, dekodrar och tv-kort till datorer.</li> <li>Installation och konfigurering av ip-telefonutrustning (internetprotokoll).</li> <li>Konfigurering av digitala ljudkort och ljudsystem och inkoppling av högtalarsystem.</li> <li>Installation av server för hemmabruk.</li> <li>Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.</li> <li>Anpassning av molntjänster och internetbaserade tjänster.</li> <li>Kodningsmetoder och skydd av upphovsrätten.</li> <li>Systematisk felsökning och åtgärdande av enkla fel.</li> <li>Stöd och support till användare av multimediadatorer och multimediasystem. </li> <li>Konsumenttjänstlagen vid support och hemservice. </li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>i samråd </strong>med handledare och med <strong>visst </strong>handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla </strong>fel i multimediasystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>visst </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>gott </strong>handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla </strong>fel i multimediasystem. Resultatet är <strong>tillfredsställande </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med viss säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås. <strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i multimediasystemets uppbyggnad</strong>.</p><p>Eleven planerar och utför <strong>efter samråd </strong>med handledare och med <strong>mycket </strong><strong>gott </strong>handlag <strong>avancerad </strong>installation, konfigurering, sammankoppling av enheter och systematisk felsökning samt åtgärdar fel i multimediasystem. Resultatet är <strong>gott </strong>i fråga om funktion, säkerhet och kvalitet. Eleven hanterar med <strong>mycket </strong><strong>gott </strong>handlag utrustning och verktyg samt utför arbetet på ett säkert sätt. I arbetet använder eleven <strong>med säkerhet </strong>instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig </strong>dokumentation av sitt arbete.</p><p>Eleven ger <strong>med säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt.</p><p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.969Z"
+}

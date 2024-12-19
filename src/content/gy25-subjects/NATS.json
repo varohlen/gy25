@@ -1,0 +1,64 @@
+{
+  "code": "NATS",
+  "name": "Naturvetenskaplig specialisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:81",
+  "nameHeading": "<h2>Naturvetenskaplig specialisering</h2>",
+  "description": "<p>Naturvetenskaplig specialisering möjliggör en inomvetenskaplig eller tvärvetenskaplig fördjupning inom ett valt naturvetenskapligt område.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet naturvetenskaplig specialisering ska syfta till att eleverna utvecklar fördjupade kunskaper om begrepp, modeller, teorier, samband och arbetsmetoder inom ett valt naturvetenskapligt område. Undervisningen ska stimulera elevernas nyfikenhet, kreativitet och handlingsberedskap att påverka sitt liv och samhället.</p> <p>Undervisningen ska leda till att eleverna utvecklar förmåga att analysera och lösa problem med koppling till valt område. Eleverna ska ges möjlighet att granska, analysera och värdera information samt pröva antaganden med koppling till valt område, vetenskapliga arbetsmetoder och hållbar utveckling. På så sätt ska eleverna ges möjlighet att utveckla förmåga att göra välgrundade val och diskutera samhälleliga och etiska frågor utifrån en naturvetenskaplig utgångspunkt. Undervisningen ska även ge eleverna möjlighet att kommunicera kunskaper, slutsatser och ställningstaganden på olika sätt med hjälp av naturvetenskapens begrepp och uttrycksformer.</p> <p>Undervisningen ska behandla aktuell forskning och historisk utveckling inom valt område och eleverna ska få reflektera över det valda områdets betydelse inom olika yrkesområden, för människors levnadsvillkor och för samhället i stort.</p> <p>Genom praktiskt arbete ska eleverna ges möjlighet att utveckla förmåga att genomföra systematiska naturvetenskapliga undersökningar utifrån olika frågeställningar. På så sätt ska eleverna ges möjlighet att fördjupa sin förståelse av naturvetenskapens karaktär och av hur naturvetenskaplig kunskap växer fram. I det praktiska arbetet ska eleverna få använda naturvetenskapliga metoder och olika typer av utrustning samt utveckla sin förmåga att arbeta på ett säkert sätt.</p> <h5><em>Undervisningen i ämnet naturvetenskaplig specialisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om naturvetenskapens begrepp, modeller, teorier och samband inom valt område.</li> <li>Förmåga att använda kunskaper i naturvetenskap för att analysera och lösa problem i ämnesrelaterade frågor, granska information och kommunicera med ett naturvetenskapligt språk.</li> <li>Förmåga att genomföra systematiska undersökningar med naturvetenskapliga arbetsmetoder.</li> <li>Kunskaper om naturvetenskapens betydelse för utveckling inom vetenskap och samhälle.</li> </ul><h3>Nivåer i ämnet naturvetenskaplig specialisering</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1a2 eller 1b i ämnet fysik, nivå 1a2 eller 1b i ämnet naturkunskap, nivå 1 i ämnet biologi eller nivå 1 i ämnet kemi.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATS1000X</h3>",
+      "code": "NATS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet naturvetenskaplig specialisering på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom ett valt område.</li> <li>Begrepp, modeller, teorier, samband och metoder inom valt område samt hur de utvecklas över tid.</li> <li>Tillämpningar inom valt område, till exempel i samarbete med institutioner och organisationer i det omgivande samhället.</li> <li>Det valda områdets betydelse för vetenskap, individ och samhälle med exempel från historiska och aktuella händelser.</li> <li>Frågor om etik och hållbar utveckling med koppling till valt område.</li> <li>Naturvetenskapliga arbetsmetoder inom valt område. Formulering av frågeställningar, planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li> <li>Granskning av information och argumentation inom valt område. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om valt områdes begrepp, modeller och teorier samt ger <strong>enkla</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar och löser <strong>enkla</strong> problem inom valt område. Dessutom kommunicerar eleven i frågor som rör området med <strong>godtagbar</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>i huvudsak systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>enkla</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>enkla</strong> resonemang om vetenskapen inom det valda området och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om valt områdes begrepp, modeller och teorier samt ger <strong>utvecklade</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar och löser <strong>relativt komplexa</strong> problem inom valt område. Dessutom kommunicerar eleven i frågor som rör området med <strong>god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>systematiskt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>utvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om vetenskapen inom det valda området och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om valt områdes begrepp, modeller och teorier samt ger <strong>välutvecklade</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar och löser <strong>komplexa</strong> problem inom valt område. Dessutom kommunicerar eleven i frågor som rör området med <strong>mycket god</strong> naturvetenskaplig underbyggnad och med användning av ämnesspecifika begrepp och uttrycksformer.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet, <strong>systematiskt och ändamålsenligt</strong> sätt. Eleven redovisar sina undersökningar och för <strong>välutvecklade</strong> resonemang om metod och resultat.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om vetenskapen inom det valda området och dess betydelse för människors levnadsvillkor och samhällsutvecklingen.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.056Z"
+}

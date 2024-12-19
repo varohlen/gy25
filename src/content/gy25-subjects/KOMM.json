@@ -1,0 +1,78 @@
+{
+  "code": "KOMM",
+  "name": "Kommunikationsnät",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:20",
+  "nameHeading": "<h2>Kommunikationsnät</h2>",
+  "description": "<p>I samhället finns en stor mängd teknisk utrustning som förutsätter fungerande system för kommunikation. Ämnet kommunikationsnät behandlar uppbyggnad av och arbete med olika kommunikationsnät.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet kommunikationsnät ska syfta till att eleverna utvecklar förmåga att installera, underhålla och reparera kommunikationsnät. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika komponenters egenskaper och om hur verktyg används på ett säkert och hållbart sätt. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att tolka och använda ritningar, instruktioner och arbetsbeskrivningar på både svenska och engelska. På så vis ska undervisningen bidra till att eleverna utvecklar ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete med kommunikationsnät.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet, standarder, lagar och andra bestämmelser inom området samt tillfällen att själva söka information om installationer. Undervisningen ska leda till att eleverna utvecklar förmåga att självständigt och tillsammans med andra lösa problem som uppkommer under arbetets gång samt att dokumentera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att upprätthålla säkerheten i installationerna. I undervisningen ska både praktiska och teoretiska moment ingå.</p> <h5><em>Undervisningen i ämnet kommunikationsnät ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika kommunikationsnät.</li> <li>Förmåga att planera, utföra och dokumentera arbetsuppgifter i enlighet med standarder, lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda verktyg och andra hjälpmedel.</li> <li>Förmåga att installera, kontrollera och driftsätta kommunikationsnät på ett säkert sätt.</li> <li>Förmåga att felsöka och reparera olika kommunikationsnät.</li> </ul><h3>Nivåer i ämnet kommunikationsnät</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet elteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: KOMM1000X</h3>",
+      "code": "KOMM1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kommunikationsnät på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Data- och medienätens uppbyggnad och komponenter, däribland router, switch och tv-nät.</li> <li>Applikationer där kommunikationsnät förekommer, till exempel larm och övervakning.</li> <li>Datakommunikationsteknikens grunder.</li> <li>Lagar och andra bestämmelser inom området, däribland miljö- och säkerhetsföreskrifter.</li> <li>Planering och dokumentation av eget arbete.</li> <li>Överlämningspunkter och ansvar i kommunikationsnät för tele-, data- och mediesignaler.</li> <li>Kontaktering av vanligt förekommande kontakter inom data-, tele- och medianät.</li> <li>Installation och driftsättning av mindre kommunikationsnät för tele, data och media, däribland brandvägg och VPN-tunnel.</li> <li>Installation och funktionskontroll av ett mindre data- och medienät med fiberkabel.</li> <li>Val av förläggningssätt med hänsyn till ledningsburna störningar vid samförläggning av kablar.</li> <li>Enklare felsökning och reparation.</li> <li>Olika mätvärden i kommunikationsnät.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: KOMM2000X</h3>",
+      "code": "KOMM2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet kommunikationsnät på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Uppbyggnad av komponenter och system i fastighetsnät med fiber och koppar.</li> <li>Olika nätverkskomponenter och deras funktion, till exempel brygga, switch, router och gateway.</li> <li>Lagar och andra bestämmelser inom området, däribland miljö- och säkerhetsföreskrifter.</li> <li>Tolkning och konstruktion av underlag för olika kommunikationsnät utifrån standarder, regler och andra krav.</li> <li>Kontaktering och skarvning i data-, tele- och medianät.</li> <li>Installation och driftsättning av trådlösa WLAN (wireless local area network) med switch och router samt konfigurering av säkerheten i nätet med hjälp av ritningar och anvisningar.</li> <li>Planering, installation, driftsättning och registrering av kommunikation i och mellan säkerhetssystem, till exempel brandlarm, inbrottslarm, CCTV (closed-circuit television) och passersystem, med hjälp av ritningar och anvisningar.</li> <li>Installation, driftsättning och inmätning samt registrering av LAN (local area network), till exempel med switch, router och gateway samt med hjälp av ritningar och anvisningar, däribland brandvägg och VPN-tunnel.</li> <li>Säkerhetsrisker och kryptering av trådbundna och trådlösa nät samt störningar.</li> <li>Felsökning i hårdvara och mjukvara samt överföringar inom kommunikationsnät.</li> <li>Tolkning av olika mätvärden i kommunikationsnät.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven beskriver <strong>översiktligt</strong> hur olika kommunikationsnät är uppbyggda och fungerar.</p> <p>Eleven planerar och utför med <strong>viss säkerhet</strong> arbete i kommunikationsnät och gör en <strong>enkel</strong> dokumentation av sitt arbete. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>viss säkerhet</strong> verktyg och andra hjälpmedel.</p> <p>Eleven installerar och driftsätter med <strong>viss säkerhet</strong> kommunikationsnät. Resultatet av arbetet är av <strong>godtagbar</strong> kvalitet.</p> <p>Eleven felsöker och åtgärdar <strong>enkla</strong> fel i kommunikationsnät.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven beskriver <strong>utförligt</strong> hur olika kommunikationsnät är uppbyggda och fungerar.</p> <p>Eleven planerar och utför med <strong>säkerhet</strong> arbete i kommunikationsnät och gör en <strong>noggrann</strong> dokumentation av sitt arbete. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>säkerhet</strong> verktyg och andra hjälpmedel.</p> <p>Eleven installerar och driftsätter med <strong>säkerhet</strong> kommunikationsnät. Resultatet av arbetet är av <strong>god</strong> kvalitet.</p> <p>Eleven felsöker och åtgärdar <strong>relativt komplexa</strong> fel i kommunikationsnät.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> hur olika kommunikationsnät är uppbyggda och fungerar.</p> <p>Eleven planerar och utför med <strong>god säkerhet</strong> arbete i kommunikationsnät och gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete. Eleven utför det praktiska arbetet i enlighet med lagar och andra bestämmelser inom området.</p> <p>Eleven använder med <strong>god säkerhet</strong> verktyg och andra hjälpmedel.</p> <p>Eleven installerar och driftsätter med <strong>god säkerhet</strong> kommunikationsnät. Resultatet av arbetet är av <strong>mycket god</strong> kvalitet.</p> <p>Eleven felsöker och åtgärdar <strong>komplexa</strong> fel i kommunikationsnät.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.028Z"
+}

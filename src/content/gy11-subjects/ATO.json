@@ -1,0 +1,68 @@
+{
+  "code": "ATO",
+  "name": "ATV- och motorcykelteknik",
+  "englishName": "ATV and motorcycle technology",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-05-25",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:3",
+  "skolfsAndring": "2022:39",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>ATV- och motorcykelteknik</h2>",
+  "description": "<p>Ämnet ATV- och motorcykelteknik behandlar funktion hos, service, underhåll, felsökning och reparationer av ATV och motorcyklar samt deras tilläggsutrustning.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet ATV- och motorcykelteknik ska syfta till att eleverna utvecklar kunskaper om olika ATV och motorcyklar, deras olika system, komponenter och tilläggsutrustningar samt deras olika användningsområden.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att genomföra service och underhåll av sådana fordon samt deras tilläggsutrustning. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda manualer och relevanta informationssystem i arbetet. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett kvalitetsmässigt sätt utifrån lagar och andra bestämmelser inom området.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom.</p> <p>Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kommer att möta i yrkeslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.</p> <h4><em>Undervisningen i ämnet ATV- och motorcykelteknik ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ol> <li>Kunskaper om olika ATV, motorcyklar och tilläggsutrustningar, deras olika system och komponenter samt hur dessa samverkar.</li> <li>Förmåga att genomföra service och underhåll av ATV, motorcyklar och deras tilläggsutrustning.</li> <li>Förmåga att genomföra enklare felsökning, diagnostisering och reparationer av ATV, motorcyklar och tilläggsutrustningar samt deras olika system och komponenter.</li> <li>Förmåga att använda specialverktyg samt verktyg och övrig utrustning.</li> <li>Förmåga att använda manualer, scheman och digitala informationssystem i samband med felsökning och reparationer.</li> <li>Förmåga att arbeta på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser.</li> <li>Förmåga att använda ett yrkesmässigt språk samt kunna anpassa språket efter målgruppen.</li> </ol><h3>Kurser i ämnet</h3><ul><li>ATV och motorcykel, 200 poäng, som bygger på kursen personbilar – system- och diagnosteknik 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: ATOATV0</h3>",
+      "code": "ATOATV0",
+      "nameHeading": "<h2>ATV och motorcykel, 200 poäng</h2>",
+      "name": "ATV och motorcykel",
+      "englishName": "ATV and motorcycle",
+      "points": "200",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen ATV och motorcykel omfattar punkterna 1–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Olika ATV och deras konstruktion, funktion, system och komponenter samt deras användningsområden, bland annat quad, fyrhjuling, terränghjuling och snöskotrar.</li> <li>Olika motorcyklar och deras konstruktion, funktion, system och komponenter.</li> <li>Olika tilläggsutrustningar, deras konstruktion, funktion, system och komponenter, till exempel skyddsbågar, värmehandtag, extraljus, väskhållare, vinsch och mediautrustning.</li> <li>Däck- och hjulkonstruktion, klassificering och dimensionering.</li> <li>Service och underhåll av ATV, motorcyklar och tilläggsutrustningar.</li> <li>Konsekvenser av eftersatt underhåll beträffande trafiksäkerheten.</li> <li>Metoder för och genomförande av enklare felsökning, diagnostisering och reparationer av ATV, motorcyklar och tilläggsutrustningar samt deras olika system och komponenter.</li> <li>Metoder för och genomförande av demontering, montering och justering av komponenter i samband med reparationer.</li> <li>Konsekvenser av brister i montering, justering och reparationer av tilläggsutrustning beträffade trafiksäkerheten.</li> <li>Sammanfogningsmetoder som tillämpas vid reparationer.</li> <li>Metoder för användning av specialverktyg på ett kvalitetsmässigt sätt samt vård av dessa.</li> <li>Fordonstillverkares anvisningar, scheman och teknisk information på svenska och engelska.</li> <li>Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.</li> <li>Risker i samband med service och reparationsarbete på eller i närheten av högvoltssystem avsedda för framdrivning.</li> <li>Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.</li> <li>Brandförebyggande åtgärder och åtgärder vid brand.</li> <li>Lagar och andra bestämmelser som gäller för arbetet.</li> <li>Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.</li> <li>Yrkesmässigt språk, kommunikation och målgruppsanpassning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av olika ATV, motorcyklar och vanligt förekommande tilläggsutrustning, deras system och komponenter samt hur de samverkar.</p> <p>Eleven utför, <strong>i samråd</strong> med handledare, service och underhåll av ATV, motorcyklar och tilläggsutrustningar. Dessutom utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer enklare felsökning och reparationer av ATV, motorcyklar och tilläggsutrustningar. Vid reparationer utför eleven, <strong>i samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven<strong> med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är<strong> tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av olika ATV, motorcyklar och vanligt förekommande tilläggsutrustning, deras system och komponenter samt hur de samverkar.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service och underhåll av ATV, motorcyklar och tilläggsutrustningar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer enklare felsökning och reparationer av ATV, motorcyklar och tilläggsutrustningar. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>tillfredsställande</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av olika ATV, motorcyklar och vanligt förekommande tilläggsutrustning, deras system och komponenter samt hur de samverkar.</p> <p>Eleven utför, <strong>efter samråd</strong> med handledare, service och underhåll av ATV, motorcyklar och tilläggsutrustningar. Dessutom utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya </strong>situationer enklare felsökning och reparation av ATV, motorcyklar och tilläggsutrustningar. Vid reparationer utför eleven, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer den demontering, montering samt justering av komponenter som arbetet kräver.</p> <p>I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag specialverktyg, verktyg och utrustning. Eleven använder <strong>med säkerhet</strong> manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.</p> <p>När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är <strong>gott</strong>.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:11.942Z"
+}

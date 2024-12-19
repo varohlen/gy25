@@ -1,0 +1,92 @@
+{
+  "code": "JURI",
+  "name": "Juridik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:174",
+  "nameHeading": "<h2>Juridik</h2>",
+  "description": "<p>Juridiken är det regelverk som formar det samhälle vi lever i genom att skapa möjligheter och sätta begränsningar för statens, individens och företagens agerande inom olika områden. Juridiken är såväl ett ansvarsutkrävande verktyg som ett uttryck för värderingar gällande hur samhället borde se ut. Ämnet juridik behandlar huvudsakligen civilrätt och offentlig rätt. Det omfattar även internationell rätt som belyser Sveriges förhållande till omvärlden.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet juridik ska syfta till att eleverna utvecklar kunskaper om det svenska rättssystemet samt förståelse av hur lagar styr privatlivet, yrkeslivet och affärslivet. Vidare ska undervisningen leda till att eleverna utvecklar förståelse av rättsstatens principer och funktion i det demokratiska samhället. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om mänskliga rättigheter samt stimulera dem till att verka för ett rättssystem som värnar alla människors lika värde.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla ett vetenskapligt förhållningssätt i arbetet med rättsliga problem. Eleverna ska även ges möjlighet att utveckla förmåga att formulera sig korrekt och precist eftersom det juridiska språket förutsätter precision, saklighet och logisk skärpa. Genom att läsa olika rättskällor och andra juridiska texter samt genom att skriva och tala ska eleverna ges möjlighet att använda det juridiska språket.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med juridisk problemlösning utifrån fallbeskrivningar för att utveckla förmåga att identifiera och formulera frågeställningar, att hänvisa till och tolka relevanta rättskällor samt att strukturera och analysera lösningsförslag. Undervisningen ska också bidra till att eleverna utvecklar förmåga att identifiera juridiska frågor i samhället samt att diskutera dem ur ett rättsteoretiskt, rättsfilosofiskt och historiskt perspektiv.</p> <h5><em>Undervisningen i ämnet juridik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om offentlig rätt och civilrätt.</li> <li>Förmåga att identifiera och analysera juridiska problem, att tolka och tillämpa relevanta rättskällor samt att formulera lösningsförslag.</li> <li>Förmåga att använda juridiska begrepp.</li> </ul><h3>Nivåer i ämnet juridik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: JURI1000X</h3>",
+      "code": "JURI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet juridik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Konstitutionell rätt</em></p> <ul> <li>De svenska grundlagarna med särskild betoning på fördelning av makt, befogenheter och ansvar bland offentliga organ samt riksdagens lagstiftningsmakt.</li> </ul> <p><em>Civilrätt – civilrättsliga lagar som reglerar privatliv och arbetsliv</em></p> <ul> <li>Avtalsrätt, däribland hur avtal blir bindande samt avtalets rättsverkan.</li> <li>Konsumenträtt och köprätt, däribland regler som rör köp mellan konsument och näringsidkare, konsumentkrediter samt köp mellan privatpersoner.</li> <li>Arbetsrätt, däribland arbetstagarens rättigheter och skyldigheter.</li> <li>Familjerätt och arvsrätt, däribland regler som rör par- och familjerelationer samt arv, testamente och bodelning.</li> <li>Skadeståndsrätt, däribland regler som rör ersättningsskyldighet för den som har orsakat en skada.</li> </ul> <p><em>Juridisk metod</em></p> <ul> <li>Introduktion till juridisk metod och problemlösning i rättsliga sammanhang. Att orientera sig i, hänvisa till och tolka given rättskälla. Att formulera frågeställningar, strukturera och analysera juridiska problem samt formulera lösningsförslag med stöd i given rättskälla. Läsning av juridiska texter med relevans för valda juridiska problem. Tillämpning av juridisk metod och problemlösning utifrån fallbeskrivningar.</li> <li>Juridiska begrepp som är relevanta för juridisk problemlösning.</li> </ul> <p><em>Allmän rättslära</em></p> <ul> <li>Olika rättsteoretiska och rättsfilosofiska teorier.</li> <li>Rättsreglernas funktion i samhället.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: JURI2000X</h3>",
+      "code": "JURI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet juridik på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Konstitutionell rätt</em></p> <ul> <li>De svenska grundlagarna, med särskild betoning på offentlighetsprincipen. Hur normgivningsmakt fördelas nationellt samt hur den nationella normgivningsmakten förhåller sig till EU-rätten.</li> </ul> <p><em>Processrätt</em></p> <ul> <li>Regler om det svenska rättegångsväsendet med särskild betoning på praktiskt processförfarande.</li> </ul> <p><em>Straffrätt</em></p> <ul> <li>Regler om brott och straff samt andra brottspåföljder.</li> </ul> <p><em>Civilrätt – civilrättsliga lagar som reglerar affärsliv</em></p> <ul> <li>Associationsrätt, däribland regler om olika företagsformer.</li> <li>Köprätt, däribland regler som rör handel mellan näringsidkare.</li> <li>Marknadsrätt, däribland marknadsrättsliga och konkurrensrättsliga regler som rör företagens verksamhet.</li> <li>Immaterialrätt, däribland upphovsrätt, skyddet för varumärken, patent och mönster.</li> </ul> <p><em>Juridisk metod</em></p> <ul> <li>Problemlösning i rättsliga sammanhang. Att orientera sig i, hänvisa till och tolka givna rättskällor. Att formulera frågeställningar, strukturera och analysera juridiska problem samt formulera lösningsförslag med stöd i givna rättskällor. Läsning av juridiska texter med relevans för valda juridiska problem. Tillämpning av juridisk metod och problemlösning utifrån fallbeskrivningar.</li> <li>Juridiska begrepp som är relevanta för juridisk problemlösning.</li> </ul> <p><em>Allmän rättslära</em></p> <ul> <li>Perspektiv på hur den gällande rätten förhåller sig till uppfattningar om rättvisa och rättssäkerhet med utgångspunkt i olika rättsteorier och rättsfilosofiska teorier. Rättens möjligheter och begränsningar.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: JURI3000X</h3>",
+      "code": "JURI3000X",
+      "nameHeading": "<h2>Nivå 3, 100 poäng</h2>",
+      "name": "Nivå 3",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet juridik på nivå 3 ska behandla följande centrala innehåll:</p> <p><em>Konstitutionell rätt</em></p> <ul> <li>De svenska grundlagarna med särskild betoning på grundlagsskyddet för mänskliga fri- och rättigheter samt normgivning och dess relation till Europarätten och internationell rätt.</li> </ul> <p><em>Internationell rätt</em></p> <ul> <li>Folkrätt med särskild betoning på internationell straffrätt och det europeiska och internationella skyddet för mänskliga rättigheter.</li> </ul> <p><em>Processrätt</em></p> <ul> <li>Fördjupning i regler om det svenska rättegångsväsendet, däribland alternativ tvistelösning och internationell tvistelösning.</li> </ul> <p><em>Straffrätt</em></p> <ul> <li>Fördjupning i regler om brott och straff. Straffrättsliga ideologier.</li> </ul> <p><em>Civilrätt – civilrättsliga lagar som reglerar fordran och skuld</em></p> <ul> <li>Kredit-, pant- och obeståndsrätt, däribland regler som gäller när privatpersoner och företag inte kan betala sina skulder samt regler som rör företagens finansiering, utmätning och konkurs.</li> </ul> <p><em>Juridisk metod</em></p> <ul> <li>Fördjupning i juridisk metod och problemlösning i rättsliga sammanhang. Att söka, identifiera, hänvisa till och tolka relevanta rättskällor. Att formulera frågeställningar, strukturera och analysera juridiska problem samt formulera lösningsförslag med stöd i relevanta rättskällor. Läsning av juridiska texter med relevans för valda juridiska problem. Tillämpning av juridisk metod och problemlösning utifrån fallbeskrivningar.</li> <li>Juridiska begrepp som är relevanta för juridisk problemlösning.</li> </ul> <p><em>Allmän rättslära</em></p> <ul> <li>Analys av juridiska frågeställningar utifrån rättsteoretiska, rättsfilosofiska eller historiska perspektiv med hjälp av olika teorier.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om offentlig rätt och olika civilrättsliga rättsområden. Eleven redogör på ett <strong>godtagbart</strong> sätt för de svenska grundlagarna och normgivningsmakten.</p> <p>Eleven identifierar och analyserar juridiska problem inom olika rättsområden samt formulerar lösningsförslag med <strong>delvis</strong> underbyggda resonemang. I problemlösningen tolkar och tillämpar eleven rättskällor på ett <strong>i huvudsak fungerande</strong> sätt.</p> <p>Eleven använder juridiska begrepp på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om offentlig rätt och olika civilrättsliga rättsområden. Eleven redogör på ett <strong>utvecklat</strong> sätt för de svenska grundlagarna och normgivningsmakten.</p> <p>Eleven identifierar och analyserar juridiska problem inom olika rättsområden samt formulerar lösningsförslag med <strong>väl</strong> underbyggda resonemang. I problemlösningen tolkar och tillämpar eleven rättskällor på ett <strong>fungerande</strong> sätt.</p> <p>Eleven använder juridiska begrepp på ett <strong>fungerande</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om offentlig rätt och olika civilrättsliga rättsområden. Eleven redogör på ett <strong>välutvecklat</strong> sätt för de svenska grundlagarna och normgivningsmakten.</p> <p>Eleven identifierar och analyserar juridiska problem inom olika rättsområden samt formulerar lösningsförslag med <strong>mycket väl</strong> underbyggda resonemang. I problemlösningen tolkar och tillämpar eleven rättskällor på ett <strong>väl fungerande</strong> sätt.</p> <p>Eleven använder juridiska begrepp på ett <strong>väl fungerande</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.026Z"
+}

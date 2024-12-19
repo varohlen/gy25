@@ -1,0 +1,106 @@
+{
+  "code": "SOC",
+  "name": "Socialt arbete",
+  "englishName": "Social work",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2010:142",
+  "skolfsAndring": "2022:283",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Socialt arbete</h2>",
+  "description": "<p>Ämnet socialt arbete är tvärvetenskapligt och har sin grund i socialvetenskap, sociologi, pedagogik och statsvetenskap. Det är också yrkesrelaterat och handlar om arbete som inriktas på sociala frågor samt deras konsekvenser och lösningar.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet socialt arbete ska syfta till att eleverna utvecklar kunskaper om sociala frågor och verksamheter. Eleverna ska ges möjlighet att utifrån lagar, styrdokument, en demokratisk värdegrund och överenskommelser om mänskliga rättigheter utveckla förmåga att arbeta inom sociala verksamheter. Undervisningen ska leda till att eleverna ges möjlighet att utveckla förmåga att möta och arbeta med människor utifrån ett etiskt och ett inkluderande förhållningssätt där även hänsyn tas till arbetsmiljö och säkerhet. Eleverna ska även ges möjlighet att utveckla kunskaper om hur samhällets skyddsnät och stödinsatser växt fram historiskt och hur synen förändrats över tid och hur det har påverkat människor i utsatta situationer. I undervisningen ska därför såväl egna som samhällets attityder till, samt värderingar och bemötande av, människors sociala utsatthet behandlas.</p> <p>Problemlösning och handlingsberedskap ska stimuleras i undervisningen och tillfällen ska ges för eleverna att medverka vid val av arbetsformer och innehåll. Eleverna ska ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang och delaktighetens betydelse. Eleverna ska ges möjlighet att utveckla kunskaper om centrala begrepp och teorier inom sociala verksamheter. Vidare ska eleverna ges möjlighet att reflektera över och diskutera ämnesinnehållet samt egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla färdigheter i att arbeta med, utvärdera och dokumentera förekommande arbetsuppgifter samt förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.</p> <h4>Undervisningen i ämnet socialt arbete ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om olika sociala verksamheter och deras organisation och roll i samhället.</li> <li>Kunskaper om sociala frågor på samhälls-, grupp- och individnivå.</li> <li>Förmåga att använda centrala begrepp och teorier inom kunskapsområdet.</li> <li>Förmåga att arbeta utifrån lagar och andra bestämmelser som styr sociala verksamheter samt ta hänsyn till arbetsmiljö, säkerhet och yrkesetik.</li> <li>Färdigheter i att arbeta med samt utvärdera och dokumentera förekommande arbetsuppgifter inom sociala verksamheter.</li> <li>Förmåga att kommunicera, samarbeta och samverka för att möta och arbeta med människor i sociala sammanhang.</li> <li>Förmåga att diskutera egna, andras och samhällets attityder till och värderingar av människors olika levnadsvillkor.</li> <li>Färdigheter i att kritiskt använda information från olika källor.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Socialt arbete 1, 100 poäng. </li> <li>Socialt arbete 2, 100 poäng, som bygger på kursen socialt arbete 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: SOCSOC01</h3>",
+      "code": "SOCSOC01",
+      "nameHeading": "<h2>Socialt arbete 1, 100 poäng</h2>",
+      "name": "Socialt arbete 1",
+      "englishName": "Social work 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen socialt arbete 1 omfattar punkterna 1–8 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisning i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Framväxt och organisation av samhällets socialpolitik och socialt arbete.</li> <li>Sociala myndigheter och ombudsmän, deras funktioner och roller i samhället.</li> <li>Samhällets hantering av sociala frågor avseende samhällsplanering, utsatta gruppers levnadsvillkor och samhällets stödinsatser.</li> <li>Centrala begrepp och teorier inom sociala verksamheter.</li> <li>Lagar och förordningar för social verksamhet, däribland offentlighets- och sekretesslagen och socialtjänstlagen.</li> <li>Bestämmelser och praxis när det gäller arbetsmiljö och säkerhet samt yrkesetik inom sociala verksamheter.</li> <li>Vanligt förekommande arbetsuppgifter inom sociala verksamheter.</li> <li>Planering och dokumentation av uppgifter och aktiviteter inom sociala verksamheter.</li> <li>Kommunikation, samarbete och samverkan med människor i sociala sammanhang inom aktuellt yrkesområde.</li> <li>Attityder till och värderingar av människors levnadsvillkor.</li> <li>Kritisk bearbetning av information från olika källor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>sociala verksamheter. Dessutom redogör eleven <strong>översiktligt </strong>för hur sociala frågor hanteras i samhället. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>enkla</strong> samband och drar <strong>enkla</strong> slutsatser.</p> <p>Eleven redogör <strong>översiktligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande<strong> enkla</strong> arbetsuppgifter, <strong>i samråd </strong>med handledare, och på ett yrkesmässigt sätt. Eleven gör en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>översiktligt </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter och visar respekt för andras åsikter.</p> <p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med<strong> enkla </strong>omdömen.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>sociala verksamheter. Dessutom redogör eleven <strong>utförligt </strong>för hur sociala frågor hanteras i samhället. I beskrivningar och redogörelser använder eleven <strong>med viss säkerhet </strong>centrala begrepp och teorier samt förklarar samband och drar <strong>välgrundade</strong> slutsatser.</p> <p>Eleven redogör <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter, <strong>efter samråd </strong>med handledare, och på ett yrkesmässigt sätt. Eleven gör en noggrann dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>utförligt </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>välgrundade </strong>argument för sina åsikter och visar respekt för andras åsikter.</p> <p>Eleven söker och bearbetar <strong>med viss säkerhet</strong> information från olika källor samt värderar den med<strong> nyanserade </strong>omdömen.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>sociala verksamheter. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur sociala frågor hanteras i samhället. I beskrivningar och redogörelser använder eleven <strong>med säkerhet </strong>centrala begrepp och teorier samt förklarar <strong>komplexa </strong>samband och drar <strong>välgrundade</strong> <strong>och nyanserade</strong> slutsatser.</p> <p>Eleven redogör <strong>utförligt </strong>för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter, <strong>efter samråd </strong>med handledare, och på ett yrkesmässigt sätt. Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp.</p> <p>Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p> <p>Eleven söker och bearbetar <strong>med säkerhet</strong> information från olika källor samt värderar den med<strong> välgrundade och nyanserade </strong>omdömen.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: SOCSOC02</h3>",
+      "code": "SOCSOC02",
+      "nameHeading": "<h2>Socialt arbete 2, 100 poäng</h2>",
+      "name": "Socialt arbete 2",
+      "englishName": "Social work 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen socialt arbete 2 omfattar punkterna 1–2 samt 4–7 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisning i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Offentliga, frivilliga och privata sociala verksamheter, deras organisationer, innehåll och ideologier samt roller i samhället.</li> <li>Samhällets hantering av sociala frågor avseende samhällsplanering, utsatta gruppers levnadsvillkor och samhällets stödinsatser, dess konsekvenser och möjliga lösningar.</li> <li>Lagar, förordningar, internationella överenskommelser och riktlinjer för sociala verksamheter, däribland Offentlighets- och sekretesslagen och Socialtjänstlagen.</li> <li>Etiska frågeställningar inom sociala verksamheter.</li> <li>Etiska begrepp och riktlinjer, förhållningssätt, normer och värdekonflikter inom social verksamhet.</li> <li>Arbete med vanligt förkommande arbetsuppgifter inom sociala verksamheter.</li> <li>Planering, genomförande, utvärdering och dokumentation av uppgifter och aktiviteter inom sociala verksamheter.</li> <li>Yrkesroll och ledarskap inom sociala verksamheter.</li> <li>Kommunikation, samarbete och samverkan med människor i olika sociala sammanhang inom aktuellt yrkesområde.</li> <li>Attityder till och värderingar av människors olika levnadsvillkor.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven beskriver <strong>översiktligt </strong>sociala verksamheter. Dessutom redogör eleven <strong>översiktligt </strong>för hur sociala frågor hanteras i samhället. Eleven redogör även <strong>översiktligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande<strong> enkla</strong> arbetsuppgifter, <strong>i samråd </strong>med handledare, och på ett yrkesmässigt sätt. Eleven gör en <strong>enkel</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> enkla </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>översiktligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>översiktligt </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>enkla</strong> argument för sina åsikter och visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven beskriver <strong>utförligt </strong>sociala verksamheter. Dessutom redogör eleven <strong>utförligt </strong>för hur sociala frågor hanteras i samhället. Eleven redogör även <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter, <strong>efter samråd </strong>med handledare, och på ett yrkesmässigt sätt. <strong>Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar sin utgångspunkt i det vid sitt eget handlande. </strong>Eleven gör en <strong>noggrann </strong>dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med viss säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> välgrundade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven anpassar <strong>med viss säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>utförligt </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>välgrundade</strong> argument för sina åsikter och visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven beskriver <strong>utförligt och nyanserat </strong>sociala verksamheter. Dessutom redogör eleven <strong>utförligt och nyanserat </strong>för hur sociala frågor hanteras i samhället. Eleven redogör även <strong>utförligt</strong> för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete.</p> <p>Eleven planerar, organiserar och utför vanligt förekommande <strong>komplexa</strong> arbetsuppgifter, <strong>efter samråd </strong>med handledare, och på ett yrkesmässigt sätt<strong> samt anpassar vid behov genomförandet till ändrade förutsättningar</strong>. <strong>Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande. </strong>Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av utförda uppgifter och aktiviteter. I dokumentationen använder eleven <strong>med säkerhet</strong> relevanta begrepp. När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med<strong> välgrundade och nyanserade </strong>omdömen utifrån uppsatta mål. I utvärderingen diskuterar eleven <strong>utförligt och nyanserat </strong>möjliga alternativa lösningar och föreslår vid behov förbättringar.</p> <p>Eleven anpassar <strong>med säkerhet</strong> sin kommunikation till mottagaren och samarbetar med andra.</p> <p>Eleven diskuterar <strong>utförligt och nyanserat </strong>egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna. I diskussionen framför eleven <strong>välgrundade och nyanserade</strong> argument för sina åsikter samt visar respekt för andras åsikter.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.164Z"
+}

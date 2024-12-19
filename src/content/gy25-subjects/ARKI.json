@@ -1,0 +1,78 @@
+{
+  "code": "ARKI",
+  "name": "Arkitektur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-08",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2023:157",
+  "nameHeading": "<h2>Arkitektur</h2>",
+  "description": "<p>Arkitektur är bundet till plats och samhälleliga förutsättningar och förstås därför bäst i ett socialt och kulturellt sammanhang. Arkitektur utgår från ett behov och ska i gestaltning och produktion beakta såväl ekonomisk som social och miljömässig hållbarhet. Ämnet arkitektur behandlar den byggda miljön, både den yttre och den inre. Ämnet är till sin karaktär tvärvetenskapligt och utgår från både teknik och estetik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet arkitektur ska syfta till att eleverna utvecklar kunskaper om den byggda miljön, dess historia och utveckling. Den ska ge eleverna möjlighet att utveckla förståelse av hur teknisk utveckling och ideologiska strömningar påverkar arkitektur och bebyggelse. Undervisningen ska också ge eleverna möjlighet att utveckla förståelse av estetikens betydelse för människors välbefinnande och livsmiljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arkitekturens roll i ett socialt och miljömässigt hållbart byggande. Undervisningen ska behandla byggnadsprojekt utifrån såväl tekniska och ekonomiska aspekter som historiska och estetiska. Eleverna ska ges möjlighet att utveckla förståelse av hur ett samhälle planeras och förändras utifrån olika målgruppers behov och sociala aspekter, som till exempel tillgänglighet, klass eller kön. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser inom området. Därigenom ska eleverna ges redskap att aktivt delta i den demokratiska byggprocessen och i samtalet om byggande, bostäder och våra gemensamma offentliga miljöer.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att tolka och upprätta ritningar och byggteknisk dokumentation. Undervisningen ska också bidra till att eleverna utvecklar förmåga att förmedla egna förslag med hjälp av kunskapsområdets uttrycksformer och verktyg.</p> <p>Undervisningen ska varva teoretiska och praktiska moment samt innehålla fallstudier och verklighetsnära projekt. På så vis ska eleverna ges möjlighet att utveckla förmåga att använda arkitekturens begrepp, analysera den byggda miljön och omsätta sina kunskaper till gestaltning av byggnader och rum. Undervisningen ska även lämna utrymme för diskussion om och reflektion över etiska frågor, vad som främjar hållbar utveckling och olika handlingsalternativ inom arkitektur.</p> <h5><em>Undervisningen i ämnet arkitektur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om arkitektur- och samhällsbyggnadshistoria.</li> <li>Kunskaper om lagar och andra bestämmelser inom byggplaneringsprocessen.</li> <li>Färdigheter i att gestalta byggnader och rum utifrån form, funktion och platsens förutsättningar.</li> <li>Förmåga att läsa och tolka ritningar och teknisk dokumentation.</li> <li>Förmåga att använda arkitekturens begrepp, uttryckssätt och verktyg för att tolka och analysera den byggda miljön.</li> </ul><h3>Nivåer i ämnet arkitektur</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ARKI1000X</h3>",
+      "code": "ARKI1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet arkitektur på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Stilbildande epoker inom arkitektur- och samhällsplanering.</li> <li>Privata och offentliga miljöer, både inom- och utomhus.</li> <li>Relevanta lagar och andra bestämmelser i byggprocessen.</li> </ul> <p><em>Analys och problemlösning</em></p> <ul> <li>Arkitekturbegrepp och metoder för enklare beskrivning och analys av den byggda miljön.</li> <li>Gestaltning av byggnader och rum vid planering av nybyggnad och ombyggnad med hänsyn tagen till hållbar utveckling.</li> <li>Samband mellan form, funktion och teknik.</li> <li>Platsens förutsättningar, den omgivande miljön och dess arkitektur.</li> <li>Planering, avgränsning, genomförande och redovisning av arkitekturuppgifter.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Tolkning och enklare framställning av ritningar, planer och modeller som används vid projektering av byggnader och vid rumsgestaltning.</li> <li>Digitala ritprogram som används inom området, till exempel cad (computer aided design).</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: ARKI2000X</h3>",
+      "code": "ARKI2000X",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet arkitektur på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Begrepp, teorier och modeller</em></p> <ul> <li>Fördjupande nedslag i någon eller några arkitekturhistoriska epoker eller byggnadstyper, till exempel bostäder, offentlig arkitektur eller inredning.</li> <li>Fördjupning inom någon av byggprocessens olika delar och för området relevanta lagar och andra bestämmelser.</li> </ul> <p><em>Analys och problemlösning</em></p> <ul> <li>Arkitekturens tekniker, verktyg och uttryckssätt för tolkning och analys av den byggda miljön.</li> <li>Gestaltningsförslag till nybyggnad och ombyggnad av hus och rum, utifrån givna förutsättningar och hållbarhetskrav, med hjälp av skisser, modeller och digitala ritningar.</li> <li>Samband mellan material, färg, ljud och ljus.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Framställning och presentation av ritningar och andra underlag med hjälp av olika verktyg.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om arkitektur i en social, kulturell och historisk kontext.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om byggprocessens lagar och andra bestämmelser.</p> <p>Eleven gestaltar med <strong>godtagbar</strong> kvalitet byggnader och rum utifrån form, funktion och platsens förutsättningar.</p> <p>Eleven läser och tolkar ritningar och teknisk dokumentation <strong>med viss säkerhet</strong>.</p> <p>Eleven gör <strong>enkla</strong> tolkningar och analyser av den byggda miljön med hjälp av arkitekturens begrepp, uttryckssätt och verktyg.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om arkitektur i en social, kulturell och historisk kontext.</p> <p>Eleven visar <strong>utvecklade</strong> kunskaper om byggprocessens lagar och andra bestämmelser.</p> <p>Eleven gestaltar med <strong>god</strong> kvalitet byggnader och rum utifrån form, funktion och platsens förutsättningar.</p> <p>Eleven läser och tolkar ritningar och teknisk dokumentation <strong>med säkerhet</strong>.</p> <p>Eleven gör <strong>utvecklade</strong> tolkningar och analyser av den byggda miljön med hjälp av arkitekturens begrepp, uttryckssätt och verktyg.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om arkitektur i en social, kulturell och historisk kontext.</p> <p>Eleven visar <strong>välutvecklade</strong> kunskaper om byggprocessens lagar och andra bestämmelser.</p> <p>Eleven gestaltar med <strong>mycket god</strong> kvalitet byggnader och rum utifrån form, funktion och platsens förutsättningar.</p> <p>Eleven läser och tolkar ritningar och teknisk dokumentation <strong>med god säkerhet</strong>.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> tolkningar och analyser av den byggda miljön med hjälp av arkitekturens begrepp, uttryckssätt och verktyg.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.961Z"
+}

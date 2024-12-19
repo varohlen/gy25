@@ -1,0 +1,64 @@
+{
+  "code": "ROST",
+  "name": "Röst",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:206",
+  "nameHeading": "<h2>Röst</h2>",
+  "description": "<p>Ämnet röst behandlar rösten som sceniskt uttrycksmedel och olika sätt att träna och använda rösten för olika sammanhang inom teaterområdet. Med hjälp av teorier om och metoder i röstträning och med utgångspunkt i röstens fysiologi skapas förståelse av röstens funktion och förutsättningar i en konstnärlig process.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet röst ska syfta till att eleverna utvecklar kunskaper om och färdigheter i medveten röstanvändning i olika sceniska gestaltningar. Genom undervisningen ska eleverna utveckla kunskaper om röstens anatomi och fysiologi. Centralt i all teater är gestaltning och kommunikation. Därför ska eleverna ges möjlighet att utveckla förmåga att gestalta med kropp och röst och därigenom kommunicera med publik. Undervisningen ska även ge eleverna möjlighet att utveckla förståelse av hur teaterns tre hörnpelare berättelsen, berättaren och rummet samverkar.</p> <p>Undervisningen ska ge eleverna möjlighet att genom sina kunskaper om och färdigheter i teaterämnen aktivt bidra till ett rikt kulturliv i samhället. Undervisningen ska ge eleverna möjlighet att utveckla förståelse av teater som kollektiv konstart. Genom undervisningen ska eleverna därför ges möjlighet att utveckla initiativförmåga, lyhördhet och tillit till den egna förmågan. Undervisningen ska också betona en jämställd och inkluderande arbetsmiljö med utgångspunkt i tillit, samtycke och trygghet.</p> <p>Teater som konstform undersöker, ställer frågor och berättar om vad det är att vara människa i olika kontexter. Därför ska undervisningen stimulera elevernas nyfikenhet på människans beteenden, drivkrafter och livsvillkor. Undervisningen ska utgå från elevernas kreativitet och stimulera konstnärligt skapande och berättande. I undervisningen ska eleverna ges möjlighet att med användning av områdets begrepp diskutera teaterns roll i samhället, såsom dess möjlighet att beröra och påverka människor. Genom det gestaltande arbetet ska eleverna enskilt och tillsammans med andra ges möjlighet att reflektera över sitt eget och gruppens skapande.</p> <p>Undervisningen ska varva praktiska moment med teoretiska och ge eleverna möjlighet att uppleva, analysera och tolka sceniska gestaltningar, med fokus på röst.</p> <h5><em>Undervisningen i ämnet röst ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att använda rösten som ett sceniskt uttrycksmedel.</li> <li>Kunskaper om röstens funktion och användning.</li> <li>Förmåga att samarbeta i grupp och samspela i gestaltning.</li> <li>Förmåga att analysera och tolka sceniska gestaltningar, med fokus på rösten samt med användning av olika begrepp från området.</li> <li>Förmåga att reflektera över det egna skapandet.</li> </ul><h3>Nivåer i ämnet röst</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: ROST1000X</h3>",
+      "code": "ROST1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet röst på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Röstorganens anatomi och fysiologi.</li> <li>Hur olika delar i kroppen samspelar för att producera ljud, tal och sång.</li> <li>Kroppskännedom, avspänningsteknik samt andnings- och röstövningar.</li> <li>Effekter av regelbunden röstträning.</li> <li>Röst och text i samspel.</li> <li>Rösten som en del i skapandet av sceniska karaktärer.</li> <li>Röstträning för att kommunicera med rösten anpassat till olika scenrum, till exempel i publika sammanhang.</li> <li>Samarbete i grupp och samspel i gestaltning, med fokus på rösten.</li> <li>Analys och tolkning av sceniska gestaltningar med fokus på rösten.</li> <li>Begrepp för röstträning och analys av rösten som sceniskt uttrycksmedel, till exempel magstöd, artikulation och interpretation.</li> <li>Reflektion över den egna röstträningen och det egna skapandet.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder rösten som sceniskt uttrycksmedel med <strong>godtagbart</strong> resultat.</p> <p>Eleven beskriver <strong>översiktligt</strong> röstorganens anatomi.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>viss säkerhet</strong>.</p> <p>Eleven gör <strong>enkla</strong> analyser och tolkningar av sceniska gestaltningar med fokus på rösten, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>översiktligt</strong> den egna röstträningen och det egna skapandet.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder rösten som sceniskt uttrycksmedel med <strong>gott</strong> resultat.</p> <p>Eleven beskriver <strong>utförligt</strong> röstorganens anatomi.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>säkerhet</strong>.</p> <p>Eleven gör <strong>utvecklade</strong> analyser och tolkningar av sceniska gestaltningar med fokus på rösten, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt</strong> den egna röstträningen och det egna skapandet.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder rösten som sceniskt uttrycksmedel med <strong>mycket gott</strong> resultat.</p> <p>Eleven beskriver <strong>utförligt och nyanserat</strong> röstorganens anatomi.</p> <p>Eleven både samarbetar i grupp och samspelar i gestaltning med <strong>god säkerhet</strong>.</p> <p>Eleven gör <strong>utvecklade och nyanserade</strong> analyser och tolkningar av sceniska gestaltningar med fokus på rösten, med användning av relevanta begrepp.</p> <p>Eleven reflekterar över och diskuterar <strong>utförligt och nyanserat</strong> den egna röstträningen och det egna skapandet.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.075Z"
+}

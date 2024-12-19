@@ -1,0 +1,68 @@
+{
+  "code": "RAT",
+  "name": "Rättspsykiatri",
+  "englishName": "Forensic psychiatry",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2020:25",
+  "skolfsAndring": "2022:266",
+  "gradeScale": "A-F",
+  "nameHeading": "<h2>Rättspsykiatri</h2>",
+  "description": "<p>Ämnet rättspsykiatri är tvärvetenskapligt och behandlar överlappningen mellan vetenskapsområdena psykiatri och juridik. Ämnet behandlar psykiatrins tillämpning inom rättsväsendet.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet rättspsykiatri ska syfta till att eleverna utvecklar kunskaper om hur den rättspsykiatriska verksamheten fungerar och vilka lagar och övriga bestämmelser som reglerar den. Den ska bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter med ett lyhört, respektfullt och empatiskt förhållningssätt.</p> <p>I undervisningen ska eleverna också ges möjlighet att utveckla förståelse för kopplingen mellan psykisk störning och kriminalitet. Undervisningen ska leda till att eleverna utvecklar förståelse för rättspsykiatrins samhällsskyddande verksamhet.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra, dokumentera och utvärdera vård- och omsorgsuppgifter inom den slutna eller öppna rättspsykiatrin. Eleverna ska dessutom utveckla förståelse av hur vården, omsorgen och omvårdnaden ska utformas för patienter med psykiska störningar.</p> <p>I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta och kommunicera med andra människor på ett yrkesetiskt sätt utifrån allas lika värde. Undervisningen ska även bidra till att eleverna blir medvetna om de fördomar som finns om psykiska funktionsnedsättningar.</p> <p>Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av arbetsuppgifter kopplade till psykiatrin.</p> <p>Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.</p> <h4>Undervisningen i ämnet rättspsykiatri ska ge eleverna förutsättningar att utveckla följande:</h4> <ol> <li>Kunskaper om lagar och andra bestämmelser som styr rättspsykiatrin.</li> <li>Kunskaper om rättspsykiatrins samhällsskyddande verksamhet samt förmåga att se människan bakom brottet i arbetet med att återanpassa patienten till ett liv i frihet.</li> <li>Förmåga att planera, genomföra och dokumentera vård- och omsorgsinsatser utifrån etiska aspekter och lagar och andra bestämmelser.</li> <li>Förmåga att möta och kommunicera med patienter och närstående på ett respektfullt, lyhört och empatiskt sätt samt förmåga att reflektera över sitt eget förhållningssätt i mötet med dem.</li> <li>Förmåga att medverka i vårdens, omsorgens och omvårdnadens förbättrings- och kvalitetsarbete.</li> <li>Kunskaper om hur ett väl utvecklat samarbete med olika huvudmän, yrkesgrupper och närstående påverkar patienters återhämtning positivt.</li> </ol><h3>Kurser i ämnet</h3><ul><li>Rättspsykiatri, 100 poäng, som bygger på kursen psykiatri 2.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: RATRAT0</h3>",
+      "code": "RATRAT0",
+      "nameHeading": "<h2>Rättspsykiatri, 100 poäng</h2>",
+      "name": "Rättspsykiatri",
+      "englishName": "Forensic psychiatry",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen rättspsykiatri omfattar punkterna 1–6 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Lagar och andra bestämmelser som styr verksamheten i öppen och sluten rättspsykiatrisk vård.</li> <li>Samarbete med kriminalvården samt kriminalvårdens olika restriktioner.</li> <li>Riskbedömningar utifrån dynamisk och statisk säkerhet.</li> <li>Sambandet mellan psykisk störning och kriminalitet.</li> <li>Förebyggande åtgärder, till exempel genom samhälls- och familjeinsatser.</li> <li>Rättigheter och skyldigheter för patienten.</li> <li>Rättspsykiatrisk vård och omvårdnad, värdegrund, humanistisk människosyn, närhet och distans.</li> <li>Läkemedelsbehandling inom rättspsykiatrin inklusive etiska aspekter.</li> <li>Arbete med förbättrings- och kvalitetsarbete i den praktiska verksamheten.</li> <li>Metoder för att använda sig själv som ett verktyg för att skapa goda vårdrelationer med patienter.</li> <li>Förebyggande arbete och rutiner för hantering av hot- och våldssituationer.</li> <li>Program för patientrehabilitering, till exempel missbruksprogram.</li> <li>Samverkan mellan olika myndigheter och verksamhetsområden vid utslussning och eftervård.</li> <li>Samordnad vårdplanering.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>översiktligt </strong>för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem. Eleven beskriver även <strong>översiktligt </strong>rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs. Dessutom beskriver eleven <strong>översiktligt </strong>vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet.</p> <p>Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar <strong>översiktligt</strong> runt etiska aspekter kring läkemedelsbehandling. Eleven tar också, <strong>i samråd </strong>med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med <strong>tillfredsställande </strong>resultat. </p> <p>Eleven beskriver även <strong>översiktligt </strong>hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt. Dessutom beskriver eleven <strong>översiktligt</strong> hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras.</p> <p>Eleven möter, <strong>i samråd </strong>med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt.</p> <p>Eleven beskriver <strong>översiktligt </strong>vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering. Eleven beskriver <strong>översiktligt </strong>samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem. Eleven beskriver även <strong>utförligt </strong>rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs. Dessutom beskriver eleven <strong>utförligt </strong>vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet.</p> <p>Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar <strong>utförligt</strong> runt etiska aspekter kring läkemedelsbehandling. Eleven tar också, <strong>efter samråd </strong>med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med <strong>tillfredsställande </strong>resultat.</p> <p>Eleven beskriver även <strong>utförligt </strong>hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt. Dessutom beskriver eleven <strong>utförligt</strong> hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras.</p> <p>Eleven möter, <strong>efter samråd </strong>med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt.</p> <p>Eleven beskriver <strong>utförligt </strong>vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering. Eleven beskriver <strong>utförligt </strong>samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med viss säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat </strong>för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem. Eleven beskriver även <strong>utförligt och nyanserat </strong>rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs. Dessutom beskriver eleven <strong>utförligt och nyanserat </strong>vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet.</p> <p>Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar <strong>utförligt och nyanserat</strong> runt etiska aspekter kring läkemedelsbehandling. Eleven tar också, <strong>efter samråd </strong>med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med <strong>gott </strong>resultat. </p> <p>Eleven beskriver även <strong>utförligt och nyanserat </strong>hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt. Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras.</p> <p>Eleven möter, <strong>efter samråd </strong>med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt.</p> <p>Eleven beskriver <strong>utförligt och nyanserat </strong>vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering. Eleven beskriver <strong>utförligt och nyanserat </strong>samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet.</p> <p>När eleven samråder med handledare bedömer hon eller han <strong>med säkerhet </strong>den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.135Z"
+}

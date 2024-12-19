@@ -1,0 +1,64 @@
+{
+  "code": "DJUA",
+  "name": "Djurhållning – lantbruksdjur",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-02-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:141",
+  "nameHeading": "<h2>Djurhållning – lantbruksdjur</h2>",
+  "description": "<p>En modern och effektiv djurhållning med hållbara arbetsmetoder och höga krav på djurvälfärd lägger grunden för långsiktigt hållbara verksamheter inom djuruppfödning. Centralt i ämnet djurhållning – lantbruksdjur är hantering av djur, djurens behov och vistelsemiljöer, djuretik samt lagar och andra bestämmelser som reglerar djurhållning av olika slag. I ämnet ingår även manövrering och hantering av maskiner och teknisk utrustning för att utföra olika arbetsuppgifter inom djurhållning och anläggningsskötsel.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet djurhållning – lantbruksdjur ska syfta till att eleverna utvecklar kunskaper för yrkesarbete med lantbruksdjur. Den ska leda till att eleverna utvecklar kunskaper om lantbruksdjurs egenskaper och naturliga beteenden samt om etologi. Den ska också leda till att eleverna utvecklar förmåga att sköta lantbruksdjur på ett säkert sätt med vetenskapligt beprövade metoder som grund. Undervisningen ska vidare bidra till att eleverna utvecklar ansvarskänsla och beredskap till klok och praktisk handling med utgångspunkt i djurets välfärd. I undervisningen ska eleverna också ges möjlighet att reflektera över etiska frågor som rör djurhållning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att sköta och underhålla djurstallar och anläggningar. Undervisningen ska också bidra till att eleverna utvecklar förmåga att välja och använda redskap, maskiner och andra tekniska hjälpmedel på ett ändamålsenligt och säkert sätt. Eleverna ska ges möjlighet att utveckla förmåga att arbeta ergonomiskt samt att använda miljömässigt hållbara arbetsmetoder. Dessutom ska eleverna ges möjlighet att utveckla förmåga att förebygga skador och sjukdomar hos lantbruksdjur. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller i samband med djurhållning.</p> <p>Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att hantera och sköta lantbruksdjur och anläggningar med användning av ändamålsenliga verktyg, maskiner och redskap samt tekniska hjälpmedel. Genom stallturer, observationer och fältstudier i olika vistelsemiljöer ska eleverna ges möjlighet att följa lantbruksdjurs utveckling, hälsa och välbefinnande samt utveckla kunskaper om etologi.</p> <h5><em>Undervisningen i ämnet djurhållning – lantbruksdjur ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om lantbruksdjurs egenskaper och naturliga beteenden samt om etologi.</li> <li>Förmåga att hantera och sköta lantbruksdjur på ett etiskt och säkert sätt.</li> <li>Förmåga att sköta och underhålla stallar och anläggningar.</li> <li>Förmåga att använda redskap, maskiner och andra tekniska hjälpmedel på ett säkert sätt.</li> <li>Förmåga att använda hållbara arbetsmetoder samt att förebygga ohälsa hos lantbruksdjur.</li> <li>Kunskaper om lagar och andra bestämmelser som rör djurhållning.</li> </ul><h3>Nivåer i ämnet djurhållning – lantbruksdjur</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet naturbruk. Betyg i djurhållning – lantbruksdjur som omfattar nivå 1 kan inte ingå i elevens examen tillsammans med betyg i djurhållning – häst som omfattar nivå 1 eller betyg i djurhållning – sällskapsdjur som omfattar nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: DJUA1000X</h3>",
+      "code": "DJUA1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet djurhållning – lantbruksdjur på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Biologisk grund</em></p> <ul> <li>Lantbruksdjurs naturliga miljö och naturliga beteende.</li> <li>Domesticeringens inverkan på olika djurslag.</li> <li>Djurvälfärdsbegreppet och etologiska grundbegrepp, till exempel stimuli, rangordning, flockbeteende, tomgångshandlingar, överslagshandlingar och omriktat beteende.</li> <li>Beteendestudier på lantbruksdjur av olika arter i olika miljöer och med olika ålder.</li> <li>Åtgärder för att främja naturliga beteenden i samband med djurhållning.</li> <li>Näringsbehov hos olika arter av lantbruksdjur.</li> <li>Foderhygien och förebyggande smittskyddsåtgärder i samband med lantbruksdjursskötsel.</li> <li>Zoonoser samt förebyggande åtgärder.</li> </ul> <p><em>Arbetsuppgifter</em></p> <ul> <li>Daglig skötsel av lantbruksdjur, till exempel utfodring, gödselhantering och tillsyn.</li> <li>Planering och organisation av arbetet samt dokumentation och uppföljning.</li> <li>Hantering av lantbruksdjur i djurstallar, rasthagar och betesdrift med utgångspunkt i djurens beteende och behov.</li> <li>Kontroll av foderkvalitet samt hantering av foder.</li> <li>Visitering av djur i samband med tillsyn och skötsel.</li> <li>Säkerhet och etiska frågor i samband med hantering av lantbruksdjur.</li> <li>Hantering av djur i samband med transport.</li> <li>Skötsel, underhåll och daglig tillsyn av stallar, inredning och teknisk utrustning. Hantering av strömedel och gödsel.</li> <li>Klimatkontroll utifrån djurens behov innefattande värme, ventilation, luftfuktighet och ljus.</li> <li>Skötsel av beten och rasthagar.</li> <li>Hantering av handverktyg och tekniska hjälpmedel i samband med skötsel av djur och anläggningar.</li> <li>Arbete med maskiner och teknisk utrustning i samband med arbete med lantbruksdjur och anläggningar med hänsyn till djur och säkerhet.</li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor samt lagar och andra bestämmelser</em></p> <ul> <li>Riskbedömning och förebyggande säkerhet i samband med användning av maskiner och teknisk utrustning.</li> <li>Frågor om ergonomi samt hur val av arbetsmetoder och arbetssätt inom lantbruksdjurhållning kan påverka ett långsiktigt hållbart arbetsliv.</li> <li>Resurseffektivitet och miljöhänsyn.</li> <li>Lagar och andra bestämmelser som gäller lantbruksdjur, däribland djurskyddslagen.</li> <li>Frågor om tillstånd, registrering och märkning av lantbruksdjur.</li> <li>Bestämmelser vid transport av djur.</li> <li>Bestämmelser som rör slakt av djur, till exempel karenstider och renhet.</li> <li>Miljölagstiftning i samband med djurhållning.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven redogör <strong>översiktligt</strong> för olika lantbruksdjurs egenskaper och naturliga beteende. I redogörelsen använder eleven med <strong>viss säkerhet</strong> etologiska begrepp.</p> <p>Eleven sköter och hanterar lantbruksdjur på ett etiskt och säkert sätt och tar med <strong>viss säkerhet</strong> hänsyn till djurens behov och verksamhetens krav.</p> <p>Eleven sköter och underhåller stallar och anläggningar med <strong>godtagbart</strong> resultat.</p> <p>Eleven använder med <strong>visst</strong> handlag maskiner och teknisk utrustning. I arbetet gör eleven <strong>enkla</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder.</p> <p>Eleven använder hållbara arbetsmetoder och tar hänsyn till miljön. Eleven redogör <strong>översiktligt</strong> för hygien och smittskydd och främjar med <strong>viss säkerhet</strong> god hälsa hos djuren.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser som gäller djurhållning.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven redogör <strong>utförligt</strong> för olika lantbruksdjurs egenskaper och naturliga beteende. I redogörelsen använder eleven med <strong>säkerhet</strong> etologiska begrepp.</p> <p>Eleven sköter och hanterar lantbruksdjur på ett etiskt och säkert sätt och tar med <strong>säkerhet</strong> hänsyn till djurens behov och verksamhetens krav.</p> <p>Eleven sköter och underhåller stallar och anläggningar med <strong>gott</strong> resultat.</p> <p>Eleven använder med <strong>gott</strong> handlag maskiner och teknisk utrustning. I arbetet gör eleven <strong>välgrundade</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder.</p> <p>Eleven använder hållbara arbetsmetoder och tar hänsyn till miljön. Eleven redogör <strong>utförligt</strong> för hygien och smittskydd och främjar med <strong>säkerhet</strong> god hälsa hos djuren.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser som gäller djurhållning.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika lantbruksdjurs egenskaper och naturliga beteende. I redogörelsen använder eleven med <strong>god säkerhet</strong> etologiska begrepp.</p> <p>Eleven sköter och hanterar lantbruksdjur på ett etiskt och säkert sätt och tar med <strong>god säkerhet</strong> hänsyn till djurens behov och verksamhetens krav.</p> <p>Eleven sköter och underhåller stallar och anläggningar med <strong>mycket gott</strong> resultat.</p> <p>Eleven använder med <strong>mycket gott</strong> handlag maskiner och teknisk utrustning. I arbetet gör eleven <strong>välgrundade och nyanserade</strong> riskbedömningar och vidtar förebyggande säkerhetsåtgärder.</p> <p>Eleven använder hållbara arbetsmetoder och tar hänsyn till miljön. Eleven redogör <strong>utförligt och nyanserat</strong> för hygien och smittskydd och främjar med <strong>god säkerhet</strong> god hälsa hos djuren.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser som gäller djurhållning.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:26.983Z"
+}

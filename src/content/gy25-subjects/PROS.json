@@ -1,0 +1,63 @@
+{
+  "code": "PROS",
+  "name": "Produktionsstyrning – VVS",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:557",
+  "nameHeading": "<h2>Produktionsstyrning – VVS</h2>",
+  "description": "<p>Ämnet produktionsstyrning – VVS behandlar arbetsledning i den arbetsprocess där tekniska system och anläggningar inom teknikområdet VVS-installation projekteras och dokumenteras. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsstyrning – VVS ska syfta till att eleverna utvecklar förståelse av processen när installation av VVS-anläggningar planeras, genomförs och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer tids- och resursplaneras utifrån en beställares projektbeskrivning. Undervisningen ska även leda till att eleverna utvecklar förståelse av den tekniska utvecklingen inom teknikområdet VVS-installation och av samspelet mellan teknik och människa.</p> <p>Undervisningen ska belysa hur produktionsstyrning genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar beskrivs genom projektdokument. Eleverna ska även ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera om förslag och lösningar i projekteringsarbeten. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser samt om standarder för VVS-installationer.</p> <p>Datorstödda tillämpningar är vanliga verktyg för planering och styrning av VVS-projektering. Undervisningen ska därför bidra till att eleverna utvecklar färdigheter i att framställa dokument för produktionsstyrning. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. På så vis ska eleverna ges möjlighet att praktiskt studera hur arbete med VVS-installationer går till samt att omsätta sina kunskaper om produktionsstyrning till omdömesgilla och praktiska handlingar. Undervisningen ska leda till att eleverna utvecklar förståelse för betydelsen av samordning med närliggande yrkesgrupper.</p> <h5><em>Undervisningen i ämnet produktionsstyrning – VVS ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Färdigheter i att framställa teknisk dokumentation för produktionsstyrning med hjälp av it-stöd.</li> <li>Förmåga att tolka och använda tekniska dokument från projektering.</li> <li>Kunskaper om lagar och andra bestämmelser samt om standarder för VVS-installationer.</li> <li>Kunskaper om entreprenadarbete med VVS-anläggningar.</li> <li>Kunskaper om samverkan med andra entreprenörer.</li> </ul><h3>Nivåer i ämnet produktionsstyrning – VVS</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: PROS100TX</h3>",
+      "code": "PROS100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet produktionsstyrning – VVS på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Dokumentation</em></p> <ul> <li>Arbetsordning för montör.</li> <li>Ändringsarbete, tilläggsarbete och avgående arbete (ÄTA).</li> <li>Framställning av tids- och resursplaner. Programvaror för tids- och resursplanering.</li> <li>Hantering av arbetsorder och ÄTA.</li> <li>Beställning och kalkylering av material samt ekonomisk uppföljning.</li> <li>Tolkning och användning av byggnadsritningar.</li> <li>Tolkning och användning av elscheman av olika typer.</li> <li>Tolkning och användning av tekniska beskrivningar baserade på AMA VVS och kyla (Allmän material- och arbetsbeskrivning för värme, ventilation, sanitet och kyla).</li> </ul> <p><em>Regelverk</em></p> <ul> <li>Lagar och andra bestämmelser inom området, däribland plan- och bygglagen (PBL) och Boverkets byggregler (BBR) samt hur dessa påverkar arbetet med VVS-installationer.</li> <li>Kompetens- och utförandekrav enligt VVS-områdets regler för säker vatteninstallation. Kravens koppling till BBR.</li> <li>Säkerhet, däribland brandfarliga arbeten, ställningsbyggande och arbete från stege.</li> <li>AMA-VVS och kyla, däribland dess struktur, användningsform och funktion i en teknisk beskrivning.</li> </ul> <p><em>Produktionsstyrning</em></p> <ul> <li>Projektledarrollen i samband med produktionsstyrning. Samverkan med olika aktörer vid VVS-arbete.</li> <li>Problem och vinster med samordning av bygg-, VVS- och elarbeten.</li> <li>Byggnadsinformationsmodellering (BIM), däribland dess konsekvenser för produktionsstyrning.</li> <li>Teknisk utveckling inom VVS-området och hur den påverkar människors arbets- och boendemiljöer.</li> </ul> <p><em>Entreprenadarbete</em></p> <ul> <li>System för inomhusklimat, ventilation, komfortkyla, värme, tappvatten och avlopp samt hur de anpassas till krav på miljömässig hållbarhet.</li> <li>Tillfälliga VVS-anläggningar.</li> <li>Egenkontroller av utfört arbete.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven framställer teknisk dokumentation för produktionsstyrning inom VVS-området på ett <strong>fungerande</strong> sätt. I arbetet använder eleven relevant it-stöd.</p> <p>Eleven använder med <strong>säkerhet</strong> tekniska dokument från projektering.</p> <p>Eleven visar <strong>godtagbara</strong> kunskaper om lagar och andra bestämmelser samt om standarder som gäller VVS-installationer.</p> <p>Eleven redogör <strong>övergripande</strong> för entreprenadarbete med VVS-anläggningar.</p> <p>Eleven resonerar <strong>övergripande</strong> om hur samverkan med andra entreprenörer kan gå till.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven framställer teknisk dokumentation för produktionsstyrning inom VVS-området på ett <strong>ändamålsenligt</strong> sätt. I arbetet använder eleven relevant it-stöd.</p> <p>Eleven använder med <strong>god säkerhet</strong> tekniska dokument från projektering.</p> <p>Eleven visar <strong>goda</strong> kunskaper om lagar och andra bestämmelser samt om standarder som gäller VVS-installationer.</p> <p>Eleven redogör <strong>utförligt</strong> för entreprenadarbete med VVS-anläggningar.</p> <p>Eleven resonerar <strong>utvecklat</strong> om hur samverkan med andra entreprenörer kan gå till.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven framställer teknisk dokumentation för produktionsstyrning inom VVS-området på ett <strong>ändamålsenligt och effektivt</strong> sätt. I arbetet använder eleven relevant it-stöd.</p> <p>Eleven använder med <strong>mycket god säkerhet</strong> tekniska dokument från projektering.</p> <p>Eleven visar <strong>mycket goda</strong> kunskaper om lagar och andra bestämmelser samt om standarder som gäller VVS-installationer.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för entreprenadarbete med VVS-anläggningar.</p> <p>Eleven resonerar <strong>välutvecklat och nyanserat</strong> om hur samverkan med andra entreprenörer kan gå till.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.066Z"
+}

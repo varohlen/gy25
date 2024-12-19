@@ -1,0 +1,64 @@
+{
+  "code": "SMAS",
+  "name": "Småskalig skogsteknik",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-01-26",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:113",
+  "nameHeading": "<h2>Småskalig skogsteknik</h2>",
+  "description": "<p>Ämnet småskalig skogsteknik behandlar de maskiner och den tekniska utrustning som används inom småskaligt skogsbruk. Maskiner och teknisk utrustning som används i samspel med biologiska förutsättningar och biologiska metoder bidrar till en hög kvalitet på skogsbrukets produkter och tjänster samt till en hållbar utveckling. Med hjälp av maskiner och teknisk utrustning kan arbetsuppgifter utföras rationellt och med en ökad precision.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet småskalig skogsteknik ska syfta till att eleverna utvecklar kunskaper för yrkesmässigt arbete inom småskaligt skogsbruk. Undervisningen ska leda till att eleverna utvecklar förmåga att använda maskiner och teknisk utrustning för att utföra arbetsuppgifter inom skogsvård och produktion av skogsråvara. Den ska också bidra till att eleverna utvecklar kunskaper om den tekniska utrustningens konstruktion, funktion och inställningsmöjligheter samt förmåga att vårda och underhålla teknisk utrustning.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att använda säkra arbetsmetoder som främjar ekonomisk och miljömässig hållbarhet. I detta ingår en effektiv användning av resurser samt en biologisk förståelse av maskinanvändningens påverkan på skog och mark. Eleverna ska dessutom ges möjlighet att utveckla förmåga att arbeta i enlighet med lagar och andra bestämmelser som gäller arbete med maskiner och teknisk utrustning inom småskaligt skogsbruk. Praktiska övningar, fältstudier, undersökande arbetssätt och laborationer i fält ska ingå i undervisningen.</p> <h5><em>Undervisningen i ämnet småskalig skogsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda maskiner och teknisk utrustning för att utföra olika arbetsuppgifter inom småskaligt skogsbruk.</li> <li>Förmåga att vårda och underhålla maskiner och teknisk utrustning.</li> <li>Förmåga att arbeta säkert och ergonomiskt samt ekonomiskt och miljömässigt hållbart.</li> <li>Förmåga att arbeta i enlighet med lagar och andra bestämmelser inom området.</li> </ul><h3>Nivåer i ämnet småskalig skogsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet motor- och röjmotorsåg.</li></ul>",
+  "categories": [
+    {
+      "name": "Yrkesämne",
+      "code": "VOCATIONAL"
+    }
+  ],
+  "schoolTypes": [
+    "GY",
+    "VUXGY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: SMAS1000X</h3>",
+      "code": "SMAS1000X",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet småskalig skogsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Teknisk grund</em></p> <ul> <li>Konstruktions- och funktionsbeskrivningar av samt användningsområden för maskiner och teknisk utrustning.</li> <li>Motorbränslen, alternativa drivmedel och smörjmedel.</li> <li>Daglig tillsyn och underhåll, till exempel tvätt, smörjning och påfyllning av drivmedel och vätskor.</li> <li>Användning av instruktions- och handböcker.</li> </ul> <p><em>Arbete med småskalig skogsteknik</em></p> <ul> <li>Arbete med småskalig skogsteknik, till exempel griplastarvagnar, miniprocessorer, minilunnare och småskalig sågning.</li> <li>Användning av tilläggsutrustning, till exempel hjulkedjor och vinschar.</li> <li>Inställning och användning av teknisk utrustning, till exempel mätteknik och positionsbestämning.</li> <li style=\"font-style: italic;\"><em>Bedömning av kvalitet på utfört arbete och beräkning av ekonomiskt resultat.</em></li> </ul> <p><em>Arbetsmiljö, säkerhetsfrågor och bestämmelser</em></p> <ul> <li>Inställning av förarplatsens utrustning för ergonomisk, effektiv och säker körning.</li> <li>Ergonomi i samband med arbete med aktuella fordon och maskiner.</li> <li>Bränsleekonomi och effektiv användning av fordon.</li> <li>Miljöhänsyn i samband med körning av fordon.</li> <li>Risker och förebyggande säkerhetsarbete vid arbete med småskalig skogsteknik.</li> <li>Användning av skyddsutrustning.</li> <li>Brandförebyggande åtgärder.</li> <li>Lagar och andra bestämmelser inom området, till exempel miljölagstiftning och säkerhetsföreskrifter.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket och 20 kap. 37 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven följer arbetsinstruktioner och använder med <strong>visst</strong> handlag maskiner och teknisk utrustning för att utföra arbetsuppgifter inom småskaligt skogsbruk. Resultatet av arbetet är <strong>godtagbart</strong>.</p> <p>Eleven vårdar och underhåller maskinerna och den tekniska utrustningen med <strong>godtagbart</strong> resultat.</p> <p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom använder eleven ekonomiskt och miljömässigt hållbara arbetsmetoder.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven följer arbetsinstruktioner och använder med <strong>gott</strong> handlag maskiner och teknisk utrustning för att utföra arbetsuppgifter inom småskaligt skogsbruk. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven vårdar och underhåller maskinerna och den tekniska utrustningen med <strong>gott</strong> resultat.</p> <p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom använder eleven ekonomiskt och miljömässigt hållbara arbetsmetoder.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven följer arbetsinstruktioner och använder med <strong>mycket gott</strong> handlag maskiner och teknisk utrustning för att utföra arbetsuppgifter inom småskaligt skogsbruk. Resultatet av arbetet är <strong>mycket gott</strong>.</p> <p>Eleven vårdar och underhåller maskinerna och den tekniska utrustningen med <strong>mycket gott</strong> resultat.</p> <p>Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen. Dessutom använder eleven ekonomiskt och miljömässigt hållbara arbetsmetoder.</p> <p>Eleven arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.081Z"
+}

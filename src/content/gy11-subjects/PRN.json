@@ -1,0 +1,142 @@
+{
+  "code": "PRN",
+  "name": "Produktionsutveckling",
+  "englishName": "Production",
+  "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "startDate": "2022-07-01",
+  "modifiedDate": "2022-06-23",
+  "version": "gy11",
+  "versionInfo": "Betygskriterier ersätter kunskapskrav",
+  "skolfsGrund": "2018:20",
+  "skolfsAndring": "2022:256",
+  "nameHeading": "<h2>Produktionsutveckling</h2>",
+  "description": "<p>Ämnet produktionsutveckling behandlar produktionsprocessen från beredning till färdig produkt och hur alla delar i processen behöver samverka för att skapa en fungerande produktion. Det omfattar även digitalisering av industrin med fokus på utveckling av produktion. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet produktionsutveckling ska syfta till att eleverna utvecklar ett helhetsperspektiv för produktionsprocessen<em>.</em> I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprocessen från idéframtagning och behovsanalys genom de olika utvecklingsstegen fram till slutgiltig produkt. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att lösa problem och att samverka mellan teori och praktik. Eleverna ska även ges möjlighet att utveckla förståelse av tillverkningsprocesser och deras förädlingssteg. Vidare ska eleverna ges möjlighet att utveckla förståelse av produktionsberedning samt av samverkan mellan en produkts design, funktion och produktion.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla specialiserade kunskaper inom styrning och ledning av produktionsflöden samt effektiviseringar för en konkurrenskraftig produktion med föränderliga behov från interna och externa kunder. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om vikten av driftsäkerhet, underhåll, ständiga förbättringar och hållbar utveckling.</p> <p>Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om olika metoder och verktyg inom industriell digitalisering och därigenom utvecklar förmåga att analysera och utveckla en produktion utifrån de möjligheter som digitalisering medför.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förståelse av individens ansvar i arbetssituationer och dess betydelse för slutresultatet.</p> <h4>Undervisningen i ämnet produktionsutveckling ska ge eleverna förutsättningar att utveckla följande:</h4> <p>1. Kunskaper om produktionsprocessen och förståelse av hur alla delar i processen behöver samverka för en fungerande och konkurrenskraftig hållbar produktion.</p> <p>2. Kunskaper om produktionsberedning och hur design och produktion är beroende av en fungerande beredning.</p> <p>3. Kunskaper om materialval, produktionsmetoder och produktionsekonomi.</p> <p>4. Kunskaper om produktionsflöden och förmåga att genomföra värdeflödesanalyser.</p> <p>5. Kunskaper om driftsäkerhet och förmåga att genomföra och planera underhåll.</p> <p>6. Förståelse av organisationsenheter, tillverkningsprocesser, produktionsutrustning och de förädlingssteg en produkt behöver genomgå i olika produktionslinjer.</p> <p>7. Kunskaper om olika metoder och verktyg inom industriell digitalisering.</p> <p>8. Förmåga att analysera och utveckla en produktion utifrån de möjligheter som digitalisering medför samt att ta fram en digitaliseringsstrategi för ett mindre företag eller produktionsavsnitt.</p> <p>9. Förmåga att kommunicera och samarbeta med andra samt att värdera sitt eget arbete.</p><h3>Kurser i ämnet</h3><ul><li>Produktionsutveckling 1, 100 poäng. </li> <li>Produktionsutveckling 2, 100 poäng, som bygger på kursen produktionsutveckling 1.</li> <li>Industriell digitalisering, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Kurskod: PRNPRO31</h3>",
+      "code": "PRNPRO31",
+      "nameHeading": "<h2>Produktionsutveckling 1, 100 poäng</h2>",
+      "name": "Produktionsutveckling 1",
+      "englishName": "Production 1",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p>Kursen produktionsutveckling 1 omfattar punkterna 1–3, 6 och 9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Helhetsperspektiv för problemlösning samt hur teori och praktik samverkar.</li> <li>Kartläggning och analys av produktionsprocessen och dess delar samt förbättringsförslag.</li> <li>Systemförståelse för tillverkningsprocesser och deras förädlingssteg.</li> <li>Beredning, design och produktion av en produkt.</li> <li>Framställning och analys av beredning av produkt eller process.</li> <li>Hur förändringar av en produkts design och funktion påverkar tillverkning och produktion.</li> <li>Betydelsen av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde.</li> <li>Olika underhållsformer, till exempel avhjälpande, förebyggande och förbättrande underhåll.</li> <li>Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.</li> <li>Uppbyggnad av produktionslinjer, arbetsplatsutformning och hur produktionsutrustning kopplas samman till produktionslinjer.</li> <li>Gällande säkerhetsföreskrifter för valt produktionsområde.</li> <li>Kommunikation och samarbete och dess betydelse för produktion och organisation.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande</strong> för produktionsprocessen och dess utvecklingssteg samt ger förslag på hur processen kan förbättras. Vidare resonerar eleven <strong>med säkerhet</strong> om hur en fungerande, konkurrenskraftig och hållbar produktion fungerar.</p> <p>Eleven redogör <strong>övergripande</strong> för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion. Eleven resonerar vidare <strong>övergripande </strong>om betydelsen av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde. Eleven redogör <strong>övergripande </strong>utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p> <p>Eleven ger utifrån fallbeskrivningar och <strong>efter samråd </strong>med handledare förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p> <p>Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra samt resonerar <strong>övergripande </strong>om produktionsutveckling. Eleven bedömer <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för produktionsprocessen och dess utvecklingssteg samt ger <strong>välgrundade</strong> förslag på hur processen kan förbättras. Vidare resonerar eleven<strong> med god säkerhet</strong> kring hur en fungerande, konkurrenskraftig och hållbar produktion fungerar.</p> <p>Eleven redogör <strong>utförligt</strong> för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion. Eleven resonerar vidare <strong>utförligt</strong> för betydelse av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde. Eleven redogör <strong>utförligt </strong>utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven ger utifrån fallbeskrivningar <strong>självständigt</strong> <strong>efter samråd </strong>med handledare förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning. Resultatet av arbetet är <strong>tillfredsställande</strong>.</p> <p>Eleven samarbetar och kommunicerar <strong>med god säkerhet</strong> med andra samt resonerar <strong>utförligt</strong> om produktionsutveckling. Eleven bedömer <strong>med god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för produktionsprocessen och dess utvecklingssteg samt ger <strong>välgrundade och nyanserade</strong> förslag på hur processen kan förbättras. Vidare resonerar eleven <strong>med mycket god säkerhet</strong> kring hur en fungerande, konkurrenskraftig och hållbar produktion fungerar.</p> <p>Eleven redogör <strong>utförligt och nyanserat</strong> för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion. Eleven redogör <strong>utförligt och nyanserat</strong> för betydelse av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde. Eleven redogör <strong>utförligt och nyanserat </strong>utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven ger utifrån fallbeskrivningar<strong> självständigt</strong> förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning. Resultatet av arbetet är <strong>gott</strong>.</p> <p>Eleven samarbetar och kommunicerar <strong>med mycket god säkerhet</strong> samt resonerar <strong>utförligt</strong> <strong>och nyanserat</strong> om produktionsutveckling. Eleven bedömer <strong>med mycket god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRNPRO32</h3>",
+      "code": "PRNPRO32",
+      "nameHeading": "<h2>Produktionsutveckling 2, 100 poäng</h2>",
+      "name": "Produktionsutveckling 2",
+      "englishName": "Production 2",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p>Kursen produktionsutveckling 2 omfattar punkterna 4–6 och 9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Hur teori och praktik samverkar vid problemlösning och vikten av att förstå helheten för att hitta grundläggande orsaker till problem.</li> <li>Beredning av en produkt med avseende på design, produktion och ekonomi.</li> <li>Uppbyggnad av produktionslinje inklusive fabrikslayout och arbetsplatsutformning till stöd för ökad effektivitet och förbättrad arbetsmiljö.</li> <li>Produktionsflöden och olika sätt att styra och leda produktionen.</li> <li>Värdeflödesanalys av material- och informationsflöde samt arbetssätt för att optimera, stabilisera och öka konkurrenskraft och ekonomisk vinning på produkt och process.</li> <li>Samband mellan driftsäkerhet och företagets totalekonomi.</li> <li>Beredning och planering av underhållsupplägg samt skapande av standarder för driftsäkerhet.</li> <li>Effektivitetsstrategier för ökad driftsäkerhet genom standarder och ständiga förbättringar av underhåll på produkt och process.</li> <li>Produktionsenheters organisering.</li> <li>Kommunikation och samarbete mellan olika sektioner inom produktionsprocessen, till exempel kunder, leverantörer och olika personalgrupper.</li> <li>Vikten av arbetsmiljö både ur ett fysiskt och psykiskt perspektiv med hänsyn till ergonomi och arbetsplatsutformning.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven genomför <strong>efter samråd </strong>med handledare en värdeflödesanalys på en produktionslinje och föreslår <strong>med säkerhet </strong>hur den kan optimeras när det gäller arbetsplatsutformning, produktionslayout med tillhörande produktionsutrustning samt arbetsmiljö och säkerhetsföreskrifter. Eleven ger förslag på hur optimeringen kan implementeras. <strong> </strong></p> <p>Eleven redogör <strong>övergripande </strong>för olika underhållsformer. Eleven bereder och planerar dessutom <strong>efter samråd </strong>med handledare ett underhållsupplägg. I arbetet väljer eleven lämpliga metoder för underhåll och ökad driftsäkerhet samt ger förslag på effektiviseringsstrategier och standarder för ständiga förbättringar.</p> <p>Eleven redogör <strong>övergripande </strong>för olika organisationsenheter, deras ansvarsområden och samarbete. I redogörelsen beskriver eleven även <strong>övergripande</strong> hur en arbetsorganisation kan utformas för att bli ett stöd i företagets utveckling och produktion för ökad konkurrenskraft.</p> <p>Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> samt resonerar <strong>övergripande </strong>om produktionsutveckling. Eleven bedömer <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven genomför <strong>självständigt</strong> <strong>efter samråd </strong>med handledare en värdeflödesanalys på en produktionslinje och föreslår <strong>med god säkerhet</strong> hur den kan optimeras när det gäller arbetsplatsutformning, produktionslayout med tillhörande produktionsutrustning samt arbetsmiljö och säkerhetsföreskrifter. Eleven ger <strong>välgrundade </strong>förslag på hur optimeringen kan implementeras. <strong> </strong></p> <p>Eleven redogör <strong>utförligt </strong>för olika underhållsformer. Eleven bereder och planerar dessutom <strong>självständigt efter samråd </strong>med handledare ett underhållsupplägg. I arbetet väljer eleven lämpliga metoder för underhåll och ökad driftsäkerhet samt ger <strong>välgrundade</strong> förslag på effektiviseringsstrategier och standarder för ständiga förbättringar.</p> <p>Eleven redogör <strong>utförligt </strong>för olika organisationsenheter, deras ansvarsområden och samarbete. I redogörelsen beskriver eleven även <strong>utförligt</strong> hur en arbetsorganisation kan utformas för att bli ett stöd i företagets utveckling och produktion för ökad konkurrenskraft.</p> <p>Eleven samarbetar och kommunicerar <strong>med god säkerhet</strong> samt resonerar <strong>utförligt</strong> om produktionsutveckling. Eleven bedömer <strong>med god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven genomför <strong>självständigt </strong>en värdeflödesanalys på en produktionslinje och föreslår <strong>med mycket god säkerhet</strong> hur den kan optimeras när det gäller arbetsplatsutformning, produktionslayout med tillhörande produktionsutrustning samt arbetsmiljö och säkerhetsföreskrifter. Eleven ger <strong>välgrundade och nyanserade </strong>förslag på hur optimeringen kan implementeras.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för olika underhållsformer. Eleven bereder och planerar <strong>självständig</strong>t ett underhållsupplägg. I arbetet väljer eleven lämpliga metoder för underhåll och ökad driftsäkerhet samt ger <strong>välgrundade och nyanserade</strong> förslag på effektiviseringsstrategier och standarder för ständiga förbättringar.</p> <p>Eleven redogör <strong>utförligt och nyanserat </strong>för olika organisationsenheter, deras ansvarsområden och samarbete. I redogörelsen beskriver eleven även <strong>utförligt och nyanserat</strong> hur en arbetsorganisation kan utformas för att bli ett stöd i företagets utveckling och produktion för ökad konkurrenskraft.</p> <p>Eleven samarbetar och kommunicerar <strong>med</strong> <strong>mycket god säkerhet</strong> samt resonerar <strong>utförligt och nyanserat </strong>om produktionsutveckling. Eleven bedömer <strong>med mycket god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    },
+    {
+      "codeHeading": "<h3>Kurskod: PRNIND3</h3>",
+      "code": "PRNIND3",
+      "nameHeading": "<h2>Industriell digitalisering, 100 poäng</h2>",
+      "name": "Industriell digitalisering",
+      "englishName": "Industrial digitalisation",
+      "points": "100",
+      "typeOfSyllabus": "COURSE_IN_SUBJECT_SYLLABUS",
+      "sortOrder": 3,
+      "description": "<p>Kursen industriell digitalisering omfattar punkterna 7–9 under rubriken Ämnets syfte.</p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<h4>Undervisningen i kursen ska behandla följande centrala innehåll:</h4><ul> <li>Den uppkopplade fabriken och hur nya möjligheter skapas, till exempel genom realtidsuppföljning på distans, övervakning samt insamling och bearbetning av data.</li> <li>Hur en digital kopia av fabriken kan användas i design, planering, utbildning, driftsättning och effektivisering, till exempel genom virtuella tester, simulering och emulering.</li> <li>Förstärkt verklighet och hur nya effektiva arbetssätt kan utvecklas, till exempel genom projicering av digital information i verklig miljö och vägledning på distans.</li> <li>Miljösmart produktion och att använda digitaliseringens möjligheter, till exempel genom energieffektivisering och minskad materialåtgång.</li> <li>Hur flexibel tillverkning kan skapa nya innovativa lösningar för problem, till exempel genom additiv tillverkning (3D-printning).</li> <li>Interaktion mellan människa och maskin, att välja rätt automationsgrad och möjligheter med kollaborativa robotar.</li> <li>De möjligheter digitaliseringen erbjuder genom att skapa nya smarta arbetssätt, flexibla informationskanaler, mötes- och lärmiljöer, till exempel genom QR-koder för informationskoppling, felsökning, kvalitetssäkring och lärande.</li> <li>Nya affärsmodeller som ger kundvärde och affärsnytta genom att använda de möjligheter som digitalisering skapar, till exempel genom cirkulär ekonomi, tjänstefiering och big data som utgångspunkt.</li> <li>Global samverkan och hur digitalisering kan bidra till ökad kundförståelse och effektiv samverkan genom till exempel distanskommunikation, nya lärformer, globala produktionsnätverk och digitaliseringsstrategier.</li> <li>Hur digitalisering och attraktiva arbeten kan skapa vinst för både medarbetare och företag genom till exempel nya arbetssätt, god arbetsmiljö, stimulerande arbete och kunskapsutveckling.</li> </ul>"
+      },
+      "knowledgeReqsHeading": "<h3>Betygskriterier</h3>",
+      "knowledgeRequirements": [
+        {
+          "text": "<h4>Betyget E</h4><p>Eleven redogör <strong>övergripande</strong> för olika begrepp, metoder och verktyg inom industriell digitalisering. Dessutom gör eleven <strong>enkla</strong> reflektioner över digitaliseringens betydelse för industrins konkurrenskraft. Vidare resonerar eleven <strong>övergripande</strong> om olika frågeställningar i samband med digitalisering.</p> <p>Eleven analyserar och utvecklar <strong>efter samråd</strong> med handledare en produktion utifrån nuläge och de möjligheter som digitalisering medför. Eleven väljer lämpliga metoder och verktyg samt dokumenterar sitt arbete och resultat <strong>med säkerhet</strong>. Dessutom tar eleven <strong>med säkerhet </strong>fram en digitaliseringsstrategi för ett mindre företag eller produktionsavsnitt. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna krav.</p> <p>I sitt arbete samarbetar eleven med andra och resonerar <strong>övergripande</strong> om digitaliseringens möjligheter. Eleven kommunicerar och presenterar <strong>med säkerhet</strong> sitt arbete. Eleven bedömer <strong>med säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "E"
+        },
+        {
+          "text": "<h4>Betyget D</h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+          "gradeStep": "D"
+        },
+        {
+          "text": "<h4>Betyget C</h4><p>Eleven redogör <strong>utförligt</strong> för olika begrepp, metoder och verktyg inom industriell digitalisering. Dessutom gör eleven <strong>välgrundade</strong> reflektioner över digitaliseringens betydelse för industrins konkurrenskraft. Vidare resonerar eleven <strong>utförligt</strong> om olika frågeställningar i samband med digitalisering.</p> <p>Eleven analyserar och utvecklar <strong>självständigt efter samråd</strong> med handledare en produktion utifrån nuläge och de möjligheter som digitalisering medför. Eleven väljer lämpliga metoder och verktyg samt dokumenterar sitt arbete och resultat <strong>med god säkerhet</strong>. Dessutom tar eleven <strong>med god säkerhet </strong>fram en digitaliseringsstrategi för ett mindre företag eller produktionsavsnitt. Resultatet av arbetet är <strong>tillfredsställande</strong> utifrån givna krav.</p> <p>I sitt arbete samarbetar eleven med andra och resonerar <strong>utförligt </strong>om digitaliseringens möjligheter. Eleven kommunicerar och presenterar <strong>med god säkerhet</strong> sitt arbete. Eleven bedömer <strong>med god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "C"
+        },
+        {
+          "text": "<h4>Betyget B</h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+          "gradeStep": "B"
+        },
+        {
+          "text": "<h4>Betyget A</h4><p>Eleven redogör <strong>utförligt och nyanserat</strong> för olika begrepp, metoder och verktyg inom industriell digitalisering. Dessutom gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över digitaliseringens betydelse för industrins konkurrenskraft. Vidare resonerar eleven <strong>utförligt och nyanserat</strong> om olika frågeställningar i samband med digitalisering.</p> <p>Eleven analyserar och utvecklar <strong>självständigt </strong>en produktion utifrån nuläge och de möjligheter som digitalisering medför. Eleven väljer lämpliga metoder och verktyg samt dokumenterar sitt arbete och resultat <strong>med</strong> <strong>mycket god säkerhet</strong>. Dessutom tar eleven <strong>med mycket god säkerhet </strong>fram en digitaliseringsstrategi för ett mindre företag eller produktionsavsnitt. Resultatet av arbetet är <strong>gott</strong> utifrån givna krav.</p> <p>I sitt arbete samarbetar eleven med andra och resonerar <strong>utförligt</strong> <strong>och nyanserat</strong> om digitaliseringens möjligheter. Eleven kommunicerar och presenterar <strong>med mycket god säkerhet</strong> sitt arbete. Eleven bedömer <strong>med mycket god säkerhet</strong> den egna förmågan och situationens krav.</p>",
+          "gradeStep": "A"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:05:12.132Z"
+}

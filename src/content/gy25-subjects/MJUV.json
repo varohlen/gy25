@@ -1,0 +1,77 @@
+{
+  "code": "MJUV",
+  "name": "Mjukvarudesign",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:552",
+  "nameHeading": "<h2>Mjukvarudesign</h2>",
+  "description": "<p>Ämnet mjukvarudesign behandlar, främst på processnivå, hur datorprogram, webbapplikationer och andra mjukvaruapplikationer skapas. Ämnet behandlar även metoder och arbetssätt inom mjukvaruutveckling. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar från idé, analys och modellering till driftsättning och förvaltning. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om möjliga konsekvenser som olika licenser och betalningsformer kan medföra. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda verktyg för såväl utveckling av mjukvara som för samarbete, testning och dokumentation. Genom undervisningen ska eleverna också ges möjlighet att använda begrepp inom området samt att kommunicera om mjukvarudesign.</p> <p>I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform och med utveckling för olika plattformar. Undervisningen ska även lämna utrymme för diskussion och reflektion över etiska frågor samt olika handlingsalternativ inom mjukvarudesign.</p> <h5><em>Undervisningen i ämnet mjukvarudesign ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om mjukvaruutvecklingens arbetsmetoder och processer.</li> <li>Förmåga att arbeta med utveckling för olika plattformar enligt etablerade principer.</li> <li>Förmåga att konfigurera och använda verktyg för mjukvaruutveckling.</li> <li>Kunskaper om licensfrågor och betalningsmodeller.</li> </ul><h3>Nivåer i ämnet mjukvarudesign</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MJUV100TX</h3>",
+      "code": "MJUV100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet mjukvarudesign på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Process och metodik</em></p> <ul> <li>Utvecklingsmetodik, däribland någon agil metod och någon traditionell metod.</li> <li>Mjukvarans livscykel från idé, produkt och driftsättning till spridning, förvaltning och avveckling.</li> <li>Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall.</li> <li>Design av en lösning utifrån gjord analys med lämpliga verktyg och metoder, till exempel klassdiagram.</li> </ul> <p><em>Utveckling</em></p> <ul> <li>Paketering och distribution av mjukvara.</li> <li>Översikt över de vanligast förekommande plattformarna och deras egenskaper ur ett utvecklingsperspektiv.</li> <li>Utveckling av någon inbyggd eller mobil plattform.</li> <li>Kodkvalitet och kodstandarder.</li> <li>Grundläggande principer för internationalisering och lokalisering.</li> <li>Upprättande av teknisk dokumentation, till exempel genererat från programkodskommentarer.</li> </ul> <p><em>Hantering av verktyg</em></p> <ul> <li>Verktyg och principer för versionshantering i mindre sammanhang och projekt.</li> <li>Kodanalys och kvalitetskontroll, däribland bugghantering, felsökningsmetodik, enklare debuggverktyg, automatiserade tester och optimering av enklare karaktär.</li> <li>Verktyg för projekthantering, ärendehantering och samarbete i mindre projektorganisationer.</li> <li>Utvecklingsmiljöer och infrastrukturbehov i projekt av enklare karaktär.</li> </ul> <p><em>Krav och konsekvenser</em></p> <ul> <li>Licenser och hur licensierad programvara och andra digitala artefakter får användas samt vilka krav och begränsningar som kan följa för ett mindre projekt.</li> <li>Betalningsmodeller för mjukvara.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: MJUV200TX</h3>",
+      "code": "MJUV200TX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet mjukvarudesign på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Process och metodik</em></p> <ul> <li>Utvecklingsmetodik, däribland agila och traditionella metoder.</li> <li>Mjukvarans livscykel från idé, produkt och driftsättning till spridning, förvaltning och avveckling.</li> <li>Analys, nedbrytning och modellering av komplexa programmeringstekniska problem med lämpliga analysverktyg.</li> <li>Design och värdering av lösningar utifrån gjord analys med lämpliga verktyg och metoder.</li> </ul> <p><em>Utveckling</em></p> <ul> <li>Paketering och distribution av mjukvara.</li> <li>Översikt över plattformar och deras egenskaper ur ett utvecklingsperspektiv.</li> <li>Utveckling av några inbyggda och mobila plattformar.</li> <li>Kodkvalitet och kodstandarder.</li> <li>Internationalisering och lokalisering.</li> <li>Upprättande och underhåll av teknisk dokumentation, till exempel genererat från programkodskommentarer.</li> </ul> <p><em>Hantering av verktyg</em></p> <ul> <li>Verktyg och principer för versionshantering i större organisationer och projekt.</li> <li>Kodanalys och kvalitetskontroll, däribland bugghantering, felsökningsmetodik, debuggverktyg, automatiserade tester och optimering.</li> <li>Verktyg för projekthantering, ärendehantering, mjukvaruhantering och samarbete i större projektorganisationer.</li> <li>Utvecklingsmiljöer och infrastrukturbehov i projekt av mer komplex karaktär.</li> </ul> <p><em>Krav och konsekvenser</em></p> <ul> <li>Kravhantering, riskhantering och prioritering.</li> <li>Licenser och hur licensierad programvara och andra digitala artefakter får användas samt vilka krav och begränsningar som kan följa för ett projekt av komplex karaktär.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om mjukvaruutvecklingens arbetsmetoder och processer.</p> <p>Eleven utvecklar programvara för olika plattformar enligt etablerade principer på ett <strong>i huvudsak strukturerat</strong> sätt.</p> <p>Eleven konfigurerar och använder verktyg för mjukvaruutveckling på ett <strong>fungerande</strong> sätt.</p> <p>Eleven för <strong>godtagbara</strong> resonemang om licensfrågor och betalningsmodeller.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om mjukvaruutvecklingens arbetsmetoder och processer.</p> <p>Eleven utvecklar programvara för olika plattformar enligt etablerade principer på ett <strong>strukturerat</strong> sätt.</p> <p>Eleven konfigurerar och använder verktyg för mjukvaruutveckling på ett <strong>ändamålsenligt</strong> sätt.</p> <p>Eleven för <strong>utvecklade</strong> resonemang om licensfrågor och betalningsmodeller.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om mjukvaruutvecklingens arbetsmetoder och processer.</p> <p>Eleven utvecklar programvara för olika plattformar enligt etablerade principer på ett <strong>välstrukturerat</strong> sätt.</p> <p>Eleven konfigurerar och använder verktyg för mjukvaruutveckling på ett <strong>ändamålsenligt och effektivt</strong> sätt.</p> <p>Eleven för <strong>välutvecklade</strong> resonemang om licensfrågor och betalningsmodeller.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.044Z"
+}

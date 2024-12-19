@@ -1,0 +1,63 @@
+{
+  "code": "INDG",
+  "name": "Industriell digitalisering",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2024-05-06",
+  "version": "gy25",
+  "versionInfo": "Första versionen",
+  "skolfsGrund": "2024:541",
+  "nameHeading": "<h2>Industriell digitalisering</h2>",
+  "description": "<p>Ämnet industriell digitalisering behandlar olika metoder och verktyg för digitalisering av industrin. Ämnet behandlar både befintliga och nya digitala teknologier som kan användas för att stärka industrin och bidra till hållbar utveckling. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i ämnet industriell digitalisering ska syfta till att eleverna utvecklar kunskaper om digitaliseringens möjligheter i industrin. Undervisningen ska bidra till att eleverna utvecklar kunskaper om olika begrepp och metoder inom industriell digitalisering samt färdigheter i att tillämpa dessa. Eleverna ska även ges möjlighet att utveckla kunskaper om hur nya digitala verktyg kan användas i industrin samt förmåga att ta fram digitaliseringsstrategier. De ska även ges möjlighet att utveckla kunskaper om hur arbetet görs på ett säkert sätt vid införande av nya teknologier i industrin, exempelvis i samband med kollaborativa robotapplikationer och vid införande av nya it-lösningar.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla förståelse av samband mellan digitalisering, konkurrenskraftig produktion och hållbar utveckling. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att analysera och utveckla en produktion utifrån de möjligheter som digitalisering medför. Undervisningen ska ge eleverna möjlighet att utveckla ingenjörsmässig förmåga att planera, genomföra, dokumentera och utvärdera sitt arbete. Eleverna ska även ges möjlighet att utveckla förmåga att kommunicera och samarbeta med andra.</p> <p>I undervisningen ska eleverna ges möjlighet att kombinera teoretiska och praktiska kunskaper inom ämnesområdet och att arbeta med verkliga industritillämpningar. Undervisningen ska dessutom lämna utrymme för diskussion om och reflektion över etiska frågor samt olika handlingsalternativ inom industriell digitalisering.</p> <h5><em>Undervisningen i ämnet industriell digitalisering ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika begrepp, metoder och verktyg inom industriell digitalisering.</li> <li>Förmåga att analysera och utveckla en produktionskedja utifrån de möjligheter som digitalisering ger.</li> <li>Förmåga att ta fram en digitaliseringsstrategi.</li> <li>Kunskaper om samband mellan digitalisering i industri och hållbar utveckling.</li> <li>Förmåga att kommunicera och utvärdera arbetsprocess och resultat.</li> </ul><h3>Nivåer i ämnet industriell digitalisering</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: INDG100TX</h3>",
+      "code": "INDG100TX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet industriell digitalisering på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Metoder och verktyg</em></p> <ul> <li>Den uppkopplade fabriken och hur nya möjligheter skapas, till exempel genom realtidsuppföljning på distans och övervakning samt insamling och bearbetning av data.</li> <li>Hur artificiell intelligens (AI) kan användas i produktion, till exempel för prediktivt underhåll.</li> <li>Hur en digital kopia av fabriken kan användas i design, planering, utbildning, driftsättning och effektivisering.</li> </ul> <p><em>Analys och utveckling av produktion</em></p> <ul> <li>Möjligheter som digitaliseringen erbjuder genom smarta arbetssätt, flexibla informationskanaler och mötes- och lärmiljöer, till exempel genom QR-koder för informationskoppling, felsökning, kvalitetssäkring och lärande.</li> <li>Förstärkt verklighet och hur nya effektiva arbetssätt kan utvecklas, till exempel genom projicering av digital information i verklig miljö och vägledning på distans.</li> <li>Nya affärsmodeller som ger kundvärde och affärsnytta genom användning av AI och digitalisering, till exempel genom cirkulär ekonomi eller tjänstefiering.</li> <li>Interaktion mellan människa och maskin, val av rätt automationsgrad och möjligheter med kollaborativa robotar.</li> </ul> <p><em>Digitalisering och hållbar utveckling</em></p> <ul> <li>Nulägesanalys av digitaliseringsmognad för ett mindre företag eller produktionsavsnitt.</li> <li>Framtagande av förslag för genomförande av en digitaliseringsstrategi, till exempel för ett mindre företag eller produktionsavsnitt.</li> <li>Samband mellan digitalisering och ekonomisk, social och miljömässig hållbarhet.</li> </ul> <p><em>Kommunikation</em></p> <ul> <li>Centrala begrepp inom området.</li> <li>Kommunikation, dokumentation och presentation inom industriell digitalisering.</li> <li>Utvärdering av arbetsprocess och resultat.</li> </ul>"
+      }
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper om olika begrepp, metoder och verktyg inom industriell digitalisering.</p> <p>Eleven gör en <strong>övergripande</strong> produktionsanalys och ger <strong>fungerande</strong> utvecklingsförslag.</p> <p>Eleven tar fram en <strong>enkel</strong> digitaliseringsstrategi.</p> <p>Eleven resonerar <strong>övergripande</strong> om samband mellan digitalisering i industrin och hållbar utveckling.</p> <p>Eleven kommunicerar och utvärderar med <strong>säkerhet</strong> arbetsprocess och resultat.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper om olika begrepp, metoder och verktyg inom industriell digitalisering.</p> <p>Eleven gör en <strong>utförlig</strong> produktionsanalys och ger <strong>ändamålsenliga</strong> utvecklingsförslag.</p> <p>Eleven tar fram en <strong>genomarbetad</strong> digitaliseringsstrategi.</p> <p>Eleven resonerar <strong>utvecklat</strong> om samband mellan digitalisering i industrin och hållbar utveckling.</p> <p>Eleven kommunicerar och utvärderar med <strong>god säkerhet</strong> arbetsprocess och resultat.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper om olika begrepp, metoder och verktyg inom industriell digitalisering.</p> <p>Eleven gör en <strong>utförlig och nyanserad</strong> produktionsanalys och ger <strong>ändamålsenliga och effektiva</strong> utvecklingsförslag.</p> <p>Eleven tar fram en <strong>väl genomarbetad</strong> digitaliseringsstrategi.</p> <p>Eleven resonerar <strong>välutvecklat och nyanserat</strong> om samband mellan digitalisering i industrin och hållbar utveckling.</p> <p>Eleven kommunicerar och utvärderar med <strong>mycket god säkerhet</strong> arbetsprocess och resultat.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2024-12-18T08:06:27.021Z"
+}
