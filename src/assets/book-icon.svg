@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple, modern book icon -->
+  <path d="M4 4.5V19.5C4 19.7761 4.22386 20 4.5 20H19.5C19.7761 20 20 19.7761 20 19.5V4.5C20 4.22386 19.7761 4 19.5 4H4.5C4.22386 4 4 4.22386 4 4.5Z" 
+        stroke="#2563EB" 
+        stroke-width="1.5"
+        fill="none"/>
+  <!-- Pages effect -->
+  <path d="M4 19.5V4.5C4 4.22386 4.22386 4 4.5 4H19.5C19.7761 4 20 4.22386 20 4.5V19.5C20 19.7761 19.7761 20 19.5 20H4.5C4.22386 20 4 19.7761 4 19.5Z" 
+        stroke="#2563EB" 
+        stroke-width="1.5"
+        fill="none"/>
+  <!-- Spine detail -->
+  <line x1="12" y1="4" x2="12" y2="20" 
+        stroke="#2563EB" 
+        stroke-width="1.5"/>
+</svg>

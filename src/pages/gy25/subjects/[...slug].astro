@@ -1,19 +1,19 @@
 ---
 import { getCollection } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const subjects = await getCollection('gy25-subjects');
   return subjects.map(subject => ({
     params: { slug: subject.data.code.toLowerCase() },
-    props: { subject },
+    props: { subject }
   }));
 }
 
 const { subject } = Astro.props;
 ---
 
-<Layout title={`${subject.data.name} - Kurskompass`}>
+<Layout title={`${subject.data.name} - GY25`}>
   <main class="max-w-4xl mx-auto px-4 py-12">
     <a href="/gy25" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 mb-6">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

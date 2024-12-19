@@ -1,0 +1,74 @@
+---
+import GY25Layout from '../../layouts/GY25Layout.astro';
+
+const colorSchemes = [
+  {
+    name: 'Muted Earth Tones',
+    colors: {
+      yrkesämne: 'bg-amber-50 hover:bg-amber-100',
+      vissaÄmne: 'bg-teal-50 hover:bg-teal-100',
+      other: 'bg-slate-50 hover:bg-slate-100'
+    }
+  },
+  {
+    name: 'Soft Blues',
+    colors: {
+      yrkesämne: 'bg-sky-50 hover:bg-sky-100',
+      vissaÄmne: 'bg-cyan-50 hover:bg-cyan-100',
+      other: 'bg-indigo-50 hover:bg-indigo-100'
+    }
+  },
+  {
+    name: 'Nature Inspired',
+    colors: {
+      yrkesämne: 'bg-emerald-50 hover:bg-emerald-100',
+      vissaÄmne: 'bg-orange-50 hover:bg-orange-100',
+      other: 'bg-blue-50 hover:bg-blue-100'
+    }
+  },
+  {
+    name: 'Warm Neutrals',
+    colors: {
+      yrkesämne: 'bg-stone-50 hover:bg-stone-100',
+      vissaÄmne: 'bg-rose-50 hover:bg-rose-100',
+      other: 'bg-neutral-50 hover:bg-neutral-100'
+    }
+  },
+  {
+    name: 'Cool Professional',
+    colors: {
+      yrkesämne: 'bg-blue-50 hover:bg-blue-100',
+      vissaÄmne: 'bg-slate-50 hover:bg-slate-100',
+      other: 'bg-gray-50 hover:bg-gray-100'
+    }
+  }
+];
+---
+
+<GY25Layout title="Color Test | GY25">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-8">Color Scheme Test</h1>
+    
+    <div class="space-y-12">
+      {colorSchemes.map((scheme) => (
+        <div class="space-y-4">
+          <h2 class="text-xl font-semibold text-gray-900">{scheme.name}</h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div class={`${scheme.colors.yrkesämne} p-6 rounded-lg`}>
+              <h3 class="font-medium text-gray-900">Yrkesämne</h3>
+              <p class="text-gray-600 text-sm mt-2">Example of yrkesämne card color</p>
+            </div>
+            <div class={`${scheme.colors.vissaÄmne} p-6 rounded-lg`}>
+              <h3 class="font-medium text-gray-900">Vissa Ämne</h3>
+              <p class="text-gray-600 text-sm mt-2">Example of vissa ämne card color</p>
+            </div>
+            <div class={`${scheme.colors.other} p-6 rounded-lg`}>
+              <h3 class="font-medium text-gray-900">Other</h3>
+              <p class="text-gray-600 text-sm mt-2">Example of other subjects card color</p>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</GY25Layout>

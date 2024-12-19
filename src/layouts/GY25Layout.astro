@@ -16,35 +16,31 @@ const {
 
 <Layout title={title}>
   <main class="max-w-7xl mx-auto px-4 py-12">
-    <div class="flex flex-col sm:flex-row items-start justify-between gap-4 sm:gap-6 mb-8">
-      <div class="w-full sm:w-auto">
-        <h1 class="text-4xl font-bold text-gray-900 mb-1">
-          GY25
-        </h1>
-        <div class="flex gap-4 mt-4">
-          <a 
-            href="/gy25/subjects" 
-            class={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-              activeView === 'subjects' 
-                ? 'bg-blue-100 text-blue-900' 
-                : 'text-gray-600 hover:bg-gray-100'
-            }`}
-          >
-            Ämnen
-          </a>
-          <a 
-            href="/gy25/courses" 
-            class={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-              activeView === 'courses' 
-                ? 'bg-blue-100 text-blue-900' 
-                : 'text-gray-600 hover:bg-gray-100'
-            }`}
-          >
-            Nivåer
-          </a>
-        </div>
-      </div>
-      <div class="w-full sm:w-80 relative">
+    <div class="flex flex-col items-center gap-6 mb-8">
+      <nav class="flex gap-4">
+        <a 
+          href="/gy25/subjects" 
+          class={`px-6 py-3 rounded-lg text-base font-medium transition-colors ${
+            activeView === 'subjects' 
+              ? 'bg-blue-100 text-blue-900' 
+              : 'text-gray-600 hover:bg-gray-100'
+          }`}
+        >
+          Ämnen
+        </a>
+        <a 
+          href="/gy25/courses" 
+          class={`px-6 py-3 rounded-lg text-base font-medium transition-colors ${
+            activeView === 'courses' 
+              ? 'bg-blue-100 text-blue-900' 
+              : 'text-gray-600 hover:bg-gray-100'
+          }`}
+        >
+          Kurser
+        </a>
+      </nav>
+      
+      <div class="w-full max-w-xl relative">
         <input 
           type="text" 
           id="search-input"

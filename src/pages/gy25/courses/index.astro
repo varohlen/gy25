@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import GY25Layout from '../../../layouts/GY25Layout.astro';
+
+const subjects = await getCollection('gy25-subjects');
+
+// Flatten all courses into a single array with subject information
+const courses = subjects.flatMap(subject => 
+  subject.data.courses?.map(course => ({
+    ...course,
+    subjectName: subject.data.name,
+    subjectCode: subject.data.code,
+  })) || []
+);
+
+// Sort subjects by name
+subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+// Sort courses by subject name and then course name
+courses.sort((a, b) => {
+  const subjectCompare = a.subjectName.localeCompare(b.subjectName);
+  if (subjectCompare !== 0) return subjectCompare;
+  return a.name.localeCompare(b.name);
+});
+
+function getSubjectColor(subject: any) {
+  const categories = subject.data.categories?.map((c: { name: string }) => c.name.toLowerCase()) || [];
+  if (categories.includes('yrkesämne')) {
+    return 'bg-blue-50';       // Light blue
+  } else if (categories.includes('vissa ämne')) {
+    return 'bg-orange-50';    // Light peach
+  } else {
+    return 'bg-emerald-50';   // Soft emerald
+  }
+}
+
+let subjectIndex = -1;
+let currentSubject = '';
+---
+
+<GY25Layout 
+  activeView="courses"
+  searchPlaceholder="Sök på ämne, nivå eller kod..."
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div class="space-y-1 divide-y-2 divide-gray-200">
+      {courses.map((course, index) => {
+        const isNewSubject = currentSubject !== course.subjectName;
+        if (isNewSubject) {
+          subjectIndex++;
+          currentSubject = course.subjectName;
+        }
+        
+        return (
+          <div class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`}>
+            {isNewSubject && (
+              <div class={`${getSubjectColor({data: {categories: subjects.find(s => s.data.name === course.subjectName).data.categories}})} px-4 py-3 border-b border-gray-200 shadow-sm`}>
+                <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
+              </div>
+            )}
+            <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
+              <div class="flex justify-between items-center">
+                <div>
+                  <h3 class="text-base font-medium text-gray-900">
+                    <a 
+                      href={`/gy25/courses/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`}
+                      class="hover:text-blue-600"
+                    >
+                      {course.name}
+                    </a>
+                  </h3>
+                  <p class="text-sm text-gray-500 mt-1">
+                    {course.code}
+                  </p>
+                </div>
+                <div class="text-sm text-gray-500">
+                  {course.points} poäng
+                </div>
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</GY25Layout>

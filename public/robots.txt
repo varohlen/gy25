@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Allow all crawlers
+Sitemap: https://gy25.se/sitemap-index.xml
+
+# Prevent crawling of unnecessary paths
+Disallow: /api/
+Disallow: /*.json$

@@ -1,6 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import GY25Layout from '../../layouts/GY25Layout.astro';
+import GY25Layout from '../../../layouts/GY25Layout.astro';
 
 const subjects = await getCollection('gy25-subjects');
 
@@ -11,11 +11,11 @@ subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
 function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
   const categories = subject.data.categories?.map((c: { name: string }) => c.name.toLowerCase()) || [];
   if (categories.includes('yrkesämne')) {
-    return 'bg-blue-100 hover:bg-blue-200';
+    return 'bg-blue-50 hover:bg-blue-100';       // Light blue (switched from emerald)
   } else if (categories.includes('vissa ämne')) {
-    return 'bg-emerald-100 hover:bg-emerald-200';
+    return 'bg-orange-50 hover:bg-orange-100';   // Light peach
   } else {
-    return 'bg-violet-100 hover:bg-violet-200';
+    return 'bg-emerald-50 hover:bg-emerald-100'; // Soft emerald (switched from blue)
   }
 }
 ---
@@ -33,9 +33,14 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
         <div class="flex justify-between items-start mb-4">
           <div class="flex-grow">
             <div class="flex items-baseline gap-3 mb-1">
-              <h2 class="text-xl font-semibold text-gray-900">
-                {subject.data.name}
-              </h2>
+              <a 
+                href={`/gy25/subjects/${subject.data.code.toLowerCase()}`}
+                class="group"
+              >
+                <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-600">
+                  {subject.data.name}
+                </h2>
+              </a>
               <span class="text-sm font-mono text-gray-600">{subject.data.code}</span>
             </div>
             {subject.data.courses && (
@@ -54,7 +59,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
               </svg>
             </button>
             <a 
-              href={`/gy25/${subject.data.code.toLowerCase()}`}
+              href={`/gy25/subjects/${subject.data.code.toLowerCase()}`}
               class="p-2 hover:bg-white/50 rounded-lg transition-colors"
               aria-label="Gå till ämnesdetaljer"
             >
@@ -74,10 +79,13 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
               <h3 class="text-sm font-medium text-gray-900 mb-2">Nivåer</h3>
               <div class="flex flex-col gap-1">
                 {subject.data.courses.map((course) => (
-                  <p class="text-sm text-gray-600">
-                    {course.name}
-                    <span class="font-mono ml-2">{course.code}</span>
-                  </p>
+                  <a 
+                    href={`/gy25/courses/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
+                    class="text-sm text-gray-600 hover:text-blue-600 flex items-center justify-between group"
+                  >
+                    <span>{course.name}</span>
+                    <span class="font-mono ml-2 text-gray-400 group-hover:text-blue-600">{course.code}</span>
+                  </a>
                 ))}
               </div>
             </div>

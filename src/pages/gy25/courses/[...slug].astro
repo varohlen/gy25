@@ -1,0 +1,133 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const subjects = await getCollection('gy25-subjects');
+  
+  return subjects.flatMap(subject => 
+    subject.data.levels?.map(level => ({
+      params: { 
+        slug: `${subject.data.code.toLowerCase()}/${level.code.toLowerCase()}` 
+      },
+      props: { 
+        subject,
+        course: level,
+        subjectCode: subject.data.code,
+        courseCode: level.code
+      }
+    })) || []
+  );
+}
+
+const { subject, course } = Astro.props;
+
+// Get the categories for color styling
+const categories = subject.data.categories?.map(c => c.name.toLowerCase()) || [];
+function getSubjectColor() {
+  if (categories.includes('yrkesämne')) {
+    return 'bg-blue-50';       // Light blue
+  } else if (categories.includes('vissa ämne')) {
+    return 'bg-orange-50';    // Light peach
+  } else {
+    return 'bg-emerald-50';   // Soft emerald
+  }
+}
+---
+
+<Layout title={`${course.name} | ${subject.data.name} | GY25`}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <nav class="flex mb-8" aria-label="Breadcrumb">
+      <ol role="list" class="flex items-center space-x-4">
+        <li>
+          <div>
+            <a href="/gy25" class="text-gray-400 hover:text-gray-500">GY25</a>
+          </div>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <svg class="h-5 w-5 flex-shrink-0 text-gray-300" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path d="M5.555 17.776l8-16 .894.448-8 16-.894-.448z" />
+            </svg>
+            <a href="/gy25/subjects" class="ml-4 text-gray-400 hover:text-gray-500">Ämnen</a>
+          </div>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <svg class="h-5 w-5 flex-shrink-0 text-gray-300" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path d="M5.555 17.776l8-16 .894.448-8 16-.894-.448z" />
+            </svg>
+            <a 
+              href={`/gy25/subjects/${subject.data.code.toLowerCase()}`} 
+              class="ml-4 text-gray-400 hover:text-gray-500"
+            >
+              {subject.data.name}
+            </a>
+          </div>
+        </li>
+        <li>
+          <div class="flex items-center">
+            <svg class="h-5 w-5 flex-shrink-0 text-gray-300" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path d="M5.555 17.776l8-16 .894.448-8 16-.894-.448z" />
+            </svg>
+            <span class="ml-4 text-gray-500 font-medium" aria-current="page">
+              {course.name}
+            </span>
+          </div>
+        </li>
+      </ol>
+    </nav>
+
+    <div class={`rounded-lg ${getSubjectColor()} p-6`}>
+      <div class="flex justify-between items-start">
+        <div>
+          <h1 class="text-3xl font-bold text-gray-900 mb-2">
+            {course.name}
+          </h1>
+          <div class="flex items-center space-x-4 text-sm text-gray-500">
+            <span class="font-mono">{course.code}</span>
+            <span>{course.points} poäng</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-6 prose prose-blue max-w-none">
+        {course.description && (
+          <div class="mb-8">
+            <h2 class="text-xl font-semibold text-gray-900 mb-4">Beskrivning</h2>
+            <p class="text-gray-600">{course.description}</p>
+          </div>
+        )}
+
+        {course.centralContent && (
+          <div class="mb-8">
+            <h2 class="text-xl font-semibold text-gray-900 mb-4">Centralt innehåll</h2>
+            <ul class="list-disc pl-5 space-y-2 text-gray-600">
+              {course.centralContent.map((content: string) => (
+                <li>{content}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {course.knowledgeRequirements && (
+          <div>
+            <h2 class="text-xl font-semibold text-gray-900 mb-4">Kunskapskrav</h2>
+            <div class="space-y-6">
+              {Object.entries(course.knowledgeRequirements).map(([grade, requirements]) => (
+                <div>
+                  <h3 class="text-lg font-medium text-gray-900 mb-2">Betyg {grade}</h3>
+                  <ul class="list-disc pl-5 space-y-2 text-gray-600">
+                    {requirements.map((req: string) => (
+                      <li>{req}</li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</Layout>
