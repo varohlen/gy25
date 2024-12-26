@@ -1,0 +1,136 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  course: {
+    name: string;
+    code: string;
+    points: string;
+    description: string;
+    centralCntHeading: string;
+    centralContent: {
+      text: string;
+    };
+    nameHeading: string;
+    codeHeading: string;
+  };
+  subject: CollectionEntry<'gy25-subjects'>;
+}
+
+const { course, subject } = Astro.props;
+const relatedCourses = subject.data.courses?.filter(c => c.code !== course.code) || [];
+---
+
+<div class="max-w-4xl mx-auto space-y-6">
+  <!-- Section 1: Course Header -->
+  <div class="bg-white rounded-lg shadow-sm p-6">
+    <div class="flex items-baseline justify-between">
+      <h1 class="text-3xl font-bold text-gray-900 font-heading">
+        {subject.data.name} - {course.name}
+      </h1>
+      {course.points && (
+        <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">
+          {course.points} poäng
+        </span>
+      )}
+    </div>
+  </div>
+
+  <!-- Section 2: Central Content -->
+  <div class="bg-white rounded-lg shadow-sm">
+    <button
+      class="w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 transition-colors"
+      data-toggle="central-content"
+    >
+      <div class="text-xl font-semibold text-gray-900 font-heading">Centralt innehåll</div>
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+      </svg>
+    </button>
+    <div class="section-content p-6 pt-0" data-section="central-content">
+      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={course.centralContent?.text} />
+    </div>
+  </div>
+
+  <!-- Section 3: Knowledge Requirements -->
+  <div class="bg-white rounded-lg shadow-sm">
+    <button
+      class="w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 transition-colors"
+      data-toggle="knowledge-reqs"
+    >
+      <div class="text-xl font-semibold text-gray-900 font-heading">Betygskriterier</div>
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+      </svg>
+    </button>
+    <div class="section-content p-6 pt-0" data-section="knowledge-reqs">
+      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2">
+        {subject.data.knowledgeRequirements.map(req => (
+          <div set:html={req.text} />
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 4: Related Courses -->
+  {subject.data.courses && (
+    <div class="bg-white rounded-lg shadow-sm">
+      <button
+        class="w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 transition-colors"
+        data-toggle="related-courses"
+      >
+        <h2 class="text-xl font-semibold text-gray-900 font-heading">
+          Nivåer i {subject.data.name}
+        </h2>
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <div class="section-content p-6 pt-0" data-section="related-courses">
+        <div class="space-y-3">
+          {subject.data.courses.map(relatedCourse => (
+            <div class={`flex items-baseline gap-4 ${relatedCourse.code === course.code ? 'opacity-50' : ''}`}>
+              {relatedCourse.code === course.code ? (
+                <div class="text-xl font-semibold text-gray-900 font-heading">
+                  {relatedCourse.name}
+                </div>
+              ) : (
+                <a 
+                  href={`/gy25/${subject.data.code.toLowerCase()}/${relatedCourse.code.toLowerCase()}`}
+                  class="text-xl font-semibold text-gray-900 hover:text-blue-600 font-heading"
+                >
+                  {relatedCourse.name}
+                </a>
+              )}
+              <span class="text-gray-600 font-mono">{relatedCourse.code}</span>
+              {relatedCourse.points && (
+                <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">
+                  {relatedCourse.points} poäng
+                </span>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleButtons = document.querySelectorAll('[data-toggle]');
+    
+    toggleButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const sectionId = button.getAttribute('data-toggle');
+        const section = document.querySelector(`[data-section="${sectionId}"]`);
+        const arrow = button.querySelector('svg');
+        
+        if (section && arrow) {
+          section.classList.toggle('hidden');
+          arrow.style.transform = section.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+        }
+      });
+    });
+  });
+</script>

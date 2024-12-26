@@ -62,14 +62,14 @@ let currentSubject = '';
             <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
               <div class="flex justify-between items-center">
                 <div>
-                  <a 
-                    href={`/gy25/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`}
-                    class="group"
-                  >
-                    <h3 class="text-base font-medium text-gray-900 group-hover:text-blue-600">
+                  <h3 class="text-base font-medium text-gray-900">
+                    <a 
+                      href={`/gy25/courses/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`}
+                      class="hover:text-blue-600"
+                    >
                       {course.name}
-                    </h3>
-                  </a>
+                    </a>
+                  </h3>
                   <p class="text-sm text-gray-500 mt-1">
                     {course.code}
                   </p>

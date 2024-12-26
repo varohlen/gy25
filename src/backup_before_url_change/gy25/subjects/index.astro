@@ -80,7 +80,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
               <div class="flex flex-col gap-1">
                 {subject.data.courses.map((course) => (
                   <a 
-                    href={`/gy25/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
+                    href={`/gy25/courses/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
                     class="text-sm text-gray-600 hover:text-blue-600 flex items-center justify-between group"
                   >
                     <span>{course.name}</span>
