@@ -34,7 +34,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
           <div class="flex-grow">
             <div class="flex items-baseline gap-3 mb-1">
               <a 
-                href={`/gy25/subjects/${subject.data.code.toLowerCase()}`}
+                href={`/gy25/${subject.data.code.toLowerCase()}`}
                 class="group"
               >
                 <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-600">
@@ -59,7 +59,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
               </svg>
             </button>
             <a 
-              href={`/gy25/subjects/${subject.data.code.toLowerCase()}`}
+              href={`/gy25/${subject.data.code.toLowerCase()}`}
               class="p-2 hover:bg-white/50 rounded-lg transition-colors"
               aria-label="Gå till ämnesdetaljer"
             >
