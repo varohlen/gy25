@@ -19,7 +19,7 @@ const {
     <div class="flex flex-col items-center gap-6 mb-8">
       <nav class="flex gap-4">
         <a 
-          href="/gy25/subjects"
+          href="/gy25"
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'subjects' 
               ? 'bg-blue-600 text-white' 
@@ -68,18 +68,20 @@ const {
 </Layout>
 
 <script>
-  // Common search functionality that can be extended by child pages
   document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('search-input');
-    const searchableElements = document.querySelectorAll('[data-searchable]');
-    
-    searchInput?.addEventListener('input', (e) => {
-      const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
-      
-      searchableElements.forEach((element) => {
-        const searchText = element.getAttribute('data-searchable')?.toLowerCase() || '';
-        element.classList.toggle('hidden', !searchText.includes(searchTerm));
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const items = document.querySelectorAll('[data-search]');
+
+    if (searchInput && items.length > 0) {
+      searchInput.addEventListener('input', (e) => {
+        const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
+
+        items.forEach(item => {
+          const searchText = (item.getAttribute('data-search') || '').toLowerCase();
+          const shouldShow = searchText.includes(searchTerm);
+          (item as HTMLElement).style.display = shouldShow ? '' : 'none';
+        });
       });
-    });
+    }
   });
 </script>

@@ -1,8 +1,16 @@
 ---
-import { getCollection } from 'astro:content';
-import GY25Layout from '../../../layouts/GY25Layout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GY25Layout from '../../layouts/GY25Layout.astro';
 
-const subjects = await getCollection('gy25-subjects');
+interface Course {
+  code: string;
+  name: string;
+  points?: string;
+}
+
+type SubjectWithCourses = CollectionEntry<'gy25-subjects'>;
+
+const subjects = await getCollection('gy25-subjects') as SubjectWithCourses[];
 
 // Flatten all courses into a single array with subject information
 const courses = subjects.flatMap(subject => 
@@ -10,7 +18,7 @@ const courses = subjects.flatMap(subject =>
     ...course,
     subjectName: subject.data.name,
     subjectCode: subject.data.code,
-    subjectSlug: subject.slug
+    subjectId: subject.id
   })) || []
 );
 
@@ -24,8 +32,8 @@ courses.sort((a, b) => {
   return a.name.localeCompare(b.name);
 });
 
-function getSubjectColor(subject: any) {
-  const categories = subject.data.categories?.map((c: { name: string }) => c.name.toLowerCase()) || [];
+function getSubjectColor(subject: SubjectWithCourses) {
+  const categories = subject.data.categories?.map(c => c.name.toLowerCase()) || [];
   if (categories.includes('yrkesämne')) {
     return 'bg-blue-50';       // Light blue
   } else if (categories.includes('vissa ämne')) {
@@ -40,8 +48,9 @@ let currentSubject = '';
 ---
 
 <GY25Layout 
+  title="Nivåer i GY25"
   activeView="courses"
-  searchPlaceholder="Sök på ämne, nivå eller kod..."
+  searchPlaceholder="Sök på nivå, nivåkod eller ämne..."
 >
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="space-y-1 divide-y-2 divide-gray-200">
@@ -52,31 +61,35 @@ let currentSubject = '';
           currentSubject = course.subjectName;
         }
         
+        const currentSubjectData = subjects.find(s => s.data.name === course.subjectName);
+        
         return (
           <div class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`}>
-            {isNewSubject && (
-              <div class={`${getSubjectColor({data: {categories: subjects.find(s => s.data.name === course.subjectName).data.categories}})} px-4 py-3 border-b border-gray-200 shadow-sm`}>
+            {isNewSubject && currentSubjectData && (
+              <div class={`${getSubjectColor(currentSubjectData)} px-4 py-3 border-b border-gray-200 shadow-sm`}>
                 <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
               </div>
             )}
             <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
               <div class="flex justify-between items-center">
                 <div>
-                  <h3 class="text-base font-medium text-gray-900">
-                    <a 
-                      href={`/gy25/courses/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`}
-                      class="hover:text-blue-600"
-                    >
+                  <a 
+                    href={`/gy25/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`}
+                    class="group"
+                  >
+                    <h3 class="text-base font-medium text-gray-900 group-hover:text-blue-600">
                       {course.name}
-                    </a>
-                  </h3>
+                    </h3>
+                  </a>
                   <p class="text-sm text-gray-500 mt-1">
                     {course.code}
                   </p>
                 </div>
-                <div class="text-sm text-gray-500">
-                  {course.points} poäng
-                </div>
+                {course.points && (
+                  <div class="text-sm text-gray-500">
+                    {course.points} poäng
+                  </div>
+                )}
               </div>
             </div>
           </div>

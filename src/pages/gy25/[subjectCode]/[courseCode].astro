@@ -1,11 +1,28 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/courses/CourseView.astro';
 
-export async function getStaticPaths() {
+interface Course {
+  code: string;
+  name: string;
+  points?: string;
+}
+
+interface StaticPath {
+  params: {
+    subjectCode: string;
+    courseCode: string;
+  };
+  props: {
+    subject: CollectionEntry<'gy25-subjects'>;
+    course: Course;
+  };
+}
+
+export async function getStaticPaths(): Promise<StaticPath[]> {
   const subjects = await getCollection('gy25-subjects');
-  const paths = [];
+  const paths: StaticPath[] = [];
 
   subjects.forEach(subject => {
     subject.data.courses?.forEach(course => {
@@ -22,7 +39,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { subject, course } = Astro.props;
+const { subject, course }: StaticPath['props'] = Astro.props;
 ---
 
 <Layout title={`${course.name} - ${subject.data.name} - GY25`}>
