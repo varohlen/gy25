@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import GradeRequirements from '../shared/GradeRequirements.astro';
 
 interface Props {
   subject: CollectionEntry<'gy25-subjects'>;
@@ -27,6 +28,19 @@ function getSubjectColor() {
     return 'bg-emerald-50';   // Soft emerald
   }
 }
+
+// Process knowledge requirements to add grade levels
+const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
+  let level: 'E' | 'C' | 'A' | undefined;
+  const text = req.text;
+  
+  if (text.includes('För betyget E')) level = 'E';
+  else if (text.includes('För betyget C')) level = 'C';
+  else if (text.includes('För betyget A')) level = 'A';
+  
+  return { text, level };
+}) || [];
+
 ---
 
 <div class="max-w-4xl mx-auto px-4">
@@ -105,15 +119,15 @@ function getSubjectColor() {
         <div class="bg-gray-50 rounded-lg">
           <button 
             class="section-toggle w-full p-4 flex justify-between items-center"
-            aria-expanded="true"
+            aria-expanded="false"
             data-section="levels-overview"
           >
             <h3 class="text-xl font-semibold text-gray-900">Nivåer i ämnet</h3>
-            <svg class="w-5 h-5 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <div class="section-content p-4 pt-0" data-section="levels-overview">
+          <div class="section-content p-4 pt-0 hidden" data-section="levels-overview">
             <div class="prose max-w-none [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-4 [&_li]:pl-2 [&_li]:mb-3">
               <ul>
                 <div set:html={subject.data.purpose?.split('<h3>Nivåer i ämnet')[1]?.split('<ul>')[1]?.split('</ul>')[0] || ''} />
@@ -130,30 +144,30 @@ function getSubjectColor() {
           >
             <button 
               class="section-toggle w-full p-4 flex justify-between items-center"
-              aria-expanded="true"
+              aria-expanded="false"
               data-section={`course-${course.code}`}
             >
               <div class="flex items-baseline gap-4">
                 <a 
                   href={`/gy25/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
-                  class="text-xl font-semibold text-gray-900 hover:text-blue-600 font-heading"
+                  class="group"
                 >
-                  {course.name}
+                  <h3 class="text-lg font-medium text-gray-900 group-hover:text-blue-600">
+                    {course.name}
+                  </h3>
                 </a>
-                <span class="text-gray-600 font-mono">{course.code}</span>
-              </div>
-              <div class="flex items-center gap-4">
+                <span class="text-sm font-mono text-gray-500">{course.code}</span>
                 {course.points && (
-                  <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">
+                  <span class="text-sm text-gray-500">
                     {course.points} poäng
                   </span>
                 )}
-                <svg class="w-5 h-5 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                </svg>
               </div>
+              <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
             </button>
-            <div class="section-content p-4 pt-0" data-section={`course-${course.code}`}>
+            <div class="section-content p-4 pt-0 hidden" data-section={`course-${course.code}`}>
               <div class="space-y-6">
                 {course.description && (
                   <div class="prose max-w-none" set:html={course.description} />
@@ -174,23 +188,11 @@ function getSubjectColor() {
 
   <!-- Section 4: Knowledge Requirements -->
   {subject.data.knowledgeRequirements && subject.data.knowledgeRequirements.length > 0 && showKnowledgeRequirements && (
-    <div class="bg-white rounded-lg shadow-sm mb-6">
-      <button 
-        class="section-toggle w-full p-6 flex justify-between items-center"
-        aria-expanded="true"
-        data-section="knowledge-reqs"
-      >
-        <h2 class="text-2xl font-bold text-gray-900">Betygskriterier</h2>
-        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-      <div class="section-content p-6 pt-0" data-section="knowledge-reqs">
-        {subject.data.knowledgeRequirements.map((req) => (
-          <div class="prose max-w-none mb-8 last:mb-0" set:html={req.text} />
-        ))}
-      </div>
-    </div>
+    <GradeRequirements
+      requirements={subject.data.knowledgeRequirements}
+      title="Betygskriterier"
+      defaultView="list"
+    />
   )}
 </div>
 

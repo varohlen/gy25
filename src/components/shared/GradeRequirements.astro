@@ -1,0 +1,166 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  requirements: {
+    text: string;
+    gradeStep: string;
+  }[];
+  title?: string;
+  defaultView?: 'list' | 'table';
+}
+
+const { 
+  requirements,
+  title = "Betygskriterier",
+  defaultView = 'list'
+} = Astro.props;
+
+// Function to extract paragraphs from HTML content
+function extractParagraphs(html: string): string[] {
+  const paragraphs: string[] = [];
+  const matches = html.match(/<p>(.*?)<\/p>/g);
+  if (matches) {
+    matches.forEach(p => {
+      // Skip D and B grade descriptions
+      if (!p.includes('bedöms sammantaget vara mellan')) {
+        // Remove the p tags but keep the inner HTML
+        const content = p.replace(/<p[^>]*>|<\/p>/g, '');
+        paragraphs.push(content);
+      }
+    });
+  }
+  return paragraphs;
+}
+
+// Process requirements into grade levels
+const gradeLevels = {
+  E: { paragraphs: [] as string[] },
+  C: { paragraphs: [] as string[] },
+  A: { paragraphs: [] as string[] }
+};
+
+requirements.forEach(req => {
+  if (['E', 'C', 'A'].includes(req.gradeStep)) {
+    gradeLevels[req.gradeStep].paragraphs = extractParagraphs(req.text);
+  }
+});
+
+// Get the maximum number of criteria across all grade levels
+const maxCriteria = Math.max(
+  gradeLevels.E.paragraphs.length,
+  gradeLevels.C.paragraphs.length,
+  gradeLevels.A.paragraphs.length
+);
+---
+
+<div class="bg-white rounded-lg shadow-sm mb-6">
+  <div class="p-6 flex justify-between items-center border-b border-gray-200">
+    <h2 class="text-2xl font-bold text-gray-900">{title}</h2>
+    <div class="flex gap-2">
+      <button
+        class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+        data-view="list"
+        data-active={defaultView === 'list'}
+      >
+        Lista
+      </button>
+      <button
+        class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+        data-view="table"
+        data-active={defaultView === 'table'}
+      >
+        Tabell
+      </button>
+    </div>
+  </div>
+
+  <!-- List View -->
+  <div 
+    class="view-content p-6" 
+    data-view="list"
+    style={defaultView === 'list' ? '' : 'display: none;'}
+  >
+    <div class="prose max-w-none space-y-8">
+      {requirements.map((req) => (
+        <div set:html={req.text} />
+      ))}
+    </div>
+  </div>
+
+  <!-- Table View -->
+  <div 
+    class="view-content p-6" 
+    data-view="table"
+    style={defaultView === 'table' ? '' : 'display: none;'}
+  >
+    <div class="overflow-x-auto">
+      <table class="min-w-full divide-y divide-gray-200">
+        <thead>
+          <tr class="bg-gray-50">
+            <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">E</th>
+            <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">C</th>
+            <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">A</th>
+          </tr>
+        </thead>
+        <tbody class="bg-white divide-y divide-gray-200">
+          {Array.from({ length: maxCriteria }, (_, index) => (
+            <tr>
+              {['E', 'C', 'A'].map((level) => (
+                <td class="px-6 py-4">
+                  <div class="prose max-w-none" set:html={gradeLevels[level].paragraphs[index] || '—'} />
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<style>
+  .view-toggle[data-active="true"] {
+    background-color: rgb(59 130 246);
+    color: white;
+  }
+  .view-toggle[data-active="false"] {
+    background-color: rgb(243 244 246);
+    color: rgb(75 85 99);
+  }
+  .view-toggle[data-active="false"]:hover {
+    background-color: rgb(229 231 235);
+  }
+
+  /* Add some basic table styles */
+  td {
+    vertical-align: top;
+  }
+  
+  .prose :global(strong) {
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleButtons = document.querySelectorAll('.view-toggle');
+    const viewContents = document.querySelectorAll('.view-content');
+
+    toggleButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const view = button.getAttribute('data-view');
+        
+        // Update buttons
+        toggleButtons.forEach(btn => {
+          btn.setAttribute('data-active', (btn === button).toString());
+        });
+
+        // Update content visibility
+        viewContents.forEach(content => {
+          content.style.display = content.getAttribute('data-view') === view ? '' : 'none';
+        });
+      });
+    });
+  });
+</script>

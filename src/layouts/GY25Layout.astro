@@ -63,24 +63,69 @@ const {
       </div>
     </div>
 
-    <slot />
+    <div id="search-results" class="space-y-4">
+      <slot />
+      <div id="no-results" class="hidden text-center py-8 text-gray-500">
+        Inga resultat hittades
+      </div>
+    </div>
   </main>
 </Layout>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const items = document.querySelectorAll('[data-search]');
+    const noResults = document.getElementById('no-results');
+    const searchableItems = document.querySelectorAll('[data-search], [data-searchable]');
+    
+    let debounceTimeout: ReturnType<typeof setTimeout>;
 
-    if (searchInput && items.length > 0) {
+    if (searchInput && searchableItems.length > 0) {
       searchInput.addEventListener('input', (e) => {
-        const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
+        // Clear the existing timeout
+        if (debounceTimeout) {
+          clearTimeout(debounceTimeout);
+        }
 
-        items.forEach(item => {
-          const searchText = (item.getAttribute('data-search') || '').toLowerCase();
-          const shouldShow = searchText.includes(searchTerm);
-          (item as HTMLElement).style.display = shouldShow ? '' : 'none';
-        });
+        // Set a new timeout
+        debounceTimeout = setTimeout(() => {
+          const searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+          let hasVisibleItems = false;
+
+          searchableItems.forEach(item => {
+            // Get search text from either data-search or data-searchable attribute
+            const searchText = (
+              item.getAttribute('data-search') || 
+              item.getAttribute('data-searchable') || 
+              ''
+            ).toLowerCase();
+
+            const shouldShow = searchText.includes(searchTerm);
+            (item as HTMLElement).style.display = shouldShow ? '' : 'none';
+            
+            if (shouldShow) {
+              hasVisibleItems = true;
+            }
+          });
+
+          // Show/hide no results message
+          if (noResults) {
+            noResults.style.display = hasVisibleItems || !searchTerm ? 'none' : 'block';
+          }
+        }, 200); // 200ms debounce delay
+      });
+
+      // Clear search on escape key
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          searchInput.value = '';
+          searchableItems.forEach(item => {
+            (item as HTMLElement).style.display = '';
+          });
+          if (noResults) {
+            noResults.style.display = 'none';
+          }
+        }
       });
     }
   });

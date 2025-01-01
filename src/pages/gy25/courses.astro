@@ -62,9 +62,19 @@ let currentSubject = '';
         }
         
         const currentSubjectData = subjects.find(s => s.data.name === course.subjectName);
+        const searchTerms = [
+          course.name.toLowerCase(),
+          course.code.toLowerCase(),
+          course.subjectName.toLowerCase(),
+          course.subjectCode.toLowerCase(),
+          course.points?.toLowerCase() || ''
+        ].join(' ');
         
         return (
-          <div class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`}>
+          <div 
+            class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`}
+            data-search={searchTerms}
+          >
             {isNewSubject && currentSubjectData && (
               <div class={`${getSubjectColor(currentSubjectData)} px-4 py-3 border-b border-gray-200 shadow-sm`}>
                 <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>

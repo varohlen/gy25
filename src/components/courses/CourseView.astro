@@ -1,5 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import GradeRequirements from '../shared/GradeRequirements.astro';
 
 interface Props {
   course: {
@@ -34,6 +35,19 @@ interface SubjectData {
 
 const { course, subject } = Astro.props;
 const relatedCourses = (subject.data as SubjectData).courses?.filter(c => c.code !== course.code) || [];
+
+// Process knowledge requirements to add grade levels
+const processedRequirements = (subject.data as SubjectData).knowledgeRequirements?.map(req => {
+  let level: 'E' | 'C' | 'A' | undefined;
+  const text = req.text;
+  
+  if (text.includes('För betyget E')) level = 'E';
+  else if (text.includes('För betyget C')) level = 'C';
+  else if (text.includes('För betyget A')) level = 'A';
+  
+  return { text, level };
+}) || [];
+
 ---
 
 <div class="max-w-4xl mx-auto space-y-6">
@@ -68,24 +82,13 @@ const relatedCourses = (subject.data as SubjectData).courses?.filter(c => c.code
   </div>
 
   <!-- Section 3: Knowledge Requirements -->
-  <div class="bg-white rounded-lg shadow-sm">
-    <button
-      class="w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 transition-colors"
-      data-toggle="knowledge-reqs"
-    >
-      <div class="text-xl font-semibold text-gray-900 font-heading">Betygskriterier</div>
-      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-      </svg>
-    </button>
-    <div class="section-content p-6 pt-0" data-section="knowledge-reqs">
-      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2">
-        {(subject.data as SubjectData).knowledgeRequirements?.map(req => (
-          <div set:html={req.text} />
-        ))}
-      </div>
-    </div>
-  </div>
+  {(subject.data as SubjectData).knowledgeRequirements && (
+    <GradeRequirements
+      requirements={(subject.data as SubjectData).knowledgeRequirements}
+      title="Betygskriterier"
+      defaultView="list"
+    />
+  )}
 
   <!-- Section 4: Related Courses -->
   {(subject.data as SubjectData).courses && (
