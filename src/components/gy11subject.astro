@@ -1,0 +1,190 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import GradeRequirements from './gradereq.astro';
+
+interface Props {
+  subject: CollectionEntry<'gy11-subjects'>;
+  showDescription?: boolean;
+  showPurpose?: boolean;
+  showCourses?: boolean;
+  showKnowledgeRequirements?: boolean;
+}
+
+const { 
+  subject,
+  showDescription = true,
+  showPurpose = true,
+  showCourses = true,
+  showKnowledgeRequirements = true
+} = Astro.props;
+
+// Process knowledge requirements to add grade levels
+const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
+  let level: 'E' | 'C' | 'A' | undefined;
+  const text = req.text;
+  
+  if (text.includes('För betyget E')) level = 'E';
+  else if (text.includes('För betyget C')) level = 'C';
+  else if (text.includes('För betyget A')) level = 'A';
+  
+  return { text, level };
+}) || [];
+
+---
+
+<div class="max-w-4xl mx-auto px-4">
+  <!-- Section 1: Subject Title and Basic Info -->
+  <div class="bg-white rounded-lg shadow-sm mb-6">
+    <button 
+      class="section-toggle w-full p-6 flex justify-between items-center"
+      aria-expanded="true"
+      data-section="basic-info"
+    >
+      <div class="flex items-baseline gap-4">
+        <h1 class="text-2xl font-bold text-gray-900">{subject.data.name}</h1>
+        <span class="text-lg font-mono text-gray-600">{subject.data.code}</span>
+      </div>
+      <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+      </svg>
+    </button>
+    <div class="section-content p-6 pt-0" data-section="basic-info">
+      <div class="space-y-6">
+        {subject.data.description && showDescription && (
+          <div class="prose max-w-none" set:html={subject.data.description} />
+        )}
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 2: Purpose -->
+  {showPurpose && subject.data.purpose && (
+    <div class="bg-white rounded-lg shadow-sm mb-6">
+      <button 
+        class="section-toggle w-full p-6 flex justify-between items-center"
+        aria-expanded="true"
+        data-section="purpose"
+      >
+        <h2 class="text-2xl font-bold text-gray-900">Syfte</h2>
+        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <div class="section-content p-6 pt-0" data-section="purpose">
+        <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={subject.data.purpose} />
+      </div>
+    </div>
+  )}
+
+  <!-- Section 3: Courses -->
+  {subject.data.courses && subject.data.courses.length > 0 && showCourses && (
+    <div class="bg-white rounded-lg shadow-sm mb-6">
+      <button 
+        class="section-toggle w-full p-6 flex justify-between items-center"
+        aria-expanded="true"
+        data-section="courses"
+      >
+        <h2 class="text-2xl font-bold text-gray-900">Kurser</h2>
+        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <div class="section-content p-6 pt-0" data-section="courses">
+        <div class="space-y-6">
+          <!-- Individual Courses -->
+          {subject.data.courses.map((course) => (
+            <div 
+              id={course.code.toLowerCase().replace(/\s+/g, '-')}
+              class="mb-8 last:mb-0"
+            >
+              <button 
+                class="section-toggle w-full p-4 flex justify-between items-center"
+                aria-expanded="false"
+                data-section={`course-${course.code}`}
+              >
+                <div class="flex items-baseline gap-4">
+                  <a 
+                    href={`/gy11/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
+                    class="group"
+                  >
+                    <h3 class="text-lg font-medium text-gray-900 group-hover:text-blue-600">
+                      {course.name}
+                    </h3>
+                  </a>
+                  <span class="text-sm font-mono text-gray-500">{course.code}</span>
+                  {course.points && (
+                    <span class="text-sm text-gray-500">
+                      {course.points} poäng
+                    </span>
+                  )}
+                </div>
+                <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              <div class="section-content p-4 pt-0 hidden" data-section={`course-${course.code}`}>
+                <div class="space-y-6">
+                  {course.description && (
+                    <div class="prose max-w-none" set:html={course.description} />
+                  )}
+                  {course.centralContent && course.centralContent.length > 0 && (
+                    <div>
+                      <h4 class="text-lg font-medium text-gray-900 mb-3">Centralt innehåll</h4>
+                      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={course.centralContent.join('')} />
+                    </div>
+                  )}
+                  {course.knowledgeRequirements && course.knowledgeRequirements.length > 0 && (
+                    <div>
+                      <h4 class="text-lg font-medium text-gray-900 mb-3">Betygskriterier</h4>
+                      <GradeRequirements
+                        requirements={course.knowledgeRequirements}
+                        title=""
+                        defaultView="list"
+                      />
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
+
+  <!-- Section 4: Knowledge Requirements -->
+  {subject.data.knowledgeRequirements && subject.data.knowledgeRequirements.length > 0 && showKnowledgeRequirements && (
+    <GradeRequirements
+      requirements={subject.data.knowledgeRequirements}
+      title="Betygskriterier"
+      defaultView="list"
+    />
+  )}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleButtons = document.querySelectorAll('.section-toggle');
+    
+    toggleButtons.forEach(button => {
+      const sectionId = button.getAttribute('data-section');
+      const section = document.querySelector(`[data-section="${sectionId}"]`);
+      const arrow = button.querySelector('svg');
+      
+      if (section && arrow) {
+        button.addEventListener('click', () => {
+          const isExpanded = button.getAttribute('aria-expanded') === 'true';
+          button.setAttribute('aria-expanded', (!isExpanded).toString());
+          
+          if (section.classList.contains('hidden')) {
+            section.classList.remove('hidden');
+            arrow.style.transform = 'rotate(180deg)';
+          } else {
+            section.classList.add('hidden');
+            arrow.style.transform = 'rotate(0deg)';
+          }
+        });
+      }
+    });
+  });
+</script>

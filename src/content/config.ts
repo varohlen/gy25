@@ -28,6 +28,11 @@ const gy11Schema = z.object({
     codeHeading: z.string().optional(),
     nameHeading: z.string().optional(),
     points: z.string().optional(),
+    description: z.string().optional(),
+    centralCntHeading: z.string().optional(),
+    centralContent: z.object({
+      text: z.string()
+    }).optional(),
     knowledgeRequirements: z.array(z.object({
       text: z.string(),
       gradeStep: z.string()
@@ -53,10 +58,14 @@ const gy25Schema = z.object({
     nameHeading: z.string().optional(),
     points: z.string().optional(),
     description: z.string().optional(),
-    centralContentHeading: z.string().optional(),
+    centralCntHeading: z.string().optional(),
     centralContent: z.object({
       text: z.string()
     }).optional(),
+    knowledgeRequirements: z.array(z.object({
+      text: z.string(),
+      gradeStep: z.string()
+    })).optional()
   })).optional(),
   knowledgeReqsHeading: z.string().optional(),
   knowledgeRequirements: z.array(z.object({

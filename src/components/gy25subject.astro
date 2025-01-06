@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import GradeRequirements from '../shared/GradeRequirements.astro';
+import GradeRequirements from './gradereq.astro';
 
 interface Props {
   subject: CollectionEntry<'gy25-subjects'>;
@@ -31,14 +31,14 @@ function getSubjectColor() {
 
 // Process knowledge requirements to add grade levels
 const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
-  let level: 'E' | 'C' | 'A' | undefined;
+  let gradeStep: 'E' | 'C' | 'A' | undefined;
   const text = req.text;
   
-  if (text.includes('För betyget E')) level = 'E';
-  else if (text.includes('För betyget C')) level = 'C';
-  else if (text.includes('För betyget A')) level = 'A';
+  if (text.includes('För betyget E') || text.includes('Betyget E')) gradeStep = 'E';
+  else if (text.includes('För betyget C') || text.includes('Betyget C')) gradeStep = 'C';
+  else if (text.includes('För betyget A') || text.includes('Betyget A')) gradeStep = 'A';
   
-  return { text, level };
+  return { text, gradeStep };
 }) || [];
 
 ---
@@ -95,7 +95,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
         </svg>
       </button>
       <div class="section-content p-6 pt-0" data-section="purpose">
-        <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_ul]:mt-6 [&_li]:mb-3 [&_li]:pl-2" set:html={subject.data.purpose?.split('<h3>Nivåer i ämnet')[0] || ''} />
+        <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={subject.data.purpose?.split('<h3>Nivåer i ämnet')[0] || ''} />
       </div>
     </div>
   )}
@@ -189,7 +189,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
   <!-- Section 4: Knowledge Requirements -->
   {subject.data.knowledgeRequirements && subject.data.knowledgeRequirements.length > 0 && showKnowledgeRequirements && (
     <GradeRequirements
-      requirements={subject.data.knowledgeRequirements}
+      requirements={processedRequirements}
       title="Betygskriterier"
       defaultView="list"
     />
@@ -201,13 +201,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
     const toggleButtons = document.querySelectorAll('.section-toggle');
     
     toggleButtons.forEach(button => {
-      button.addEventListener('click', (e) => {
-        // Type assertion for event target
-        const target = e.target as HTMLElement;
-        if (target.tagName === 'A' || target.closest('a')) {
-          return;
-        }
-
+      button.addEventListener('click', () => {
         const isExpanded = button.getAttribute('aria-expanded') === 'true';
         button.setAttribute('aria-expanded', (!isExpanded).toString());
         
@@ -216,10 +210,13 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
         const chevron = button.querySelector('svg');
         
         if (content && chevron) {
-          (content as HTMLElement).style.display = isExpanded ? 'none' : 'block';
-          // Double type assertion to safely convert SVG to HTMLElement
-          const chevronElement = chevron as unknown as HTMLElement;
-          chevronElement.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(180deg)';
+          if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            chevron.style.transform = 'rotate(180deg)';
+          } else {
+            content.classList.add('hidden');
+            chevron.style.transform = 'rotate(0deg)';
+          }
         }
       });
     });

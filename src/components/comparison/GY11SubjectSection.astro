@@ -1,0 +1,52 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  subject: CollectionEntry<'gy11-subjects'>;
+  section: 'description' | 'purpose' | 'courses_intro' | 'courses';
+}
+
+const { subject, section } = Astro.props;
+
+function transformPurposeContent(content: string) {
+  // Split before the courses section
+  const purposeContent = content.split('<h3>Kurser i ämnet')[0] || '';
+  
+  // Replace h4 with h5 and add margin-top and italics
+  let transformed = purposeContent.replace(/<h4>/g, '<h5 class="mt-8 italic">').replace(/<\/h4>/g, '</h5>');
+  
+  // Replace ordered lists with unordered lists and add bullet styling and margin
+  transformed = transformed.replace(/<ol>/g, '<ul class="mt-4">').replace(/<\/ol>/g, '</ul>');
+  
+  return transformed;
+}
+
+function getCoursesIntro(content: string) {
+  const parts = content.split('<h3>Kurser i ämnet');
+  return parts.length > 1 ? '<h3>Kurser i ämnet' + parts[1] : '';
+}
+---
+
+{section === 'description' && (
+  <div class="prose prose-blue max-w-none" set:html={subject.data.description} />
+)}
+
+{section === 'purpose' && (
+  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_h5]:font-semibold [&_h5]:text-base" set:html={transformPurposeContent(subject.data.purpose || '')} />
+)}
+
+{section === 'courses_intro' && (
+  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mb-4" set:html={getCoursesIntro(subject.data.purpose || '')} />
+)}
+
+{section === 'courses' && (
+  <div class="space-y-4">
+    {subject.data.courses?.map((course) => (
+      <div class="bg-white rounded-lg p-4 shadow-sm">
+        <h3 class="font-medium text-lg text-blue-700">{course.name}</h3>
+        <p class="text-gray-500">{course.code}</p>
+        <p class="text-gray-500">{course.points}p</p>
+      </div>
+    ))}
+  </div>
+)}

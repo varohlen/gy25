@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import CompareLayout from '../../layouts/CompareLayout.astro';
+
+const gy11Subjects = await getCollection('gy11-subjects');
+const gy25Subjects = await getCollection('gy25-subjects');
+
+// Sort subjects by name
+gy11Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
+gy25Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<CompareLayout activeView="subjects">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- GY11 Subjects -->
+    <div>
+      <h2 class="text-2xl font-bold mb-4 text-blue-700">GY11 Ämnen</h2>
+      <div class="flex flex-col gap-4">
+        {gy11Subjects.map(subject => {
+          const searchTerms = `${subject.data.name} ${subject.data.code}`.toLowerCase();
+          const courseCount = subject.data.courses?.length || 0;
+          return (
+            <div 
+              class="gy11-card rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow bg-blue-50 hover:bg-blue-100 cursor-pointer"
+              data-search={searchTerms}
+              data-code={subject.data.code}
+              onclick={`window.updateSelection('gy11', '${subject.data.code}', '${subject.data.name}', '', '${courseCount}')`}
+            >
+              <div class="flex justify-between items-start">
+                <div class="flex-grow">
+                  <h3 class="font-medium text-lg">{subject.data.name}</h3>
+                  <p class="text-gray-500">{subject.data.code}</p>
+                  <div class="mt-2">
+                    <span class="inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
+                      {courseCount} kurser
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+
+    <!-- GY25 Subjects -->
+    <div>
+      <h2 class="text-2xl font-bold mb-4 text-emerald-700">GY25 Ämnen</h2>
+      <div class="flex flex-col gap-4">
+        {gy25Subjects.map(subject => {
+          const searchTerms = `${subject.data.name} ${subject.data.code}`.toLowerCase();
+          const levelCount = subject.data.courses?.length || 0;
+          return (
+            <div 
+              class="gy25-card rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow bg-emerald-50 hover:bg-emerald-100 cursor-pointer"
+              data-search={searchTerms}
+              data-code={subject.data.code}
+              onclick={`window.updateSelection('gy25', '${subject.data.code}', '${subject.data.name}', '', '${levelCount}')`}
+            >
+              <div class="flex justify-between items-start">
+                <div class="flex-grow">
+                  <h3 class="font-medium text-lg">{subject.data.name}</h3>
+                  <p class="text-gray-500">{subject.data.code}</p>
+                  <div class="mt-2">
+                    <span class="inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
+                      {levelCount} nivåer
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  </div>
+</CompareLayout>

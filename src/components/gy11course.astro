@@ -1,0 +1,166 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GradeRequirements from './gradereq.astro';
+
+interface KnowledgeRequirement {
+  text: string;
+  gradeStep: string;
+}
+
+interface Props {
+  course: {
+    name: string;
+    code: string;
+    points?: string;
+    description?: string;
+    nameHeading?: string;
+    codeHeading?: string;
+    centralCntHeading?: string;
+    centralContent?: {
+      text: string;
+    };
+    knowledgeRequirements?: KnowledgeRequirement[];
+  };
+  subject: CollectionEntry<'gy11-subjects'>;
+}
+
+interface SubjectData {
+  name: string;
+  code: string;
+  courses: {
+    name: string;
+    code: string;
+    points: string;
+  }[];
+}
+
+const { course, subject } = Astro.props;
+const relatedCourses = (subject.data as SubjectData).courses?.filter(c => c.code !== course.code) || [];
+
+---
+
+<div class="max-w-4xl mx-auto space-y-6">
+  <!-- Section 1: Course Header -->
+  <div class="bg-white rounded-lg shadow-sm p-6">
+    <div class="space-y-4">
+      {course.nameHeading ? (
+        <div set:html={course.nameHeading} />
+      ) : (
+        <div class="flex items-baseline justify-between">
+          <h1 class="text-3xl font-bold text-gray-900 font-heading">
+            {course.name}
+          </h1>
+          {course.points && (
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">
+              {course.points} poäng
+            </span>
+          )}
+        </div>
+      )}
+      
+      {course.codeHeading ? (
+        <div set:html={course.codeHeading} />
+      ) : (
+        <div class="text-sm font-mono text-gray-600">{course.code}</div>
+      )}
+
+      {course.description && (
+        <div class="prose max-w-none text-gray-600" set:html={course.description} />
+      )}
+    </div>
+  </div>
+
+  <!-- Section 2: Central Content -->
+  {course.centralContent?.text && (
+    <div class="bg-white rounded-lg shadow-sm">
+      <button
+        class="section-toggle w-full p-6 flex justify-between items-center"
+        data-section="central-content"
+        aria-expanded="true"
+      >
+        <h2 class="text-2xl font-bold text-gray-900">Centralt innehåll</h2>
+        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <div class="section-content p-6 pt-0" data-section="central-content">
+        <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={course.centralContent.text} />
+      </div>
+    </div>
+  )}
+
+  <!-- Section 3: Knowledge Requirements -->
+  {course.knowledgeRequirements && course.knowledgeRequirements.length > 0 && (
+    <GradeRequirements
+      requirements={course.knowledgeRequirements}
+      title="Betygskriterier"
+      defaultView="list"
+    />
+  )}
+
+  <!-- Section 4: Related Courses -->
+  {(subject.data as SubjectData).courses && (
+    <div class="bg-white rounded-lg shadow-sm">
+      <button
+        class="section-toggle w-full p-6 flex justify-between items-center"
+        data-section="related-courses"
+        aria-expanded="true"
+      >
+        <h2 class="text-2xl font-bold text-gray-900">
+          Kurser i {(subject.data as SubjectData).name}
+        </h2>
+        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      <div class="section-content p-6 pt-0" data-section="related-courses">
+        <div class="space-y-3">
+          {(subject.data as SubjectData).courses.map(relatedCourse => (
+            <div class={`flex items-baseline gap-4 ${relatedCourse.code === course.code ? 'opacity-50' : ''}`}>
+              {relatedCourse.code === course.code ? (
+                <div class="text-xl font-semibold text-gray-900 font-heading">
+                  {relatedCourse.name}
+                </div>
+              ) : (
+                <a 
+                  href={`/gy11/${(subject.data as SubjectData).code.toLowerCase()}/${relatedCourse.code.toLowerCase()}`}
+                  class="text-xl font-semibold text-gray-900 hover:text-blue-600 font-heading"
+                >
+                  {relatedCourse.name}
+                </a>
+              )}
+              <span class="text-gray-600 font-mono">{relatedCourse.code}</span>
+              {relatedCourse.points && (
+                <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">
+                  {relatedCourse.points} poäng
+                </span>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleButtons = document.querySelectorAll('.section-toggle');
+    
+    toggleButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', (!isExpanded).toString());
+        
+        const sectionId = button.getAttribute('data-section');
+        const content = document.querySelector(`.section-content[data-section="${sectionId}"]`);
+        const chevron = button.querySelector('svg');
+        
+        if (content && chevron) {
+          content.style.display = isExpanded ? 'none' : 'block';
+          chevron.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(180deg)';
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
+import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
+
+export async function getStaticPaths() {
+  const gy25Subjects = await getCollection('gy25-subjects');
+  const gy11Subjects = await getCollection('gy11-subjects');
+  
+  // Create all possible combinations of subjects
+  const paths = [];
+  for (const gy11Subject of gy11Subjects) {
+    for (const gy25Subject of gy25Subjects) {
+      paths.push({
+        params: { 
+          gy11Code: gy11Subject.data.code.toLowerCase(),
+          gy25Code: gy25Subject.data.code.toLowerCase()
+        },
+        props: { gy11Subject, gy25Subject }
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const { gy11Subject, gy25Subject } = Astro.props;
+
+// Define sections to compare
+const sections = [
+  { id: 'description', title: 'Beskrivning' },
+  { id: 'purpose', title: 'Syfte' },
+  { id: 'courses_intro', title: 'Kurser/Nivåer - Introduktion' },
+  { id: 'courses', title: 'Kurser/Nivåer - Lista' }
+] as const;
+---
+
+<Layout>
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <!-- Back Button -->
+    <div class="mb-8">
+      <a 
+        href="/compare"
+        class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+        </svg>
+        Tillbaka till jämförelser
+      </a>
+    </div>
+
+    <!-- Subject Headers -->
+    <div class="grid md:grid-cols-2 gap-8 mb-8">
+      <div class="text-xl font-semibold text-blue-600 text-center">GY11</div>
+      <div class="text-xl font-semibold text-emerald-600 text-center">GY25</div>
+    </div>
+
+    <!-- Sections -->
+    {sections.map(section => (
+      <div class="mb-8">
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
+            <GY11SubjectSection subject={gy11Subject} section={section.id} />
+          </div>
+          <div>
+            <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
+            <GY25SubjectSection subject={gy25Subject} section={section.id} />
+          </div>
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  /* Add a vertical divider between columns on larger screens */
+  @media (min-width: 768px) {
+    .grid > div:first-child {
+      border-right: 1px solid #e5e7eb;
+      padding-right: 2rem;
+    }
+    .grid > div:last-child {
+      padding-left: 2rem;
+    }
+  }
+</style>

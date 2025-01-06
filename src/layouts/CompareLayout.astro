@@ -1,0 +1,310 @@
+---
+import Layout from './Layout.astro';
+
+interface Props {
+  activeView: 'subjects' | 'courses';
+}
+
+const { activeView } = Astro.props;
+---
+
+<Layout>
+  <main class="max-w-7xl mx-auto px-4 py-12">
+    <div class="flex flex-col items-center gap-6 mb-8">
+      <!-- Navigation -->
+      <nav class="flex gap-4">
+        <a
+          href="/compare"
+          class={`px-4 py-2 rounded-lg transition-colors ${
+            activeView === 'subjects'
+              ? 'bg-blue-600 text-white'
+              : 'text-gray-600 hover:bg-gray-100'
+          }`}
+        >
+          Ämnen
+        </a>
+        <a
+          href="/compare/courses"
+          class={`px-4 py-2 rounded-lg transition-colors ${
+            activeView === 'courses'
+              ? 'bg-blue-600 text-white'
+              : 'text-gray-600 hover:bg-gray-100'
+          }`}
+        >
+          Kurser/Nivåer
+        </a>
+      </nav>
+    </div>
+
+    <!-- Comparison Preview Box -->
+    <div id="comparison-box" class="hidden border border-gray-200 rounded-lg p-6 mb-8 bg-white shadow-sm">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <!-- GY11 Side -->
+        <div>
+          <h2 class="text-sm font-medium text-blue-600 mb-3 uppercase tracking-wide">GY11</h2>
+          <div id="gy11-preview" class="hidden">
+            <div class="rounded-lg shadow-sm p-6 bg-blue-50 relative">
+              <button
+                onclick="removeSelection('gy11')"
+                class="absolute top-2 right-2 text-gray-400 hover:text-gray-600"
+                aria-label="Remove GY11 selection"
+              >
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+              <h3 class="font-medium text-lg text-blue-700" id="gy11-name"></h3>
+              <p class="text-gray-500" id="gy11-code"></p>
+              <p class="text-gray-500 mt-1" id="gy11-points"></p>
+              <p class="text-gray-500 mt-1" id="gy11-courses"></p>
+            </div>
+          </div>
+          <!-- Empty space if no GY11 selected -->
+          <div id="gy11-empty" class="block">
+            <div class="rounded-lg border-2 border-dashed border-gray-200 p-6 flex items-center justify-center">
+              <p class="text-gray-400">Välj ett ämne eller kurs</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- GY25 Side -->
+        <div>
+          <h2 class="text-sm font-medium text-emerald-600 mb-3 uppercase tracking-wide">GY25</h2>
+          <div id="gy25-preview" class="hidden">
+            <div class="rounded-lg shadow-sm p-6 bg-emerald-50 relative">
+              <button
+                onclick="removeSelection('gy25')"
+                class="absolute top-2 right-2 text-gray-400 hover:text-gray-600"
+                aria-label="Remove GY25 selection"
+              >
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+              <h3 class="font-medium text-lg text-emerald-700" id="gy25-name"></h3>
+              <p class="text-gray-500" id="gy25-code"></p>
+              <p class="text-gray-500 mt-1" id="gy25-points"></p>
+              <p class="text-gray-500 mt-1" id="gy25-courses"></p>
+            </div>
+          </div>
+          <!-- Empty space if no GY25 selected -->
+          <div id="gy25-empty" class="block">
+            <div class="rounded-lg border-2 border-dashed border-gray-200 p-6 flex items-center justify-center">
+              <p class="text-gray-400">Välj ett ämne eller kurs</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Compare Button -->
+      <div class="text-center mt-6">
+        <button 
+          id="compare-button"
+          class="bg-blue-600 text-white px-8 py-3 rounded-lg shadow-lg hover:opacity-90 transition-all disabled:opacity-50 disabled:cursor-not-allowed font-medium text-lg"
+          disabled
+        >
+          Jämför
+        </button>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="flex justify-center mb-8">
+      <div class="w-full max-w-xl relative">
+        <input
+          type="text"
+          id="search"
+          placeholder="Sök..."
+          class="w-full px-4 py-3 text-lg rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
+        />
+        <svg 
+          class="absolute right-4 top-3.5 w-6 h-6 text-gray-400" 
+          fill="none" 
+          stroke="currentColor" 
+          viewBox="0 0 24 24"
+        >
+          <path 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            stroke-width="2" 
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+          />
+        </svg>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <slot />
+  </main>
+</Layout>
+
+<script>
+  // Type definitions
+  interface Elements {
+    preview: HTMLElement;
+    name: HTMLElement;
+    code: HTMLElement;
+    points: HTMLElement;
+    courses: HTMLElement;
+  }
+
+  let selectedGY11: string | null = null;
+  let selectedGY25: string | null = null;
+
+  // Get elements
+  const searchInput = document.getElementById('search') as HTMLInputElement;
+  const compareButton = document.getElementById('compare-button') as HTMLButtonElement;
+  const comparisonBox = document.getElementById('comparison-box') as HTMLElement;
+  const gy11Elements: Elements = {
+    preview: document.getElementById('gy11-preview') as HTMLElement,
+    name: document.getElementById('gy11-name') as HTMLElement,
+    code: document.getElementById('gy11-code') as HTMLElement,
+    points: document.getElementById('gy11-points') as HTMLElement,
+    courses: document.getElementById('gy11-courses') as HTMLElement,
+  };
+  const gy25Elements: Elements = {
+    preview: document.getElementById('gy25-preview') as HTMLElement,
+    name: document.getElementById('gy25-name') as HTMLElement,
+    code: document.getElementById('gy25-code') as HTMLElement,
+    points: document.getElementById('gy25-points') as HTMLElement,
+    courses: document.getElementById('gy25-courses') as HTMLElement,
+  };
+  const gy11Empty = document.getElementById('gy11-empty') as HTMLElement;
+  const gy25Empty = document.getElementById('gy25-empty') as HTMLElement;
+
+  // Update selection
+  function updateSelection(version: string, code: string, name: string, points: string, courses?: string) {
+    const elements = version === 'gy11' ? gy11Elements : gy25Elements;
+    const emptyElement = version === 'gy11' ? gy11Empty : gy25Empty;
+    const currentSelected = version === 'gy11' ? selectedGY11 : selectedGY25;
+    
+    // If clicking the same item again, deselect it
+    if (currentSelected === code) {
+      removeSelection(version);
+      return;
+    }
+
+    // Show comparison box
+    comparisonBox.classList.remove('hidden');
+
+    // Update preview
+    elements.preview.classList.remove('hidden');
+    elements.name.textContent = name;
+    elements.code.textContent = code;
+    elements.points.textContent = points ? `${points}p` : '';
+    
+    // Use "kurser" for GY11 and "nivåer" for GY25
+    if (courses) {
+      elements.courses.textContent = version === 'gy11' 
+        ? `${courses} kurser`
+        : `${courses} nivåer`;
+    } else {
+      elements.courses.textContent = '';
+    }
+
+    // Update selected state and button
+    if (version === 'gy11') {
+      selectedGY11 = code;
+    } else {
+      selectedGY25 = code;
+    }
+
+    // Hide empty state
+    emptyElement.classList.add('hidden');
+
+    // Update compare button state
+    compareButton.disabled = !(selectedGY11 && selectedGY25);
+
+    // Update card highlighting
+    updateCardHighlighting();
+  }
+
+  // Remove selection
+  function removeSelection(version: string) {
+    const elements = version === 'gy11' ? gy11Elements : gy25Elements;
+    const emptyElement = version === 'gy11' ? gy11Empty : gy25Empty;
+    
+    elements.preview.classList.add('hidden');
+    elements.name.textContent = '';
+    elements.code.textContent = '';
+    elements.points.textContent = '';
+    elements.courses.textContent = '';
+
+    // Show empty state
+    emptyElement.classList.remove('hidden');
+
+    if (version === 'gy11') {
+      selectedGY11 = null;
+    } else {
+      selectedGY25 = null;
+    }
+
+    // Update compare button state
+    compareButton.disabled = true;
+
+    // Hide comparison box if no selections
+    if (!selectedGY11 && !selectedGY25) {
+      comparisonBox.classList.add('hidden');
+    }
+
+    // Update card highlighting
+    updateCardHighlighting();
+  }
+
+  // Update card highlighting
+  function updateCardHighlighting() {
+    // Update GY11 cards
+    document.querySelectorAll('.gy11-card').forEach((card: Element) => {
+      const code = (card as HTMLElement).dataset.code;
+      if (code === selectedGY11) {
+        card.classList.add('ring-2', 'ring-blue-500', 'bg-blue-100');
+      } else {
+        card.classList.remove('ring-2', 'ring-blue-500', 'bg-blue-100');
+      }
+    });
+
+    // Update GY25 cards
+    document.querySelectorAll('.gy25-card').forEach((card: Element) => {
+      const code = (card as HTMLElement).dataset.code;
+      if (code === selectedGY25) {
+        card.classList.add('ring-2', 'ring-emerald-500', 'bg-emerald-100');
+      } else {
+        card.classList.remove('ring-2', 'ring-emerald-500', 'bg-emerald-100');
+      }
+    });
+  }
+
+  // Search functionality
+  searchInput.addEventListener('input', (e) => {
+    const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
+    const cards = document.querySelectorAll('.gy11-card, .gy25-card');
+    let hasResults = false;
+
+    cards.forEach((card) => {
+      const searchData = (card as HTMLElement).dataset.search || '';
+      if (searchData.includes(searchTerm)) {
+        card.classList.remove('hidden');
+        hasResults = true;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+  });
+
+  // Handle compare button click
+  compareButton.addEventListener('click', () => {
+    console.log('Compare button clicked');
+    console.log('Selected GY11:', selectedGY11);
+    console.log('Selected GY25:', selectedGY25);
+    if (selectedGY11 && selectedGY25) {
+      const url = `/compare/${selectedGY11.toLowerCase()}/${selectedGY25.toLowerCase()}`;
+      console.log('Navigating to:', url);
+      window.location.href = url;
+    }
+  });
+
+  // Make functions available globally
+  (window as any).updateSelection = updateSelection;
+  (window as any).removeSelection = removeSelection;
+  (window as any).activeView = '{activeView}';
+</script>
