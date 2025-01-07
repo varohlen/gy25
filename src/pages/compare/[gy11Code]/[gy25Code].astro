@@ -1,31 +1,27 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
 
-export async function getStaticPaths() {
-  const gy25Subjects = await getCollection('gy25-subjects');
-  const gy11Subjects = await getCollection('gy11-subjects');
-  
-  // Create all possible combinations of subjects
-  const paths = [];
-  for (const gy11Subject of gy11Subjects) {
-    for (const gy25Subject of gy25Subjects) {
-      paths.push({
-        params: { 
-          gy11Code: gy11Subject.data.code.toLowerCase(),
-          gy25Code: gy25Subject.data.code.toLowerCase()
-        },
-        props: { gy11Subject, gy25Subject }
-      });
-    }
-  }
-  
-  return paths;
-}
+// Tell Astro to server-render this page
+export const prerender = false;
 
-const { gy11Subject, gy25Subject } = Astro.props;
+// Get the subjects based on the URL parameters
+const { gy11Code, gy25Code } = Astro.params;
+
+// Get all subjects to validate the codes
+const gy11Subjects = await getCollection('gy11-subjects');
+const gy25Subjects = await getCollection('gy25-subjects');
+
+// Find the matching subjects
+const gy11Subject = gy11Subjects.find(s => s.data.code.toLowerCase() === gy11Code?.toLowerCase());
+const gy25Subject = gy25Subjects.find(s => s.data.code.toLowerCase() === gy25Code?.toLowerCase());
+
+// If either subject is not found, return 404
+if (!gy11Subject || !gy25Subject) {
+  return new Response('Not Found', { status: 404 });
+}
 
 // Define sections to compare
 const sections = [
