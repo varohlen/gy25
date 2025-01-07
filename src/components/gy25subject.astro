@@ -189,7 +189,10 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
   <!-- Section 4: Knowledge Requirements -->
   {subject.data.knowledgeRequirements && subject.data.knowledgeRequirements.length > 0 && showKnowledgeRequirements && (
     <GradeRequirements
-      requirements={processedRequirements}
+      requirements={subject.data.knowledgeRequirements.map(req => ({
+        text: req.text,
+        gradeStep: req.gradeStep || ''  // Ensure gradeStep is always a string
+      }))}
       title="Betygskriterier"
       defaultView="list"
     />

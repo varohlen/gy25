@@ -1,73 +1,391 @@
 ---
-import { getCollection, getEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import GradeReq from '../../../components/gradereq.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
+import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
 
 // Tell Astro to server-render this page
 export const prerender = false;
 
-// Get the subjects based on the URL parameters
+// Get the codes from the URL parameters
 const { gy11Code, gy25Code } = Astro.params;
 
-// Get all subjects to validate the codes
+// Get all subjects first since we need to find by code
 const gy11Subjects = await getCollection('gy11-subjects');
 const gy25Subjects = await getCollection('gy25-subjects');
 
-// Find the matching subjects
+// Try to find subjects by their code
 const gy11Subject = gy11Subjects.find(s => s.data.code.toLowerCase() === gy11Code?.toLowerCase());
 const gy25Subject = gy25Subjects.find(s => s.data.code.toLowerCase() === gy25Code?.toLowerCase());
 
-// If either subject is not found, return 404
-if (!gy11Subject || !gy25Subject) {
-  return new Response('Not Found', { status: 404 });
+// Initialize variables
+let isSubjectComparison: boolean;
+let gy11Course: any = null;
+let gy25Course: any = null;
+let gy11ParentSubject: any = null;
+let gy25ParentSubject: any = null;
+
+// If subjects are found directly, it's a subject comparison
+if (gy11Subject && gy25Subject) {
+  isSubjectComparison = true;
+  gy11ParentSubject = gy11Subject;
+  gy25ParentSubject = gy25Subject;
+} else {
+  // Find the parent subjects that contain the courses
+  gy11ParentSubject = gy11Subjects.find(subject => 
+    subject.data.courses?.some(course => course.code.toLowerCase() === gy11Code?.toLowerCase())
+  );
+  gy25ParentSubject = gy25Subjects.find(subject => 
+    subject.data.courses?.some(course => course.code.toLowerCase() === gy25Code?.toLowerCase())
+  );
+
+  // Find the specific courses
+  gy11Course = gy11ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy11Code?.toLowerCase());
+  gy25Course = gy25ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy25Code?.toLowerCase());
+
+  isSubjectComparison = false;
+
+  // If neither subjects nor courses are found, return 404
+  if (!gy11Course || !gy25Course || !gy11ParentSubject || !gy25ParentSubject) {
+    return new Response('Not Found', { status: 404 });
+  }
 }
 
-// Define sections to compare
-const sections = [
+// Define sections based on comparison type
+const subjectSections = [
   { id: 'description', title: 'Beskrivning' },
   { id: 'purpose', title: 'Syfte' },
   { id: 'courses_intro', title: 'Kurser/Nivåer - Introduktion' },
   { id: 'courses', title: 'Kurser/Nivåer - Lista' }
 ] as const;
+
+const courseSections = [
+  { id: 'basic', title: 'Grundläggande Information' },
+  { id: 'central_content', title: 'Centralt Innehåll' },
+  ...(!isSubjectComparison ? [{ id: 'grade_requirements', title: 'Betygskriterier' }] : [])
+] as const;
+
+// Set the page title based on what we're comparing
+const pageTitle = isSubjectComparison 
+  ? `Jämför ${gy11Subject?.data.name} med ${gy25Subject?.data.name}`
+  : `Jämför ${gy11Course?.name} med ${gy25Course?.name}`;
+
+interface KnowledgeRequirement {
+  text: string;
+  gradeStep: string;
+}
+
+type GradeStep = 'E' | 'C' | 'A';
+type GradeData = { paragraphs: string[] };
+type GradeMap = Record<GradeStep, GradeData>;
+
+// Function to extract paragraphs from HTML content
+function extractParagraphs(html: string): string[] {
+  const paragraphs: string[] = [];
+  const matches = html.match(/<p>(.*?)<\/p>/g);
+  if (matches) {
+    matches.forEach(p => {
+      // Skip D and B grade descriptions
+      if (!p.includes('bedöms sammantaget vara mellan')) {
+        // Remove the p tags but keep the inner HTML
+        const content = p.replace(/<p[^>]*>|<\/p>/g, '');
+        paragraphs.push(content);
+      }
+    });
+  }
+  return paragraphs;
+}
+
+// Process GY11 requirements only for course comparison
+const gy11GradeMap: GradeMap = {
+  E: { paragraphs: [] },
+  C: { paragraphs: [] },
+  A: { paragraphs: [] }
+};
+
+if (!isSubjectComparison && gy11Course.knowledgeRequirements) {
+  gy11Course.knowledgeRequirements.forEach(req => {
+    const step = req.gradeStep as GradeStep;
+    if (step in gy11GradeMap) {
+      gy11GradeMap[step].paragraphs = extractParagraphs(req.text);
+    }
+  });
+}
+
+// Process GY25 requirements from parent subject only for course comparison
+const gy25GradeMap: GradeMap = {
+  E: { paragraphs: [] },
+  C: { paragraphs: [] },
+  A: { paragraphs: [] }
+};
+
+if (!isSubjectComparison && gy25ParentSubject?.data.knowledgeRequirements) {
+  gy25ParentSubject.data.knowledgeRequirements.forEach(req => {
+    const step = req.gradeStep as GradeStep;
+    if (step in gy25GradeMap) {
+      gy25GradeMap[step].paragraphs = extractParagraphs(req.text);
+    }
+  });
+}
+
+// Get the maximum number of criteria for each course (only for course comparison)
+const gy11MaxCriteria = !isSubjectComparison ? Math.max(
+  gy11GradeMap.E.paragraphs.length,
+  gy11GradeMap.C.paragraphs.length,
+  gy11GradeMap.A.paragraphs.length
+) : 0;
+
+const gy25MaxCriteria = !isSubjectComparison ? Math.max(
+  gy25GradeMap.E.paragraphs.length,
+  gy25GradeMap.C.paragraphs.length,
+  gy25GradeMap.A.paragraphs.length
+) : 0;
+
 ---
 
-<Layout>
+<Layout title={pageTitle}>
   <div class="max-w-7xl mx-auto px-4 py-12">
     <!-- Back Button -->
     <div class="mb-8">
       <a 
-        href="/compare"
+        href={isSubjectComparison ? "/compare" : "/compare/courses"}
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
       >
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
           <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
         </svg>
-        Tillbaka till jämförelser
+        Tillbaka till {isSubjectComparison ? "jämförelser" : "kursjämförelser"}
       </a>
     </div>
 
-    <!-- Subject Headers -->
-    <div class="grid md:grid-cols-2 gap-8 mb-8">
-      <div class="text-xl font-semibold text-blue-600 text-center">GY11</div>
-      <div class="text-xl font-semibold text-emerald-600 text-center">GY25</div>
-    </div>
+    {isSubjectComparison ? (
+      <>
+        <!-- Subject Headers -->
+        <div class="grid md:grid-cols-2 gap-8 mb-8">
+          <div class="text-xl font-semibold text-blue-600 text-center">GY11</div>
+          <div class="text-xl font-semibold text-emerald-600 text-center">GY25</div>
+        </div>
 
-    <!-- Sections -->
-    {sections.map(section => (
-      <div class="mb-8">
-        <div class="grid md:grid-cols-2 gap-8">
-          <div>
-            <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
-            <GY11SubjectSection subject={gy11Subject} section={section.id} />
+        <!-- Subject Sections -->
+        {subjectSections.map(section => (
+          <div class="mb-8">
+            <div class="grid md:grid-cols-2 gap-8">
+              <div>
+                <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
+                <GY11SubjectSection subject={gy11Subject} section={section.id} />
+              </div>
+              <div>
+                <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
+                <GY25SubjectSection subject={gy25Subject} section={section.id} />
+              </div>
+            </div>
           </div>
-          <div>
-            <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
-            <GY25SubjectSection subject={gy25Subject} section={section.id} />
+        ))}
+      </>
+    ) : (
+      <>
+        <!-- Course Headers -->
+        <div class="grid md:grid-cols-2 gap-8 mb-8">
+          <div class="space-y-2 text-center">
+            <div class="text-xl font-semibold text-blue-600">{gy11Course.name}</div>
+            <div class="text-gray-500">{gy11Course.code}</div>
+            <div class="text-sm text-gray-600">Från ämnet {gy11ParentSubject.data.name}</div>
+            {gy11Course.points && <div class="text-sm text-gray-600">{gy11Course.points}p</div>}
+          </div>
+          <div class="space-y-2 text-center">
+            <div class="text-xl font-semibold text-emerald-600">{gy25Course.name}</div>
+            <div class="text-gray-500">{gy25Course.code}</div>
+            <div class="text-sm text-gray-600">Från ämnet {gy25ParentSubject.data.name}</div>
+            {gy25Course.points && <div class="text-sm text-gray-600">{gy25Course.points}p</div>}
           </div>
         </div>
-      </div>
-    ))}
+
+        <!-- Course Sections -->
+        {courseSections.map(section => (
+          <div class="mb-8">
+            <div class="grid md:grid-cols-2 gap-8">
+              <div>
+                <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
+                <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
+                  {section.id === 'basic' ? (
+                    <div class="space-y-4">
+                      <p><strong>Poäng:</strong> {gy11Course.points}</p>
+                      {gy11Course.description && (
+                        <div set:html={gy11Course.description} />
+                      )}
+                    </div>
+                  ) : section.id === 'central_content' ? (
+                    <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
+                      <div set:html={gy11Course.centralContent?.text} />
+                    </div>
+                  ) : section.id === 'grade_requirements' ? (
+                    <div class="space-y-4">
+                      <div class="flex items-center justify-between mb-4">
+                        <div class="flex gap-2">
+                          <button
+                            class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+                            data-view="list"
+                            data-side="gy11"
+                            data-active="true"
+                          >
+                            Lista
+                          </button>
+                          <button
+                            class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+                            data-view="table"
+                            data-side="gy11"
+                            data-active="false"
+                          >
+                            Tabell
+                          </button>
+                        </div>
+                      </div>
+
+                      <!-- List View -->
+                      <div 
+                        class="view-content prose prose-blue max-w-none" 
+                        data-view="list"
+                        data-side="gy11"
+                      >
+                        {gy11Course.knowledgeRequirements?.map((req) => (
+                          <div set:html={req.text} />
+                        ))}
+                      </div>
+
+                      <!-- Table View -->
+                      <div 
+                        class="view-content" 
+                        data-view="table"
+                        data-side="gy11"
+                        style="display: none;"
+                      >
+                        <div class="overflow-x-auto">
+                          <table class="min-w-full divide-y divide-gray-200">
+                            <thead>
+                              <tr class="bg-gray-50">
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">E</th>
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">C</th>
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">A</th>
+                              </tr>
+                            </thead>
+                            <tbody class="bg-white divide-y divide-gray-200">
+                              {Array.from({ length: gy11MaxCriteria }, (_, index) => (
+                                <tr>
+                                  {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
+                                    <td class="px-6 py-4 align-top">
+                                      <div class="prose prose-blue max-w-none" set:html={gy11GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                    </td>
+                                  ))}
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                    </div>
+                  ) : (
+                    <GradeReq 
+                      requirements={gy11Course.knowledgeRequirements} 
+                      title="Betygskriterier GY11"
+                      defaultView="table"
+                    />
+                  )}
+                </div>
+              </div>
+              <div>
+                <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
+                <div class="prose prose-emerald max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
+                  {section.id === 'basic' ? (
+                    <div class="space-y-4">
+                      <p><strong>Poäng:</strong> {gy25Course.points}</p>
+                      {gy25Course.description && (
+                        <div set:html={gy25Course.description} />
+                      )}
+                    </div>
+                  ) : section.id === 'central_content' ? (
+                    <div class="prose prose-emerald max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
+                      <div set:html={gy25Course.centralContent?.text} />
+                    </div>
+                  ) : section.id === 'grade_requirements' ? (
+                    <div class="space-y-4">
+                      <div class="flex items-center justify-between mb-4">
+                        <div class="flex gap-2">
+                          <button
+                            class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+                            data-view="list"
+                            data-side="gy25"
+                            data-active="true"
+                          >
+                            Lista
+                          </button>
+                          <button
+                            class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+                            data-view="table"
+                            data-side="gy25"
+                            data-active="false"
+                          >
+                            Tabell
+                          </button>
+                        </div>
+                      </div>
+
+                      <!-- List View -->
+                      <div 
+                        class="view-content prose prose-emerald max-w-none" 
+                        data-view="list"
+                        data-side="gy25"
+                      >
+                        {gy25ParentSubject?.data.knowledgeRequirements?.map((req) => (
+                          <div set:html={req.text} />
+                        ))}
+                      </div>
+
+                      <!-- Table View -->
+                      <div 
+                        class="view-content" 
+                        data-view="table"
+                        data-side="gy25"
+                        style="display: none;"
+                      >
+                        <div class="overflow-x-auto">
+                          <table class="min-w-full divide-y divide-gray-200">
+                            <thead>
+                              <tr class="bg-gray-50">
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">E</th>
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">C</th>
+                                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900">A</th>
+                              </tr>
+                            </thead>
+                            <tbody class="bg-white divide-y divide-gray-200">
+                              {Array.from({ length: gy25MaxCriteria }, (_, index) => (
+                                <tr>
+                                  {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
+                                    <td class="px-6 py-4 align-top">
+                                      <div class="prose prose-emerald max-w-none" set:html={gy25GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                    </td>
+                                  ))}
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                    </div>
+                  ) : (
+                    <GradeReq 
+                      requirements={gy25ParentSubject?.data.knowledgeRequirements} 
+                      title="Betygskriterier GY25"
+                      defaultView="table"
+                    />
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </>
+    )}
   </div>
 </Layout>
 
@@ -82,4 +400,42 @@ const sections = [
       padding-left: 2rem;
     }
   }
+  .view-toggle[data-active="true"] {
+    background-color: rgb(59 130 246);
+    color: white;
+  }
+  .view-toggle[data-active="false"] {
+    background-color: rgb(243 244 246);
+    color: rgb(75 85 99);
+  }
+  .view-toggle[data-active="false"]:hover {
+    background-color: rgb(229 231 235);
+  }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // View toggle functionality
+    const viewToggles = document.querySelectorAll('.view-toggle');
+    const viewContents = document.querySelectorAll('.view-content');
+
+    viewToggles.forEach(toggle => {
+      toggle.addEventListener('click', () => {
+        const view = toggle.getAttribute('data-view');
+        const side = toggle.getAttribute('data-side');
+
+        // Update toggle buttons for this side
+        document.querySelectorAll(`.view-toggle[data-side="${side}"]`).forEach(btn => {
+          btn.setAttribute('data-active', 'false');
+        });
+        toggle.setAttribute('data-active', 'true');
+
+        // Update content visibility for this side
+        document.querySelectorAll(`.view-content[data-side="${side}"]`).forEach(content => {
+          const contentView = content.getAttribute('data-view');
+          content.style.display = contentView === view ? 'block' : 'none';
+        });
+      });
+    });
+  });
+</script>

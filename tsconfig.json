@@ -1,5 +1,17 @@
 {
   "extends": "astro/tsconfigs/strict",
-  "include": [".astro/types.d.ts", "**/*"],
-  "exclude": ["dist"]
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["**/*"],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "public",
+    "src/components/gy11course.astro",
+    "src/components/gy11subject.astro"
+  ]
 }
