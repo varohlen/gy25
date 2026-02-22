@@ -674,6 +674,14 @@ function formatHistoryRangeLabel(
             });
         };
 
-        input.addEventListener("input", filter);
+        const debounce = (fn: () => void, wait: number) => {
+            let timeoutId: ReturnType<typeof setTimeout> | undefined;
+            return () => {
+                if (timeoutId) clearTimeout(timeoutId);
+                timeoutId = setTimeout(() => fn(), wait);
+            };
+        };
+
+        input.addEventListener("input", debounce(filter, 150));
     });
 </script>

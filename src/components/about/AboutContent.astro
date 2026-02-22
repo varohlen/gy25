@@ -5,8 +5,15 @@ import arohlenAvatar from "../../assets/project-logos/arohlen-pixel-sit01.png";
 
 const fetchReport = loadFetchReport();
 const apiVersion = fetchReport?.apiMetadata?.apiVersion ?? "okänd";
-const apiReleased = toSvDate(fetchReport?.apiMetadata?.apiReleased);
-const dataUpdated = toSvDate(fetchReport?.generatedAt);
+
+function formatDateOrUnknown(value?: string | null) {
+    if (!value) return "okänd";
+    const formatted = toSvDate(value);
+    return formatted.toLowerCase() === "invalid date" ? "okänd" : formatted;
+}
+
+const apiReleased = formatDateOrUnknown(fetchReport?.apiMetadata?.apiReleased);
+const dataUpdated = formatDateOrUnknown(fetchReport?.generatedAt);
 ---
 
 <main class="max-w-5xl mx-auto px-4 py-16">

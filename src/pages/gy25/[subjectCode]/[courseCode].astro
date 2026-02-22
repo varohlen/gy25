@@ -43,8 +43,8 @@ export async function getStaticPaths(): Promise<StaticPath[]> {
 const { subject, course }: StaticPath['props'] = Astro.props;
 const subjectChange = getSubjectChange('gy25', subject.data.code);
 const upperCourseCode = course.code.toUpperCase();
-const isCourseCentralChanged = subjectChange?.summary.courseCentralChangedCodes.includes(upperCourseCode) ?? false;
-const isCourseMetaChanged = subjectChange?.summary.courseMetaChangedCodes.includes(upperCourseCode) ?? false;
+const isCourseCentralChanged = (subjectChange?.summary?.courseCentralChangedCodes ?? []).includes(upperCourseCode);
+const isCourseMetaChanged = (subjectChange?.summary?.courseMetaChangedCodes ?? []).includes(upperCourseCode);
 const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
 const fetchReport = loadFetchReport();
 const syncedDate = toSvDate(fetchReport?.generatedAt);

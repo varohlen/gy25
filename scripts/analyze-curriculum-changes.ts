@@ -50,13 +50,24 @@ type FullReport = {
 
 function runGitText(args: string[]): string {
   const res = spawnSync("git", args, { encoding: "utf8" });
-  if (res.status !== 0) return "";
+  if (res.status !== 0) {
+    const errorText = res.error?.message || res.stderr || "unknown git error";
+    console.warn(`git ${args.join(" ")} failed: ${String(errorText).trim()}`);
+    return "";
+  }
   return (res.stdout || "").trim();
 }
 
 function runGitBuffer(args: string[]): Buffer {
   const res = spawnSync("git", args, { encoding: null });
-  if (res.status !== 0) return Buffer.alloc(0);
+  if (res.status !== 0) {
+    const errorText =
+      res.error?.message ||
+      (Buffer.isBuffer(res.stderr) ? res.stderr.toString("utf8") : String(res.stderr || "")) ||
+      "unknown git error";
+    console.warn(`git ${args.join(" ")} failed: ${errorText.trim()}`);
+    return Buffer.alloc(0);
+  }
   return (res.stdout as Buffer) || Buffer.alloc(0);
 }
 
@@ -286,6 +297,7 @@ function compareSubject(filePath: string): SubjectEntry {
     ? newDoc.knowledgeRequirements.map((v: unknown) => normalizeText(v))
     : [];
   const knowledgeChanged = stableJson(oldKnowledge) !== stableJson(newKnowledge);
+  // Kept as alias for compatibility with UI/report fields that still read gradeCriteriaChanged.
   const gradeCriteriaChanged = knowledgeChanged;
 
   const oldCentral = Array.isArray(oldDoc.centralContent)

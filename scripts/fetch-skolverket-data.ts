@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { createHash } from 'crypto';
+import { createHash, randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 
@@ -14,6 +14,8 @@ const API_METADATA_PATH = path.join(METADATA_DIR, 'api-metadata.json');
 
 const GY25_DATE_OVERRIDE = process.env.SKOLVERKET_GY25_DATE?.trim();
 const REQUEST_DELAY_MS = 60;
+const FETCH_MAX_ATTEMPTS = 4;
+const FETCH_BASE_DELAY_MS = 500;
 
 const API_BASE = 'https://api.skolverket.se/syllabus/v1';
 
@@ -156,14 +158,47 @@ async function writeJsonAtomic(filePath: string, data: unknown): Promise<void> {
   await fs.rename(tmpPath, filePath);
 }
 
+function jitter(ms: number): number {
+  return Math.floor(Math.random() * Math.max(1, ms * 0.2));
+}
+
+function isRetryableError(error: unknown): boolean {
+  if (axios.isAxiosError(error)) {
+    const status = error.response?.status;
+    if (!status) return true;
+    if (status >= 500) return true;
+    if (status === 408 || status === 429) return true;
+    return false;
+  }
+  return true;
+}
+
 async function fetchData<T>(url: string): Promise<T> {
-  const response = await axios.get<T>(url, {
-    headers: {
-      Accept: 'application/json',
-    },
-    timeout: 25000,
-  });
-  return response.data;
+  let lastError: unknown;
+
+  for (let attempt = 1; attempt <= FETCH_MAX_ATTEMPTS; attempt += 1) {
+    try {
+      const response = await axios.get<T>(url, {
+        headers: {
+          Accept: 'application/json',
+        },
+        timeout: 25000,
+      });
+      return response.data;
+    } catch (error) {
+      lastError = error;
+      const retryable = isRetryableError(error);
+      if (!retryable || attempt >= FETCH_MAX_ATTEMPTS) {
+        break;
+      }
+
+      const waitMs = FETCH_BASE_DELAY_MS * 2 ** (attempt - 1) + jitter(FETCH_BASE_DELAY_MS);
+      console.warn(`Request failed (attempt ${attempt}/${FETCH_MAX_ATTEMPTS}) for ${url}. Retrying in ${waitMs}ms...`);
+      await sleep(waitMs);
+    }
+  }
+
+  throw lastError;
 }
 
 async function sleep(ms: number): Promise<void> {
@@ -205,6 +240,58 @@ async function loadLocalSubjects(version: VersionKey): Promise<Map<string, Local
   return result;
 }
 
+function sanitizeHtml(html: string): string {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<(iframe|object|embed|link|meta|base)[^>]*>/gi, '')
+    .replace(/\son\w+="[^"]*"/gi, '')
+    .replace(/\son\w+='[^']*'/gi, '')
+    .replace(/\son\w+=\S+/gi, '')
+    .replace(/\s(href|src)=["']\s*javascript:[^"']*["']/gi, ' $1="#"');
+}
+
+function sanitizeSubjectHtml(subject: Record<string, unknown>): Record<string, unknown> {
+  const copy = JSON.parse(JSON.stringify(subject)) as Record<string, unknown>;
+
+  const sanitizeField = (obj: Record<string, unknown>, key: string) => {
+    if (typeof obj[key] === 'string') {
+      obj[key] = sanitizeHtml(obj[key] as string);
+    }
+  };
+
+  sanitizeField(copy, 'description');
+  sanitizeField(copy, 'purpose');
+
+  const topCentral = copy.centralContent as Record<string, unknown> | undefined;
+  if (topCentral && typeof topCentral.text === 'string') {
+    topCentral.text = sanitizeHtml(topCentral.text);
+  }
+
+  if (Array.isArray(copy.knowledgeRequirements)) {
+    for (const req of copy.knowledgeRequirements as Array<Record<string, unknown>>) {
+      sanitizeField(req, 'text');
+    }
+  }
+
+  if (Array.isArray(copy.courses)) {
+    for (const course of copy.courses as Array<Record<string, unknown>>) {
+      sanitizeField(course, 'description');
+      const courseCentral = course.centralContent as Record<string, unknown> | undefined;
+      if (courseCentral && typeof courseCentral.text === 'string') {
+        courseCentral.text = sanitizeHtml(courseCentral.text);
+      }
+      if (Array.isArray(course.knowledgeRequirements)) {
+        for (const req of course.knowledgeRequirements as Array<Record<string, unknown>>) {
+          sanitizeField(req, 'text');
+        }
+      }
+    }
+  }
+
+  return copy;
+}
+
 async function saveSubject(version: VersionKey, subject: Record<string, unknown>, now: string): Promise<void> {
   const code = String(subject.code || '').trim();
   if (!code) {
@@ -212,8 +299,9 @@ async function saveSubject(version: VersionKey, subject: Record<string, unknown>
   }
 
   const filePath = path.join(CONTENT_DIR, `${version}-subjects`, `${code}.json`);
+  const sanitized = sanitizeSubjectHtml(subject);
   const content = {
-    ...subject,
+    ...sanitized,
     version,
     lastUpdated: now,
   };
@@ -261,6 +349,7 @@ function createVersionReport(version: VersionKey): VersionReport {
 async function processVersion(
   version: VersionKey,
   now: string,
+  listResponseOverride?: SubjectsListResponse,
 ): Promise<{
   report: VersionReport;
   state: VersionState;
@@ -271,7 +360,7 @@ async function processVersion(
 }> {
   const report = createVersionReport(version);
 
-  const listResponse = await fetchData<SubjectsListResponse>(ENDPOINTS[version].subjectsList);
+  const listResponse = listResponseOverride ?? await fetchData<SubjectsListResponse>(ENDPOINTS[version].subjectsList);
   const liveSubjects = Array.isArray(listResponse.subjects) ? listResponse.subjects : [];
 
   report.subjectCount = liveSubjects.length;
@@ -312,15 +401,21 @@ async function processVersion(
   report.changedCodes = [...changedCodes].sort();
   report.removedCodes = toRemove.map(entry => entry.code).sort();
 
+  const fetchedSubjects: Array<{ code: string; detail: Record<string, unknown> }> = [];
+
   for (let index = 0; index < toFetch.length; index += 1) {
     const subject = toFetch[index];
     const detail = await fetchSubjectDetails(subject.code, version);
-    await saveSubject(version, detail, now);
-    report.fetchedCount += 1;
+    fetchedSubjects.push({ code: subject.code, detail });
 
     if (index < toFetch.length - 1) {
       await sleep(REQUEST_DELAY_MS);
     }
+  }
+
+  for (const entry of fetchedSubjects) {
+    await saveSubject(version, entry.detail, now);
+    report.fetchedCount += 1;
   }
 
   for (const removed of toRemove) {
@@ -431,7 +526,7 @@ function createHistoryEntry(params: {
   };
 
   return {
-    id: now,
+    id: `${now}-${randomUUID()}`,
     recordedAt: now,
     fromUpdatedAt,
     toUpdatedAt: now,
@@ -491,7 +586,7 @@ async function main() {
     for (const version of ['gy11', 'gy25'] as VersionKey[]) {
       console.log(`\nProcessing ${version.toUpperCase()}...`);
       try {
-        const result = await processVersion(version, now);
+        const result = await processVersion(version, now, version === 'gy11' ? gy11List : undefined);
         versionReports[version] = result.report;
         versionStates[version] = result.state;
         hadChanges = hadChanges || result.hadChanges;
