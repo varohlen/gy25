@@ -3,8 +3,12 @@
   "name": "Kyl- och värmepumpsteknik",
   "englishName": "Refrigeration and heat-pump technology",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2022-07-01",
-  "modifiedDate": "2022-06-09",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-07",
+  "canceledDate": "2026-01-01",
+  "canceledSkolfs": "2025:56",
   "version": "gy11",
   "versionInfo": "Betygskriterier ersätter kunskapskrav",
   "skolfsGrund": "2010:78",
@@ -215,5 +219,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:12.064Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

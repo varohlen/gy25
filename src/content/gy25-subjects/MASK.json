@@ -1,9 +1,11 @@
 {
   "code": "MASK",
   "name": "Maskiner och teknisk utrustning inom naturbruk",
+  "englishName": "Land-Based Machinery and Equipment",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-02-06",
+  "modifiedDate": "2025-12-19",
   "version": "gy25",
   "versionInfo": "Första versionen",
   "skolfsGrund": "2024:185",
@@ -88,5 +90,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.039Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

@@ -1,12 +1,15 @@
 {
   "code": "LASN",
   "name": "Låsinstallation",
+  "englishName": "Lock Installation",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:49",
+  "skolfsAndring": "2025:466",
   "nameHeading": "<h2>Låsinstallation</h2>",
   "description": "<p>Ämnet låsinstallation behandlar montering och installation av lås och låssystem. Ämnet behandlar också de installationstekniker och kvalitetskontroller som används inom området samt metoder och tekniker för underhåll och reparation av befintliga låssystem.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -33,7 +36,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet låsinstallation på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Installation</em></p> <ul> <li>Installation och montering av vanligt förekommande lås och beslag.</li> <li>Tolkning av scheman, ritningar och övriga anvisningar för låstekniska system.</li> <li>Planering av arbete med låstekniska system genom att upprätta ett enklare arbetsunderlag.</li> <li>Introduktion till arbetsmetoder, produkter och komponenter utifrån gällande kravspecifikationer.</li> <li>Montering av lås enligt mekaniska kodprinciper.</li> <li>Användning av verktyg, instrument och övrig utrustning.</li> <li>Kabelförläggning samt anslutning och driftsättning.</li> <li>Registrering och dokumentation av låstekniska installationer.</li> </ul> <p><em>Funktionskontroll och underhåll</em></p> <ul> <li>Funktionskontroll i enlighet med låsteknisk specifikation.</li> <li>Service och underhåll av låstekniska system.</li> <li>Identifiering och avhjälpning av brister och felkällor i låstekniska system.</li> </ul> <p><em>Säkerhet, hållbarhet och kommunikation</em></p> <ul> <li>Förebyggande av person- och egendomsskador.</li> <li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiskt riktiga arbetsmetoder samt metoder för struktur, ordning och effektiv arbetsmiljö.</li> <li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat.</li> <li>Yrkesmässig kommunikation med beställare och kunder.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet låsinstallation på nivå 1 ska behandla följande centrala innehåll:</p><p><em>Installation</em></p><ul><li>Installation och montering av vanligt förekommande lås och beslag.</li><li>Tolkning av scheman, ritningar och övriga anvisningar för låstekniska system.</li><li>Planering av arbete med låstekniska system genom att upprätta ett enklare arbetsunderlag.</li><li>Introduktion till arbetsmetoder, produkter och komponenter utifrån gällande kravspecifikationer.</li><li>Lägga ihop lås enligt mekaniska kodprinciper.</li><li>Användning av verktyg, instrument och övrig utrustning.</li><li>Kabelförläggning samt anslutning och driftsättning.</li><li>Registrering och dokumentation av låstekniska installationer.</li></ul><p><em>Funktionskontroll och underhåll</em></p><ul><li>Funktionskontroll i enlighet med låsteknisk specifikation.</li><li>Service och underhåll av låstekniska system.</li><li>Identifiering och avhjälpning av brister och felkällor i låstekniska system.</li></ul><p><em>Säkerhet, hållbarhet och kommunikation</em></p><ul><li>Förebyggande av person- och egendomsskador.</li><li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li><li>Tillämpning av ergonomiskt riktiga arbetsmetoder samt metoder för struktur, ordning och effektiv arbetsmiljö.</li><li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat.</li><li>Yrkesmässig kommunikation med beställare och kunder.</li></ul>"
       }
     },
     {
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet låsinstallation på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Installation</em></p> <ul> <li>Installation och montage av olika lås och beslag så att dessa samverkar för rätt funktion.</li> <li>Tolkning av scheman, ritningar och övriga anvisningar för låstekniska system.</li> <li>Planering av arbete inom låsinstallation genom att upprätta ett arbetsunderlag.</li> <li>Val av produkter och komponenter utifrån kravspecifikationer.</li> <li>Inkoppling i förekommande styrcentral och driftsättning av elektromekaniska lås och slutbleck med kabelförläggning i och kring dörrmiljön.</li> <li>Montering, inkoppling och driftsättning av läsare och kodlås med kabelförläggning samt anslutning till förekommande dörrcentral.</li> <li>Montering av lås och behör avsedda för fönster och fönsterdörrar.</li> <li>Montering och injustering av olika typer av system för dörrstyrning.</li> <li>Montering av låskomponenter utifrån de mekaniska kodprinciperna.</li> <li>Registrering och dokumentation av låstekniska installationer.</li> <li>Upprättande av avvikelserapport för ändringsarbeten samt tillkommande och avgående material och arbeten.</li> </ul> <p><em>Funktionskontroll och underhåll</em></p> <ul> <li>Funktionskontroll i enlighet med låsteknisk specifikation.</li> <li>Service och underhåll av låstekniska system.</li> <li>Identifiering och avhjälpning av brister och felkällor i låstekniska system.</li> </ul> <p><em>Säkerhet, hållbarhet och kommunikation</em></p> <ul> <li>Riskbedömning i samband med arbetsuppgifter.</li> <li>Förebyggande av person- och egendomsskador.</li> <li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiskt riktiga arbetsmetoder samt metoder för struktur, ordning och effektiv arbetsmiljö.</li> <li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat i tal och skrift.</li> <li>Yrkesmässig kommunikation med olika målgrupper i tal och skrift.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet låsinstallation på nivå 2 ska behandla följande centrala innehåll:</p><p><em>Installation</em></p><ul><li>Installation och montage av olika lås och beslag så att dessa samverkar för rätt funktion.</li><li>Tolkning av scheman, ritningar och övriga anvisningar för låstekniska system.</li><li>Planering av arbete inom låsinstallation genom att upprätta ett arbetsunderlag.</li><li>Val av produkter och komponenter utifrån kravspecifikationer.</li><li>Inkoppling i förekommande styrcentral och driftsättning av elektromekaniska lås och slutbleck med kabelförläggning i och kring dörrmiljön.</li><li>Montering, inkoppling och driftsättning av läsare och kodlås med kabelförläggning samt anslutning till förekommande dörrcentral.</li><li>Montering av lås och behör avsedda för fönster och fönsterdörrar.</li><li>Montering och injustering av olika typer av system för dörrstyrning.</li><li>Lägga ihop och lägga om lås enligt olika kodprinciper.</li><li>Registrering och dokumentation av låstekniska installationer.</li><li>Upprättande av avvikelserapport för ändringsarbeten samt tillkommande och avgående material och arbeten.</li></ul><p><em>Funktionskontroll och underhåll</em></p><ul><li>Funktionskontroll i enlighet med låsteknisk specifikation.</li><li>Service och underhåll av låstekniska system.</li><li>Identifiering och avhjälpning av brister och felkällor i låstekniska system.</li></ul><p><em>Säkerhet, hållbarhet och kommunikation</em></p><ul><li>Riskbedömning i samband med arbetsuppgifter.</li><li>Förebyggande av person- och egendomsskador.</li><li>Säkert och miljömässigt hållbart arbete i enlighet med lagar och andra bestämmelser inom området.</li><li>Tillämpning av ergonomiskt riktiga arbetsmetoder samt metoder för struktur, ordning och effektiv arbetsmiljö.</li><li>Fackspråk inom yrket för att kommunicera om arbetsprocess och resultat i tal och skrift.</li><li>Yrkesmässig kommunikation med olika målgrupper i tal och skrift.</li></ul>"
       }
     }
   ],
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.034Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

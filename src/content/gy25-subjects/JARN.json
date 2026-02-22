@@ -1,9 +1,11 @@
 {
   "code": "JARN",
   "name": "Järnvägsbyggnad",
+  "englishName": "Railway Construction",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "modifiedDate": "2025-12-18",
   "version": "gy25",
   "versionInfo": "Första versionen",
   "skolfsGrund": "2024:18",
@@ -74,5 +76,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.025Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

@@ -1,16 +1,19 @@
 {
   "code": "VATE",
   "name": "Vattenreningsteknik",
+  "englishName": "Water Treatment Technology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-02-06",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:245",
+  "skolfsAndring": "2025:483",
   "nameHeading": "<h2>Vattenreningsteknik</h2>",
   "description": "<p>Vatten är människans viktigaste livsmedel. Därför är produktion och rening av vatten centrala frågor på både lokal och global nivå. Ämnet vattenreningsteknik behandlar drift, underhåll och service av vattentekniska anläggningar och system. I ämnet behandlas även naturvetenskapliga principer och hållbarhetsperspektiv.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet vattenreningsteknik ska syfta till att eleverna utvecklar förmåga att utföra drift, underhåll och service i vattentekniska anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur vatten- och avloppsreningsverk är uppbyggda och fungerar. Eleverna ska även ges möjlighet att utveckla kunskaper om mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra provtagningar av vatten samt beräkningar för att optimera driften av en anläggning avseende kvalitet, miljö och ekonomi. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om olika miljö- och kvalitetssystem och standarder inom vatten- och avloppsteknik samt om hur arbetet kan utföras på ett säkert, hållbart och kvalitetsmedvetet sätt. Undervisningen ska stimulera elevernas nyfikenhet på utvecklingen inom vattenreningsteknik och bidra till att eleverna utvecklar förmåga att lösa problem i arbetsrelaterade situationer.</p> <p>Genom experiment och laborationer ska eleverna ges möjlighet att utveckla förmåga att tolka teknisk dokumentation samt arbeta enligt yrkespraxis på ett sätt som omfattar ansvar för både drift och miljö. Undervisningen ska ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk samt hantera verktyg och utrustning på ett säkert och hållbart sätt. Dessutom ska undervisningen lämna utrymme för diskussioner om det arbete som görs för att finna lösningar på internationella problem inom vattenreningsteknik.</p> <h5><em>Undervisningen i ämnet vattenreningsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</li> <li>Kunskaper om mikrobiologiska processer som har betydelse för vattenrening och miljö.</li> <li>Förmåga att hantera och vårda verktyg och utrustning.</li> <li>Förmåga att utföra vanligt förekommande arbetsuppgifter i vattenreningsanläggningar i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utföra provtagningar inom vattenreningssystem samt beräkningar för att optimera driften.</li> </ul><h3>Nivåer i ämnet vattenreningsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet vatten- och miljöteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet vattenreningsteknik ska syfta till att eleverna utvecklar förmåga att utföra drift, underhåll och service i vattentekniska anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur vatten- och avloppsreningsverk är uppbyggda och fungerar. Eleverna ska även ges möjlighet att utveckla kunskaper om mikrobiologiska processer av betydelse för vattenrening och miljö.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra provtagningar av vatten samt beräkningar för att optimera driften av en anläggning avseende kvalitet, miljö och ekonomi. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om olika miljö- och kvalitetssystem och standarder inom vatten- och avloppsteknik samt om hur arbetet kan utföras på ett säkert, hållbart och kvalitetsmedvetet sätt. Undervisningen ska stimulera elevernas nyfikenhet på utvecklingen inom vattenreningsteknik och bidra till att eleverna utvecklar förmåga att lösa problem i arbetsrelaterade situationer.</p> <p>Genom experiment och laborationer ska eleverna ges möjlighet att utveckla förmåga att tolka teknisk dokumentation samt arbeta enligt yrkespraxis på ett sätt som omfattar ansvar för både drift och miljö. Undervisningen ska ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk samt hantera verktyg och utrustning på ett säkert och hållbart sätt. Dessutom ska undervisningen lämna utrymme för diskussioner om det arbete som görs för att finna lösningar på internationella problem inom vattenreningsteknik.</p> <h5><em>Undervisningen i ämnet vattenreningsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om hur vattenreningsanläggningar är uppbyggda och fungerar.</li> <li>Kunskaper om mikrobiologiska processer som har betydelse för vattenrening och miljö.</li> <li>Förmåga att hantera och vårda verktyg och utrustning.</li> <li>Förmåga att utföra vanligt förekommande arbetsuppgifter i vattenreningsanläggningar i enlighet med lagar och andra bestämmelser inom området.</li> <li>Förmåga att utföra provtagningar inom vattenreningssystem samt beräkningar för att optimera driften.</li> </ul><h3>Nivåer i ämnet vattenreningsteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet miljö- och vattenteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.098Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

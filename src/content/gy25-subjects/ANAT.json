@@ -1,12 +1,15 @@
 {
   "code": "ANAT",
   "name": "Anatomi och fysiologi",
+  "englishName": "Anatomy and physiology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-02-06",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:130",
+  "skolfsAndring": "2025:474",
   "nameHeading": "<h2>Anatomi och fysiologi</h2>",
   "description": "<p>Ämnet anatomi och fysiologi har sin grund i anatomi, fysiologi, mikrobiologi och farmakologi. Ämnet behandlar människokroppens uppbyggnad och funktion, vanliga mikroorganismer och deras spridningsvägar samt läkemedel och läkemedelshantering.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -61,7 +64,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet anatomi och fysiologi på nivå 1b ska behandla följande centrala innehåll:</p> <ul> <li>Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.</li> <li>Kroppens vätske-, elektrolyt- och näringsbalans.</li> <li>Människans utveckling från barn till äldre.</li> <li>Den fysiologiska processen vid människans fortplantning, från befruktning till förlossning.</li> <li>Medicinsk terminologi.</li> <li>Vanliga mikroorganismer och hur de sprids samt hur kroppens försvarssystem mot mikroorganismer och virus fungerar.</li> <li>Vanliga läkemedel, deras verkningssätt och användningsområden samt vilka biverkningar de kan ha.</li> <li>Hur antibiotika fungerar och vad som kännetecknar en ansvarsfull antibiotikaanvändning.</li> <li>Läkemedels olika administreringssätt, halveringstid och terapeutisk bredd.</li> <li>Enklare läkemedelsberäkningar samt rimlighetsbedömningar av resultaten från beräkningarna.</li> <li>Lagar och andra bestämmelser som gäller för läkemedelsanvändning, däribland bestämmelser om delegering av och personligt ansvar för läkemedelshantering.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet anatomi och fysiologi på nivå 1b ska behandla följande centrala innehåll:</p><ul><li>Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.</li><li>Kroppens vätske-, elektrolyt- och näringsbalans.</li><li>Människans utveckling från barn till äldre.</li><li>Den fysiologiska processen vid människans fortplantning, från befruktning till förlossning.</li><li>Medicinsk terminologi.</li><li>Vanliga mikroorganismer och hur de sprids, åtgärder för att förebygga smitta samt hur kroppens försvarssystem mot mikroorganismer och virus fungerar.</li><li>Vanliga läkemedel, deras verkningssätt och användningsområden samt vilka biverkningar de kan ha.</li><li>Hur antibiotika fungerar och vad som kännetecknar en ansvarsfull antibiotikaanvändning.</li><li>Läkemedels olika administreringssätt, halveringstid och terapeutisk bredd.</li><li>Enklare läkemedelsberäkningar samt rimlighetsbedömningar av resultaten från beräkningarna.</li><li>Lagar och andra bestämmelser som gäller för läkemedelsanvändning, däribland bestämmelser om delegering av och personligt ansvar för läkemedelshantering.</li></ul>"
       }
     }
   ],
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:26.958Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

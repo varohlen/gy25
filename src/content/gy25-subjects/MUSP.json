@@ -1,9 +1,11 @@
 {
   "code": "MUSP",
   "name": "Musikproduktion",
+  "englishName": "Music Production",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-05-20",
+  "modifiedDate": "2025-12-19",
   "version": "gy25",
   "versionInfo": "Första versionen. Justerat mindre skrivfel.",
   "skolfsGrund": "2024:67",
@@ -75,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.054Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

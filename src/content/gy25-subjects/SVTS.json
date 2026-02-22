@@ -1,12 +1,15 @@
 {
   "code": "SVTS",
   "name": "Svetsmetod MMA",
+  "englishName": "Welding Method MMA",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-03-13",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:363",
+  "skolfsAndring": "2025:488",
   "nameHeading": "<h2>Svetsmetod MMA</h2>",
   "description": "<p>Ämnet svetsmetod MMA (manual metal arc) behandlar olika tekniker för sammanfogning av metaller med svetsmetoden MMA. Dessutom behandlar ämnet kvalitetsbedömning av svetsresultat.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -33,7 +36,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet svetsmetod MMA på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom kälsvetsning, plåt mot plåt och plåt mot rör.</li> <li>MMA-svetsning av kälsvetsar, plåt mot plåt samt plåt mot rör i olika relevanta svetslägen, däribland plåt mot rör i stående horisontal (PB), liggande under upp (PD) och stående vertikalt (PF, PG, PH) enligt acceptanskrav i gällande standard.</li> <li>Hantering av svetsströmkällor och kringutrustning som används vid kälsvets.</li> <li>Hantering av olika typer av elektroder samt av tillsatsmaterial och gaser utifrån deras egenskaper.</li> <li>Tillsatsmaterial för andra metaller än låglegerat stål.</li> <li>Underhåll av utrustning som används vid kälsvets.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland enklare ritningar och svetsdatablad (WPS).</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av vanligt förekommande problem vid MMA-svetsning i kälsvetsar.</li> <li>Reparation av fel som uppstår under kälsvetsning.</li> <li>Bedömning av kälsvetsar utifrån kvalitetsstandarder.</li> <li>Produktionsteknisk problemlösning vid kälsvetsning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker i samband med arbetsuppgifter inom kälsvetsning, däribland risker med el, ultraviolett strålning (UV-strålning) och svetsrök samt hälsorisker.</li> <li>Grundläggande begrepp och uttryck inom kälsvetsning för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet svetsmetod MMA på nivå 1 ska behandla följande centrala innehåll:</p><p><em>Arbetsprocess och utrustning</em></p><ul><li>Organisation av och förberedelser inför svetsprocessen inom kälsvetsning, plåt mot plåt och rör mot plåt.</li><li>MMA-svetsning av kälsvetsar, plåt mot plåt samt rör mot plåt i olika relevanta svetslägen, däribland rör mot plåt i stående horisontal (PB), liggande under upp (PD) och stående vertikalt (PF, PH) enligt acceptanskrav i gällande standard.</li><li>Hantering av svetsströmkällor och kringutrustning som används vid kälsvets.</li><li>Hantering av olika typer av elektroder samt av tillsatsmaterial och gaser utifrån deras egenskaper.</li><li>Tillsatsmaterial för andra metaller än låglegerat stål.</li><li>Underhåll av utrustning som används vid kälsvets.</li><li>Tolkning och användning av tillverkningsunderlag, däribland enklare ritningar och svetsdatablad (WPS).</li></ul><p><em>Kvalitetsbedömning och problemlösning</em></p><ul><li>Hantering av vanligt förekommande problem vid MMA-svetsning i kälsvetsar.</li><li>Reparation av fel som uppstår under kälsvetsning.</li><li>Bedömning av kälsvetsar utifrån kvalitetsstandarder.</li><li>Produktionsteknisk problemlösning vid kälsvetsning.</li></ul><p><em>Säkerhet och kommunikation</em></p><ul><li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li><li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li><li>Bedömning av risker i samband med arbetsuppgifter inom kälsvetsning, däribland risker med el, ultraviolett strålning (UV-strålning) och svetsrök samt hälsorisker.</li><li>Grundläggande begrepp och uttryck inom kälsvetsning för kommunikation om arbetsprocesser och resultat.</li></ul>"
       }
     },
     {
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet svetsmetod MMA på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom stumsvetsning av plåt.</li> <li>MMA-svetsning av enkel- och dubbelsidiga stumsvetsar i olika relevanta svetslägen, däribland liggande och stående vertikalt (PC, PG), liggande horisontalt (PA) samt under upp (PE), enligt acceptanskrav i gällande standard.</li> <li>Hantering av utrustning och kringutrustning som används vid stumsvetsning utifrån deras egenskaper och funktioner.</li> <li>Systematiskt underhåll samt service och felsökning av utrustning som används vid stumsvets.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland standarder, svetsdatablad (WPS) och svetsplaner.</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av vanligt förekommande problem vid MMA-svetsning av stumsvetsar.</li> <li>Åtgärder av eventuella felaktigheter på utförd stumsvets.</li> <li>Bedömning av stumsvetsar utifrån angivna kvalitetsstandarder.</li> <li>Produktionsteknisk problemlösning vid stumsvetsning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker samt konsekvenser av brister i arbetsmiljön i samband med arbetsuppgifter inom stumsvetsning.</li> <li>Begrepp och uttryck inom stumsvetsning för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet svetsmetod MMA på nivå 2 ska behandla följande centrala innehåll:</p><p><em>Arbetsprocess och utrustning</em></p><ul><li>Organisation av och förberedelser inför svetsprocessen inom stumsvetsning av plåt.</li><li>MMA-svetsning av enkel- och dubbelsidiga stumsvetsar i olika relevanta svetslägen, däribland liggande och stående vertikalt (PC, PF), liggande horisontalt (PA) samt under upp (PE), enligt acceptanskrav i gällande standard.</li><li>Hantering av utrustning och kringutrustning som används vid stumsvetsning utifrån deras egenskaper och funktioner.</li><li>Systematiskt underhåll samt service och felsökning av utrustning som används vid stumsvets.</li><li>Tolkning och användning av tillverkningsunderlag, däribland standarder, svetsdatablad (WPS) och svetsplaner.</li></ul><p><em>Kvalitetsbedömning och problemlösning</em></p><ul><li>Hantering av vanligt förekommande problem vid MMA-svetsning av stumsvetsar.</li><li>Åtgärder av eventuella felaktigheter på utförd stumsvets.</li><li>Bedömning av stumsvetsar utifrån angivna kvalitetsstandarder.</li><li>Produktionsteknisk problemlösning vid stumsvetsning.</li></ul><p><em>Säkerhet och kommunikation</em></p><ul><li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li><li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li><li>Bedömning av risker samt konsekvenser av brister i arbetsmiljön i samband med arbetsuppgifter inom stumsvetsning.</li><li>Begrepp och uttryck inom stumsvetsning för kommunikation om arbetsprocesser och resultat.</li></ul>"
       }
     },
     {
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.088Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

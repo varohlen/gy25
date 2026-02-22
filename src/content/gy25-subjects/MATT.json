@@ -1,0 +1,75 @@
+{
+  "code": "MATT",
+  "name": "Matematik spets",
+  "englishName": "Mathematics – Honors",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2025-12-19",
+  "version": "gy25",
+  "skolfsGrund": "2024:670",
+  "skolfsAndring": "2024:670",
+  "nameHeading": "<h2>Matematik spets</h2>",
+  "description": "<p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband. I matematik spets behandlas ett eller flera matematiska områden. Ämnen inom matematik spets får bara anordnas inom av Skolverket beviljad riksrekryterande spetsutbildning i matematik.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i matematik spets ska syfta till att eleverna utvecklar fördjupade kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot. Det innefattar att utveckla förståelse av avancerade begrepp och metoder samt att utveckla olika strategier för att kunna lösa problem och använda matematik i komplexa eller omfattande frågeställningar. I undervisningen ska eleverna ges möjlighet att utveckla sin nyfikenhet och kreativitet. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del. Undervisningen ska ge eleverna möjlighet att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel.</p> <h5><em>Undervisningen i ämnet matematik spets ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och utföra rutinuppgifter.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ul><h3>Nivåer i ämnet matematik spets</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet matematik – fortsättning.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: MATT100PX</h3>",
+      "code": "MATT100PX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i matematik spets på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Behandling av ett eller flera matematiska områden inom ramen för spetsutbildningen.</li> <li>Breddning eller fördjupning av matematiska begrepp, teorier, samband och metoder som är relevanta för ämnesområdet.</li> <li>Problemlösning som omfattar begrepp och metoder relevanta för ämnesområdet.</li> <li>Omfångsrika problemsituationer som är relevanta för ämnesområdet.</li> </ul>"
+      }
+    }
+  ],
+  "appendix2List": [
+    {
+      "name": "Matematik spets A",
+      "code": "00A"
+    },
+    {
+      "name": "Matematik spets B",
+      "code": "00B"
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>godtagbar</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>godtagbar</strong> bredd och säkerhet.</p> <p>Eleven löser <strong>enkla</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven för <strong>delvis</strong> underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>god</strong> bredd och säkerhet. <strong>Eleven hanterar avancerade uttryck med viss säkerhet.</strong></p> <p>Eleven löser <strong>relativt komplexa</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven för <strong>relativt väl</strong> underbyggda matematiska resonemang, <strong>genomför enkla bevis</strong> och följer <strong>relativt avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven använder och beskriver begrepp och samband mellan begrepp med <strong>mycket god</strong> bredd och säkerhet.</p> <p>Eleven hanterar procedurer och utför rutinuppgifter med <strong>mycket god</strong> bredd och säkerhet. <strong>Eleven hanterar avancerade uttryck med god säkerhet.</strong></p> <p>Eleven löser <strong>komplexa</strong> problem och bedömer resultatens rimlighet.</p> <p>Eleven för <strong>väl</strong> underbyggda matematiska resonemang, <strong>genomför bevis</strong> och följer <strong>avancerade</strong> matematiska resonemang.</p> <p>Eleven kommunicerar matematik med symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
+}

@@ -2,8 +2,12 @@
   "code": "ART",
   "name": "Artificiell intelligens",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2024-07-01",
-  "modifiedDate": "2023-12-12",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-07",
+  "canceledDate": "2026-01-01",
+  "canceledSkolfs": "2025:430",
   "version": "gy11",
   "versionInfo": "Första version",
   "skolfsGrund": "2023:136",
@@ -97,5 +101,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:11.941Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

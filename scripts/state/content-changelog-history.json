@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "2026-02-20T21:28:17.151Z",
+      "recordedAt": "2026-02-20T21:28:17.151Z",
+      "fromUpdatedAt": "2024-12-19T00:00:00.000Z",
+      "toUpdatedAt": "2026-02-20T21:28:17.151Z",
+      "baselineLabel": "Initial resync (seeded from local state, baseline from git content history)",
+      "edgeCase": {
+        "initialResync": true,
+        "longGapDays": null
+      },
+      "apiMetadata": {
+        "apiVersion": "1.16.0",
+        "apiReleased": "2026-01-19",
+        "apiStatus": "active"
+      },
+      "versions": {
+        "gy11": {
+          "subjectCount": 311,
+          "fetchedCount": 311,
+          "removedCount": 0,
+          "unchangedCount": 0,
+          "addedCodes": [],
+          "removedCodes": [],
+          "changedCodes": [
+            "ADM",
+            "AFF",
+            "AKT",
+            "ANA",
+            "ANI",
+            "ANL",
+            "ANO",
+            "ARK",
+            "ART",
+            "ATO"
+          ]
+        },
+        "gy25": {
+          "subjectCount": 565,
+          "fetchedCount": 564,
+          "removedCount": 0,
+          "unchangedCount": 1,
+          "addedCodes": [
+            "HUMT",
+            "MATT",
+            "NATA",
+            "PESO",
+            "SPRO",
+            "TEKA"
+          ],
+          "removedCodes": [],
+          "changedCodes": [
+            "ADMI",
+            "AFFA",
+            "AKRO",
+            "AKTI",
+            "AKTV",
+            "AKUT",
+            "ALLM",
+            "ANAT",
+            "ANIM",
+            "ANLA"
+          ]
+        }
+      }
+    }
+  ]
+}

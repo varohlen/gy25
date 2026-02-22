@@ -1,9 +1,11 @@
 {
   "code": "MATF",
   "name": "Matematik – fördjupning",
+  "englishName": "Mathematics – Advanced",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-02-06",
+  "modifiedDate": "2025-12-19",
   "version": "gy25",
   "versionInfo": "Första versionen",
   "skolfsGrund": "2024:187",
@@ -11,6 +13,12 @@
   "description": "<p>Matematiken har en flertusenårig historia med bidrag från många kulturer. Matematik – fördjupning behandlar differentialekvationer och diskret matematik. Ytterst handlar matematiken om att upptäcka mönster och formulera generella samband.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
   "purpose": "<p>Undervisningen i ämnet matematik – fördjupning ska syfta till att eleverna utvecklar och fördjupar sina kunskaper i matematik, främst inom differentialekvationer, logik och diskret matematik. Det innefattar att utveckla förståelse av begrepp och metoder som ger en grund för matematikintensiva studier på högskolenivå samt olika strategier för att kunna lösa problem och använda matematik i olika sammanhang. Undervisningen ska innehålla hantering av avancerade uttryck samt bevisföring. I undervisningen ska eleverna ges möjlighet att fördjupa och bredda sina kunskaper i matematik samt utveckla sin nyfikenhet och kreativitet. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om matematikens betydelse och användning inom andra ämnen samt i ett yrkesmässigt, samhälleligt och historiskt sammanhang.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla sin förmåga att föra och följa matematiska resonemang och att kommunicera med olika uttrycksformer. Vidare ska undervisningen utmana eleverna och ge dem erfarenheter av matematikens logik, generaliserbarhet, kreativa kvaliteter och mångfacetterade karaktär. Undervisningen ska stärka elevernas tilltro till sin förmåga att använda matematik i olika sammanhang och ge utrymme åt problemlösning som både mål och medel. I undervisningen ska eleverna dessutom ges möjlighet att utveckla sin förmåga att använda digitala verktyg för att lösa problem samt fördjupa sitt matematikkunnande och utvidga de områden där matematikkunnandet kan användas.</p> <p>Undervisningen ska innehålla varierade arbetsformer och arbetssätt, där undersökande aktiviteter utgör en del.</p> <h5><em>Undervisningen i ämnet matematik – fördjupning ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp.</li> <li>Förmåga att hantera procedurer och utföra rutinuppgifter utan och med verktyg.</li> <li>Förmåga att analysera och lösa problem med hjälp av matematik.</li> <li>Förmåga att tillämpa, formulera och utvärdera matematiska modeller.</li> <li>Förmåga att föra och följa matematiska resonemang.</li> <li>Förmåga att kommunicera matematik muntligt, skriftligt och i handling.</li> </ul><h3>Nivåer i ämnet matematik – fördjupning</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 2 i ämnet matematik – fortsättning.</li></ul>",
+  "categories": [
+    {
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
+    }
+  ],
   "schoolTypes": [
     "GY",
     "VUXGY"
@@ -54,5 +62,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.040Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

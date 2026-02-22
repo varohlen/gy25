@@ -1,12 +1,15 @@
 {
   "code": "BILV",
   "name": "Bild och visualisering",
+  "englishName": "Image and Visualization",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-08",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2023:176",
+  "skolfsAndring": "2025:460",
   "nameHeading": "<h2>Bild och visualisering</h2>",
   "description": "<p>Genom bilder och visualiseringar skapas förutsättningar att omvandla idéer och visioner till framtidens produkter och tjänster. Därför är bilder och visualiseringar centrala inom produktutveckling och skapandeprocesser. Ämnet bild och visualisering behandlar visuella uttryck och samspelet mellan kreativitet, estetik och produktutveckling.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet bild och visualisering på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupad och specialiserad programvara som används för 3D-modellering inom ett valt område.</li> <li>Hårdvara för 3D-modellering, till exempel 3D-skrivare eller 3D-scanner.</li> <li>Färgsystem inom valt område.</li> <li>Skisser och modeller utifrån olika syften, däribland för planering, produktutveckling och marknadsföring.</li> <li>Gestaltande bildarbete för två- och tredimensionell visualisering, däribland för planering, produktutveckling och marknadsföring.</li> <li>Hur bilders, färgers och formers kommunikativa egenskaper används för att anpassa visualiseringar till olika syften och sammanhang.</li> <li>Kommunikation med hjälp av begrepp och ett ämnesspecifikt språk, både skriftligt och muntligt.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet bild och visualisering på nivå 2 ska behandla följande centrala innehåll:</p><ul><li>Fördjupad och specialiserad programvara som används för 3D-modellering inom ett valt område.</li><li>Hårdvara för 3D-modellering, till exempel 3D-skrivare eller 3D-scanner.</li><li>Färgsystem inom valt område.</li><li>Skisser och modeller utifrån olika syften, däribland för planering, produktutveckling och marknadsföring.</li><li>Gestaltande bildarbete för två- och tredimensionell visualisering med digitala och traditionella metoder.</li><li>Hur bilders, färgers och formers kommunikativa egenskaper används för att anpassa visualiseringar till olika syften och sammanhang.</li><li>Kommunikation med hjälp av begrepp och ett ämnesspecifikt språk, både skriftligt och muntligt.</li></ul>"
       }
     }
   ],
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:26.973Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

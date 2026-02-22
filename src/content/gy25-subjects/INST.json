@@ -1,12 +1,15 @@
 {
   "code": "INST",
   "name": "Installationsteknik",
+  "englishName": "Installation Technology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:14",
+  "skolfsAndring": "2025:464",
   "nameHeading": "<h2>Installationsteknik</h2>",
   "description": "<p>Samhället är beroende av en välfungerande elförsörjning för att upprätthålla funktionen i en stor mängd verksamheter. Ämnet installationsteknik behandlar hur nya elinstallationer utförs samt hur befintliga elanläggningar kan byggas om och utökas. Ämnet behandlar också felsökning och hur fel avhjälps i befintliga anläggningar. I ämnet är elsäkerhet centralt eftersom misstag kan orsaka stora skador både på personer och på egendom.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -33,7 +36,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Förläggning och anslutning av ledningar.</li> <li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li> <li>Olika materials egenskaper och kapslingsklasser.</li> <li>Installation av enklare start- och kopplingsutrustning för elmotorer, däribland hållkrets och relästyrning.</li> <li>TN-, IT- och TT-system däribland TN-C- och TN-S-systemens uppbyggnad och funktion samt skyddsledarens funktion och verkan.</li> <li>Anslutning, losskoppling och funktionsprovning av apparater och utrustning i befintlig gruppledning.</li> <li>Standarder, lagar och andra bestämmelser inom området samt krav för olika auktorisationer.</li> <li>Personligt skydd och tillvägagångssätt vid arbete med olika elanläggningar.</li> <li>Kontroll före idrifttagning.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Tolkning och användning av ritningar och scheman inom området.</li> <li>Felsökning och underhåll av befintlig elutrustning.</li> <li>Återvinning av olika elmaterial.</li> <li>Hållbarhetsarbete inom branschen.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 1 ska behandla följande centrala innehåll:</p><ul><li>Förläggning och anslutning av ledningar.</li><li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li><li>Olika materials egenskaper och kapslingsklasser.</li><li>Installation av enklare start- och kopplingsutrustning för elmotorer, däribland hållkrets och relästyrning.</li><li>TN-, IT- och TT-system, däribland TN-C- och TN-S-systemens uppbyggnad och funktion samt skyddsledarens funktion och verkan.</li><li>Anslutning, losskoppling och funktionsprovning av apparater och utrustning i befintlig gruppledning.</li><li>Standarder, lagar och andra bestämmelser inom området samt krav för olika auktorisationer.</li><li>Personligt skydd och tillvägagångssätt vid arbete med olika elanläggningar.</li><li>Kontroll före idrifttagning.</li><li>Dokumentation och utvärdering av eget arbete.</li><li>Tolkning och användning av ritningar och scheman inom området.</li><li>Felsökning och underhåll av befintlig elutrustning.</li><li>Återvinning av olika elmaterial.</li><li>Hållbarhetsarbete inom branschen.</li></ul>"
       }
     },
     {
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Förläggning av ledare på vanligt förekommande underlag samt i mark och kanalisation.</li> <li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li> <li>Olika materials egenskaper samt infästning på vanligt förekommande material.</li> <li>Installation, felsökning och felavhjälpning av startutrustning för asynkronmotorer.</li> <li>Olika elsystems uppbyggnad, funktion och användning samt skyddsledarens funktion och verkan i dessa, däribland TN-, och TT-system.</li> <li>Installation av kraft- och belysningsanläggningar i nya och befintliga gruppledningar samt provning av dessa.</li> <li>Lagar och andra bestämmelser inom området.</li> <li>Dokumentation och anvisningar vid elinstallationsarbete, till exempel gällande standard.</li> <li>Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.</li> <li>Kontroll före idrifttagning.</li> <li>Begreppen förimpedans och utlösningsvillkor samt kortslutningsströmmars inverkan på materialval och elsystemet.</li> <li>Dokumentation och utvärdering av eget arbete.</li> <li>Tolkning, användning och konstruktion av ritningar, scheman och andra relevanta underlag med hjälp av digitala program.</li> <li>Felsökning och underhåll i utrustning och elanläggningar.</li> <li>Återvinning och sortering av olika elmaterial.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet installationsteknik på nivå 2 ska behandla följande centrala innehåll:</p><ul><li>Förläggning av ledare på vanligt förekommande underlag samt i mark och kanalisation.</li><li>Elinstallationsarbete vid reparation samt om- och tillbyggnad.</li><li>Olika materials egenskaper samt infästning på vanligt förekommande material.</li><li>Installation, felsökning och felavhjälpning av startutrustning för asynkronmotorer.</li><li>Olika elsystems uppbyggnad, funktion och användning samt skyddsledarens funktion och verkan i dessa, däribland TN-, och TT-system.</li><li>Installation av kraft- och belysningsanläggningar i nya och befintliga gruppledningar samt provning av dessa.</li><li>Lagar och andra bestämmelser inom området.</li><li>Dokumentation och anvisningar vid elinstallationsarbete, till exempel gällande standard.</li><li>Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.</li><li>Kontroll före idrifttagning.</li><li>Begreppen förimpedans och automatisk frånkoppling av matning samt kortslutningsströmmars inverkan på materialval och elsystemet.</li><li>Dokumentation och utvärdering av eget arbete.</li><li>Tolkning, användning och konstruktion av ritningar, scheman och andra relevanta underlag med hjälp av digitala program.</li><li>Felsökning och underhåll i utrustning och elanläggningar.</li><li>Återvinning och sortering av olika elmaterial.</li></ul>"
       }
     },
     {
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.024Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

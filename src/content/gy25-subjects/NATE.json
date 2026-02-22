@@ -1,16 +1,19 @@
 {
   "code": "NATE",
   "name": "Nätverksadministration",
+  "englishName": "Network Administration",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:82",
+  "skolfsAndring": "2025:468",
   "nameHeading": "<h2>Nätverksadministration</h2>",
   "description": "<p>Den stora mängden teknisk utrustning som används i det moderna samhället förutsätter välfungerande nätverkssystem och kommunikation. Ämnet nätverksadministration handlar om serverhantering och de vanligast förekommande arbetsmomenten kopplat till detta. En viktig del av ämnet är säkerhetsfrågor och skydd av användares integritet.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet nätverksadministration ska syfta till att eleverna utvecklar förmåga att administrera fysiska och virtuella servermiljöer. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra mjukvaruinstallationer samt att konfigurera, optimera och analysera servermiljöer. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att skapa systemlösningar samt att felsöka och åtgärda fel i servermiljöer och konfigurationer.</p> <p>I arbetet med att administrera nätverk är säkerhetsfrågor av stor vikt. Undervisningen ska därför leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att dokumentera samt att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att utveckla deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik.</p> <p>I undervisningen ska praktiska och laborativa moment varvas med teoretiska moment. Undervisningen ska även leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Därigenom ska undervisningen bidra till att eleverna utvecklar såväl ett fackspråk som förmåga att samverka med andra på ett etiskt medvetet sätt.</p> <h5><em>Undervisningen i ämnet nätverksadministration ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera och dokumentera arbetet samt att tolka och använda instruktioner, manualer och andra relevanta dokument.</li> <li>Förmåga att utföra mjukvaruinstallationer samt att konfigurera, analysera och administrera servermiljöer.</li> <li>Förmåga att bygga upp och implementera olika typer av systemlösningar.</li> <li>Förmåga att felsöka samt identifiera och åtgärda fel i servermiljöer och konfigurationer.</li> <li>Kunskaper om lagar och andra bestämmelser inom området.</li> <li>Förmåga att ge råd och stöd till användare angående olika administrativa system.</li> </ul><h3>Nivåer i ämnet nätverksadministration</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet nätverksadministration ska syfta till att eleverna utvecklar förmåga att administrera fysiska och virtuella servermiljöer. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra mjukvaruinstallationer samt att konfigurera, optimera och analysera servermiljöer. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att skapa systemlösningar samt att felsöka och åtgärda fel i servermiljöer och konfigurationer.</p><p>I arbetet med att administrera nätverk är säkerhetsfrågor av stor vikt. Undervisningen ska därför leda till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att dokumentera samt att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. Undervisningen ska stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att utveckla deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik.</p><p>Undervisningen ska leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Därigenom ska undervisningen bidra till att eleverna utvecklar såväl ett fackspråk som förmåga att samverka med andra på ett etiskt medvetet sätt. I undervisningen ska praktiska och laborativa moment varvas med teoretiska. </p><h5><em>Undervisningen i ämnet nätverksadministration ska ge eleverna förutsättningar att utveckla följande:</em></h5><ul><li>Förmåga att planera och dokumentera arbetet samt att tolka och använda instruktioner, manualer och andra relevanta dokument.</li><li>Förmåga att utföra mjukvaruinstallationer samt att konfigurera, analysera och administrera servermiljöer.</li><li>Förmåga att bygga upp och implementera olika typer av systemlösningar.</li><li>Förmåga att felsöka samt identifiera och åtgärda fel i servermiljöer och konfigurationer.</li><li>Kunskaper om lagar och andra bestämmelser inom området.</li><li>Förmåga att ge råd och stöd till användare angående olika administrativa system.</li></ul><h3>Nivåer i ämnet nätverksadministration</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.055Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

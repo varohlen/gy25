@@ -3,8 +3,12 @@
   "name": "Vattenbruk",
   "englishName": "Water use",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2022-07-01",
-  "modifiedDate": "2022-06-23",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-07",
+  "canceledDate": "2026-01-01",
+  "canceledSkolfs": "2025:227",
   "version": "gy11",
   "versionInfo": "Betygskriterier ersätter kunskapskrav",
   "skolfsGrund": "2011:52",
@@ -176,5 +180,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:12.194Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

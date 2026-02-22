@@ -2,8 +2,12 @@
   "code": "YRK",
   "name": "Yrkesteknik – flyg",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2022-07-01",
-  "modifiedDate": "2023-12-22",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-07",
+  "canceledDate": "2026-01-01",
+  "canceledSkolfs": "2025:383",
   "version": "gy11",
   "versionInfo": "Betygskriterier ersätter kunskapskrav",
   "skolfsGrund": "2017:36",
@@ -135,5 +139,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:12.202Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

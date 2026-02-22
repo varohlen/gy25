@@ -1,16 +1,19 @@
 {
   "code": "GULM",
   "name": "Guldsmed – specialteknik",
+  "englishName": "Goldsmithing – Specialized Techniques",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-03-13",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:302",
+  "skolfsAndring": "2025:485",
   "nameHeading": "<h2>Guldsmed – specialteknik</h2>",
   "description": "<p>Guldsmedsyrket är ett hantverksyrke med lång tradition. Ämnet guldsmed – specialteknik behandlar specialtekniker vid tillverkning av smycken.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet guldsmed – specialteknik ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i processen för tillverkning av smycken. Det innebär att visualisera genom teknisk ritning, planera arbetet, välja lämpliga material och tekniker, utföra arbetet samt att utvärdera arbetsprocessen och analysera resultatet. Undervisningen ska stimulera elevernas självständighet samt utveckla deras idérikedom, personliga ansvarstagande, egna drivkraft och skaparglädje. Undervisningen ska ge eleverna möjlighet att utveckla konstnärlighet och noggrannhet i arbetet.</p> <p>Genom undervisningen ska eleverna ges rika möjlighet att träna olika specialtekniker vid tillverkning av smycken. Eleverna ska också ges möjlighet att använda sina teoretiska kunskaper om arbetsprocess, tekniker, verktyg och material i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet guldsmed – specialteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att genomföra guldsmedsarbete med användning av specialtekniker.</li> <li>Förmåga att använda tekniker för juvelfattning.</li> <li>Kunskaper om ädelstenar.</li> <li>Förmåga att utföra tekniska ritningar.</li> <li>Förmåga att utvärdera och analysera resultatet av arbetet.</li> </ul><h3>Nivåer i ämnet guldsmed – specialteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet guldsmed – fördjupning.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet guldsmed – specialteknik ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i processen för tillverkning av smycken. Det innebär att visualisera genom teknisk ritning, planera arbetet, välja lämpliga material och tekniker, utföra arbetet samt att utvärdera arbetsprocessen och analysera resultatet. Undervisningen ska stimulera elevernas självständighet samt utveckla deras idérikedom, personliga ansvarstagande, egna drivkraft och skaparglädje. Undervisningen ska ge eleverna möjlighet att utveckla konstnärlighet och noggrannhet i arbetet.</p> <p>Genom undervisningen ska eleverna ges rika möjlighet att träna olika specialtekniker vid tillverkning av smycken. Eleverna ska också ges möjlighet att använda sina teoretiska kunskaper om arbetsprocess, tekniker, verktyg och material i det praktiska arbetet.</p> <h5><em>Undervisningen i ämnet guldsmed – specialteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att genomföra guldsmedsarbete med användning av specialtekniker.</li> <li>Förmåga att använda tekniker för juvelfattning.</li> <li>Kunskaper om ädelstenar.</li> <li>Förmåga att utföra tekniska ritningar.</li> <li>Förmåga att utvärdera och analysera resultatet av arbetet.</li> </ul><h3>Nivåer i ämnet guldsmed – specialteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 3 i ämnet guldsmed – teknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 100 poäng, som bygger på nivå 2.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.010Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }
