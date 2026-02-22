@@ -1,16 +1,19 @@
 {
   "code": "KOMM",
   "name": "Kommunikationsnät",
+  "englishName": "Communication Networks",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:20",
+  "skolfsAndring": "2025:465",
   "nameHeading": "<h2>Kommunikationsnät</h2>",
   "description": "<p>I samhället finns en stor mängd teknisk utrustning som förutsätter fungerande system för kommunikation. Ämnet kommunikationsnät behandlar uppbyggnad av och arbete med olika kommunikationsnät.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet kommunikationsnät ska syfta till att eleverna utvecklar förmåga att installera, underhålla och reparera kommunikationsnät. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika komponenters egenskaper och om hur verktyg används på ett säkert och hållbart sätt. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att tolka och använda ritningar, instruktioner och arbetsbeskrivningar på både svenska och engelska. På så vis ska undervisningen bidra till att eleverna utvecklar ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete med kommunikationsnät.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet, standarder, lagar och andra bestämmelser inom området samt tillfällen att själva söka information om installationer. Undervisningen ska leda till att eleverna utvecklar förmåga att självständigt och tillsammans med andra lösa problem som uppkommer under arbetets gång samt att dokumentera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att upprätthålla säkerheten i installationerna. I undervisningen ska både praktiska och teoretiska moment ingå.</p> <h5><em>Undervisningen i ämnet kommunikationsnät ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika kommunikationsnät.</li> <li>Förmåga att planera, utföra och dokumentera arbetsuppgifter i enlighet med standarder, lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda verktyg och andra hjälpmedel.</li> <li>Förmåga att installera, kontrollera och driftsätta kommunikationsnät på ett säkert sätt.</li> <li>Förmåga att felsöka och reparera olika kommunikationsnät.</li> </ul><h3>Nivåer i ämnet kommunikationsnät</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet elteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet kommunikationsnät ska syfta till att eleverna utvecklar förmåga att installera, underhålla och reparera kommunikationsnät. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika komponenters egenskaper och om hur verktyg används på ett säkert och hållbart sätt. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att tolka och använda ritningar, instruktioner och arbetsbeskrivningar på både svenska och engelska. På så vis ska undervisningen bidra till att eleverna utvecklar ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och intresse för teknisk utveckling och hållbarhetsarbete med kommunikationsnät.</p> <p>Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet, standarder, lagar och andra bestämmelser inom området samt tillfällen att själva söka information om installationer. Undervisningen ska leda till att eleverna utvecklar förmåga att självständigt och tillsammans med andra lösa problem som uppkommer under arbetets gång samt att dokumentera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att upprätthålla säkerheten i installationerna. I undervisningen ska både praktiska och teoretiska moment ingå.</p> <h5><em>Undervisningen i ämnet kommunikationsnät ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om olika kommunikationsnät.</li> <li>Förmåga att planera, utföra och dokumentera arbetsuppgifter i enlighet med standarder, lagar och andra bestämmelser inom området.</li> <li>Förmåga att använda verktyg och andra hjälpmedel.</li> <li>Förmåga att installera, kontrollera och driftsätta kommunikationsnät på ett säkert sätt.</li> <li>Förmåga att felsöka och reparera olika kommunikationsnät.</li> </ul><h3>Nivåer i ämnet kommunikationsnät</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.028Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

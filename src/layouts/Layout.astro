@@ -90,7 +90,7 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
                   ? 'text-white bg-emerald-600 hover:bg-emerald-700' 
                   : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'}`}
             >
-              Ämnen & Kurser
+              Ämnen och nivåer
             </a>
             <span class="text-gray-300">|</span>
             <a 
@@ -113,7 +113,7 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
 
     <footer class="bg-white border-t border-gray-100">
       <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <!-- Left side -->
           <div class="flex flex-col space-y-4">
             <div class="flex items-center space-x-2">
@@ -124,6 +124,18 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
               Ett verktyg för att utforska den nya gymnasiereformen.
               Data från <a href="https://www.skolverket.se" class="text-emerald-600 hover:text-emerald-700 underline" target="_blank" rel="noopener noreferrer">Skolverket</a>.
             </p>
+          </div>
+
+          <!-- Middle side -->
+          <div class="flex flex-col space-y-3">
+            <h3 class="text-sm font-semibold text-gray-900">Navigering</h3>
+            <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2">
+              <a href="/gy25" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY25</a>
+              <a href="/om" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
+              <a href="/gy11" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY11</a>
+              <a href="/andringar" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Ändringar</a>
+              <a href="/compare" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Jämförelsevy</a>
+            </nav>
           </div>
 
           <!-- Right side -->
@@ -143,8 +155,6 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
               </a>
             </div>
             <nav class="flex space-x-4">
-              <a href="/about" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
-              <span class="text-gray-300">|</span>
               <a href="https://arohlen.se" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">arohlen.se</a>
             </nav>
           </div>

@@ -1,0 +1,59 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  subject: CollectionEntry<'gy11-subjects'>;
+}
+
+const { subject } = Astro.props;
+const purposeWithoutCourses = subject.data.purpose?.split('<h3>Kurser i ämnet')[0] ?? subject.data.purpose ?? '';
+
+function formatPurpose(content: string) {
+  return content
+    .replace(/<h4>/g, '<h4 class="mt-8 mb-3 text-base font-semibold">')
+    .replace(/<ol>/g, '<ul class="list-disc pl-8 space-y-2">')
+    .replace(/<\/ol>/g, '</ul>');
+}
+---
+
+<div class="max-w-4xl mx-auto space-y-6">
+  <section class="bg-white rounded-lg shadow-sm p-6">
+    <div class="flex items-baseline gap-4">
+      <h1 class="text-2xl font-bold text-gray-900">{subject.data.name}</h1>
+      <span class="text-sm font-mono text-gray-500">{subject.data.code}</span>
+    </div>
+    {subject.data.description && (
+      <div class="prose max-w-none mt-4" set:html={subject.data.description} />
+    )}
+  </section>
+
+  {subject.data.purpose && (
+    <section class="bg-white rounded-lg shadow-sm p-6">
+      <h2 class="text-xl font-bold text-gray-900 mb-4">Ämnets syfte</h2>
+      <div
+        class="prose max-w-none [&_p]:mb-5 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-2 [&_li]:mb-2"
+        set:html={formatPurpose(purposeWithoutCourses)}
+      />
+    </section>
+  )}
+
+  {subject.data.courses && subject.data.courses.length > 0 && (
+    <section class="bg-white rounded-lg shadow-sm p-6">
+      <h2 class="text-xl font-bold text-gray-900 mb-4">Kurser i ämnet</h2>
+      <div class="space-y-3">
+        {subject.data.courses.map((course) => (
+          <a
+            href={`/gy11/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
+            class="block rounded-lg border border-gray-100 bg-gray-50 px-4 py-3 hover:bg-blue-50"
+          >
+            <div class="flex flex-wrap items-center justify-between gap-2">
+              <p class="font-medium text-gray-900">{course.name}</p>
+              <p class="text-sm text-gray-600">{course.points ? `${course.points} poäng` : ''}</p>
+            </div>
+            <p class="text-xs text-gray-500 mt-1 font-mono">{course.code}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</div>

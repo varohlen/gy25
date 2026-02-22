@@ -1,9 +1,11 @@
 {
   "code": "MUSF",
   "name": "Musik för yrkesdansare",
+  "englishName": "Music for Professional Dancers",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-05-06",
+  "modifiedDate": "2025-12-19",
   "version": "gy25",
   "versionInfo": "Första versionen",
   "skolfsGrund": "2024:576",
@@ -13,8 +15,8 @@
   "purpose": "<p>Undervisningen i ämnet musik för yrkesdansare ska syfta till att eleverna utvecklar kunskaper om och färdigheter i musik samt förmåga att skapa och gestalta musik. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om musikens relation till dans och rörelse. Eleverna ska ges möjlighet att utveckla förmåga att kommunicera med musik som uttrycksform, med både medmusiker och publik.</p> <p>Undervisningen ska bidra till att eleverna utvecklar förmåga att analysera och tolka musikupplevelser. Genom undervisningen ska eleverna ges möjlighet att reflektera över sin egen och andras musikaliska gestaltning, i syfte att öka förståelsen för konstnärliga processer. Eleverna ska också ges möjlighet att utveckla sin musikaliska förståelse, med improvisation i rörelse, röst och instrument som verktyg. Undervisningen ska dessutom ta fasta på att stärka elevernas motivation och självförtroende i musikutövandet. Vidare ska undervisningen ge eleverna möjlighet att genom sina kunskaper om och färdigheter i musik aktivt bidra till ett rikt kulturliv i samhället.</p> <p>Undervisningen ska bidra till att eleverna utvecklar kreativitet och förståelse av samband mellan detalj och helhet samt av musikens samverkan med dans. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om röstens och musikinstrumentens konstruktion, funktion och egenskaper. Eleverna ska även ges möjlighet att utveckla kunskaper om musikteknisk utrustning och arbetsmiljöns betydelse inom musikområdet. Dessutom ska undervisningen bidra till att eleverna får kännedom om lagar och andra bestämmelser inom området.</p> <p>Samarbetsförmåga och ansvarstagande för arbete i grupp är viktigt i musiken. Därför ska eleverna ges möjlighet att musicera tillsammans med andra. Undervisningen ska bidra till att eleverna utvecklar kunskaper om jämställdhet och inkluderande arbetsmiljö med utgångspunkt i tillit och trygghet. I undervisningen ska eleverna ges möjlighet att pröva olika metoder för musikinstudering och att studera och utöva musik från olika tider, kulturer och stilarter. Genom att arbeta praktiskt med musiken från både teknik- och tolkningsperspektiv ska eleverna ges möjlighet att utveckla ett personligt uttryck med konstnärlig kvalitet.</p> <h4><em>Undervisningen i ämnet musik för yrkesdansare ska ge eleverna förutsättningar att utveckla följande:</em></h4> <ul> <li>Färdigheter i att musicera instrumentalt eller vokalt med ett musikaliskt uttryck.</li> <li>Förmåga att improvisera.</li> <li>Kunskaper om musik, begrepp och stildrag från olika tider och kulturer.</li> <li>Kunskaper om musikens relation till dans och rörelse.</li> <li>Kunskaper om röstens och instrumentets konstruktion, funktion och egenskaper samt om röstvård.</li> <li>Kunskaper om musikteknisk utrustning samt om arbetsmiljöfrågor inom musikområdet.</li> </ul><h3>Nivåer i ämnet musik för yrkesdansare</h3><ul><li>Nivå 1, 50 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
-      "name": "Yrkesämne",
-      "code": "VOCATIONAL"
+      "name": "Kapitel 4-ämne",
+      "code": "COMMON2"
     }
   ],
   "schoolTypes": [
@@ -73,5 +75,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.054Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

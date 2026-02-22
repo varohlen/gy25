@@ -1,0 +1,217 @@
+---
+import { loadFetchReport, toSvDate } from "../../utils/changelog";
+import summorLogo from "../../assets/project-logos/summor-lightlogo.png";
+import arohlenAvatar from "../../assets/project-logos/arohlen-pixel-sit01.png";
+
+const fetchReport = loadFetchReport();
+const apiVersion = fetchReport?.apiMetadata?.apiVersion ?? "okänd";
+
+function formatDateOrUnknown(value?: string | null) {
+    if (!value) return "okänd";
+    const formatted = toSvDate(value);
+    return formatted.toLowerCase() === "invalid date" ? "okänd" : formatted;
+}
+
+const apiReleased = formatDateOrUnknown(fetchReport?.apiMetadata?.apiReleased);
+const dataUpdated = formatDateOrUnknown(fetchReport?.generatedAt);
+---
+
+<main class="max-w-5xl mx-auto px-4 py-16">
+    <div class="text-center mb-12">
+        <h1 class="text-4xl font-bold text-gray-900">Om GY25.se</h1>
+        <p class="mt-4 text-lg text-gray-600">
+            En tydligare väg in i Skolverkets läroplansdata för GY25 och GY11.
+        </p>
+    </div>
+
+    <div class="grid gap-8">
+        <section
+            class="bg-white rounded-xl shadow-sm border border-gray-100 p-8"
+        >
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">
+                Vad projektet gör
+            </h2>
+            <p class="text-gray-700 leading-relaxed">
+                GY25.se hämtar läroplansdata från Skolverkets API och visar den
+                på ett mer lättläst sätt för lärare, skolledare, elever och
+                andra som följer förändringarna i gymnasieskolan.
+            </p>
+            <p class="text-gray-700 leading-relaxed mt-4">
+                Målet är att göra det enklare att förstå vad som faktiskt ändras
+                i ämnen och nivåer, utan att man behöver vara teknisk användare.
+            </p>
+            <p
+                class="mt-5 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900"
+            >
+                Viktigt: GY25.se bygger på data från Skolverkets API. För
+                formella beslut och källhänvisning bör du alltid kontrollera
+                uppgifterna mot Skolverkets egna publikationer och dokument.
+            </p>
+        </section>
+
+        <section class="grid md:grid-cols-2 gap-6">
+            <div class="bg-emerald-50 rounded-xl border border-emerald-100 p-6">
+                <h3 class="text-lg font-semibold text-emerald-900 mb-2">
+                    Ändringar i läroplansdata
+                </h3>
+                <p class="text-emerald-900/90 text-sm mb-4">
+                    En changelog för sådant som kommer från Skolverkets API.
+                </p>
+                <a
+                    href="/andringar/innehall"
+                    class="inline-flex items-center text-sm font-medium text-emerald-700 hover:text-emerald-800"
+                >
+                    Öppna innehållschangelog
+                </a>
+            </div>
+            <div class="bg-blue-50 rounded-xl border border-blue-100 p-6">
+                <h3 class="text-lg font-semibold text-blue-900 mb-2">
+                    Ändringar på webbplatsen
+                </h3>
+                <p class="text-blue-900/90 text-sm mb-4">
+                    En changelog för funktioner, förbättringar och tekniska
+                    uppdateringar i gy25.se.
+                </p>
+                <a
+                    href="/andringar/webbplats"
+                    class="inline-flex items-center text-sm font-medium text-blue-700 hover:text-blue-800"
+                >
+                    Öppna webbplatschangelog
+                </a>
+            </div>
+        </section>
+
+        <section
+            class="bg-white rounded-xl shadow-sm border border-gray-100 p-8"
+        >
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">
+                Datakälla och status
+            </h2>
+            <div class="grid sm:grid-cols-3 gap-4 text-sm">
+                <div class="rounded-lg bg-gray-50 border border-gray-100 p-4">
+                    <p class="text-gray-500">API-version</p>
+                    <p class="text-gray-900 font-semibold">{apiVersion}</p>
+                </div>
+                <div class="rounded-lg bg-gray-50 border border-gray-100 p-4">
+                    <p class="text-gray-500">API publicerad</p>
+                    <p class="text-gray-900 font-semibold">{apiReleased}</p>
+                </div>
+                <div class="rounded-lg bg-gray-50 border border-gray-100 p-4">
+                    <p class="text-gray-500">Senast synkad</p>
+                    <p class="text-gray-900 font-semibold">{dataUpdated}</p>
+                </div>
+            </div>
+
+            <p class="text-gray-700 mt-6">
+                Källkod: <a
+                    href="https://github.com/varohlen/gy25"
+                    class="text-emerald-700 hover:text-emerald-800 underline"
+                    >github.com/varohlen/gy25</a
+                >
+                <br />
+                Kontakt: <a
+                    href="mailto:viktor@arohlen.se"
+                    class="text-emerald-700 hover:text-emerald-800 underline"
+                    >viktor@arohlen.se</a
+                >
+            </p>
+
+            <div
+                class="mt-6 rounded-xl border border-emerald-200 bg-emerald-50 p-5"
+            >
+                <h3 class="text-lg font-semibold text-emerald-900">
+                    Open source (MIT)
+                </h3>
+                <p class="mt-2 text-sm text-emerald-900/90">
+                    Projektet är open source och publicerat under MIT-licens.
+                    Du får gärna använda, förbättra och bidra med förslag eller
+                    pull requests.
+                </p>
+                <p class="mt-3 text-sm">
+                    <a
+                        href="https://github.com/varohlen/gy25/blob/main/LICENSE"
+                        class="font-medium text-emerald-800 underline hover:text-emerald-900"
+                    >
+                        Läs licensen
+                    </a>
+                    <span class="text-emerald-900/70"> · </span>
+                    <a
+                        href="https://github.com/varohlen/gy25/issues"
+                        class="font-medium text-emerald-800 underline hover:text-emerald-900"
+                    >
+                        Föreslå förbättringar
+                    </a>
+                </p>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">
+                Övriga projekt
+            </h2>
+            <div class="grid sm:grid-cols-2 gap-6">
+                <a
+                    href="https://arohlen.se"
+                    class="bg-white rounded-[28px] shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow"
+                >
+                    <div class="flex items-start gap-4">
+                        <div
+                            class="h-12 w-12 rounded-[16px] bg-blue-50 border border-blue-100 flex items-center justify-center overflow-hidden"
+                        >
+                            <img
+                                src={arohlenAvatar.src}
+                                alt="Arohlen.se avatar"
+                                class="h-10 w-10 object-cover"
+                                loading="lazy"
+                            />
+                        </div>
+                        <div class="min-w-0">
+                            <div class="flex items-center gap-2">
+                                <h3 class="text-gray-900 font-semibold">
+                                    arohlen.se
+                                </h3>
+                            </div>
+                            <p class="text-sm text-gray-600 mt-2">
+                                Personlig webbplats och blogg.
+                            </p>
+                            <p class="text-xs text-gray-500 mt-2">
+                                Här hittar du mer information om gy25.se i min
+                                blogg.
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a
+                    href="https://summor.se"
+                    class="bg-white rounded-[28px] shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow"
+                >
+                    <div class="flex items-start gap-4">
+                        <div
+                            class="h-12 w-12 rounded-[16px] bg-emerald-50 border border-emerald-100 flex items-center justify-center overflow-hidden"
+                        >
+                            <img
+                                src={summorLogo.src}
+                                alt="Summor.se logotyp"
+                                class="h-8 w-8 object-contain"
+                                loading="lazy"
+                            />
+                        </div>
+                        <div class="min-w-0">
+                            <div class="flex items-center gap-2">
+                                <h3 class="text-gray-900 font-semibold">
+                                    summor.se
+                                </h3>
+                            </div>
+                            <p class="text-sm text-gray-600 mt-2">
+                                Sammanfattningar i gymnasiekurser.
+                            </p>
+                            <p class="text-xs text-gray-500 mt-2">
+                                Här hittar du min undervisning
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </section>
+    </div>
+</main>

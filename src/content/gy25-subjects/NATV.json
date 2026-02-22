@@ -1,16 +1,19 @@
 {
   "code": "NATV",
   "name": "Nätverksteknologier",
+  "englishName": "Network Technologies",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:83",
+  "skolfsAndring": "2025:469",
   "nameHeading": "<h2>Nätverksteknologier</h2>",
   "description": "<p>Den stora mängden teknisk utrustning som används i det moderna samhället förutsätter välfungerande nätverkssystem och kommunikation mellan dessa. Ämnet nätverksteknologier behandlar vanligt förekommande utrustning och arbete med nätverksteknik.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet nätverksteknologier ska syfta till att eleverna utvecklar förmåga att administrera lokala nätverk och säkerställa en snabb och säker kommunikation mellan ingående enheter. Undervisningen ska leda till att eleverna utvecklar kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att utföra hårdvaru- och mjukvaruinstallationer samt att administrera nätverksmiljöer.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. I undervisningen ska eleverna också ges möjlighet att utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att bygga upp nätverk och anläggningar samt skapa systemlösningar. Genom undervisningen ska eleverna ges möjlighet att utveckla ett miljö- och säkerhetstänkande samt kunskaper om lagar och andra bestämmelser inom nätverksområdet.</p> <p>I undervisningen ska praktiska och laborativa moment varvas med teoretiska. Undervisningen ska även leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att planera och dokumentera sitt arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och problemlösningsförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik.</p> <h5><em>Undervisningen i ämnet nätverksteknologier ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper om uppbyggnad av olika delar och funktioner hos komponenter i nätverk.</li> <li>Förmåga att planera och dokumentera arbetet samt tolka och använda instruktioner, manualer och andra dokument.</li> <li>Förmåga att utföra hårdvaru- och mjukvaruinstallationer samt administrera nätverksmiljöer.</li> <li>Förmåga att bygga upp nätverk och skapa systemlösningar.</li> <li>Förmåga att felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.</li> <li>Kunskaper om lagar och andra bestämmelser inom nätverksområdet.</li> <li>Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning.</li> </ul><h3>Nivåer i ämnet nätverksteknologier</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet nätverksteknologier ska syfta till att eleverna utvecklar förmåga att administrera lokala nätverk och säkerställa en snabb och säker kommunikation mellan ingående enheter. Undervisningen ska leda till att eleverna utvecklar kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att utföra hårdvaru- och mjukvaruinstallationer samt att administrera nätverksmiljöer.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda instruktioner, manualer och andra dokument på både svenska och engelska. I undervisningen ska eleverna också ges möjlighet att utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra. Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att bygga upp nätverk och anläggningar samt skapa systemlösningar. Genom undervisningen ska eleverna ges möjlighet att utveckla ett miljö- och säkerhetstänkande samt kunskaper om lagar och andra bestämmelser inom nätverksområdet.</p><h5>Undervisningen ska leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att planera och dokumentera sitt arbete. Vidare ska undervisningen stimulera elevernas nyfikenhet och problemlösningsförmåga samt deras intresse för teknisk utveckling och hållbarhetsarbete inom nätverksteknik. I undervisningen ska praktiska och laborativa moment varvas med teoretiska.</h5><p><em>Undervisningen i ämnet nätverksteknologier ska ge eleverna förutsättningar att utveckla följande:</em></p><ul><li>Kunskaper om uppbyggnad av olika delar och funktioner hos komponenter i nätverk.</li><li>Förmåga att planera och dokumentera arbetet samt tolka och använda instruktioner, manualer och andra dokument.</li><li>Förmåga att utföra hårdvaru- och mjukvaruinstallationer samt administrera nätverksmiljöer.</li><li>Förmåga att bygga upp nätverk och skapa systemlösningar.</li><li>Förmåga att felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.</li><li>Kunskaper om lagar och andra bestämmelser inom nätverksområdet.</li><li>Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning.</li></ul><h3>Nivåer i ämnet nätverksteknologier</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.056Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy25subject.astro';
+import { getSubjectChange, loadFetchReport, toSvDate } from '../../utils/changelog';
 
 export async function getStaticPaths() {
   const subjects = await getCollection('gy25-subjects');
@@ -12,6 +13,10 @@ export async function getStaticPaths() {
 }
 
 const { subject } = Astro.props;
+const subjectChange = getSubjectChange('gy25', subject.data.code);
+const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
+const fetchReport = loadFetchReport();
+const syncedDate = toSvDate(fetchReport?.generatedAt);
 ---
 
 <Layout title={`${subject.data.name} - GY25`}>
@@ -24,6 +29,25 @@ const { subject } = Astro.props;
         Tillbaka till ämnen
       </a>
     </div>
+
     <SubjectView subject={subject} />
+
+    {subjectChange && (
+      <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <p>
+              Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span>
+            </p>
+            <p class="text-xs mt-1">
+              Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span>
+            </p>
+          </div>
+          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+            Se ändringar
+          </a>
+        </div>
+      </section>
+    )}
   </div>
 </Layout>

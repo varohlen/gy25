@@ -3,9 +3,14 @@
   "name": "Försäljning och kundservice",
   "englishName": "Sales and customer service",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2022-07-01",
-  "modifiedDate": "2023-07-10",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-07",
+  "canceledDate": "2026-01-01",
+  "canceledSkolfs": "2025:38",
   "version": "gy11",
+  "versionInfo": "Justering av namn på kurs i ämnet",
   "skolfsGrund": "2010:58",
   "skolfsAndring": "2022:125",
   "gradeScale": "A-F",
@@ -175,5 +180,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:11.996Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

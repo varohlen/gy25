@@ -1,0 +1,14 @@
+{
+  "date": "2026-02-21",
+  "title": "Stor uppdatering: Innehållsuppdatering, changelogs och nya sidor",
+  "category": "Funktion",
+  "summary": "Större uppdatering av gy25.se med automatiserat innehållsflöde, tydligare changelog-sidor och en separat GY11-vy.",
+  "details": [
+    "Nytt: Innehållsflödet är uppdaterat så läroplansdata kan synkas löpande från Skolverkets API.",
+    "Nytt: Separat changelog för läroplansinnehåll (data från Skolverkets API).",
+    "Nytt: Separat changelog för webbplatsens funktioner och förbättringar.",
+    "Nytt: Egen GY11-vy för övergångsperioden, med hänvisning till GY25.",
+    "Uppdaterat: Om-sidan med tydligare projektbeskrivning, datakälla och kontakt.",
+    "Uppdaterat: Navigation, footer och sitemap för bättre orientering och indexering."
+  ]
+}

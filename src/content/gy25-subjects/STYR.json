@@ -1,16 +1,19 @@
 {
   "code": "STYR",
   "name": "Styrteknik",
+  "englishName": "Control Technology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-26",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:123",
+  "skolfsAndring": "2025:472",
   "nameHeading": "<h2>Styrteknik</h2>",
   "description": "<p>Styrteknik handlar om digital reglering av system med många in- och utsignaler. Arbete med styrteknik har sin grund i givare och aktuatorer. Ämnet styrteknik behandlar metoder och arbetssätt för att styra tekniska komponenter i olika styrsystem. I ämnet behandlas även säkerhetsfrågor eftersom misstag kan orsaka stora skador på både person och egendom.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet styrteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten med styr- och reglerteknisk utrustning. I detta ingår installation, driftsättning och underhåll av styr- och reglertekniska komponenter och system. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera samt läsa och tolka scheman, ritningar och manualer, på både svenska och engelska. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om givare, aktuatorer samt logiska funktioner. Dessutom ska eleverna ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i styr- och reglerteknisk utrustning.</p> <p>I undervisningen ska både praktiska och teoretiska moment ingå. Undervisningen ska leda till att eleverna utvecklar ett säkert och hållbart sätt att arbeta, såväl självständigt som i samverkan med andra. Undervisningen ska även stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom styrteknik.</p> <h5><em>Undervisningen i ämnet styrteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera sitt arbete samt installera, driftsätta och underhålla styr- och reglertekniska komponenter och system på ett säkert sätt.</li> <li>Förmåga att tolka och använda scheman över styr- och reglertekniska komponenter och system samt att dokumentera sitt arbete.</li> <li>Förmåga att felsöka och åtgärda fel i styr- och reglertekniska komponenter och system.</li> <li>Kunskaper om givare, aktuatorer och logiska funktioner.</li> </ul><h3>Nivåer i ämnet styrteknik</h3><ul><li>Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet elteknik.</li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet styrteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten med styr- och reglerteknisk utrustning. I detta ingår installation, driftsättning och underhåll av styr- och reglertekniska komponenter och system. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att dokumentera samt läsa och tolka scheman, ritningar och manualer, på både svenska och engelska. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om givare, aktuatorer samt logiska funktioner. Dessutom ska eleverna ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i styr- och reglerteknisk utrustning.</p> <p>I undervisningen ska både praktiska och teoretiska moment ingå. Undervisningen ska leda till att eleverna utvecklar ett säkert och hållbart sätt att arbeta, såväl självständigt som i samverkan med andra. Undervisningen ska även stimulera elevernas nyfikenhet och problemlösningsförmåga samt bidra till att eleverna utvecklar intresse för teknisk utveckling och hållbarhetsarbete inom styrteknik.</p> <h5><em>Undervisningen i ämnet styrteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att planera sitt arbete samt installera, driftsätta och underhålla styr- och reglertekniska komponenter och system på ett säkert sätt.</li> <li>Förmåga att tolka och använda scheman över styr- och reglertekniska komponenter och system samt att dokumentera sitt arbete.</li> <li>Förmåga att felsöka och åtgärda fel i styr- och reglertekniska komponenter och system.</li> <li>Kunskaper om givare, aktuatorer och logiska funktioner.</li> </ul><h3>Nivåer i ämnet styrteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.085Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

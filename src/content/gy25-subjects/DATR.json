@@ -1,12 +1,15 @@
 {
   "code": "DATR",
   "name": "Dator- och kommunikationsteknik",
+  "englishName": "Computer and Communication Technology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-08",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2023:192",
+  "skolfsAndring": "2025:461",
   "nameHeading": "<h2>Dator- och kommunikationsteknik</h2>",
   "description": "<p>Samhällets digitalisering påverkar en mängd olika verksamheter, funktioner och aktiviteter, vilket förutsätter fungerande dator- och kommunikationsutrustning. Ämnet dator- och kommunikationsteknik behandlar olika delar inom informationsteknik, bland annat hård- och mjukvara samt nätverk och kringutrustning.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet dator- och kommunikationsteknik på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Olika processortyper och deras användningsområden.</li> <li>Prestanda för olika datalagringsmedia.</li> <li>Protokoll för dataöverföring via nätverk.</li> <li>Referensmodeller och standarder för datakommunikation.</li> <li>Uppbyggnad av och arbetssätt i lokala nätverk.</li> <li>Begreppen switching och routing.</li> <li>Begreppet virtuella nät.</li> <li>Skillnader mellan vanligt förekommande operativsystem och deras egenskaper.</li> <li>Användande av rit- och simuleringsprogram.</li> <li>Produkter och tekniker för presentationssystem, till exempel multimedia eller videokonferens.</li> <li>Installation av utrustning och uppgradering av drivrutiner.</li> <li>Planering, montering, konfigurering och driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning, dokumentation, presentation eller kommunikation.</li> <li>Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.</li> <li>Anpassning av moln- och internetbaserade tjänster.</li> <li>Hantering av it-produkter på ett säkert och hållbart sätt.</li> <li>Hård- och mjukvaruinstallation samt uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.</li> <li>Datorns start- och bootsekvenser samt inställning och uppgradering av dess UEFI (unified extensible firmware interface) och BIOS (basic input/output system) eller firmware.</li> <li>Installation och konfigurering av switchar, routrar och gateways.</li> <li>Installation och konfigurering av SOHO (small office home office) och WLAN (wireless local area network).</li> <li>Felsökning i datorer och datorsystem.</li> <li>Säkerhetskopiering och virusskydd.</li> <li>Produktion av skisser över olika typer av nätverkstopologier, både fysiskt och logiskt.</li> <li>Tolkning och användning av tekniska dokument på både svenska och engelska, däribland instruktioner och manualer.</li> <li>Dokumentation av eget arbete.</li> <li>Analys av användarkrav och förslag på konkreta lösningar.</li> <li>Utvärdering och val av it-produkter på marknaden.</li> <li>Produktion av manualer och annan hjälpdokumentation för användare, till exempel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet dator- och kommunikationsteknik på nivå 2 ska behandla följande centrala innehåll:</p><ul><li>Olika processortyper och deras användningsområden.</li><li>Prestanda för olika datalagringsmedia.</li><li>Protokoll för dataöverföring via nätverk.</li><li>Referensmodeller och standarder för datakommunikation.</li><li>Uppbyggnad av och arbetssätt i lokala nätverk.</li><li>Begreppen switching och routing.</li><li>Begreppet virtuella nät.</li><li>Skillnader mellan vanligt förekommande operativsystem och deras egenskaper.</li><li>Användning av rit- och simuleringsprogram.</li><li>Produkter och tekniker för presentationssystem, till exempel multimedia eller videokonferens.</li><li>Installation av utrustning och uppgradering av drivrutiner.</li><li>Planering, montering, konfigurering och driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning, dokumentation, presentation eller kommunikation.</li><li>Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.</li><li>Anpassning av moln- och internetbaserade tjänster.</li><li>Hantering av it-produkter på ett säkert och hållbart sätt.</li><li>Hård- och mjukvaruinstallation samt uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.</li><li>Datorns start- och bootsekvenser samt inställning och uppgradering av dess UEFI (unified extensible firmware interface) och BIOS (basic input/output system) eller firmware.</li><li>Installation och konfigurering av switchar, routrar och gateways.</li><li>Installation och konfigurering av SOHO (small office home office) och WLAN (wireless local area network).</li><li>Felsökning i datorer och datorsystem.</li><li>Säkerhetskopiering och virusskydd.</li><li>Produktion av skisser över olika typer av nätverkstopologier, både fysiskt och logiskt.</li><li>Tolkning och användning av tekniska dokument på både svenska och engelska, däribland instruktioner och manualer.</li><li>Dokumentation av eget arbete.</li><li>Analys av användarkrav och förslag på konkreta lösningar.</li><li>Utvärdering och val av it-produkter på marknaden.</li><li>Produktion av manualer och annan hjälpdokumentation för användare, till exempel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering.</li></ul>"
       }
     },
     {
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:26.982Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

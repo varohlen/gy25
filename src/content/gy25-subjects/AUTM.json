@@ -1,16 +1,19 @@
 {
   "code": "AUTM",
   "name": "Automationsteknik",
+  "englishName": "Automation Technology",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-08",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2023:160",
+  "skolfsAndring": "2025:459",
   "nameHeading": "<h2>Automationsteknik</h2>",
   "description": "<p>Automatiseringen i samhället är en ständigt pågående process och många arbetsuppgifter och tillverkningsled automatiseras. Automatiseringen sker bland annat inom industri, fastighetsbransch och infrastruktur. Ämnet automationsteknik behandlar automatiserade funktioner ur ett systemperspektiv samt mötet mellan elektro-, dator-, drift- och underhållsteknik.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
-  "purpose": "<p>Undervisningen i ämnet automationsteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten med automationsutrustning. I detta ingår installation och montering, programmering och konfigurering, samt felsökning och underhåll av automatiserade anläggningar. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda scheman, ritningar och manualer samt att dokumentera sitt arbete. Undervisningen ska leda till att eleverna utvecklar ett ansvarsfullt, hållbart och säkert arbetssätt vad gäller drift och miljö.</p> <p>Eleverna ska i undervisningen ges möjlighet att utveckla kunskaper om mekanisk struktur, elektronik och styr- och reglerteknik samt hur dessa kan sammanföras till ett system. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att beskriva olika samband inom automation med matematik och fysikaliska storheter.</p> <p>I undervisningen ska både praktiska och teoretiska uppgifter ingå. Därigenom ska eleverna ges möjlighet att utveckla förståelse av såväl praktiskt arbete som yrkesteori. Undervisningen ska också ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt bidra till deras intresse för teknisk utveckling och hållbarhetsarbete inom automationsbranschen.</p> <h5><em>Undervisningen i ämnet automationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Förmåga att montera, installera och driftsätta automationsutrustning.</li> <li>Förmåga att underhålla, felsöka och optimera automatiserade anläggningar.</li> <li>Förmåga att tolka och använda ritningar och manualer samt att dokumentera det egna arbetet.</li> <li>Kunskaper om hur mekanisk struktur, elektronik samt styr-och reglerteknik kan sammanföras till ett system.</li> <li>Kunskaper om hur samband inom automation beskrivs med matematik och fysikaliska storheter.</li> <li>Förmåga att arbeta säkert i automatiserade system.</li> </ul><h3>Nivåer i ämnet automationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
+  "purpose": "<p>Undervisningen i ämnet automationsteknik ska syfta till att eleverna utvecklar förmåga att planera och utföra arbeten med automationsutrustning. I detta ingår installation och montering, programmering och konfigurering, samt felsökning och underhåll av automatiserade anläggningar. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser inom området. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka och använda scheman, ritningar och manualer samt att dokumentera sitt arbete. Undervisningen ska leda till att eleverna utvecklar ett ansvarsfullt, hållbart och säkert arbetssätt vad gäller drift och miljö.</p><p>Eleverna ska i undervisningen ges möjlighet att utveckla kunskaper om mekanisk struktur, elektronik och styr- och reglerteknik samt hur dessa kan sammanföras till ett system. Undervisningen ska också ge eleverna möjlighet att utveckla förmåga att beskriva olika samband inom automation med matematik och fysikaliska storheter.</p><p>I undervisningen ska både praktiska och teoretiska uppgifter ingå. Därigenom ska eleverna ges möjlighet att utveckla förståelse av såväl praktiskt arbete som yrkesteori. Undervisningen ska också ge eleverna möjlighet att samverka med andra och utveckla ett fackspråk. Vidare ska undervisningen stimulera elevernas nyfikenhet och initiativförmåga samt bidra till deras intresse för teknisk utveckling och hållbarhetsarbete inom automationsbranschen.</p><h5><em>Undervisningen i ämnet automationsteknik ska ge eleverna förutsättningar att utveckla följande:</em></h5><ul><li>Förmåga att montera, installera och driftsätta automationsutrustning.</li><li>Förmåga att underhålla, felsöka och optimera automatiserade anläggningar.</li><li>Förmåga att tolka och använda ritningar och manualer samt att dokumentera det egna arbetet.</li><li>Kunskaper om hur mekanisk struktur, elektronik samt styr- och reglerteknik kan sammanföras till ett system.</li><li>Kunskaper om hur samband inom automation beskrivs med matematik och fysikaliska storheter.</li><li>Förmåga att arbeta säkert i automatiserade system.</li></ul><h3>Nivåer i ämnet automationsteknik</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 200 poäng, som bygger på nivå 1.</li> <li>Nivå 3, 200 poäng, som bygger på nivå 2.</li></ul>",
   "categories": [
     {
       "name": "Yrkesämne",
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:26.963Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

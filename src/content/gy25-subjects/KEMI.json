@@ -1,12 +1,15 @@
 {
   "code": "KEMI",
   "name": "Kemi",
+  "englishName": "Chemistry",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-02-06",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:175",
+  "skolfsAndring": "2025:481",
   "nameHeading": "<h2>Kemi</h2>",
   "description": "<p>Kemi är ett naturvetenskapligt ämne som har sitt ursprung i människans nyfikenhet och behov av att förstå sin omvärld. Det är till sin karaktär både undersökande och analytiskt. Kemin beskriver materiens uppbyggnad, egenskaper och reaktioner, från den minsta atom till den största makromolekyl. Kunskaper i kemi kan bidra till såväl utveckling av nya material som hållbar resursanvändning.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -47,7 +50,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet kemi på nivå 2 ska behandla följande centrala innehåll:</p> <p><em>Materia och energi</em></p> <ul> <li>Olika organiska ämnesklasser samt deras egenskaper, struktur och reaktivitet.</li> <li>Oorganiska ämnens betydelse för hållbar utveckling.</li> <li>Materiens och energins oförstörbarhet i kemiska reaktioner, däribland beräkning av entalpiändringar. Gibbs fria energi.</li> </ul> <p><em>Reaktioner och jämvikt</em></p> <ul> <li>Reaktionshastighet och olika faktorers inverkan på den.</li> <li>Reaktionsmekanismer, däribland additions- och substitutionsreaktioner.</li> <li>Redoxreaktioner inom organisk kemi och biokemi.</li> <li>Jämvikter och jämviktskonstanter samt faktorer som påverkar dessa. Jämviktssystem i olika miljöer.</li> <li>Syrabasjämvikter, buffertverkan och pH-beräkningar.</li> </ul> <p><em>Livets kemi</em></p> <ul> <li>Biomolekylernas struktur, egenskaper och funktion i levande organismer.</li> <li>Ämnesomsättning på molekylär nivå, däribland proteinsyntes och cellandning.</li> </ul> <p><em>Kemisk analys</em></p> <ul> <li>Kvalitativa och kvantitativa metoder för kemisk analys, till exempel spektrofotometri och masspektrometri.</li> </ul> <p><em>Kemin i omvärlden</em></p> <ul> <li>Kemins betydelse för vetenskap, individ och samhälle med exempel från historiska och aktuella händelser.</li> <li>Frågor om etik och hållbar utveckling med koppling till kemi.</li> <li>Kemitekniska tillämpningar, till exempel inom livsmedels-, material- och läkemedelsområdena.</li> </ul> <p><em>Kemins arbetsmetoder</em></p> <ul> <li>Laborationer och experiment. Insamling av data från observationer, mätningar och simuleringar. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li> <li>Analys av prover och felkällor, till exempel detektionsnivå, riktighet och precision samt systematiska och slumpmässiga fel.</li> <li>Modeller som beskrivningar av verkligheten. Modellers och teoriers giltighet samt det experimentella arbetes betydelse för deras utveckling över tid.</li> <li>Granskning av information och argumentation som rör kemi. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet kemi på nivå 2 ska behandla följande centrala innehåll:</p><p><em>Materia och energi</em></p><ul><li>Olika organiska ämnesklasser samt deras egenskaper, struktur och reaktivitet.</li><li>Oorganiska ämnens betydelse för hållbar utveckling.</li><li>Materiens och energins oförstörbarhet i kemiska reaktioner, däribland beräkning av entalpiändringar. Gibbs fria energi.</li></ul><p><em>Reaktioner och jämvikt</em></p><ul><li>Reaktionshastighet och olika faktorers inverkan på den.</li><li>Reaktionsmekanismer, däribland additions- och substitutionsreaktioner.</li><li>Redoxreaktioner inom organisk kemi och biokemi.</li><li>Jämvikter och jämviktskonstanter samt faktorer som påverkar dessa. Jämviktssystem i olika miljöer.</li><li>Syrabasjämvikter, buffertverkan och pH-beräkningar.</li></ul><p><em>Livets kemi</em></p><ul><li>Biomolekylernas struktur, egenskaper och funktion i levande organismer.</li><li>Ämnesomsättning på molekylär nivå, däribland proteinsyntes och cellandning.</li></ul><p><em>Kemisk analys</em></p><ul><li>Kvalitativa och kvantitativa metoder för kemisk analys, till exempel spektrofotometri och masspektrometri.</li></ul><p><em>Kemin i omvärlden</em></p><ul><li>Kemins betydelse för vetenskap, individ och samhälle med exempel från historiska och aktuella händelser.</li><li>Frågor om etik och hållbar utveckling med koppling till kemi.</li><li>Kemitekniska tillämpningar, till exempel inom livsmedels-, material- och läkemedelsområdena.</li></ul><p><em>Kemins arbetsmetoder</em></p><ul><li>Laborationer och experiment. Insamling av data från observationer, mätningar och simuleringar. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning av data samt beräkningar och värdering av metod och resultat. Redovisning med olika uttrycksformer.</li><li>Analys av prover och felkällor, till exempel detektionsnivå, riktighet och precision samt systematiska och slumpmässiga fel.</li><li>Modeller som beskrivning av verkligheten. Modellers och teoriers giltighet samt det experimentella arbetes betydelse för deras utveckling över tid.</li><li>Granskning av information och argumentation som rör kemi. Skillnader mellan vetenskapliga och icke-vetenskapliga påståenden.</li></ul>"
       }
     }
   ],
@@ -74,5 +77,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.026Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

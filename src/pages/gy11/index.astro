@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import GY11Layout from '../../layouts/GY11Layout.astro';
+
+const subjects = await getCollection('gy11-subjects');
+subjects.sort((a, b) => a.data.name.localeCompare(b.data.name, 'sv-SE'));
+
+function getCardColor(subject: (typeof subjects)[number]) {
+  const categories = subject.data.categories?.map((c) => c.name.toLowerCase()) || [];
+  if (categories.includes('yrkesämne')) {
+    return 'bg-blue-50 hover:bg-blue-100';
+  }
+  return 'bg-slate-50 hover:bg-slate-100';
+}
+---
+
+<GY11Layout title="GY11 Ämnen" activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {subjects.map((subject) => {
+      const searchTerms = [
+        subject.data.name,
+        subject.data.code,
+        subject.data.courses?.map((c) => c.name).join(' ') || '',
+      ]
+        .join(' ')
+        .toLowerCase();
+
+      return (
+        <div class={`rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${getCardColor(subject)}`} data-search={searchTerms}>
+          <div class="flex justify-between items-start mb-3">
+            <div class="flex-grow">
+              <div class="flex items-baseline gap-3 mb-1">
+                <a href={`/gy11/${subject.data.code.toLowerCase()}`} class="group">
+                  <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-700">{subject.data.name}</h2>
+                </a>
+                <span class="text-sm font-mono text-gray-600">{subject.data.code}</span>
+              </div>
+              <p class="text-sm text-gray-600">{subject.data.courses?.length ?? 0} kurser</p>
+            </div>
+          </div>
+          <p class="text-xs text-gray-500 mt-auto">GY11</p>
+        </div>
+      );
+    })}
+  </div>
+</GY11Layout>

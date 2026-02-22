@@ -1,12 +1,15 @@
 {
   "code": "SVEI",
   "name": "Svetsmetod TIG",
+  "englishName": "Welding Method TIG",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
-  "startDate": "2025-07-01",
-  "modifiedDate": "2024-03-13",
+  "reform": "GY25",
+  "startDate": "2026-02-01",
+  "modifiedDate": "2026-01-08",
   "version": "gy25",
-  "versionInfo": "Första versionen",
+  "versionInfo": "Mindre justering/rättelse",
   "skolfsGrund": "2024:364",
+  "skolfsAndring": "2025:489",
   "nameHeading": "<h2>Svetsmetod TIG</h2>",
   "description": "<p>Ämnet svetsmetod TIG (tungsten inert gas) behandlar olika tekniker för sammanfogning av metaller med svetsmetoden TIG. Dessutom behandlar ämnet kvalitetsbedömning av svetsresultat.</p>",
   "purposeHeading": "<h3>Ämnets syfte</h3>",
@@ -33,7 +36,7 @@
       "description": "<p></p>",
       "centralCntHeading": "<h3>Centralt innehåll</h3>",
       "centralContent": {
-        "text": "<p>Undervisningen i ämnet svetsmetod TIG på nivå 1 ska behandla följande centrala innehåll:</p> <p><em>Arbetsprocess och utrustning</em></p> <ul> <li>Organisation av och förberedelser inför svetsprocessen inom kälsvetsning, plåt mot plåt och plåt mot rör.</li> <li>TIG-svetsning av kälsvetsar, plåt mot plåt samt plåt mot rör i olika relevanta svetslägen, däribland plåt mot rör stående horisontal (PB), liggande under upp (PD) och stående vertikalt (PF, PG, PH), enligt acceptanskrav i gällande standard.</li> <li>Hantering av svetsströmkällor och kringutrustning som används vid kälsvets.</li> <li>Hantering av olika typer av tillsatsmaterial och gaser utifrån deras egenskaper.</li> <li>Tillsatsmaterial för andra metaller än låglegerat stål.</li> <li>Underhåll av utrustning som används vid kälsvets.</li> <li>Tolkning och användning av tillverkningsunderlag, däribland enklare ritningar och svetsdatablad (WPS).</li> </ul> <p><em>Kvalitetsbedömning och problemlösning</em></p> <ul> <li>Hantering av vanligt förekommande problem vid TIG-svetsning i kälsvetsar.</li> <li>Reparation av fel som uppstår under kälsvetsning.</li> <li>Bedömning av kälsvetsar utifrån kvalitetsstandarder.</li> <li>Produktionsteknisk problemlösning vid kälsvetsning.</li> </ul> <p><em>Säkerhet och kommunikation</em></p> <ul> <li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li> <li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li> <li>Bedömning av risker i samband med arbetsuppgifter inom kälsvetsning, däribland risker med el, ultraviolett strålning (UV-strålning) och svetsrök samt hälsorisker.</li> <li>Användning av begrepp och uttryck inom kälsvetsning för kommunikation om arbetsprocesser och resultat.</li> </ul>"
+        "text": "<p>Undervisningen i ämnet svetsmetod TIG på nivå 1 ska behandla följande centrala innehåll:</p><p><em>Arbetsprocess och utrustning</em></p><ul><li>Organisation av och förberedelser inför svetsprocessen inom kälsvetsning, plåt mot plåt och rör mot plåt.</li><li>TIG-svetsning av kälsvetsar, plåt mot plåt samt rör mot plåt i olika relevanta svetslägen, däribland rör mot plåt stående horisontal (PB), liggande under upp (PD) och stående vertikalt (PF, PG, PH), enligt acceptanskrav i gällande standard.</li><li>Hantering av svetsströmkällor och kringutrustning som används vid kälsvets.</li><li>Hantering av olika typer av tillsatsmaterial och gaser utifrån deras egenskaper.</li><li>Tillsatsmaterial för andra metaller än låglegerat stål.</li><li>Underhåll av utrustning som används vid kälsvets.</li><li>Tolkning och användning av tillverkningsunderlag, däribland enklare ritningar och svetsdatablad (WPS).</li></ul><p><em>Kvalitetsbedömning och problemlösning</em></p><ul><li>Hantering av vanligt förekommande problem vid TIG-svetsning i kälsvetsar.</li><li>Reparation av fel som uppstår under kälsvetsning.</li><li>Bedömning av kälsvetsar utifrån kvalitetsstandarder.</li><li>Produktionsteknisk problemlösning vid kälsvetsning.</li></ul><p><em>Säkerhet och kommunikation</em></p><ul><li>Arbete i enlighet med instruktioner samt lagar och andra bestämmelser inom området.</li><li>Tillämpning av ergonomiska arbetsmetoder samt metoder för struktur, ordning och en effektiv arbetsmiljö.</li><li>Bedömning av risker i samband med arbetsuppgifter inom kälsvetsning, däribland risker med el, ultraviolett strålning (UV-strålning) och svetsrök samt hälsorisker.</li><li>Användning av begrepp och uttryck inom kälsvetsning för kommunikation om arbetsprocesser och resultat.</li></ul>"
       }
     },
     {
@@ -88,5 +91,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.087Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

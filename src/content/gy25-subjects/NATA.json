@@ -1,0 +1,89 @@
+{
+  "code": "NATA",
+  "name": "Naturvetenskaplig spets",
+  "englishName": "Natural Sciences – Honors",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
+  "startDate": "2025-07-01",
+  "modifiedDate": "2025-12-19",
+  "version": "gy25",
+  "skolfsGrund": "2024:671",
+  "skolfsAndring": "2024:671",
+  "nameHeading": "<h2>Naturvetenskaplig spets</h2>",
+  "description": "<p>Naturvetenskaplig spets möjliggör en tvärvetenskaplig eller inomvetenskaplig fördjupning inom ett ämnesområde som en spetsutbildning är inriktad mot. Ämnen inom naturvetenskaplig spets får bara anordnas inom av Skolverket beviljad riksrekryterande spetsutbildning i naturvetenskapliga ämnen.</p>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "purpose": "<p>Undervisningen i naturvetenskaplig spets ska syfta till att eleverna utvecklar fördjupade kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot. Undervisningen ska stimulera elevernas kunskapssökande och kreativitet och därigenom skapa förutsättningar för livslångt lärande inom området.</p> <p>Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt sätt att tänka och arbeta. I det ingår att granska olika typer av källor. Därigenom ska eleverna ges möjlighet att utveckla ett kritiskt förhållningssätt till frågor inom ämnesområdet. Undervisningen ska även leda till att eleverna utvecklar förmåga att använda begrepp, teorier, modeller och metoder som är relevanta inom det ämnesområde som spetsutbildningen är inriktad mot.</p> <p>I undervisningen ska eleverna ges möjlighet att diskutera och analysera frågeställningar inom ämnesområdet ur olika perspektiv och då använda naturvetenskapens begrepp och uttrycksformer. Undervisningen ska även ge eleverna möjlighet att relatera de fördjupade kunskaperna till andra områden och till aktuell forskning inom ämnesområdet. I undervisningen ska praktiskt arbete med naturvetenskapliga metoder ingå. På så vis ska eleverna ges möjlighet att utveckla sin förmåga att göra systematiska undersökningar.</p> <h5><em>Undervisningen i ämnet naturvetenskaplig spets ska ge eleverna förutsättningar att utveckla följande:</em></h5> <ul> <li>Kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot.</li> <li>Förmåga att analysera och diskutera frågeställningar inom ämnesområdet ur olika perspektiv med användning av relevanta begrepp, teorier, modeller och metoder.</li> <li>Förmåga att genomföra och redovisa systematiska undersökningar med naturvetenskapliga arbetsmetoder samt kritiskt granska information från olika typer av källor inom ämnesområdet.</li> </ul><h3>Nivåer i ämnet naturvetenskaplig spets</h3><ul><li>Nivå 1, 100 poäng. </li> <li>Nivå 2, 100 poäng, som bygger på nivå 1.</li></ul>",
+  "categories": [
+    {
+      "name": "Vissa ämne",
+      "code": "OTHER"
+    }
+  ],
+  "schoolTypes": [
+    "GY"
+  ],
+  "courses": [
+    {
+      "codeHeading": "<h3>Nivåkod: NATA100PX</h3>",
+      "code": "NATA100PX",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "name": "Nivå 1",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 1,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i naturvetenskaplig spets på nivå 1 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom det ämnesområde som spetsutbildningen är inriktad mot.</li> <li>Begrepp, teorier, modeller och metoder som är relevanta för ämnesområdet.</li> <li>Sökning, granskning, värdering och tolkning av information från olika typer av källor.</li> <li>Naturvetenskapliga arbetsmetoder relevanta för ämnesområdet, till exempel experiment, fältstudier eller observationer. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Bearbetning och analys av data, värdering av metod och resultat samt redovisning.</li> <li>Ämnesområdets betydelse för vetenskap, individ och samhälle.</li> </ul>"
+      }
+    },
+    {
+      "codeHeading": "<h3>Nivåkod: NATA200PX</h3>",
+      "code": "NATA200PX",
+      "nameHeading": "<h2>Nivå 2, 100 poäng</h2>",
+      "name": "Nivå 2",
+      "points": "100",
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS",
+      "sortOrder": 2,
+      "description": "<p></p>",
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i naturvetenskaplig spets på nivå 2 ska behandla följande centrala innehåll:</p> <ul> <li>Fördjupning inom det ämnesområde som spetsutbildningen är inriktad mot.</li> <li>Begrepp, teorier, modeller och metoder som är relevanta för ämnesområdet.</li> <li>Relevant forskning inom området.</li> <li>Sökning, granskning, värdering och tolkning av information från olika typer av källor.</li> <li>Naturvetenskapliga arbetsmetoder relevanta för ämnesområdet, till exempel experiment, fältstudier eller observationer. Formulering av frågeställningar samt planering, riskbedömning och utförande av systematiska undersökningar. Insamling, bearbetning och analys av data, värdering av metod och resultat samt redovisning.</li> <li>Naturvetenskapliga uttrycks- och presentationsformer, till exempel planschutställningar, rapporter, reportage och seminarier.</li> <li>Ämnesområdets betydelse för vetenskap, individ och samhälle.</li> </ul>"
+      }
+    }
+  ],
+  "appendix2List": [
+    {
+      "name": "Naturvetenskaplig spets A",
+      "code": "00A"
+    },
+    {
+      "name": "Naturvetenskaplig spets B",
+      "code": "00B"
+    }
+  ],
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3> <p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven visar <strong>godtagbara</strong> kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot och ger <strong>enkla</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar frågeställningar inom ämnesområdet och för <strong>delvis</strong> underbyggda resonemang utifrån olika perspektiv. I analysen använder eleven med <strong>viss säkerhet</strong> begrepp, teorier, modeller och metoder.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>i huvudsak systematiskt</strong> sätt samt redovisar sina undersökningar och för <strong>enkla</strong> resonemang om metod och resultat. Eleven granskar med <strong>viss säkerhet</strong> olika typer av källor.</p>",
+      "gradeStep": "E"
+    },
+    {
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>",
+      "gradeStep": "D"
+    },
+    {
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven visar <strong>goda</strong> kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot och ger <strong>utvecklade</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar frågeställningar inom ämnesområdet och för <strong>väl</strong> underbyggda resonemang utifrån olika perspektiv. I analysen använder eleven med <strong>säkerhet</strong> begrepp, teorier, modeller och metoder.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet och <strong>systematiskt</strong> sätt samt redovisar sina undersökningar och för <strong>utvecklade</strong> resonemang om metod och resultat. Eleven granskar med <strong>säkerhet </strong>olika typer av källor.</p>",
+      "gradeStep": "C"
+    },
+    {
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>",
+      "gradeStep": "B"
+    },
+    {
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven visar <strong>mycket goda</strong> kunskaper inom det ämnesområde som spetsutbildningen är inriktad mot och ger <strong>välutvecklade</strong> förklaringar av naturvetenskapliga samband.</p> <p>Eleven analyserar frågeställningar inom ämnesområdet och för <strong>mycket väl</strong> underbyggda resonemang utifrån olika perspektiv. I analysen använder eleven med <strong>god säkerhet</strong> begrepp, teorier, modeller och metoder.</p> <p>Eleven planerar och genomför naturvetenskapliga undersökningar på ett riskmedvetet, <strong>systematiskt och ändamålsenligt</strong> sätt samt redovisar sina undersökningar och för <strong>välutvecklade </strong>resonemang om metod och resultat. Eleven granskar med <strong>god säkerhet </strong>olika typer av källor.</p>",
+      "gradeStep": "A"
+    }
+  ],
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
+}

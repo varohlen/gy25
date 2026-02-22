@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import GY11Layout from '../../layouts/GY11Layout.astro';
+
+const subjects = await getCollection('gy11-subjects');
+
+const courses = subjects.flatMap((subject) =>
+  subject.data.courses?.map((course) => ({
+    ...course,
+    subjectName: subject.data.name,
+    subjectCode: subject.data.code,
+  })) ?? [],
+);
+
+courses.sort((a, b) => {
+  const bySubject = a.subjectName.localeCompare(b.subjectName, 'sv-SE');
+  if (bySubject !== 0) return bySubject;
+  return a.name.localeCompare(b.name, 'sv-SE');
+});
+---
+
+<GY11Layout title="GY11 Kurser" activeView="courses" searchPlaceholder="Sök på kurs, kurskod eller ämne...">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div class="space-y-1 divide-y-2 divide-gray-200">
+      {courses.map((course, index) => {
+        const prev = courses[index - 1];
+        const isNewSubject = !prev || prev.subjectCode !== course.subjectCode;
+        const searchTerms = `${course.name} ${course.code} ${course.subjectName} ${course.subjectCode}`.toLowerCase();
+
+        return (
+          <div class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`} data-search={searchTerms}>
+            {isNewSubject && (
+              <div class="bg-blue-50 px-4 py-3 border-b border-gray-200 shadow-sm">
+                <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
+              </div>
+            )}
+            <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
+              <div class="flex justify-between items-center">
+                <div>
+                  <a href={`/gy11/${course.subjectCode.toLowerCase()}/${course.code.toLowerCase()}`} class="group">
+                    <h3 class="text-base font-medium text-gray-900 group-hover:text-blue-700">{course.name}</h3>
+                  </a>
+                  <p class="text-sm text-gray-500 mt-1">{course.code}</p>
+                </div>
+                {course.points && <div class="text-sm text-gray-500">{course.points} poäng</div>}
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</GY11Layout>

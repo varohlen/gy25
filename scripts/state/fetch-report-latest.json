@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-02-20T21:28:17.151Z",
+  "apiMetadata": {
+    "apiVersion": "1.16.0",
+    "apiReleased": "2026-01-19",
+    "apiStatus": "active"
+  },
+  "gy25DateOverride": null,
+  "versions": {
+    "gy11": {
+      "version": "gy11",
+      "status": "ok",
+      "subjectCount": 311,
+      "toFetchCount": 311,
+      "fetchedCount": 311,
+      "removedCount": 0,
+      "unchangedCount": 0,
+      "addedSample": [],
+      "removedSample": [],
+      "changedSample": [
+        "ADM",
+        "AFF",
+        "AKT",
+        "ANA",
+        "ANI",
+        "ANL",
+        "ANO",
+        "ARK",
+        "ART",
+        "ATO"
+      ]
+    },
+    "gy25": {
+      "version": "gy25",
+      "status": "ok",
+      "subjectCount": 565,
+      "toFetchCount": 564,
+      "fetchedCount": 564,
+      "removedCount": 0,
+      "unchangedCount": 1,
+      "addedSample": [
+        "HUMT",
+        "MATT",
+        "NATA",
+        "PESO",
+        "SPRO",
+        "TEKA"
+      ],
+      "removedSample": [],
+      "changedSample": [
+        "ADMI",
+        "AFFA",
+        "AKRO",
+        "AKTI",
+        "AKTV",
+        "AKUT",
+        "ALLM",
+        "ANAT",
+        "ANIM",
+        "ANLA"
+      ]
+    }
+  },
+  "hadChanges": true
+}

@@ -1,9 +1,11 @@
 {
   "code": "GRUN",
   "name": "Grundläggande vård och omsorg",
+  "englishName": "Basic Health and Social Care",
   "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "reform": "GY25",
   "startDate": "2025-07-01",
-  "modifiedDate": "2024-01-08",
+  "modifiedDate": "2025-12-18",
   "version": "gy25",
   "versionInfo": "Första versionen",
   "skolfsGrund": "2023:252",
@@ -60,5 +62,5 @@
       "gradeStep": "A"
     }
   ],
-  "lastUpdated": "2024-12-18T08:06:27.010Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }

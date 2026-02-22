@@ -3,8 +3,12 @@
   "name": "Engelska",
   "englishName": "English",
   "typeOfSyllabus": "SUBJECT_SYLLABUS",
+  "reform": "GY11",
   "startDate": "2022-07-01",
-  "modifiedDate": "2023-04-13",
+  "endDate": "2030-06-30",
+  "modifiedDate": "2026-01-16",
+  "canceledDate": "2025-07-01",
+  "canceledSkolfs": "2023:130",
   "version": "gy11",
   "versionInfo": "Betygskriterier ersätter kunskapskrav",
   "skolfsGrund": "2010:261",
@@ -140,5 +144,5 @@
       ]
     }
   ],
-  "lastUpdated": "2024-12-18T08:05:11.982Z"
+  "lastUpdated": "2026-02-20T21:28:17.151Z"
 }
