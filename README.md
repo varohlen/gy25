@@ -4,6 +4,8 @@ En statisk Astro-sajt som presenterar Skolverkets läroplansdata (framför allt 
 
 Produktionsdomän: [https://gy25.se](https://gy25.se)
 
+README riktar sig främst till dig som vill köra projektet lokalt, förstå dataflödet eller bidra med förbättringar.
+
 ## Nuläge (februari 2026)
 
 - Primärt fokus: GY25 (ämnen och nivåer).
@@ -21,6 +23,11 @@ Produktionsdomän: [https://gy25.se](https://gy25.se)
 - Cloudflare-adapter (statiskt bygge)
 - Sitemap via `@astrojs/sitemap`
 
+## Krav
+
+- Node.js `>=20.3.0` (rekommenderat: Node 22)
+- npm 9+
+
 ## Projektstruktur (viktigast)
 
 - `src/pages/gy25/*` - GY25-vyer
@@ -34,13 +41,19 @@ Produktionsdomän: [https://gy25.se](https://gy25.se)
 - `scripts/fetch-skolverket-data.ts` - hämtning + lokal sync
 - `scripts/analyze-curriculum-changes.ts` - diff/analysrapporter
 - `scripts/state/*` - genererade tillstånds- och rapportfiler
-- `docs/TODO-skolverket-syllabus-v2.md` - parkerad plan för API v2
+- `docs/*` - planerade framtidsuppdateringar och tekniska TODOs
 
 ## Kom igång lokalt
 
 ```bash
 npm install
 npm run dev
+```
+
+Byggtest:
+
+```bash
+npm run build
 ```
 
 ## Scripts
@@ -79,16 +92,28 @@ npm run subject-diff -- gy25 FYSK
   4. committar endast om datafiler faktiskt har ändrats
 - Om repo är kopplat till deploy på `main` triggas ny deploy automatiskt efter commit.
 
+## Bidra
+
+1. Skapa en branch från `main`
+2. Gör ändringar och kör minst `npm run build`
+3. Öppna PR mot `main`
+4. Hantera review-kommentarer och mergea när checks är gröna
+
+Tips: håll gärna kodändringar och stora dataändringar i separata commits för enklare review.
+
+## Planerade uppdateringar
+
+Se `/docs` för planerade förbättringar, till exempel:
+
+- `docs/TODO-skolverket-syllabus-v2.md` - plan för eventuell migrering till API v2
+- `docs/TODO-ai-interoperabilitet.md` - plan för bättre AI-interoperabilitet (utan AI-funktioner i tjänsten)
+
 ## SEO-principer
 
 - Behåll stabila URL:er (särskilt ämnes- och nivåsidor).
 - Undvik att byta slug-struktur i onödan.
 - Sitemapen byggs automatiskt i Astro-build.
 - Ändringar i innehåll bör uppdatera "senast hämtad"/changelog i stället för att flytta sidor.
-
-## Om GitHub Releases
-
-GitHub Releases är inte ett krav för projektet, men kan vara bra vid större milstolpar (t.ex. större redesign, API-migrering, ny informationsarkitektur). För löpande mindre förbättringar räcker changelog-sidor + vanliga commits.
 
 ## Licens
 
