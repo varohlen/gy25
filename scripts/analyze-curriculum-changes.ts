@@ -72,7 +72,7 @@ function runGitBuffer(args: string[]): Buffer {
 }
 
 function listChangedFiles(dir: string): string[] {
-  const buf = runGitBuffer(["diff", "--name-only", "-z", "--", dir]);
+  const buf = runGitBuffer(["diff", "HEAD", "--name-only", "-z", "--", dir]);
   if (!buf.length) return [];
   return buf
     .toString("utf8")
@@ -103,6 +103,20 @@ function normalizeText(value: unknown): string {
   return String(value ?? "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeKnowledgeRequirement(value: unknown): string {
+  if (!value || typeof value !== "object") {
+    return normalizeText(value);
+  }
+
+  const req = value as Record<string, unknown>;
+  const step =
+    normalizeText(req.gradeStep) ||
+    normalizeText(req.grade) ||
+    normalizeText(req.step);
+  const text = normalizeText(req.text);
+  return `${step}|${text}`;
 }
 
 function stripHtml(html: unknown): string {
@@ -291,10 +305,10 @@ function compareSubject(filePath: string): SubjectEntry {
   const purposeChanged = normalizeText(oldDoc.purpose) !== normalizeText(newDoc.purpose);
 
   const oldKnowledge = Array.isArray(oldDoc.knowledgeRequirements)
-    ? oldDoc.knowledgeRequirements.map((v: unknown) => normalizeText(v))
+    ? oldDoc.knowledgeRequirements.map((v: unknown) => normalizeKnowledgeRequirement(v))
     : [];
   const newKnowledge = Array.isArray(newDoc.knowledgeRequirements)
-    ? newDoc.knowledgeRequirements.map((v: unknown) => normalizeText(v))
+    ? newDoc.knowledgeRequirements.map((v: unknown) => normalizeKnowledgeRequirement(v))
     : [];
   const knowledgeChanged = stableJson(oldKnowledge) !== stableJson(newKnowledge);
   // Kept as alias for compatibility with UI/report fields that still read gradeCriteriaChanged.

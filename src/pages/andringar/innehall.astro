@@ -659,17 +659,21 @@ function formatHistoryRangeLabel(
 
 <script>
     document.addEventListener("DOMContentLoaded", () => {
-        const input = document.getElementById("subject-search");
+        const input = document.getElementById(
+            "subject-search",
+        ) as HTMLInputElement | null;
         if (!input) return;
 
-        const cards = Array.from(document.querySelectorAll(".result-card"));
+        const cards = Array.from(
+            document.querySelectorAll<HTMLElement>(".result-card"),
+        );
         const filter = () => {
-            const term = (input as HTMLInputElement).value.trim().toLowerCase();
+            const term = input.value.trim().toLowerCase();
             cards.forEach((card) => {
                 const search = (
                     card.getAttribute("data-search") || ""
                 ).toLowerCase();
-                (card as HTMLElement).style.display =
+                card.style.display =
                     !term || search.includes(term) ? "" : "none";
             });
         };

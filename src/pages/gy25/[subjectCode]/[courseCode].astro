@@ -81,7 +81,7 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
       subject={subject}
     />
 
-    {subjectChange && (isCourseCentralChanged || isCourseMetaChanged || subjectChange.summary.purposeChanged) && (
+    {subjectChange && (isCourseCentralChanged || isCourseMetaChanged || subjectChange?.summary?.purposeChanged) && (
       <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
         <div class="flex flex-wrap items-center justify-between gap-3">
           <div>

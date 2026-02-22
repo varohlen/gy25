@@ -2,6 +2,7 @@ import axios from 'axios';
 import { createHash, randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
+import type { FetchHistoryEntry, VersionKey } from '../src/utils/changelog';
 
 const ROOT_DIR = process.cwd();
 const CONTENT_DIR = path.join(ROOT_DIR, 'src', 'content');
@@ -18,8 +19,6 @@ const FETCH_MAX_ATTEMPTS = 4;
 const FETCH_BASE_DELAY_MS = 500;
 
 const API_BASE = 'https://api.skolverket.se/syllabus/v1';
-
-type VersionKey = 'gy11' | 'gy25';
 
 const ENDPOINTS: Record<VersionKey, { subjectsList: string; subject: (code: string) => string }> = {
   gy11: {
@@ -107,20 +106,6 @@ interface HistoryVersionEntry {
   changedCodes: string[];
 }
 
-interface FetchHistoryEntry {
-  id: string;
-  recordedAt: string;
-  fromUpdatedAt: string | null;
-  toUpdatedAt: string;
-  baselineLabel: string;
-  edgeCase: {
-    initialResync: boolean;
-    longGapDays: number | null;
-  };
-  apiMetadata: APIMetadata;
-  versions: Record<VersionKey, HistoryVersionEntry>;
-}
-
 interface FetchHistoryFile {
   schemaVersion: 1;
   entries: FetchHistoryEntry[];
@@ -170,7 +155,7 @@ function isRetryableError(error: unknown): boolean {
     if (status === 408 || status === 429) return true;
     return false;
   }
-  return true;
+  return false;
 }
 
 async function fetchData<T>(url: string): Promise<T> {
@@ -233,8 +218,12 @@ async function loadLocalSubjects(version: VersionKey): Promise<Map<string, Local
         console.warn(`Skipping unreadable local file ${filePath}:`, error);
       }
     }
-  } catch {
-    return result;
+  } catch (error) {
+    const err = error as NodeJS.ErrnoException;
+    if (err.code === 'ENOENT') {
+      return result;
+    }
+    throw new Error(`Failed to read local subjects for ${version} in ${dir}: ${err.message}`);
   }
 
   return result;
@@ -470,8 +459,12 @@ async function loadFetchState(): Promise<FetchState | null> {
   try {
     const raw = await fs.readFile(FETCH_STATE_PATH, 'utf8');
     return JSON.parse(raw) as FetchState;
-  } catch {
-    return null;
+  } catch (error) {
+    const err = error as NodeJS.ErrnoException;
+    if (err.code === 'ENOENT') {
+      return null;
+    }
+    throw new Error(`Failed to read fetch state at ${FETCH_STATE_PATH}: ${err.message}`);
   }
 }
 
@@ -483,8 +476,12 @@ async function loadHistory(): Promise<FetchHistoryFile> {
       return { schemaVersion: 1, entries: [] };
     }
     return parsed;
-  } catch {
-    return { schemaVersion: 1, entries: [] };
+  } catch (error) {
+    const err = error as NodeJS.ErrnoException;
+    if (err.code === 'ENOENT') {
+      return { schemaVersion: 1, entries: [] };
+    }
+    throw new Error(`Failed to read content changelog history at ${CHANGELOG_HISTORY_PATH}: ${err.message}`);
   }
 }
 
@@ -579,7 +576,7 @@ async function main() {
       gy25: createVersionReport('gy25'),
     };
 
-    const versionStates = {} as Record<VersionKey, VersionState>;
+    const versionStates: Partial<Record<VersionKey, VersionState>> = {};
     let hadChanges = false;
     let hadErrors = false;
 
@@ -617,12 +614,21 @@ async function main() {
     await saveFetchReport(report);
 
     if (!hadErrors) {
+      if (!versionStates.gy11 || !versionStates.gy25) {
+        throw new Error('Missing version state after successful processing run.');
+      }
+
+      const fullVersionStates: Record<VersionKey, VersionState> = {
+        gy11: versionStates.gy11,
+        gy25: versionStates.gy25,
+      };
+
       const state: FetchState = {
         apiVersion: currentMetadata.apiVersion,
         apiReleased: currentMetadata.apiReleased,
         apiStatus: currentMetadata.apiStatus,
         updatedAt: now,
-        versions: versionStates,
+        versions: fullVersionStates,
       };
       await saveFetchState(state);
 
