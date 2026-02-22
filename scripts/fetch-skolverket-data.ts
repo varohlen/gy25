@@ -26,7 +26,9 @@ const ENDPOINTS: Record<VersionKey, { subjectsList: string; subject: (code: stri
     subject: (code: string) => `${API_BASE}/subjects/${code}`,
   },
   gy25: {
-    subjectsList: `${API_BASE}/subjects?schooltype=GY&timespan=LATEST&typeOfSyllabus=GRADE_SUBJECT_SYLLABUS`,
+    subjectsList: GY25_DATE_OVERRIDE
+      ? `${API_BASE}/subjects?schooltype=GY&date=${encodeURIComponent(GY25_DATE_OVERRIDE)}&typeOfSyllabus=GRADE_SUBJECT_SYLLABUS`
+      : `${API_BASE}/subjects?schooltype=GY&timespan=LATEST&typeOfSyllabus=GRADE_SUBJECT_SYLLABUS`,
     subject: (code: string) => {
       const base = `${API_BASE}/subjects/${code}`;
       return GY25_DATE_OVERRIDE ? `${base}?date=${encodeURIComponent(GY25_DATE_OVERRIDE)}` : base;
