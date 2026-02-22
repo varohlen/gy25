@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy25course.astro';
+import { getSubjectChange, loadFetchReport, toSvDate } from '../../../utils/changelog';
 
 interface Course {
   code: string;
@@ -40,6 +41,13 @@ export async function getStaticPaths(): Promise<StaticPath[]> {
 }
 
 const { subject, course }: StaticPath['props'] = Astro.props;
+const subjectChange = getSubjectChange('gy25', subject.data.code);
+const upperCourseCode = course.code.toUpperCase();
+const isCourseCentralChanged = subjectChange?.summary.courseCentralChangedCodes.includes(upperCourseCode) ?? false;
+const isCourseMetaChanged = subjectChange?.summary.courseMetaChangedCodes.includes(upperCourseCode) ?? false;
+const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
+const fetchReport = loadFetchReport();
+const syncedDate = toSvDate(fetchReport?.generatedAt);
 ---
 
 <Layout title={`${course.name} - ${subject.data.name} - GY25`}>
@@ -72,5 +80,23 @@ const { subject, course }: StaticPath['props'] = Astro.props;
       course={course}
       subject={subject}
     />
+
+    {subjectChange && (isCourseCentralChanged || isCourseMetaChanged || subjectChange.summary.purposeChanged) && (
+      <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <p>
+              Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span>
+            </p>
+            <p class="text-xs mt-1">
+              Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span>
+            </p>
+          </div>
+          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+            Se ändringar
+          </a>
+        </div>
+      </section>
+    )}
   </div>
 </Layout>

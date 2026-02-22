@@ -1,0 +1,38 @@
+---
+interface Props {
+  compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+---
+
+<section class={`w-full rounded-xl border border-amber-300 bg-amber-50 ${compact ? "p-3" : "p-4"} shadow-sm`}>
+  <div class="flex items-start gap-3">
+    <svg
+      class="mt-0.5 h-5 w-5 shrink-0 text-amber-700"
+      viewBox="0 0 20 20"
+      fill="currentColor"
+      aria-hidden="true"
+    >
+      <path
+        fill-rule="evenodd"
+        d="M18 10A8 8 0 114 3.074V3a1 1 0 10-2 0v4a1 1 0 001 1h4a1 1 0 100-2H4.332A6 6 0 1010 4a1 1 0 100-2 8 8 0 018 8zm-7 3a1 1 0 10-2 0 1 1 0 002 0zm-1-8a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z"
+        clip-rule="evenodd"
+      />
+    </svg>
+    <div class="min-w-0">
+      <p class="text-sm font-semibold text-amber-900">GY11 är en utgående läroplan</p>
+      <p class="mt-1 text-sm text-amber-900/90">
+        GY11 gäller i övergångsperioden till och med 2027. För aktuell läroplan och nya ämnesnivåer, använd GY25.
+      </p>
+      <div class="mt-2 flex flex-wrap items-center gap-4 text-sm">
+        <a href="/gy25" class="font-medium text-amber-900 underline decoration-amber-500/60 underline-offset-2 hover:text-amber-950">
+          Visa GY25
+        </a>
+        <a href="/compare" class="font-medium text-amber-900 underline decoration-amber-500/60 underline-offset-2 hover:text-amber-950">
+          Jämför GY11 och GY25
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

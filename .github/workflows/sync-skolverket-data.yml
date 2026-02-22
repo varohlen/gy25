@@ -1,0 +1,62 @@
+name: Sync Skolverket Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 05:15 och 17:15 UTC varje dag (två körningar/dygn)
+    - cron: "15 5,17 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-skolverket-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest curriculum data
+        run: npm run fetch-data
+
+      - name: Build change impact report
+        run: npm run analyze-changes
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            src/content/gy11-subjects \
+            src/content/gy25-subjects \
+            src/content/metadata/api-metadata.json \
+            scripts/state/fetch-report-latest.json \
+            scripts/state/fetch-state.json \
+            scripts/state/content-changelog-history.json \
+            scripts/state/change-impact-report.json \
+            scripts/state/change-impact-report.md
+
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(data): sync Skolverket content"
+          git push

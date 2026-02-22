@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Ändringsloggar - GY25.se">
+  <main class="max-w-4xl mx-auto px-4 py-14">
+    <h1 class="text-3xl font-bold text-gray-900 mb-4">Ändringsloggar</h1>
+    <p class="text-gray-600 mb-8">
+      Välj vilken typ av ändringar du vill se.
+    </p>
+
+    <div class="grid sm:grid-cols-2 gap-6">
+      <a href="/andringar/innehall" class="bg-emerald-50 border border-emerald-100 rounded-xl p-6 hover:shadow-md transition-shadow">
+        <h2 class="text-lg font-semibold text-emerald-900 mb-2">Innehåll (Skolverket/API)</h2>
+        <p class="text-sm text-emerald-900/90">Förändringar i läroplansdata och ämnesinnehåll.</p>
+      </a>
+      <a href="/andringar/webbplats" class="bg-blue-50 border border-blue-100 rounded-xl p-6 hover:shadow-md transition-shadow">
+        <h2 class="text-lg font-semibold text-blue-900 mb-2">Webbplats (gy25.se)</h2>
+        <p class="text-sm text-blue-900/90">Förändringar i funktioner, teknik och SEO på webbplatsen.</p>
+      </a>
+    </div>
+  </main>
+</Layout>

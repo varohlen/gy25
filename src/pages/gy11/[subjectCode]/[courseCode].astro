@@ -1,0 +1,89 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import CourseView from '../../../components/gy11course.astro';
+import GY11LegacyBanner from '../../../components/GY11LegacyBanner.astro';
+import { loadFetchReport, toSvDate } from '../../../utils/changelog';
+
+interface Course {
+  code: string;
+  name: string;
+  points?: string;
+  description?: string;
+  centralContent?: {
+    text: string;
+  };
+  knowledgeRequirements?: { text: string; gradeStep?: string }[];
+}
+
+interface StaticPath {
+  params: {
+    subjectCode: string;
+    courseCode: string;
+  };
+  props: {
+    subject: CollectionEntry<'gy11-subjects'>;
+    course: Course;
+  };
+}
+
+export async function getStaticPaths(): Promise<StaticPath[]> {
+  const subjects = await getCollection('gy11-subjects');
+  const paths: StaticPath[] = [];
+
+  subjects.forEach((subject) => {
+    subject.data.courses?.forEach((course) => {
+      paths.push({
+        params: {
+          subjectCode: subject.data.code.toLowerCase(),
+          courseCode: course.code.toLowerCase(),
+        },
+        props: { subject, course },
+      });
+    });
+  });
+
+  return paths;
+}
+
+const { subject, course }: StaticPath['props'] = Astro.props;
+const fetchReport = loadFetchReport();
+const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
+const syncedDate = toSvDate(fetchReport?.generatedAt);
+---
+
+<Layout title={`${course.name} - ${subject.data.name} - GY11`}>
+  <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
+    <div class="mb-8 flex justify-between items-center">
+      <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Tillbaka till GY11-kurser
+      </a>
+
+      <a href={`/gy11/${subject.data.code.toLowerCase()}`} class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
+        Till ämnet {subject.data.name}
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+
+    <div class="mb-6">
+      <GY11LegacyBanner compact />
+    </div>
+
+    <CourseView course={course} subject={subject} />
+
+    <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
+      <div class="flex flex-wrap items-center justify-between gap-3">
+        <div>
+          <p>Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span></p>
+          <p class="text-xs mt-1">Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span></p>
+        </div>
+        <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>
+      </div>
+    </section>
+  </div>
+</Layout>

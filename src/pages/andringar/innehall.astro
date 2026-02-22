@@ -1,0 +1,679 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import {
+    loadChangeImpactReport,
+    loadFetchHistory,
+    loadFetchReport,
+    toSvDate,
+} from "../../utils/changelog";
+
+const changeReport = loadChangeImpactReport();
+const fetchReport = loadFetchReport();
+const history = loadFetchHistory();
+const gy25Subjects = await getCollection("gy25-subjects");
+
+const subjectMetaByCode = new Map(
+    gy25Subjects.map((subject) => [
+        subject.data.code.toUpperCase(),
+        {
+            code: subject.data.code.toUpperCase(),
+            name: subject.data.name,
+            modifiedDate: subject.data.modifiedDate,
+            versionInfo: subject.data.versionInfo,
+        },
+    ]),
+);
+
+const gy25Entries = changeReport?.gy25.entries ?? [];
+const latestHistoryEntry = history?.entries?.[0] ?? null;
+
+const latestCodes = latestHistoryEntry
+    ? new Set([
+          ...latestHistoryEntry.versions.gy25.changedCodes,
+          ...latestHistoryEntry.versions.gy25.addedCodes,
+          ...latestHistoryEntry.versions.gy25.removedCodes,
+      ])
+    : null;
+const latestCodeCount =
+    (latestHistoryEntry?.versions.gy25.changedCodes.length ?? 0) +
+    (latestHistoryEntry?.versions.gy25.addedCodes.length ?? 0) +
+    (latestHistoryEntry?.versions.gy25.removedCodes.length ?? 0);
+const latestFetchedCount = latestHistoryEntry?.versions.gy25.fetchedCount ?? 0;
+const hasCompleteLatestCodeList =
+    !latestHistoryEntry || latestCodeCount >= latestFetchedCount;
+
+function isPedagogical(entry: (typeof gy25Entries)[number]) {
+    return (
+        entry.summary.addedCourses.length > 0 ||
+        entry.summary.removedCourses.length > 0 ||
+        entry.summary.knowledgeChanged ||
+        entry.summary.purposeChanged ||
+        entry.summary.subjectCentralChanged ||
+        entry.summary.courseCentralChangedCodes.length > 0
+    );
+}
+
+function pedagogicalSummary(entry: (typeof gy25Entries)[number]) {
+    const lines: string[] = [];
+    if (entry.summary.addedCourses.length > 0) {
+        lines.push(`Nya nivåer: ${entry.summary.addedCourses.join(", ")}`);
+    }
+    if (entry.summary.removedCourses.length > 0) {
+        lines.push(
+            `Borttagna nivåer: ${entry.summary.removedCourses.join(", ")}`,
+        );
+    }
+    if (entry.summary.knowledgeChanged) {
+        lines.push("Betygskriterier har ändrats.");
+    }
+    if (entry.summary.purposeChanged) {
+        lines.push("Ämnets syfte har justerats.");
+    }
+    if (entry.summary.subjectCentralChanged) {
+        lines.push("Centralt innehåll på ämnesnivå har justerats.");
+    }
+    if (entry.summary.courseCentralChangedCodes.length > 0) {
+        lines.push(
+            `Centralt innehåll ändrat i nivåer: ${entry.summary.courseCentralChangedCodes.join(", ")}`,
+        );
+    }
+    return lines;
+}
+
+const mappedAll = gy25Entries
+    .map((entry) => {
+        const meta = subjectMetaByCode.get(entry.code.toUpperCase());
+        return {
+            ...entry,
+            name: meta?.name ?? entry.code,
+            modifiedDate: meta?.modifiedDate ?? null,
+            versionInfo: meta?.versionInfo ?? null,
+        };
+    })
+    .sort((a, b) => a.name.localeCompare(b.name, "sv-SE"));
+
+const mapped =
+    hasCompleteLatestCodeList && latestCodes
+        ? mappedAll.filter((entry) => latestCodes.has(entry.code.toUpperCase()))
+        : mappedAll;
+
+const pedagogicalEntries = mapped.filter((entry) => isPedagogical(entry));
+const technicalEntries = mapped.filter((entry) => !isPedagogical(entry));
+const earliestHistoryEntry =
+    history?.entries?.[history.entries.length - 1] ?? null;
+const latestGy25Stats = latestHistoryEntry?.versions?.gy25;
+const latestChangedCount = hasCompleteLatestCodeList
+    ? (latestGy25Stats?.changedCodes.length ?? mapped.length)
+    : mappedAll.length;
+const latestAddedCount = latestGy25Stats?.addedCodes.length ?? 0;
+const latestRemovedCount = latestGy25Stats?.removedCodes.length ?? 0;
+const isInitialResync = latestHistoryEntry?.edgeCase.initialResync ?? false;
+const previousHistoryEntries = history?.entries?.slice(1, 13) ?? [];
+const changeFromDate =
+    latestHistoryEntry?.fromUpdatedAt ??
+    earliestHistoryEntry?.fromUpdatedAt ??
+    "2024-12-19T00:00:00.000Z";
+const changeToDate =
+    latestHistoryEntry?.toUpdatedAt ?? fetchReport?.generatedAt ?? null;
+const changeRangeLabel = `Ändrat från ${toSvDate(changeFromDate)} till ${toSvDate(changeToDate)}`;
+
+function formatHistoryRangeLabel(
+    entry: NonNullable<typeof history>["entries"][number],
+) {
+    return entry.fromUpdatedAt
+        ? `${toSvDate(entry.fromUpdatedAt)} → ${toSvDate(entry.toUpdatedAt)}`
+        : `Okänt startdatum → ${toSvDate(entry.toUpdatedAt)}`;
+}
+---
+
+<Layout title="Ändringar i innehåll (Skolverket/API) - GY25.se">
+    <main class="max-w-5xl mx-auto px-4 py-14">
+        <section class="mb-8">
+            <h1 class="text-3xl font-bold text-gray-900">
+                Ändringar i innehåll (Skolverket/API)
+            </h1>
+            <p class="mt-3 text-gray-600 max-w-3xl">
+                Här ser du vad som har ändrats i Skolverkets ämnesplaner för
+                GY25 sedan senaste uppdateringen.
+            </p>
+            <a
+                href="/andringar/webbplats"
+                class="inline-flex mt-4 text-sm font-medium text-blue-700 hover:text-blue-800"
+            >
+                Gå till changelog för webbplatsen
+            </a>
+        </section>
+
+        <hr class="border-gray-200 mb-8" />
+
+        <section class="mb-8">
+            <p
+                class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-3"
+            >
+                Statistik
+            </p>
+            <div class="grid md:grid-cols-3 gap-4">
+                <div
+                    class="rounded-xl border border-emerald-200 bg-emerald-50 p-4 shadow-sm"
+                >
+                    <p class="text-sm text-emerald-900/80">Senast hämtad</p>
+                    <p class="text-lg font-semibold text-emerald-950">
+                        {toSvDate(fetchReport?.generatedAt)}
+                    </p>
+                </div>
+                <div
+                    class="rounded-xl border border-blue-200 bg-blue-50 p-4 shadow-sm"
+                >
+                    <p class="text-sm text-blue-900/80">
+                        Skolverkets API-version
+                    </p>
+                    <p class="text-lg font-semibold text-blue-950">
+                        {fetchReport?.apiMetadata?.apiVersion ?? "okänd"}
+                    </p>
+                </div>
+                <div
+                    class="rounded-xl border border-slate-300 bg-slate-100 p-4 shadow-sm"
+                >
+                    <p class="text-sm text-slate-700">API-version publicerad</p>
+                    <p class="text-lg font-semibold text-slate-900">
+                        {toSvDate(fetchReport?.apiMetadata?.apiReleased)}
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <hr class="border-gray-200 mb-8" />
+
+        <section
+            class="mb-10 rounded-2xl border border-sky-200 bg-gradient-to-br from-sky-50 to-white p-6"
+        >
+            <p
+                class="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2"
+            >
+                Senaste ändring
+            </p>
+            <h2 class="text-2xl font-semibold text-sky-950">
+                {changeRangeLabel}
+            </h2>
+            <p class="mt-2 text-sm text-sky-900">
+                {latestChangedCount} ändrade ämnen, {latestAddedCount} nya och {
+                    latestRemovedCount
+                } borttagna i senaste uppdateringen.
+            </p>
+
+            <details
+                class="mt-4 rounded-xl border border-sky-200 bg-white/90 p-4"
+            >
+                <summary
+                    class="cursor-pointer text-sm font-semibold text-sky-900"
+                    >Visa vilka ämnen som ändrats</summary
+                >
+                <div class="mt-3 grid gap-3 md:grid-cols-2">
+                    <div class="rounded-lg border border-gray-200 bg-white p-3">
+                        <p
+                            class="text-xs uppercase tracking-wide text-gray-500"
+                        >
+                            Intervall
+                        </p>
+                        <p class="text-sm font-medium text-gray-900">
+                            {changeRangeLabel}
+                        </p>
+                    </div>
+                    <div class="rounded-lg border border-gray-200 bg-white p-3">
+                        <p
+                            class="text-xs uppercase tracking-wide text-gray-500"
+                        >
+                            Uppdaterad
+                        </p>
+                        <p class="text-sm font-medium text-gray-900">
+                            {toSvDate(fetchReport?.generatedAt)}
+                        </p>
+                    </div>
+                    <div class="rounded-lg border border-gray-200 bg-white p-3">
+                        <p
+                            class="text-xs uppercase tracking-wide text-gray-500"
+                        >
+                            API-version
+                        </p>
+                        <p class="text-sm font-medium text-gray-900">
+                            {fetchReport?.apiMetadata?.apiVersion ?? "okänd"}
+                        </p>
+                    </div>
+                    <div class="rounded-lg border border-gray-200 bg-white p-3">
+                        <p
+                            class="text-xs uppercase tracking-wide text-gray-500"
+                        >
+                            API-version publicerad
+                        </p>
+                        <p class="text-sm font-medium text-gray-900">
+                            {toSvDate(fetchReport?.apiMetadata?.apiReleased)}
+                        </p>
+                    </div>
+                </div>
+                {
+                    isInitialResync && (
+                        <p class="mt-3 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-sm text-amber-900">
+                            Det här är första loggposten i den nya historiken.
+                            Därför kan fler ändringar än vanligt visas
+                            samtidigt.
+                        </p>
+                    )
+                }
+                <div class="mt-5">
+                    <label
+                        for="subject-search"
+                        class="block text-sm font-medium text-gray-700 mb-2"
+                    >
+                        Sök ämne eller ämneskod
+                    </label>
+                    <input
+                        id="subject-search"
+                        type="text"
+                        placeholder="Exempel: matematik, MATE, svenska..."
+                        class="w-full rounded-lg border border-gray-300 px-4 py-3 text-base focus:border-blue-500 focus:ring-2 focus:ring-blue-500 outline-none"
+                    />
+                </div>
+
+                <section class="mt-6">
+                    <div
+                        class="flex flex-wrap items-center justify-between gap-3 mb-4"
+                    >
+                        <h3 class="text-xl font-semibold text-gray-900">
+                            Ändringar som kan påverka undervisning (GY25)
+                        </h3>
+                        <span class="text-sm text-gray-500"
+                            >{pedagogicalEntries.length} ämnen</span
+                        >
+                    </div>
+
+                    {
+                        pedagogicalEntries.length === 0 ? (
+                            <div class="bg-white border border-gray-100 rounded-xl p-6 text-gray-600">
+                                Inga undervisningsrelevanta ändringar
+                                identifierades i aktuell jämförelse.
+                            </div>
+                        ) : (
+                            <div id="pedagogical-list" class="space-y-3">
+                                {pedagogicalEntries.map((entry) => {
+                                    const searchTerms =
+                                        `${entry.name} ${entry.code}`.toLowerCase();
+                                    const summary = pedagogicalSummary(entry);
+                                    return (
+                                        <article
+                                            data-search={searchTerms}
+                                            class="result-card bg-white border border-gray-100 rounded-xl p-5 shadow-sm"
+                                        >
+                                            <div class="flex flex-wrap items-start justify-between gap-3">
+                                                <div>
+                                                    <h3 class="text-lg font-semibold text-gray-900">
+                                                        <a
+                                                            href={`/gy25/${entry.code.toLowerCase()}`}
+                                                            class="hover:text-blue-700"
+                                                        >
+                                                            {entry.name}
+                                                        </a>
+                                                    </h3>
+                                                    <p class="text-sm text-gray-500">
+                                                        {entry.code}
+                                                    </p>
+                                                </div>
+                                                <div class="text-sm text-gray-600 text-right">
+                                                    <p>
+                                                        Ändrad hos Skolverket:{" "}
+                                                        <span class="font-medium text-gray-800">
+                                                            {toSvDate(
+                                                                entry.modifiedDate,
+                                                            )}
+                                                        </span>
+                                                    </p>
+                                                    <p class="text-xs text-gray-500 mt-1">
+                                                        Senast hämtad av gy25.se:{" "}
+                                                        {toSvDate(
+                                                            fetchReport?.generatedAt,
+                                                        )}
+                                                    </p>
+                                                    {entry.versionInfo && (
+                                                        <p class="text-xs text-gray-500 mt-1">
+                                                            Skolverkets
+                                                            notering:{" "}
+                                                            {entry.versionInfo}
+                                                        </p>
+                                                    )}
+                                                </div>
+                                            </div>
+
+                                            <ul class="mt-3 text-sm text-gray-700 space-y-1">
+                                                {summary.map((line) => (
+                                                    <li>{line}</li>
+                                                ))}
+                                            </ul>
+
+                                            {entry.details && (
+                                                <details class="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-3">
+                                                    <summary class="cursor-pointer text-sm font-semibold text-slate-900">
+                                                        Visa vad som ändrats
+                                                    </summary>
+                                                    <div class="mt-3 space-y-3 text-sm text-slate-800">
+                                                        {entry.details.purpose
+                                                            .length > 0 && (
+                                                            <section>
+                                                                <h4 class="font-semibold text-slate-900">
+                                                                    Syfte
+                                                                </h4>
+                                                                <ul class="mt-1 list-disc pl-5 space-y-1">
+                                                                    {entry.details.purpose.map(
+                                                                        (
+                                                                            item,
+                                                                        ) => (
+                                                                            <li>
+                                                                                {
+                                                                                    item
+                                                                                }
+                                                                            </li>
+                                                                        ),
+                                                                    )}
+                                                                </ul>
+                                                            </section>
+                                                        )}
+                                                        {entry.details
+                                                            .centralContent
+                                                            .length > 0 && (
+                                                            <section>
+                                                                <h4 class="font-semibold text-slate-900">
+                                                                    Centralt
+                                                                    innehåll i
+                                                                    nivån
+                                                                </h4>
+                                                                <ul class="mt-1 list-disc pl-5 space-y-1">
+                                                                    {entry.details.centralContent.map(
+                                                                        (
+                                                                            item,
+                                                                        ) => (
+                                                                            <li>
+                                                                                {
+                                                                                    item
+                                                                                }
+                                                                            </li>
+                                                                        ),
+                                                                    )}
+                                                                </ul>
+                                                            </section>
+                                                        )}
+                                                        {entry.details
+                                                            .gradeCriteria
+                                                            .length > 0 && (
+                                                            <section>
+                                                                <h4 class="font-semibold text-slate-900">
+                                                                    Betygskriterier
+                                                                </h4>
+                                                                <ul class="mt-1 list-disc pl-5 space-y-1">
+                                                                    {entry.details.gradeCriteria.map(
+                                                                        (
+                                                                            item,
+                                                                        ) => (
+                                                                            <li>
+                                                                                {
+                                                                                    item
+                                                                                }
+                                                                            </li>
+                                                                        ),
+                                                                    )}
+                                                                </ul>
+                                                            </section>
+                                                        )}
+                                                        {entry.details.courses
+                                                            .length > 0 && (
+                                                            <section>
+                                                                <h4 class="font-semibold text-slate-900">
+                                                                    Ändringar
+                                                                    per nivå
+                                                                </h4>
+                                                                <ul class="mt-1 list-disc pl-5 space-y-1">
+                                                                    {entry.details.courses.map(
+                                                                        (
+                                                                            item,
+                                                                        ) => (
+                                                                            <li>
+                                                                                {
+                                                                                    item
+                                                                                }
+                                                                            </li>
+                                                                        ),
+                                                                    )}
+                                                                </ul>
+                                                            </section>
+                                                        )}
+                                                    </div>
+                                                </details>
+                                            )}
+                                        </article>
+                                    );
+                                })}
+                            </div>
+                        )
+                    }
+                </section>
+
+                <details
+                    class="mt-6 rounded-xl border border-gray-200 bg-gray-50 p-4"
+                >
+                    <summary
+                        class="cursor-pointer text-base font-semibold text-gray-900"
+                    >
+                        Tekniska detaljändringar
+                    </summary>
+                    <p class="text-sm text-gray-600 mt-1">
+                        Här visas främst tekniska eller administrativa
+                        justeringar som sällan påverkar undervisningen direkt.
+                    </p>
+                    <div id="technical-list" class="space-y-2 mt-4">
+                        {
+                            technicalEntries.map((entry) => {
+                                const searchTerms =
+                                    `${entry.name} ${entry.code}`.toLowerCase();
+                                return (
+                                    <article
+                                        data-search={searchTerms}
+                                        class="result-card rounded-lg border border-gray-100 bg-white px-4 py-3"
+                                    >
+                                        <div class="flex flex-wrap items-center justify-between gap-2">
+                                            <p class="text-sm text-gray-800">
+                                                <a
+                                                    href={`/gy25/${entry.code.toLowerCase()}`}
+                                                    class="font-medium hover:text-blue-700"
+                                                >
+                                                    {entry.name}
+                                                </a>{" "}
+                                                <span class="text-gray-500">
+                                                    ({entry.code})
+                                                </span>
+                                            </p>
+                                            <div class="text-right">
+                                                <p class="text-xs text-gray-600">
+                                                    Ändrad hos Skolverket:{" "}
+                                                    {toSvDate(entry.modifiedDate)}
+                                                </p>
+                                                <p class="text-xs text-gray-500 mt-1">
+                                                    Hämtad av gy25.se:{" "}
+                                                    {toSvDate(
+                                                        fetchReport?.generatedAt,
+                                                    )}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                );
+                            })
+                        }
+                    </div>
+                </details>
+            </details>
+        </section>
+
+        {
+            history?.entries && history.entries.length > 0 && (
+                <section class="mt-10 bg-white border border-gray-100 rounded-xl p-6">
+                    <h2 class="text-xl font-semibold text-gray-900 mb-4">
+                        Tidigare uppdateringar
+                    </h2>
+                    {previousHistoryEntries.length === 0 ? (
+                        <p class="text-sm text-gray-600">
+                            Inga äldre uppdateringar finns ännu. Historiken
+                            uppdateras löpande efter uppdatering.
+                        </p>
+                    ) : (
+                        <div class="space-y-3">
+                            {previousHistoryEntries.map((entry) => (
+                                <article class="rounded-lg border border-gray-100 bg-gray-50 p-4">
+                                    <p class="text-sm font-medium text-gray-900">
+                                        {formatHistoryRangeLabel(entry)}
+                                    </p>
+                                    <p class="text-xs text-gray-600 mt-1">
+                                        GY25:{" "}
+                                        {
+                                            entry.versions.gy25.changedCodes
+                                                .length
+                                        }{" "}
+                                        ändrade,{" "}
+                                        {entry.versions.gy25.addedCodes.length}{" "}
+                                        tillagda och{" "}
+                                        {
+                                            entry.versions.gy25.removedCodes
+                                                .length
+                                        }{" "}
+                                        borttagna ämnen
+                                    </p>
+
+                                    <details class="mt-3 rounded-lg border border-gray-200 bg-white p-3">
+                                        <summary class="cursor-pointer text-sm font-semibold text-gray-900">
+                                            Visa detaljer
+                                        </summary>
+                                        <div class="mt-3 grid gap-3 md:grid-cols-2 text-sm">
+                                            <div class="rounded-lg border border-gray-200 bg-gray-50 p-3">
+                                                <p class="text-xs uppercase tracking-wide text-gray-500">
+                                                    Intervall
+                                                </p>
+                                                <p class="font-medium text-gray-900">
+                                                    {formatHistoryRangeLabel(
+                                                        entry,
+                                                    )}
+                                                </p>
+                                            </div>
+                                            <div class="rounded-lg border border-gray-200 bg-gray-50 p-3">
+                                                <p class="text-xs uppercase tracking-wide text-gray-500">
+                                                    Loggad
+                                                </p>
+                                                <p class="font-medium text-gray-900">
+                                                    {toSvDate(entry.recordedAt)}
+                                                </p>
+                                            </div>
+                                            <div class="rounded-lg border border-gray-200 bg-gray-50 p-3">
+                                                <p class="text-xs uppercase tracking-wide text-gray-500">
+                                                    API-version
+                                                </p>
+                                                <p class="font-medium text-gray-900">
+                                                    {
+                                                        entry.apiMetadata
+                                                            .apiVersion
+                                                    }
+                                                </p>
+                                            </div>
+                                            <div class="rounded-lg border border-gray-200 bg-gray-50 p-3">
+                                                <p class="text-xs uppercase tracking-wide text-gray-500">
+                                                    API-version publicerad
+                                                </p>
+                                                <p class="font-medium text-gray-900">
+                                                    {toSvDate(
+                                                        entry.apiMetadata
+                                                            .apiReleased,
+                                                    )}
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="mt-3 rounded-lg border border-gray-200 bg-gray-50 p-3">
+                                            <p class="text-xs uppercase tracking-wide text-gray-500">
+                                                GY25-koder i denna uppdatering
+                                            </p>
+                                            <p class="text-xs text-gray-600 mt-1">
+                                                Ändrade:{" "}
+                                                {
+                                                    entry.versions.gy25
+                                                        .changedCodes.length
+                                                }
+                                                , Tillagda:{" "}
+                                                {
+                                                    entry.versions.gy25
+                                                        .addedCodes.length
+                                                }
+                                                , Borttagna:{" "}
+                                                {
+                                                    entry.versions.gy25
+                                                        .removedCodes.length
+                                                }
+                                            </p>
+                                            <div class="mt-2 flex flex-wrap gap-2">
+                                                {entry.versions.gy25.changedCodes
+                                                    .slice(0, 24)
+                                                    .map((code) => (
+                                                        <a
+                                                            href={`/gy25/${code.toLowerCase()}`}
+                                                            class="inline-flex rounded-md border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 hover:text-blue-700"
+                                                        >
+                                                            {code}
+                                                        </a>
+                                                    ))}
+                                                {entry.versions.gy25
+                                                    .changedCodes.length >
+                                                    24 && (
+                                                    <span class="inline-flex rounded-md border border-gray-200 bg-white px-2 py-1 text-xs text-gray-500">
+                                                        +
+                                                        {entry.versions.gy25
+                                                            .changedCodes
+                                                            .length - 24}{" "}
+                                                        fler
+                                                    </span>
+                                                )}
+                                            </div>
+                                        </div>
+
+                                        {(entry.edgeCase.initialResync ||
+                                            entry.edgeCase.longGapDays) && (
+                                            <p class="mt-3 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-sm text-amber-900">
+                                                {entry.edgeCase.initialResync
+                                                    ? "Första historikposten i den nya loggen."
+                                                    : `Lång tid mellan synkar: cirka ${entry.edgeCase.longGapDays} dagar.`}
+                                            </p>
+                                        )}
+                                    </details>
+                                </article>
+                            ))}
+                        </div>
+                    )}
+                </section>
+            )
+        }
+    </main>
+</Layout>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const input = document.getElementById("subject-search");
+        if (!input) return;
+
+        const cards = Array.from(document.querySelectorAll(".result-card"));
+        const filter = () => {
+            const term = (input as HTMLInputElement).value.trim().toLowerCase();
+            cards.forEach((card) => {
+                const search = (
+                    card.getAttribute("data-search") || ""
+                ).toLowerCase();
+                (card as HTMLElement).style.display =
+                    !term || search.includes(term) ? "" : "none";
+            });
+        };
+
+        input.addEventListener("input", filter);
+    });
+</script>

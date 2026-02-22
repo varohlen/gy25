@@ -1,81 +1,95 @@
-# GY25 - Utforska den nya gymnasiereformen
+# gy25.se
 
-En webbapplikation för att utforska och förstå den nya gymnasiereformen GY25. Projektet är byggt med [Astro](https://astro.build) och hämtar data direkt från Skolverkets API.
+En statisk Astro-sajt som presenterar Skolverkets läroplansdata (framför allt GY25) i ett mer lättläst format.
 
-## Funktioner
+Produktionsdomän: [https://gy25.se](https://gy25.se)
 
-- **Ämnesöversikt**: Bläddra genom alla ämnen i GY25
-- **Nivåöversikt**: Se alla nivåer (tidigare kurser) listade
-- **Sökfunktion**: Sök bland ämnen och nivåer
-- **Jämförelse**: Jämför ämnen mellan GY11 och GY25
-- **Automatisk uppdatering**: Data hämtas direkt från Skolverket
+## Nuläge (februari 2026)
 
-## Teknisk översikt
+- Primärt fokus: GY25 (ämnen och nivåer).
+- Extra vy finns för GY11 (relevant under övergångsperioden).
+- Jämförelsesidor mellan GY11 och GY25 finns kvar.
+- Innehåll hämtas från Skolverkets Syllabus API v1 och sparas som Astro content collections.
+- Separata changelog-sidor finns för:
+  - innehållsändringar från API (`/andringar/innehall`)
+  - webbplatsändringar (`/andringar/webbplats`)
 
-Projektet använder följande teknologier:
+## Teknik
 
-- [Astro](https://astro.build) - Web framework
-- [Tailwind CSS](https://tailwindcss.com) - Styling
-- [TypeScript](https://www.typescriptlang.org) - Type safety
-- Skolverkets API - Data source
+- Astro 5
+- Tailwind CSS 3
+- Cloudflare-adapter (statiskt bygge)
+- Sitemap via `@astrojs/sitemap`
 
-## Utveckling
+## Projektstruktur (viktigast)
 
-### Förutsättningar
+- `src/pages/gy25/*` - GY25-vyer
+- `src/pages/gy11/*` - GY11-vyer
+- `src/pages/compare/*` - jämförelsevyer
+- `src/pages/andringar/*` - changelog-sidor
+- `src/content/gy25-subjects/*` - hämtad GY25-data
+- `src/content/gy11-subjects/*` - hämtad GY11-data
+- `src/content/site-changelog/*` - webbplatsens changelog-poster
+- `src/content/metadata/api-metadata.json` - API-version/status
+- `scripts/fetch-skolverket-data.ts` - hämtning + lokal sync
+- `scripts/analyze-curriculum-changes.ts` - diff/analysrapporter
+- `scripts/state/*` - genererade tillstånds- och rapportfiler
+- `docs/TODO-skolverket-syllabus-v2.md` - parkerad plan för API v2
 
-- Node.js 18 eller senare
-- npm
+## Kom igång lokalt
 
-### Installation
-
-1. Klona repot
-```bash
-git clone https://github.com/varohlen/gy25.git
-cd gy25
-```
-
-2. Installera dependencies
 ```bash
 npm install
-```
-
-3. Starta utvecklingsservern
-```bash
 npm run dev
 ```
 
-### Kommandon
+## Scripts
 
-| Kommando                  | Funktion                                         |
-| :----------------------- | :----------------------------------------------- |
-| `npm install`            | Installera dependencies                          |
-| `npm run dev`            | Starta utvecklingsserver på `localhost:4321`     |
-| `npm run build`          | Bygg produktionsversion till `./dist/`           |
-| `npm run preview`        | Förhandsgranska byggd sida lokalt               |
-| `npm run fetch-data`     | Uppdatera data från Skolverkets API             |
+```bash
+# Hämta/synka data från Skolverket
+npm run fetch-data
 
-## Bidra
+# Skapa full ändringsrapport (använder git diff mot HEAD)
+npm run analyze-changes
 
-Bidrag är välkomna! Om du vill bidra:
+# Lista ändrade ämnen
+npm run subject-list
 
-1. Forka repot
-2. Skapa en feature branch (`git checkout -b feature/AmazingFeature`)
-3. Committa dina ändringar (`git commit -m 'Add some AmazingFeature'`)
-4. Pusha till branchen (`git push origin feature/AmazingFeature`)
-5. Öppna en Pull Request
+# Detaljdiff för ett ämne
+npm run subject-diff -- gy25 SAKE
+npm run subject-diff -- gy25 FYSK
+```
+
+## Dataflöde i korthet
+
+1. `fetch-data` hämtar ämneslistor och ämnesdokument för GY11/GY25.
+2. JSON-filer i `src/content/*-subjects/` uppdateras endast där förändring finns.
+3. Metadata + historik skrivs till `scripts/state/`.
+4. `analyze-changes` tar fram pedagogiska och tekniska ändringar per ämne.
+5. `/andringar/innehall` visar senaste relevanta ändringar för användare.
+
+## Automatisk uppdatering (GitHub Actions)
+
+- Workflow: `.github/workflows/sync-skolverket-data.yml`
+- Körs schemalagt två gånger per dygn samt manuellt via `workflow_dispatch`.
+- Flöde:
+  1. installerar beroenden
+  2. kör `npm run fetch-data`
+  3. kör `npm run analyze-changes`
+  4. committar endast om datafiler faktiskt har ändrats
+- Om repo är kopplat till deploy på `main` triggas ny deploy automatiskt efter commit.
+
+## SEO-principer
+
+- Behåll stabila URL:er (särskilt ämnes- och nivåsidor).
+- Undvik att byta slug-struktur i onödan.
+- Sitemapen byggs automatiskt i Astro-build.
+- Ändringar i innehåll bör uppdatera "senast hämtad"/changelog i stället för att flytta sidor.
+
+## Om GitHub Releases
+
+GitHub Releases är inte ett krav för projektet, men kan vara bra vid större milstolpar (t.ex. större redesign, API-migrering, ny informationsarkitektur). För löpande mindre förbättringar räcker changelog-sidor + vanliga commits.
 
 ## Licens
 
-Detta projekt är licensierat under MIT License - se [LICENSE](LICENSE) filen för detaljer.
-
-## Skapare
-
-**Viktor Arohlén**
-
-- Webbsida: [arohlen.se](https://arohlen.se)
-- GitHub: [@varohlen](https://github.com/varohlen)
-
-## Relaterade projekt
-
-- [Summor.se](https://summor.se) - Sammanfattningar i gymnasiekurser
-- [Tallinje.se](https://tallinje.se) - Interaktiv tallinje för matematikundervisning
+MIT (`LICENSE`)

@@ -81,6 +81,15 @@ const metadataSchema = z.object({
   apiStatus: z.string(),
 });
 
+// Schema for site changelog entries
+const siteChangelogSchema = z.object({
+  date: z.string(),
+  title: z.string(),
+  category: z.enum(['Funktion', 'Innehåll', 'Teknik', 'SEO']),
+  summary: z.string(),
+  details: z.array(z.string()).optional(),
+});
+
 // Define collections
 export const collections = {
   'gy11-subjects': defineCollection({
@@ -94,5 +103,9 @@ export const collections = {
   'metadata': defineCollection({
     type: 'data',
     schema: metadataSchema,
+  }),
+  'site-changelog': defineCollection({
+    type: 'data',
+    schema: siteChangelogSchema,
   }),
 };
