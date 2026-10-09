@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import {
     loadChangeImpactReport,
+    getChangeReportId,
+    loadArchivedChangeReport,
     loadFetchHistory,
     loadFetchReport,
     toSvDate,
@@ -86,9 +88,9 @@ const mappedAll = gy25Entries
         const meta = subjectMetaByCode.get(entry.code.toUpperCase());
         return {
             ...entry,
-            name: meta?.name ?? entry.code,
-            modifiedDate: meta?.modifiedDate ?? null,
-            versionInfo: meta?.versionInfo ?? null,
+            name: entry.name ?? meta?.name ?? entry.code,
+            modifiedDate: entry.modifiedDate ?? meta?.modifiedDate,
+            versionInfo: entry.versionInfo ?? meta?.versionInfo,
         };
     })
     .sort((a, b) => a.name.localeCompare(b.name, "sv-SE"));
@@ -109,7 +111,8 @@ const latestChangedCount = hasCompleteLatestCodeList
 const latestAddedCount = latestGy25Stats?.addedCodes.length ?? 0;
 const latestRemovedCount = latestGy25Stats?.removedCodes.length ?? 0;
 const isInitialResync = latestHistoryEntry?.edgeCase.initialResync ?? false;
-const previousHistoryEntries = history?.entries?.slice(1, 13) ?? [];
+const previousHistoryEntries = history?.entries?.slice(1) ?? [];
+const latestArchive = latestHistoryEntry ? loadArchivedChangeReport(latestHistoryEntry) : null;
 const changeFromDate =
     latestHistoryEntry?.fromUpdatedAt ??
     earliestHistoryEntry?.fromUpdatedAt ??
@@ -201,6 +204,14 @@ function formatHistoryRangeLabel(
                     latestRemovedCount
                 } borttagna i senaste uppdateringen.
             </p>
+            {latestArchive && (
+                <a
+                    href={`/andringar/innehall/${getChangeReportId(latestArchive.entry)}/`}
+                    class="inline-flex mt-3 text-sm font-semibold text-blue-700 hover:text-blue-800 underline underline-offset-2"
+                >
+                    Läs hela ändringsrapporten för denna uppdatering
+                </a>
+            )}
 
             <details
                 class="mt-4 rounded-xl border border-sky-200 bg-white/90 p-4"
@@ -544,6 +555,15 @@ function formatHistoryRangeLabel(
                                         }{" "}
                                         borttagna ämnen
                                     </p>
+
+                                    {loadArchivedChangeReport(entry) && (
+                                        <a
+                                            href={`/andringar/innehall/${getChangeReportId(entry)}/`}
+                                            class="inline-flex mt-3 text-sm font-semibold text-blue-700 hover:text-blue-800 underline underline-offset-2"
+                                        >
+                                            Läs hela ändringsrapporten
+                                        </a>
+                                    )}
 
                                     <details class="mt-3 rounded-lg border border-gray-200 bg-white p-3">
                                         <summary class="cursor-pointer text-sm font-semibold text-gray-900">

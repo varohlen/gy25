@@ -59,7 +59,8 @@ jobs:
             scripts/state/fetch-state.json \
             scripts/state/content-changelog-history.json \
             scripts/state/change-impact-report.json \
-            scripts/state/change-impact-report.md
+            scripts/state/change-impact-report.md \
+            scripts/state/change-reports
 
           if git diff --cached --quiet; then
             echo "No content changes to commit."
