@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "code": "OTHER",
+      "name": "Vissa ämne"
+    }
+  ],
+  "code": "PROB",
+  "courses": [
+    {
+      "centralCntHeading": "<h3>Centralt innehåll</h3>",
+      "centralContent": {
+        "text": "<p>Undervisningen i ämnet projektering – bygg på nivå 1 ska behandla följande centrala innehåll:</p><p>Byggtekniska handlingar</p><ul><li>Hur byggtekniska handlingar tas fram, däribland med hänsyn tagen till säkerhet, tillgänglighet och hållbarhet.</li><li>Framställning av ritningar för byggtekniska projekt med hjälp av cad-program.</li><li>Framställning av material- och kostnadskalkyler med hjälp av kalkylprogram.</li><li>Byggnadsinformationsmodellering (BIM), däribland dess konsekvenser för projekteringsarbetet.</li></ul><p>Genomförande</p><ul><li>Hur projekteringsfasen planeras och organiseras på ett hållbart sätt.</li><li>Hur projektering genomförs i dialog med beställare och övriga konsulter.</li></ul><p>Dokumentation och kommunikation</p><ul><li>Formulering av beställares krav i en teknisk beskrivning med ledning av AMA Anläggning (Allmän material- och arbetsbeskrivning för anläggningsarbeten) och AMA Hus (Allmän material- och arbetsbeskrivning för husbyggnadsarbeten).</li><li>Dokumentation av ändring i projekt genom relationshandlingar.</li><li>Dokumentation av projekteringshändelse, till exempel beslutsunderlag och protokoll från projekteringsmöten.</li><li>Teknisk kommunikation, däribland offerter och avtal.</li><li>Lagar och andra bestämmelser inom området, däribland Boverkets byggregler (BBR) samt hur dessa påverkar utformningen av byggtekniska handlingar.</li><li>Rittekniska regler och deras användning inom planering, projektering och konstruktion av bygghandlingar.</li><li>AMA Anläggning och AMA hus, däribland struktur, användningsform och funktion i en teknisk beskrivning samt koppling till byggtekniska ritningar.</li></ul>"
+      },
+      "code": "PROB100TX",
+      "codeHeading": "<h3>Nivåkod: PROB100TX</h3>",
+      "description": "<p></p>",
+      "name": "Nivå 1",
+      "nameHeading": "<h2>Nivå 1, 100 poäng</h2>",
+      "points": "100",
+      "sortOrder": 1,
+      "typeOfSyllabus": "LEVEL_IN_GRADE_SUBJECT_SYLLABUS"
+    }
+  ],
+  "description": "<p>Ämnet projektering – bygg behandlar det utredningsarbete som föregår ett byggande, från beställning till upphandling. Byggprojektering är grunden för övrigt konsultarbete i ett bygge och har därför en central roll i projekteringsfasen. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.</p>",
+  "knowledgeReqsHeading": "<h3>Betygskriterier</h3><p>Av 15 kap. 24 § andra stycket skollagen (2010:800) följer att läraren vid betygssättningen i ett ämne ska göra en sammantagen bedömning av elevens kunskaper på den aktuella nivån i ämnet i förhållande till de betygskriterier som gäller för ämnet som helhet och sätta det betyg som bäst motsvarar elevens kunskaper. Samtliga kriterier för betyget E ska dock vara uppfyllda för att eleven ska kunna få ett godkänt betyg.</p>",
+  "knowledgeRequirements": [
+    {
+      "gradeStep": "E",
+      "text": "<h4><i>Betyget E</i></h4><p>Eleven framställer teknisk dokumentation för projektering inom byggområdet på ett <strong>fungerande</strong> sätt. I arbetet med byggprojektering använder eleven relevant it-stöd.</p><p>Eleven planerar, organiserar och genomför projektering av byggprojekt på ett <strong>fungerande</strong> sätt och kommunicerar teknisk dokumentation.</p><p>Eleven visar <strong>godtagbara</strong> kunskaper om projektering av byggnadsverk i enlighet med lagar och andra bestämmelser samt med hänsyn till säkerhet, miljö och tillgänglighet.</p>"
+    },
+    {
+      "gradeStep": "D",
+      "text": "<h4><i>Betyget D</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan C och E.</p>"
+    },
+    {
+      "gradeStep": "C",
+      "text": "<h4><i>Betyget C</i></h4><p>Eleven framställer teknisk dokumentation för projektering inom byggområdet på ett <strong>väl fungerande</strong> sätt. I arbetet med byggprojektering använder eleven relevant it-stöd.</p><p>Eleven planerar, organiserar och genomför projektering av byggprojekt på ett <strong>väl fungerande</strong> sätt och kommunicerar teknisk dokumentation.</p><p>Eleven visar <strong>goda</strong> kunskaper om projektering av byggnadsverk i enlighet med lagar och andra bestämmelser samt med hänsyn till säkerhet, miljö och tillgänglighet.</p>"
+    },
+    {
+      "gradeStep": "B",
+      "text": "<h4><i>Betyget B</i></h4><p>Elevens kunskaper bedöms sammantaget vara mellan A och C.</p>"
+    },
+    {
+      "gradeStep": "A",
+      "text": "<h4><i>Betyget A</i></h4><p>Eleven framställer teknisk dokumentation för projektering inom byggområdet på ett <strong>mycket väl fungerande</strong> sätt. I arbetet med byggprojektering använder eleven relevant it-stöd.</p><p>Eleven planerar, organiserar och genomför projektering av byggprojekt på ett <strong>mycket väl fungerande</strong> sätt och kommunicerar teknisk dokumentation.</p><p>Eleven visar <strong>mycket goda</strong> kunskaper om projektering av byggnadsverk i enlighet med lagar och andra bestämmelser samt med hänsyn till säkerhet, miljö och tillgänglighet.</p>"
+    }
+  ],
+  "modifiedDate": "2026-06-10",
+  "name": "Projektering – bygg",
+  "nameHeading": "<h2>Projektering – bygg</h2>",
+  "purpose": "<p>Undervisningen i ämnet projektering – bygg ska syfta till att eleverna utvecklar kunskaper om projektering när bygg- och anläggningsarbeten av olika slag planeras och konstrueras. Eleverna ska även ges möjlighet att utveckla kunskaper om hur byggprocesser genomförs samt hur projekteringen dokumenteras.</p><p>Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur projektering av byggnadsverk genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur byggnadsverk utformas i enlighet med funktionskrav från beställaren. Dessutom ska undervisningen bidra till att eleverna utvecklar förmåga att planera, organisera och genomföra projekteringsarbete samt att kommunicera förslag och lösningar. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser samt standarder för byggnation.</p><p>Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och därigenom bidra till att eleverna utvecklar förmåga att framställa byggtekniska handlingar såsom underlag för tekniska beskrivningar, ritningsunderlag och projektkalkyler för byggnadsverk.</p><p>I undervisningen ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom byggområdet. På så vis ska eleverna ges möjlighet att omsätta sina kunskaper om projektering till omdömesgilla och praktiska handlingar.</p><h5><em>Undervisningen i ämnet projektering – bygg ska ge eleverna förutsättningar att utveckla följande:</em></h5><ul><li>Förmåga att framställa projekteringsunderlag för byggområdet med hjälp av it-stöd.</li><li>Förmåga att planera, organisera och genomföra projekteringsarbete samt att kommunicera teknisk dokumentation för byggprojektering.</li><li>Kunskaper om hur byggprojektering genomförs i enlighet med lagar och andra bestämmelser samt med hänsyn till säkerhet, miljö och tillgänglighet.</li></ul><h3>Nivåer i ämnet projektering – bygg</h3><ul><li>Nivå 1, 100 poäng. </li></ul>",
+  "purposeHeading": "<h3>Ämnets syfte</h3>",
+  "reform": "GY25",
+  "schoolTypes": [
+    "GY"
+  ],
+  "skolfsGrund": "2026:22",
+  "startDate": "2026-07-01",
+  "typeOfSyllabus": "GRADE_SUBJECT_SYLLABUS",
+  "version": "gy25",
+  "versionInfo": "Första version",
+  "lastUpdated": "2026-10-06T11:22:08.731Z"
+}

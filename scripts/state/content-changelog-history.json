@@ -2,6 +2,63 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "2026-10-06T11:22:08.731Z-7c5e5e2f-56ae-4877-976e-832438041a13",
+      "recordedAt": "2026-10-06T11:22:08.731Z",
+      "fromUpdatedAt": "2026-02-20T21:28:17.151Z",
+      "toUpdatedAt": "2026-10-06T11:22:08.731Z",
+      "baselineLabel": "Diff from previous sync (2026-02-20T21:28:17.151Z -> 2026-10-06T11:22:08.731Z)",
+      "edgeCase": {
+        "initialResync": false,
+        "longGapDays": 227
+      },
+      "apiMetadata": {
+        "apiVersion": "1.16.2-SNAPSHOT",
+        "apiReleased": "2026-05-08",
+        "apiStatus": "active"
+      },
+      "versions": {
+        "gy11": {
+          "subjectCount": 311,
+          "fetchedCount": 0,
+          "removedCount": 0,
+          "unchangedCount": 311,
+          "addedCodes": [],
+          "removedCodes": [],
+          "changedCodes": []
+        },
+        "gy25": {
+          "subjectCount": 569,
+          "fetchedCount": 19,
+          "removedCount": 0,
+          "unchangedCount": 550,
+          "addedCodes": [
+            "INDY",
+            "PLAB",
+            "PROB",
+            "STAS"
+          ],
+          "removedCodes": [],
+          "changedCodes": [
+            "ATVO",
+            "BYGN",
+            "FINI",
+            "FINN",
+            "GLAS",
+            "HAND",
+            "HJUL",
+            "HUMN",
+            "KULT",
+            "LASO",
+            "MALE",
+            "STAD",
+            "STES",
+            "TAKO",
+            "TATS"
+          ]
+        }
+      }
+    },
+    {
       "id": "2026-02-20T21:28:17.151Z",
       "recordedAt": "2026-02-20T21:28:17.151Z",
       "fromUpdatedAt": "2024-12-19T00:00:00.000Z",

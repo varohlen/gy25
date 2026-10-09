@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-20T21:28:17.151Z",
+  "generatedAt": "2026-10-06T11:22:08.731Z",
   "apiMetadata": {
-    "apiVersion": "1.16.0",
-    "apiReleased": "2026-01-19",
+    "apiVersion": "1.16.2-SNAPSHOT",
+    "apiReleased": "2026-05-08",
     "apiStatus": "active"
   },
   "gy25DateOverride": null,
@@ -11,54 +11,68 @@
       "version": "gy11",
       "status": "ok",
       "subjectCount": 311,
-      "toFetchCount": 311,
-      "fetchedCount": 311,
+      "toFetchCount": 0,
+      "fetchedCount": 0,
       "removedCount": 0,
-      "unchangedCount": 0,
+      "unchangedCount": 311,
       "addedSample": [],
       "removedSample": [],
-      "changedSample": [
-        "ADM",
-        "AFF",
-        "AKT",
-        "ANA",
-        "ANI",
-        "ANL",
-        "ANO",
-        "ARK",
-        "ART",
-        "ATO"
-      ]
+      "changedSample": [],
+      "addedCodes": [],
+      "changedCodes": [],
+      "removedCodes": []
     },
     "gy25": {
       "version": "gy25",
       "status": "ok",
-      "subjectCount": 565,
-      "toFetchCount": 564,
-      "fetchedCount": 564,
+      "subjectCount": 569,
+      "toFetchCount": 19,
+      "fetchedCount": 19,
       "removedCount": 0,
-      "unchangedCount": 1,
+      "unchangedCount": 550,
       "addedSample": [
-        "HUMT",
-        "MATT",
-        "NATA",
-        "PESO",
-        "SPRO",
-        "TEKA"
+        "INDY",
+        "PLAB",
+        "PROB",
+        "STAS"
       ],
       "removedSample": [],
       "changedSample": [
-        "ADMI",
-        "AFFA",
-        "AKRO",
-        "AKTI",
-        "AKTV",
-        "AKUT",
-        "ALLM",
-        "ANAT",
-        "ANIM",
-        "ANLA"
-      ]
+        "ATVO",
+        "BYGN",
+        "FINI",
+        "FINN",
+        "GLAS",
+        "HAND",
+        "HJUL",
+        "HUMN",
+        "KULT",
+        "LASO"
+      ],
+      "addedCodes": [
+        "INDY",
+        "PLAB",
+        "PROB",
+        "STAS"
+      ],
+      "changedCodes": [
+        "ATVO",
+        "BYGN",
+        "FINI",
+        "FINN",
+        "GLAS",
+        "HAND",
+        "HJUL",
+        "HUMN",
+        "KULT",
+        "LASO",
+        "MALE",
+        "STAD",
+        "STES",
+        "TAKO",
+        "TATS"
+      ],
+      "removedCodes": []
     }
   },
   "hadChanges": true

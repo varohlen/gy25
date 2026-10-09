@@ -1,19 +1,19 @@
 {
-  "apiVersion": "1.16.0",
-  "apiReleased": "2026-01-19",
+  "apiVersion": "1.16.2-SNAPSHOT",
+  "apiReleased": "2026-05-08",
   "apiStatus": "active",
-  "updatedAt": "2026-02-20T21:28:17.151Z",
+  "updatedAt": "2026-10-06T11:22:08.731Z",
   "versions": {
     "gy11": {
       "subjectCount": 311,
       "listHash": "57b99f11ed285c7361ddca376bc4225fd9c6664f454f8c8239bbc5a0320b0748",
-      "updatedAt": "2026-02-20T21:28:17.151Z",
+      "updatedAt": "2026-10-06T11:22:08.731Z",
       "dateOverride": null
     },
     "gy25": {
-      "subjectCount": 565,
-      "listHash": "dd1b327795445cf1c356629a93a0f7a00776a5f1d91fa9cc5bcb4aa5cdbca0fd",
-      "updatedAt": "2026-02-20T21:28:17.151Z",
+      "subjectCount": 569,
+      "listHash": "3e61b28ee2f83a765e73171f4a064263f97fddee079fab7689fa7369c54a0568",
+      "updatedAt": "2026-10-06T11:22:08.731Z",
       "dateOverride": null
     }
   }
