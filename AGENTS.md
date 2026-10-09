@@ -62,6 +62,11 @@ docs/                           Planer för API v2 och AI-interoperabilitet
   ändrat `modifiedDate`, och tar bort lokala ämnesfiler som saknas i API-listan.
 - Kör `analyze-changes` efter datasynk och före commit. Rapporten jämför
   arbetskatalogen med `HEAD` och skriver till `scripts/state/`.
+- Vid manuella datauppdateringar: visa ändringarna och invänta användarens
+  godkännande före commit och push. När uppdateringen är godkänd ska den även
+  mergas till `main`, som publiceras på https://gy25.se via Cloudflare Pages.
+  Kontrollera produktionsbygget och att uppdateringen syns på gy25.se;
+  en branch-preview räcker inte som slutförd publicering.
 - Webbplatsändringar dokumenteras i `src/content/site-changelog/` enligt schemat
   i `src/content/config.ts`. API-historik kommer från datasynkens tillståndsfiler.
 - Datasynkens workflow körs 05:15 och 17:15 UTC samt manuellt. Det synkar,
