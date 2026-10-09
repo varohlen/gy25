@@ -3,6 +3,7 @@ import { createHash, randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import type { FetchHistoryEntry, VersionKey } from '../src/utils/changelog';
+import { archivePreviousChangeImpactReport } from './lib/change-report-history';
 
 const ROOT_DIR = process.cwd();
 const CONTENT_DIR = path.join(ROOT_DIR, 'src', 'content');
@@ -544,7 +545,7 @@ function createHistoryEntry(params: {
 
 async function appendHistoryEntry(entry: FetchHistoryEntry): Promise<void> {
   const history = await loadHistory();
-  const nextEntries = [entry, ...history.entries.filter(existing => existing.id !== entry.id)].slice(0, 200);
+  const nextEntries = [entry, ...history.entries.filter(existing => existing.id !== entry.id)];
   await writeJsonAtomic(CHANGELOG_HISTORY_PATH, {
     schemaVersion: 1,
     entries: nextEntries,
@@ -556,6 +557,7 @@ async function main() {
   const previousState = await loadFetchState();
 
   try {
+    archivePreviousChangeImpactReport();
     console.log('Fetching API metadata...');
     const gy11List = await fetchData<SubjectsListResponse>(ENDPOINTS.gy11.subjectsList);
     const currentMetadata: APIMetadata = {
@@ -634,13 +636,15 @@ async function main() {
       };
       await saveFetchState(state);
 
-      const historyEntry = createHistoryEntry({
-        now,
-        previousState,
-        apiMetadata: currentMetadata,
-        versionReports,
-      });
-      await appendHistoryEntry(historyEntry);
+      if (hadChanges) {
+        const historyEntry = createHistoryEntry({
+          now,
+          previousState,
+          apiMetadata: currentMetadata,
+          versionReports,
+        });
+        await appendHistoryEntry(historyEntry);
+      }
     }
 
     if (hadErrors) {

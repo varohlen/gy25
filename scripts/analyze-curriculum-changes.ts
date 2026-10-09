@@ -1,6 +1,8 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { spawnSync } from "node:child_process";
 import path from "node:path";
+import { archiveChangeImpactReport } from "./lib/change-report-history";
+import type { SubjectChangeEntry } from "../src/utils/changelog";
 
 type Version = "gy11" | "gy25";
 type Level = "high" | "medium" | "low";
@@ -12,28 +14,7 @@ const CONTENT_DIR: Record<Version, string> = {
 
 const STATE_DIR = "scripts/state";
 
-type SubjectEntry = {
-  code: string;
-  filePath: string;
-  level: Level;
-  summary: {
-    addedCourses: string[];
-    removedCourses: string[];
-    purposeChanged: boolean;
-    subjectCentralChanged: boolean;
-    knowledgeChanged: boolean;
-    gradeCriteriaChanged?: boolean;
-    courseCentralChangedCodes: string[];
-    courseMetaChangedCodes: string[];
-    metadataChanged: string[];
-  };
-  details?: {
-    purpose: string[];
-    centralContent: string[];
-    gradeCriteria: string[];
-    courses: string[];
-  };
-};
+type SubjectEntry = SubjectChangeEntry;
 
 type VersionReport = {
   totalChanged: number;
@@ -72,13 +53,13 @@ function runGitBuffer(args: string[]): Buffer {
 }
 
 function listChangedFiles(dir: string): string[] {
-  const buf = runGitBuffer(["diff", "HEAD", "--name-only", "-z", "--", dir]);
-  if (!buf.length) return [];
-  return buf
+  const tracked = runGitBuffer(["diff", "HEAD", "--name-only", "-z", "--", dir]);
+  const untracked = runGitBuffer(["ls-files", "--others", "--exclude-standard", "-z", "--", dir]);
+  return [...new Set(Buffer.concat([tracked, untracked])
     .toString("utf8")
     .split("\u0000")
     .map((p) => p.trim())
-    .filter((p) => p.length > 0 && p.endsWith(".json"));
+    .filter((p) => p.length > 0 && p.endsWith(".json")))];
 }
 
 function loadOldJson(filePath: string): any | null {
@@ -268,15 +249,22 @@ function compareSubject(filePath: string): SubjectEntry {
   const oldDoc = loadOldJson(filePath);
   const newDoc = loadNewJson(filePath);
   const code = path.basename(filePath, ".json");
+  const doc = newDoc ?? oldDoc;
+  const metadata = {
+    name: doc?.name,
+    modifiedDate: doc?.modifiedDate,
+    versionInfo: doc?.versionInfo,
+  };
 
   if (!oldDoc || !newDoc) {
     return {
       code,
+      ...metadata,
       filePath,
       level: "high",
       summary: {
-        addedCourses: [],
-        removedCourses: [],
+        addedCourses: !oldDoc && newDoc ? (newDoc.courses ?? []).map((course: any) => course.code) : [],
+        removedCourses: oldDoc && !newDoc ? (oldDoc.courses ?? []).map((course: any) => course.code) : [],
         purposeChanged: false,
         subjectCentralChanged: false,
         knowledgeChanged: false,
@@ -286,7 +274,7 @@ function compareSubject(filePath: string): SubjectEntry {
         metadataChanged: ["file_level_change_or_parse_error"],
       },
       details: {
-        purpose: ["Filen är ny, borttagen eller kunde inte jämföras mot tidigare version."],
+        purpose: [!oldDoc && newDoc ? "Ämnet har lagts till." : oldDoc && !newDoc ? "Ämnet har tagits bort." : "Ämnet kunde inte jämföras mot tidigare version."],
         centralContent: [],
         gradeCriteria: [],
         courses: [],
@@ -402,6 +390,7 @@ function compareSubject(filePath: string): SubjectEntry {
 
   return {
     code,
+    ...metadata,
     filePath,
     level,
     summary: {
@@ -441,6 +430,7 @@ function generateVersionReport(version: Version): VersionReport {
 }
 
 function writeReportFiles(report: FullReport): void {
+  archiveChangeImpactReport(report);
   mkdirSync(STATE_DIR, { recursive: true });
   writeFileSync(
     path.join(STATE_DIR, "change-impact-report.json"),

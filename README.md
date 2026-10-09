@@ -80,6 +80,16 @@ npm run subject-diff -- gy25 FYSK
 3. Metadata + historik skrivs till `scripts/state/`.
 4. `analyze-changes` tar fram pedagogiska och tekniska ändringar per ämne.
 5. `/andringar/innehall` visar senaste relevanta ändringar för användare.
+6. Varje innehållsuppdatering får en beständig detaljrapport i
+   `scripts/state/change-reports/`. Historiken länkar till rapportens egen sida
+   med alla berörda ämnen och ändringsdetaljer. Synkar utan innehållsändringar
+   uppdaterar kontrollstatusen utan att skapa en ny historikpost.
+
+Regressionstest för rapportarkivet (simulerat API och isolerat git-repo):
+
+```bash
+node --import tsx --test scripts/tests/change-history.test.ts
+```
 
 ## Automatisk uppdatering (GitHub Actions)
 

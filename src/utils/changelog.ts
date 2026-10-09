@@ -1,11 +1,14 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 
 export type ImpactLevel = "high" | "medium" | "low";
 export type VersionKey = "gy11" | "gy25";
 
-type SubjectChangeEntry = {
+export type SubjectChangeEntry = {
   code: string;
+  name?: string;
+  modifiedDate?: string;
+  versionInfo?: string;
   filePath: string;
   level: ImpactLevel;
   summary: {
@@ -33,7 +36,7 @@ type VersionReport = {
   entries: SubjectChangeEntry[];
 };
 
-type ChangeImpactReport = {
+export type ChangeImpactReport = {
   generatedAt: string;
   baseline: string;
   gy11: VersionReport;
@@ -95,6 +98,32 @@ type FetchHistoryFile = {
   entries: FetchHistoryEntry[];
 };
 
+export type ArchivedChangeReport = {
+  schemaVersion: 1;
+  entry: FetchHistoryEntry;
+  report: ChangeImpactReport;
+};
+
+export function getChangeReportId(entry: FetchHistoryEntry): string {
+  return entry.id.replace(/[^a-zA-Z0-9_-]/g, "-");
+}
+
+export function loadArchivedChangeReport(entry: FetchHistoryEntry): ArchivedChangeReport | null {
+  const filePath = path.join(process.cwd(), "scripts/state/change-reports", `${getChangeReportId(entry)}.json`);
+  const archive = parseJsonFile<ArchivedChangeReport>(filePath);
+  return archive?.schemaVersion === 1 && archive.entry.id === entry.id ? archive : null;
+}
+
+export function loadArchivedChangeReports(): ArchivedChangeReport[] {
+  const dir = path.join(process.cwd(), "scripts/state/change-reports");
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((file) => file.endsWith(".json"))
+    .map((file) => parseJsonFile<ArchivedChangeReport>(path.join(dir, file)))
+    .filter((archive): archive is ArchivedChangeReport => archive?.schemaVersion === 1)
+    .sort((a, b) => b.entry.recordedAt.localeCompare(a.entry.recordedAt));
+}
+
 let changeCache: ChangeImpactReport | null | undefined;
 let fetchCache: FetchReport | null | undefined;
 let historyCache: FetchHistoryFile | null | undefined;
@@ -110,8 +139,10 @@ function parseJsonFile<T>(absolutePath: string): T | null {
 
 export function loadChangeImpactReport(): ChangeImpactReport | null {
   if (changeCache !== undefined) return changeCache;
+  const latestEntry = loadFetchHistory()?.entries[0];
+  const archive = latestEntry ? loadArchivedChangeReport(latestEntry) : null;
   const reportPath = path.join(process.cwd(), "scripts/state/change-impact-report.json");
-  changeCache = parseJsonFile<ChangeImpactReport>(reportPath);
+  changeCache = archive?.report ?? parseJsonFile<ChangeImpactReport>(reportPath);
   return changeCache;
 }
 

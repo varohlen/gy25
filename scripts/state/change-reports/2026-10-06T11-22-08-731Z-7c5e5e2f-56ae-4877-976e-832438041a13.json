@@ -1,0 +1,831 @@
+{
+  "schemaVersion": 1,
+  "entry": {
+    "id": "2026-10-06T11:22:08.731Z-7c5e5e2f-56ae-4877-976e-832438041a13",
+    "recordedAt": "2026-10-06T11:22:08.731Z",
+    "fromUpdatedAt": "2026-02-20T21:28:17.151Z",
+    "toUpdatedAt": "2026-10-06T11:22:08.731Z",
+    "baselineLabel": "Diff from previous sync (2026-02-20T21:28:17.151Z -> 2026-10-06T11:22:08.731Z)",
+    "edgeCase": {
+      "initialResync": false,
+      "longGapDays": 227
+    },
+    "apiMetadata": {
+      "apiVersion": "1.16.2-SNAPSHOT",
+      "apiReleased": "2026-05-08",
+      "apiStatus": "active"
+    },
+    "versions": {
+      "gy11": {
+        "subjectCount": 311,
+        "fetchedCount": 0,
+        "removedCount": 0,
+        "unchangedCount": 311,
+        "addedCodes": [],
+        "removedCodes": [],
+        "changedCodes": []
+      },
+      "gy25": {
+        "subjectCount": 569,
+        "fetchedCount": 19,
+        "removedCount": 0,
+        "unchangedCount": 550,
+        "addedCodes": [
+          "INDY",
+          "PLAB",
+          "PROB",
+          "STAS"
+        ],
+        "removedCodes": [],
+        "changedCodes": [
+          "ATVO",
+          "BYGN",
+          "FINI",
+          "FINN",
+          "GLAS",
+          "HAND",
+          "HJUL",
+          "HUMN",
+          "KULT",
+          "LASO",
+          "MALE",
+          "STAD",
+          "STES",
+          "TAKO",
+          "TATS"
+        ]
+      }
+    }
+  },
+  "report": {
+    "generatedAt": "2026-10-06T11:22:32.147Z",
+    "baseline": "git HEAD vs current workspace",
+    "gy11": {
+      "totalChanged": 0,
+      "buckets": {
+        "high": [],
+        "medium": [],
+        "low": []
+      },
+      "entries": []
+    },
+    "gy25": {
+      "totalChanged": 19,
+      "buckets": {
+        "high": [
+          "HUMN",
+          "INDY",
+          "PLAB",
+          "PROB",
+          "STAS"
+        ],
+        "medium": [
+          "ATVO",
+          "BYGN",
+          "FINI",
+          "FINN",
+          "GLAS",
+          "HAND",
+          "HJUL",
+          "KULT",
+          "LASO",
+          "MALE",
+          "STES",
+          "TAKO",
+          "TATS"
+        ],
+        "low": [
+          "STAD"
+        ]
+      },
+      "entries": [
+        {
+          "code": "ATVO",
+          "filePath": "src/content/gy25-subjects/ATVO.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "ATVO1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "ATVO1000X"
+            ],
+            "metadataChanged": [
+              "modifiedDate",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (ATVO1000X): Tillagt: Undervisningen på nivå 1 ska behandla följande centrala innehåll:"
+            ]
+          },
+          "name": "ATV- och motorcykelteknik",
+          "modifiedDate": "2026-08-19",
+          "versionInfo": "Första versionen"
+        },
+        {
+          "code": "BYGN",
+          "filePath": "src/content/gy25-subjects/BYGN.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "BYGN1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "BYGN1000X",
+              "BYGN2000X",
+              "BYGN3000X",
+              "BYGN4000X"
+            ],
+            "metadataChanged": [
+              "englishName",
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Borttaget: Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet bygg och anläggning."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (BYGN1000X): Tillagt: Sammanfogningar inom byggnads- och ventilationsplåtslageri, däribland tennlödning, nitning och olika falsningsmetoder för garnering och taktäckning."
+            ]
+          },
+          "name": "Byggnadsplåtslageri",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "FINI",
+          "filePath": "src/content/gy25-subjects/FINI.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "FINI1000X",
+              "FINI2000X",
+              "FINI3000X"
+            ],
+            "courseMetaChangedCodes": [
+              "FINI1000X",
+              "FINI2000X",
+              "FINI3000X",
+              "FINI4000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (FINI1000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten, till exempel förvaring av gasol och andra brandfarliga varor.",
+              "Nivå 2 (FINI2000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten, till exempel förvaring av gasol och andra brandfarliga varor.",
+              "Nivå 3 (FINI3000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten, till exempel förvaring av gasol och andra brandfarliga varor."
+            ]
+          },
+          "name": "Finsnickeri – fördjupning",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1,2 och 3."
+        },
+        {
+          "code": "FINN",
+          "filePath": "src/content/gy25-subjects/FINN.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "FINN1000X",
+              "FINN2000X",
+              "FINN3000X"
+            ],
+            "courseMetaChangedCodes": [
+              "FINN1000X",
+              "FINN2000X",
+              "FINN3000X",
+              "FINN4000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (FINN1000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten.",
+              "Nivå 2 (FINN2000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten.",
+              "Nivå 3 (FINN3000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten."
+            ]
+          },
+          "name": "Finsnickeri – teknik",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1,2 och 3."
+        },
+        {
+          "code": "GLAS",
+          "filePath": "src/content/gy25-subjects/GLAS.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "GLAS1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "GLAS1000X",
+              "GLAS2000X",
+              "GLAS3000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (GLAS1000X): En formulering har justerats."
+            ]
+          },
+          "name": "Glasteknik",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "HAND",
+          "filePath": "src/content/gy25-subjects/HAND.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "HAND3000X"
+            ],
+            "courseMetaChangedCodes": [
+              "HAND1000X",
+              "HAND2000X",
+              "HAND3000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 3 (HAND3000X): Borttaget: Lagar och andra bestämmelser inom området."
+            ]
+          },
+          "name": "Handel",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 3."
+        },
+        {
+          "code": "HJUL",
+          "filePath": "src/content/gy25-subjects/HJUL.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "HJUL1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "HJUL1000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (HJUL1000X): Tillagt: Körning mot förekommande maskinstyrning, däribland arbete med 3D-modeller och GNSS vid arbeten efter terräng och väglinjemodeller."
+            ]
+          },
+          "name": "Hjullastare",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "HUMN",
+          "filePath": "src/content/gy25-subjects/HUMN.json",
+          "level": "high",
+          "summary": {
+            "addedCourses": [
+              "HUMN2000X"
+            ],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [
+              "HUMN1000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Tillagt: Nivå 1, 100 poäng, som bygger på nivå 1a1 eller nivå 1b i ämnet historia, nivå 1a1 eller nivå 1b i ämnet samhällskunskap, nivå 1 i ämnet svenska eller nivå 1 i ämnet svenska som andraspråk.",
+              "Tillagt: Nivå 2, 100 poäng, som bygger på nivå 1.",
+              "Borttaget: Nivå 1, 100 poäng, som bygger på nivå 1 i ämnet historia, nivå 1 i ämnet samhällskunskap, nivå 1 i ämnet svenska eller nivå 1 i ämnet svenska som andraspråk."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Ny nivå/kurs: Nivå 2 (HUMN2000X)"
+            ]
+          },
+          "name": "Humanistisk och samhällsvetenskaplig specialisering",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 2."
+        },
+        {
+          "code": "INDY",
+          "filePath": "src/content/gy25-subjects/INDY.json",
+          "level": "high",
+          "summary": {
+            "addedCourses": [
+              "INDY1000X",
+              "INDY2000X"
+            ],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [],
+            "metadataChanged": [
+              "file_level_change_or_parse_error"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Ämnet har lagts till."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": []
+          },
+          "name": "Industriell ytbehandling",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Första version"
+        },
+        {
+          "code": "KULT",
+          "filePath": "src/content/gy25-subjects/KULT.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "KULT1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "KULT1000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (KULT1000X): Tillagt: Taktäckning på olika typer av underlag med fjälltäckning."
+            ]
+          },
+          "name": "Kulturplåtslageri",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "LASO",
+          "filePath": "src/content/gy25-subjects/LASO.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "LASO1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "LASO1000X",
+              "LASO2000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Tillagt: Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om cybersäkerhet, risker och säkerhetskrav vid installation av lås- och passersystem samt om standarder, lagar och andra bestämmelser inom området.",
+              "Borttaget: Därför ska undervisningen ge eleverna möjlighet att utveckla kunskaper om risker och säkerhetskrav vid installation av lås- och passersystem samt om standarder, lagar och andra bestämmelser inom området."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (LASO1000X): Tillagt: Lagar och andra bestämmelser inom området, däribland de som gäller cybersäkerhet och säkerhetskrav enligt låsklasser och skyddsklasser."
+            ]
+          },
+          "name": "Lås- och passerteknik",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "MALE",
+          "filePath": "src/content/gy25-subjects/MALE.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "MALE1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "MALE1000X",
+              "MALE2000X",
+              "MALE3000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Borttaget: Nivå 1, 200 poäng, som bygger på nivå 2 i ämnet bygg och anläggning."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (MALE1000X): Tillagt: Bestämmelser som reglerar brandfarliga arbeten, till exempel förvaring av gasol och andra brandfarliga varor."
+            ]
+          },
+          "name": "Måleri",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "PLAB",
+          "filePath": "src/content/gy25-subjects/PLAB.json",
+          "level": "high",
+          "summary": {
+            "addedCourses": [
+              "PLAB1000X"
+            ],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [],
+            "metadataChanged": [
+              "file_level_change_or_parse_error"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Ämnet har lagts till."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": []
+          },
+          "name": "Plåtbearbetning",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Första version"
+        },
+        {
+          "code": "PROB",
+          "filePath": "src/content/gy25-subjects/PROB.json",
+          "level": "high",
+          "summary": {
+            "addedCourses": [
+              "PROB100TX"
+            ],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [],
+            "metadataChanged": [
+              "file_level_change_or_parse_error"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Ämnet har lagts till."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": []
+          },
+          "name": "Projektering – bygg",
+          "modifiedDate": "2026-06-10",
+          "versionInfo": "Första version"
+        },
+        {
+          "code": "STAD",
+          "filePath": "src/content/gy25-subjects/STAD.json",
+          "level": "low",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [
+              "STAD1000X"
+            ],
+            "metadataChanged": [
+              "modifiedDate",
+              "lastUpdated",
+              "endDate"
+            ]
+          },
+          "details": {
+            "purpose": [],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": []
+          },
+          "name": "Städservice",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Första versionen"
+        },
+        {
+          "code": "STAS",
+          "filePath": "src/content/gy25-subjects/STAS.json",
+          "level": "high",
+          "summary": {
+            "addedCourses": [
+              "STAS1000X"
+            ],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [],
+            "courseMetaChangedCodes": [],
+            "metadataChanged": [
+              "file_level_change_or_parse_error"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Ämnet har lagts till."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": []
+          },
+          "name": "Städservice",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändringsföreskrift SKOLFS 2026:32. Ändring i ämnesplanen Städservice gällande poängomfattning därav även ny kod i ämnet."
+        },
+        {
+          "code": "STES",
+          "filePath": "src/content/gy25-subjects/STES.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "STES1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "STES1000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (STES1000X): Borttaget: Certifieringsutbildningar inom anläggning, däribland certifikat för svetsning av polyetenrör (PE-rör)."
+            ]
+          },
+          "name": "Stensättning",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "TAKO",
+          "filePath": "src/content/gy25-subjects/TAKO.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "TAKO1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "TAKO1000X",
+              "TAKO2000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (TAKO1000X): En formulering har justerats."
+            ]
+          },
+          "name": "Tak- och tätskiktsmontering",
+          "modifiedDate": "2026-06-11",
+          "versionInfo": "Ändring i nivå 1."
+        },
+        {
+          "code": "TATS",
+          "filePath": "src/content/gy25-subjects/TATS.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": true,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "TATS1000X"
+            ],
+            "courseMetaChangedCodes": [
+              "TATS1000X"
+            ],
+            "metadataChanged": [
+              "startDate",
+              "modifiedDate",
+              "versionInfo",
+              "skolfsAndring",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [
+              "Formuleringar har reviderats."
+            ],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (TATS1000X): Tillagt: Övergripande om branschens riktlinjer och branschregler för våtrumsarbete."
+            ]
+          },
+          "name": "Tätskikt – våtrum",
+          "modifiedDate": "2026-06-10",
+          "versionInfo": "Ändring i nivå 1."
+        }
+      ]
+    }
+  }
+}
