@@ -25,8 +25,8 @@ README riktar sig främst till dig som vill köra projektet lokalt, förstå dat
 
 ## Krav
 
-- Node.js `>=20.3.0` (rekommenderat: Node 22)
-- npm 9+
+- Node.js `>=20.3.0` (rekommenderat: Node 24)
+- pnpm (version enligt `packageManager` i package.json, aktiveras med `corepack enable`)
 
 ## Projektstruktur (viktigast)
 
@@ -46,31 +46,31 @@ README riktar sig främst till dig som vill köra projektet lokalt, förstå dat
 ## Kom igång lokalt
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Byggtest:
 
 ```bash
-npm run build
+pnpm build
 ```
 
 ## Scripts
 
 ```bash
 # Hämta/synka data från Skolverket
-npm run fetch-data
+pnpm fetch-data
 
 # Skapa full ändringsrapport (använder git diff mot HEAD)
-npm run analyze-changes
+pnpm analyze-changes
 
 # Lista ändrade ämnen
-npm run subject-list
+pnpm subject-list
 
 # Detaljdiff för ett ämne
-npm run subject-diff -- gy25 SAKE
-npm run subject-diff -- gy25 FYSK
+pnpm subject-diff --version gy25 --code SAKE
+pnpm subject-diff --version gy25 --code FYSK
 ```
 
 ## Dataflöde i korthet
@@ -97,15 +97,15 @@ node --import tsx --test scripts/tests/change-history.test.ts
 - Körs schemalagt två gånger per dygn samt manuellt via `workflow_dispatch`.
 - Flöde:
   1. installerar beroenden
-  2. kör `npm run fetch-data`
-  3. kör `npm run analyze-changes`
+  2. kör `pnpm fetch-data`
+  3. kör `pnpm analyze-changes`
   4. committar endast om datafiler faktiskt har ändrats
 - Om repo är kopplat till deploy på `main` triggas ny deploy automatiskt efter commit.
 
 ## Bidra
 
 1. Skapa en branch från `main`
-2. Gör ändringar och kör minst `npm run build`
+2. Gör ändringar och kör minst `pnpm build`
 3. Öppna PR mot `main`
 4. Hantera review-kommentarer och mergea när checks är gröna
 
