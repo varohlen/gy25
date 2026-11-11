@@ -5,25 +5,31 @@ med GY25-ämnen och nivåer, GY11-kurser och jämförelser mellan systemen.
 Produktionsdomänen är https://gy25.se. Bygget använder Cloudflare-adapter;
 Cloudflare-projektnamn och deploy-skript finns inte angivna i repot.
 
+## Arbetsplats
+
+Den aktiva arbetskopian finns på **server1** i
+`/home/varohlen/utveckling/gy25.se`. Gör allt nytt arbete där via T3 Connect
+eller, från laptopen, `ssh server1-ts`. Laptopens klon är avvecklad.
+
 ## Verktyg
 
-Använd npm och `package-lock.json`. Node.js måste vara `>=20.3.0`;
+Använd pnpm enligt `packageManager` i `package.json` och `pnpm-lock.yaml`. Node.js måste vara `>=20.3.0`;
 `.node-version` anger 22, medan GitHub Actions använder Node 20.
 Kör kommandona från repots rot eftersom dataskripten använder `process.cwd()`.
 
 ```bash
-npm ci                                              # Installera från låsfilen
-npm run dev                                         # Lokal utveckling
-npm run build                                       # Statiskt bygge till dist/
-npm run preview                                     # Förhandsvisa bygget
-npm run astro -- check                              # Separat typkontroll
-npm run fetch-data                                  # Synka Skolverkets data
-npm run analyze-changes                             # Skriv ändringsrapport
-npm run subject-list -- --version gy25 --level high  # Lista stor påverkan
-npm run subject-diff -- --version gy25 --code FYSK   # Skriv ämnesdiff
+pnpm install --frozen-lockfile                       # Installera från låsfilen
+pnpm dev                                         # Lokal utveckling
+pnpm build                                       # Statiskt bygge till dist/
+pnpm preview                                     # Förhandsvisa bygget
+pnpm astro -- check                              # Separat typkontroll
+pnpm fetch-data                                  # Synka Skolverkets data
+pnpm analyze-changes                             # Skriv ändringsrapport
+pnpm subject-list -- --version gy25 --level high  # Lista stor påverkan
+pnpm subject-diff -- --version gy25 --code FYSK   # Skriv ämnesdiff
 ```
 
-`package.json` har inga test- eller lint-skript. README anger `npm run build`
+`package.json` har inga test- eller lint-skript. README anger `pnpm build`
 som minsta kontroll före PR; byggkommandot kör inte `astro check`.
 
 ## Stack
