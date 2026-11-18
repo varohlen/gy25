@@ -72,7 +72,7 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
       )}
     </div>
     {hasDescription && (
-      <div class="prose max-w-none mt-4" set:html={course.description} />
+      <div class="prose mt-4" set:html={safeHtml(course.description)} />
     )}
   </div>
 

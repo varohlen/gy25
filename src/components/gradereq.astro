@@ -25,8 +25,8 @@ const {
   anchorId
 } = Astro.props;
 
-const gradeAnchor = (gradeStep: string) =>
-  anchorId && ['E', 'C', 'A'].includes(gradeStep) ? `betyg-${gradeStep.toLowerCase()}` : undefined;
+const gradeAnchor = (gradeStep?: string) =>
+  anchorId && gradeStep && ['E', 'C', 'A'].includes(gradeStep) ? `betyg-${gradeStep.toLowerCase()}` : undefined;
 
 // Function to extract paragraphs from HTML content
 function extractParagraphs(html: string): string[] {
