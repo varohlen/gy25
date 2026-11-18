@@ -47,11 +47,35 @@ if (gy11Subject && gy25Subject) {
 
   isSubjectComparison = false;
 
-  // If neither subjects nor courses are found, return 404
+  // If neither subjects nor courses are found, render the site's 404 page.
+  // A 404 with an empty body makes Astro serve the prerendered 404.html with status 404
+  // (Astro.rewrite cannot target a prerendered page from an on-demand route).
   if (!gy11Course || !gy25Course || !gy11ParentSubject || !gy25ParentSubject) {
-    return new Response('Not Found', { status: 404 });
+    return new Response(null, { status: 404 });
   }
 }
+
+// Redirect to the canonical form: lowercase codes and a trailing slash
+const gy11CanonicalCode = (isSubjectComparison ? gy11Subject!.data.code : gy11Course.code).toLowerCase();
+const gy25CanonicalCode = (isSubjectComparison ? gy25Subject!.data.code : gy25Course.code).toLowerCase();
+const canonicalPath = `/compare/${gy11CanonicalCode}/${gy25CanonicalCode}/`;
+if (decodeURIComponent(Astro.url.pathname) !== canonicalPath) {
+  return Astro.redirect(encodeURI(canonicalPath), 301);
+}
+
+// Links to the compared subjects or levels
+const gy11SubjectCode = gy11ParentSubject.data.code.toLowerCase();
+const gy25SubjectCode = gy25ParentSubject.data.code.toLowerCase();
+const gy11Href = isSubjectComparison
+  ? `/gy11/${gy11SubjectCode}/`
+  : `/gy11/${gy11SubjectCode}/${gy11CanonicalCode}/`;
+const gy25Href = isSubjectComparison
+  ? `/gy25/${gy25SubjectCode}/`
+  : `/gy25/${gy25SubjectCode}/${gy25CanonicalCode}/`;
+const gy11Label = isSubjectComparison ? gy11Subject!.data.name : gy11Course.name;
+const gy25Label = isSubjectComparison
+  ? gy25Subject!.data.name
+  : `${gy25ParentSubject.data.name} ${gy25Course.name.charAt(0).toLowerCase()}${gy25Course.name.slice(1)}`;
 
 // Define sections based on comparison type
 const subjectSections = [
@@ -67,10 +91,9 @@ const courseSections = [
   ...(!isSubjectComparison ? [{ id: 'grade_requirements', title: 'Betygskriterier' }] : [])
 ] as const;
 
-// Set the page title based on what we're comparing
-const pageTitle = isSubjectComparison 
-  ? `Jämför ${gy11Subject?.data.name} med ${gy25Subject?.data.name}`
-  : `Jämför ${gy11Course?.name} med ${gy25Course?.name}`;
+// Set the page title and heading based on what we're comparing
+const pageHeading = `Jämför ${gy11Label} (GY11) med ${gy25Label} (GY25)`;
+const pageTitle = pageHeading;
 
 interface KnowledgeRequirement {
   text: string;
@@ -150,7 +173,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
     <!-- Back Button -->
     <div class="mb-8">
       <a 
-        href={isSubjectComparison ? "/compare" : "/compare/courses"}
+        href={isSubjectComparison ? "/compare/" : "/compare/courses/"}
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
       >
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
@@ -159,6 +182,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
         Tillbaka till {isSubjectComparison ? "jämförelser" : "kursjämförelser"}
       </a>
     </div>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">{pageHeading}</h1>
+    <ul class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-8 text-sm font-medium">
+      <li><a href={gy11Href} class="text-blue-700 underline hover:text-blue-900">Visa {gy11Label} i GY11</a></li>
+      <li><a href={gy25Href} class="text-emerald-700 underline hover:text-emerald-900">Visa {gy25Label} i GY25</a></li>
+    </ul>
 
     {isSubjectComparison ? (
       <>
