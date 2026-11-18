@@ -101,7 +101,7 @@ const detailLabels = {
                                             <p class="mt-1 text-sm text-gray-500">{subject.code}</p>
                                         </div>
                                         <span class="rounded-md bg-slate-100 px-3 py-1 text-xs text-slate-700">
-                                            {added.has(subject.code) ? "Nytt ämne" : removed.has(subject.code) ? "Borttaget ämne" : getImpactLabel(subject.level)}
+                                            {added.has(subject.code) ? "Nytt ämne" : removed.has(subject.code) ? "Borttaget ämne" : getImpactLabel(subject.level, subject.summary.contentRemoved)}
                                         </span>
                                     </div>
                                     {subject.modifiedDate && <p class="mt-2 text-xs text-gray-500">Ändrad hos Skolverket: {toSvDate(subject.modifiedDate)}</p>}

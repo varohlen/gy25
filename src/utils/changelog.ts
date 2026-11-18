@@ -21,6 +21,11 @@ export type SubjectChangeEntry = {
     courseCentralChangedCodes: string[];
     courseMetaChangedCodes: string[];
     metadataChanged: string[];
+    // Optional: missing in reports created before these fields were introduced.
+    nameChanged?: boolean;
+    descriptionChanged?: boolean;
+    contentRemoved?: boolean;
+    courseKnowledgeChangedCodes?: string[];
   };
   details?: {
     purpose: string[];
@@ -167,8 +172,9 @@ export function getSubjectChange(version: VersionKey, subjectCode: string): Subj
   return report[version].entries.find((entry) => entry.code.toUpperCase() === normalizedCode) ?? null;
 }
 
-export function getImpactLabel(level: ImpactLevel): string {
+export function getImpactLabel(level: ImpactLevel, contentRemoved = false): string {
   if (level === "high") return "Stor förändring";
+  if (contentRemoved) return "Innehåll har tagits bort";
   if (level === "medium") return "Mindre text- eller innehållsjustering";
   return "Främst metadata eller teknisk uppdatering";
 }
@@ -193,10 +199,21 @@ export function summarizeSubjectChange(entry: SubjectChangeEntry): string[] {
     bullets.push(`Borttagna nivåer/kurser: ${entry.summary.removedCourses.join(", ")}`);
   }
   if (entry.summary.knowledgeChanged) {
-    bullets.push("Betygskriterier/kunskapskrav har ändrats.");
+    const courses = entry.summary.courseKnowledgeChangedCodes ?? [];
+    bullets.push(
+      courses.length > 0
+        ? `Kunskapskrav ändrade i kurser: ${courses.join(", ")}`
+        : "Betygskriterier/kunskapskrav har ändrats.",
+    );
+  }
+  if (entry.summary.nameChanged) {
+    bullets.push("Ämnets namn har ändrats.");
   }
   if (entry.summary.purposeChanged) {
     bullets.push("Ämnets syfte har reviderats.");
+  }
+  if (entry.summary.descriptionChanged) {
+    bullets.push("Ämnets beskrivning har reviderats.");
   }
   if (entry.summary.subjectCentralChanged) {
     bullets.push("Centralt innehåll på ämnesnivå har ändrats.");
