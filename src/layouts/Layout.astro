@@ -18,6 +18,18 @@ const imageUrl = `${siteUrl}${image}`;
 
 const activeClass = "inline-flex items-center px-1 pt-1 border-b-2 border-blue-500 text-sm font-medium text-gray-900";
 const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700";
+
+// Huvudmenyn. Aktiv länk: aria-current och bakgrund med minst 4.5:1 mot vit text.
+const navLinks = [
+  { href: '/gy25', label: 'Ämnen och nivåer', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/gy11', label: 'GY11', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/compare', label: 'Jämför med GY11', active: 'bg-blue-600 hover:bg-blue-700' },
+  { href: '/andringar', label: 'Ändringar', active: 'bg-emerald-700 hover:bg-emerald-800' },
+].map((link) => {
+  const isSection = currentPath === link.href || currentPath.startsWith(`${link.href}/`);
+  const isPage = currentPath.replace(/\/$/, '') === link.href;
+  return { ...link, isSection, ariaCurrent: isPage ? 'page' : isSection ? 'true' : undefined };
+});
 ---
 
 <!DOCTYPE html>
@@ -70,9 +82,9 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
   <body class="min-h-screen bg-gray-50 flex flex-col font-body">
     <header class="bg-white shadow-sm">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center justify-between h-16">
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between md:h-16">
           <!-- Logo/Title -->
-          <div class="flex-shrink-0">
+          <div class="flex-shrink-0 flex items-center h-14 md:h-auto">
             <a href="/" class="flex items-center space-x-2 group">
               <img src="/favicon.svg" alt="" class="h-8 w-8" />
               <span class="text-2xl font-bold text-gray-900 font-logo group-hover:text-gray-700 transition-colors">
@@ -81,28 +93,24 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
             </a>
           </div>
 
-          <!-- Navigation -->
-          <div class="flex items-center space-x-4">
-            <a 
-              href="/gy25" 
-              class={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-md
-                ${Astro.url.pathname.startsWith('/gy25') 
-                  ? 'text-white bg-emerald-600 hover:bg-emerald-700' 
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'}`}
-            >
-              Ämnen och nivåer
-            </a>
-            <span class="text-gray-300">|</span>
-            <a 
-              href="/compare" 
-              class={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-md
-                ${Astro.url.pathname.startsWith('/compare') 
-                  ? 'text-white bg-blue-600 hover:bg-blue-700' 
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'}`}
-            >
-              Jämför med GY11
-            </a>
-          </div>
+          <!-- Navigation: en rad som går att scrolla i sidled på smala skärmar -->
+          <ul class="-mx-4 px-4 pb-3 md:mx-0 md:px-0 md:pb-0 flex items-center gap-1 lg:gap-2 overflow-x-auto whitespace-nowrap">
+            {navLinks.map((link) => (
+              <li class="flex-shrink-0">
+                <a
+                  href={link.href}
+                  aria-current={link.ariaCurrent}
+                  class={`inline-flex items-center px-3 py-2 text-sm font-medium rounded-md ${
+                    link.isSection
+                      ? `text-white ${link.active}`
+                      : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'
+                  }`}
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </nav>
     </header>
