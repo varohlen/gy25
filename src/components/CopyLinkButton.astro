@@ -1,0 +1,130 @@
+---
+/**
+ * Knapp som kopierar sidans URL med #anchor. Komponentens skript öppnar också
+ * hopfällda sektioner ([data-anchor-section]) när adressen pekar på dem.
+ */
+interface Props {
+  anchor: string;
+  label: string;
+  class?: string;
+}
+
+const { anchor, label, class: className = '' } = Astro.props;
+---
+
+<button
+  type="button"
+  class={`copy-link-button inline-flex items-center gap-1 rounded-md px-2 py-1 text-xs font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 ${className}`}
+  data-copy-anchor={anchor}
+  aria-label={`Kopiera länk till ${label}`}
+  title="Kopiera länk"
+>
+  <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 00-6.364-6.364l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
+  </svg>
+  <span class="copy-link-text hidden sm:inline">Kopiera länk</span>
+</button>
+
+<script>
+  const COPIED_MS = 2000;
+
+  function getStatusRegion(): HTMLElement {
+    let region = document.getElementById('copy-link-status');
+    if (!region) {
+      region = document.createElement('div');
+      region.id = 'copy-link-status';
+      region.className = 'sr-only';
+      region.setAttribute('role', 'status');
+      document.body.appendChild(region);
+    }
+    return region;
+  }
+
+  async function copyText(text: string): Promise<boolean> {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      const field = document.createElement('textarea');
+      field.value = text;
+      field.setAttribute('readonly', '');
+      field.style.position = 'fixed';
+      field.style.opacity = '0';
+      document.body.appendChild(field);
+      field.select();
+      const ok = document.execCommand('copy');
+      field.remove();
+      return ok;
+    }
+  }
+
+  function initCopyButtons() {
+    document.querySelectorAll<HTMLButtonElement>('.copy-link-button').forEach((button) => {
+      if (button.dataset.copyReady) return;
+      button.dataset.copyReady = 'true';
+      button.addEventListener('click', async (event) => {
+        event.stopPropagation();
+        const anchor = button.dataset.copyAnchor;
+        if (!anchor) return;
+        const url = new URL(window.location.href);
+        url.hash = anchor;
+        const ok = await copyText(url.toString());
+        getStatusRegion().textContent = ok ? 'Länken är kopierad.' : 'Det gick inte att kopiera länken.';
+        const text = button.querySelector<HTMLElement>('.copy-link-text');
+        if (text && ok) {
+          text.textContent = 'Kopierad';
+          window.setTimeout(() => (text.textContent = 'Kopiera länk'), COPIED_MS);
+        }
+      });
+    });
+  }
+
+  function expandSection(section: Element) {
+    // Sektionens första växlingsknapp är rubrikens knapp.
+    const toggle = section.querySelector<HTMLElement>('button[aria-expanded], button[data-expanded]');
+    if (!toggle) return;
+    const state = toggle.getAttribute('aria-expanded') ?? toggle.getAttribute('data-expanded');
+    if (state === 'false') toggle.click();
+  }
+
+  function openHashTarget() {
+    const id = decodeURIComponent(window.location.hash.slice(1));
+    if (!id) return;
+    const target = document.getElementById(id);
+    if (!target) return;
+
+    const sections: Element[] = [];
+    let section: Element | null = target.closest('[data-anchor-section]');
+    while (section) {
+      sections.unshift(section);
+      section = section.parentElement?.closest('[data-anchor-section]') ?? null;
+    }
+    sections.forEach(expandSection);
+
+    const scroll = () => {
+      // Dolda mål (t.ex. listvyn när tabellvyn visas) scrollar till sin sektion.
+      const visible = target.offsetParent !== null ? target : (sections.at(-1) as HTMLElement | undefined);
+      visible?.scrollIntoView({ block: 'start' });
+    };
+    requestAnimationFrame(scroll);
+    // Vänta in eventuella expanderingsanimationer.
+    window.setTimeout(scroll, 350);
+  }
+
+  let initialized = false;
+  function init() {
+    if (initialized) return;
+    initialized = true;
+    initCopyButtons();
+    // Komponenternas växlingsknappar kopplas i DOMContentLoaded; vänta in dem.
+    window.setTimeout(openHashTarget, 0);
+  }
+
+  if (document.readyState === 'complete') {
+    init();
+  } else {
+    document.addEventListener('DOMContentLoaded', init);
+    window.addEventListener('load', init);
+  }
+  window.addEventListener('hashchange', openHashTarget);
+</script>

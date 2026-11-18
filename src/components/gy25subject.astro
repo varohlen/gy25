@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
 import { validityText } from '../utils/validity';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
   subject: CollectionEntry<'gy25-subjects'>;
@@ -46,7 +47,8 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
 <div class="max-w-4xl mx-auto">
   <!-- Section 1: Subject Title and Basic Info -->
-  <div class="bg-white rounded-lg shadow-sm mb-6">
+  <div id="beskrivning" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+    <CopyLinkButton anchor="beskrivning" label="Beskrivning" class="absolute right-16 top-6 z-10" />
     <button 
       class="section-toggle w-full p-6 flex justify-between items-center"
       aria-expanded="true"
@@ -85,7 +87,8 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
   <!-- Section 2: Purpose -->
   {showPurpose && subject.data.purpose && (
-    <div class="bg-white rounded-lg shadow-sm mb-6">
+    <div id="syfte" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+      <CopyLinkButton anchor="syfte" label="Syfte" class="absolute right-16 top-6 z-10" />
       <button 
         class="section-toggle w-full p-6 flex justify-between items-center"
         aria-expanded="true"
@@ -104,7 +107,8 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
 <!-- Section 3: Levels -->
 {subject.data.courses && subject.data.courses.length > 0 && showCourses && (
-  <div class="bg-white rounded-lg shadow-sm mb-6">
+  <div id="nivaer" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+    <CopyLinkButton anchor="nivaer" label="Nivåer" class="absolute right-16 top-6 z-10" />
     <button 
       class="section-toggle w-full p-6 flex justify-between items-center"
       aria-expanded="true"
@@ -142,7 +146,8 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
         {subject.data.courses.map((course) => (
           <div 
             id={course.code.toLowerCase().replace(/\s+/g, '-')}
-            class="mb-8 last:mb-0"
+            data-anchor-section
+            class="mb-8 last:mb-0 scroll-mt-4"
           >
             <button 
               class="section-toggle w-full p-4 flex justify-between items-center"
@@ -197,6 +202,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
       }))}
       title="Betygskriterier"
       defaultView="list"
+      anchorId="betygskriterier"
     />
   )}
 </div>
