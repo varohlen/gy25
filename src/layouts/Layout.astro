@@ -28,7 +28,8 @@ const navLinks = [
 ].map((link) => {
   const isSection = currentPath === link.href || currentPath.startsWith(`${link.href}/`);
   const isPage = currentPath.replace(/\/$/, '') === link.href;
-  return { ...link, isSection, ariaCurrent: isPage ? 'page' : isSection ? 'true' : undefined };
+  const ariaCurrent: 'page' | 'true' | undefined = isPage ? 'page' : isSection ? 'true' : undefined;
+  return { ...link, isSection, ariaCurrent };
 });
 ---
 
