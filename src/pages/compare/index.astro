@@ -11,7 +11,11 @@ gy11Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
 gy25Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
 
-<CompareLayout activeView="subjects">
+<CompareLayout
+  activeView="subjects"
+  title="Jämför GY11-ämnen med GY25-ämnen"
+  description="Välj ett ämne i GY11 och ett i GY25 och jämför beskrivning, syfte och kurser med nivåer sida vid sida."
+>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
     <!-- GY11 Subjects -->
     <div>

@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { buildDescription } from '../../utils/seo';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy11subject.astro';
 import { getLatestSubjectReportHref } from '../../utils/changelog';
@@ -23,7 +24,10 @@ const { subject } = Astro.props;
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout title={`${subject.data.name} - GY11`}>
+<Layout
+  title={`${subject.data.name} (${subject.data.code}) – GY11`}
+  description={buildDescription(`${subject.data.name} i GY11:`, subject.data.description || subject.data.purpose)}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <div class="mb-8 flex flex-wrap items-center justify-between gap-3 print:hidden">
       <a href="/gy11" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">

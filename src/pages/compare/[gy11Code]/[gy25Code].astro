@@ -5,6 +5,7 @@ import GradeReq from '../../../components/gradereq.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
+import { levelTitle } from '../../../utils/seo';
 
 // Tell Astro to server-render this page
 export const prerender = false;
@@ -75,7 +76,7 @@ const gy25Href = isSubjectComparison
 const gy11Label = isSubjectComparison ? gy11Subject!.data.name : gy11Course.name;
 const gy25Label = isSubjectComparison
   ? gy25Subject!.data.name
-  : `${gy25ParentSubject.data.name} ${gy25Course.name.charAt(0).toLowerCase()}${gy25Course.name.slice(1)}`;
+  : levelTitle(gy25ParentSubject.data.name, gy25Course.name);
 
 // Define sections based on comparison type
 const subjectSections = [
@@ -91,9 +92,12 @@ const courseSections = [
   ...(!isSubjectComparison ? [{ id: 'grade_requirements', title: 'Betygskriterier' }] : [])
 ] as const;
 
-// Set the page title and heading based on what we're comparing
+// Sidans titel och h1 utgår från det som jämförs (VIK-159, VIK-168)
 const pageHeading = `Jämför ${gy11Label} (GY11) med ${gy25Label} (GY25)`;
 const pageTitle = pageHeading;
+const pageDescription = isSubjectComparison
+  ? `Jämför ämnet ${gy11Label} i GY11 med ${gy25Label} i GY25: beskrivning, syfte och kurser och nivåer sida vid sida.`
+  : `Jämför kursen ${gy11Label} i GY11 med ${gy25Label} i GY25: centralt innehåll och betygskriterier sida vid sida.`;
 
 interface KnowledgeRequirement {
   text: string;
@@ -168,7 +172,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
 
 ---
 
-<Layout title={pageTitle}>
+<Layout title={pageTitle} description={pageDescription}>
   <div class="max-w-7xl mx-auto px-4 py-12">
     <!-- Back Button -->
     <div class="mb-8">

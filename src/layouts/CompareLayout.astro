@@ -4,10 +4,11 @@ import Layout from './Layout.astro';
 interface Props {
   activeView: 'subjects' | 'courses';
   title?: string;
+  description?: string;
 }
 
 const { activeView } = Astro.props;
-const { title = "Jämför GY11 och GY25" } = Astro.props;
+const { title = "Jämför GY11 och GY25", description } = Astro.props;
 
 const heading = activeView === 'subjects'
   ? 'Jämför ämnen i GY11 och GY25'
@@ -19,7 +20,7 @@ const gy11EmptyText = activeView === 'subjects' ? 'Välj ett GY11-ämne' : 'Väl
 const gy25EmptyText = activeView === 'subjects' ? 'Välj ett GY25-ämne' : 'Välj en GY25-nivå';
 ---
 
-<Layout title={title}>
+<Layout title={title} description={description}>
   <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="flex flex-col items-center gap-6 mb-8 text-center">
       <h1 class="text-3xl font-bold text-gray-900">{heading}</h1>
