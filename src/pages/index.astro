@@ -22,7 +22,10 @@ const mathExample = mathGy11.find(s => s.data.code === 'MAT');
 const mathGy25 = subjects.find(s => s.data.code === 'MATE');
 ---
 
-<Layout title="GY25 - Utforska den nya gymnasiereformen">
+<Layout
+  title="GY25.se – Skolverkets ämnesplaner, lättare att läsa"
+  description={`Läs Skolverkets ämnesplaner för gymnasiet: ${totalSubjects} ämnen och ${totalCourses} nivåer i GY25, kurserna i GY11 och jämförelser mellan dem.`}
+>
   <main class="flex-grow">
     <!-- Hero Section -->
     <div class="bg-white">

@@ -29,7 +29,11 @@ gy11Courses.sort((a, b) => a.name.localeCompare(b.name));
 gy25Courses.sort((a, b) => a.name.localeCompare(b.name));
 ---
 
-<CompareLayout activeView="courses">
+<CompareLayout
+  activeView="courses"
+  title="Jämför GY11-kurser med GY25-nivåer"
+  description="Välj en kurs i GY11 och en nivå i GY25 och jämför centralt innehåll och betygskriterier sida vid sida."
+>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
     <!-- GY11 Courses -->
     <div>
