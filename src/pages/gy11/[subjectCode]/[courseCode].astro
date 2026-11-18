@@ -50,11 +50,12 @@ const { subject, course }: StaticPath['props'] = Astro.props;
 const fetchReport = loadFetchReport();
 const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
 const syncedDate = toSvDate(fetchReport?.generatedAt);
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <Layout title={`${course.name} - ${subject.data.name} - GY11`}>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
-    <div class="mb-8 flex justify-between items-center">
+    <div class="mb-8 flex justify-between items-center print:hidden">
       <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
@@ -69,6 +70,10 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
         </svg>
       </a>
     </div>
+
+    <p class="hidden print:block text-xs mb-4">
+      {subject.data.name} ({subject.data.code}), {course.name} ({course.code}), GY11 · Källa: Skolverket (skolverket.se), hämtad {syncedDate} · {pageUrl}
+    </p>
 
     <div class="mb-6">
       <GY11LegacyBanner compact />

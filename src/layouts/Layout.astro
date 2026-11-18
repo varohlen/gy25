@@ -1,4 +1,6 @@
 ---
+import '../styles/print.css';
+
 interface Props {
   title: string;
   description?: string;
@@ -68,7 +70,7 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
 </style>
   </head>
   <body class="min-h-screen bg-gray-50 flex flex-col font-body">
-    <header class="bg-white shadow-sm">
+    <header class="bg-white shadow-sm print:hidden">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex items-center justify-between h-16">
           <!-- Logo/Title -->
@@ -111,7 +113,7 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
       <slot />
     </main>
 
-    <footer class="bg-white border-t border-gray-100">
+    <footer class="bg-white border-t border-gray-100 print:hidden">
       <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <!-- Left side -->
