@@ -25,7 +25,7 @@ README riktar sig främst till dig som vill köra projektet lokalt, förstå dat
 
 ## Krav
 
-- Node.js `>=20.3.0` (rekommenderat: Node 24)
+- Node.js `^22.22.2 || >=24.15.0` (rekommenderat: Node 24 enligt `.node-version`). Kravet kommer från pnpm 12.
 - pnpm (version enligt `packageManager` i package.json, aktiveras med `corepack enable`)
 
 ## Projektstruktur (viktigast)
@@ -50,10 +50,12 @@ pnpm install
 pnpm dev
 ```
 
-Byggtest:
+Byggtest, typkontroll och enhetstester:
 
 ```bash
 pnpm build
+pnpm check
+pnpm test
 ```
 
 ## Scripts
@@ -69,8 +71,8 @@ pnpm analyze-changes
 pnpm subject-list
 
 # Detaljdiff för ett ämne
-pnpm subject-diff --version gy25 --code SAKE
-pnpm subject-diff --version gy25 --code FYSK
+pnpm subject-diff -- --version gy25 --code SAKE
+pnpm subject-diff -- --version gy25 --code FYSK
 ```
 
 ## Dataflöde i korthet
@@ -85,7 +87,8 @@ pnpm subject-diff --version gy25 --code FYSK
    med alla berörda ämnen och ändringsdetaljer. Synkar utan innehållsändringar
    uppdaterar kontrollstatusen utan att skapa en ny historikpost.
 
-Regressionstest för rapportarkivet (simulerat API och isolerat git-repo):
+Regressionstest för rapportarkivet (simulerat API och isolerat git-repo) körs
+med övriga tester via `pnpm test`, eller separat:
 
 ```bash
 node --import tsx --test scripts/tests/change-history.test.ts
@@ -105,7 +108,7 @@ node --import tsx --test scripts/tests/change-history.test.ts
 ## Bidra
 
 1. Skapa en branch från `main`
-2. Gör ändringar och kör minst `pnpm build`
+2. Gör ändringar och kör minst `pnpm build` och `pnpm test`
 3. Öppna PR mot `main`
 4. Hantera review-kommentarer och mergea när checks är gröna
 

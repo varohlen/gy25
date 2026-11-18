@@ -22,6 +22,9 @@ const gy11Schema = z.object({
   description: z.string().optional(),
   purpose: z.string().optional(),
   purposeHeading: z.string().optional(),
+  categories: z.array(z.object({
+    name: z.string()
+  })).optional(),
   courses: z.array(z.object({
     code: z.string(),
     name: z.string(),
