@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
 import GY25Layout from '../../layouts/GY25Layout.astro';
+import { validityBadge, badgeClasses } from '../../utils/validity';
 
 interface Course {
   code: string;
@@ -25,12 +26,16 @@ const courses = subjects.flatMap(subject =>
 // Sort subjects by name
 subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
 
-// Sort courses by subject name and then course name
+// Sort courses by subject name, subject code and then course name
+// (the code keeps same-named subjects such as STAD and STAS in separate groups)
 courses.sort((a, b) => {
-  const subjectCompare = a.subjectName.localeCompare(b.subjectName);
+  const subjectCompare = a.subjectName.localeCompare(b.subjectName) || a.subjectCode.localeCompare(b.subjectCode);
   if (subjectCompare !== 0) return subjectCompare;
   return a.name.localeCompare(b.name);
 });
+
+const nameCounts = new Map<string, number>();
+subjects.forEach(s => nameCounts.set(s.data.name, (nameCounts.get(s.data.name) ?? 0) + 1));
 
 function getSubjectColor(subject: SubjectWithCourses) {
   const categories = subject.data.categories?.map(c => c.name.toLowerCase()) || [];
@@ -55,13 +60,16 @@ let currentSubject = '';
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="space-y-1 divide-y-2 divide-gray-200">
       {courses.map((course, index) => {
-        const isNewSubject = currentSubject !== course.subjectName;
+        const isNewSubject = currentSubject !== course.subjectCode;
         if (isNewSubject) {
           subjectIndex++;
-          currentSubject = course.subjectName;
+          currentSubject = course.subjectCode;
         }
         
-        const currentSubjectData = subjects.find(s => s.data.name === course.subjectName);
+        const currentSubjectData = subjects.find(s => s.data.code === course.subjectCode);
+        const badge = isNewSubject && currentSubjectData
+          ? validityBadge(currentSubjectData.data, { always: (nameCounts.get(course.subjectName) ?? 0) > 1 })
+          : null;
         const searchTerms = [
           course.name.toLowerCase(),
           course.code.toLowerCase(),
@@ -77,7 +85,12 @@ let currentSubject = '';
           >
             {isNewSubject && currentSubjectData && (
               <div class={`${getSubjectColor(currentSubjectData)} px-4 py-3 border-b border-gray-200 shadow-sm`}>
-                <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
+                <h2 class="text-lg font-semibold text-gray-900">
+                  {course.subjectName} <span class="text-sm font-mono font-normal text-gray-600">{course.subjectCode}</span>
+                </h2>
+                {badge && (
+                  <p class={`inline-block mt-1 px-2 py-0.5 rounded text-xs font-medium ${badgeClasses[badge.tone]}`}>{badge.label}</p>
+                )}
               </div>
             )}
             <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">

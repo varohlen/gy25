@@ -2,6 +2,7 @@
 import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import { validityText } from '../utils/validity';
 
 interface Props {
   subject: CollectionEntry<'gy25-subjects'>;
@@ -66,6 +67,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
     </div>
     <div id="basic-info-content" class="section-content p-6 pt-0" data-section="basic-info">
       <div class="space-y-6">
+        <p class="text-sm text-gray-600">{validityText(subject.data)}</p>
         {subject.data.description && showDescription && (
           <div class="prose" set:html={safeHtml(subject.data.description)} />
         )}
