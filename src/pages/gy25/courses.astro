@@ -66,20 +66,24 @@ let currentSubject = '';
           course.name.toLowerCase(),
           course.code.toLowerCase(),
           course.subjectName.toLowerCase(),
-          course.subjectCode.toLowerCase(),
-          course.points?.toLowerCase() || ''
+          course.subjectCode.toLowerCase()
         ].join(' ');
         
         return (
+          <>
+          {isNewSubject && currentSubjectData && (
+            <div
+              class={`${getSubjectColor(currentSubjectData)} rounded-t-lg px-4 py-3 border-b border-gray-200 shadow-sm mt-8 first:mt-0`}
+              data-search-heading={course.subjectCode}
+            >
+              <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
+            </div>
+          )}
           <div 
-            class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`}
+            class="rounded-lg overflow-hidden"
             data-search={searchTerms}
+            data-search-group={course.subjectCode}
           >
-            {isNewSubject && currentSubjectData && (
-              <div class={`${getSubjectColor(currentSubjectData)} px-4 py-3 border-b border-gray-200 shadow-sm`}>
-                <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
-              </div>
-            )}
             <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
               <div class="flex justify-between items-center">
                 <div>
@@ -103,6 +107,7 @@ let currentSubject = '';
               </div>
             </div>
           </div>
+          </>
         );
       })}
     </div>
