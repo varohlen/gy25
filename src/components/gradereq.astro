@@ -95,7 +95,7 @@ const maxCriteria = Math.max(
       data-view="list"
       style="display: block;"
     >
-      <div class="prose max-w-none space-y-8">
+      <div class="prose space-y-8">
         {requirements.map((req) => (
           <div data-grade-step set:html={req.text} />
         ))}
