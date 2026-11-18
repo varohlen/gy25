@@ -62,26 +62,29 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
             </div>
             <div class="flex gap-2">
               <button 
+                type="button"
                 class="expand-btn p-2 hover:bg-white/50 rounded-lg transition-colors"
-                aria-label="Visa mer information"
+                aria-expanded="false"
+                aria-controls={`subject-details-${subject.data.code.toLowerCase()}`}
+                aria-label={`Visa nivåer för ${subject.data.name}`}
               >
-                <svg class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg aria-hidden="true" class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                 </svg>
               </button>
               <a 
                 href={`/gy25/${subject.data.code.toLowerCase()}`}
                 class="p-2 hover:bg-white/50 rounded-lg transition-colors"
-                aria-label="Gå till ämnesdetaljer"
+                aria-label={`Gå till ämnet ${subject.data.name}`}
               >
-                             <svg class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                             <svg aria-hidden="true" class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               </a>
             </div>
           </div>
 
-          <div class="expandable-content hidden">
+          <div id={`subject-details-${subject.data.code.toLowerCase()}`} class="expandable-content hidden">
             {subject.data.description && (
               <div class="prose prose-sm max-w-none mb-4" set:html={subject.data.description} />
             )}
@@ -95,7 +98,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
                       class="text-sm text-gray-600 hover:text-blue-600 flex items-center justify-between group"
                     >
                       <span>{course.name}</span>
-                      <span class="font-mono ml-2 text-gray-400 group-hover:text-blue-600">{course.code}</span>
+                      <span class="font-mono ml-2 text-gray-600 group-hover:text-blue-600">{course.code}</span>
                     </a>
                   ))}
                 </div>
@@ -130,6 +133,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
         
         if (content && icon) {
           content.classList.toggle('hidden');
+          button.setAttribute('aria-expanded', String(!content.classList.contains('hidden')));
           icon.style.transform = content.classList.contains('hidden') ? '' : 'rotate(180deg)';
         }
       });
