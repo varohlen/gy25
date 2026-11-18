@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import {
     loadChangeImpactReport,
+    compareByModifiedDateDesc,
     getChangeReportId,
     loadArchivedChangeReport,
     loadFetchHistory,
@@ -94,7 +95,7 @@ const mappedAll = gy25Entries
             versionInfo: entry.versionInfo ?? meta?.versionInfo,
         };
     })
-    .sort((a, b) => a.name.localeCompare(b.name, "sv-SE"));
+    .sort(compareByModifiedDateDesc);
 
 const mapped =
     hasCompleteLatestCodeList && latestCodes
@@ -114,13 +115,20 @@ const latestRemovedCount = latestGy25Stats?.removedCodes.length ?? 0;
 const isInitialResync = latestHistoryEntry?.edgeCase.initialResync ?? false;
 const previousHistoryEntries = history?.entries?.slice(1) ?? [];
 const latestArchive = latestHistoryEntry ? loadArchivedChangeReport(latestHistoryEntry) : null;
+// Startdatum härleds från historiken; den äldsta posten har baslinjens datum.
 const changeFromDate =
     latestHistoryEntry?.fromUpdatedAt ??
     earliestHistoryEntry?.fromUpdatedAt ??
-    "2024-12-19T00:00:00.000Z";
+    earliestHistoryEntry?.recordedAt ??
+    null;
 const changeToDate =
     latestHistoryEntry?.toUpdatedAt ?? fetchReport?.generatedAt ?? null;
-const changeRangeLabel = `Ändrat från ${toSvDate(changeFromDate)} till ${toSvDate(changeToDate)}`;
+const changeRangeLabel = changeFromDate
+    ? `Ändrat från ${toSvDate(changeFromDate)} till ${toSvDate(changeToDate)}`
+    : `Ändrat till ${toSvDate(changeToDate)}`;
+const subjectNameByCode = new Map(
+    gy25Subjects.map((subject) => [subject.data.code.toUpperCase(), subject.data.name]),
+);
 
 function formatHistoryRangeLabel(
     entry: NonNullable<typeof history>["entries"][number],
@@ -313,8 +321,9 @@ function formatHistoryRangeLabel(
                                     const summary = pedagogicalSummary(entry);
                                     return (
                                         <article
+                                            id={entry.code.toLowerCase()}
                                             data-search={searchTerms}
-                                            class="result-card bg-white border border-gray-100 rounded-xl p-5 shadow-sm"
+                                            class="result-card scroll-mt-4 bg-white border border-gray-100 rounded-xl p-5 shadow-sm"
                                         >
                                             <div class="flex flex-wrap items-start justify-between gap-3">
                                                 <div>
@@ -486,8 +495,9 @@ function formatHistoryRangeLabel(
                                     `${entry.name} ${entry.code}`.toLowerCase();
                                 return (
                                     <article
+                                        id={entry.code.toLowerCase()}
                                         data-search={searchTerms}
-                                        class="result-card rounded-lg border border-gray-100 bg-white px-4 py-3"
+                                        class="result-card scroll-mt-4 rounded-lg border border-gray-100 bg-white px-4 py-3"
                                     >
                                         <div class="flex flex-wrap items-center justify-between gap-2">
                                             <p class="text-sm text-gray-800">
@@ -641,8 +651,9 @@ function formatHistoryRangeLabel(
                                                         <a
                                                             href={`/gy25/${code.toLowerCase()}`}
                                                             class="inline-flex rounded-md border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 hover:text-blue-700"
+                                                            title={code}
                                                         >
-                                                            {code}
+                                                            {subjectNameByCode.get(code.toUpperCase()) ?? code}
                                                         </a>
                                                     ))}
                                                 {entry.versions.gy25
@@ -679,6 +690,10 @@ function formatHistoryRangeLabel(
 </Layout>
 
 <script>
+    import { initOpenHashTarget } from "../../scripts/open-hash-target";
+
+    initOpenHashTarget();
+
     document.addEventListener("DOMContentLoaded", () => {
         const input = document.getElementById(
             "subject-search",

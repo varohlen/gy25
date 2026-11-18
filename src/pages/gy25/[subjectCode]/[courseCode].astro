@@ -100,7 +100,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
           <div>
             <p>Nivån eller ämnet ändrades hos Skolverket vid den senaste hämtningen.</p>
           </div>
-          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+          <a href={`/andringar/innehall/#${subject.data.code.toLowerCase()}`} class="font-medium text-blue-700 hover:text-blue-800">
             Se ändringar
           </a>
         </div>
