@@ -6,6 +6,8 @@ const commonFields = {
   name: z.string(),
   typeOfSyllabus: z.string(),
   startDate: z.string(),
+  endDate: z.string().optional(),
+  canceledDate: z.string().optional(),
   modifiedDate: z.string(),
   skolfsGrund: z.string().optional(),
   skolfsAndring: z.string().optional(),
