@@ -25,7 +25,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
   activeView="subjects"
   searchPlaceholder="Sök på ämne eller ämneskod..."
 >
-  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {subjects.map((subject) => {
       // Prepare search terms while keeping the original layout
       const categories = subject.data.categories?.map(c => c.name).join(' ') || '';
@@ -39,17 +39,17 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
 
       return (
         <div 
-          class={`rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${getCardColor(subject)}`}
+          class={`min-w-0 rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${getCardColor(subject)}`}
           data-search={searchTerms}
         >
-          <div class="flex justify-between items-start mb-4">
-            <div class="flex-grow">
-              <div class="flex items-baseline gap-3 mb-1">
+          <div class="flex justify-between items-start gap-2 mb-4">
+            <div class="flex-grow min-w-0">
+              <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-1">
                 <a 
                   href={`/gy25/${subject.data.code.toLowerCase()}`}
-                  class="group"
+                  class="group min-w-0"
                 >
-                  <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-600">
+                  <h2 class="text-lg font-semibold text-gray-900 group-hover:text-blue-600 break-words hyphens-auto">
                     {subject.data.name}
                   </h2>
                 </a>
@@ -61,7 +61,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
                 </p>
               )}
             </div>
-            <div class="flex gap-2">
+            <div class="flex flex-shrink-0 gap-2">
               <button 
                 class="expand-btn p-2 hover:bg-white/50 rounded-lg transition-colors"
                 aria-label="Visa mer information"
