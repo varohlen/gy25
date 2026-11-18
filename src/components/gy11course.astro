@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
 
@@ -38,14 +39,14 @@ const relatedCourses = subject.data.courses?.filter((c) => c.code !== course.cod
     <p class="text-sm text-gray-500 font-mono mt-1">{course.code}</p>
     <p class="text-sm text-gray-600 mt-2">Från ämnet {subject.data.name}</p>
     {course.description && (
-      <div class="prose max-w-none mt-4" set:html={course.description} />
+      <div class="prose max-w-none mt-4" set:html={safeHtml(course.description)} />
     )}
   </section>
 
   {course.centralContent?.text && (
     <section class="bg-white rounded-lg shadow-sm p-6">
       <h2 class="text-xl font-bold text-gray-900 mb-4">Centralt innehåll</h2>
-      <div class="prose max-w-none [&_ul]:list-disc [&_ul]:pl-8" set:html={course.centralContent.text} />
+      <div class="prose max-w-none [&_ul]:list-disc [&_ul]:pl-8" set:html={safeHtml(course.centralContent.text)} />
     </section>
   )}
 
