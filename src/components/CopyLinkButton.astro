@@ -14,7 +14,7 @@ const { anchor, label, class: className = '' } = Astro.props;
 
 <button
   type="button"
-  class={`copy-link-button inline-flex items-center gap-1 rounded-md px-2 py-1 text-xs font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 ${className}`}
+  class={`copy-link-button print:hidden inline-flex items-center gap-1 rounded-md px-2 py-1 text-xs font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 ${className}`}
   data-copy-anchor={anchor}
   aria-label={`Kopiera länk till ${label}`}
   title="Kopiera länk"
@@ -80,11 +80,14 @@ const { anchor, label, class: className = '' } = Astro.props;
   }
 
   function expandSection(section: Element) {
-    // Sektionens första växlingsknapp är rubrikens knapp.
-    const toggle = section.querySelector<HTMLElement>('button[aria-expanded], button[data-expanded]');
-    if (!toggle) return;
-    const state = toggle.getAttribute('aria-expanded') ?? toggle.getAttribute('data-expanded');
-    if (state === 'false') toggle.click();
+    // Sektionens första växlingsknapp är rubrikens knapp. Samma mekanism som
+    // fäll-ihop-knapparna (VIK-157): ta bort hidden och sätt aria-expanded.
+    const toggle = section.querySelector<HTMLButtonElement>('button[aria-expanded][aria-controls]');
+    if (!toggle || toggle.getAttribute('aria-expanded') !== 'false') return;
+    const content = document.getElementById(toggle.getAttribute('aria-controls') ?? '');
+    if (!content) return;
+    content.hidden = false;
+    toggle.setAttribute('aria-expanded', 'true');
   }
 
   function openHashTarget() {
@@ -107,7 +110,7 @@ const { anchor, label, class: className = '' } = Astro.props;
       visible?.scrollIntoView({ block: 'start' });
     };
     requestAnimationFrame(scroll);
-    // Vänta in eventuella expanderingsanimationer.
+    // Vänta in layouten efter att sektionerna har öppnats.
     window.setTimeout(scroll, 350);
   }
 

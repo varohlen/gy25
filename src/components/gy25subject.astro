@@ -48,22 +48,28 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
 <div class="max-w-4xl mx-auto">
   <!-- Section 1: Subject Title and Basic Info -->
-  <div id="beskrivning" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
-    <CopyLinkButton anchor="beskrivning" label="Beskrivning" class="absolute right-16 top-6 z-10" />
-    <button 
-      class="section-toggle w-full p-6 flex justify-between items-center"
-      aria-expanded="true"
-      data-section="basic-info"
-    >
-      <div class="flex items-baseline gap-4">
+  <div id="beskrivning" data-anchor-section class="scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+    <div class="p-6 flex justify-between items-center gap-4">
+      <div class="flex flex-wrap items-baseline gap-x-4 gap-y-1 min-w-0">
         <h1 class="text-2xl font-bold text-gray-900">{subject.data.name}</h1>
         <span class="text-lg font-mono text-gray-600">{subject.data.code}</span>
       </div>
-      <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-      </svg>
-    </button>
-    <div class="section-content p-6 pt-0" data-section="basic-info">
+      <div class="flex flex-shrink-0 items-center gap-3">
+        <CopyLinkButton anchor="beskrivning" label="Beskrivning" />
+        <button 
+          type="button"
+          class="section-toggle flex-shrink-0 p-2 -m-2 rounded-lg"
+          aria-expanded="true"
+          aria-controls="basic-info-content"
+          aria-label={`Beskrivning av ämnet ${subject.data.name}`}
+        >
+          <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div id="basic-info-content" class="section-content p-6 pt-0" data-section="basic-info">
       <div class="space-y-6">
         <p class="text-sm text-gray-600">{validityText(subject.data)}</p>
         {subject.data.description && showDescription && (
@@ -88,19 +94,24 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
   <!-- Section 2: Purpose -->
   {showPurpose && subject.data.purpose && (
-    <div id="syfte" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
-      <CopyLinkButton anchor="syfte" label="Syfte" class="absolute right-16 top-6 z-10" />
-      <button 
-        class="section-toggle w-full p-6 flex justify-between items-center"
-        aria-expanded="true"
-        data-section="purpose"
-      >
-        <h2 class="text-2xl font-bold text-gray-900">Syfte</h2>
-        <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-      <div class="section-content p-6 pt-0" data-section="purpose">
+    <div id="syfte" data-anchor-section class="scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+      <div class="flex items-center gap-2 pr-4">
+        <h2 class="flex-1 min-w-0 text-2xl font-bold text-gray-900">
+          <button 
+            type="button"
+            class="section-toggle w-full p-6 pr-2 flex justify-between items-center gap-4 text-left rounded-lg"
+            aria-expanded="true"
+            aria-controls="purpose-content"
+          >
+            <span>Syfte</span>
+            <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+        </h2>
+        <CopyLinkButton anchor="syfte" label="Syfte" class="flex-shrink-0" />
+      </div>
+      <div id="purpose-content" class="section-content p-6 pt-0" data-section="purpose">
         <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(subject.data.purpose?.split('<h3>Nivåer i ämnet')[0] || '')} />
       </div>
     </div>
@@ -108,33 +119,41 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
 <!-- Section 3: Levels -->
 {subject.data.courses && subject.data.courses.length > 0 && showCourses && (
-  <div id="nivaer" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
-    <CopyLinkButton anchor="nivaer" label="Nivåer" class="absolute right-16 top-6 z-10" />
-    <button 
-      class="section-toggle w-full p-6 flex justify-between items-center"
-      aria-expanded="true"
-      data-section="courses"
-    >
-      <h2 class="text-2xl font-bold text-gray-900">Nivåer</h2>
-      <svg class="w-6 h-6 transform transition-transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-      </svg>
-    </button>
-    <div class="section-content p-6 pt-0" data-section="courses">
+  <div id="nivaer" data-anchor-section class="scroll-mt-4 bg-white rounded-lg shadow-sm mb-6">
+    <div class="flex items-center gap-2 pr-4">
+      <h2 class="flex-1 min-w-0 text-2xl font-bold text-gray-900">
+        <button 
+          type="button"
+          class="section-toggle w-full p-6 pr-2 flex justify-between items-center gap-4 text-left rounded-lg"
+          aria-expanded="true"
+          aria-controls="courses-content"
+        >
+          <span>Nivåer</span>
+          <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </h2>
+      <CopyLinkButton anchor="nivaer" label="Nivåer" class="flex-shrink-0" />
+    </div>
+    <div id="courses-content" class="section-content p-6 pt-0" data-section="courses">
       <div class="space-y-6">
         <!-- Section 3.1: Overview -->
         <div class="bg-gray-50 rounded-lg">
-          <button 
-            class="section-toggle w-full p-4 flex justify-between items-center"
-            aria-expanded="false"
-            data-section="levels-overview"
-          >
-            <h3 class="text-xl font-semibold text-gray-900">Nivåer i ämnet</h3>
-            <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-            </svg>
-          </button>
-          <div class="section-content p-4 pt-0 hidden" data-section="levels-overview">
+          <h3 class="text-xl font-semibold text-gray-900">
+            <button 
+              type="button"
+              class="section-toggle w-full p-4 flex justify-between items-center gap-4 text-left rounded-lg"
+              aria-expanded="false"
+              aria-controls="levels-overview-content"
+            >
+              <span>Nivåer i ämnet</span>
+              <svg aria-hidden="true" class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+          </h3>
+          <div id="levels-overview-content" class="section-content p-4 pt-0" data-section="levels-overview" hidden>
             <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-4 [&_li]:pl-2 [&_li]:mb-3">
               <ul>
                 <div set:html={safeHtml(subject.data.purpose?.split('<h3>Nivåer i ämnet')[1]?.split('<ul>')[1]?.split('</ul>')[0] || '')} />
@@ -150,20 +169,16 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
             data-anchor-section
             class="mb-8 last:mb-0 scroll-mt-4"
           >
-            <button 
-              class="section-toggle w-full p-4 flex justify-between items-center"
-              aria-expanded="false"
-              data-section={`course-${course.code}`}
-            >
-              <div class="flex items-baseline gap-4">
-                <a 
-                  href={`/gy25/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
-                  class="group"
-                >
-                  <h3 class="text-lg font-medium text-gray-900 group-hover:text-blue-600">
+            <div class="p-4 flex justify-between items-center gap-4">
+              <div class="flex flex-wrap items-baseline gap-x-4 gap-y-1 min-w-0">
+                <h3 class="text-lg font-medium text-gray-900">
+                  <a 
+                    href={`/gy25/${subject.data.code.toLowerCase()}/${course.code.toLowerCase()}`}
+                    class="hover:text-blue-600"
+                  >
                     {course.name}
-                  </h3>
-                </a>
+                  </a>
+                </h3>
                 <span class="text-sm font-mono text-gray-500">{course.code}</span>
                 {course.points && (
                   <span class="text-sm text-gray-500">
@@ -171,11 +186,19 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
                   </span>
                 )}
               </div>
-              <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-              </svg>
-            </button>
-            <div class="section-content p-4 pt-0 hidden" data-section={`course-${course.code}`}>
+              <button 
+                type="button"
+                class="section-toggle flex-shrink-0 p-2 -m-2 rounded-lg"
+                aria-expanded="false"
+                aria-controls={`course-${course.code}-content`}
+                aria-label={`Centralt innehåll för ${course.name}`}
+              >
+                <svg aria-hidden="true" class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+            </div>
+            <div id={`course-${course.code}-content`} class="section-content p-4 pt-0" data-section={`course-${course.code}`} hidden>
               <div class="space-y-6">
                 {course.description && (
                   <div class="prose" set:html={safeHtml(course.description)} />
@@ -208,28 +231,24 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
   )}
 </div>
 
+<style>
+  .section-toggle svg {
+    transition: transform 150ms;
+  }
+  .section-toggle[aria-expanded="true"] svg {
+    transform: rotate(180deg);
+  }
+</style>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    const toggleButtons = document.querySelectorAll('.section-toggle');
-    
-    toggleButtons.forEach(button => {
+    document.querySelectorAll<HTMLButtonElement>('.section-toggle[aria-controls]').forEach((button) => {
       button.addEventListener('click', () => {
         const isExpanded = button.getAttribute('aria-expanded') === 'true';
-        button.setAttribute('aria-expanded', (!isExpanded).toString());
-        
-        const sectionId = button.getAttribute('data-section');
-        const content = document.querySelector(`.section-content[data-section="${sectionId}"]`);
-        const chevron = button.querySelector('svg');
-        
-        if (content && chevron) {
-          if (content.classList.contains('hidden')) {
-            content.classList.remove('hidden');
-            chevron.style.transform = 'rotate(180deg)';
-          } else {
-            content.classList.add('hidden');
-            chevron.style.transform = 'rotate(0deg)';
-          }
-        }
+        button.setAttribute('aria-expanded', String(!isExpanded));
+        // hidden tar bort innehållet ur tabbordningen
+        const content = document.getElementById(button.getAttribute('aria-controls') ?? '');
+        if (content) content.hidden = isExpanded;
       });
     });
   });

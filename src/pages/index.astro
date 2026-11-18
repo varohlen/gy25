@@ -26,7 +26,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
   title="GY25.se – Skolverkets ämnesplaner, lättare att läsa"
   description={`Läs Skolverkets ämnesplaner för gymnasiet: ${totalSubjects} ämnen och ${totalCourses} nivåer i GY25, kurserna i GY11 och jämförelser mellan dem.`}
 >
-  <main class="flex-grow">
+  <div class="flex-grow">
     <!-- Hero Section -->
     <div class="bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
@@ -42,7 +42,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
           <div class="mt-8 flex justify-center gap-4">
             <a 
               href="/gy25" 
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-600 hover:bg-emerald-700 transition-colors"
+              class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-700 hover:bg-emerald-800 transition-colors"
             >
               Visa alla ämnen
             </a>
@@ -222,5 +222,5 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
         </div>
       </div>
     </div>
-  </main>
+  </div>
 </Layout>

@@ -18,9 +18,10 @@ const {
 ---
 
 <Layout title={title} description={description}>
-  <main class="max-w-7xl mx-auto px-4 py-12">
+  <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="flex flex-col items-center gap-6 mb-8">
-      <nav class="flex gap-4">
+      <h1 class="text-3xl font-bold text-gray-900 text-center">{activeView === 'subjects' ? 'Ämnen i GY11' : 'Kurser i GY11'}</h1>
+      <nav class="flex gap-4" aria-label="Vy">
         <a
           href="/gy11"
           aria-current={activeView === 'subjects' ? 'page' : undefined}
@@ -78,7 +79,7 @@ const {
         Inga resultat hittades
       </div>
     </div>
-  </main>
+  </div>
 </Layout>
 
 <script>
