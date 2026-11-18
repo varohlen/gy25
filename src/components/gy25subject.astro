@@ -44,7 +44,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
 
 ---
 
-<div class="max-w-4xl mx-auto px-4">
+<div class="max-w-4xl mx-auto">
   <!-- Section 1: Subject Title and Basic Info -->
   <div class="bg-white rounded-lg shadow-sm mb-6">
     <button 
@@ -63,7 +63,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
     <div class="section-content p-6 pt-0" data-section="basic-info">
       <div class="space-y-6">
         {subject.data.description && showDescription && (
-          <div class="prose max-w-none" set:html={safeHtml(subject.data.description)} />
+          <div class="prose" set:html={safeHtml(subject.data.description)} />
         )}
 
         {subject.data.categories && (
@@ -96,7 +96,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
         </svg>
       </button>
       <div class="section-content p-6 pt-0" data-section="purpose">
-        <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(subject.data.purpose?.split('<h3>Nivåer i ämnet')[0] || '')} />
+        <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(subject.data.purpose?.split('<h3>Nivåer i ämnet')[0] || '')} />
       </div>
     </div>
   )}
@@ -129,7 +129,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
             </svg>
           </button>
           <div class="section-content p-4 pt-0 hidden" data-section="levels-overview">
-            <div class="prose max-w-none [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-4 [&_li]:pl-2 [&_li]:mb-3">
+            <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-4 [&_li]:pl-2 [&_li]:mb-3">
               <ul>
                 <div set:html={safeHtml(subject.data.purpose?.split('<h3>Nivåer i ämnet')[1]?.split('<ul>')[1]?.split('</ul>')[0] || '')} />
               </ul>
@@ -171,11 +171,11 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
             <div class="section-content p-4 pt-0 hidden" data-section={`course-${course.code}`}>
               <div class="space-y-6">
                 {course.description && (
-                  <div class="prose max-w-none" set:html={safeHtml(course.description)} />
+                  <div class="prose" set:html={safeHtml(course.description)} />
                 )}
                 {course.centralContent && (
                   <div class="section-content p-6 pt-0" data-section="central-content"> 
-                    <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(course.centralContent.text?.replace('centrala innehåll:', '<strong>centrala innehåll:</strong>') || '')} />
+                    <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(course.centralContent.text?.replace('centrala innehåll:', '<strong>centrala innehåll:</strong>') || '')} />
                   </div>
                 )}
               </div>
