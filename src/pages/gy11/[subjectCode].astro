@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy11subject.astro';
 import GY11LegacyBanner from '../../components/GY11LegacyBanner.astro';
-import { loadFetchReport, toSvDate } from '../../utils/changelog';
+import SourceNote from '../../components/SourceNote.astro';
 
 export async function getStaticPaths() {
   const subjects = await getCollection('gy11-subjects');
@@ -14,9 +14,7 @@ export async function getStaticPaths() {
 }
 
 const { subject } = Astro.props;
-const fetchReport = loadFetchReport();
-const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
-const syncedDate = toSvDate(fetchReport?.generatedAt);
+// Utskriftsraden (VIK-169) identifierar sidan; källa och datum skrivs ut i källrutan (VIK-164).
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
@@ -33,7 +31,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
     </div>
 
     <p class="hidden print:block text-xs mb-4">
-      Ämne: {subject.data.name} ({subject.data.code}), GY11 · Källa: Skolverket (skolverket.se), hämtad {syncedDate} · {pageUrl}
+      Ämne: {subject.data.name} ({subject.data.code}), GY11 · {pageUrl}
     </p>
 
     <div class="mb-6">
@@ -42,11 +40,18 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 
     <SubjectView subject={subject} />
 
+    <SourceNote
+      version="gy11"
+      subjectName={subject.data.name}
+      skolfsGrund={subject.data.skolfsGrund}
+      skolfsAndring={subject.data.skolfsAndring}
+      modifiedDate={subject.data.modifiedDate}
+    />
+
     <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
       <div class="flex flex-wrap items-center justify-between gap-3">
         <div>
-          <p>Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span></p>
-          <p class="text-xs mt-1">Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span></p>
+          <p>Ändringar i Skolverkets data listas i ändringsloggen.</p>
         </div>
         <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>
       </div>
