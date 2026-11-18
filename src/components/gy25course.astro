@@ -50,6 +50,10 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
   return { text, gradeStep };
 }) || [];
 
+// Many levels have an empty description ("<p></p>"); only show it when it has text
+const hasDescription = (course.description ?? '').replace(/<[^>]*>|&nbsp;|\s/g, '') !== '';
+const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`;
+
 ---
 
 <div class="max-w-4xl mx-auto space-y-6">
@@ -65,6 +69,9 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
         </span>
       )}
     </div>
+    {hasDescription && (
+      <div class="prose max-w-none mt-4" set:html={course.description} />
+    )}
   </div>
 
   <!-- Section 2: Central Content -->
@@ -85,6 +92,11 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
   </div>
 
   <!-- Section 3: Knowledge Requirements -->
+  {(subject.data as SubjectData).knowledgeRequirements && (
+    <p class="text-gray-700 px-1">
+      Betygskriterierna gäller för ämnet <a href={subjectHref} class="text-blue-700 underline hover:text-blue-900">{(subject.data as SubjectData).name}</a> som helhet (ämnesbetyg) och omfattar de nivåer eleven läst.
+    </p>
+  )}
   {(subject.data as SubjectData).knowledgeRequirements && (
     <GradeRequirements
       requirements={processedRequirements}
