@@ -7,13 +7,13 @@ interface Props {
   course: {
     name: string;
     code: string;
-    points: string;
-    description: string;
-    centralCntHeading: string;
+    points?: string;
+    description?: string;
+    centralCntHeading?: string;
     centralContent?: {
       text: string;
     };
-    purpose: string;
+    purpose?: string;
     knowledgeRequirements?: KnowledgeRequirement[];
   };
   subject: CollectionEntry<'gy25-subjects'>;
@@ -148,7 +148,7 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
         button.setAttribute('aria-expanded', (!isExpanded).toString());
         
         const sectionId = button.getAttribute('data-section');
-        const content = document.querySelector(`.section-content[data-section="${sectionId}"]`);
+        const content = document.querySelector<HTMLElement>(`.section-content[data-section="${sectionId}"]`);
         const chevron = button.querySelector('svg');
         
         if (content && chevron) {

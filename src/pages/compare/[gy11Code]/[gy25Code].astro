@@ -41,8 +41,8 @@ if (gy11Subject && gy25Subject) {
   );
 
   // Find the specific courses
-  gy11Course = gy11ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy11Code?.toLowerCase());
-  gy25Course = gy25ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy25Code?.toLowerCase());
+  gy11Course = gy11ParentSubject?.data.courses?.find((c: { code: string }) => c.code.toLowerCase() === gy11Code?.toLowerCase());
+  gy25Course = gy25ParentSubject?.data.courses?.find((c: { code: string }) => c.code.toLowerCase() === gy25Code?.toLowerCase());
 
   isSubjectComparison = false;
 
@@ -105,7 +105,7 @@ const gy11GradeMap: GradeMap = {
 };
 
 if (!isSubjectComparison && gy11Course.knowledgeRequirements) {
-  gy11Course.knowledgeRequirements.forEach(req => {
+  gy11Course.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
     const step = req.gradeStep as GradeStep;
     if (step in gy11GradeMap) {
       gy11GradeMap[step].paragraphs = extractParagraphs(req.text);
@@ -121,7 +121,7 @@ const gy25GradeMap: GradeMap = {
 };
 
 if (!isSubjectComparison && gy25ParentSubject?.data.knowledgeRequirements) {
-  gy25ParentSubject.data.knowledgeRequirements.forEach(req => {
+  gy25ParentSubject.data.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
     const step = req.gradeStep as GradeStep;
     if (step in gy25GradeMap) {
       gy25GradeMap[step].paragraphs = extractParagraphs(req.text);
@@ -173,11 +173,11 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
             <div class="grid md:grid-cols-2 gap-8">
               <div>
                 <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
-                <GY11SubjectSection subject={gy11Subject} section={section.id} />
+                <GY11SubjectSection subject={gy11Subject!} section={section.id} />
               </div>
               <div>
                 <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
-                <GY25SubjectSection subject={gy25Subject} section={section.id} />
+                <GY25SubjectSection subject={gy25Subject!} section={section.id} />
               </div>
             </div>
           </div>
@@ -248,7 +248,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-view="list"
                         data-side="gy11"
                       >
-                        {gy11Course.knowledgeRequirements?.map((req) => (
+                        {gy11Course.knowledgeRequirements?.map((req: KnowledgeRequirement) => (
                           <div set:html={req.text} />
                         ))}
                       </div>
@@ -336,7 +336,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-view="list"
                         data-side="gy25"
                       >
-                        {gy25ParentSubject?.data.knowledgeRequirements?.map((req) => (
+                        {gy25ParentSubject?.data.knowledgeRequirements?.map((req: KnowledgeRequirement) => (
                           <div set:html={req.text} />
                         ))}
                       </div>
@@ -431,7 +431,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
         toggle.setAttribute('data-active', 'true');
 
         // Update content visibility for this side
-        document.querySelectorAll(`.view-content[data-side="${side}"]`).forEach(content => {
+        document.querySelectorAll<HTMLElement>(`.view-content[data-side="${side}"]`).forEach(content => {
           const contentView = content.getAttribute('data-view');
           content.style.display = contentView === view ? 'block' : 'none';
         });
