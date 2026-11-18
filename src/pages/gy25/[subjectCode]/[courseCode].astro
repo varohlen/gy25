@@ -1,8 +1,8 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildCourseDescription, levelTitle } from '../../../utils/seo';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy25course.astro';
-import { buildCourseDescription, levelTitle } from '../../../utils/seo';
 import { getSubjectChange, loadFetchReport, toSvDate } from '../../../utils/changelog';
 
 interface Course {

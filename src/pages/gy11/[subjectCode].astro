@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
+import { buildDescription } from '../../utils/seo';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy11subject.astro';
-import { buildDescription } from '../../utils/seo';
 import GY11LegacyBanner from '../../components/GY11LegacyBanner.astro';
 import { loadFetchReport, toSvDate } from '../../utils/changelog';
 
