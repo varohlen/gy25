@@ -1,16 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { pluralize } from '../utils/plural';
 
 const subjects = await getCollection('gy25-subjects');
 const totalSubjects = subjects.length;
 const totalCourses = subjects.reduce((acc, subject) => acc + (subject.data.courses?.length || 0), 0);
 
-// Get random subjects for the examples
-const shuffled = [...subjects].sort(() => Math.random() - 0.5);
-const featuredSubjects = shuffled
-  .filter(subject => subject.data.courses && subject.data.courses.length > 0)
-  .slice(0, 6);
+// Fasta, välkända exempelämnen (i den här ordningen) i stället för slumpade
+const featuredCodes = ['MATE', 'SVEN', 'ENGE', 'FYSK', 'HIST', 'SVEA'];
+const featuredSubjects = featuredCodes
+  .map(code => subjects.find(subject => subject.data.code === code))
+  .filter((subject): subject is (typeof subjects)[number] =>
+    Boolean(subject?.data.courses && subject.data.courses.length > 0)
+  );
 
 // Get a good example for comparison (Mathematics)
 const mathGy11 = await getCollection('gy11-subjects');
@@ -29,7 +32,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
             <span class="block text-emerald-600">GY25</span>
           </h1>
           <p class="mt-6 max-w-2xl mx-auto text-lg text-gray-600">
-            Upptäck den nya gymnasiereformen. {totalSubjects} ämnen med {totalCourses} nivåer 
+            Upptäck den nya gymnasiereformen. {pluralize(totalSubjects, 'ämne')} med {pluralize(totalCourses, 'nivå')} 
             samlade på ett ställe.
           </p>
           <div class="mt-8 flex justify-center gap-4">
@@ -76,7 +79,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
                 {subject.data.name}
               </h3>
               <div class="mt-4">
-                <p class="text-sm text-gray-600 mb-2">{subject.data.courses?.length} nivåer:</p>
+                <p class="text-sm text-gray-600 mb-2">{pluralize(subject.data.courses?.length ?? 0, 'nivå')}:</p>
                 <ul class="space-y-2">
                   {subject.data.courses?.map((course) => (
                     <li class="text-sm text-gray-600 flex items-center">
@@ -117,7 +120,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
           <div class="bg-blue-50 rounded-lg p-6">
             <h3 class="text-xl font-semibold text-blue-900 mb-4">Matematik i GY11</h3>
             <ul class="space-y-2">
-              {mathExample?.data.courses?.slice(0, 5).map(course => (
+              {mathExample?.data.courses?.map(course => (
                 <li class="flex items-center text-blue-800">
                   <span class="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
                   {course.name}

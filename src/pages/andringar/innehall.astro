@@ -9,6 +9,7 @@ import {
     loadFetchReport,
     toSvDate,
 } from "../../utils/changelog";
+import { pluralize } from "../../utils/plural";
 
 const changeReport = loadChangeImpactReport();
 const fetchReport = loadFetchReport();
@@ -294,7 +295,7 @@ function formatHistoryRangeLabel(
                             Ändringar som kan påverka undervisning (GY25)
                         </h3>
                         <span class="text-sm text-gray-500"
-                            >{pedagogicalEntries.length} ämnen</span
+                            >{pluralize(pedagogicalEntries.length, 'ämne')}</span
                         >
                     </div>
 
