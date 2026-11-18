@@ -1,9 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
+import { buildDescription } from '../../utils/seo';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy25subject.astro';
 import SourceNote from '../../components/SourceNote.astro';
-import { buildDescription } from '../../utils/seo';
 import { getSubjectChange, loadFetchReport, toSvDate } from '../../utils/changelog';
 
 export async function getStaticPaths() {

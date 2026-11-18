@@ -1,9 +1,9 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildCourseDescription } from '../../../utils/seo';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy11course.astro';
 import { getLatestSubjectReportHref } from '../../../utils/changelog';
-import { buildCourseDescription } from '../../../utils/seo';
 import GY11LegacyBanner from '../../../components/GY11LegacyBanner.astro';
 import SourceNote from '../../../components/SourceNote.astro';
 import { loadFetchReport, toSvDate } from '../../../utils/changelog';
