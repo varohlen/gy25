@@ -12,6 +12,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "fetch-data": "tsx scripts/fetch-skolverket-data.ts",
+    "check-updates": "tsx scripts/check-skolverket-updates.ts",
     "analyze-changes": "tsx scripts/analyze-curriculum-changes.ts report",
     "subject-diff": "tsx scripts/analyze-curriculum-changes.ts subject",
     "subject-list": "tsx scripts/analyze-curriculum-changes.ts list"
