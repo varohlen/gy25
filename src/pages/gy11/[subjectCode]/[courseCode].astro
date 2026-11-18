@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy11course.astro';
+import { buildCourseDescription } from '../../../utils/seo';
 import GY11LegacyBanner from '../../../components/GY11LegacyBanner.astro';
 import { loadFetchReport, toSvDate } from '../../../utils/changelog';
 
@@ -52,7 +53,13 @@ const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
 const syncedDate = toSvDate(fetchReport?.generatedAt);
 ---
 
-<Layout title={`${course.name} - ${subject.data.name} - GY11`}>
+<Layout
+  title={`${course.name} (${course.code}) – GY11`}
+  description={buildCourseDescription(
+    `${course.name} (${course.code})${course.points ? `, ${course.points} poäng` : ''}, GY11`,
+    course.centralContent?.text,
+  )}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <div class="mb-8 flex justify-between items-center">
       <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">

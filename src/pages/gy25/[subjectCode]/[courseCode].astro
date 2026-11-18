@@ -2,12 +2,14 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy25course.astro';
+import { buildCourseDescription, levelTitle } from '../../../utils/seo';
 import { getSubjectChange, loadFetchReport, toSvDate } from '../../../utils/changelog';
 
 interface Course {
   code: string;
   name: string;
   points?: string;
+  centralContent?: { text: string };
 }
 
 interface StaticPath {
@@ -50,7 +52,13 @@ const fetchReport = loadFetchReport();
 const syncedDate = toSvDate(fetchReport?.generatedAt);
 ---
 
-<Layout title={`${course.name} - ${subject.data.name} - GY25`}>
+<Layout
+  title={`${levelTitle(subject.data.name, course.name)} (${course.code})`}
+  description={buildCourseDescription(
+    `${levelTitle(subject.data.name, course.name)} (${course.code})${course.points ? `, ${course.points} poäng` : ''}, GY25`,
+    course.centralContent?.text,
+  )}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <!-- Navigation -->
     <div class="mb-8 flex justify-between items-center">

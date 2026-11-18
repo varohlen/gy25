@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy25subject.astro';
+import { buildDescription } from '../../utils/seo';
 import { getSubjectChange, loadFetchReport, toSvDate } from '../../utils/changelog';
 
 export async function getStaticPaths() {
@@ -19,7 +20,10 @@ const fetchReport = loadFetchReport();
 const syncedDate = toSvDate(fetchReport?.generatedAt);
 ---
 
-<Layout title={`${subject.data.name} - GY25`}>
+<Layout
+  title={`${subject.data.name} (${subject.data.code}) – GY25`}
+  description={buildDescription(`${subject.data.name} i GY25:`, subject.data.description || subject.data.purpose)}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <div class="mb-8">
       <a href="/gy25" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Källa för public/og-image.png (1200×630). Rendera om med sharp om texten ändras. -->
+  <rect width="1200" height="630" fill="#F9FAFB"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#059669"/>
+  <rect x="0" y="618" width="1200" height="12" fill="#2563EB"/>
+  <g transform="translate(96 150) scale(5)" fill="none" stroke="#2563EB" stroke-width="1.5">
+    <path d="M4 4.5V19.5C4 19.7761 4.22386 20 4.5 20H19.5C19.7761 20 20 19.7761 20 19.5V4.5C20 4.22386 19.7761 4 19.5 4H4.5C4.22386 4 4 4.22386 4 4.5Z"/>
+    <line x1="12" y1="4" x2="12" y2="20"/>
+  </g>
+  <text x="246" y="252" font-family="Inter, sans-serif" font-size="104" font-weight="700" fill="#111827">GY25.se</text>
+  <text x="100" y="390" font-family="Inter, sans-serif" font-size="52" font-weight="600" fill="#111827">Skolverkets ämnesplaner,</text>
+  <text x="100" y="458" font-family="Inter, sans-serif" font-size="52" font-weight="600" fill="#059669">lättare att läsa</text>
+  <text x="100" y="540" font-family="Inter, sans-serif" font-size="30" font-weight="400" fill="#4B5563">Ämnen och nivåer i GY25 · kurser i GY11 · jämförelser</text>
+</svg>
