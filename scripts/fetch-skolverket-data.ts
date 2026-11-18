@@ -4,6 +4,7 @@ import * as fs from 'fs/promises';
 import * as path from 'path';
 import type { FetchHistoryEntry, VersionKey } from '../src/utils/changelog';
 import { archivePreviousChangeImpactReport } from './lib/change-report-history';
+import { sanitizeHtml } from '../src/utils/sanitize-html';
 
 const ROOT_DIR = process.cwd();
 const CONTENT_DIR = path.join(ROOT_DIR, 'src', 'content');
@@ -230,17 +231,6 @@ async function loadLocalSubjects(version: VersionKey): Promise<Map<string, Local
   }
 
   return result;
-}
-
-function sanitizeHtml(html: string): string {
-  return html
-    .replace(/<script[\s\S]*?<\/script>/gi, '')
-    .replace(/<style[\s\S]*?<\/style>/gi, '')
-    .replace(/<(iframe|object|embed|link|meta|base)[^>]*>/gi, '')
-    .replace(/\son\w+="[^"]*"/gi, '')
-    .replace(/\son\w+='[^']*'/gi, '')
-    .replace(/\son\w+=\S+/gi, '')
-    .replace(/\s(href|src)=["']\s*javascript:[^"']*["']/gi, ' $1="#"');
 }
 
 function sanitizeSubjectHtml(subject: Record<string, unknown>): Record<string, unknown> {

@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../../../utils/sanitize-html';
 import Layout from '../../../layouts/Layout.astro';
 import GradeReq from '../../../components/gradereq.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
@@ -212,12 +213,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="space-y-4">
                       <p><strong>Poäng:</strong> {gy11Course.points}</p>
                       {gy11Course.description && (
-                        <div set:html={gy11Course.description} />
+                        <div set:html={safeHtml(gy11Course.description)} />
                       )}
                     </div>
                   ) : section.id === 'central_content' ? (
                     <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
-                      <div set:html={gy11Course.centralContent?.text} />
+                      <div set:html={safeHtml(gy11Course.centralContent?.text)} />
                     </div>
                   ) : section.id === 'grade_requirements' ? (
                     <div class="space-y-4">
@@ -249,7 +250,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-side="gy11"
                       >
                         {gy11Course.knowledgeRequirements?.map((req) => (
-                          <div set:html={req.text} />
+                          <div set:html={safeHtml(req.text)} />
                         ))}
                       </div>
 
@@ -274,7 +275,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                                 <tr>
                                   {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                                     <td class="px-6 py-4 align-top">
-                                      <div class="prose prose-blue max-w-none" set:html={gy11GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                      <div class="prose prose-blue max-w-none" set:html={safeHtml(gy11GradeMap[gradeStep].paragraphs[index] || '—')} />
                                     </td>
                                   ))}
                                 </tr>
@@ -300,12 +301,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="space-y-4">
                       <p><strong>Poäng:</strong> {gy25Course.points}</p>
                       {gy25Course.description && (
-                        <div set:html={gy25Course.description} />
+                        <div set:html={safeHtml(gy25Course.description)} />
                       )}
                     </div>
                   ) : section.id === 'central_content' ? (
                     <div class="prose prose-emerald max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
-                      <div set:html={gy25Course.centralContent?.text} />
+                      <div set:html={safeHtml(gy25Course.centralContent?.text)} />
                     </div>
                   ) : section.id === 'grade_requirements' ? (
                     <div class="space-y-4">
@@ -337,7 +338,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-side="gy25"
                       >
                         {gy25ParentSubject?.data.knowledgeRequirements?.map((req) => (
-                          <div set:html={req.text} />
+                          <div set:html={safeHtml(req.text)} />
                         ))}
                       </div>
 
@@ -362,7 +363,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                                 <tr>
                                   {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                                     <td class="px-6 py-4 align-top">
-                                      <div class="prose prose-emerald max-w-none" set:html={gy25GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                      <div class="prose prose-emerald max-w-none" set:html={safeHtml(gy25GradeMap[gradeStep].paragraphs[index] || '—')} />
                                     </td>
                                   ))}
                                 </tr>

@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -97,7 +98,7 @@ const maxCriteria = Math.max(
     >
       <div class="prose max-w-none space-y-8">
         {requirements.map((req) => (
-          <div set:html={req.text} />
+          <div set:html={safeHtml(req.text)} />
         ))}
       </div>
     </div>
@@ -122,7 +123,7 @@ const maxCriteria = Math.max(
               <tr>
                 {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                   <td class="px-6 py-4 align-top">
-                    <div class="prose max-w-none" set:html={gradeMap[gradeStep].paragraphs[index] || '—'} />
+                    <div class="prose max-w-none" set:html={safeHtml(gradeMap[gradeStep].paragraphs[index] || '—')} />
                   </td>
                 ))}
               </tr>
