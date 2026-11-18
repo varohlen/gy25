@@ -1,3 +1,14 @@
+/**
+ * Synkar Skolverkets Syllabus API v1 till src/content.
+ *
+ * Användning:
+ *   pnpm fetch-data                        # vanlig synk
+ *   pnpm fetch-data -- --allow-removals    # tillåt fler borttagningar än taket
+ *
+ * Skydd mot trasiga API-svar: ämneslistan valideras innan något skrivs, och en
+ * version får som mest ta bort max(5, 2 % av de lokala ämnena) per körning.
+ * Fler borttagningar avbryter versionen med fel, om inte --allow-removals anges.
+ */
 import axios from 'axios';
 import { createHash, randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
@@ -18,6 +29,9 @@ const GY25_DATE_OVERRIDE = process.env.SKOLVERKET_GY25_DATE?.trim();
 const REQUEST_DELAY_MS = 60;
 const FETCH_MAX_ATTEMPTS = 4;
 const FETCH_BASE_DELAY_MS = 500;
+const ALLOW_REMOVALS = process.argv.includes('--allow-removals');
+const REMOVAL_LIMIT_MIN = 5;
+const REMOVAL_LIMIT_SHARE = 0.02;
 
 const API_BASE = 'https://api.skolverket.se/syllabus/v1';
 
@@ -51,6 +65,7 @@ interface SubjectSummary {
 
 interface SubjectsListResponse extends APIMetadata {
   subjects: SubjectSummary[];
+  totalElements?: number;
 }
 
 interface LocalSubjectEntry {
@@ -172,6 +187,11 @@ async function fetchData<T>(url: string): Promise<T> {
         },
         timeout: 25000,
       });
+      // Axios returnerar t.ex. en HTML-sida som sträng i stället för att kasta fel.
+      if (!response.data || typeof response.data !== 'object') {
+        const contentType = String(response.headers?.['content-type'] ?? 'okänd');
+        throw new Error(`Unexpected non-JSON response from ${url} (content-type: ${contentType})`);
+      }
       return response.data;
     } catch (error) {
       lastError = error;
@@ -338,6 +358,53 @@ function createVersionReport(version: VersionKey): VersionReport {
   };
 }
 
+function isNonEmptyString(value: unknown): value is string {
+  return typeof value === 'string' && value.trim().length > 0;
+}
+
+// Ett tomt, ofullständigt eller felaktigt svar får aldrig tolkas som att alla ämnen har tagits bort.
+function validateSubjectsListResponse(data: unknown, version: VersionKey): SubjectsListResponse {
+  const label = version.toUpperCase();
+  if (!data || typeof data !== 'object' || Array.isArray(data)) {
+    throw new Error(`${label}: subject list response is not a JSON object`);
+  }
+  const response = data as Partial<SubjectsListResponse>;
+  if (!isNonEmptyString(response.apiVersion)) {
+    throw new Error(`${label}: subject list response is missing apiVersion`);
+  }
+  if (!Array.isArray(response.subjects)) {
+    throw new Error(`${label}: subject list response is missing the subjects array`);
+  }
+  if (response.subjects.length === 0) {
+    throw new Error(`${label}: subject list response contains no subjects`);
+  }
+  if (response.subjects.some(subject => !subject || !isNonEmptyString(subject.code))) {
+    throw new Error(`${label}: subject list response contains a subject without code`);
+  }
+  if (response.totalElements !== undefined && response.totalElements !== response.subjects.length) {
+    throw new Error(
+      `${label}: subject list response has totalElements=${String(response.totalElements)} but ${response.subjects.length} subjects`,
+    );
+  }
+  return response as SubjectsListResponse;
+}
+
+function extractAPIMetadata(response: Partial<APIMetadata>): APIMetadata {
+  const missing = (['apiVersion', 'apiReleased', 'apiStatus'] as const).filter(field => !isNonEmptyString(response[field]));
+  if (missing.length > 0) {
+    throw new Error(`API metadata is missing ${missing.join(', ')}`);
+  }
+  return {
+    apiVersion: response.apiVersion as string,
+    apiReleased: response.apiReleased as string,
+    apiStatus: response.apiStatus as string,
+  };
+}
+
+function getRemovalLimit(localCount: number): number {
+  return Math.max(REMOVAL_LIMIT_MIN, Math.floor(localCount * REMOVAL_LIMIT_SHARE));
+}
+
 async function processVersion(
   version: VersionKey,
   now: string,
@@ -352,8 +419,11 @@ async function processVersion(
 }> {
   const report = createVersionReport(version);
 
-  const listResponse = listResponseOverride ?? await fetchData<SubjectsListResponse>(ENDPOINTS[version].subjectsList);
-  const liveSubjects = Array.isArray(listResponse.subjects) ? listResponse.subjects : [];
+  const listResponse = validateSubjectsListResponse(
+    listResponseOverride ?? await fetchData<unknown>(ENDPOINTS[version].subjectsList),
+    version,
+  );
+  const liveSubjects = listResponse.subjects;
 
   report.subjectCount = liveSubjects.length;
 
@@ -382,6 +452,14 @@ async function processVersion(
   const toRemove = [...localSubjects.entries()]
     .filter(([code]) => !liveCodes.has(code))
     .map(([, local]) => local);
+
+  const removalLimit = getRemovalLimit(localSubjects.size);
+  if (toRemove.length > removalLimit && !ALLOW_REMOVALS) {
+    throw new Error(
+      `${version.toUpperCase()}: refusing to remove ${toRemove.length} of ${localSubjects.size} local subjects ` +
+        `(limit ${removalLimit}). Verify the API response and rerun with --allow-removals if the removals are expected.`,
+    );
+  }
 
   report.toFetchCount = toFetch.length;
   report.removedCount = toRemove.length;
@@ -447,7 +525,7 @@ async function loadLastAPIMetadata(): Promise<APIMetadata | null> {
 }
 
 async function saveAPIMetadata(metadata: APIMetadata): Promise<void> {
-  await writeJsonAtomic(API_METADATA_PATH, metadata);
+  await writeJsonAtomic(API_METADATA_PATH, extractAPIMetadata(metadata));
 }
 
 async function saveFetchState(state: FetchState): Promise<void> {
@@ -559,12 +637,8 @@ async function main() {
   try {
     archivePreviousChangeImpactReport();
     console.log('Fetching API metadata...');
-    const gy11List = await fetchData<SubjectsListResponse>(ENDPOINTS.gy11.subjectsList);
-    const currentMetadata: APIMetadata = {
-      apiVersion: gy11List.apiVersion,
-      apiReleased: gy11List.apiReleased,
-      apiStatus: gy11List.apiStatus,
-    };
+    const gy11List = validateSubjectsListResponse(await fetchData<unknown>(ENDPOINTS.gy11.subjectsList), 'gy11');
+    const currentMetadata = extractAPIMetadata(gy11List);
 
     const previousMetadata = await loadLastAPIMetadata();
     if (previousMetadata) {
