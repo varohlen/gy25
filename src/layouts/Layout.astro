@@ -81,8 +81,14 @@ const navLinks = [
 </style>
   </head>
   <body class="min-h-screen bg-gray-50 flex flex-col font-body">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-gray-900 focus:shadow-lg focus:outline-none focus:ring-2 focus:ring-emerald-700"
+    >
+      Hoppa till innehåll
+    </a>
     <header class="bg-white shadow-sm">
-      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Huvudmeny">
         <div class="flex flex-col md:flex-row md:items-center md:justify-between md:h-16">
           <!-- Logo/Title -->
           <div class="flex-shrink-0 flex items-center h-14 md:h-auto">
@@ -116,7 +122,7 @@ const navLinks = [
       </nav>
     </header>
 
-    <main class="flex-grow">
+    <main id="main" tabindex="-1" class="flex-grow focus:outline-none">
       <slot />
     </main>
 
@@ -131,14 +137,14 @@ const navLinks = [
             </div>
             <p class="text-sm text-gray-600">
               Ett verktyg för att utforska den nya gymnasiereformen.
-              Data från <a href="https://www.skolverket.se" class="text-emerald-600 hover:text-emerald-700 underline" target="_blank" rel="noopener noreferrer">Skolverket</a>.
+              Data från <a href="https://www.skolverket.se" class="text-emerald-700 hover:text-emerald-800 underline" target="_blank" rel="noopener noreferrer">Skolverket</a>.
             </p>
           </div>
 
           <!-- Middle side -->
           <div class="flex flex-col space-y-3">
             <h3 class="text-sm font-semibold text-gray-900">Navigering</h3>
-            <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2">
+            <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2" aria-label="Sidfot">
               <a href="/gy25" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY25</a>
               <a href="/om" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
               <a href="/gy11" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY11</a>
@@ -163,9 +169,9 @@ const navLinks = [
                 </svg>
               </a>
             </div>
-            <nav class="flex space-x-4">
+            <div class="flex space-x-4">
               <a href="https://arohlen.se" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">arohlen.se</a>
-            </nav>
+            </div>
           </div>
         </div>
       </div>
