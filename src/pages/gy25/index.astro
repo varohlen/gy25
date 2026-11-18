@@ -1,11 +1,16 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
 import GY25Layout from '../../layouts/GY25Layout.astro';
+import { validityBadge, badgeClasses } from '../../utils/validity';
 
 const subjects = await getCollection('gy25-subjects');
 
-// Sort subjects by name
-subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
+// Sort subjects by name, then by start date so same-named subjects are in order
+subjects.sort((a, b) => a.data.name.localeCompare(b.data.name) || a.data.startDate.localeCompare(b.data.startDate));
+
+// Names used by more than one subject (e.g. STAD and STAS "Städservice")
+const nameCounts = new Map<string, number>();
+subjects.forEach(s => nameCounts.set(s.data.name, (nameCounts.get(s.data.name) ?? 0) + 1));
 
 // Function to determine card color based on subject type
 function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
@@ -35,6 +40,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
         categories,
         courseNames
       ].join(' ').toLowerCase();
+      const badge = validityBadge(subject.data, { always: (nameCounts.get(subject.data.name) ?? 0) > 1 });
 
       return (
         <div 
@@ -57,6 +63,11 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
               {subject.data.courses && (
                 <p class="text-sm text-gray-600">
                   {subject.data.courses.length} nivå{subject.data.courses.length !== 1 ? 'er' : ''}
+                </p>
+              )}
+              {badge && (
+                <p class={`inline-block mt-2 px-2 py-0.5 rounded text-xs font-medium ${badgeClasses[badge.tone]}`}>
+                  {badge.label}
                 </p>
               )}
             </div>
