@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 import CopyLinkButton from './CopyLinkButton.astro';
 
@@ -109,10 +110,10 @@ const maxCriteria = Math.max(
           return gradeId ? (
             <div id={gradeId} class="relative scroll-mt-4" data-grade-step>
               <CopyLinkButton anchor={gradeId} label={`betyget ${req.gradeStep}`} class="absolute right-0 top-0" />
-              <div set:html={req.text} />
+              <div set:html={safeHtml(req.text)} />
             </div>
           ) : (
-            <div data-grade-step set:html={req.text} />
+            <div data-grade-step set:html={safeHtml(req.text)} />
           );
         })}
       </div>
@@ -138,7 +139,7 @@ const maxCriteria = Math.max(
               <tr>
                 {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                   <td class="px-6 py-4 align-top">
-                    <div class="prose max-w-none" set:html={gradeMap[gradeStep].paragraphs[index] || '—'} />
+                    <div class="prose max-w-none" set:html={safeHtml(gradeMap[gradeStep].paragraphs[index] || '—')} />
                   </td>
                 ))}
               </tr>
