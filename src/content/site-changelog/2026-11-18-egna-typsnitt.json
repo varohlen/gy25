@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-18",
+  "title": "Typsnitten laddas från gy25.se",
+  "category": "Teknik",
+  "summary": "Typsnitten Inter och Lexend levereras nu från gy25.se i stället för från Google Fonts. Ingen förfrågan går längre till tredje part för typsnitt.",
+  "details": [
+    "Sidorna gör inga anrop till fonts.googleapis.com eller fonts.gstatic.com.",
+    "Logotyperna på Om-sidan är nu optimerade bilder på några kilobyte i stället för cirka 90 kB."
+  ]
+}

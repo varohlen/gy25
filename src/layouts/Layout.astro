@@ -1,4 +1,7 @@
 ---
+import '@fontsource-variable/inter';
+import '@fontsource-variable/lexend';
+
 interface Props {
   title: string;
   description?: string;
@@ -50,20 +53,17 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
     <meta name="theme-color" content="#2563EB" />
     <meta name="author" content="Viktor Arohlén" />
     <meta name="keywords" content="GY25, gymnasiereform, ämnesbetyg, gymnasieskolan, skolverket, gy11" />
-    <!-- Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Fonts: self-hostade via @fontsource-variable (importerade ovan) -->
 
 <style>
   /* Custom font classes */
-  .font-logo { font-family: 'Inter', sans-serif; }
-  .font-heading { font-family: 'Lexend', sans-serif; }
-  .font-body { font-family: 'Inter', sans-serif; }
+  .font-logo { font-family: 'Inter Variable', sans-serif; }
+  .font-heading { font-family: 'Lexend Variable', sans-serif; }
+  .font-body { font-family: 'Inter Variable', sans-serif; }
 
   /* Base heading styles */
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lexend', sans-serif;
+    font-family: 'Lexend Variable', sans-serif;
   }
 </style>
   </head>
