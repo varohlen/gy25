@@ -112,7 +112,7 @@ const gradeSteps: GradeStep[] = ['E', 'C', 'A'];
     >
       <div class="prose space-y-8">
         {requirements.map((req) => (
-          <div set:html={safeHtml(req.text)} />
+          <div data-grade-step set:html={safeHtml(req.text)} />
         ))}
       </div>
     </div>
