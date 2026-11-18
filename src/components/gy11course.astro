@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface KnowledgeRequirement {
   text: string;
@@ -38,12 +39,13 @@ const relatedCourses = subject.data.courses?.filter((c) => c.code !== course.cod
     <p class="text-sm text-gray-500 font-mono mt-1">{course.code}</p>
     <p class="text-sm text-gray-600 mt-2">Från ämnet {subject.data.name}</p>
     {course.description && (
-      <div class="prose max-w-none mt-4" set:html={course.description} />
+      <div id="beskrivning" class="prose max-w-none mt-4 scroll-mt-4" set:html={course.description} />
     )}
   </section>
 
   {course.centralContent?.text && (
-    <section class="bg-white rounded-lg shadow-sm p-6">
+    <section id="centralt-innehall" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm p-6">
+      <CopyLinkButton anchor="centralt-innehall" label="Centralt innehåll" class="absolute right-6 top-6" />
       <h2 class="text-xl font-bold text-gray-900 mb-4">Centralt innehåll</h2>
       <div class="prose max-w-none [&_ul]:list-disc [&_ul]:pl-8" set:html={course.centralContent.text} />
     </section>
@@ -57,6 +59,7 @@ const relatedCourses = subject.data.courses?.filter((c) => c.code !== course.cod
       }))}
       title="Betygskriterier / Kunskapskrav"
       defaultView="list"
+      anchorId="betygskriterier"
     />
   )}
 

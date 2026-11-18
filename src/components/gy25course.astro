@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
   course: {
@@ -68,7 +69,8 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
   </div>
 
   <!-- Section 2: Central Content -->
-  <div class="bg-white rounded-lg shadow-sm">
+  <div id="centralt-innehall" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm">
+    <CopyLinkButton anchor="centralt-innehall" label="Centralt innehåll" class="absolute right-16 top-6 z-10" />
     <button 
       class="section-toggle w-full p-6 flex justify-between items-center"
       data-section="central-content"
@@ -90,12 +92,14 @@ const processedRequirements = (subject.data as SubjectData).knowledgeRequirement
       requirements={processedRequirements}
       title="Betygskriterier"
       defaultView="list"
+      anchorId="betygskriterier"
     />
   )}
 
   <!-- Section 4: Related Courses -->
   {(subject.data as SubjectData).courses && (
-    <div class="bg-white rounded-lg shadow-sm">
+    <div id="nivaer" data-anchor-section class="relative scroll-mt-4 bg-white rounded-lg shadow-sm">
+      <CopyLinkButton anchor="nivaer" label="Fler nivåer i ämnet" class="absolute right-16 top-6 z-10" />
       <button 
         class="section-toggle w-full p-6 flex justify-between items-center"
         data-section="related-courses"
