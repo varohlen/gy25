@@ -1,42 +1,46 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+const links = [
+  { href: '/gy25', label: 'Ämnen och nivåer i GY25' },
+  { href: '/gy11', label: 'Ämnen och kurser i GY11' },
+  { href: '/compare', label: 'Jämför GY11 med GY25' },
+  { href: '/andringar', label: 'Ändringar' },
+];
 ---
 
-<Layout title="404: Sidan hittades inte | GY25">
-  <div class="min-h-screen bg-white flex items-center">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24 text-center">
-      <div class="max-w-xl mx-auto">
-        <div class="bg-red-50 border-l-4 border-red-400 p-4 mb-8 text-center">
-          <div class="flex justify-center items-center">
-            <div class="flex-shrink-0">
-              <svg class="h-5 w-5 text-red-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd" />
-              </svg>
-            </div>
-            <div class="ml-3">
-              <h3 class="text-sm font-medium text-red-800">
-                Fel 404: Sidan kunde inte hittas
-              </h3>
-            </div>
-          </div>
-        </div>
+<Layout
+  title="Sidan hittades inte (404)"
+  description="Sidan du letade efter finns inte på GY25.se. Gå vidare till ämnen och nivåer i GY25, kurser i GY11 eller jämförelsen mellan dem."
+>
+  <div class="bg-white">
+    <div class="max-w-xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24 text-center">
+      <h1 class="text-3xl font-bold text-gray-900 sm:text-4xl mb-4">
+        Sidan finns inte
+      </h1>
+      <p class="text-lg text-gray-600 mb-8">
+        Länken du följde kan vara gammal eller felaktig. Prova någon av sidorna nedan.
+      </p>
 
-        <h1 class="text-3xl font-bold text-gray-900 sm:text-4xl mb-4">
-          Hoppsan! Den här sidan finns inte
-        </h1>
-        <p class="text-lg text-gray-600 mb-8">
-          Länken du följde kan vara gammal eller felaktig.
-        </p>
+      <ul class="grid gap-3 sm:grid-cols-2 text-left mb-8">
+        {links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class="block rounded-md border border-gray-200 px-4 py-3 font-medium text-gray-900 hover:border-blue-300 hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              {link.label} →
+            </a>
+          </li>
+        ))}
+      </ul>
 
-        <div class="flex justify-center space-x-4">
-          <a
-            href="/"
-            class="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
-          >
-            Gå till startsidan
-          </a>
-        </div>
-      </div>
+      <a
+        href="/"
+        class="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+      >
+        Gå till startsidan
+      </a>
     </div>
   </div>
 </Layout>

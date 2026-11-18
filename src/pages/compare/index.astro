@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import CompareLayout from '../../layouts/CompareLayout.astro';
+import { pluralize } from '../../utils/plural';
 
 const gy11Subjects = await getCollection('gy11-subjects');
 const gy25Subjects = await getCollection('gy25-subjects');
@@ -34,7 +35,7 @@ gy25Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
               <span class="block font-medium text-lg">{subject.data.name}</span>
               <span class="block text-gray-500">{subject.data.code}</span>
               <span class="mt-2 inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
-                {courseCount} kurser
+                {pluralize(courseCount, 'kurs')}
               </span>
             </button>
           );
@@ -64,7 +65,7 @@ gy25Subjects.sort((a, b) => a.data.name.localeCompare(b.data.name));
               <span class="block font-medium text-lg">{subject.data.name}</span>
               <span class="block text-gray-500">{subject.data.code}</span>
               <span class="mt-2 inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
-                {levelCount} nivåer
+                {pluralize(levelCount, 'nivå')}
               </span>
             </button>
           );
