@@ -3,6 +3,7 @@ import { safeHtml } from '../utils/sanitize-html';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
   course: {
@@ -76,20 +77,23 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
   </div>
 
   <!-- Section 2: Central Content -->
-  <div class="bg-white rounded-lg shadow-sm">
-    <h2 class="text-2xl font-bold text-gray-900">
-      <button 
-        type="button"
-        class="section-toggle w-full p-6 flex justify-between items-center gap-4 text-left rounded-lg"
-        aria-expanded="true"
-        aria-controls="central-content-content"
-      >
-        <span>Centralt innehåll</span>
-        <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-    </h2>
+  <div id="centralt-innehall" data-anchor-section class="scroll-mt-4 bg-white rounded-lg shadow-sm">
+    <div class="flex items-center gap-2 pr-4">
+      <h2 class="flex-1 min-w-0 text-2xl font-bold text-gray-900">
+        <button 
+          type="button"
+          class="section-toggle w-full p-6 pr-2 flex justify-between items-center gap-4 text-left rounded-lg"
+          aria-expanded="true"
+          aria-controls="central-content-content"
+        >
+          <span>Centralt innehåll</span>
+          <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+      </h2>
+      <CopyLinkButton anchor="centralt-innehall" label="Centralt innehåll" class="flex-shrink-0" />
+    </div>
     <div id="central-content-content" class="section-content p-6 pt-0" data-section="central-content">
       <div class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(course.centralContent?.text)} />
     </div>
@@ -106,25 +110,29 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
       requirements={processedRequirements}
       title="Betygskriterier"
       defaultView="list"
+      anchorId="betygskriterier"
     />
   )}
 
   <!-- Section 4: Related Courses -->
   {(subject.data as SubjectData).courses && (
-    <div class="bg-white rounded-lg shadow-sm">
-      <h2 class="text-2xl font-bold text-gray-900">
-        <button 
-          type="button"
-          class="section-toggle w-full p-6 flex justify-between items-center gap-4 text-left rounded-lg"
-          aria-expanded="true"
-          aria-controls="related-courses-content"
-        >
-          <span>Fler nivåer i ämnet</span>
-          <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-          </svg>
-        </button>
-      </h2>
+    <div id="nivaer" data-anchor-section class="scroll-mt-4 bg-white rounded-lg shadow-sm">
+      <div class="flex items-center gap-2 pr-4">
+        <h2 class="flex-1 min-w-0 text-2xl font-bold text-gray-900">
+          <button 
+            type="button"
+            class="section-toggle w-full p-6 pr-2 flex justify-between items-center gap-4 text-left rounded-lg"
+            aria-expanded="true"
+            aria-controls="related-courses-content"
+          >
+            <span>Fler nivåer i ämnet</span>
+            <svg aria-hidden="true" class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+        </h2>
+        <CopyLinkButton anchor="nivaer" label="Fler nivåer i ämnet" class="flex-shrink-0" />
+      </div>
       <div id="related-courses-content" class="section-content p-6 pt-0" data-section="related-courses">
         <div class="space-y-6">
           {(subject.data as SubjectData).courses.map(relatedCourse => (

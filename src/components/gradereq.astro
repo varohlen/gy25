@@ -1,6 +1,7 @@
 ---
 import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
   requirements: {
@@ -9,6 +10,8 @@ interface Props {
   }[];
   title?: string;
   defaultView?: 'list' | 'table';
+  /** Ger sektionen och betygsstegen id (#betyg-e osv.). Bara en per sida. */
+  anchorId?: string;
 }
 
 type GradeStep = 'E' | 'C' | 'A';
@@ -18,8 +21,12 @@ type GradeMap = Record<GradeStep, GradeData>;
 const { 
   requirements,
   title = "Betygskriterier",
-  defaultView = 'list'
+  defaultView = 'list',
+  anchorId
 } = Astro.props;
+
+const gradeAnchor = (gradeStep: string) =>
+  anchorId && ['E', 'C', 'A'].includes(gradeStep) ? `betyg-${gradeStep.toLowerCase()}` : undefined;
 
 // Function to extract paragraphs from HTML content
 function extractParagraphs(html: string): string[] {
@@ -66,7 +73,7 @@ const gradeSteps: GradeStep[] = ['E', 'C', 'A'];
 
 ---
 
-<section class="bg-white rounded-lg shadow-sm mb-6 relative z-10" data-gradereq>
+<section id={anchorId} data-anchor-section={anchorId ? '' : undefined} class="bg-white rounded-lg shadow-sm mb-6 relative z-10 scroll-mt-4" data-gradereq>
   <div class="p-6 flex flex-wrap justify-between items-center gap-x-4 gap-y-3 border-b border-gray-200 bg-white relative z-20">
     <h2 class="text-2xl font-bold text-gray-900">
       <button
@@ -81,25 +88,28 @@ const gradeSteps: GradeStep[] = ['E', 'C', 'A'];
         </svg>
       </button>
     </h2>
-    <div class="flex gap-2" role="group" aria-label="Visa betygskriterier som">
-      <button
-        type="button"
-        class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
-        data-view="list"
-        data-active="true"
-        aria-pressed="true"
-      >
-        Lista
-      </button>
-      <button
-        type="button"
-        class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
-        data-view="table"
-        data-active="false"
-        aria-pressed="false"
-      >
-        Tabell
-      </button>
+    <div class="flex flex-wrap items-center gap-3">
+      {anchorId && <CopyLinkButton anchor={anchorId} label={title} />}
+      <div class="flex gap-2" role="group" aria-label="Visa betygskriterier som">
+        <button
+          type="button"
+          class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+          data-view="list"
+          data-active="true"
+          aria-pressed="true"
+        >
+          Lista
+        </button>
+        <button
+          type="button"
+          class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+          data-view="table"
+          data-active="false"
+          aria-pressed="false"
+        >
+          Tabell
+        </button>
+      </div>
     </div>
   </div>
 
@@ -111,9 +121,17 @@ const gradeSteps: GradeStep[] = ['E', 'C', 'A'];
       style="display: block;"
     >
       <div class="prose space-y-8">
-        {requirements.map((req) => (
-          <div data-grade-step set:html={safeHtml(req.text)} />
-        ))}
+        {requirements.map((req) => {
+          const gradeId = gradeAnchor(req.gradeStep);
+          return gradeId ? (
+            <div id={gradeId} class="relative scroll-mt-4" data-grade-step>
+              <CopyLinkButton anchor={gradeId} label={`betyget ${req.gradeStep}`} class="absolute right-0 top-0" />
+              <div set:html={safeHtml(req.text)} />
+            </div>
+          ) : (
+            <div data-grade-step set:html={safeHtml(req.text)} />
+          );
+        })}
       </div>
     </div>
 
@@ -180,19 +198,32 @@ const gradeSteps: GradeStep[] = ['E', 'C', 'A'];
       const viewToggles = root.querySelectorAll<HTMLButtonElement>('.view-toggle');
       const viewContents = root.querySelectorAll<HTMLElement>('.view-content');
 
+      const applyView = (view: string | null) => {
+        viewToggles.forEach((t) => {
+          const active = t.getAttribute('data-view') === view;
+          t.setAttribute('data-active', String(active));
+          t.setAttribute('aria-pressed', String(active));
+        });
+
+        viewContents.forEach((content) => {
+          content.style.display = content.getAttribute('data-view') === view ? '' : 'none';
+        });
+      };
+
+      // Vyn sparas i ?vy=tabell (listvyn är standard och syns inte i URL:en)
+      if (new URLSearchParams(window.location.search).get('vy') === 'tabell') {
+        applyView('table');
+      }
+
       viewToggles.forEach((toggle) => {
         toggle.addEventListener('click', () => {
           const view = toggle.getAttribute('data-view');
+          applyView(view);
 
-          viewToggles.forEach((t) => {
-            const active = t === toggle;
-            t.setAttribute('data-active', String(active));
-            t.setAttribute('aria-pressed', String(active));
-          });
-
-          viewContents.forEach((content) => {
-            content.style.display = content.getAttribute('data-view') === view ? '' : 'none';
-          });
+          const url = new URL(window.location.href);
+          if (view === 'table') url.searchParams.set('vy', 'tabell');
+          else url.searchParams.delete('vy');
+          history.replaceState(history.state, '', url);
         });
       });
 
