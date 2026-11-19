@@ -14,7 +14,7 @@ function getCardColor(subject: (typeof subjects)[number]) {
 }
 ---
 
-<GY11Layout title="GY11 Ämnen" activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
+<GY11Layout title="Ämnen i GY11" description={`Alla ${subjects.length} ämnen i GY11 med kurser, syfte och kunskapskrav. GY11 gäller under övergången till GY25.`} activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
   <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {subjects.map((subject) => {
       const searchTerms = [

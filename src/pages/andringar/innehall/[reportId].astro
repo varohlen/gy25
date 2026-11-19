@@ -32,7 +32,10 @@ const detailLabels = {
 } as const;
 ---
 
-<Layout title={`Ändringsrapport ${toSvDate(entry.toUpdatedAt)} - GY25.se`}>
+<Layout
+    title={`Ändringsrapport ${toSvDate(entry.toUpdatedAt)}`}
+    description={`Ändringar i Skolverkets ämnesplaner ${range}: ${entry.versions.gy25.changedCodes.length} ändrade GY25-ämnen och ${entry.versions.gy11.changedCodes.length} ändrade GY11-ämnen.`}
+>
     <main class="max-w-5xl mx-auto px-4 py-14">
         <a href="/andringar/innehall/" class="text-sm font-medium text-blue-700 hover:text-blue-800">
             ← Alla innehållsuppdateringar

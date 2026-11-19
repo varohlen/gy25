@@ -4,6 +4,7 @@ import GradeReq from '../../../components/gradereq.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
+import { levelTitle } from '../../../utils/seo';
 
 // Tell Astro to server-render this page
 export const prerender = false;
@@ -68,8 +69,11 @@ const courseSections = [
 
 // Set the page title based on what we're comparing
 const pageTitle = isSubjectComparison 
-  ? `Jämför ${gy11Subject?.data.name} med ${gy25Subject?.data.name}`
-  : `Jämför ${gy11Course?.name} med ${gy25Course?.name}`;
+  ? `Jämför ${gy11Subject?.data.name} (GY11) med ${gy25Subject?.data.name} (GY25)`
+  : `Jämför ${gy11Course?.name} (GY11) med ${levelTitle(gy25ParentSubject?.data.name ?? '', gy25Course?.name ?? '')} (GY25)`;
+const pageDescription = isSubjectComparison
+  ? `Jämför ämnet ${gy11Subject?.data.name} i GY11 med ${gy25Subject?.data.name} i GY25: beskrivning, syfte och kurser och nivåer sida vid sida.`
+  : `Jämför kursen ${gy11Course?.name} i GY11 med ${levelTitle(gy25ParentSubject?.data.name ?? '', gy25Course?.name ?? '')} i GY25: centralt innehåll och betygskriterier sida vid sida.`;
 
 interface KnowledgeRequirement {
   text: string;
@@ -144,7 +148,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
 
 ---
 
-<Layout title={pageTitle}>
+<Layout title={pageTitle} description={pageDescription}>
   <div class="max-w-7xl mx-auto px-4 py-12">
     <!-- Back Button -->
     <div class="mb-8">
