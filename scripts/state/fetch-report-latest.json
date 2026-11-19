@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:22:08.731Z",
+  "generatedAt": "2026-11-19T16:05:16.351Z",
   "apiMetadata": {
     "apiVersion": "1.16.2-SNAPSHOT",
     "apiReleased": "2026-05-08",
@@ -26,51 +26,18 @@
       "version": "gy25",
       "status": "ok",
       "subjectCount": 569,
-      "toFetchCount": 19,
-      "fetchedCount": 19,
+      "toFetchCount": 1,
+      "fetchedCount": 1,
       "removedCount": 0,
-      "unchangedCount": 550,
-      "addedSample": [
-        "INDY",
-        "PLAB",
-        "PROB",
-        "STAS"
-      ],
+      "unchangedCount": 568,
+      "addedSample": [],
       "removedSample": [],
       "changedSample": [
-        "ATVO",
-        "BYGN",
-        "FINI",
-        "FINN",
-        "GLAS",
-        "HAND",
-        "HJUL",
-        "HUMN",
-        "KULT",
-        "LASO"
+        "ATVO"
       ],
-      "addedCodes": [
-        "INDY",
-        "PLAB",
-        "PROB",
-        "STAS"
-      ],
+      "addedCodes": [],
       "changedCodes": [
-        "ATVO",
-        "BYGN",
-        "FINI",
-        "FINN",
-        "GLAS",
-        "HAND",
-        "HJUL",
-        "HUMN",
-        "KULT",
-        "LASO",
-        "MALE",
-        "STAD",
-        "STES",
-        "TAKO",
-        "TATS"
+        "ATVO"
       ],
       "removedCodes": []
     }
