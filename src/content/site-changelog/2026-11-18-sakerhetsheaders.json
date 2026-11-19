@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-18",
+  "title": "Säkerhetsheaders och snabbare cachning",
+  "category": "Teknik",
+  "summary": "Webbplatsen skickar nu säkerhetsheaders, till exempel HSTS och skydd mot inbäddning i ramar. Byggda filer cachas längre i webbläsaren.",
+  "details": [
+    "Säkerhetsheaders sätts via Cloudflare Pages och gäller även jämförelsesidorna.",
+    "Hashade filer under /_astro/ cachas i ett år.",
+    "Den gamla adressen /about leder nu direkt till /om/ med en permanent omdirigering."
+  ]
+}

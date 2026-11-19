@@ -19,7 +19,7 @@ courses.sort((a, b) => {
 });
 ---
 
-<GY11Layout title="GY11 Kurser" activeView="courses" searchPlaceholder="Sök på kurs, kurskod eller ämne...">
+<GY11Layout title="Kurser i GY11" description={`Alla ${courses.length} kurser i GY11 grupperade per ämne, med kurskod och poäng.`} activeView="courses" searchPlaceholder="Sök på kurs, kurskod eller ämne...">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="space-y-1 divide-y-2 divide-gray-200">
       {courses.map((course, index) => {
@@ -28,12 +28,13 @@ courses.sort((a, b) => {
         const searchTerms = `${course.name} ${course.code} ${course.subjectName} ${course.subjectCode}`.toLowerCase();
 
         return (
-          <div class={`rounded-lg overflow-hidden ${isNewSubject ? 'mt-8 first:mt-0' : ''}`} data-search={searchTerms}>
-            {isNewSubject && (
-              <div class="bg-blue-50 px-4 py-3 border-b border-gray-200 shadow-sm">
-                <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
-              </div>
-            )}
+          <>
+          {isNewSubject && (
+            <div class="bg-blue-50 rounded-t-lg px-4 py-3 border-b border-gray-200 shadow-sm mt-8 first:mt-0" data-search-heading={course.subjectCode}>
+              <h2 class="text-lg font-semibold text-gray-900">{course.subjectName}</h2>
+            </div>
+          )}
+          <div class="rounded-lg overflow-hidden" data-search={searchTerms} data-search-group={course.subjectCode}>
             <div class="px-4 py-3 bg-white hover:bg-gray-50 transition-colors">
               <div class="flex justify-between items-center">
                 <div>
@@ -46,6 +47,7 @@ courses.sort((a, b) => {
               </div>
             </div>
           </div>
+          </>
         );
       })}
     </div>

@@ -1,16 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import WhichCurriculum from '../components/WhichCurriculum.astro';
+import { pluralize } from '../utils/plural';
 
 const subjects = await getCollection('gy25-subjects');
 const totalSubjects = subjects.length;
 const totalCourses = subjects.reduce((acc, subject) => acc + (subject.data.courses?.length || 0), 0);
 
-// Get random subjects for the examples
-const shuffled = [...subjects].sort(() => Math.random() - 0.5);
-const featuredSubjects = shuffled
-  .filter(subject => subject.data.courses && subject.data.courses.length > 0)
-  .slice(0, 6);
+// Fasta, välkända exempelämnen (i den här ordningen) i stället för slumpade
+const featuredCodes = ['MATE', 'SVEN', 'ENGE', 'FYSK', 'HIST', 'SVEA'];
+const featuredSubjects = featuredCodes
+  .map(code => subjects.find(subject => subject.data.code === code))
+  .filter((subject): subject is (typeof subjects)[number] =>
+    Boolean(subject?.data.courses && subject.data.courses.length > 0)
+  );
 
 // Get a good example for comparison (Mathematics)
 const mathGy11 = await getCollection('gy11-subjects');
@@ -18,8 +22,11 @@ const mathExample = mathGy11.find(s => s.data.code === 'MAT');
 const mathGy25 = subjects.find(s => s.data.code === 'MATE');
 ---
 
-<Layout title="GY25 - Utforska den nya gymnasiereformen">
-  <main class="flex-grow">
+<Layout
+  title="GY25.se – Skolverkets ämnesplaner, lättare att läsa"
+  description={`Läs Skolverkets ämnesplaner för gymnasiet: ${totalSubjects} ämnen och ${totalCourses} nivåer i GY25, kurserna i GY11 och jämförelser mellan dem.`}
+>
+  <div class="flex-grow">
     <!-- Hero Section -->
     <div class="bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
@@ -29,13 +36,13 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
             <span class="block text-emerald-600">GY25</span>
           </h1>
           <p class="mt-6 max-w-2xl mx-auto text-lg text-gray-600">
-            Upptäck den nya gymnasiereformen. {totalSubjects} ämnen med {totalCourses} nivåer 
+            Upptäck den nya gymnasiereformen. {pluralize(totalSubjects, 'ämne')} med {pluralize(totalCourses, 'nivå')} 
             samlade på ett ställe.
           </p>
           <div class="mt-8 flex justify-center gap-4">
             <a 
               href="/gy25" 
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-600 hover:bg-emerald-700 transition-colors"
+              class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-700 hover:bg-emerald-800 transition-colors"
             >
               Visa alla ämnen
             </a>
@@ -53,6 +60,13 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
             </a>
           </p>
         </div>
+      </div>
+    </div>
+
+    <!-- Which curriculum applies -->
+    <div class="bg-gray-50 pt-16">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <WhichCurriculum />
       </div>
     </div>
 
@@ -76,7 +90,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
                 {subject.data.name}
               </h3>
               <div class="mt-4">
-                <p class="text-sm text-gray-600 mb-2">{subject.data.courses?.length} nivåer:</p>
+                <p class="text-sm text-gray-600 mb-2">{pluralize(subject.data.courses?.length ?? 0, 'nivå')}:</p>
                 <ul class="space-y-2">
                   {subject.data.courses?.map((course) => (
                     <li class="text-sm text-gray-600 flex items-center">
@@ -117,7 +131,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
           <div class="bg-blue-50 rounded-lg p-6">
             <h3 class="text-xl font-semibold text-blue-900 mb-4">Matematik i GY11</h3>
             <ul class="space-y-2">
-              {mathExample?.data.courses?.slice(0, 5).map(course => (
+              {mathExample?.data.courses?.map(course => (
                 <li class="flex items-center text-blue-800">
                   <span class="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
                   {course.name}
@@ -178,9 +192,9 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                 </svg>
               </div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-2">Officiell information</h3>
+              <h3 class="text-lg font-semibold text-gray-900 mb-2">Källa: Skolverket</h3>
               <p class="text-gray-600">
-                All information kommer direkt från <a href="https://www.skolverket.se" class="text-emerald-600 hover:text-emerald-700 underline" target="_blank" rel="noopener noreferrer">Skolverkets officiella dokument</a>.
+                Ämnen och nivåer hämtas från <a href="https://www.skolverket.se" class="text-emerald-600 hover:text-emerald-700 underline" target="_blank" rel="noopener noreferrer">Skolverkets</a> läroplansdata. Kontrollera mot Skolverket vid formella beslut.
               </p>
             </div>
 
@@ -208,5 +222,5 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
         </div>
       </div>
     </div>
-  </main>
+  </div>
 </Layout>

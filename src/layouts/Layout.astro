@@ -1,23 +1,48 @@
 ---
+import '@fontsource-variable/inter';
+import '@fontsource-variable/lexend';
+import '../styles/print.css';
+import { SITE_NAME } from '../utils/seo';
+
 interface Props {
+  /** Sidans namn. " – GY25.se" läggs till om titeln inte redan innehåller GY25.se. */
   title: string;
   description?: string;
   image?: string;
+  imageAlt?: string;
 }
 
 const { 
   title,
   description = "Utforska den nya gymnasiereformen GY25. Se alla ämnen, nivåer och förändringar från GY11.",
-  image = "/favicon.svg"
+  image = "/og-image.png",
+  imageAlt = "GY25.se – Skolverkets ämnesplaner, lättare att läsa",
 } = Astro.props;
 
+const fullTitle = title.includes(SITE_NAME) ? title : `${title} – ${SITE_NAME}`;
 const currentPath = Astro.url.pathname;
-const siteUrl = 'https://gy25.se';
-const canonicalURL = `${siteUrl}${currentPath}`;
-const imageUrl = `${siteUrl}${image}`;
+const site = Astro.site ?? new URL('https://gy25.se');
+const canonicalURL = new URL(Astro.url.pathname, site).href;
+const imageUrl = new URL(image, site).href;
+// Stor delningsbild bara för rasterbilder; SVG visas inte av Facebook, LinkedIn eller X.
+const hasLargeImage = /\.(png|jpe?g|webp)$/i.test(image);
+const isDefaultImage = image === "/og-image.png";
 
 const activeClass = "inline-flex items-center px-1 pt-1 border-b-2 border-blue-500 text-sm font-medium text-gray-900";
 const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700";
+
+// Huvudmenyn. Aktiv länk: aria-current och bakgrund med minst 4.5:1 mot vit text.
+const navLinks = [
+  { href: '/gy25', label: 'Ämnen och nivåer', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/gy11', label: 'GY11', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/compare', label: 'Jämför med GY11', active: 'bg-blue-600 hover:bg-blue-700' },
+  { href: '/andringar', label: 'Ändringar', active: 'bg-emerald-700 hover:bg-emerald-800' },
+].map((link) => {
+  const isSection = currentPath === link.href || currentPath.startsWith(`${link.href}/`);
+  const isPage = currentPath.replace(/\/$/, '') === link.href;
+  const ariaCurrent: 'page' | 'true' | undefined = isPage ? 'page' : isSection ? 'true' : undefined;
+  return { ...link, isSection, ariaCurrent };
+});
 ---
 
 <!DOCTYPE html>
@@ -28,51 +53,60 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     
-    <title>{title}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={description} />
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="sv_SE" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageUrl} />
+    {isDefaultImage && <meta property="og:image:width" content="1200" />}
+    {isDefaultImage && <meta property="og:image:height" content="630" />}
+    <meta property="og:image:alt" content={imageAlt} />
     
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={imageUrl} />
+    <meta name="twitter:card" content={hasLargeImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="twitter:image:alt" content={imageAlt} />
     
     <!-- Additional Meta -->
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content="#2563EB" />
     <meta name="author" content="Viktor Arohlén" />
     <meta name="keywords" content="GY25, gymnasiereform, ämnesbetyg, gymnasieskolan, skolverket, gy11" />
-    <!-- Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Fonts: self-hostade via @fontsource-variable (importerade ovan) -->
 
 <style>
   /* Custom font classes */
-  .font-logo { font-family: 'Inter', sans-serif; }
-  .font-heading { font-family: 'Lexend', sans-serif; }
-  .font-body { font-family: 'Inter', sans-serif; }
+  .font-logo { font-family: 'Inter Variable', sans-serif; }
+  .font-heading { font-family: 'Lexend Variable', sans-serif; }
+  .font-body { font-family: 'Inter Variable', sans-serif; }
 
   /* Base heading styles */
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lexend', sans-serif;
+    font-family: 'Lexend Variable', sans-serif;
   }
 </style>
   </head>
   <body class="min-h-screen bg-gray-50 flex flex-col font-body">
-    <header class="bg-white shadow-sm">
-      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center justify-between h-16">
+    <a
+      href="#huvudinnehall"
+      class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-gray-900 focus:shadow-lg focus:outline-none focus:ring-2 focus:ring-emerald-700"
+    >
+      Hoppa till innehåll
+    </a>
+    <header class="bg-white shadow-sm print:hidden">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Huvudmeny">
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between md:h-16">
           <!-- Logo/Title -->
-          <div class="flex-shrink-0">
+          <div class="flex-shrink-0 flex items-center h-14 md:h-auto">
             <a href="/" class="flex items-center space-x-2 group">
               <img src="/favicon.svg" alt="" class="h-8 w-8" />
               <span class="text-2xl font-bold text-gray-900 font-logo group-hover:text-gray-700 transition-colors">
@@ -81,37 +115,33 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
             </a>
           </div>
 
-          <!-- Navigation -->
-          <div class="flex items-center space-x-4">
-            <a 
-              href="/gy25" 
-              class={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-md
-                ${Astro.url.pathname.startsWith('/gy25') 
-                  ? 'text-white bg-emerald-600 hover:bg-emerald-700' 
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'}`}
-            >
-              Ämnen och nivåer
-            </a>
-            <span class="text-gray-300">|</span>
-            <a 
-              href="/compare" 
-              class={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-md
-                ${Astro.url.pathname.startsWith('/compare') 
-                  ? 'text-white bg-blue-600 hover:bg-blue-700' 
-                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'}`}
-            >
-              Jämför med GY11
-            </a>
-          </div>
+          <!-- Navigation: en rad som går att scrolla i sidled på smala skärmar -->
+          <ul class="-mx-4 px-4 pb-3 md:mx-0 md:px-0 md:pb-0 flex items-center gap-1 lg:gap-2 overflow-x-auto whitespace-nowrap">
+            {navLinks.map((link) => (
+              <li class="flex-shrink-0">
+                <a
+                  href={link.href}
+                  aria-current={link.ariaCurrent}
+                  class={`inline-flex items-center px-3 py-2 text-sm font-medium rounded-md ${
+                    link.isSection
+                      ? `text-white ${link.active}`
+                      : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'
+                  }`}
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </nav>
     </header>
 
-    <main class="flex-grow">
+    <main id="huvudinnehall" tabindex="-1" class="flex-grow focus:outline-none">
       <slot />
     </main>
 
-    <footer class="bg-white border-t border-gray-100">
+    <footer class="bg-white border-t border-gray-100 print:hidden">
       <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <!-- Left side -->
@@ -122,14 +152,14 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
             </div>
             <p class="text-sm text-gray-600">
               Ett verktyg för att utforska den nya gymnasiereformen.
-              Data från <a href="https://www.skolverket.se" class="text-emerald-600 hover:text-emerald-700 underline" target="_blank" rel="noopener noreferrer">Skolverket</a>.
+              Data från <a href="https://www.skolverket.se" class="text-emerald-700 hover:text-emerald-800 underline" target="_blank" rel="noopener noreferrer">Skolverket</a>.
             </p>
           </div>
 
           <!-- Middle side -->
           <div class="flex flex-col space-y-3">
             <h3 class="text-sm font-semibold text-gray-900">Navigering</h3>
-            <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2">
+            <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2" aria-label="Sidfot">
               <a href="/gy25" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY25</a>
               <a href="/om" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
               <a href="/gy11" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY11</a>
@@ -154,9 +184,9 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
                 </svg>
               </a>
             </div>
-            <nav class="flex space-x-4">
+            <div class="flex space-x-4">
               <a href="https://arohlen.se" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">arohlen.se</a>
-            </nav>
+            </div>
           </div>
         </div>
       </div>

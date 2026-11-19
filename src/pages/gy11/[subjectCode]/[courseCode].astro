@@ -1,9 +1,11 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildCourseDescription } from '../../../utils/seo';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy11course.astro';
+import { getLatestSubjectReportHref } from '../../../utils/changelog';
 import GY11LegacyBanner from '../../../components/GY11LegacyBanner.astro';
-import { loadFetchReport, toSvDate } from '../../../utils/changelog';
+import SourceNote from '../../../components/SourceNote.astro';
 
 interface Course {
   code: string;
@@ -24,6 +26,7 @@ interface StaticPath {
   props: {
     subject: CollectionEntry<'gy11-subjects'>;
     course: Course;
+    changeReportHref: string | null;
   };
 }
 
@@ -38,7 +41,8 @@ export async function getStaticPaths(): Promise<StaticPath[]> {
           subjectCode: subject.data.code.toLowerCase(),
           courseCode: course.code.toLowerCase(),
         },
-        props: { subject, course },
+        // /andringar/innehall visar bara GY25, så GY11 länkar till rapporten där ämnet finns.
+        props: { subject, course, changeReportHref: getLatestSubjectReportHref('gy11', subject.data.code) },
       });
     });
   });
@@ -47,14 +51,19 @@ export async function getStaticPaths(): Promise<StaticPath[]> {
 }
 
 const { subject, course }: StaticPath['props'] = Astro.props;
-const fetchReport = loadFetchReport();
-const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
-const syncedDate = toSvDate(fetchReport?.generatedAt);
+// Utskriftsraden (VIK-169) identifierar sidan; källa och datum skrivs ut i källrutan (VIK-164).
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout title={`${course.name} - ${subject.data.name} - GY11`}>
+<Layout
+  title={`${course.name} (${course.code}) – GY11`}
+  description={buildCourseDescription(
+    `${course.name} (${course.code})${course.points ? `, ${course.points} poäng` : ''}, GY11`,
+    course.centralContent?.text,
+  )}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
-    <div class="mb-8 flex justify-between items-center">
+    <div class="mb-8 flex justify-between items-center print:hidden">
       <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
@@ -70,19 +79,31 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
       </a>
     </div>
 
+    <p class="hidden print:block text-xs mb-4">
+      {subject.data.name} ({subject.data.code}), {course.name} ({course.code}), GY11 · {pageUrl}
+    </p>
+
     <div class="mb-6">
       <GY11LegacyBanner compact />
     </div>
 
     <CourseView course={course} subject={subject} />
 
+    <SourceNote
+      version="gy11"
+      subjectName={subject.data.name}
+      courseName={course.name}
+      skolfsGrund={subject.data.skolfsGrund}
+      skolfsAndring={subject.data.skolfsAndring}
+      modifiedDate={subject.data.modifiedDate}
+    />
+
     <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
       <div class="flex flex-wrap items-center justify-between gap-3">
         <div>
-          <p>Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span></p>
-          <p class="text-xs mt-1">Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span></p>
+          <p>Ändringar i Skolverkets data listas i ändringsloggen.</p>
         </div>
-        <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>
+        {Astro.props.changeReportHref && <a href={Astro.props.changeReportHref} class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>}
       </div>
     </section>
   </div>

@@ -12,21 +12,26 @@ function readJson<T>(filePath: string): T | null {
   return JSON.parse(readFileSync(filePath, "utf8")) as T;
 }
 
-// Only associate a report with a successful sync that has exactly the same subjects.
-// An unrelated analysis or a run with no content changes must not replace its archive.
+// Only associate a report with the latest recorded sync when it covers exactly the same subjects.
+// The latest fetch report is deliberately not consulted: a later sync without changes overwrites
+// it, and the unarchived history entry must still be archivable afterwards. An existing archive
+// is never replaced, so an unrelated analysis cannot overwrite it.
 export function archiveChangeImpactReport(report: ChangeImpactReport): string | null {
   const stateDir = path.join(process.cwd(), "scripts/state");
   const history = readJson<{ entries: FetchHistoryEntry[] }>(path.join(stateDir, "content-changelog-history.json"));
-  const fetchReport = readJson<{ generatedAt: string; hadChanges: boolean }>(path.join(stateDir, "fetch-report-latest.json"));
   const entry = history?.entries[0];
-  if (!entry || !fetchReport?.hadChanges || fetchReport.generatedAt !== entry.recordedAt) return null;
+  if (!entry) return null;
 
+  let expectedTotal = 0;
   for (const version of ["gy11", "gy25"] as const) {
     const stats = entry.versions[version];
     const expected = [...stats.addedCodes, ...stats.changedCodes, ...stats.removedCodes].sort();
     const actual = report[version].entries.map((subject) => subject.code).sort();
     if (JSON.stringify(expected) !== JSON.stringify(actual)) return null;
+    expectedTotal += expected.length;
   }
+  // An entry without codes cannot be told apart from an empty analysis.
+  if (expectedTotal === 0) return null;
 
   const dir = path.join(stateDir, "change-reports");
   const filePath = path.join(dir, `${getChangeReportId(entry)}.json`);

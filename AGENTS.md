@@ -13,8 +13,8 @@ eller, från laptopen, `ssh server1-ts`. Laptopens klon är avvecklad.
 
 ## Verktyg
 
-Använd pnpm enligt `packageManager` i `package.json` och `pnpm-lock.yaml`. Node.js måste vara `>=20.3.0`;
-`.node-version` anger 22, medan GitHub Actions använder Node 20.
+Använd pnpm enligt `packageManager` i `package.json` och `pnpm-lock.yaml`. Node.js måste vara
+`^22.22.2 || >=24.15.0` (krav från pnpm 12). `.node-version` anger Node 24.
 Kör kommandona från repots rot eftersom dataskripten använder `process.cwd()`.
 
 ```bash
@@ -22,15 +22,17 @@ pnpm install --frozen-lockfile                       # Installera från låsfile
 pnpm dev                                         # Lokal utveckling
 pnpm build                                       # Statiskt bygge till dist/
 pnpm preview                                     # Förhandsvisa bygget
-pnpm astro -- check                              # Separat typkontroll
+pnpm check                                       # Typkontroll (astro check)
+pnpm test                                        # Enhetstester i scripts/tests/
+pnpm check-updates                               # Kolla om Skolverket ändrat något (skriver inget)
 pnpm fetch-data                                  # Synka Skolverkets data
 pnpm analyze-changes                             # Skriv ändringsrapport
 pnpm subject-list -- --version gy25 --level high  # Lista stor påverkan
 pnpm subject-diff -- --version gy25 --code FYSK   # Skriv ämnesdiff
 ```
 
-`package.json` har inga test- eller lint-skript. README anger `pnpm build`
-som minsta kontroll före PR; byggkommandot kör inte `astro check`.
+Kör `pnpm build` och `pnpm test` före PR. Byggkommandot kör inte `astro check`;
+kör `pnpm check` separat. Det finns inget lint-skript.
 
 ## Stack
 
@@ -53,10 +55,10 @@ src/
 ├── content/site-changelog/      Webbplatsens changelog-poster i JSON
 └── utils/changelog.ts           Läser rapporter/historik vid byggtid
 scripts/
+├── check-skolverket-updates.ts  Läsande kontroll av ändringar (för påminnelsen)
 ├── fetch-skolverket-data.ts     Synk från Syllabus API v1
 ├── analyze-curriculum-changes.ts  Analys mot git HEAD
 └── state/                      Versionshanterade rapporter och historik
-.github/workflows/sync-skolverket-data.yml  Schemalagd datasynk
 docs/                           Planer för API v2 och AI-interoperabilitet
 ```
 
@@ -78,20 +80,17 @@ docs/                           Planer för API v2 och AI-interoperabilitet
   en branch-preview räcker inte som slutförd publicering.
 - Webbplatsändringar dokumenteras i `src/content/site-changelog/` enligt schemat
   i `src/content/config.ts`. API-historik kommer från datasynkens tillståndsfiler.
-- Datasynkens workflow körs 05:15 och 17:15 UTC samt manuellt. Det synkar,
-  analyserar och committar/pushar ändrade data- och rapportfiler till körningens branch.
+- Det finns ingen automatisk datasynk. En schemalagd T3-uppgift på server1 kör
+  `pnpm check-updates` och frågar användaren om en uppdatering ska köras när
+  Skolverket har ändrat något. Synken körs sedan manuellt enligt punkterna ovan.
 
 ## Gotchas
 
-- README:s positionella exempel för `subject-diff` fungerar inte med skriptets
-  argumenttolkning. Använd `--version` och `--code` som i kommandot ovan.
 - `subject-list` läser befintlig rapport om den finns; standardfilter är
   `--version gy25 --level medium`. Kör analysen igen för att få aktuell rapport.
 - `SKOLVERKET_GY25_DATE` styr datumurval för GY25 vid hämtning. Utan variabeln
   används `timespan=LATEST`. API v2 i `docs/` är en plan, inte nuvarande datakälla.
 - `scripts/state/` används även av webbplatsen vid byggtid, inte bara av CLI-verktyg.
-- `tsconfig.json` undantar `src/components/gy11course.astro` och
-  `src/components/gy11subject.astro` från projektets TypeScript-inkludering.
 
 ## Linear
 

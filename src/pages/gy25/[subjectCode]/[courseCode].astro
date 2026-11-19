@@ -1,13 +1,16 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildCourseDescription, levelTitle } from '../../../utils/seo';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy25course.astro';
-import { getSubjectChange, loadFetchReport, toSvDate } from '../../../utils/changelog';
+import SourceNote from '../../../components/SourceNote.astro';
+import { getSubjectChange } from '../../../utils/changelog';
 
 interface Course {
   code: string;
   name: string;
   points?: string;
+  centralContent?: { text: string };
 }
 
 interface StaticPath {
@@ -45,15 +48,20 @@ const subjectChange = getSubjectChange('gy25', subject.data.code);
 const upperCourseCode = course.code.toUpperCase();
 const isCourseCentralChanged = (subjectChange?.summary?.courseCentralChangedCodes ?? []).includes(upperCourseCode);
 const isCourseMetaChanged = (subjectChange?.summary?.courseMetaChangedCodes ?? []).includes(upperCourseCode);
-const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
-const fetchReport = loadFetchReport();
-const syncedDate = toSvDate(fetchReport?.generatedAt);
+// Utskriftsraden (VIK-169) identifierar sidan; källa och datum skrivs ut i källrutan (VIK-164).
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout title={`${course.name} - ${subject.data.name} - GY25`}>
+<Layout
+  title={`${levelTitle(subject.data.name, course.name)} (${course.code})`}
+  description={buildCourseDescription(
+    `${levelTitle(subject.data.name, course.name)} (${course.code})${course.points ? `, ${course.points} poäng` : ''}, GY25`,
+    course.centralContent?.text,
+  )}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <!-- Navigation -->
-    <div class="mb-8 flex justify-between items-center">
+    <div class="mb-8 flex justify-between items-center print:hidden">
       <a 
         href="/gy25/courses"
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
@@ -61,7 +69,7 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
         </svg>
-        Tillbaka till kurser
+        Tillbaka till nivåer
       </a>
 
       <a 
@@ -75,24 +83,32 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
       </a>
     </div>
 
+    <p class="hidden print:block text-xs mb-4">
+      {subject.data.name} ({subject.data.code}), {course.name} ({course.code}), GY25 · {pageUrl}
+    </p>
+
     <!-- Course View Component -->
     <CourseView 
       course={course}
       subject={subject}
     />
 
+    <SourceNote
+      version="gy25"
+      subjectName={subject.data.name}
+      courseName={course.name}
+      skolfsGrund={subject.data.skolfsGrund}
+      skolfsAndring={subject.data.skolfsAndring}
+      modifiedDate={subject.data.modifiedDate}
+    />
+
     {subjectChange && (isCourseCentralChanged || isCourseMetaChanged || subjectChange?.summary?.purposeChanged) && (
       <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
         <div class="flex flex-wrap items-center justify-between gap-3">
           <div>
-            <p>
-              Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span>
-            </p>
-            <p class="text-xs mt-1">
-              Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span>
-            </p>
+            <p>Nivån eller ämnet ändrades hos Skolverket vid den senaste hämtningen.</p>
           </div>
-          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+          <a href={`/andringar/innehall/#${subject.data.code.toLowerCase()}`} class="font-medium text-blue-700 hover:text-blue-800">
             Se ändringar
           </a>
         </div>

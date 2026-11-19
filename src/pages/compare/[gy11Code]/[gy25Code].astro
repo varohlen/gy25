@@ -1,9 +1,11 @@
 ---
+import { safeHtml } from '../../../utils/sanitize-html';
 import Layout from '../../../layouts/Layout.astro';
 import GradeReq from '../../../components/gradereq.astro';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
+import { levelTitle } from '../../../utils/seo';
 
 // Tell Astro to server-render this page
 export const prerender = false;
@@ -41,16 +43,40 @@ if (gy11Subject && gy25Subject) {
   );
 
   // Find the specific courses
-  gy11Course = gy11ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy11Code?.toLowerCase());
-  gy25Course = gy25ParentSubject?.data.courses?.find(c => c.code.toLowerCase() === gy25Code?.toLowerCase());
+  gy11Course = gy11ParentSubject?.data.courses?.find((c: { code: string }) => c.code.toLowerCase() === gy11Code?.toLowerCase());
+  gy25Course = gy25ParentSubject?.data.courses?.find((c: { code: string }) => c.code.toLowerCase() === gy25Code?.toLowerCase());
 
   isSubjectComparison = false;
 
-  // If neither subjects nor courses are found, return 404
+  // If neither subjects nor courses are found, render the site's 404 page.
+  // A 404 with an empty body makes Astro serve the prerendered 404.html with status 404
+  // (Astro.rewrite cannot target a prerendered page from an on-demand route).
   if (!gy11Course || !gy25Course || !gy11ParentSubject || !gy25ParentSubject) {
-    return new Response('Not Found', { status: 404 });
+    return new Response(null, { status: 404 });
   }
 }
+
+// Redirect to the canonical form: lowercase codes and a trailing slash
+const gy11CanonicalCode = (isSubjectComparison ? gy11Subject!.data.code : gy11Course.code).toLowerCase();
+const gy25CanonicalCode = (isSubjectComparison ? gy25Subject!.data.code : gy25Course.code).toLowerCase();
+const canonicalPath = `/compare/${gy11CanonicalCode}/${gy25CanonicalCode}/`;
+if (decodeURIComponent(Astro.url.pathname) !== canonicalPath) {
+  return Astro.redirect(encodeURI(canonicalPath), 301);
+}
+
+// Links to the compared subjects or levels
+const gy11SubjectCode = gy11ParentSubject.data.code.toLowerCase();
+const gy25SubjectCode = gy25ParentSubject.data.code.toLowerCase();
+const gy11Href = isSubjectComparison
+  ? `/gy11/${gy11SubjectCode}/`
+  : `/gy11/${gy11SubjectCode}/${gy11CanonicalCode}/`;
+const gy25Href = isSubjectComparison
+  ? `/gy25/${gy25SubjectCode}/`
+  : `/gy25/${gy25SubjectCode}/${gy25CanonicalCode}/`;
+const gy11Label = isSubjectComparison ? gy11Subject!.data.name : gy11Course.name;
+const gy25Label = isSubjectComparison
+  ? gy25Subject!.data.name
+  : levelTitle(gy25ParentSubject.data.name, gy25Course.name);
 
 // Define sections based on comparison type
 const subjectSections = [
@@ -61,15 +87,17 @@ const subjectSections = [
 ] as const;
 
 const courseSections = [
-  { id: 'basic', title: 'Grundläggande Information' },
-  { id: 'central_content', title: 'Centralt Innehåll' },
+  { id: 'basic', title: 'Grundläggande information' },
+  { id: 'central_content', title: 'Centralt innehåll' },
   ...(!isSubjectComparison ? [{ id: 'grade_requirements', title: 'Betygskriterier' }] : [])
 ] as const;
 
-// Set the page title based on what we're comparing
-const pageTitle = isSubjectComparison 
-  ? `Jämför ${gy11Subject?.data.name} med ${gy25Subject?.data.name}`
-  : `Jämför ${gy11Course?.name} med ${gy25Course?.name}`;
+// Sidans titel och h1 utgår från det som jämförs (VIK-159, VIK-168)
+const pageHeading = `Jämför ${gy11Label} (GY11) med ${gy25Label} (GY25)`;
+const pageTitle = pageHeading;
+const pageDescription = isSubjectComparison
+  ? `Jämför ämnet ${gy11Label} i GY11 med ${gy25Label} i GY25: beskrivning, syfte och kurser och nivåer sida vid sida.`
+  : `Jämför kursen ${gy11Label} i GY11 med ${gy25Label} i GY25: centralt innehåll och betygskriterier sida vid sida.`;
 
 interface KnowledgeRequirement {
   text: string;
@@ -105,7 +133,7 @@ const gy11GradeMap: GradeMap = {
 };
 
 if (!isSubjectComparison && gy11Course.knowledgeRequirements) {
-  gy11Course.knowledgeRequirements.forEach(req => {
+  gy11Course.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
     const step = req.gradeStep as GradeStep;
     if (step in gy11GradeMap) {
       gy11GradeMap[step].paragraphs = extractParagraphs(req.text);
@@ -121,7 +149,7 @@ const gy25GradeMap: GradeMap = {
 };
 
 if (!isSubjectComparison && gy25ParentSubject?.data.knowledgeRequirements) {
-  gy25ParentSubject.data.knowledgeRequirements.forEach(req => {
+  gy25ParentSubject.data.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
     const step = req.gradeStep as GradeStep;
     if (step in gy25GradeMap) {
       gy25GradeMap[step].paragraphs = extractParagraphs(req.text);
@@ -144,12 +172,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
 
 ---
 
-<Layout title={pageTitle}>
+<Layout title={pageTitle} description={pageDescription}>
   <div class="max-w-7xl mx-auto px-4 py-12">
     <!-- Back Button -->
     <div class="mb-8">
       <a 
-        href={isSubjectComparison ? "/compare" : "/compare/courses"}
+        href={isSubjectComparison ? "/compare/" : "/compare/courses/"}
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
       >
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
@@ -158,6 +186,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
         Tillbaka till {isSubjectComparison ? "jämförelser" : "kursjämförelser"}
       </a>
     </div>
+
+    <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">{pageHeading}</h1>
+    <ul class="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-8 text-sm font-medium">
+      <li><a href={gy11Href} class="text-blue-700 underline hover:text-blue-900">Visa {gy11Label} i GY11</a></li>
+      <li><a href={gy25Href} class="text-emerald-700 underline hover:text-emerald-900">Visa {gy25Label} i GY25</a></li>
+    </ul>
 
     {isSubjectComparison ? (
       <>
@@ -173,11 +207,11 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
             <div class="grid md:grid-cols-2 gap-8">
               <div>
                 <h2 class="text-lg font-medium text-blue-600 mb-4">{section.title}</h2>
-                <GY11SubjectSection subject={gy11Subject} section={section.id} />
+                <GY11SubjectSection subject={gy11Subject!} section={section.id} />
               </div>
               <div>
                 <h2 class="text-lg font-medium text-emerald-600 mb-4">{section.title}</h2>
-                <GY25SubjectSection subject={gy25Subject} section={section.id} />
+                <GY25SubjectSection subject={gy25Subject!} section={section.id} />
               </div>
             </div>
           </div>
@@ -212,12 +246,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="space-y-4">
                       <p><strong>Poäng:</strong> {gy11Course.points}</p>
                       {gy11Course.description && (
-                        <div set:html={gy11Course.description} />
+                        <div set:html={safeHtml(gy11Course.description)} />
                       )}
                     </div>
                   ) : section.id === 'central_content' ? (
                     <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
-                      <div set:html={gy11Course.centralContent?.text} />
+                      <div set:html={safeHtml(gy11Course.centralContent?.text)} />
                     </div>
                   ) : section.id === 'grade_requirements' ? (
                     <div class="space-y-4">
@@ -248,8 +282,8 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-view="list"
                         data-side="gy11"
                       >
-                        {gy11Course.knowledgeRequirements?.map((req) => (
-                          <div set:html={req.text} />
+                        {gy11Course.knowledgeRequirements?.map((req: KnowledgeRequirement) => (
+                          <div set:html={safeHtml(req.text)} />
                         ))}
                       </div>
 
@@ -274,7 +308,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                                 <tr>
                                   {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                                     <td class="px-6 py-4 align-top">
-                                      <div class="prose prose-blue max-w-none" set:html={gy11GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                      <div class="prose prose-blue max-w-none" set:html={safeHtml(gy11GradeMap[gradeStep].paragraphs[index] || '—')} />
                                     </td>
                                   ))}
                                 </tr>
@@ -300,12 +334,12 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="space-y-4">
                       <p><strong>Poäng:</strong> {gy25Course.points}</p>
                       {gy25Course.description && (
-                        <div set:html={gy25Course.description} />
+                        <div set:html={safeHtml(gy25Course.description)} />
                       )}
                     </div>
                   ) : section.id === 'central_content' ? (
                     <div class="prose prose-emerald max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
-                      <div set:html={gy25Course.centralContent?.text} />
+                      <div set:html={safeHtml(gy25Course.centralContent?.text)} />
                     </div>
                   ) : section.id === 'grade_requirements' ? (
                     <div class="space-y-4">
@@ -336,8 +370,8 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         data-view="list"
                         data-side="gy25"
                       >
-                        {gy25ParentSubject?.data.knowledgeRequirements?.map((req) => (
-                          <div set:html={req.text} />
+                        {gy25ParentSubject?.data.knowledgeRequirements?.map((req: KnowledgeRequirement) => (
+                          <div set:html={safeHtml(req.text)} />
                         ))}
                       </div>
 
@@ -362,7 +396,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                                 <tr>
                                   {(['E', 'C', 'A'] as GradeStep[]).map((gradeStep) => (
                                     <td class="px-6 py-4 align-top">
-                                      <div class="prose prose-emerald max-w-none" set:html={gy25GradeMap[gradeStep].paragraphs[index] || '—'} />
+                                      <div class="prose prose-emerald max-w-none" set:html={safeHtml(gy25GradeMap[gradeStep].paragraphs[index] || '—')} />
                                     </td>
                                   ))}
                                 </tr>
@@ -431,7 +465,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
         toggle.setAttribute('data-active', 'true');
 
         // Update content visibility for this side
-        document.querySelectorAll(`.view-content[data-side="${side}"]`).forEach(content => {
+        document.querySelectorAll<HTMLElement>(`.view-content[data-side="${side}"]`).forEach(content => {
           const contentView = content.getAttribute('data-view');
           content.style.display = contentView === view ? 'block' : 'none';
         });

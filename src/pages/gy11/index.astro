@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import GY11Layout from '../../layouts/GY11Layout.astro';
+import { pluralize } from '../../utils/plural';
 
 const subjects = await getCollection('gy11-subjects');
 subjects.sort((a, b) => a.data.name.localeCompare(b.data.name, 'sv-SE'));
@@ -14,7 +15,7 @@ function getCardColor(subject: (typeof subjects)[number]) {
 }
 ---
 
-<GY11Layout title="GY11 Ämnen" activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
+<GY11Layout title="Ämnen i GY11" description={`Alla ${subjects.length} ämnen i GY11 med kurser, syfte och kunskapskrav. GY11 gäller under övergången till GY25.`} activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
   <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {subjects.map((subject) => {
       const searchTerms = [
@@ -35,7 +36,7 @@ function getCardColor(subject: (typeof subjects)[number]) {
                 </a>
                 <span class="text-sm font-mono text-gray-600">{subject.data.code}</span>
               </div>
-              <p class="text-sm text-gray-600">{subject.data.courses?.length ?? 0} kurser</p>
+              <p class="text-sm text-gray-600">{pluralize(subject.data.courses?.length ?? 0, 'kurs')}</p>
             </div>
           </div>
           <p class="text-xs text-gray-500 mt-auto">GY11</p>

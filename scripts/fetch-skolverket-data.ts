@@ -1,9 +1,21 @@
+/**
+ * Synkar Skolverkets Syllabus API v1 till src/content.
+ *
+ * Användning:
+ *   pnpm fetch-data                        # vanlig synk
+ *   pnpm fetch-data -- --allow-removals    # tillåt fler borttagningar än taket
+ *
+ * Skydd mot trasiga API-svar: ämneslistan valideras innan något skrivs, och en
+ * version får som mest ta bort max(5, 2 % av de lokala ämnena) per körning.
+ * Fler borttagningar avbryter versionen med fel, om inte --allow-removals anges.
+ */
 import axios from 'axios';
 import { createHash, randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import type { FetchHistoryEntry, VersionKey } from '../src/utils/changelog';
 import { archivePreviousChangeImpactReport } from './lib/change-report-history';
+import { sanitizeHtml } from '../src/utils/sanitize-html';
 
 const ROOT_DIR = process.cwd();
 const CONTENT_DIR = path.join(ROOT_DIR, 'src', 'content');
@@ -18,6 +30,9 @@ const GY25_DATE_OVERRIDE = process.env.SKOLVERKET_GY25_DATE?.trim();
 const REQUEST_DELAY_MS = 60;
 const FETCH_MAX_ATTEMPTS = 4;
 const FETCH_BASE_DELAY_MS = 500;
+const ALLOW_REMOVALS = process.argv.includes('--allow-removals');
+const REMOVAL_LIMIT_MIN = 5;
+const REMOVAL_LIMIT_SHARE = 0.02;
 
 const API_BASE = 'https://api.skolverket.se/syllabus/v1';
 
@@ -51,6 +66,7 @@ interface SubjectSummary {
 
 interface SubjectsListResponse extends APIMetadata {
   subjects: SubjectSummary[];
+  totalElements?: number;
 }
 
 interface LocalSubjectEntry {
@@ -172,6 +188,11 @@ async function fetchData<T>(url: string): Promise<T> {
         },
         timeout: 25000,
       });
+      // Axios returnerar t.ex. en HTML-sida som sträng i stället för att kasta fel.
+      if (!response.data || typeof response.data !== 'object') {
+        const contentType = String(response.headers?.['content-type'] ?? 'okänd');
+        throw new Error(`Unexpected non-JSON response from ${url} (content-type: ${contentType})`);
+      }
       return response.data;
     } catch (error) {
       lastError = error;
@@ -230,17 +251,6 @@ async function loadLocalSubjects(version: VersionKey): Promise<Map<string, Local
   }
 
   return result;
-}
-
-function sanitizeHtml(html: string): string {
-  return html
-    .replace(/<script[\s\S]*?<\/script>/gi, '')
-    .replace(/<style[\s\S]*?<\/style>/gi, '')
-    .replace(/<(iframe|object|embed|link|meta|base)[^>]*>/gi, '')
-    .replace(/\son\w+="[^"]*"/gi, '')
-    .replace(/\son\w+='[^']*'/gi, '')
-    .replace(/\son\w+=\S+/gi, '')
-    .replace(/\s(href|src)=["']\s*javascript:[^"']*["']/gi, ' $1="#"');
 }
 
 function sanitizeSubjectHtml(subject: Record<string, unknown>): Record<string, unknown> {
@@ -338,6 +348,53 @@ function createVersionReport(version: VersionKey): VersionReport {
   };
 }
 
+function isNonEmptyString(value: unknown): value is string {
+  return typeof value === 'string' && value.trim().length > 0;
+}
+
+// Ett tomt, ofullständigt eller felaktigt svar får aldrig tolkas som att alla ämnen har tagits bort.
+function validateSubjectsListResponse(data: unknown, version: VersionKey): SubjectsListResponse {
+  const label = version.toUpperCase();
+  if (!data || typeof data !== 'object' || Array.isArray(data)) {
+    throw new Error(`${label}: subject list response is not a JSON object`);
+  }
+  const response = data as Partial<SubjectsListResponse>;
+  if (!isNonEmptyString(response.apiVersion)) {
+    throw new Error(`${label}: subject list response is missing apiVersion`);
+  }
+  if (!Array.isArray(response.subjects)) {
+    throw new Error(`${label}: subject list response is missing the subjects array`);
+  }
+  if (response.subjects.length === 0) {
+    throw new Error(`${label}: subject list response contains no subjects`);
+  }
+  if (response.subjects.some(subject => !subject || !isNonEmptyString(subject.code))) {
+    throw new Error(`${label}: subject list response contains a subject without code`);
+  }
+  if (response.totalElements !== undefined && response.totalElements !== response.subjects.length) {
+    throw new Error(
+      `${label}: subject list response has totalElements=${String(response.totalElements)} but ${response.subjects.length} subjects`,
+    );
+  }
+  return response as SubjectsListResponse;
+}
+
+function extractAPIMetadata(response: Partial<APIMetadata>): APIMetadata {
+  const missing = (['apiVersion', 'apiReleased', 'apiStatus'] as const).filter(field => !isNonEmptyString(response[field]));
+  if (missing.length > 0) {
+    throw new Error(`API metadata is missing ${missing.join(', ')}`);
+  }
+  return {
+    apiVersion: response.apiVersion as string,
+    apiReleased: response.apiReleased as string,
+    apiStatus: response.apiStatus as string,
+  };
+}
+
+function getRemovalLimit(localCount: number): number {
+  return Math.max(REMOVAL_LIMIT_MIN, Math.floor(localCount * REMOVAL_LIMIT_SHARE));
+}
+
 async function processVersion(
   version: VersionKey,
   now: string,
@@ -349,11 +406,16 @@ async function processVersion(
   changedCodes: string[];
   addedCodes: string[];
   removedCodes: string[];
+  // Writes and removes the files. Called only after every version has been fetched successfully.
+  apply: () => Promise<void>;
 }> {
   const report = createVersionReport(version);
 
-  const listResponse = listResponseOverride ?? await fetchData<SubjectsListResponse>(ENDPOINTS[version].subjectsList);
-  const liveSubjects = Array.isArray(listResponse.subjects) ? listResponse.subjects : [];
+  const listResponse = validateSubjectsListResponse(
+    listResponseOverride ?? await fetchData<unknown>(ENDPOINTS[version].subjectsList),
+    version,
+  );
+  const liveSubjects = listResponse.subjects;
 
   report.subjectCount = liveSubjects.length;
 
@@ -383,6 +445,14 @@ async function processVersion(
     .filter(([code]) => !liveCodes.has(code))
     .map(([, local]) => local);
 
+  const removalLimit = getRemovalLimit(localSubjects.size);
+  if (toRemove.length > removalLimit && !ALLOW_REMOVALS) {
+    throw new Error(
+      `${version.toUpperCase()}: refusing to remove ${toRemove.length} of ${localSubjects.size} local subjects ` +
+        `(limit ${removalLimit}). Verify the API response and rerun with --allow-removals if the removals are expected.`,
+    );
+  }
+
   report.toFetchCount = toFetch.length;
   report.removedCount = toRemove.length;
   report.unchangedCount = liveSubjects.length - toFetch.length;
@@ -405,14 +475,16 @@ async function processVersion(
     }
   }
 
-  for (const entry of fetchedSubjects) {
-    await saveSubject(version, entry.detail, now);
-    report.fetchedCount += 1;
-  }
+  const apply = async () => {
+    for (const entry of fetchedSubjects) {
+      await saveSubject(version, entry.detail, now);
+      report.fetchedCount += 1;
+    }
 
-  for (const removed of toRemove) {
-    await removeSubjectFile(removed.filePath);
-  }
+    for (const removed of toRemove) {
+      await removeSubjectFile(removed.filePath);
+    }
+  };
 
   const state: VersionState = {
     subjectCount: liveSubjects.length,
@@ -430,6 +502,7 @@ async function processVersion(
     changedCodes: [...changedCodes].sort(),
     addedCodes: [...addedCodes].sort(),
     removedCodes: toRemove.map(entry => entry.code).sort(),
+    apply,
   };
 }
 
@@ -447,7 +520,7 @@ async function loadLastAPIMetadata(): Promise<APIMetadata | null> {
 }
 
 async function saveAPIMetadata(metadata: APIMetadata): Promise<void> {
-  await writeJsonAtomic(API_METADATA_PATH, metadata);
+  await writeJsonAtomic(API_METADATA_PATH, extractAPIMetadata(metadata));
 }
 
 async function saveFetchState(state: FetchState): Promise<void> {
@@ -559,12 +632,8 @@ async function main() {
   try {
     archivePreviousChangeImpactReport();
     console.log('Fetching API metadata...');
-    const gy11List = await fetchData<SubjectsListResponse>(ENDPOINTS.gy11.subjectsList);
-    const currentMetadata: APIMetadata = {
-      apiVersion: gy11List.apiVersion,
-      apiReleased: gy11List.apiReleased,
-      apiStatus: gy11List.apiStatus,
-    };
+    const gy11List = validateSubjectsListResponse(await fetchData<unknown>(ENDPOINTS.gy11.subjectsList), 'gy11');
+    const currentMetadata = extractAPIMetadata(gy11List);
 
     const previousMetadata = await loadLastAPIMetadata();
     if (previousMetadata) {
@@ -584,17 +653,17 @@ async function main() {
     let hadChanges = false;
     let hadErrors = false;
 
+    // Fetch both versions before writing anything. A partial write (GY11 written, GY25 failed)
+    // would make the next sync see GY11 as unchanged and record a history entry without its codes.
+    const prepared: Array<Awaited<ReturnType<typeof processVersion>>> = [];
+
     for (const version of ['gy11', 'gy25'] as VersionKey[]) {
       console.log(`\nProcessing ${version.toUpperCase()}...`);
       try {
         const result = await processVersion(version, now, version === 'gy11' ? gy11List : undefined);
         versionReports[version] = result.report;
         versionStates[version] = result.state;
-        hadChanges = hadChanges || result.hadChanges;
-
-        console.log(
-          `${version.toUpperCase()}: ${result.report.fetchedCount} fetched, ${result.report.removedCount} removed, ${result.report.unchangedCount} unchanged`,
-        );
+        prepared.push(result);
       } catch (error) {
         hadErrors = true;
         versionReports[version] = {
@@ -603,6 +672,18 @@ async function main() {
           error: error instanceof Error ? error.message : String(error),
         };
         console.error(`${version.toUpperCase()} failed:`, error);
+      }
+    }
+
+    if (hadErrors) {
+      console.error('\nNo subject files were written because at least one version failed.');
+    } else {
+      for (const result of prepared) {
+        await result.apply();
+        hadChanges = hadChanges || result.hadChanges;
+        console.log(
+          `${result.report.version.toUpperCase()}: ${result.report.fetchedCount} fetched, ${result.report.removedCount} removed, ${result.report.unchangedCount} unchanged`,
+        );
       }
     }
 

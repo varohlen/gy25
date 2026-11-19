@@ -4,19 +4,32 @@ import Layout from './Layout.astro';
 interface Props {
   activeView: 'subjects' | 'courses';
   title?: string;
+  description?: string;
 }
 
 const { activeView } = Astro.props;
-const { title = "Jämför GY11 och GY25" } = Astro.props;
+const { title = "Jämför GY11 och GY25", description } = Astro.props;
+
+const heading = activeView === 'subjects'
+  ? 'Jämför ämnen i GY11 och GY25'
+  : 'Jämför kurser och nivåer i GY11 och GY25';
+const intro = activeView === 'subjects'
+  ? 'Välj ett ämne i GY11 och ett ämne i GY25. Tryck sedan på Jämför.'
+  : 'Välj en kurs i GY11 och en nivå i GY25. Tryck sedan på Jämför.';
+const gy11EmptyText = activeView === 'subjects' ? 'Välj ett GY11-ämne' : 'Välj en GY11-kurs';
+const gy25EmptyText = activeView === 'subjects' ? 'Välj ett GY25-ämne' : 'Välj en GY25-nivå';
 ---
 
-<Layout title={title}>
-  <main class="max-w-7xl mx-auto px-4 py-12">
-    <div class="flex flex-col items-center gap-6 mb-8">
+<Layout title={title} description={description}>
+  <div class="max-w-7xl mx-auto px-4 py-12">
+    <div class="flex flex-col items-center gap-6 mb-8 text-center">
+      <h1 class="text-3xl font-bold text-gray-900">{heading}</h1>
+      <p class="text-gray-600">{intro}</p>
       <!-- Navigation -->
-      <nav class="flex gap-4">
+      <nav class="flex gap-4" aria-label="Jämförelsevy">
         <a
-          href="/compare"
+          href="/compare/"
+          aria-current={activeView === 'subjects' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'subjects'
               ? 'bg-blue-600 text-white'
@@ -26,7 +39,8 @@ const { title = "Jämför GY11 och GY25" } = Astro.props;
           Ämnen
         </a>
         <a
-          href="/compare/courses"
+          href="/compare/courses/"
+          aria-current={activeView === 'courses' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'courses'
               ? 'bg-blue-600 text-white'
@@ -38,97 +52,107 @@ const { title = "Jämför GY11 och GY25" } = Astro.props;
       </nav>
     </div>
 
-    <!-- Comparison Preview Box -->
-    <div id="comparison-box" class="hidden border border-gray-200 rounded-lg p-6 mb-8 bg-white shadow-sm">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- Meddelanden till skärmläsare -->
+    <p id="compare-status" class="sr-only" aria-live="polite"></p>
+
+    <!-- Valpanel: fast längst ner på mobil, i flödet från md och uppåt -->
+    <section
+      id="comparison-box"
+      aria-label="Valda att jämföra"
+      class="hidden fixed inset-x-0 bottom-0 z-40 border-t border-gray-200 bg-white p-3 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] md:static md:z-auto md:mb-8 md:rounded-lg md:border md:p-6 md:shadow-sm"
+    >
+      <div class="grid grid-cols-2 gap-2 md:gap-8">
         <!-- GY11 Side -->
         <div>
-          <h2 class="text-sm font-medium text-blue-600 mb-3 uppercase tracking-wide">GY11</h2>
+          <h2 class="text-xs md:text-sm font-medium text-blue-600 mb-1 md:mb-3 uppercase tracking-wide">GY11</h2>
           <div id="gy11-preview" class="hidden">
-            <div class="rounded-lg shadow-sm p-6 bg-blue-50 relative">
+            <div class="rounded-lg shadow-sm p-2 pr-9 md:p-6 md:pr-10 bg-blue-50 relative">
               <button
-                onclick="removeSelection('gy11')"
-                class="absolute top-2 right-2 text-gray-400 hover:text-gray-600"
-                aria-label="Remove GY11 selection"
+                type="button"
+                data-remove="gy11"
+                class="absolute top-1 right-1 md:top-2 md:right-2 p-1 rounded text-gray-500 hover:text-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-700"
+                aria-label="Ta bort valet i GY11"
               >
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                 </svg>
               </button>
-              <h3 class="font-medium text-lg text-blue-700" id="gy11-name"></h3>
-              <p class="text-gray-500" id="gy11-code"></p>
-              <p class="text-gray-500 mt-1" id="gy11-points"></p>
-              <p class="text-gray-500 mt-1" id="gy11-courses"></p>
+              <p class="font-medium text-sm md:text-lg text-blue-700 line-clamp-2 md:line-clamp-none" id="gy11-name"></p>
+              <p class="text-xs md:text-base text-gray-500" id="gy11-code"></p>
+              <p class="hidden md:block text-gray-500 mt-1" id="gy11-details"></p>
             </div>
           </div>
           <!-- Empty space if no GY11 selected -->
           <div id="gy11-empty" class="block">
-            <div class="rounded-lg border-2 border-dashed border-gray-200 p-6 flex items-center justify-center">
-              <p class="text-gray-400">Välj ett ämne eller kurs</p>
+            <div class="rounded-lg border-2 border-dashed border-gray-200 p-2 md:p-6 flex items-center justify-center">
+              <p class="text-sm md:text-base text-gray-500">{gy11EmptyText}</p>
             </div>
           </div>
         </div>
 
         <!-- GY25 Side -->
         <div>
-          <h2 class="text-sm font-medium text-emerald-600 mb-3 uppercase tracking-wide">GY25</h2>
+          <h2 class="text-xs md:text-sm font-medium text-emerald-600 mb-1 md:mb-3 uppercase tracking-wide">GY25</h2>
           <div id="gy25-preview" class="hidden">
-            <div class="rounded-lg shadow-sm p-6 bg-emerald-50 relative">
+            <div class="rounded-lg shadow-sm p-2 pr-9 md:p-6 md:pr-10 bg-emerald-50 relative">
               <button
-                onclick="removeSelection('gy25')"
-                class="absolute top-2 right-2 text-gray-400 hover:text-gray-600"
-                aria-label="Remove GY25 selection"
+                type="button"
+                data-remove="gy25"
+                class="absolute top-1 right-1 md:top-2 md:right-2 p-1 rounded text-gray-500 hover:text-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-700"
+                aria-label="Ta bort valet i GY25"
               >
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                 </svg>
               </button>
-              <h3 class="font-medium text-lg text-emerald-700" id="gy25-name"></h3>
-              <p class="text-gray-500" id="gy25-code"></p>
-              <p class="text-gray-500 mt-1" id="gy25-points"></p>
-              <p class="text-gray-500 mt-1" id="gy25-courses"></p>
+              <p class="font-medium text-sm md:text-lg text-emerald-700 line-clamp-2 md:line-clamp-none" id="gy25-name"></p>
+              <p class="text-xs md:text-base text-gray-500" id="gy25-code"></p>
+              <p class="hidden md:block text-gray-500 mt-1" id="gy25-details"></p>
             </div>
           </div>
           <!-- Empty space if no GY25 selected -->
           <div id="gy25-empty" class="block">
-            <div class="rounded-lg border-2 border-dashed border-gray-200 p-6 flex items-center justify-center">
-              <p class="text-gray-400">Välj ett ämne eller kurs</p>
+            <div class="rounded-lg border-2 border-dashed border-gray-200 p-2 md:p-6 flex items-center justify-center">
+              <p class="text-sm md:text-base text-gray-500">{gy25EmptyText}</p>
             </div>
           </div>
         </div>
       </div>
 
       <!-- Compare Button -->
-      <div class="text-center mt-6">
-        <button 
+      <div class="text-center mt-2 md:mt-6">
+        <button
+          type="button"
           id="compare-button"
-          class="bg-blue-600 text-white px-8 py-3 rounded-lg shadow-lg hover:opacity-90 transition-all disabled:opacity-50 disabled:cursor-not-allowed font-medium text-lg"
+          class="w-full md:w-auto bg-blue-600 text-white px-8 py-2 md:py-3 rounded-lg shadow-lg hover:opacity-90 transition-all disabled:opacity-50 disabled:cursor-not-allowed font-medium text-base md:text-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700"
           disabled
         >
           Jämför
         </button>
       </div>
-    </div>
+    </section>
 
     <!-- Search -->
     <div class="flex justify-center mb-8">
       <div class="w-full max-w-xl relative">
+        <label for="search" class="sr-only">Sök ämne eller kurs</label>
         <input
-          type="text"
+          type="search"
           id="search"
           placeholder="Sök..."
           class="w-full px-4 py-3 text-lg rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
         />
-        <svg 
-          class="absolute right-4 top-3.5 w-6 h-6 text-gray-400" 
-          fill="none" 
-          stroke="currentColor" 
+        <svg
+          class="absolute right-4 top-3.5 w-6 h-6 text-gray-400"
+          fill="none"
+          stroke="currentColor"
           viewBox="0 0 24 24"
+          aria-hidden="true"
         >
-          <path 
-            stroke-linecap="round" 
-            stroke-linejoin="round" 
-            stroke-width="2" 
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
             d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
           />
         </svg>
@@ -137,176 +161,187 @@ const { title = "Jämför GY11 och GY25" } = Astro.props;
 
     <!-- Main Content -->
     <slot />
-  </main>
+  </div>
 </Layout>
 
+<style is:global>
+  .compare-card {
+    @apply w-full text-left rounded-lg shadow-sm p-6 transition-shadow hover:shadow-md;
+  }
+  .compare-card:focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-blue-700;
+  }
+  .compare-card.gy11-card {
+    @apply bg-blue-50 hover:bg-blue-100;
+  }
+  .compare-card.gy11-card[aria-pressed="true"] {
+    @apply ring-2 ring-blue-500 bg-blue-100;
+  }
+  .compare-card.gy25-card {
+    @apply bg-emerald-50 hover:bg-emerald-100;
+  }
+  .compare-card.gy25-card[aria-pressed="true"] {
+    @apply ring-2 ring-emerald-500 bg-emerald-100;
+  }
+</style>
+
 <script>
-  // Type definitions
-  interface Elements {
-    preview: HTMLElement;
-    name: HTMLElement;
-    code: HTMLElement;
-    points: HTMLElement;
-    courses: HTMLElement;
+  type Version = 'gy11' | 'gy25';
+
+  interface Selection {
+    code: string;
+    name: string;
+    card: HTMLElement;
   }
 
-  let selectedGY11: string | null = null;
-  let selectedGY25: string | null = null;
+  interface Elements {
+    preview: HTMLElement;
+    empty: HTMLElement;
+    name: HTMLElement;
+    code: HTMLElement;
+    details: HTMLElement;
+  }
 
-  // Get elements
+  const selected: Record<Version, Selection | null> = { gy11: null, gy25: null };
+
   const searchInput = document.getElementById('search') as HTMLInputElement;
   const compareButton = document.getElementById('compare-button') as HTMLButtonElement;
   const comparisonBox = document.getElementById('comparison-box') as HTMLElement;
-  const gy11Elements: Elements = {
-    preview: document.getElementById('gy11-preview') as HTMLElement,
-    name: document.getElementById('gy11-name') as HTMLElement,
-    code: document.getElementById('gy11-code') as HTMLElement,
-    points: document.getElementById('gy11-points') as HTMLElement,
-    courses: document.getElementById('gy11-courses') as HTMLElement,
-  };
-  const gy25Elements: Elements = {
-    preview: document.getElementById('gy25-preview') as HTMLElement,
-    name: document.getElementById('gy25-name') as HTMLElement,
-    code: document.getElementById('gy25-code') as HTMLElement,
-    points: document.getElementById('gy25-points') as HTMLElement,
-    courses: document.getElementById('gy25-courses') as HTMLElement,
-  };
-  const gy11Empty = document.getElementById('gy11-empty') as HTMLElement;
-  const gy25Empty = document.getElementById('gy25-empty') as HTMLElement;
+  const statusRegion = document.getElementById('compare-status') as HTMLElement;
 
-  // Update selection
-  function updateSelection(version: string, code: string, name: string, points: string, courses?: string) {
-    const elements = version === 'gy11' ? gy11Elements : gy25Elements;
-    const emptyElement = version === 'gy11' ? gy11Empty : gy25Empty;
-    const currentSelected = version === 'gy11' ? selectedGY11 : selectedGY25;
-    
-    // If clicking the same item again, deselect it
-    if (currentSelected === code) {
-      removeSelection(version);
+  function getElements(version: Version): Elements {
+    return {
+      preview: document.getElementById(`${version}-preview`) as HTMLElement,
+      empty: document.getElementById(`${version}-empty`) as HTMLElement,
+      name: document.getElementById(`${version}-name`) as HTMLElement,
+      code: document.getElementById(`${version}-code`) as HTMLElement,
+      details: document.getElementById(`${version}-details`) as HTMLElement,
+    };
+  }
+  const elements: Record<Version, Elements> = { gy11: getElements('gy11'), gy25: getElements('gy25') };
+
+  const label: Record<Version, string> = { gy11: 'GY11', gy25: 'GY25' };
+  const other = (version: Version): Version => (version === 'gy11' ? 'gy25' : 'gy11');
+
+  function announce(message: string) {
+    // Töm först så att samma meddelande läses upp igen
+    statusRegion.textContent = '';
+    window.setTimeout(() => { statusRegion.textContent = message; }, 50);
+  }
+
+  // På mobil ligger panelen fast längst ner; lämna plats så att den inte döljer slutet av sidan
+  const mobileQuery = window.matchMedia('(max-width: 767px)');
+  function updateBottomSpace() {
+    const isVisible = !comparisonBox.classList.contains('hidden');
+    document.body.style.paddingBottom = isVisible && mobileQuery.matches
+      ? `${comparisonBox.offsetHeight}px`
+      : '';
+  }
+  new ResizeObserver(updateBottomSpace).observe(comparisonBox);
+  mobileQuery.addEventListener('change', updateBottomSpace);
+
+  function render() {
+    (['gy11', 'gy25'] as Version[]).forEach((version) => {
+      const selection = selected[version];
+      const els = elements[version];
+      els.preview.classList.toggle('hidden', !selection);
+      els.empty.classList.toggle('hidden', !!selection);
+      if (selection) {
+        const card = selection.card;
+        els.name.textContent = selection.name;
+        els.code.textContent = selection.code;
+        const parts: string[] = [];
+        if (card.dataset.points) parts.push(`${card.dataset.points}p`);
+        if (card.dataset.count) parts.push(`${card.dataset.count} ${version === 'gy11' ? 'kurser' : 'nivåer'}`);
+        els.details.textContent = parts.join(' · ');
+      } else {
+        els.name.textContent = '';
+        els.code.textContent = '';
+        els.details.textContent = '';
+      }
+    });
+
+    comparisonBox.classList.toggle('hidden', !selected.gy11 && !selected.gy25);
+    compareButton.disabled = !(selected.gy11 && selected.gy25);
+
+    document.querySelectorAll<HTMLElement>('[data-compare-card]').forEach((card) => {
+      const version = card.dataset.version as Version;
+      card.setAttribute('aria-pressed', String(selected[version]?.card === card));
+    });
+
+    updateBottomSpace();
+  }
+
+  function select(card: HTMLElement, fromKeyboard: boolean) {
+    const version = card.dataset.version as Version;
+    const code = card.dataset.code || '';
+    const name = card.dataset.name || code;
+
+    // Samma kort igen avmarkerar valet
+    if (selected[version]?.card === card) {
+      remove(version);
       return;
     }
 
-    // Show comparison box
-    comparisonBox.classList.remove('hidden');
+    selected[version] = { code, name, card };
+    render();
 
-    // Update preview
-    elements.preview.classList.remove('hidden');
-    elements.name.textContent = name;
-    elements.code.textContent = code;
-    elements.points.textContent = points ? `${points}p` : '';
-    
-    // Use "kurser" for GY11 and "nivåer" for GY25
-    if (courses) {
-      elements.courses.textContent = version === 'gy11' 
-        ? `${courses} kurser`
-        : `${courses} nivåer`;
-    } else {
-      elements.courses.textContent = '';
+    if (!selected[other(version)]) {
+      announce(`${name} (${code}) valt i ${label[version]}. Välj också något i ${label[other(version)]}.`);
+      return;
     }
 
-    // Update selected state and button
-    if (version === 'gy11') {
-      selectedGY11 = code;
+    if (fromKeyboard) {
+      // Knappen ligger före listan i tabbordningen; flytta dit så att man slipper backa genom listan
+      compareButton.focus();
+      announce(`${name} (${code}) valt i ${label[version]}. Båda är valda. Fokus är på knappen Jämför.`);
     } else {
-      selectedGY25 = code;
+      announce(`${name} (${code}) valt i ${label[version]}. Båda är valda. Tryck på Jämför.`);
     }
-
-    // Hide empty state
-    emptyElement.classList.add('hidden');
-
-    // Update compare button state
-    compareButton.disabled = !(selectedGY11 && selectedGY25);
-
-    // Update card highlighting
-    updateCardHighlighting();
   }
 
-  // Remove selection
-  function removeSelection(version: string) {
-    const elements = version === 'gy11' ? gy11Elements : gy25Elements;
-    const emptyElement = version === 'gy11' ? gy11Empty : gy25Empty;
-    
-    elements.preview.classList.add('hidden');
-    elements.name.textContent = '';
-    elements.code.textContent = '';
-    elements.points.textContent = '';
-    elements.courses.textContent = '';
-
-    // Show empty state
-    emptyElement.classList.remove('hidden');
-
-    if (version === 'gy11') {
-      selectedGY11 = null;
-    } else {
-      selectedGY25 = null;
-    }
-
-    // Update compare button state
-    compareButton.disabled = true;
-
-    // Hide comparison box if no selections
-    if (!selectedGY11 && !selectedGY25) {
-      comparisonBox.classList.add('hidden');
-    }
-
-    // Update card highlighting
-    updateCardHighlighting();
+  function remove(version: Version) {
+    const previous = selected[version];
+    if (!previous) return;
+    selected[version] = null;
+    render();
+    announce(`Valet ${previous.name} i ${label[version]} togs bort.`);
+    return previous;
   }
 
-  // Update card highlighting
-  function updateCardHighlighting() {
-    // Update GY11 cards
-    document.querySelectorAll('.gy11-card').forEach((card: Element) => {
-      const code = (card as HTMLElement).dataset.code;
-      if (code === selectedGY11) {
-        card.classList.add('ring-2', 'ring-blue-500', 'bg-blue-100');
-      } else {
-        card.classList.remove('ring-2', 'ring-blue-500', 'bg-blue-100');
-      }
-    });
+  // Delegerad lyssnare för kort och ta bort-knappar
+  document.addEventListener('click', (event) => {
+    const target = event.target as Element | null;
+    if (!target) return;
 
-    // Update GY25 cards
-    document.querySelectorAll('.gy25-card').forEach((card: Element) => {
-      const code = (card as HTMLElement).dataset.code;
-      if (code === selectedGY25) {
-        card.classList.add('ring-2', 'ring-emerald-500', 'bg-emerald-100');
-      } else {
-        card.classList.remove('ring-2', 'ring-emerald-500', 'bg-emerald-100');
-      }
-    });
-  }
+    const card = target.closest<HTMLElement>('[data-compare-card]');
+    if (card) {
+      // detail är 0 när knappen aktiveras med tangentbordet
+      select(card, (event as MouseEvent).detail === 0);
+      return;
+    }
+
+    const removeButton = target.closest<HTMLElement>('[data-remove]');
+    if (removeButton) {
+      const previous = remove(removeButton.dataset.remove as Version);
+      // Knappen döljs; flytta fokus till kortet som var valt
+      previous?.card.focus({ preventScroll: true });
+    }
+  });
 
   // Search functionality
-  searchInput.addEventListener('input', (e) => {
-    const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
-    const cards = document.querySelectorAll('.gy11-card, .gy25-card');
-    let hasResults = false;
-
-    cards.forEach((card) => {
-      const searchData = (card as HTMLElement).dataset.search || '';
-      if (searchData.includes(searchTerm)) {
-        card.classList.remove('hidden');
-        hasResults = true;
-      } else {
-        card.classList.add('hidden');
-      }
+  searchInput.addEventListener('input', () => {
+    const searchTerm = searchInput.value.toLowerCase();
+    document.querySelectorAll<HTMLElement>('[data-compare-card]').forEach((card) => {
+      const searchData = card.dataset.search || '';
+      card.classList.toggle('hidden', !searchData.includes(searchTerm));
     });
   });
 
   // Handle compare button click
   compareButton.addEventListener('click', () => {
-    console.log('Compare button clicked');
-    console.log('Selected GY11:', selectedGY11);
-    console.log('Selected GY25:', selectedGY25);
-    if (selectedGY11 && selectedGY25) {
-      const url = `/compare/${selectedGY11.toLowerCase()}/${selectedGY25.toLowerCase()}`;
-      console.log('Navigating to:', url);
-      window.location.href = url;
+    if (selected.gy11 && selected.gy25) {
+      window.location.href = `/compare/${selected.gy11.code.toLowerCase()}/${selected.gy25.code.toLowerCase()}/`;
     }
   });
-
-  // Make functions available globally
-  (window as any).updateSelection = updateSelection;
-  (window as any).removeSelection = removeSelection;
-  (window as any).activeView = '{activeView}';
 </script>

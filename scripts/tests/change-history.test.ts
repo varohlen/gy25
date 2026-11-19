@@ -37,13 +37,15 @@ test("syncs retain complete, immutable reports through no-change and subsequent 
       import axios from ${JSON.stringify(pathToFileURL(path.join(root, "node_modules/axios/index.js")).href)};
       import {readFileSync} from 'node:fs';
       const subjects=JSON.parse(readFileSync('mock-subjects.json','utf8'));
+      const gy11Subjects=JSON.parse(readFileSync('mock-gy11-subjects.json','utf8'));
       axios.defaults.adapter=async config=>{
         const url=new URL(config.url);
         let data;
         if(url.pathname==='/syllabus/v1/subjects') {
-          data={apiVersion:'test',apiReleased:'2026-10-01',apiStatus:'active',subjects:url.searchParams.get('typeOfSyllabus')==='GRADE_SUBJECT_SYLLABUS'?subjects:[]};
+          const list=url.searchParams.get('typeOfSyllabus')==='GRADE_SUBJECT_SYLLABUS'?subjects:gy11Subjects;
+          data={apiVersion:'test',apiReleased:'2026-10-01',apiStatus:'active',totalElements:list.length,subjects:list};
         } else {
-          const subject=subjects.find(s=>s.code===url.pathname.split('/').pop());
+          const subject=[...subjects,...gy11Subjects].find(s=>s.code===url.pathname.split('/').pop());
           if(!subject) throw new Error('Unexpected mock request: '+url);
           data={subject};
         }
@@ -55,7 +57,9 @@ test("syncs retain complete, immutable reports through no-change and subsequent 
     const removed = subject("CCCC", "Ett borttaget ämne", "2026-09-01", "Ett tidigare ämnessyfte.");
     json("src/content/gy25-subjects/AAAA.json", before);
     json("src/content/gy25-subjects/CCCC.json", removed);
-    mkdirSync(path.join(cwd, "src/content/gy11-subjects"), { recursive: true });
+    const gy11 = subject("GYAA", "Ett GY11-ämne", "2026-09-01", "Ett oförändrat GY11-syfte.");
+    json("mock-gy11-subjects.json", [gy11]);
+    json("src/content/gy11-subjects/GYAA.json", gy11);
     run("git", ["add", "."]);
     run("git", ["-c", "user.name=Test", "-c", "user.email=test@example.com", "commit", "--quiet", "-m", "Baseline"]);
 

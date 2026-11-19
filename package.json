@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "engines": {
-    "node": ">=20.3.0"
+    "node": "^22.22.2 || >=24.15.0"
   },
   "scripts": {
     "dev": "astro dev",
@@ -11,7 +11,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "check": "astro check",
+    "test": "node --import tsx --test scripts/tests/*.test.ts",
     "fetch-data": "tsx scripts/fetch-skolverket-data.ts",
+    "check-updates": "tsx scripts/check-skolverket-updates.ts",
     "analyze-changes": "tsx scripts/analyze-curriculum-changes.ts report",
     "subject-diff": "tsx scripts/analyze-curriculum-changes.ts subject",
     "subject-list": "tsx scripts/analyze-curriculum-changes.ts list"
@@ -20,13 +23,17 @@
     "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/sitemap": "^3.7.0",
     "@astrojs/tailwind": "^5.1.5",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/lexend": "^5.3.0",
+    "@tailwindcss/typography": "^0.5.20",
     "astro": "^5.17.3",
     "axios": "^1.13.5",
     "tailwindcss": "^3.4.19"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
-    "@types/node": "^20.19.33",
+    "@types/node": "^24.19.2",
+    "sharp": "^0.34.5",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   },

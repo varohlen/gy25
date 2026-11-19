@@ -29,27 +29,25 @@ type FullReport = {
   gy25: VersionReport;
 };
 
-function runGitText(args: string[]): string {
-  const res = spawnSync("git", args, { encoding: "utf8" });
-  if (res.status !== 0) {
-    const errorText = res.error?.message || res.stderr || "unknown git error";
-    console.warn(`git ${args.join(" ")} failed: ${String(errorText).trim()}`);
-    return "";
-  }
-  return (res.stdout || "").trim();
-}
+// The default 1 MiB buffer is too small for large subject files (the largest is close to 500 KB).
+const GIT_MAX_BUFFER = 64 * 1024 * 1024;
 
+// A git failure must stop the analysis. Treating it as "no output" would report
+// every changed subject as new or make the report silently empty.
 function runGitBuffer(args: string[]): Buffer {
-  const res = spawnSync("git", args, { encoding: null });
-  if (res.status !== 0) {
+  const res = spawnSync("git", args, { encoding: null, maxBuffer: GIT_MAX_BUFFER });
+  if (res.error || res.status !== 0) {
     const errorText =
       res.error?.message ||
       (Buffer.isBuffer(res.stderr) ? res.stderr.toString("utf8") : String(res.stderr || "")) ||
       "unknown git error";
-    console.warn(`git ${args.join(" ")} failed: ${errorText.trim()}`);
-    return Buffer.alloc(0);
+    throw new Error(`git ${args.join(" ")} failed: ${errorText.trim()}`);
   }
   return (res.stdout as Buffer) || Buffer.alloc(0);
+}
+
+function existsInHead(filePath: string): boolean {
+  return runGitBuffer(["ls-tree", "--name-only", "-z", "HEAD", "--", filePath]).length > 0;
 }
 
 function listChangedFiles(dir: string): string[] {
@@ -63,8 +61,8 @@ function listChangedFiles(dir: string): string[] {
 }
 
 function loadOldJson(filePath: string): any | null {
-  const txt = runGitText(["show", `HEAD:${filePath}`]);
-  if (!txt) return null;
+  if (!existsInHead(filePath)) return null;
+  const txt = runGitBuffer(["show", `HEAD:${filePath}`]).toString("utf8");
   try {
     return JSON.parse(txt);
   } catch {
@@ -160,15 +158,23 @@ function formatCourseLabel(course: any): string {
   return label || code || "Okänd nivå";
 }
 
-function buildGradeCriteriaHighlights(oldDoc: any, newDoc: any): string[] {
-  const oldCriteria = Array.isArray(oldDoc?.knowledgeRequirements)
-    ? oldDoc.knowledgeRequirements
-    : [];
-  const newCriteria = Array.isArray(newDoc?.knowledgeRequirements)
-    ? newDoc.knowledgeRequirements
-    : [];
-  const oldByStep = new Map(oldCriteria.map((item: any) => [item?.gradeStep, item]));
-  const newByStep = new Map(newCriteria.map((item: any) => [item?.gradeStep, item]));
+function asArray(value: unknown): any[] {
+  return Array.isArray(value) ? value : [];
+}
+
+function indexByCode(courses: unknown): Map<string, any> {
+  return new Map<string, any>(asArray(courses).map((course: any) => [course?.code, course]));
+}
+
+function normalizedKnowledge(owner: any): string[] {
+  return asArray(owner?.knowledgeRequirements).map((v: unknown) => normalizeKnowledgeRequirement(v));
+}
+
+// GY25 has knowledge requirements on the subject, GY11 has them on each course.
+// `prefix` labels the course so the lines stay readable when several courses change.
+function buildGradeCriteriaHighlights(oldOwner: any, newOwner: any, prefix = ""): string[] {
+  const oldByStep = new Map<string, any>(asArray(oldOwner?.knowledgeRequirements).map((item: any) => [item?.gradeStep, item]));
+  const newByStep = new Map<string, any>(asArray(newOwner?.knowledgeRequirements).map((item: any) => [item?.gradeStep, item]));
   const steps = [...new Set([...oldByStep.keys(), ...newByStep.keys()])].filter(Boolean).sort();
   const lines: string[] = [];
 
@@ -176,19 +182,34 @@ function buildGradeCriteriaHighlights(oldDoc: any, newDoc: any): string[] {
     const before = oldByStep.get(step);
     const after = newByStep.get(step);
     if (!before && after) {
-      lines.push(`Nytt kriterium för betyg ${step}.`);
+      lines.push(`${prefix}Nytt kriterium för betyg ${step}.`);
       continue;
     }
     if (before && !after) {
-      lines.push(`Betyg ${step} har tagits bort.`);
+      lines.push(`${prefix}Betyg ${step} har tagits bort.`);
       continue;
     }
     if (stableJson(before?.text ?? "") !== stableJson(after?.text ?? "")) {
       const snippets = textHighlights(before?.text ?? "", after?.text ?? "", 1);
-      lines.push(`Betyg ${step}: ${snippets[0] ?? "Formuleringar har reviderats."}`);
+      lines.push(`${prefix}Betyg ${step}: ${snippets[0] ?? "Formuleringar har reviderats."}`);
     }
   }
-  return lines.slice(0, 5);
+  return lines;
+}
+
+// True when a text lost more sentences than it gained, so it is not just a reformulation.
+function hasNetRemoval(before: unknown, after: unknown): boolean {
+  const beforeUnits = extractTextUnits(before);
+  const afterUnits = extractTextUnits(after);
+  const beforeSet = new Set(beforeUnits);
+  const afterSet = new Set(afterUnits);
+  const added = afterUnits.filter((line) => !beforeSet.has(line)).length;
+  const removed = beforeUnits.filter((line) => !afterSet.has(line)).length;
+  return removed > added;
+}
+
+function courseCentralText(course: any): unknown {
+  return course?.centralContent?.text ?? course?.centralContent ?? "";
 }
 
 function stableJson(value: unknown): string {
@@ -282,82 +303,52 @@ function compareSubject(filePath: string): SubjectEntry {
     };
   }
 
-  const oldCourses = Array.isArray(oldDoc.courses) ? oldDoc.courses : [];
-  const newCourses = Array.isArray(newDoc.courses) ? newDoc.courses : [];
-  const oldByCode = new Map(oldCourses.map((c: any) => [c.code, c]));
-  const newByCode = new Map(newCourses.map((c: any) => [c.code, c]));
+  const oldByCode = indexByCode(oldDoc.courses);
+  const newByCode = indexByCode(newDoc.courses);
 
   const addedCourses = [...newByCode.keys()].filter((k) => !oldByCode.has(k));
   const removedCourses = [...oldByCode.keys()].filter((k) => !newByCode.has(k));
 
   const purposeChanged = normalizeText(oldDoc.purpose) !== normalizeText(newDoc.purpose);
+  const descriptionChanged = normalizeText(oldDoc.description) !== normalizeText(newDoc.description);
+  const nameChanged = normalizeText(oldDoc.name) !== normalizeText(newDoc.name);
 
-  const oldKnowledge = Array.isArray(oldDoc.knowledgeRequirements)
-    ? oldDoc.knowledgeRequirements.map((v: unknown) => normalizeKnowledgeRequirement(v))
-    : [];
-  const newKnowledge = Array.isArray(newDoc.knowledgeRequirements)
-    ? newDoc.knowledgeRequirements.map((v: unknown) => normalizeKnowledgeRequirement(v))
-    : [];
-  const knowledgeChanged = stableJson(oldKnowledge) !== stableJson(newKnowledge);
-  // Kept as alias for compatibility with UI/report fields that still read gradeCriteriaChanged.
-  const gradeCriteriaChanged = knowledgeChanged;
-
-  const oldCentral = Array.isArray(oldDoc.centralContent)
-    ? oldDoc.centralContent.map((v: unknown) => normalizeText(v))
-    : [];
-  const newCentral = Array.isArray(newDoc.centralContent)
-    ? newDoc.centralContent.map((v: unknown) => normalizeText(v))
-    : [];
-  const subjectCentralChanged = stableJson(oldCentral) !== stableJson(newCentral);
+  const subjectKnowledgeChanged = stableJson(normalizedKnowledge(oldDoc)) !== stableJson(normalizedKnowledge(newDoc));
+  const gradeCriteriaHighlights = buildGradeCriteriaHighlights(oldDoc, newDoc);
 
   const courseCentralChangedCodes: string[] = [];
   const courseMetaChangedCodes: string[] = [];
-
-  for (const [courseCode, newCourse] of newByCode) {
-    const oldCourse = oldByCode.get(courseCode);
-    if (!oldCourse) continue;
-
-    const oldCentralJson = stableJson(oldCourse.centralContent);
-    const newCentralJson = stableJson(newCourse.centralContent);
-    if (oldCentralJson !== newCentralJson) {
-      courseCentralChangedCodes.push(courseCode);
-    }
-
-    const oldCopy = { ...oldCourse };
-    const newCopy = { ...newCourse };
-    delete oldCopy.centralContent;
-    delete newCopy.centralContent;
-    if (stableJson(oldCopy) !== stableJson(newCopy)) {
-      courseMetaChangedCodes.push(courseCode);
-    }
-  }
-
-  const purposeHighlights = textHighlights(oldDoc.purpose ?? "", newDoc.purpose ?? "", 3);
-  const subjectCentralHighlights = textHighlights(
-    oldDoc.centralContent ?? "",
-    newDoc.centralContent ?? "",
-    3,
-  );
-  const gradeCriteriaHighlights = buildGradeCriteriaHighlights(oldDoc, newDoc);
+  const courseKnowledgeChangedCodes: string[] = [];
   const courseHighlights: string[] = [];
+  let courseContentRemoved = false;
+
   for (const [courseCode, newCourse] of newByCode) {
     const oldCourse = oldByCode.get(courseCode);
     if (!oldCourse) {
       courseHighlights.push(`Ny nivå/kurs: ${formatCourseLabel(newCourse)}`);
       continue;
     }
+    const label = formatCourseLabel(newCourse);
+
     if (stableJson(oldCourse.centralContent) !== stableJson(newCourse.centralContent)) {
-      const label = formatCourseLabel(newCourse);
-      const delta = textHighlights(
-        oldCourse.centralContent?.text ?? oldCourse.centralContent ?? "",
-        newCourse.centralContent?.text ?? newCourse.centralContent ?? "",
-        1,
-      )[0];
-      courseHighlights.push(
-        delta
-          ? `${label}: ${delta}`
-          : `${label}: Centralt innehåll har justerats.`,
-      );
+      courseCentralChangedCodes.push(courseCode);
+      const before = courseCentralText(oldCourse);
+      const after = courseCentralText(newCourse);
+      courseContentRemoved ||= hasNetRemoval(before, after);
+      const delta = textHighlights(before, after, 1)[0];
+      courseHighlights.push(delta ? `${label}: ${delta}` : `${label}: Centralt innehåll har justerats.`);
+    }
+
+    // GY11 has its knowledge requirements on each course.
+    if (stableJson(normalizedKnowledge(oldCourse)) !== stableJson(normalizedKnowledge(newCourse))) {
+      courseKnowledgeChangedCodes.push(courseCode);
+      gradeCriteriaHighlights.push(...buildGradeCriteriaHighlights(oldCourse, newCourse, `${label}: `));
+    }
+
+    const { centralContent: _oldCentral, knowledgeRequirements: _oldKnowledge, ...oldMeta } = oldCourse;
+    const { centralContent: _newCentral, knowledgeRequirements: _newKnowledge, ...newMeta } = newCourse;
+    if (stableJson(oldMeta) !== stableJson(newMeta)) {
+      courseMetaChangedCodes.push(courseCode);
     }
   }
   for (const [courseCode, oldCourse] of oldByCode) {
@@ -366,12 +357,30 @@ function compareSubject(filePath: string): SubjectEntry {
     }
   }
 
+  const knowledgeChanged = subjectKnowledgeChanged || courseKnowledgeChangedCodes.length > 0;
+  // Kept as alias for compatibility with UI/report fields that still read gradeCriteriaChanged.
+  const gradeCriteriaChanged = knowledgeChanged;
+
+  const purposeHighlights = textHighlights(oldDoc.purpose ?? "", newDoc.purpose ?? "", 3);
+  if (descriptionChanged) {
+    const delta = textHighlights(oldDoc.description ?? "", newDoc.description ?? "", 1)[0];
+    purposeHighlights.push(`Beskrivning: ${delta ?? "Formuleringar har reviderats."}`);
+  }
+
+  const contentRemoved =
+    removedCourses.length > 0 ||
+    gradeCriteriaHighlights.some((line) => line.endsWith("har tagits bort.")) ||
+    hasNetRemoval(oldDoc.purpose, newDoc.purpose) ||
+    hasNetRemoval(oldDoc.description, newDoc.description) ||
+    courseContentRemoved;
+
   const metadataFields = [
     "englishName",
     "reform",
     "startDate",
     "modifiedDate",
     "versionInfo",
+    "skolfsGrund",
     "skolfsAndring",
     "lastUpdated",
     "endDate",
@@ -384,7 +393,13 @@ function compareSubject(filePath: string): SubjectEntry {
   let level: Level = "low";
   if (addedCourses.length > 0 || removedCourses.length > 0 || knowledgeChanged) {
     level = "high";
-  } else if (purposeChanged || subjectCentralChanged || courseCentralChangedCodes.length > 0) {
+  } else if (
+    purposeChanged ||
+    descriptionChanged ||
+    nameChanged ||
+    courseCentralChangedCodes.length > 0 ||
+    contentRemoved
+  ) {
     level = "medium";
   }
 
@@ -397,17 +412,22 @@ function compareSubject(filePath: string): SubjectEntry {
       addedCourses,
       removedCourses,
       purposeChanged,
-      subjectCentralChanged,
+      // Subject-level central content does not exist in either curriculum; kept for the report schema.
+      subjectCentralChanged: false,
       knowledgeChanged,
       gradeCriteriaChanged,
       courseCentralChangedCodes,
       courseMetaChangedCodes,
       metadataChanged,
+      nameChanged,
+      descriptionChanged,
+      contentRemoved,
+      courseKnowledgeChangedCodes,
     },
     details: {
       purpose: purposeHighlights,
-      centralContent: subjectCentralHighlights,
-      gradeCriteria: gradeCriteriaHighlights,
+      centralContent: [],
+      gradeCriteria: gradeCriteriaHighlights.slice(0, 8),
       courses: courseHighlights.slice(0, 6),
     },
   };
@@ -560,10 +580,8 @@ function writeSubjectDiff(version: Version, code: string, full = false): string 
     lines.push("");
 
     lines.push("## Courses");
-    const oldCourses = Array.isArray(oldDoc.courses) ? oldDoc.courses : [];
-    const newCourses = Array.isArray(newDoc.courses) ? newDoc.courses : [];
-    const oldByCode = new Map(oldCourses.map((c: any) => [c.code, c]));
-    const newByCode = new Map(newCourses.map((c: any) => [c.code, c]));
+    const oldByCode = indexByCode(oldDoc.courses);
+    const newByCode = indexByCode(newDoc.courses);
 
     const added = [...newByCode.keys()].filter((k) => !oldByCode.has(k));
     const removed = [...oldByCode.keys()].filter((k) => !newByCode.has(k));

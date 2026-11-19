@@ -1,8 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
+import { buildDescription } from '../../utils/seo';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy25subject.astro';
-import { getSubjectChange, loadFetchReport, toSvDate } from '../../utils/changelog';
+import SourceNote from '../../components/SourceNote.astro';
+import { getSubjectChange } from '../../utils/changelog';
 
 export async function getStaticPaths() {
   const subjects = await getCollection('gy25-subjects');
@@ -14,14 +16,16 @@ export async function getStaticPaths() {
 
 const { subject } = Astro.props;
 const subjectChange = getSubjectChange('gy25', subject.data.code);
-const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
-const fetchReport = loadFetchReport();
-const syncedDate = toSvDate(fetchReport?.generatedAt);
+// Utskriftsraden (VIK-169) identifierar sidan; källa och datum skrivs ut i källrutan (VIK-164).
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout title={`${subject.data.name} - GY25`}>
+<Layout
+  title={`${subject.data.name} (${subject.data.code}) – GY25`}
+  description={buildDescription(`${subject.data.name} i GY25:`, subject.data.description || subject.data.purpose)}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
-    <div class="mb-8">
+    <div class="mb-8 print:hidden">
       <a href="/gy25" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
           <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
@@ -30,20 +34,27 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
       </a>
     </div>
 
+    <p class="hidden print:block text-xs mb-4">
+      Ämne: {subject.data.name} ({subject.data.code}), GY25 · {pageUrl}
+    </p>
+
     <SubjectView subject={subject} />
+
+    <SourceNote
+      version="gy25"
+      subjectName={subject.data.name}
+      skolfsGrund={subject.data.skolfsGrund}
+      skolfsAndring={subject.data.skolfsAndring}
+      modifiedDate={subject.data.modifiedDate}
+    />
 
     {subjectChange && (
       <section class="mt-10 border-t border-gray-200 pt-4 text-sm text-gray-600">
         <div class="flex flex-wrap items-center justify-between gap-3">
           <div>
-            <p>
-              Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span>
-            </p>
-            <p class="text-xs mt-1">
-              Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span>
-            </p>
+            <p>Ämnet ändrades hos Skolverket vid den senaste hämtningen.</p>
           </div>
-          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+          <a href={`/andringar/innehall/#${subject.data.code.toLowerCase()}`} class="font-medium text-blue-700 hover:text-blue-800">
             Se ändringar
           </a>
         </div>

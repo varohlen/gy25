@@ -3,23 +3,27 @@ import Layout from './Layout.astro';
 
 interface Props {
   title?: string;
+  description?: string;
   searchPlaceholder?: string;
   activeView: 'subjects' | 'courses';
 }
 
 const { 
-  title = 'GY25',
+  title = 'Ämnen i GY25',
+  description,
   searchPlaceholder = 'Sök...',
   activeView 
 } = Astro.props;
 ---
 
-<Layout title={title}>
-  <main class="max-w-7xl mx-auto px-4 py-12">
+<Layout title={title} description={description}>
+  <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="flex flex-col items-center gap-6 mb-8">
-      <nav class="flex gap-4">
+      <h1 class="text-3xl font-bold text-gray-900 text-center">{activeView === 'subjects' ? 'Ämnen i GY25' : 'Nivåer i GY25'}</h1>
+      <nav class="flex gap-4" aria-label="Vy">
         <a 
           href="/gy25"
+          aria-current={activeView === 'subjects' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'subjects' 
               ? 'bg-blue-600 text-white' 
@@ -30,6 +34,7 @@ const {
         </a>
         <a 
           href="/gy25/courses"
+          aria-current={activeView === 'courses' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'courses' 
               ? 'bg-blue-600 text-white' 
@@ -41,8 +46,9 @@ const {
       </nav>
       
       <div class="w-full max-w-xl relative">
+        <label for="search-input" class="sr-only">{searchPlaceholder}</label>
         <input 
-          type="text" 
+          type="search" 
           id="search-input"
           class="w-full px-4 py-3 text-lg rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
           placeholder={searchPlaceholder}
@@ -61,6 +67,7 @@ const {
           />
         </svg>
       </div>
+      <p id="search-status" role="status" class="text-sm text-gray-600 min-h-[1.25rem]"></p>
     </div>
 
     <div id="search-results" class="space-y-4">
@@ -69,64 +76,11 @@ const {
         Inga resultat hittades
       </div>
     </div>
-  </main>
+  </div>
 </Layout>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const noResults = document.getElementById('no-results');
-    const searchableItems = document.querySelectorAll('[data-search], [data-searchable]');
-    
-    let debounceTimeout: ReturnType<typeof setTimeout>;
+  import { initSearch } from '../scripts/search';
 
-    if (searchInput && searchableItems.length > 0) {
-      searchInput.addEventListener('input', (e) => {
-        // Clear the existing timeout
-        if (debounceTimeout) {
-          clearTimeout(debounceTimeout);
-        }
-
-        // Set a new timeout
-        debounceTimeout = setTimeout(() => {
-          const searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
-          let hasVisibleItems = false;
-
-          searchableItems.forEach(item => {
-            // Get search text from either data-search or data-searchable attribute
-            const searchText = (
-              item.getAttribute('data-search') || 
-              item.getAttribute('data-searchable') || 
-              ''
-            ).toLowerCase();
-
-            const shouldShow = searchText.includes(searchTerm);
-            (item as HTMLElement).style.display = shouldShow ? '' : 'none';
-            
-            if (shouldShow) {
-              hasVisibleItems = true;
-            }
-          });
-
-          // Show/hide no results message
-          if (noResults) {
-            noResults.style.display = hasVisibleItems || !searchTerm ? 'none' : 'block';
-          }
-        }, 200); // 200ms debounce delay
-      });
-
-      // Clear search on escape key
-      searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-          searchInput.value = '';
-          searchableItems.forEach(item => {
-            (item as HTMLElement).style.display = '';
-          });
-          if (noResults) {
-            noResults.style.display = 'none';
-          }
-        }
-      });
-    }
-  });
+  initSearch();
 </script>
