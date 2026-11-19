@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "entry": {
+    "id": "2026-11-19T16:05:16.351Z-c177e66d-365d-4999-993f-5d6ad865e15f",
+    "recordedAt": "2026-11-19T16:05:16.351Z",
+    "fromUpdatedAt": "2026-10-06T11:22:08.731Z",
+    "toUpdatedAt": "2026-11-19T16:05:16.351Z",
+    "baselineLabel": "Diff from previous sync (2026-10-06T11:22:08.731Z -> 2026-11-19T16:05:16.351Z)",
+    "edgeCase": {
+      "initialResync": false,
+      "longGapDays": null
+    },
+    "apiMetadata": {
+      "apiVersion": "1.16.2-SNAPSHOT",
+      "apiReleased": "2026-05-08",
+      "apiStatus": "active"
+    },
+    "versions": {
+      "gy11": {
+        "subjectCount": 311,
+        "fetchedCount": 0,
+        "removedCount": 0,
+        "unchangedCount": 311,
+        "addedCodes": [],
+        "removedCodes": [],
+        "changedCodes": []
+      },
+      "gy25": {
+        "subjectCount": 569,
+        "fetchedCount": 1,
+        "removedCount": 0,
+        "unchangedCount": 568,
+        "addedCodes": [],
+        "removedCodes": [],
+        "changedCodes": [
+          "ATVO"
+        ]
+      }
+    }
+  },
+  "report": {
+    "generatedAt": "2026-11-19T16:07:55.222Z",
+    "baseline": "git HEAD vs current workspace",
+    "gy11": {
+      "totalChanged": 0,
+      "buckets": {
+        "high": [],
+        "medium": [],
+        "low": []
+      },
+      "entries": []
+    },
+    "gy25": {
+      "totalChanged": 1,
+      "buckets": {
+        "high": [],
+        "medium": [
+          "ATVO"
+        ],
+        "low": []
+      },
+      "entries": [
+        {
+          "code": "ATVO",
+          "name": "ATV- och motorcykelteknik",
+          "modifiedDate": "2025-12-11",
+          "versionInfo": "Första versionen",
+          "filePath": "src/content/gy25-subjects/ATVO.json",
+          "level": "medium",
+          "summary": {
+            "addedCourses": [],
+            "removedCourses": [],
+            "purposeChanged": false,
+            "subjectCentralChanged": false,
+            "knowledgeChanged": false,
+            "gradeCriteriaChanged": false,
+            "courseCentralChangedCodes": [
+              "ATVO1000X"
+            ],
+            "courseMetaChangedCodes": [],
+            "metadataChanged": [
+              "modifiedDate",
+              "lastUpdated"
+            ]
+          },
+          "details": {
+            "purpose": [],
+            "centralContent": [],
+            "gradeCriteria": [],
+            "courses": [
+              "Nivå 1 (ATVO1000X): Tillagt: Olika ATV, motorcyklar och deras användningsområden samt fordonens konstruktion, funktion, system och komponenter."
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

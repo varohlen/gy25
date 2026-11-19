@@ -1,13 +1,13 @@
 # Change Impact Report
 
-Generated: 2026-10-06T11:22:32.147Z
+Generated: 2026-11-19T16:07:55.222Z
 Baseline: git HEAD vs current workspace
 
 ## GY25
-- Changed subjects: 19
-- High impact (5): HUMN, INDY, PLAB, PROB, STAS
-- Medium impact (13): ATVO, BYGN, FINI, FINN, GLAS, HAND, HJUL, KULT, LASO, MALE, STES, TAKO, TATS
-- Low impact (1): STAD
+- Changed subjects: 1
+- High impact (0): -
+- Medium impact (1): ATVO
+- Low impact (0): -
 
 ## GY11
 - Changed subjects: 0
