@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-18",
+  "title": "Yrkesämnen markeras i GY11-översikten",
+  "category": "Teknik",
+  "summary": "Yrkesämnen på /gy11/ får nu sin egen färg. Samtidigt har versionskraven rättats och test- och typkontroller lagts till.",
+  "details": [
+    "Ämneskategorier från Skolverket läses nu in för GY11, så att yrkesämnen kan markeras.",
+    "Node- och pnpm-versionerna stämmer nu överens, och projektet har kommandona pnpm test och pnpm check."
+  ]
+}
