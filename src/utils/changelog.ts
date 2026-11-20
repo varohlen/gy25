@@ -114,14 +114,36 @@ export function loadArchivedChangeReport(entry: FetchHistoryEntry): ArchivedChan
   return archive?.schemaVersion === 1 && archive.entry.id === entry.id ? archive : null;
 }
 
+let archivedReportsCache: ArchivedChangeReport[] | undefined;
+
 export function loadArchivedChangeReports(): ArchivedChangeReport[] {
+  if (archivedReportsCache !== undefined) return archivedReportsCache;
   const dir = path.join(process.cwd(), "scripts/state/change-reports");
-  if (!existsSync(dir)) return [];
-  return readdirSync(dir)
+  if (!existsSync(dir)) return (archivedReportsCache = []);
+  return (archivedReportsCache = readdirSync(dir)
     .filter((file) => file.endsWith(".json"))
     .map((file) => parseJsonFile<ArchivedChangeReport>(path.join(dir, file)))
     .filter((archive): archive is ArchivedChangeReport => archive?.schemaVersion === 1)
-    .sort((a, b) => b.entry.recordedAt.localeCompare(a.entry.recordedAt));
+    .sort((a, b) => b.entry.recordedAt.localeCompare(a.entry.recordedAt)));
+}
+
+/** Länk till ämnets post i den senaste arkiverade rapport där ämnet finns med. */
+export function getLatestSubjectReportHref(version: VersionKey, subjectCode: string): string | null {
+  const code = subjectCode.toUpperCase();
+  const archive = loadArchivedChangeReports().find((candidate) =>
+    candidate.report[version].entries.some((entry) => entry.code.toUpperCase() === code),
+  );
+  return archive ? `/andringar/innehall/${getChangeReportId(archive.entry)}/#${code.toLowerCase()}` : null;
+}
+
+/** Sorterar ändrade ämnen efter Skolverkets ändringsdatum, nyast först, sedan namn. */
+export function compareByModifiedDateDesc(
+  a: { modifiedDate?: string; name?: string; code: string },
+  b: { modifiedDate?: string; name?: string; code: string },
+): number {
+  const byDate = (b.modifiedDate ?? "").localeCompare(a.modifiedDate ?? "");
+  if (byDate !== 0) return byDate;
+  return (a.name ?? a.code).localeCompare(b.name ?? b.code, "sv-SE");
 }
 
 let changeCache: ChangeImpactReport | null | undefined;
@@ -177,10 +199,14 @@ export function toSvDate(isoLike?: string | null): string {
   if (!isoLike) return "okänt datum";
   const parsed = new Date(isoLike);
   if (Number.isNaN(parsed.getTime())) return isoLike;
+  // Datum utan klockslag (t.ex. Skolverkets modifiedDate) tolkas som UTC-midnatt
+  // och ska visas som samma dag. Tidsstämplar visas i svensk tid.
+  const isDateOnly = /^\d{4}-\d{2}-\d{2}$/.test(isoLike.trim());
   return new Intl.DateTimeFormat("sv-SE", {
     year: "numeric",
     month: "long",
     day: "numeric",
+    timeZone: isDateOnly ? "UTC" : "Europe/Stockholm",
   }).format(parsed);
 }
 

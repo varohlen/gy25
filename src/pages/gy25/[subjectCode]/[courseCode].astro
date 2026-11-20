@@ -92,7 +92,7 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
               Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span>
             </p>
           </div>
-          <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">
+          <a href={`/andringar/innehall/#${subject.data.code.toLowerCase()}`} class="font-medium text-blue-700 hover:text-blue-800">
             Se ändringar
           </a>
         </div>
