@@ -1,5 +1,6 @@
 ---
 import { loadFetchReport, toSvDate } from "../../utils/changelog";
+import WhichCurriculum from "../WhichCurriculum.astro";
 import summorLogo from "../../assets/project-logos/summor-lightlogo.png";
 import arohlenAvatar from "../../assets/project-logos/arohlen-pixel-sit01.png";
 
@@ -48,6 +49,8 @@ const dataUpdated = formatDateOrUnknown(fetchReport?.generatedAt);
                 uppgifterna mot Skolverkets egna publikationer och dokument.
             </p>
         </section>
+
+        <WhichCurriculum />
 
         <section class="grid md:grid-cols-2 gap-6">
             <div class="bg-emerald-50 rounded-xl border border-emerald-100 p-6">

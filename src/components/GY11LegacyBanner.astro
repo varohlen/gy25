@@ -1,9 +1,13 @@
 ---
+import { getGy11EndDate } from '../utils/gy11';
+
 interface Props {
   compact?: boolean;
 }
 
 const { compact = false } = Astro.props;
+// Latest endDate in the GY11 data, instead of a hard-coded year
+const gy11End = await getGy11EndDate();
 ---
 
 <section class={`w-full rounded-xl border border-amber-300 bg-amber-50 ${compact ? "p-3" : "p-4"} shadow-sm`}>
@@ -23,7 +27,7 @@ const { compact = false } = Astro.props;
     <div class="min-w-0">
       <p class="text-sm font-semibold text-amber-900">GY11 är en utgående läroplan</p>
       <p class="mt-1 text-sm text-amber-900/90">
-        GY11 gäller i övergångsperioden till och med 2027. För aktuell läroplan och nya ämnesnivåer, använd GY25.
+        GY11 gäller för elever som började gymnasieskolan före den 1 juli 2025{gy11End ? `, under en övergångsperiod till och med ${gy11End.text}` : ''}. För aktuell läroplan och nya ämnesnivåer, använd GY25.
       </p>
       <div class="mt-2 flex flex-wrap items-center gap-4 text-sm">
         <a href="/gy25" class="font-medium text-amber-900 underline decoration-amber-500/60 underline-offset-2 hover:text-amber-950">
