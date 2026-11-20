@@ -23,7 +23,7 @@ function formatPurpose(content: string) {
       <span class="text-sm font-mono text-gray-500">{subject.data.code}</span>
     </div>
     {subject.data.description && (
-      <div class="prose max-w-none mt-4" set:html={subject.data.description} />
+      <div class="prose mt-4" set:html={subject.data.description} />
     )}
   </section>
 
@@ -31,7 +31,7 @@ function formatPurpose(content: string) {
     <section class="bg-white rounded-lg shadow-sm p-6">
       <h2 class="text-xl font-bold text-gray-900 mb-4">Ämnets syfte</h2>
       <div
-        class="prose max-w-none [&_p]:mb-5 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-2 [&_li]:mb-2"
+        class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-2 [&_li]:mb-2"
         set:html={formatPurpose(purposeWithoutCourses)}
       />
     </section>
