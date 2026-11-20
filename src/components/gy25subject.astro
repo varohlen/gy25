@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import { validityText } from '../utils/validity';
 
 interface Props {
   subject: CollectionEntry<'gy25-subjects'>;
@@ -61,6 +62,7 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
     </button>
     <div class="section-content p-6 pt-0" data-section="basic-info">
       <div class="space-y-6">
+        <p class="text-sm text-gray-600">{validityText(subject.data)}</p>
         {subject.data.description && showDescription && (
           <div class="prose max-w-none" set:html={subject.data.description} />
         )}
