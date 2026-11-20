@@ -91,16 +91,27 @@ Regressionstest för rapportarkivet (simulerat API och isolerat git-repo):
 node --import tsx --test scripts/tests/change-history.test.ts
 ```
 
-## Automatisk uppdatering (GitHub Actions)
+## Uppdatering av data (manuell, med påminnelse)
 
-- Workflow: `.github/workflows/sync-skolverket-data.yml`
-- Körs schemalagt två gånger per dygn samt manuellt via `workflow_dispatch`.
-- Flöde:
-  1. installerar beroenden
-  2. kör `pnpm fetch-data`
-  3. kör `pnpm analyze-changes`
-  4. committar endast om datafiler faktiskt har ändrats
-- Om repo är kopplat till deploy på `main` triggas ny deploy automatiskt efter commit.
+Datan uppdateras manuellt. En schemalagd uppgift på servern kör en kontroll
+och påminner när Skolverket har ändrat något. Kontrollen skriver ingenting:
+
+```bash
+pnpm check-updates          # text; exit 0 = aktuell, 2 = ändringar finns, 1 = fel
+pnpm check-updates --json   # samma resultat som JSON
+```
+
+När kontrollen visar ändringar:
+
+1. Skapa en branch från `main`.
+2. Kör `pnpm fetch-data` och sedan `pnpm analyze-changes`.
+3. Granska diffen och `scripts/state/change-impact-report.md`.
+4. Kör `pnpm build`, committa data- och rapportfiler och öppna en PR.
+5. Mergea till `main` (Cloudflare Pages publicerar) och kontrollera gy25.se.
+
+Tidigare fanns ett GitHub Actions-workflow som synkade automatiskt. Det
+misslyckades i varje körning med ändringar (`git pull --rebase` kördes efter
+att filerna skrivits) och är borttaget.
 
 ## Bidra
 
