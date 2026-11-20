@@ -46,7 +46,7 @@ const {
       <div class="w-full max-w-xl relative">
         <label for="search-input" class="sr-only">{searchPlaceholder}</label>
         <input
-          type="text"
+          type="search"
           id="search-input"
           class="w-full px-4 py-3 text-lg rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
           placeholder={searchPlaceholder}
@@ -65,6 +65,7 @@ const {
           />
         </svg>
       </div>
+      <p id="search-status" role="status" class="text-sm text-gray-600 min-h-[1.25rem]"></p>
 
       <GY11LegacyBanner />
     </div>
@@ -79,51 +80,7 @@ const {
 </Layout>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('search-input') as HTMLInputElement;
-    const noResults = document.getElementById('no-results');
-    const searchableItems = document.querySelectorAll('[data-search], [data-searchable]');
+  import { initSearch } from '../scripts/search';
 
-    let debounceTimeout: ReturnType<typeof setTimeout>;
-
-    if (searchInput && searchableItems.length > 0) {
-      searchInput.addEventListener('input', (e) => {
-        if (debounceTimeout) {
-          clearTimeout(debounceTimeout);
-        }
-
-        debounceTimeout = setTimeout(() => {
-          const searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
-          let hasVisibleItems = false;
-
-          searchableItems.forEach(item => {
-            const searchText = (
-              item.getAttribute('data-search') ||
-              item.getAttribute('data-searchable') ||
-              ''
-            ).toLowerCase();
-
-            const shouldShow = searchText.includes(searchTerm);
-            (item as HTMLElement).style.display = shouldShow ? '' : 'none';
-
-            if (shouldShow) hasVisibleItems = true;
-          });
-
-          if (noResults) {
-            noResults.style.display = hasVisibleItems || !searchTerm ? 'none' : 'block';
-          }
-        }, 200);
-      });
-
-      searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-          searchInput.value = '';
-          searchableItems.forEach(item => {
-            (item as HTMLElement).style.display = '';
-          });
-          if (noResults) noResults.style.display = 'none';
-        }
-      });
-    }
-  });
+  initSearch();
 </script>
