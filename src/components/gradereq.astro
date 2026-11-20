@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
   requirements: {
@@ -8,6 +9,8 @@ interface Props {
   }[];
   title?: string;
   defaultView?: 'list' | 'table';
+  /** Ger sektionen och betygsstegen id (#betyg-e osv.). Bara en per sida. */
+  anchorId?: string;
 }
 
 type GradeStep = 'E' | 'C' | 'A';
@@ -17,8 +20,12 @@ type GradeMap = Record<GradeStep, GradeData>;
 const { 
   requirements,
   title = "Betygskriterier",
-  defaultView = 'list'
+  defaultView = 'list',
+  anchorId
 } = Astro.props;
+
+const gradeAnchor = (gradeStep: string) =>
+  anchorId && ['E', 'C', 'A'].includes(gradeStep) ? `betyg-${gradeStep.toLowerCase()}` : undefined;
 
 // Function to extract paragraphs from HTML content
 function extractParagraphs(html: string): string[] {
@@ -60,10 +67,11 @@ const maxCriteria = Math.max(
 
 ---
 
-<div class="bg-white rounded-lg shadow-sm mb-6 relative z-10">
+<div id={anchorId} data-anchor-section={anchorId ? '' : undefined} class="bg-white rounded-lg shadow-sm mb-6 relative z-10 scroll-mt-4">
   <div class="p-6 flex justify-between items-center border-b border-gray-200 bg-white relative z-20">
     <h2 class="text-2xl font-bold text-gray-900">{title}</h2>
     <div class="flex items-center gap-4">
+      {anchorId && <CopyLinkButton anchor={anchorId} label={title} />}
       <div class="flex gap-2">
         <button
           class="view-toggle px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
@@ -96,9 +104,17 @@ const maxCriteria = Math.max(
       style="display: block;"
     >
       <div class="prose max-w-none space-y-8">
-        {requirements.map((req) => (
-          <div set:html={req.text} />
-        ))}
+        {requirements.map((req) => {
+          const gradeId = gradeAnchor(req.gradeStep);
+          return gradeId ? (
+            <div id={gradeId} class="relative scroll-mt-4">
+              <CopyLinkButton anchor={gradeId} label={`betyget ${req.gradeStep}`} class="absolute right-0 top-0" />
+              <div set:html={req.text} />
+            </div>
+          ) : (
+            <div set:html={req.text} />
+          );
+        })}
       </div>
     </div>
 
@@ -166,19 +182,32 @@ const maxCriteria = Math.max(
     const viewToggles = document.querySelectorAll('.view-toggle');
     const viewContents = document.querySelectorAll('.view-content');
     
+    const applyView = (view: string | null) => {
+      // Update toggle buttons
+      viewToggles.forEach(t => {
+        t.setAttribute('data-active', (t.getAttribute('data-view') === view).toString());
+      });
+
+      // Update content visibility
+      viewContents.forEach(content => {
+        (content as HTMLElement).style.display = content.getAttribute('data-view') === view ? '' : 'none';
+      });
+    };
+
+    // Vyn sparas i ?vy=tabell (listvyn är standard och syns inte i URL:en)
+    if (new URLSearchParams(window.location.search).get('vy') === 'tabell') {
+      applyView('table');
+    }
+
     viewToggles.forEach(toggle => {
       toggle.addEventListener('click', () => {
         const view = toggle.getAttribute('data-view');
-        
-        // Update toggle buttons
-        viewToggles.forEach(t => {
-          t.setAttribute('data-active', (t === toggle).toString());
-        });
-        
-        // Update content visibility
-        viewContents.forEach(content => {
-          content.style.display = content.getAttribute('data-view') === view ? '' : 'none';
-        });
+        applyView(view);
+
+        const url = new URL(window.location.href);
+        if (view === 'table') url.searchParams.set('vy', 'tabell');
+        else url.searchParams.delete('vy');
+        history.replaceState(history.state, '', url);
       });
     });
 
