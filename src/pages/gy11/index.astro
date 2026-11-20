@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import GY11Layout from '../../layouts/GY11Layout.astro';
+import { pluralize } from '../../utils/plural';
 
 const subjects = await getCollection('gy11-subjects');
 subjects.sort((a, b) => a.data.name.localeCompare(b.data.name, 'sv-SE'));
@@ -35,7 +36,7 @@ function getCardColor(subject: (typeof subjects)[number]) {
                 </a>
                 <span class="text-sm font-mono text-gray-600">{subject.data.code}</span>
               </div>
-              <p class="text-sm text-gray-600">{subject.data.courses?.length ?? 0} kurser</p>
+              <p class="text-sm text-gray-600">{pluralize(subject.data.courses?.length ?? 0, 'kurs')}</p>
             </div>
           </div>
           <p class="text-xs text-gray-500 mt-auto">GY11</p>
