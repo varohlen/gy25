@@ -4,16 +4,16 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        logo: ['Inter', 'sans-serif'],
-        heading: ['Lexend', 'sans-serif'],
-        body: ['Inter', 'sans-serif'],
+        logo: ['Inter Variable', 'sans-serif'],
+        heading: ['Lexend Variable', 'sans-serif'],
+        body: ['Inter Variable', 'sans-serif'],
       },
     },
   },
   plugins: [
     function({ addBase }) {
       addBase({
-        'h1, h2, h3, h4, h5, h6': { fontFamily: "'Lexend', sans-serif" },
+        'h1, h2, h3, h4, h5, h6': { fontFamily: "'Lexend Variable', sans-serif" },
       })
     },
   ],
