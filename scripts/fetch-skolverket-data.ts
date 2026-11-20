@@ -349,6 +349,8 @@ async function processVersion(
   changedCodes: string[];
   addedCodes: string[];
   removedCodes: string[];
+  // Writes and removes the files. Called only after every version has been fetched successfully.
+  apply: () => Promise<void>;
 }> {
   const report = createVersionReport(version);
 
@@ -405,14 +407,16 @@ async function processVersion(
     }
   }
 
-  for (const entry of fetchedSubjects) {
-    await saveSubject(version, entry.detail, now);
-    report.fetchedCount += 1;
-  }
+  const apply = async () => {
+    for (const entry of fetchedSubjects) {
+      await saveSubject(version, entry.detail, now);
+      report.fetchedCount += 1;
+    }
 
-  for (const removed of toRemove) {
-    await removeSubjectFile(removed.filePath);
-  }
+    for (const removed of toRemove) {
+      await removeSubjectFile(removed.filePath);
+    }
+  };
 
   const state: VersionState = {
     subjectCount: liveSubjects.length,
@@ -430,6 +434,7 @@ async function processVersion(
     changedCodes: [...changedCodes].sort(),
     addedCodes: [...addedCodes].sort(),
     removedCodes: toRemove.map(entry => entry.code).sort(),
+    apply,
   };
 }
 
@@ -584,17 +589,17 @@ async function main() {
     let hadChanges = false;
     let hadErrors = false;
 
+    // Fetch both versions before writing anything. A partial write (GY11 written, GY25 failed)
+    // would make the next sync see GY11 as unchanged and record a history entry without its codes.
+    const prepared: Array<Awaited<ReturnType<typeof processVersion>>> = [];
+
     for (const version of ['gy11', 'gy25'] as VersionKey[]) {
       console.log(`\nProcessing ${version.toUpperCase()}...`);
       try {
         const result = await processVersion(version, now, version === 'gy11' ? gy11List : undefined);
         versionReports[version] = result.report;
         versionStates[version] = result.state;
-        hadChanges = hadChanges || result.hadChanges;
-
-        console.log(
-          `${version.toUpperCase()}: ${result.report.fetchedCount} fetched, ${result.report.removedCount} removed, ${result.report.unchangedCount} unchanged`,
-        );
+        prepared.push(result);
       } catch (error) {
         hadErrors = true;
         versionReports[version] = {
@@ -603,6 +608,18 @@ async function main() {
           error: error instanceof Error ? error.message : String(error),
         };
         console.error(`${version.toUpperCase()} failed:`, error);
+      }
+    }
+
+    if (hadErrors) {
+      console.error('\nNo subject files were written because at least one version failed.');
+    } else {
+      for (const result of prepared) {
+        await result.apply();
+        hadChanges = hadChanges || result.hadChanges;
+        console.log(
+          `${result.report.version.toUpperCase()}: ${result.report.fetchedCount} fetched, ${result.report.removedCount} removed, ${result.report.unchangedCount} unchanged`,
+        );
       }
     }
 
