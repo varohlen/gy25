@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../utils/sanitize-html';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
@@ -87,7 +88,7 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
       </svg>
     </button>
     <div class="section-content p-6 pt-0" data-section="central-content">
-      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={course.centralContent?.text} />
+      <div class="prose max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2" set:html={safeHtml(course.centralContent?.text)} />
     </div>
   </div>
 
