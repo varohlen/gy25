@@ -1,4 +1,6 @@
 ---
+import '../styles/print.css';
+
 interface Props {
   title: string;
   description?: string;
@@ -81,7 +83,7 @@ const navLinks = [
 </style>
   </head>
   <body class="min-h-screen bg-gray-50 flex flex-col font-body">
-    <header class="bg-white shadow-sm">
+    <header class="bg-white shadow-sm print:hidden">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex flex-col md:flex-row md:items-center md:justify-between md:h-16">
           <!-- Logo/Title -->
@@ -120,7 +122,7 @@ const navLinks = [
       <slot />
     </main>
 
-    <footer class="bg-white border-t border-gray-100">
+    <footer class="bg-white border-t border-gray-100 print:hidden">
       <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <!-- Left side -->

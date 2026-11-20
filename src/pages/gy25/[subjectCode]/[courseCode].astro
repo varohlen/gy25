@@ -48,12 +48,13 @@ const isCourseMetaChanged = (subjectChange?.summary?.courseMetaChangedCodes ?? [
 const apiUpdatedDate = toSvDate(subject.data.modifiedDate);
 const fetchReport = loadFetchReport();
 const syncedDate = toSvDate(fetchReport?.generatedAt);
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <Layout title={`${course.name} - ${subject.data.name} - GY25`}>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <!-- Navigation -->
-    <div class="mb-8 flex justify-between items-center">
+    <div class="mb-8 flex justify-between items-center print:hidden">
       <a 
         href="/gy25/courses"
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
@@ -74,6 +75,10 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
         </svg>
       </a>
     </div>
+
+    <p class="hidden print:block text-xs mb-4">
+      {subject.data.name} ({subject.data.code}), {course.name} ({course.code}), GY25 · Källa: Skolverket (skolverket.se), hämtad {syncedDate} · {pageUrl}
+    </p>
 
     <!-- Course View Component -->
     <CourseView 
