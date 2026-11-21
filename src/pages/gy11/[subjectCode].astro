@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import SubjectView from '../../components/gy11subject.astro';
+import { getLatestSubjectReportHref } from '../../utils/changelog';
 import GY11LegacyBanner from '../../components/GY11LegacyBanner.astro';
 import { loadFetchReport, toSvDate } from '../../utils/changelog';
 
@@ -9,7 +10,11 @@ export async function getStaticPaths() {
   const subjects = await getCollection('gy11-subjects');
   return subjects.map((subject) => ({
     params: { subjectCode: subject.data.code.toLowerCase() },
-    props: { subject },
+    props: {
+      subject,
+      // /andringar/innehall visar bara GY25, så GY11 länkar till rapporten där ämnet finns.
+      changeReportHref: getLatestSubjectReportHref('gy11', subject.data.code),
+    },
   }));
 }
 
@@ -48,7 +53,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
           <p>Senast uppdaterad hos Skolverket: <span class="font-medium text-gray-800">{apiUpdatedDate}</span></p>
           <p class="text-xs mt-1">Senast hämtad av gy25.se: <span class="font-medium text-gray-800">{syncedDate}</span></p>
         </div>
-        <a href="/andringar/innehall" class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>
+        {Astro.props.changeReportHref && <a href={Astro.props.changeReportHref} class="font-medium text-blue-700 hover:text-blue-800">Se ändringar</a>}
       </div>
     </section>
   </div>
