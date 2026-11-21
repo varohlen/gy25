@@ -1,0 +1,63 @@
+/* Webbläsare med automatiskt mörkt läge ska inte förvränga färgerna. */
+:root {
+  color-scheme: light;
+}
+
+/* Utskrift av ämnes- och nivåsidor (VIK-169) */
+@media print {
+  @page {
+    margin: 18mm 16mm;
+  }
+
+  *,
+  *::before,
+  *::after,
+  ::marker {
+    color: #000 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  body {
+    font-size: 11pt;
+  }
+
+  /* Visa alla hopfällda sektioner, oavsett hur de döljs:
+     max-height (gradereq), .hidden-klass (gy25subject),
+     inline display:none (gy25course) eller hidden-attributet. */
+  .section-content,
+  .section-content.hidden,
+  .section-content[hidden] {
+    display: block !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  /* Kontroller som inte gör något på papper */
+  .view-toggle,
+  .section-toggle svg,
+  .toggle-button svg,
+  .expand-btn {
+    display: none !important;
+  }
+
+  /* Håll ihop rubriker med innehållet och varje betygssteg för sig */
+  h1, h2, h3, h4, h5 {
+    break-after: avoid;
+  }
+
+  [data-grade-step],
+  tr {
+    break-inside: avoid;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+}
