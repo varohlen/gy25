@@ -4,7 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 interface Props {
   requirements: {
     text: string;
-    gradeStep: string;
+    gradeStep?: string;
   }[];
   title?: string;
   defaultView?: 'list' | 'table';
@@ -164,7 +164,7 @@ const maxCriteria = Math.max(
   document.addEventListener('DOMContentLoaded', () => {
     // View toggle functionality
     const viewToggles = document.querySelectorAll('.view-toggle');
-    const viewContents = document.querySelectorAll('.view-content');
+    const viewContents = document.querySelectorAll<HTMLElement>('.view-content');
     
     viewToggles.forEach(toggle => {
       toggle.addEventListener('click', () => {
@@ -187,7 +187,7 @@ const maxCriteria = Math.max(
     toggleButtons.forEach(button => {
       button.addEventListener('click', () => {
         const sectionId = button.getAttribute('data-toggle');
-        const section = document.querySelector(`[data-section="${sectionId}"]`);
+        const section = document.querySelector<HTMLElement>(`[data-section="${sectionId}"]`);
         const isExpanded = button.getAttribute('data-expanded') === 'true';
         
         button.setAttribute('data-expanded', (!isExpanded).toString());

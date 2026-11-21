@@ -10,8 +10,6 @@
   "exclude": [
     "node_modules",
     "dist",
-    "public",
-    "src/components/gy11course.astro",
-    "src/components/gy11subject.astro"
+    "public"
   ]
 }
