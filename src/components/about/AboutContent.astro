@@ -1,4 +1,5 @@
 ---
+import { Image } from "astro:assets";
 import { loadFetchReport, toSvDate } from "../../utils/changelog";
 import WhichCurriculum from "../WhichCurriculum.astro";
 import summorLogo from "../../assets/project-logos/summor-lightlogo.png";
@@ -161,9 +162,12 @@ const dataUpdated = formatDateOrUnknown(fetchReport?.generatedAt);
                         <div
                             class="h-12 w-12 rounded-[16px] bg-blue-50 border border-blue-100 flex items-center justify-center overflow-hidden"
                         >
-                            <img
-                                src={arohlenAvatar.src}
+                            <Image
+                                src={arohlenAvatar}
                                 alt="Arohlen.se avatar"
+                                width={40}
+                                height={40}
+                                densities={[1, 2]}
                                 class="h-10 w-10 object-cover"
                                 loading="lazy"
                             />
@@ -192,9 +196,12 @@ const dataUpdated = formatDateOrUnknown(fetchReport?.generatedAt);
                         <div
                             class="h-12 w-12 rounded-[16px] bg-emerald-50 border border-emerald-100 flex items-center justify-center overflow-hidden"
                         >
-                            <img
-                                src={summorLogo.src}
+                            <Image
+                                src={summorLogo}
                                 alt="Summor.se logotyp"
+                                width={32}
+                                height={32}
+                                densities={[1, 2]}
                                 class="h-8 w-8 object-contain"
                                 loading="lazy"
                             />
