@@ -1,24 +1,32 @@
 ---
+import { SITE_NAME } from '../utils/seo';
 import '@fontsource-variable/inter';
 import '@fontsource-variable/lexend';
 import '../styles/print.css';
 
 interface Props {
+  /** Sidans namn. " – GY25.se" läggs till om titeln inte redan innehåller GY25.se. */
   title: string;
   description?: string;
   image?: string;
+  imageAlt?: string;
 }
 
 const { 
   title,
   description = "Utforska den nya gymnasiereformen GY25. Se alla ämnen, nivåer och förändringar från GY11.",
-  image = "/favicon.svg"
+  image = "/og-image.png",
+  imageAlt = "GY25.se – Skolverkets ämnesplaner, lättare att läsa",
 } = Astro.props;
 
+const fullTitle = title.includes(SITE_NAME) ? title : `${title} – ${SITE_NAME}`;
 const currentPath = Astro.url.pathname;
-const siteUrl = 'https://gy25.se';
-const canonicalURL = `${siteUrl}${currentPath}`;
-const imageUrl = `${siteUrl}${image}`;
+const site = Astro.site ?? new URL('https://gy25.se');
+const canonicalURL = new URL(Astro.url.pathname, site).href;
+const imageUrl = new URL(image, site).href;
+// Stor delningsbild bara för rasterbilder; SVG visas inte av Facebook, LinkedIn eller X.
+const hasLargeImage = /\.(png|jpe?g|webp)$/i.test(image);
+const isDefaultImage = image === "/og-image.png";
 
 const activeClass = "inline-flex items-center px-1 pt-1 border-b-2 border-blue-500 text-sm font-medium text-gray-900";
 const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700";
@@ -45,22 +53,28 @@ const navLinks = [
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     
-    <title>{title}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={description} />
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="sv_SE" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={title} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageUrl} />
+    {isDefaultImage && <meta property="og:image:width" content="1200" />}
+    {isDefaultImage && <meta property="og:image:height" content="630" />}
+    <meta property="og:image:alt" content={imageAlt} />
     
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={imageUrl} />
+    <meta name="twitter:card" content={hasLargeImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="twitter:image:alt" content={imageAlt} />
     
     <!-- Additional Meta -->
     <meta name="generator" content={Astro.generator} />

@@ -19,7 +19,7 @@ courses.sort((a, b) => {
 });
 ---
 
-<GY11Layout title="GY11 Kurser" activeView="courses" searchPlaceholder="Sök på kurs, kurskod eller ämne...">
+<GY11Layout title="Kurser i GY11" description={`Alla ${courses.length} kurser i GY11 grupperade per ämne, med kurskod och poäng.`} activeView="courses" searchPlaceholder="Sök på kurs, kurskod eller ämne...">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <div class="space-y-1 divide-y-2 divide-gray-200">
       {courses.map((course, index) => {

@@ -1,5 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildCourseDescription } from '../../../utils/seo';
 import Layout from '../../../layouts/Layout.astro';
 import CourseView from '../../../components/gy11course.astro';
 import { getLatestSubjectReportHref } from '../../../utils/changelog';
@@ -56,7 +57,13 @@ const syncedDate = toSvDate(fetchReport?.generatedAt);
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
-<Layout title={`${course.name} - ${subject.data.name} - GY11`}>
+<Layout
+  title={`${course.name} (${course.code}) – GY11`}
+  description={buildCourseDescription(
+    `${course.name} (${course.code})${course.points ? `, ${course.points} poäng` : ''}, GY11`,
+    course.centralContent?.text,
+  )}
+>
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <div class="mb-8 flex justify-between items-center print:hidden">
       <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
