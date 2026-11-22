@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -23,7 +24,7 @@ function formatPurpose(content: string) {
       <span class="text-sm font-mono text-gray-500">{subject.data.code}</span>
     </div>
     {subject.data.description && (
-      <div class="prose mt-4" set:html={subject.data.description} />
+      <div class="prose mt-4" set:html={safeHtml(subject.data.description)} />
     )}
   </section>
 
@@ -32,7 +33,7 @@ function formatPurpose(content: string) {
       <h2 class="text-xl font-bold text-gray-900 mb-4">Syfte</h2>
       <div
         class="prose [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:space-y-2 [&_li]:mb-2"
-        set:html={formatPurpose(purposeWithoutCourses)}
+        set:html={formatPurpose(safeHtml(purposeWithoutCourses))}
       />
     </section>
   )}

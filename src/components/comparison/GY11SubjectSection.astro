@@ -1,4 +1,5 @@
 ---
+import { safeHtml } from '../../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -28,15 +29,15 @@ function getCoursesIntro(content: string) {
 ---
 
 {section === 'description' && (
-  <div class="prose prose-blue max-w-none" set:html={subject.data.description} />
+  <div class="prose prose-blue max-w-none" set:html={safeHtml(subject.data.description)} />
 )}
 
 {section === 'purpose' && (
-  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_h5]:font-semibold [&_h5]:text-base" set:html={transformPurposeContent(subject.data.purpose || '')} />
+  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_h5]:font-semibold [&_h5]:text-base" set:html={transformPurposeContent(safeHtml(subject.data.purpose))} />
 )}
 
 {section === 'courses_intro' && (
-  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mb-4" set:html={getCoursesIntro(subject.data.purpose || '')} />
+  <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:mb-4" set:html={safeHtml(getCoursesIntro(subject.data.purpose || ''))} />
 )}
 
 {section === 'courses' && (
