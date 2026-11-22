@@ -17,11 +17,13 @@ const {
 ---
 
 <Layout title={title} description={description}>
-  <main class="max-w-7xl mx-auto px-4 py-12">
+  <div class="max-w-7xl mx-auto px-4 py-12">
     <div class="flex flex-col items-center gap-6 mb-8">
-      <nav class="flex gap-4">
+      <h1 class="text-3xl font-bold text-gray-900 text-center">{activeView === 'subjects' ? 'Ämnen i GY25' : 'Nivåer i GY25'}</h1>
+      <nav class="flex gap-4" aria-label="Vy">
         <a 
           href="/gy25"
+          aria-current={activeView === 'subjects' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'subjects' 
               ? 'bg-blue-600 text-white' 
@@ -32,6 +34,7 @@ const {
         </a>
         <a 
           href="/gy25/courses"
+          aria-current={activeView === 'courses' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'courses' 
               ? 'bg-blue-600 text-white' 
@@ -73,7 +76,7 @@ const {
         Inga resultat hittades
       </div>
     </div>
-  </main>
+  </div>
 </Layout>
 
 <script>
