@@ -42,26 +42,25 @@ gy25Courses.sort((a, b) => a.name.localeCompare(b.name));
         {gy11Courses.map(course => {
           const searchTerms = `${course.name} ${course.code}`.toLowerCase();
           return (
-            <div 
-              class="gy11-card rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow bg-blue-50 hover:bg-blue-100 cursor-pointer"
+            <button
+              type="button"
+              class="compare-card gy11-card"
+              aria-pressed="false"
+              data-compare-card
+              data-version="gy11"
               data-search={searchTerms}
               data-code={course.code}
-              onclick={`window.updateSelection('gy11', '${course.code}', '${course.name}', '${course.points}')`}
+              data-name={course.name}
+              data-points={course.points || undefined}
             >
-              <div class="flex justify-between items-start">
-                <div class="flex-grow">
-                  <h3 class="font-medium text-lg">{course.name}</h3>
-                  <p class="text-gray-500">{course.code}</p>
-                  {course.points && (
-                    <div class="mt-2">
-                      <span class="inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
-                        {course.points}p
-                      </span>
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
+              <span class="block font-medium text-lg">{course.name}</span>
+              <span class="block text-gray-500">{course.code}</span>
+              {course.points && (
+                <span class="mt-2 inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
+                  {course.points}p
+                </span>
+              )}
+            </button>
           );
         })}
       </div>
@@ -74,26 +73,25 @@ gy25Courses.sort((a, b) => a.name.localeCompare(b.name));
         {gy25Courses.map(course => {
           const searchTerms = `${course.name} ${course.code}`.toLowerCase();
           return (
-            <div 
-              class="gy25-card rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow bg-emerald-50 hover:bg-emerald-100 cursor-pointer"
+            <button
+              type="button"
+              class="compare-card gy25-card"
+              aria-pressed="false"
+              data-compare-card
+              data-version="gy25"
               data-search={searchTerms}
               data-code={course.code}
-              onclick={`window.updateSelection('gy25', '${course.code}', '${course.name}', '${course.points}')`}
+              data-name={course.name}
+              data-points={course.points || undefined}
             >
-              <div class="flex justify-between items-start">
-                <div class="flex-grow">
-                  <h3 class="font-medium text-lg">{course.name}</h3>
-                  <p class="text-gray-500">{course.code}</p>
-                  {course.points && (
-                    <div class="mt-2">
-                      <span class="inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
-                        {course.points}p
-                      </span>
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
+              <span class="block font-medium text-lg">{course.name}</span>
+              <span class="block text-gray-500">{course.code}</span>
+              {course.points && (
+                <span class="mt-2 inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-white">
+                  {course.points}p
+                </span>
+              )}
+            </button>
           );
         })}
       </div>
