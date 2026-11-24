@@ -70,7 +70,7 @@ const relatedCourses = subject.data.courses?.filter((c) => c.code !== course.cod
       <div class="space-y-2">
         {relatedCourses.map((related) => (
           <a
-            href={`/gy11/${subject.data.code.toLowerCase()}/${related.code.toLowerCase()}`}
+            href={`/gy11/${subject.data.code.toLowerCase()}/${related.code.toLowerCase()}/`}
             class="block rounded-lg border border-gray-100 bg-gray-50 px-4 py-3 hover:bg-blue-50"
           >
             <div class="flex flex-wrap items-center justify-between gap-2">

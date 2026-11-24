@@ -64,7 +64,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
     <!-- Navigation -->
     <div class="mb-8 flex justify-between items-center print:hidden">
       <a 
-        href="/gy25/courses"
+        href="/gy25/courses/"
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
       >
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -74,7 +74,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
       </a>
 
       <a 
-        href={`/gy25/${subject.data.code.toLowerCase()}`}
+        href={`/gy25/${subject.data.code.toLowerCase()}/`}
         class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium"
       >
         Till ämnet {subject.data.name}

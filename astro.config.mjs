@@ -8,6 +8,8 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://gy25.se',
   output: 'static',
+  // Alla sidor ligger under /sökväg/. Länkar utan snedstreck ger en 308 från Cloudflare (VIK-171).
+  trailingSlash: 'always',
   adapter: cloudflare(),
   integrations: [tailwind(), sitemap()],
 });

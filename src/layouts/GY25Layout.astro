@@ -22,7 +22,7 @@ const {
       <h1 class="text-3xl font-bold text-gray-900 text-center">{activeView === 'subjects' ? 'Ämnen i GY25' : 'Nivåer i GY25'}</h1>
       <nav class="flex gap-4" aria-label="Vy">
         <a 
-          href="/gy25"
+          href="/gy25/"
           aria-current={activeView === 'subjects' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'subjects' 
@@ -33,7 +33,7 @@ const {
           Ämnen
         </a>
         <a 
-          href="/gy25/courses"
+          href="/gy25/courses/"
           aria-current={activeView === 'courses' ? 'page' : undefined}
           class={`px-4 py-2 rounded-lg transition-colors ${
             activeView === 'courses' 

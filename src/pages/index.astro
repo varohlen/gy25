@@ -41,13 +41,13 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
           </p>
           <div class="mt-8 flex justify-center gap-4">
             <a 
-              href="/gy25" 
+              href="/gy25/" 
               class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-700 hover:bg-emerald-800 transition-colors"
             >
               Visa alla ämnen
             </a>
             <a 
-              href="/compare" 
+              href="/compare/" 
               class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition-colors"
             >
               Jämför med GY11
@@ -55,7 +55,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
           </div>
           <p class="mt-7 text-xs text-gray-600">
             Behöver du GY11 under övergången?{" "}
-            <a href="/gy11" class="font-medium text-blue-700 hover:text-blue-800 underline">
+            <a href="/gy11/" class="font-medium text-blue-700 hover:text-blue-800 underline">
               Öppna GY11-vyn
             </a>
           </p>
@@ -102,7 +102,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
               </div>
               <div class="mt-4 pt-4 border-t border-gray-100">
                 <a 
-                  href={`/gy25/${subject.data.code.toLowerCase()}`}
+                  href={`/gy25/${subject.data.code.toLowerCase()}/`}
                   class="text-sm font-medium text-emerald-600 hover:text-emerald-700"
                 >
                   Läs mer om {subject.data.name} →
@@ -155,7 +155,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
 
           <div class="md:col-span-2 text-center mt-8">
             <a 
-              href="/compare" 
+              href="/compare/" 
               class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 transition-colors"
             >
               Jämför fler ämnen
@@ -213,7 +213,7 @@ const mathGy25 = subjects.find(s => s.data.code === 'MATE');
 
           <div class="text-center mt-12">
             <a 
-              href="/om" 
+              href="/om/" 
               class="inline-flex items-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition-colors"
             >
               Läs mer om GY25.se
