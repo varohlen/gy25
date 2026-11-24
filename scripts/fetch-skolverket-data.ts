@@ -10,7 +10,7 @@
  * Fler borttagningar avbryter versionen med fel, om inte --allow-removals anges.
  */
 import axios from 'axios';
-import { createHash, randomUUID } from 'crypto';
+import { randomUUID } from 'crypto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import type { FetchHistoryEntry, VersionKey } from '../src/utils/changelog';
@@ -76,10 +76,7 @@ interface LocalSubjectEntry {
 }
 
 interface VersionState {
-  subjectCount: number;
-  listHash: string;
   updatedAt: string;
-  dateOverride: string | null;
 }
 
 interface FetchState {
@@ -132,27 +129,6 @@ interface FetchHistoryFile {
 
 async function ensureDirectoryExists(dir: string) {
   await fs.mkdir(dir, { recursive: true });
-}
-
-function stableValue(value: unknown): unknown {
-  if (Array.isArray(value)) {
-    return value.map(stableValue);
-  }
-  if (value && typeof value === 'object') {
-    const obj = value as Record<string, unknown>;
-    return Object.keys(obj)
-      .sort()
-      .reduce<Record<string, unknown>>((acc, key) => {
-        acc[key] = stableValue(obj[key]);
-        return acc;
-      }, {});
-  }
-  return value;
-}
-
-function hashJson(value: unknown): string {
-  const stable = JSON.stringify(stableValue(value));
-  return createHash('sha256').update(stable).digest('hex');
 }
 
 async function writeJsonAtomic(filePath: string, data: unknown): Promise<void> {
@@ -326,13 +302,6 @@ async function fetchSubjectDetails(code: string, version: VersionKey): Promise<R
   return response.subject;
 }
 
-function buildListHash(subjects: SubjectSummary[]): string {
-  const minimal = subjects
-    .map(s => ({ code: s.code, modifiedDate: s.modifiedDate ?? '' }))
-    .sort((a, b) => a.code.localeCompare(b.code));
-  return hashJson(minimal);
-}
-
 function createVersionReport(version: VersionKey): VersionReport {
   return {
     version,
@@ -486,12 +455,7 @@ async function processVersion(
     }
   };
 
-  const state: VersionState = {
-    subjectCount: liveSubjects.length,
-    listHash: buildListHash(liveSubjects),
-    updatedAt: now,
-    dateOverride: version === 'gy25' ? GY25_DATE_OVERRIDE || null : null,
-  };
+  const state: VersionState = { updatedAt: now };
 
   const hadChanges = toFetch.length > 0 || toRemove.length > 0;
 

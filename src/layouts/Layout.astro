@@ -28,8 +28,6 @@ const imageUrl = new URL(image, site).href;
 const hasLargeImage = /\.(png|jpe?g|webp)$/i.test(image);
 const isDefaultImage = image === "/og-image.png";
 
-const activeClass = "inline-flex items-center px-1 pt-1 border-b-2 border-blue-500 text-sm font-medium text-gray-900";
-const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700";
 
 // Huvudmenyn. Aktiv länk: aria-current och bakgrund med minst 4.5:1 mot vit text.
 const navLinks = [

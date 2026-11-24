@@ -3,6 +3,7 @@ import { safeHtml } from '../utils/sanitize-html';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import SectionToggles from './SectionToggles.astro';
 import CopyLinkButton from './CopyLinkButton.astro';
 
 interface Props {
@@ -40,17 +41,6 @@ interface SubjectData {
 const { course, subject } = Astro.props;
 const relatedCourses = (subject.data as SubjectData).courses?.filter(c => c.code !== course.code) || [];
 
-// Process knowledge requirements to add grade levels
-const processedRequirements = (subject.data as SubjectData).knowledgeRequirements?.map(req => {
-  let gradeStep: 'E' | 'C' | 'A' | undefined;
-  const text = req.text;
-  
-  if (text.includes('För betyget E') || text.includes('Betyget E')) gradeStep = 'E';
-  else if (text.includes('För betyget C') || text.includes('Betyget C')) gradeStep = 'C';
-  else if (text.includes('För betyget A') || text.includes('Betyget A')) gradeStep = 'A';
-  
-  return { text, gradeStep };
-}) || [];
 
 // Many levels have an empty description ("<p></p>"); only show it when it has text
 const hasDescription = (course.description ?? '').replace(/<[^>]*>|&nbsp;|\s/g, '') !== '';
@@ -107,9 +97,8 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
   )}
   {(subject.data as SubjectData).knowledgeRequirements && (
     <GradeRequirements
-      requirements={processedRequirements}
+      requirements={(subject.data as SubjectData).knowledgeRequirements ?? []}
       title="Betygskriterier"
-      defaultView="list"
       anchorId="betygskriterier"
     />
   )}
@@ -165,25 +154,4 @@ const subjectHref = `/gy25/${(subject.data as SubjectData).code.toLowerCase()}/`
   )}
 </div>
 
-<style>
-  .section-toggle svg {
-    transition: transform 150ms;
-  }
-  .section-toggle[aria-expanded="true"] svg {
-    transform: rotate(180deg);
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll<HTMLButtonElement>('.section-toggle[aria-controls]').forEach((button) => {
-      button.addEventListener('click', () => {
-        const isExpanded = button.getAttribute('aria-expanded') === 'true';
-        button.setAttribute('aria-expanded', String(!isExpanded));
-        // hidden tar bort innehållet ur tabbordningen
-        const content = document.getElementById(button.getAttribute('aria-controls') ?? '');
-        if (content) content.hidden = isExpanded;
-      });
-    });
-  });
-</script>
+<SectionToggles />

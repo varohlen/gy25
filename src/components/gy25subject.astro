@@ -2,6 +2,7 @@
 import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 import GradeRequirements from './gradereq.astro';
+import SectionToggles from './SectionToggles.astro';
 import { validityText } from '../utils/validity';
 import CopyLinkButton from './CopyLinkButton.astro';
 
@@ -21,28 +22,7 @@ const {
   showKnowledgeRequirements = true
 } = Astro.props;
 
-function getSubjectColor() {
-  const categories = subject.data.categories?.map(c => c.name.toLowerCase()) || [];
-  if (categories.includes('yrkesämne')) {
-    return 'bg-blue-50';       // Light blue
-  } else if (categories.includes('vissa ämne')) {
-    return 'bg-orange-50';    // Light peach
-  } else {
-    return 'bg-emerald-50';   // Soft emerald
-  }
-}
 
-// Process knowledge requirements to add grade levels
-const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
-  let gradeStep: 'E' | 'C' | 'A' | undefined;
-  const text = req.text;
-  
-  if (text.includes('För betyget E') || text.includes('Betyget E')) gradeStep = 'E';
-  else if (text.includes('För betyget C') || text.includes('Betyget C')) gradeStep = 'C';
-  else if (text.includes('För betyget A') || text.includes('Betyget A')) gradeStep = 'A';
-  
-  return { text, gradeStep };
-}) || [];
 
 ---
 
@@ -225,31 +205,9 @@ const processedRequirements = subject.data.knowledgeRequirements?.map(req => {
         gradeStep: req.gradeStep || ''  // Ensure gradeStep is always a string
       }))}
       title="Betygskriterier"
-      defaultView="list"
       anchorId="betygskriterier"
     />
   )}
 </div>
 
-<style>
-  .section-toggle svg {
-    transition: transform 150ms;
-  }
-  .section-toggle[aria-expanded="true"] svg {
-    transform: rotate(180deg);
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll<HTMLButtonElement>('.section-toggle[aria-controls]').forEach((button) => {
-      button.addEventListener('click', () => {
-        const isExpanded = button.getAttribute('aria-expanded') === 'true';
-        button.setAttribute('aria-expanded', String(!isExpanded));
-        // hidden tar bort innehållet ur tabbordningen
-        const content = document.getElementById(button.getAttribute('aria-controls') ?? '');
-        if (content) content.hidden = isExpanded;
-      });
-    });
-  });
-</script>
+<SectionToggles />
