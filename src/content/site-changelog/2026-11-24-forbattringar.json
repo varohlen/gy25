@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-24",
+  "title": "Många små förbättringar",
+  "category": "Funktion",
+  "summary": "Efter en genomgång av hela webbplatsen har vi gjort en rad mindre förbättringar. Det mesta märks bara i detaljerna, men sidorna blir lättare att läsa, länka till och skriva ut, särskilt på mobil och med tangentbord.",
+  "details": [
+    "Ämnes- och nivåsidor visar källa, SKOLFS-nummer, datum och hur länge ämnesplanen gäller.",
+    "Nivåsidor visar nivåbeskrivningen och förklarar att betyget sätts på ämnet som helhet.",
+    "Varje sektion och betygssteg har en länk du kan kopiera, till exempel direkt till kriterierna för betyget C.",
+    "Sökningen matchar ord för ord, visar antal träffar och går att länka till.",
+    "Sidorna går att skriva ut utan meny och knappar, med ämne och källa överst.",
+    "Jämförelsen och menyn fungerar bättre på mobil och med tangentbord, och kontrasten är högre.",
+    "Ändringsloggen för läroplansdata visar de senast ändrade ämnena först, och länken från ett ämne leder direkt till det.",
+    "GY11-sidorna anger rätt slutdatum, 30 juni 2030, och förklarar vilken läroplan som gäller.",
+    "Bakom kulisserna: säkrare hantering av texten från Skolverket, typsnitt från gy25.se i stället för Google och en datasynk som inte kan radera ämnen av misstag."
+  ]
+}
