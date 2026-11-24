@@ -33,13 +33,16 @@ const defaultClass = "inline-flex items-center px-1 pt-1 border-b-2 border-trans
 
 // Huvudmenyn. Aktiv länk: aria-current och bakgrund med minst 4.5:1 mot vit text.
 const navLinks = [
-  { href: '/gy25', label: 'Ämnen och nivåer', active: 'bg-emerald-700 hover:bg-emerald-800' },
-  { href: '/gy11', label: 'GY11', active: 'bg-emerald-700 hover:bg-emerald-800' },
-  { href: '/compare', label: 'Jämför med GY11', active: 'bg-blue-600 hover:bg-blue-700' },
-  { href: '/andringar', label: 'Ändringar', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/gy25/', label: 'Ämnen och nivåer', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/gy11/', label: 'GY11', active: 'bg-emerald-700 hover:bg-emerald-800' },
+  { href: '/compare/', label: 'Jämför med GY11', active: 'bg-blue-600 hover:bg-blue-700' },
+  { href: '/andringar/', label: 'Ändringar', active: 'bg-emerald-700 hover:bg-emerald-800' },
 ].map((link) => {
-  const isSection = currentPath === link.href || currentPath.startsWith(`${link.href}/`);
-  const isPage = currentPath.replace(/\/$/, '') === link.href;
+  // href slutar alltid med snedstreck; jämför utan det så att /gy25 och /gy25/ räknas lika.
+  const base = link.href.replace(/\/$/, '');
+  const path = currentPath.replace(/\/$/, '');
+  const isSection = path === base || path.startsWith(`${base}/`);
+  const isPage = path === base;
   const ariaCurrent: 'page' | 'true' | undefined = isPage ? 'page' : isSection ? 'true' : undefined;
   return { ...link, isSection, ariaCurrent };
 });
@@ -160,11 +163,11 @@ const navLinks = [
           <div class="flex flex-col space-y-3">
             <h3 class="text-sm font-semibold text-gray-900">Navigering</h3>
             <nav class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2" aria-label="Sidfot">
-              <a href="/gy25" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY25</a>
-              <a href="/om" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
-              <a href="/gy11" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY11</a>
-              <a href="/andringar" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Ändringar</a>
-              <a href="/compare" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Jämförelsevy</a>
+              <a href="/gy25/" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY25</a>
+              <a href="/om/" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Om sidan</a>
+              <a href="/gy11/" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">GY11</a>
+              <a href="/andringar/" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Ändringar</a>
+              <a href="/compare/" class="text-sm text-gray-500 hover:text-gray-700 transition-colors">Jämförelsevy</a>
             </nav>
           </div>
 

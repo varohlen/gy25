@@ -66,14 +66,14 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 >
   <div class="max-w-4xl mx-auto px-4 mt-8 mb-8">
     <div class="mb-8 flex justify-between items-center print:hidden">
-      <a href="/gy11/courses" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
+      <a href="/gy11/courses/" class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
         </svg>
         Tillbaka till GY11-kurser
       </a>
 
-      <a href={`/gy11/${subject.data.code.toLowerCase()}`} class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
+      <a href={`/gy11/${subject.data.code.toLowerCase()}/`} class="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm font-medium">
         Till ämnet {subject.data.name}
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />

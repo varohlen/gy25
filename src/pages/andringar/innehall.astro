@@ -150,7 +150,7 @@ function formatHistoryRangeLabel(
                 GY25 sedan senaste uppdateringen.
             </p>
             <a
-                href="/andringar/webbplats"
+                href="/andringar/webbplats/"
                 class="inline-flex mt-4 text-sm font-medium text-blue-700 hover:text-blue-800"
             >
                 Gå till changelog för webbplatsen
@@ -329,7 +329,7 @@ function formatHistoryRangeLabel(
                                                 <div>
                                                     <h3 class="text-lg font-semibold text-gray-900">
                                                         <a
-                                                            href={`/gy25/${entry.code.toLowerCase()}`}
+                                                            href={`/gy25/${entry.code.toLowerCase()}/`}
                                                             class="hover:text-blue-700"
                                                         >
                                                             {entry.name}
@@ -502,7 +502,7 @@ function formatHistoryRangeLabel(
                                         <div class="flex flex-wrap items-center justify-between gap-2">
                                             <p class="text-sm text-gray-800">
                                                 <a
-                                                    href={`/gy25/${entry.code.toLowerCase()}`}
+                                                    href={`/gy25/${entry.code.toLowerCase()}/`}
                                                     class="font-medium hover:text-blue-700"
                                                 >
                                                     {entry.name}
@@ -649,7 +649,7 @@ function formatHistoryRangeLabel(
                                                     .slice(0, 24)
                                                     .map((code) => (
                                                         <a
-                                                            href={`/gy25/${code.toLowerCase()}`}
+                                                            href={`/gy25/${code.toLowerCase()}/`}
                                                             class="inline-flex rounded-md border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 hover:text-blue-700"
                                                             title={code}
                                                         >
