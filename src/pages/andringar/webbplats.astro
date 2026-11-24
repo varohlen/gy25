@@ -6,7 +6,8 @@ import { toSvDate } from '../../utils/changelog';
 const siteChangelog = await getCollection('site-changelog');
 const entries = [...siteChangelog]
   .map((entry) => entry.data)
-  .sort((a, b) => b.date.localeCompare(a.date));
+  // Nyast först; titeln avgör ordningen mellan poster med samma datum.
+  .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title, 'sv'));
 ---
 
 <Layout title="Ändringar på webbplatsen" description="Changelog för GY25.se: nya funktioner, rättningar och förbättringar på webbplatsen.">
