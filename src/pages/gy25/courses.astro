@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
 import GY25Layout from '../../layouts/GY25Layout.astro';
+import { gy25SubjectBg } from '../../utils/subject-colors';
 import { validityBadge, badgeClasses } from '../../utils/validity';
 
 interface Course {
@@ -37,16 +38,6 @@ courses.sort((a, b) => {
 const nameCounts = new Map<string, number>();
 subjects.forEach(s => nameCounts.set(s.data.name, (nameCounts.get(s.data.name) ?? 0) + 1));
 
-function getSubjectColor(subject: SubjectWithCourses) {
-  const categories = subject.data.categories?.map(c => c.name.toLowerCase()) || [];
-  if (categories.includes('yrkesämne')) {
-    return 'bg-blue-50';       // Light blue
-  } else if (categories.includes('vissa ämne')) {
-    return 'bg-orange-50';    // Light peach
-  } else {
-    return 'bg-emerald-50';   // Soft emerald
-  }
-}
 
 let subjectIndex = -1;
 let currentSubject = '';
@@ -82,7 +73,7 @@ let currentSubject = '';
           <>
           {isNewSubject && currentSubjectData && (
             <div
-              class={`${getSubjectColor(currentSubjectData)} rounded-t-lg px-4 py-3 border-b border-gray-200 shadow-sm mt-8 first:mt-0`}
+              class={`${gy25SubjectBg(currentSubjectData.data.categories)} rounded-t-lg px-4 py-3 border-b border-gray-200 shadow-sm mt-8 first:mt-0`}
               data-search-heading={course.subjectCode}
             >
               <h2 class="text-lg font-semibold text-gray-900">

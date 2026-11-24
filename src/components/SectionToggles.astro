@@ -1,0 +1,29 @@
+---
+/**
+ * Fäll-ihop-knapparna i ämnes- och nivåvyn: knappar med klassen section-toggle,
+ * aria-expanded och aria-controls. Läggs in en gång i komponenter som använder dem.
+ */
+---
+
+<style is:global>
+  .section-toggle svg {
+    transition: transform 150ms;
+  }
+  .section-toggle[aria-expanded="true"] svg {
+    transform: rotate(180deg);
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll<HTMLButtonElement>('.section-toggle[aria-controls]').forEach((button) => {
+      button.addEventListener('click', () => {
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', String(!isExpanded));
+        // hidden tar bort innehållet ur tabbordningen
+        const content = document.getElementById(button.getAttribute('aria-controls') ?? '');
+        if (content) content.hidden = isExpanded;
+      });
+    });
+  });
+</script>

@@ -1,7 +1,7 @@
 ---
 import { safeHtml } from '../../../utils/sanitize-html';
 import Layout from '../../../layouts/Layout.astro';
-import GradeReq from '../../../components/gradereq.astro';
+import { buildGradeMap, type GradeStep } from '../../../utils/grade-criteria';
 import GY11SubjectSection from '../../../components/comparison/GY11SubjectSection.astro';
 import GY25SubjectSection from '../../../components/comparison/GY25SubjectSection.astro';
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
@@ -104,71 +104,13 @@ interface KnowledgeRequirement {
   gradeStep: string;
 }
 
-type GradeStep = 'E' | 'C' | 'A';
-type GradeData = { paragraphs: string[] };
-type GradeMap = Record<GradeStep, GradeData>;
-
-// Function to extract paragraphs from HTML content
-function extractParagraphs(html: string): string[] {
-  const paragraphs: string[] = [];
-  const matches = html.match(/<p>(.*?)<\/p>/g);
-  if (matches) {
-    matches.forEach(p => {
-      // Skip D and B grade descriptions
-      if (!p.includes('bedöms sammantaget vara mellan')) {
-        // Remove the p tags but keep the inner HTML
-        const content = p.replace(/<p[^>]*>|<\/p>/g, '');
-        paragraphs.push(content);
-      }
-    });
-  }
-  return paragraphs;
-}
-
-// Process GY11 requirements only for course comparison
-const gy11GradeMap: GradeMap = {
-  E: { paragraphs: [] },
-  C: { paragraphs: [] },
-  A: { paragraphs: [] }
-};
-
-if (!isSubjectComparison && gy11Course.knowledgeRequirements) {
-  gy11Course.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
-    const step = req.gradeStep as GradeStep;
-    if (step in gy11GradeMap) {
-      gy11GradeMap[step].paragraphs = extractParagraphs(req.text);
-    }
-  });
-}
-
-// Process GY25 requirements from parent subject only for course comparison
-const gy25GradeMap: GradeMap = {
-  E: { paragraphs: [] },
-  C: { paragraphs: [] },
-  A: { paragraphs: [] }
-};
-
-if (!isSubjectComparison && gy25ParentSubject?.data.knowledgeRequirements) {
-  gy25ParentSubject.data.knowledgeRequirements.forEach((req: KnowledgeRequirement) => {
-    const step = req.gradeStep as GradeStep;
-    if (step in gy25GradeMap) {
-      gy25GradeMap[step].paragraphs = extractParagraphs(req.text);
-    }
-  });
-}
-
-// Get the maximum number of criteria for each course (only for course comparison)
-const gy11MaxCriteria = !isSubjectComparison ? Math.max(
-  gy11GradeMap.E.paragraphs.length,
-  gy11GradeMap.C.paragraphs.length,
-  gy11GradeMap.A.paragraphs.length
-) : 0;
-
-const gy25MaxCriteria = !isSubjectComparison ? Math.max(
-  gy25GradeMap.E.paragraphs.length,
-  gy25GradeMap.C.paragraphs.length,
-  gy25GradeMap.A.paragraphs.length
-) : 0;
+// Betygskriterierna per betygssteg, bara vid jämförelse av kurs och nivå
+const { gradeMap: gy11GradeMap, maxCriteria: gy11MaxCriteria } = buildGradeMap(
+  isSubjectComparison ? [] : gy11Course.knowledgeRequirements,
+);
+const { gradeMap: gy25GradeMap, maxCriteria: gy25MaxCriteria } = buildGradeMap(
+  isSubjectComparison ? [] : gy25ParentSubject?.data.knowledgeRequirements,
+);
 
 ---
 
@@ -253,7 +195,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="prose prose-blue max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
                       <div set:html={safeHtml(gy11Course.centralContent?.text)} />
                     </div>
-                  ) : section.id === 'grade_requirements' ? (
+                  ) : (
                     <div class="space-y-4">
                       <div class="flex items-center justify-between mb-4">
                         <div class="flex gap-2">
@@ -318,12 +260,6 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         </div>
                       </div>
                     </div>
-                  ) : (
-                    <GradeReq 
-                      requirements={gy11Course.knowledgeRequirements} 
-                      title="Betygskriterier GY11"
-                      defaultView="table"
-                    />
                   )}
                 </div>
               </div>
@@ -341,7 +277,7 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                     <div class="prose prose-emerald max-w-none [&_p]:mb-6 [&_ul]:list-disc [&_ul]:pl-8 [&_ul]:mb-6 [&_li]:mb-3 [&_li]:pl-2 [&_ul]:pt-4">
                       <div set:html={safeHtml(gy25Course.centralContent?.text)} />
                     </div>
-                  ) : section.id === 'grade_requirements' ? (
+                  ) : (
                     <div class="space-y-4">
                       <div class="flex items-center justify-between mb-4">
                         <div class="flex gap-2">
@@ -406,12 +342,6 @@ const gy25MaxCriteria = !isSubjectComparison ? Math.max(
                         </div>
                       </div>
                     </div>
-                  ) : (
-                    <GradeReq 
-                      requirements={gy25ParentSubject?.data.knowledgeRequirements} 
-                      title="Betygskriterier GY25"
-                      defaultView="table"
-                    />
                   )}
                 </div>
               </div>

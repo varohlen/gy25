@@ -1,7 +1,8 @@
 ---
 import { safeHtml } from '../../utils/sanitize-html';
-import { getCollection, type CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import GY25Layout from '../../layouts/GY25Layout.astro';
+import { gy25SubjectBg } from '../../utils/subject-colors';
 import { validityBadge, badgeClasses } from '../../utils/validity';
 import { pluralize } from '../../utils/plural';
 
@@ -14,17 +15,6 @@ subjects.sort((a, b) => a.data.name.localeCompare(b.data.name) || a.data.startDa
 const nameCounts = new Map<string, number>();
 subjects.forEach(s => nameCounts.set(s.data.name, (nameCounts.get(s.data.name) ?? 0) + 1));
 
-// Function to determine card color based on subject type
-function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
-  const categories = subject.data.categories?.map((c: { name: string }) => c.name.toLowerCase()) || [];
-  if (categories.includes('yrkesämne')) {
-    return 'bg-blue-50 hover:bg-blue-100';       // Light blue (switched from emerald)
-  } else if (categories.includes('vissa ämne')) {
-    return 'bg-orange-50 hover:bg-orange-100';   // Light peach
-  } else {
-    return 'bg-emerald-50 hover:bg-emerald-100'; // Soft emerald (switched from blue)
-  }
-}
 ---
 
 <GY25Layout 
@@ -71,7 +61,7 @@ function getCardColor(subject: CollectionEntry<'gy25-subjects'>) {
 
       return (
         <div 
-          class={`min-w-0 rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${getCardColor(subject)}`}
+          class={`min-w-0 rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${gy25SubjectBg(subject.data.categories, { hover: true })}`}
           data-search={searchTerms}
         >
           <div class="flex justify-between items-start gap-2 mb-4">

@@ -2,6 +2,7 @@
 import { safeHtml } from '../utils/sanitize-html';
 import type { CollectionEntry } from 'astro:content';
 import CopyLinkButton from './CopyLinkButton.astro';
+import { buildGradeMap, type GradeStep } from '../utils/grade-criteria';
 
 interface Props {
   requirements: {
@@ -9,62 +10,21 @@ interface Props {
     gradeStep?: string;
   }[];
   title?: string;
-  defaultView?: 'list' | 'table';
   /** Ger sektionen och betygsstegen id (#betyg-e osv.). Bara en per sida. */
   anchorId?: string;
 }
 
-type GradeStep = 'E' | 'C' | 'A';
-type GradeData = { paragraphs: string[] };
-type GradeMap = Record<GradeStep, GradeData>;
 
 const { 
   requirements,
   title = "Betygskriterier",
-  defaultView = 'list',
   anchorId
 } = Astro.props;
 
 const gradeAnchor = (gradeStep?: string) =>
   anchorId && gradeStep && ['E', 'C', 'A'].includes(gradeStep) ? `betyg-${gradeStep.toLowerCase()}` : undefined;
 
-// Function to extract paragraphs from HTML content
-function extractParagraphs(html: string): string[] {
-  const paragraphs: string[] = [];
-  const matches = html.match(/<p>(.*?)<\/p>/g);
-  if (matches) {
-    matches.forEach(p => {
-      // Skip D and B grade descriptions
-      if (!p.includes('bedöms sammantaget vara mellan')) {
-        // Remove the p tags but keep the inner HTML
-        const content = p.replace(/<p[^>]*>|<\/p>/g, '');
-        paragraphs.push(content);
-      }
-    });
-  }
-  return paragraphs;
-}
-
-// Process requirements into grade levels
-const gradeMap: GradeMap = {
-  E: { paragraphs: [] },
-  C: { paragraphs: [] },
-  A: { paragraphs: [] }
-};
-
-requirements.forEach(req => {
-  const step = req.gradeStep as GradeStep;
-  if (step in gradeMap) {
-    gradeMap[step].paragraphs = extractParagraphs(req.text);
-  }
-});
-
-// Get the maximum number of criteria across all grade levels
-const maxCriteria = Math.max(
-  gradeMap.E.paragraphs.length,
-  gradeMap.C.paragraphs.length,
-  gradeMap.A.paragraphs.length
-);
+const { gradeMap, maxCriteria } = buildGradeMap(requirements);
 
 // Unika id:n per instans (aria-controls)
 const uid = `gradereq-${Math.random().toString(36).slice(2, 8)}`;

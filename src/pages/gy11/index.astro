@@ -1,18 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import GY11Layout from '../../layouts/GY11Layout.astro';
+import { gy11SubjectBg } from '../../utils/subject-colors';
 import { pluralize } from '../../utils/plural';
 
 const subjects = await getCollection('gy11-subjects');
 subjects.sort((a, b) => a.data.name.localeCompare(b.data.name, 'sv-SE'));
 
-function getCardColor(subject: (typeof subjects)[number]) {
-  const categories = subject.data.categories?.map((c) => c.name.toLowerCase()) || [];
-  if (categories.includes('yrkesämne')) {
-    return 'bg-blue-50 hover:bg-blue-100';
-  }
-  return 'bg-slate-50 hover:bg-slate-100';
-}
 ---
 
 <GY11Layout title="Ämnen i GY11" description={`Alla ${subjects.length} ämnen i GY11 med kurser, syfte och kunskapskrav. GY11 gäller under övergången till GY25.`} activeView="subjects" searchPlaceholder="Sök på ämne eller ämneskod...">
@@ -27,7 +21,7 @@ function getCardColor(subject: (typeof subjects)[number]) {
         .toLowerCase();
 
       return (
-        <div class={`rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${getCardColor(subject)}`} data-search={searchTerms}>
+        <div class={`rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow h-full flex flex-col subject-card ${gy11SubjectBg(subject.data.categories)}`} data-search={searchTerms}>
           <div class="flex justify-between items-start mb-3">
             <div class="flex-grow">
               <div class="flex items-baseline gap-3 mb-1">
